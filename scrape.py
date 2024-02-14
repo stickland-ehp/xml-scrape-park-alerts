@@ -63,3 +63,7 @@ for i in range(10):
       "details": details
     })
     final_data = final_data.append(data, ignore_index = True)
+
+    # Print the final_data to file
+    with open("alerts.json", "w") as f:
+        print(json.dumps(final_data), file=f)
