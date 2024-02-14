@@ -25,30 +25,30 @@ for i in range(10):
     details= []
 
     while True:
-    try:
-        title.append(" ".join(child.find('title').text))
-    except:
-        title.append(" ")
+        try:
+            title.append(" ".join(child.find('title').text))
+        except:
+            title.append(" ")
 
-    try:
-        alert_url.append(" ".join(child.find('url').text))
-    except:
-        alert_url.append(" ")
+        try:
+            alert_url.append(" ".join(child.find('url').text))
+        except:
+            alert_url.append(" ")
 
-    try:
-        description.append(" ".join(child.find('description').text))
-    except:
-        description.append(" ")
+        try:
+            description.append(" ".join(child.find('description').text))
+        except:
+            description.append(" ")
 
-    try:   
-        details.append(" ".join(child.find('details').text))
-    except:
+        try:   
+            details.append(" ".join(child.find('details').text))
+        except:
         details.append(" ")
 
-    # Next sibling of child, here: entry 
-    child = child.find_next_sibling('alert')
-    if not child:  # Use break statement if no more alerts found.
-        break
+        # Next sibling of child, here: alert 
+        child = child.find_next_sibling('alert')
+        if not child:  # Use break statement if no more alerts found.
+            break
     
    data=pd.DataFrame({
          "title":title,
