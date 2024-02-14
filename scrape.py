@@ -43,7 +43,7 @@ for i in range(10):
         try:   
             details.append(" ".join(child.find('details').text))
         except:
-        details.append(" ")
+            details.append(" ")
 
         # Next sibling of child, here: alert 
         child = child.find_next_sibling('alert')
