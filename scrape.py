@@ -50,13 +50,13 @@ for i in range(10):
         if not child:  # Use break statement if no more alerts found.
             break
     
-   data=pd.DataFrame({
+    data=pd.DataFrame({
          "title":title,
          "url":alert_url,
          "description":description,
          "details":details})
 
-   final_data=final_data.append(data, ignore_index=True)
+    final_data=final_data.append(data, ignore_index=True)
 
 # Print the final_data to file (JSON format)
 final_data.to_json(r'alerts.json', orient='records')
