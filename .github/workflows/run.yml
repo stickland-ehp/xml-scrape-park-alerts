@@ -40,3 +40,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "update data" -a --allow-empty        
+          
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  
