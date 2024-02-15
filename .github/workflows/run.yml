@@ -2,7 +2,7 @@ name: Fetch XML
 
 on:
  schedule:
-   - cron:  '0 10 * * *' # This runs at 10:00 AM UTC each day.
+  - cron:  '0 10 * * *' # This runs at 10:00 AM UTC each day.
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
