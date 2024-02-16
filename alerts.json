@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-02-15 10:06:52"
+    "alerts_count": 181,
+    "script_run_time": "2024-02-16 10:06:39"
   },
   "alerts": [
     {
@@ -1096,14 +1096,14 @@
       ]
     },
     {
-      "title": "Tallebudgera Creek walking track - temporary intermittent closures",
+      "title": "Tallebudgera Creek walking track - track changes",
       "alert_id": "23368",
       "url": "https://parks.des.qld.gov.au/park-alerts/23368",
-      "description": "Work has commenced to permanently realign a section of the Tallebudgera Creek walking track further upslope to avoid the unstable landslide area and reduce track closure periods into the future.",
-      "details": "<p>Work has commenced to permanently realign a section of the Tallebudgera Creek walking track further upslope to avoid the unstable landslide area and reduce track closure periods into the future.</p> <p>While most work will be undertaken away from the current walking track, at some points during construction the walking track will need to be closed to ensure visitor safety. These closures are likely to be for 1-2 days at a time, however the&nbsp;contractor will endeavour to keep them&nbsp;as short as possible. <strong>The track will remain open on Fridays,&nbsp;weekends and over the Christmas/New Year period from Friday 15 December to Sunday 7 January.</strong></p> <p>Visitors may also encounter small machinery moving between the Vantage Point Drive / Ocean Parade entry and the worksite.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2023-12-13",
+      "description": "Construction of the new section of Tallebudgera Creek walking track further upslope is complete and work will soon commence to remove the old section of walking track, including the timber bridges.",
+      "details": "<p>Construction of the new section of Tallebudgera Creek walking track further upslope is complete and work will soon commence to remove the old section of walking track, including the timber bridges.</p> <p>While most work will be undertaken away from the new walking track, at some points during removal the walking track will need to be closed for short periods to ensure visitor safety while small machinery moves between the Vantage Point Drive / Ocean Parade entry and the worksite.</p> <p>The new track remains a Grade 3 standard&mdash;suitable for most ages and fitness levels, but may have short steep hill sections and many steps.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Apologies for any inconvenience and thank you for your understanding while we undertake this work to reduce future track closures.</p>",
+      "start_date": "2024-02-16",
       "start_effective_date": "2023-10-23",
-      "end_date": "2024-02-16",
+      "end_date": "2024-04-05",
       "parks": [
         {
           "id": "148540",
@@ -1652,12 +1652,12 @@
       ]
     },
     {
-      "title": "Temporary closure due to impacts from ex-Tropical Cyclone Jasper: Macalister Range and Kuranda national parks",
+      "title": "Temporary closure due to impacts from ex-Tropical Cyclone Jasper: Macalister Range National Park",
       "alert_id": "23531",
       "url": "https://parks.des.qld.gov.au/park-alerts/23531",
-      "description": "Due to impacts from ex-Tropical Cyclone Jasper, national parks listed below are temporarily closed until further notice:",
-      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, national parks listed below are temporarily closed until further notice:</p> <ul> <li>Kuranda National Park</li> <li>Macalister Range National Park.</li> </ul> <p>The closures include all visitor facilities such as walking tracks, mountain bike tracks,&nbsp;day-use areas and national park roads.</p> <p>Monitor park alerts for up-to-date information.</p> <p>&nbsp;</p>",
-      "start_date": "2024-02-01",
+      "description": "Due to impacts from ex-Tropical Cyclone Jasper, Macalister Range National Park is temporarily closed until further notice.",
+      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Macalister Range National Park is temporarily closed until further notice.</p> <p>The closure&nbsp;includes all visitor facilities such as walking tracks, mountain bike tracks, day-use areas and national park roads.</p> <p>Monitor park alerts for up-to-date information.</p> <p>&nbsp;</p>",
+      "start_date": "2024-02-16",
       "start_effective_date": "2023-12-11",
       "end_date": "2024-03-01",
       "parks": [
@@ -1665,11 +1665,6 @@
           "id": "149397",
           "name": "Macalister Range National Park",
           "url": "https://parks.des.qld.gov.au/parks/macalister-range"
-        },
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.des.qld.gov.au/parks/kuranda-mowbray"
         }
       ]
     },
@@ -1718,14 +1713,14 @@
       ]
     },
     {
-      "title": "Temporary camping and day-use area closure: Blencoe Falls camping and day-use area, Girringun National Park",
+      "title": "Temporary closure: Blencoe Falls camping and day-use area, Girringun National Park",
       "alert_id": "23551",
       "url": "https://parks.des.qld.gov.au/park-alerts/23551",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, Blencoe Falls camping and day-use area remains closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Blencoe Falls camping and day-use area remains closed until further notice.</p> <p>Monitor park alerts for up-to-date information on closures.</p> <p>&nbsp;</p>",
-      "start_date": "2024-01-22",
+      "start_date": "2024-02-16",
       "start_effective_date": "2023-12-11",
-      "end_date": "2024-02-16",
+      "end_date": "2024-02-26",
       "parks": [
         {
           "id": "149013",
@@ -1762,7 +1757,7 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23559",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.</p> <p>Monitor park alerts for up-to-date information on closures.</p> <p>For up-to-date weather information, see <a href=\"http://www.bom.gov.au/?ref=hdr\">Bureau of Meteorolgy</a>.</p>",
-      "start_date": "2024-01-29",
+      "start_date": "2024-02-16",
       "start_effective_date": "2023-12-12",
       "end_date": "2024-04-01",
       "parks": [
@@ -1784,11 +1779,6 @@
         {
           "id": "322362",
           "name": "Monkhouse Timber Reserve",
-          "url": ""
-        },
-        {
-          "id": "322452",
-          "name": "Goldsborough Valley State Forest",
           "url": ""
         }
       ]
@@ -2084,14 +2074,14 @@
       ]
     },
     {
-      "title": "Visitor facility update: Barron Gorge National Park",
+      "title": "Temporary walking track closure, Smith and Yalgobie tracks: Barron Gorge National Park",
       "alert_id": "23607",
       "url": "https://parks.des.qld.gov.au/park-alerts/23607",
-      "description": "Due to impacts from ex-Tropical Cyclone Jasper, please see below information for the status of visitor facilities in Barron Gorge National Park.",
-      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, please see below information for the status of visitor facilities in Barron Gorge National Park.</p> <ul> <li>Din Din Barron Falls lookout and boardwalk - open</li> <li>Garndal Garndal weir track (Stoney Creek) - open</li> <li>Barron Gorge long distance walking track network: <ul> <li>Douglas track from Douglas trailhead (Stony Creek) to Speewah camping area trailhead - open</li> <li>McDonald&nbsp;track - open</li> <li>All remaining tracks on the long distance network - closed</li> </ul> </li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-01-31",
+      "description": "Visitors are advised of 2 temporary walking track closures on the Barron Gorge National Park long distance walking track network.",
+      "details": "<p>Visitors are advised of 2 temporary walking track closures on the Barron Gorge National Park long distance walking track network.</p> <p>The following walking tracks are temporarily closed until further notice:</p> <ul> <li>Smith walking track</li> <li>Yalgobie walking track.</li> </ul> <p>These walking tracks will be re-opened when it is safe to do so.</p> <p>A map of the Barron Gorge long distance walking track network can be found <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0034/159199/barron-gorge-map.pdf\">here.</a></p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-02-16",
       "start_effective_date": "2023-12-22",
-      "end_date": "2024-03-01",
+      "end_date": "2024-03-15",
       "parks": [
         {
           "id": "148548",
@@ -2247,9 +2237,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23641",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, some walking tracks at Earl Hill Conservation Park remain closed due to landslips. See below for more information on Earl Hill Conservation Parks walking tracks.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, some walking tracks at Earl Hill Conservation Park remain closed due to landslips. See below for more information on Earl Hill Conservation Parks walking tracks.</p> <p>The Woodland walking track is partially closed. The section from the trailhead on Flagship Drive up to the junction with the Rainforest walking track is closed. From the junction to the summit is open and can be accessed from the Rainforest walking track. The partial closure is due to a landslip that requires earth stabilisation work to make it safe.&nbsp;</p> <p>The following Earl Hill Conservation Park walking tracks are OPEN:</p> <ul> <li>Cycad walking track</li> <li>Rainforest walking track</li> <li>Lizard walking track.</li> </ul> <p>A map of Earl Hill&nbsp;Conservation Park walking tracks can be found <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0024/263247/earl-hill-conservation-park-map.pdf\">here</a>.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-09",
+      "start_date": "2024-02-16",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-02-29",
+      "end_date": "2024-03-29",
       "parks": [
         {
           "id": "263080",
@@ -2281,9 +2271,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23643",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, Kirrama National Park is temporarily closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Kirrama National Park is temporarily closed until further notice.</p> <p>The closure includes all walking tracks in the national park.&nbsp;Please monitor park alerts for up-to-date information.&nbsp;</p>",
-      "start_date": "2024-01-22",
+      "start_date": "2024-02-16",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-02-16",
+      "end_date": "2024-02-26",
       "parks": [
         {
           "id": "148179",
@@ -2951,28 +2941,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Wallaman Falls walking track (Djyinda walk), within Girringun National Park",
-      "alert_id": "23769",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23769",
-      "description": "The walking track to Wallaman Falls (Djyinda walk) is closed for safety while rangers assess damage and erosion following ex-Tropical Cyclone Kirrily. Please follow safety signage and directions from rangers until the track is deemed safe to walk. The walking track is expected to reopen Thursday 15 February 2024.",
-      "details": "<p>The walking track to Wallaman Falls (Djyinda walk) is closed for safety while rangers assess damage and erosion following ex-Tropical Cyclone Kirrily. Please follow safety signage and directions from rangers until the track is deemed safe to walk. The walking track is expected to reopen Thursday 15 February 2024.</p>",
-      "start_date": "2024-02-05",
-      "start_effective_date": "2024-02-05",
-      "end_date": "2024-02-15",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun-wallaman"
-        }
-      ]
-    },
-    {
       "title": "Wet Season Closure : Blackbraes National Park",
       "alert_id": "23772",
       "url": "https://parks.des.qld.gov.au/park-alerts/23772",
@@ -3132,11 +3100,11 @@
       "title": "Mount Moffatt section Carnarvon National Park - closure due to flooding",
       "alert_id": "23786",
       "url": "https://parks.des.qld.gov.au/park-alerts/23786",
-      "description": "As a result of flooding Mount Moffatt section, Carnarvon National Park is closed until further notice.",
-      "details": "<p>As a result of flooding Mount Moffatt section, Carnarvon National Park is closed until further notice.</p> <p>Access roads to and within the Mount Moffatt section have become impassable due to flooding.</p> <p>The closure applies to all roads, walking tracks, day-use and camping areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-02-08",
+      "description": "As a result of flooding Mount Moffatt section, Carnarvon National Park is closed until conditions are deemed safe.",
+      "details": "<p>As a result of flooding Mount Moffatt section, Carnarvon National Park is closed until conditions are deemed safe.</p> <p>Access roads to and within the Mount Moffatt section have become impassable due to flooding.</p> <p>The closure applies to all roads, walking tracks, day-use and camping areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-02-16",
       "start_effective_date": "2024-02-08",
-      "end_date": "2024-02-16",
+      "end_date": "2024-02-19",
       "parks": [
         {
           "id": "151343",
@@ -3215,23 +3183,6 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned maintenance to the Ironbark Gully Day Use Area toilets, Samford Conservation Park.",
-      "alert_id": "23791",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23791",
-      "description": "Pending favourable weather conditions, a planned maintenance to the Ironbark Gully toilets within the Samford Conservation Park will commence from Wednesday 14th February to Thursday 15th February 2024.",
-      "details": "<p>Pending favourable weather conditions, a planned maintenance to the Ironbark Gully toilets within the Samford Conservation Park will commence from Wednesday 14th February to Thursday 15th February 2024.</p> <p>As a result, the following areas are temporarily closed for the duration of the closure:</p> <p>* Ironbark Gully Day Use Area toilets&nbsp;</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-13",
-      "start_effective_date": "2024-02-14",
-      "end_date": "2024-02-15",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/samford"
         }
       ]
     },
@@ -3416,6 +3367,23 @@
       ]
     },
     {
+      "title": "Temporary camping area closure and access information: Koombooloomba National Park and Conservation Park",
+      "alert_id": "23802",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23802",
+      "description": "Koombooloomba Conservation Park camping area and Koomboolooomba National Park bush camping areas will be closed on Wednesday 21 and Thursday 22 February 2024 to allow for vegetation management operations. Works will continue in these areas on Friday 23 of February, however the camping areas will reopen for campers from 3pm.",
+      "details": "<p>Koombooloomba Conservation Park camping area and Koomboolooomba National Park bush camping areas will be closed on Wednesday 21 and Thursday 22 February 2024 to allow for vegetation management operations. Works will continue in these areas on Friday 23 of February, however the camping areas will reopen for campers from 3pm.</p> <p>The day-use area will remain open during this period.</p> <p>For your safety, please follow all signs and directions from rangers and do not enter work areas.&nbsp;</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-21",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/koombooloomba"
+        }
+      ]
+    },
+    {
       "title": "Curtis Island Broadscale Planned Burn",
       "alert_id": "23803",
       "url": "https://parks.des.qld.gov.au/park-alerts/23803",
@@ -3434,6 +3402,147 @@
           "id": "148884",
           "name": "Curtis Island National Park and Conservation Park",
           "url": "https://parks.des.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closures - Araucaria Track and Enoggera Reservoir",
+      "alert_id": "23804",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23804",
+      "description": "Due to high rainfall, Enoggera Reservoir is closed to all water-based activities until further notice. The Araucaria Track is also temporarily closed due to flooding.",
+      "details": "<p>Due to high rainfall, Enoggera Reservoir is closed to all water-based activities until further notice. The Araucaria Track is also temporarily closed due to flooding.</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-19",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Daisy Hill Conservation Park - Mountain Bike Trails Closed",
+      "alert_id": "23806",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23806",
+      "description": "As a result of high rainfall, wet and unsafe conditions, Mountain Bike Trails have been closed in Daisy Hill Conservation Park until declared safe. QPWS Rangers are monitoring the situation.",
+      "details": "<p>As a result of high rainfall, wet and unsafe conditions, Mountain Bike Trails have been closed in Daisy Hill Conservation Park until declared safe. QPWS Rangers are monitoring the situation.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-19",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Bribie Island Recreation Area - caution advised following intensive rainfall and flooding",
+      "alert_id": "23807",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23807",
+      "description": "Welsby Lagoon has broken through to the ocean and with ongoing rain there is potential for other lagoons to break through. Motorists travelling along Ocean Beach should use caution and check depth when crossing lagoons, as fast flowing water and soft sand can make vehicle crossing dangerous.",
+      "details": "<p>Welsby Lagoon has broken through to the ocean and with ongoing rain there is potential for other lagoons to break through. Motorists travelling along Ocean Beach should use caution and check depth when crossing lagoons, as fast flowing water and soft sand can make vehicle crossing dangerous.</p> <p>Deep washouts are likely around all the lagoons with conditions changing on a tidal basis. All motorists should use caution when travelling along the open sections of beach and travel at a reduced speed to avoid hazards such as steep sand dunes, hidden banks, fallen trees, exposed coffee rock and large debris.&nbsp;Driving over vegetated dunes is not permitted despite conditions.</p> <p>Gallagher&rsquo;s Point, Poverty Creek and Ocean Beach camping areas remain&nbsp;open.</p> <p><strong>Beach travel is recommended one hour either side of low tide.</strong></p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.des.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
+      "title": "Mountain Bike Trail Closures - Samford and Bunyaville Conservation Parks",
+      "alert_id": "23808",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23808",
+      "description": "As a result of high accumulated rainfall and the current forecast, all mountain bike trails within Samford and Bunyaville Conservation Parks are temporarily closed to avoid unnecessary trail damage.",
+      "details": "<p>As a result of high accumulated rainfall and the current forecast, all mountain bike trails within Samford and Bunyaville Conservation Parks are temporarily closed to avoid unnecessary trail damage.</p> <p>Trails will to re-open once conditions are deemed suitable.&nbsp;Mountain bike riders&nbsp;should stay alert, slow down and proceed with caution in nearby areas&nbsp;due to possible trail changes caused by wet weather.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-19",
+      "parks": [
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/samford"
+        },
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure - Track 7, Bunyaville Conservation Park",
+      "alert_id": "23809",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23809",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be conducting minor machinery works at Bunyaville Conservation Park 30 Jan 2024 to 31 Jan 2024. During this time Mountain Bike Track 7 (Steps) will be closed.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be conducting minor machinery works at Bunyaville Conservation Park 30 Jan 2024 to 31 Jan 2024. During this time Mountain Bike Track 7 (Steps) will be closed.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp; Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers, and directions from rangers and do not enter closed areas.&nbsp;</p> <p>For more information, please contact QPWS&amp;P on<strong>&nbsp;(07) 3164 3600.</strong></p> <p>Please visit&nbsp;<strong>qld.gov.au/ParkAlerts</strong>&nbsp;for further park alert details.&nbsp;</p> <p>&nbsp;</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn within Wuthara Island National Park (CYPAL)",
+      "alert_id": "23810",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23810",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from February through May, as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from February through May, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Smoke may be seen in the vicinity of Wuthara Island National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.<br /> &nbsp;</p> <p>During the planned burn these areas are closed to public access:</p> <p>&middot;Wuthara Island eastern grasslands</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.<br /> &nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Check <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> regularly for updates on current park conditions.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-21",
+      "end_date": "2024-05-31",
+      "parks": [
+        {
+          "id": "148709",
+          "name": "Wuthara Island National Park (CYPAL)",
+          "url": "https://parks.des.qld.gov.au/parks/wuthara-cypal"
+        }
+      ]
+    },
+    {
+      "title": "Changes to Nudey Beach Access",
+      "alert_id": "23811",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23811",
+      "description": "Please be aware that the access to Nudey Beach has changed.",
+      "details": "<p>Please be aware that the access to Nudey Beach has changed.</p> <p>Due to high tides and wind events, access to Nudey Beach has changed. Please note that access to the beach is still possible by following the original track start and moving onto the&nbsp;temporary track at the beach end. Please see onsite signage to direct you to the safe entry/exit to the beach.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-01",
+      "end_date": "2024-04-30",
+      "parks": [
+        {
+          "id": "148741",
+          "name": "Fitzroy Island National Park",
+          "url": "https://parks.des.qld.gov.au/parks/fitzroy-island"
+        }
+      ]
+    },
+    {
+      "title": "Bellbird Grove day use area - access road closed due to flooding",
+      "alert_id": "23812",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23812",
+      "description": "Access to the Bellbird Grove day use area in D'Aguilar National Park is closed to vehicular traffic due to flooding across the Cedar Creek causeway.",
+      "details": "<p>Access to the Bellbird Grove day use area in D'Aguilar National Park is closed to vehicular traffic due to flooding across the Cedar Creek causeway.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>&nbsp;</p>",
+      "start_date": "2024-02-16",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-18",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.des.qld.gov.au/parks/daguilar"
         }
       ]
     }
