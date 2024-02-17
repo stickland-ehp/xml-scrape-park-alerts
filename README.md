@@ -1,2 +1,2 @@
 # xml-scrape-park-alerts
-Daily downloads of park alerts for parks.qld.gov.au
+Daily DIFF of park alerts from [parks.des.qld.gov.au/park-alerts](https://parks.des.qld.gov.au/park-alerts/)
