@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 181,
-    "script_run_time": "2024-02-16 10:06:39"
+    "alerts_count": 180,
+    "script_run_time": "2024-02-17 10:03:40"
   },
   "alerts": [
     {
@@ -1996,9 +1996,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23599",
       "description": "As a result of severe weather damage, some areas in Beerburrum West State Forest and Glass House Mountains Conservation Park (Basin section) are closed until declared safe. QPWS Rangers are managing the situation and have damage repair activities in progress.",
       "details": "<p>As a result of severe weather damage, some areas in Beerburrum West State Forest and Glass House Mountains Conservation Park (Basin section) are closed until declared safe. QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-01-29",
-      "start_effective_date": "2024-01-31",
-      "end_date": "2024-02-16",
+      "start_date": "2024-02-17",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-23",
       "parks": [
         {
           "id": "322689",
@@ -2839,23 +2839,6 @@
       ]
     },
     {
-      "title": "Access restrictions to Cougal Cascades",
-      "alert_id": "23762",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23762",
-      "description": "Access to Cougal Cascades section of Springbrook National Park will be restricted from Monday 22 January 2024 to Friday 16 February 2024 (weather permitting) due to City of Gold Coast landslip remediation works on Currumbin Creek Road.",
-      "details": "<p>Access to Cougal Cascades section of Springbrook National Park will be restricted from Monday 22 January 2024 to Friday 16 February 2024 (weather permitting) due to City of Gold Coast landslip remediation works on Currumbin Creek Road.</p> <p>The remediation works require&nbsp;a full road closure beyond 1741 Currumbin Creek Road as outlined below.&nbsp;</p> <ul> <li>Road closure days: <strong>Monday to Friday</strong></li> <li>Road closure times: <strong>9:00am to 11:30am</strong> and <strong>12:00pm to 2:30pm</strong></li> </ul> <p>Access to or from Cougal Cascades during these times is not possible.&nbsp;Traffic management with a half road closure&nbsp;will be in place outside of these times.</p> <p>Please plan your visit to the park and return trip accordingly.&nbsp;</p> <p>For more information please contact City of Gold Coast on 1300 GOLDCOAST (1300 465 326) or visit <a href=\"https://www.goldcoast.qld.gov.au/Services/Projects-works/Landslip-remediation-works-%E2%80%93-various-locations\">cityofgoldcoast.com.au/projects</a>.</p>",
-      "start_date": "2024-02-01",
-      "start_effective_date": "2024-02-01",
-      "end_date": "2024-02-16",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.des.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
       "title": "Temporary Closure of Mia Mia State Forest",
       "alert_id": "23763",
       "url": "https://parks.des.qld.gov.au/park-alerts/23763",
@@ -3423,6 +3406,23 @@
       ]
     },
     {
+      "title": "Mt Beerwah Section Closed",
+      "alert_id": "23805",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23805",
+      "description": "Access to Mt Beerwah is temporarily closed from Friday 16th February 2024 following very high rainfall. This closure is a precautionary measure following a high rainfall event. The risk of large rock fall above the summit route is much higher after heavy rain.",
+      "details": "<p>Access to Mt Beerwah is temporarily closed from Friday 16th February 2024 following very high rainfall. This closure is a precautionary measure following a high rainfall event. The risk of large rock fall above the summit route is much higher after heavy rain.</p> <p>There are signs informing visitors of the closure at the site and barriers in place at the picnic area.&nbsp;&nbsp;For your safety, please do not enter the closed area.&nbsp;&nbsp;Visitors found entering the closed area may be issued with an on-the-spot fine.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-02-17",
+      "start_effective_date": "2024-02-16",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.des.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
       "title": "Daisy Hill Conservation Park - Mountain Bike Trails Closed",
       "alert_id": "23806",
       "url": "https://parks.des.qld.gov.au/park-alerts/23806",
@@ -3526,23 +3526,6 @@
           "id": "148741",
           "name": "Fitzroy Island National Park",
           "url": "https://parks.des.qld.gov.au/parks/fitzroy-island"
-        }
-      ]
-    },
-    {
-      "title": "Bellbird Grove day use area - access road closed due to flooding",
-      "alert_id": "23812",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23812",
-      "description": "Access to the Bellbird Grove day use area in D'Aguilar National Park is closed to vehicular traffic due to flooding across the Cedar Creek causeway.",
-      "details": "<p>Access to the Bellbird Grove day use area in D'Aguilar National Park is closed to vehicular traffic due to flooding across the Cedar Creek causeway.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>&nbsp;</p>",
-      "start_date": "2024-02-16",
-      "start_effective_date": "2024-02-16",
-      "end_date": "2024-02-18",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.des.qld.gov.au/parks/daguilar"
         }
       ]
     }
