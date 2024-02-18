@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 180,
-    "script_run_time": "2024-02-17 10:03:40"
+    "script_run_time": "2024-02-18 10:03:30"
   },
   "alerts": [
     {
@@ -2254,9 +2254,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23642",
       "description": "Smithfield Conservation Park has partially reopened after damage from ex-Tropical Cyclone Jasper.",
       "details": "<p>Smithfield Conservation Park has partially reopened after damage from ex-Tropical Cyclone Jasper.</p> <p>Please see the <a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a> website for track conditions and updates.</p>",
-      "start_date": "2024-02-13",
+      "start_date": "2024-02-18",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-02-29",
+      "end_date": "2024-03-15",
       "parks": [
         {
           "id": "148424",
@@ -3170,23 +3170,6 @@
       ]
     },
     {
-      "title": "Planned maintenance to MTB track 4 Lorikeet within the Samford Conservation Park.",
-      "alert_id": "23792",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23792",
-      "description": "Pending favourable weather conditions, a planned maintenance to MTB track 4 Lorikeet within the Samford Conservation Park will commence from Friday 16th February to Saturday 17th February 2024.",
-      "details": "<p>Pending favourable weather conditions, a planned maintenance to MTB track 4 Lorikeet within the Samford Conservation Park will commence from Friday 16th February to Saturday 17th February 2024.</p> <p>As a result, the following areas are temporarily closed for the duration of the closure:</p> <ul> <li>MTB track 4 Lorikeet.</li> </ul> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-02-13",
-      "start_effective_date": "2024-02-16",
-      "end_date": "2024-02-17",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/samford"
-        }
-      ]
-    },
-    {
       "title": "Planned Works - Point Glorious Road",
       "alert_id": "23793",
       "url": "https://parks.des.qld.gov.au/park-alerts/23793",
@@ -3526,6 +3509,23 @@
           "id": "148741",
           "name": "Fitzroy Island National Park",
           "url": "https://parks.des.qld.gov.au/parks/fitzroy-island"
+        }
+      ]
+    },
+    {
+      "title": "Upper Noosa River CLOSED due to flooding",
+      "alert_id": "23813",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23813",
+      "description": "Recent heavy rain has caused flooding in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Narrows and Everglades section of the Noosa River.",
+      "details": "<p>Recent heavy rain has caused flooding in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Narrows and Everglades section of the Noosa River.</p> <p><strong>The following areas are temporarily CLOSED until further notice:&nbsp;</strong></p> <ul> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits include commercial tours for closed areas are <strong>suspended</strong> for the duration of the closure. To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. The next update will be provided by 21.02.2024.&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-02-18",
+      "start_effective_date": "2024-02-18",
+      "end_date": "2024-02-21",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/cooloola"
         }
       ]
     }
