@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 180,
-    "script_run_time": "2024-02-18 10:03:30"
+    "alerts_count": 182,
+    "script_run_time": "2024-02-19 03:48:07"
   },
   "alerts": [
     {
@@ -1718,10 +1718,15 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23551",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, Blencoe Falls camping and day-use area remains closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Blencoe Falls camping and day-use area remains closed until further notice.</p> <p>Monitor park alerts for up-to-date information on closures.</p> <p>&nbsp;</p>",
-      "start_date": "2024-02-16",
+      "start_date": "2024-02-19",
       "start_effective_date": "2023-12-11",
-      "end_date": "2024-02-26",
+      "end_date": "2024-03-22",
       "parks": [
+        {
+          "id": "148179",
+          "name": "Kirrama National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kirrama"
+        },
         {
           "id": "149013",
           "name": "Blencoe Falls, Girringun National Park",
@@ -2271,9 +2276,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23643",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, Kirrama National Park is temporarily closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Kirrama National Park is temporarily closed until further notice.</p> <p>The closure includes all walking tracks in the national park.&nbsp;Please monitor park alerts for up-to-date information.&nbsp;</p>",
-      "start_date": "2024-02-16",
+      "start_date": "2024-02-19",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-02-26",
+      "end_date": "2024-03-22",
       "parks": [
         {
           "id": "148179",
@@ -2597,12 +2602,12 @@
       ]
     },
     {
-      "title": "Public moorings in Whitsundays and North Tropical Coast area",
+      "title": "Public moorings in Whitsundays area",
       "alert_id": "23721",
       "url": "https://parks.des.qld.gov.au/park-alerts/23721",
       "description": "Post-cyclone TC Kirrily, park users should be aware that the structural integrity of moorings may have changed.",
       "details": "<p>Post-cyclone TC Kirrily, park users should be aware that the structural integrity of moorings may have changed.</p> <p>QPWS will endeavour to conduct mooring inspections and maintenance as feasible. Utilisation of public moorings post-cyclone is at the discretion of the vessel master with due consideration to possible changed condition of infrastructure.&nbsp;</p> <p><a href=\"https://www.qld.gov.au/environment/coasts-waterways/marine-parks/public-moorings-reef-protection-areas\">Public moorings and no anchoring areas | Environment, land and water | Queensland Government (www.qld.gov.au)</a></p>",
-      "start_date": "2024-01-29",
+      "start_date": "2024-02-19",
       "start_effective_date": "2024-01-24",
       "end_date": "2024-02-29",
       "parks": [
@@ -3526,6 +3531,45 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.des.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Smoke advice and temporary closure of Gudda Gumoo Gorge and Rainbow Falls Falls walking track due to planned burning, Blackdown Tableland National Park",
+      "alert_id": "23814",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23814",
+      "description": "To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Blackdown Tableland National Park. This burning will occur from Tuesday 20th February 2024, weather permitting, and may occur through until Friday 23rd February 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the area during this time. For visitor safety, the Gudda Gumoo Rainbow Falls Track will be closed for the duration of burning operations.",
+      "details": "<p>To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Blackdown Tableland National Park. This burning will occur from Tuesday 20th February 2024, weather permitting, and may occur through until Friday 23rd February 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the area during this time. For visitor safety, the Gudda Gumoo Rainbow Falls Track will be closed for the duration of burning operations.</p> <p>The aim of this burning is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions. Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p><strong>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p>.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-02-19",
+      "start_effective_date": "2024-02-20",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.des.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "23815",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23815",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "start_date": "2024-02-19",
+      "start_effective_date": "2024-02-19",
+      "end_date": "2024-02-20",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.des.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.des.qld.gov.au/parks/wooroonooran-josephine-falls"
         }
       ]
     }
