@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 184,
-    "script_run_time": "2024-02-19 10:06:58"
+    "alerts_count": 180,
+    "script_run_time": "2024-02-20 10:05:58"
   },
   "alerts": [
     {
@@ -2512,14 +2512,14 @@
       ]
     },
     {
-      "title": "Temporary closure: Donna cave guided tours, Chillagoe-Mungana Caves National Park",
+      "title": "Temporary closure: Donna cave and Royal Arch cave guided tours, Chillagoe-Mungana Caves National Park",
       "alert_id": "23687",
       "url": "https://parks.des.qld.gov.au/park-alerts/23687",
-      "description": "The Donna cave is temporarily closed due recent heavy rain and flooding. It is expected that Donna cave will reopen Friday 1 March 2024 (dates dependant on flood waters receding). The Trezkinn and Royal Arch caves remain open and ranger guided tours are available daily.",
-      "details": "<p>The Donna cave is temporarily closed due recent heavy rain and flooding. It is expected that Donna cave will reopen Friday 1 March 2024 (dates dependant on flood waters receding). The Trezkinn and Royal Arch caves remain open and ranger guided tours are available daily.</p> <p>For any questions, enquiries or bookings please phone The Hub on (07) 4094 7111.</p>",
-      "start_date": "2024-02-06",
+      "description": "The Donna and Royal Arch caves are temporarily closed due recent heavy rain and flooding. It is expected that the Royal Arch cave will reopen Wednesday 28 February and the Donna cave will reopen Wednesday 27 March 2024 (dates dependant on flood waters receding). The Trezkinn cave remains open, and ranger guided tours are available daily.",
+      "details": "<p>The Donna and Royal Arch caves are temporarily closed due recent heavy rain and flooding. It is expected that the Royal Arch cave will reopen Wednesday 28 February and the Donna cave will reopen Wednesday 27 March 2024 (dates dependant on flood waters receding). The Trezkinn cave remains open, and ranger guided tours are available daily.</p> <p>For any questions, enquiries or bookings please phone The Hub on (07) 4094 7111.</p>",
+      "start_date": "2024-02-20",
       "start_effective_date": "2024-01-19",
-      "end_date": "2024-03-01",
+      "end_date": "2024-02-27",
       "parks": [
         {
           "id": "148876",
@@ -2598,23 +2598,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.des.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Public moorings in Whitsundays area",
-      "alert_id": "23721",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23721",
-      "description": "Post-cyclone TC Kirrily, park users should be aware that the structural integrity of moorings may have changed.",
-      "details": "<p>Post-cyclone TC Kirrily, park users should be aware that the structural integrity of moorings may have changed.</p> <p>QPWS will endeavour to conduct mooring inspections and maintenance as feasible. Utilisation of public moorings post-cyclone is at the discretion of the vessel master with due consideration to possible changed condition of infrastructure.&nbsp;</p> <p><a href=\"https://www.qld.gov.au/environment/coasts-waterways/marine-parks/public-moorings-reef-protection-areas\">Public moorings and no anchoring areas | Environment, land and water | Queensland Government (www.qld.gov.au)</a></p>",
-      "start_date": "2024-02-19",
-      "start_effective_date": "2024-01-24",
-      "end_date": "2024-02-29",
-      "parks": [
-        {
-          "id": "327915",
-          "name": "Great Barrier Reef Coast Marine Park",
-          "url": ""
         }
       ]
     },
@@ -2784,62 +2767,6 @@
           "id": "150208",
           "name": "Cooloola Great Walk",
           "url": "https://parks.des.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Partial reopening: some areas of Bowling Green Bay National Park post Ex Tropical Cyclone Kirrily.",
-      "alert_id": "23759",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23759",
-      "description": "Where access allows, Queensland Parks and Wildlife Service staff are in the field completing safety inspections post Ex Tropical Cyclone Kirrily in Bowling Green National Park in an effort to reopen areas as quickly as possible.",
-      "details": "<p>Where access allows, Queensland Parks and Wildlife Service staff are in the field completing safety inspections post Ex Tropical Cyclone Kirrily in Bowling Green National Park in an effort to reopen areas as quickly as possible.</p> <p>The following area is now open to public access:</p> <ul> <li>Alligator Creek Day-use area</li> </ul> <p><strong>For your safety</strong>,<strong> all other areas in Bowling Green National Park remain closed to public access until safety inspections are completed and declared safe.</strong></p> <p><strong>Areas that remain closed are:</strong></p> <ul> <li>All walking tracks, camping areas (Cockatoo Creek, Alligator Falls and Remote bush camps) and remote hiking access in Mount Elliot section, Bowling Green Bay National Park.</li> <li>All vehicle access, camping areas (Cocoa Creek, Salmon Creek and Remote bush camping) and remote hiking access in Cape Cleveland section, Bowling Green Bay National Park.</li> <li>All vehicle access and camping areas (Barratta Creek camping area) in Bowling Green Bay section, Bowling Green Bay National Park.</li> </ul> <p>Please observe all access warnings, signage, barriers and directions from rangers and do not enter closed areas.</p> <p>We appreciate your understanding and apologise for any inconvenience.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> on the department&rsquo;s website for updates on park and facility opening.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-02-14",
-      "start_effective_date": "2024-02-01",
-      "end_date": "2024-02-19",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.des.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
-      "title": "Partial reopening: some areas of Cape Pallarenda Conservation Park post Ex Tropical Cyclone Kirrily.",
-      "alert_id": "23760",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23760",
-      "description": "Where access allows, Queensland Parks and Wildlife Service staff are in the field completing safety inspections post Ex Tropical Cyclone Kirrily in Cape Pallarenda Conservation Park in an effort to reopen areas as quickly as possible.",
-      "details": "<p>Where access allows, Queensland Parks and Wildlife Service staff are in the field completing safety inspections post Ex Tropical Cyclone Kirrily in Cape Pallarenda Conservation Park in an effort to reopen areas as quickly as possible.</p> <p>The following areas are&nbsp;now open to public access:</p> <ul> <li>Cape Pallarenda Day-use area</li> <li>Graves circuit</li> <li>Forts walk</li> </ul> <p><strong>For your safety</strong>, all other areas in Cape Pallarenda Conservation Park remain closed to public access until safety inspections are completed and declared safe.</p> <p>Please observe all access warnings, signage, barriers and directions from rangers and do not enter closed areas.</p> <p>We appreciate your understanding and apologise for any inconvenience.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> on the department&rsquo;s website for updates on park and facility opening.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-02-14",
-      "start_effective_date": "2024-02-01",
-      "end_date": "2024-02-19",
-      "parks": [
-        {
-          "id": "148311",
-          "name": "Townsville Town Common Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/townsville"
-        },
-        {
-          "id": "148997",
-          "name": "Cape Pallarenda Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/cape-pallarenda"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to Ex Tropical Cyclone Kirrily impacts: Townsville Town Common Conservation Park",
-      "alert_id": "23761",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23761",
-      "description": "Townsville Town Common Conservation Park is temporarily closed until further notice, due to impacts associated with Ex Tropical Cyclone Kirrily.",
-      "details": "<p>Townsville Town Common Conservation Park is temporarily closed until further notice, due to impacts associated with Ex Tropical Cyclone Kirrily.</p> <p>The closure includes all access roads, visitor facilities, walking tracks and mountain bike trails.</p> <p>Queensland Parks and Wildlife Service staff are currently in the field completing safety inspections post Ex Tropical Cyclone Kirrily in an effort to reopen areas as quickly as possible.</p> <p>Please observe all access warnings, signage, barriers and directions from rangers and do not enter closed areas.</p> <p>We appreciate your understanding and apologise for any inconvenience.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> on the department&rsquo;s website for updates on park and facility opening.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-02-14",
-      "start_effective_date": "2024-02-01",
-      "end_date": "2024-02-19",
-      "parks": [
-        {
-          "id": "148311",
-          "name": "Townsville Town Common Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/townsville"
         }
       ]
     },
@@ -3071,33 +2998,16 @@
       "title": "Planned works  Mapleton Forest Road",
       "alert_id": "23784",
       "url": "https://parks.des.qld.gov.au/park-alerts/23784",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th  23rd February, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th  23rd February, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead</p> <p>Commercial tour operators and other permit or agreement holders are to be aware of these changes in this area.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-02-12",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th February  8th March, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th February  8th March, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead</p> <p>Commercial tour operators and other permit or agreement holders are to be aware of these changes in this area.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-02-20",
       "start_effective_date": "2024-02-12",
-      "end_date": "2024-02-23",
+      "end_date": "2024-03-08",
       "parks": [
         {
           "id": "148945",
           "name": "Mapleton National Park",
           "url": "https://parks.des.qld.gov.au/parks/mapleton"
-        }
-      ]
-    },
-    {
-      "title": "Mount Moffatt section Carnarvon National Park - closure due to flooding",
-      "alert_id": "23786",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23786",
-      "description": "As a result of flooding Mount Moffatt section, Carnarvon National Park is closed until conditions are deemed safe.",
-      "details": "<p>As a result of flooding Mount Moffatt section, Carnarvon National Park is closed until conditions are deemed safe.</p> <p>Access roads to and within the Mount Moffatt section have become impassable due to flooding.</p> <p>The closure applies to all roads, walking tracks, day-use and camping areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-02-16",
-      "start_effective_date": "2024-02-08",
-      "end_date": "2024-02-19",
-      "parks": [
-        {
-          "id": "151343",
-          "name": "Mount Moffatt, Carnarvon National Park",
-          "url": "https://parks.des.qld.gov.au/parks/carnarvon-mount-moffatt"
         }
       ]
     },
@@ -3377,23 +3287,6 @@
       ]
     },
     {
-      "title": "Temporary Closures - Araucaria Track and Enoggera Reservoir",
-      "alert_id": "23804",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23804",
-      "description": "Due to high rainfall, Enoggera Reservoir is closed to all water-based activities until further notice. The Araucaria Track is also temporarily closed due to flooding.",
-      "details": "<p>Due to high rainfall, Enoggera Reservoir is closed to all water-based activities until further notice. The Araucaria Track is also temporarily closed due to flooding.</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-16",
-      "start_effective_date": "2024-02-16",
-      "end_date": "2024-02-19",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Mt Beerwah Section Closed",
       "alert_id": "23805",
       "url": "https://parks.des.qld.gov.au/park-alerts/23805",
@@ -3445,28 +3338,6 @@
       ]
     },
     {
-      "title": "Mountain Bike Trail Closures - Samford and Bunyaville Conservation Parks",
-      "alert_id": "23808",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23808",
-      "description": "As a result of high accumulated rainfall and the current forecast, all mountain bike trails within Samford and Bunyaville Conservation Parks are temporarily closed to avoid unnecessary trail damage.",
-      "details": "<p>As a result of high accumulated rainfall and the current forecast, all mountain bike trails within Samford and Bunyaville Conservation Parks are temporarily closed to avoid unnecessary trail damage.</p> <p>Trails will to re-open once conditions are deemed suitable.&nbsp;Mountain bike riders&nbsp;should stay alert, slow down and proceed with caution in nearby areas&nbsp;due to possible trail changes caused by wet weather.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p>",
-      "start_date": "2024-02-16",
-      "start_effective_date": "2024-02-16",
-      "end_date": "2024-02-19",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/samford"
-        },
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure - Track 7, Bunyaville Conservation Park",
       "alert_id": "23809",
       "url": "https://parks.des.qld.gov.au/park-alerts/23809",
@@ -3514,23 +3385,6 @@
           "id": "148741",
           "name": "Fitzroy Island National Park",
           "url": "https://parks.des.qld.gov.au/parks/fitzroy-island"
-        }
-      ]
-    },
-    {
-      "title": "Upper Noosa River CLOSED due to flooding",
-      "alert_id": "23813",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23813",
-      "description": "Recent heavy rain has caused flooding in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Narrows and Everglades section of the Noosa River.",
-      "details": "<p>Recent heavy rain has caused flooding in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Narrows and Everglades section of the Noosa River.</p> <p><strong>The following areas are temporarily CLOSED until further notice:&nbsp;</strong></p> <ul> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits include commercial tours for closed areas are <strong>suspended</strong> for the duration of the closure. To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. The next update will be provided by 21.02.2024.&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-18",
-      "start_effective_date": "2024-02-18",
-      "end_date": "2024-02-21",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/cooloola"
         }
       ]
     },
@@ -3591,6 +3445,23 @@
       ]
     },
     {
+      "title": "Aerial pest control within Undara Volcanic National Park",
+      "alert_id": "23817",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23817",
+      "description": "Queensland Parks and Wildlife Services is conducting aerial pest control in Undara Volcanic National Park from Monday 26 February up to and including Friday 1 March 2024, dependant on suitable weather conditions. It will involve the use of helicopters and firearms to cull feral animals that may cause damage to the environment and to infrastructure.",
+      "details": "<p>Queensland Parks and Wildlife Services is conducting aerial pest control in Undara Volcanic National Park from Monday 26 February up to and including Friday 1 March 2024, dependant on suitable weather conditions. It will involve the use of helicopters and firearms to cull feral animals that may cause damage to the environment and to infrastructure.</p> <p>Undara Experience and Bedrock Village &#39;Guided tours and talks&#39; will remain open. Kalkani day-use area and Kalkani Crater rim walk will also remain open</p>",
+      "start_date": "2024-02-20",
+      "start_effective_date": "2024-02-26",
+      "end_date": "2024-03-01",
+      "parks": [
+        {
+          "id": "148965",
+          "name": "Undara Volcanic National Park",
+          "url": "https://parks.des.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure for aerial pest control: Wairuna and Princess Hills sections, Girringun National Park.",
       "alert_id": "23818",
       "url": "https://parks.des.qld.gov.au/park-alerts/23818",
@@ -3614,6 +3485,57 @@
           "id": "149513",
           "name": "Wairuna, Girringun National Park",
           "url": "https://parks.des.qld.gov.au/parks/girringun-wairuna"
+        }
+      ]
+    },
+    {
+      "title": "Maintenance to Lookout Rd, Goomburra section, Main Range National Park",
+      "alert_id": "23819",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23819",
+      "description": "Scheduled maintenance to Lookout Rd in the Goomburra section of Main Range National Park is being undertaken to repair potholes resulting from recent wet weather.",
+      "details": "<p>Scheduled maintenance to Lookout Rd in the Goomburra section of Main Range National Park is being undertaken to repair potholes resulting from recent wet weather.</p> <p>Lookout Rd will remain open for the duration of the works, however visitors can expect short delays.</p> <p>Please drive slowly to road conditions, and consider the safety of nearby maintenance crew.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "start_date": "2024-02-20",
+      "start_effective_date": "2024-02-20",
+      "end_date": "2024-02-24",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.des.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned works in Nerang National Park",
+      "alert_id": "23820",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23820",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 17 May 2024 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 17 May 2024 (weather permitting).</p> <p>Works will be undertaken away from existing mountain bike trails, however there may be some additional machinery and vehicle movements in the vicinity of the Gold Coast Cycle Centre entry to the park and around the Casuarina Grove circuit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-02-20",
+      "start_effective_date": "2024-02-20",
+      "end_date": "2024-05-17",
+      "parks": [
+        {
+          "id": "147971",
+          "name": "Nerang National Park",
+          "url": "https://parks.des.qld.gov.au/parks/nerang"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn in the D'Aguilar National Park, Enoggera Reservoir Area.",
+      "alert_id": "23821",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23821",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park, Enoggera Reservoir Area, tomorrow, Wednesday February 21 to Friday February 23, as part of the annual hazard reduction / conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park, Enoggera Reservoir Area, tomorrow, Wednesday February 21 to Friday February 23, as part of the annual hazard reduction / conservation management program for parks and forests.</p> <p>Smoke may be seen in the vicinity of The Gap, Keperra and Upper Brookfield areas.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.</p> <p>This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>During the planned burn these areas are closed to public access:</p> <p>* South Boundary Road from&nbsp;the Payne Road gate to Hillbrook Road gate.&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-02-20",
+      "start_effective_date": "2024-02-21",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.des.qld.gov.au/parks/daguilar"
         }
       ]
     }
