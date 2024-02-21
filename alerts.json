@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 180,
-    "script_run_time": "2024-02-20 10:05:58"
+    "alerts_count": 178,
+    "script_run_time": "2024-02-21 10:07:00"
   },
   "alerts": [
     {
@@ -2254,14 +2254,14 @@
       ]
     },
     {
-      "title": "Partial reopening: Smithfield Conservation Park",
+      "title": "Partially open with maintenance in progress: Smithfield Conservation Park",
       "alert_id": "23642",
       "url": "https://parks.des.qld.gov.au/park-alerts/23642",
-      "description": "Smithfield Conservation Park has partially reopened after damage from ex-Tropical Cyclone Jasper.",
-      "details": "<p>Smithfield Conservation Park has partially reopened after damage from ex-Tropical Cyclone Jasper.</p> <p>Please see the <a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a> website for track conditions and updates.</p>",
-      "start_date": "2024-02-18",
+      "description": "Visitors are advised that maintenance work to mountain bike tracks and access roads within Smithfield Mountain Bike Park is in progress.",
+      "details": "<p>Visitors are advised that maintenance work to mountain bike tracks and access roads within Smithfield Mountain Bike Park is in progress.</p> <p>Please see the <a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a> website for track conditions and updates.</p> <p>Please obey track closures, signage and instructions from contractors.</p>",
+      "start_date": "2024-02-21",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-03-15",
+      "end_date": "2024-05-01",
       "parks": [
         {
           "id": "148424",
@@ -2293,9 +2293,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23645",
       "description": "Due to the potential for rock fall associated with construction works on private property above the Lower Bellbird track, a section of the walking track will be temporarily closed between Rankins Paddock and the junction of the Ships Stern circuit until further notice, to ensure visitor safety.",
       "details": "<p>Due to the potential for rock fall associated with construction works on private property above the Lower Bellbird track, a section of the walking track will be temporarily closed between Rankins Paddock and the junction of the Ships Stern circuit until further notice, to ensure visitor safety.</p> <p>Visitors will still be able to access the Ships Stern circuit, however, will be required to exit via the upper section of the Lower Bellbird track.</p> <p>The temporary closure will also affect a portion of the Gold Coast Hinterland Great Walks (GCHGW). Visitors intending to walk the GCHGW will be required to deviate along the Caves track rather than the Lower Bellbird track to continue the GCHGW.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts are regularly updated regarding condition on park.</p>",
-      "start_date": "2024-01-08",
+      "start_date": "2024-02-21",
       "start_effective_date": "2024-01-08",
-      "end_date": "2024-03-01",
+      "end_date": "2024-03-29",
       "parks": [
         {
           "id": "148271",
@@ -2771,6 +2771,23 @@
       ]
     },
     {
+      "title": "Temporary closure due to Ex Tropical Cyclone Kirrily impacts: Townsville Town Common Conservation Park",
+      "alert_id": "23761",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23761",
+      "description": "Townsville Town Common Conservation Park is temporarily closed until further notice, due to impacts associated with Ex Tropical Cyclone Kirrily.",
+      "details": "<p>Townsville Town Common Conservation Park is temporarily closed until further notice, due to impacts associated with Ex Tropical Cyclone Kirrily.</p> <p>The closure includes all access roads, visitor facilities, walking tracks and mountain bike trails.</p> <p>Queensland Parks and Wildlife Service staff are currently in the field completing safety inspections post Ex Tropical Cyclone Kirrily in an effort to reopen areas as quickly as possible.</p> <p>Please observe all access warnings, signage, barriers and directions from rangers and do not enter closed areas.</p> <p>We appreciate your understanding and apologise for any inconvenience.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> on the department&rsquo;s website for updates on park and facility opening.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "start_date": "2024-02-21",
+      "start_effective_date": "2024-02-01",
+      "end_date": "2024-02-23",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/townsville"
+        }
+      ]
+    },
+    {
       "title": "Temporary Closure of Mia Mia State Forest",
       "alert_id": "23763",
       "url": "https://parks.des.qld.gov.au/park-alerts/23763",
@@ -3102,23 +3119,6 @@
       ]
     },
     {
-      "title": "Middle Creek access track - closure due to flooding",
-      "alert_id": "23794",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23794",
-      "description": "As a result of localised flooding, Middle Creek access track and Middle Creek campground, Eurimbula National Park is closed until further notice.",
-      "details": "<p>As a result of localised flooding, Middle Creek access track and Middle Creek campground, Eurimbula National Park is closed until further notice.</p> <p>Rangers will monitor conditions and open the track when safe to do so. If you have a campsite booked, please contact 13 74 68 for a refund.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-14",
-      "start_effective_date": "2024-02-14",
-      "end_date": "2024-02-20",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.des.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
       "title": "Smoke advice and temporary closure of Zamia walking track due to planned burning, Mount Archer National Park and State Forest",
       "alert_id": "23795",
       "url": "https://parks.des.qld.gov.au/park-alerts/23795",
@@ -3166,23 +3166,6 @@
           "id": "147955",
           "name": "Noosa National Park",
           "url": "https://parks.des.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
-      "title": "Amphitheatre - Closed For Repairs",
-      "alert_id": "23798",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23798",
-      "description": "Flood damage at Carnarvon Gorge has led to the temporary closure of the Amphitheatre while rangers undertake repairs.",
-      "details": "<p>Flood damage at Carnarvon Gorge has led to the temporary closure of the Amphitheatre while rangers undertake repairs.</p> <p>All other walking tracks at Carnarvon Gorge are now open&nbsp;with caution.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-02-14",
-      "start_effective_date": "2024-02-14",
-      "end_date": "2024-02-29",
-      "parks": [
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.des.qld.gov.au/parks/carnarvon-gorge"
         }
       ]
     },
@@ -3304,23 +3287,6 @@
       ]
     },
     {
-      "title": "Daisy Hill Conservation Park - Mountain Bike Trails Closed",
-      "alert_id": "23806",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23806",
-      "description": "As a result of high rainfall, wet and unsafe conditions, Mountain Bike Trails have been closed in Daisy Hill Conservation Park until declared safe. QPWS Rangers are monitoring the situation.",
-      "details": "<p>As a result of high rainfall, wet and unsafe conditions, Mountain Bike Trails have been closed in Daisy Hill Conservation Park until declared safe. QPWS Rangers are monitoring the situation.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-02-19",
-      "start_effective_date": "2024-02-19",
-      "end_date": "2024-02-20",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "Bribie Island Recreation Area - caution advised following intensive rainfall and flooding",
       "alert_id": "23807",
       "url": "https://parks.des.qld.gov.au/park-alerts/23807",
@@ -3411,9 +3377,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23815",
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-02-19",
+      "start_date": "2024-02-21",
       "start_effective_date": "2024-02-19",
-      "end_date": "2024-02-20",
+      "end_date": "2024-02-22",
       "parks": [
         {
           "id": "148468",
