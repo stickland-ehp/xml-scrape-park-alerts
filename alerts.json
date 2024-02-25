@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 178,
-    "script_run_time": "2024-02-24 10:02:51"
+    "alerts_count": 177,
+    "script_run_time": "2024-02-25 10:03:40"
   },
   "alerts": [
     {
@@ -2999,23 +2999,6 @@
       ]
     },
     {
-      "title": "Smoke advice and temporary closure of Zamia walking track due to planned burning, Mount Archer National Park and State Forest",
-      "alert_id": "23795",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23795",
-      "description": "To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Mount Archer National Park and Mount Archer State Forest. This burning will occur from Thursday 15 February 2024, weather permitting, and may occur through until Saturday 24 February 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the Mount Archer area during this time. For visitor safety, the Zamia Walking Track will be closed between Grasstree lookout and First Turkey Mountain Bike Reserve for the duration of the burning operations.",
-      "details": "<p>To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Mount Archer National Park and Mount Archer State Forest. This burning will occur from Thursday 15 February 2024, weather permitting, and may occur through until Saturday 24 February 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the Mount Archer area during this time. For visitor safety, the Zamia Walking Track will be closed between Grasstree lookout and First Turkey Mountain Bike Reserve for the duration of the burning operations.</p> <p>The aim of this burning is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions. Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-02-14",
-      "start_effective_date": "2024-02-15",
-      "end_date": "2024-02-24",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
       "title": "Temporary track closure - Morans Falls track",
       "alert_id": "23796",
       "url": "https://parks.des.qld.gov.au/park-alerts/23796",
@@ -3250,23 +3233,6 @@
       ]
     },
     {
-      "title": "Maintenance to Lookout Rd, Goomburra section, Main Range National Park",
-      "alert_id": "23819",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23819",
-      "description": "Scheduled maintenance to Lookout Rd in the Goomburra section of Main Range National Park is being undertaken to repair potholes resulting from recent wet weather.",
-      "details": "<p>Scheduled maintenance to Lookout Rd in the Goomburra section of Main Range National Park is being undertaken to repair potholes resulting from recent wet weather.</p> <p>Lookout Rd will remain open for the duration of the works, however visitors can expect short delays.</p> <p>Please drive slowly to road conditions, and consider the safety of nearby maintenance crew.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "start_date": "2024-02-20",
-      "start_effective_date": "2024-02-20",
-      "end_date": "2024-02-24",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Planned works in Nerang National Park",
       "alert_id": "23820",
       "url": "https://parks.des.qld.gov.au/park-alerts/23820",
@@ -3492,6 +3458,23 @@
           "id": "150212",
           "name": "Cardwell State Forest",
           "url": "https://parks.des.qld.gov.au/parks/cardwell-state-forest"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closures - Araucaria Track and Enoggera Reservoir (closed to paddlecraft only)",
+      "alert_id": "23834",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23834",
+      "description": "Due to recent high rainfall, the Araucaria Track is temporarily closed due to flood damage. The Enoggera Reservoir is also currently closed to all paddlecraft. Swimming is permitted within the designated swimming area. For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600. Please monitor park alerts on the Department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas.",
+      "details": "<p>Due to recent high rainfall, the Araucaria Track is temporarily closed due to flood damage. The Enoggera Reservoir is also currently closed to all paddlecraft. Swimming is permitted within the designated swimming area. For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600. Please monitor park alerts on the Department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-02-25",
+      "start_effective_date": "2024-02-25",
+      "end_date": "2024-03-01",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     }
