@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2024-02-27 10:05:19"
+    "alerts_count": 182,
+    "script_run_time": "2024-02-28 10:05:11"
   },
   "alerts": [
     {
@@ -1613,23 +1613,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to impacts from ex-Tropical Cyclone Jasper: Macalister Range National Park",
-      "alert_id": "23531",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23531",
-      "description": "Due to impacts from ex-Tropical Cyclone Jasper, Macalister Range National Park is temporarily closed until further notice.",
-      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Macalister Range National Park is temporarily closed until further notice.</p> <p>The closure&nbsp;includes all visitor facilities such as walking tracks, mountain bike tracks, day-use areas and national park roads.</p> <p>Monitor park alerts for up-to-date information.</p> <p>&nbsp;</p>",
-      "start_date": "2024-02-16",
-      "start_effective_date": "2023-12-11",
-      "end_date": "2024-03-01",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to impacts from ex-Tropical Cyclone Jasper: national parks and protected areas in the southern Cape York area",
       "alert_id": "23536",
       "url": "https://parks.des.qld.gov.au/park-alerts/23536",
@@ -1723,15 +1706,10 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23559",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.</p> <p>Monitor park alerts for up-to-date information on closures.</p> <p>For up-to-date weather information, see <a href=\"http://www.bom.gov.au/?ref=hdr\">Bureau of Meteorolgy</a>.</p>",
-      "start_date": "2024-02-16",
+      "start_date": "2024-02-28",
       "start_effective_date": "2023-12-12",
       "end_date": "2024-04-01",
       "parks": [
-        {
-          "id": "322875",
-          "name": "Bloomfield River Conservation Park",
-          "url": ""
-        },
         {
           "id": "322776",
           "name": "Mount Windsor National Park",
@@ -1740,11 +1718,6 @@
         {
           "id": "322716",
           "name": "Mount Spurgeon National Park",
-          "url": ""
-        },
-        {
-          "id": "322362",
-          "name": "Monkhouse Timber Reserve",
           "url": ""
         }
       ]
@@ -2096,9 +2069,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23619",
       "description": "As a result of wet weather, access is restricted, and some areas in Bellthorpe National Park are closed until declared safe. Closed areas include Branch Creek and Beacon Roads. QPWS Rangers are monitoring the situation.",
       "details": "<p>As a result of wet weather, access is restricted, and some areas in Bellthorpe National Park are closed until declared safe. Closed areas include Branch Creek and Beacon Roads. QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.<br /> Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-01-29",
+      "start_date": "2024-02-28",
       "start_effective_date": "2024-01-02",
-      "end_date": "2024-03-01",
+      "end_date": "2024-04-01",
       "parks": [
         {
           "id": "148400",
@@ -3103,9 +3076,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23816",
       "description": "Little Crystal Creek, Paradise and Rockslides swimming areas are currently closed. Heavy rain has caused flooding and fast flowing currents, creating dangerous conditions for swimmers. Visitors are advised to stay out of the water until the current and debris subside.",
       "details": "<p>Little Crystal Creek, Paradise and Rockslides swimming areas are currently closed. Heavy rain has caused flooding and fast flowing currents, creating dangerous conditions for swimmers. Visitors are advised to stay out of the water until the current and debris subside.</p> <p>Please adhere to all safety signs and directions from local rangers.<br /> &nbsp;</p>",
-      "start_date": "2024-02-22",
+      "start_date": "2024-02-28",
       "start_effective_date": "2024-02-19",
-      "end_date": "2024-02-28",
+      "end_date": "2024-03-01",
       "parks": [
         {
           "id": "148452",
@@ -3269,9 +3242,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23829",
       "description": "Due to recent heavy localised rainfall and flooding of the access road, the Jourama Falls camping and day-use area are currently closed.",
       "details": "<p>Due to recent heavy localised rainfall and flooding of the access road, the Jourama Falls camping and day-use area are currently closed.</p> <p>This park alert will be removed when the camping and day-use area have&nbsp;been reopened.</p>",
-      "start_date": "2024-02-23",
+      "start_date": "2024-02-28",
       "start_effective_date": "2024-02-23",
-      "end_date": "2024-02-28",
+      "end_date": "2024-03-01",
       "parks": [
         {
           "id": "148452",
@@ -3320,31 +3293,14 @@
       ]
     },
     {
-      "title": "Temporary closure: Murray Falls camping and day-use area, Girramay National Park",
-      "alert_id": "23832",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23832",
-      "description": "The Murray Falls camping and day-use area is currently closed and is anticipated to reopen on 29 February 2024. This closure is due current rainfall and the forecast of further heavy rainfall with localised flooding.",
-      "details": "<p>The Murray Falls camping and day-use area is currently closed and is anticipated to reopen on 29 February 2024. This closure is due current rainfall and the forecast of further heavy rainfall with localised flooding.</p> <p>For more information on road conditions visitors should contact the&nbsp;<a href=\"https://www.cassowarycoast.qld.gov.au/\">Cassowary Coast Council</a>&nbsp;or&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">QLDTraffic</a>.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-02-26",
-      "start_effective_date": "2024-02-23",
-      "end_date": "2024-02-28",
-      "parks": [
-        {
-          "id": "148127",
-          "name": "Girramay National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girramay"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Closures - Araucaria Track and Enoggera Reservoir (closed to paddlecraft only)",
+      "title": "Temporary Partial Closure - Araucaria Track",
       "alert_id": "23834",
       "url": "https://parks.des.qld.gov.au/park-alerts/23834",
-      "description": "Due to recent high rainfall, the Araucaria Track is temporarily closed due to flood damage. The Enoggera Reservoir is also currently closed to all paddlecraft. Swimming is permitted within the designated swimming area. For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600. Please monitor park alerts on the Department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas.",
-      "details": "<p>Due to recent high rainfall, the Araucaria Track is temporarily closed due to flood damage. The Enoggera Reservoir is also currently closed to all paddlecraft. Swimming is permitted within the designated swimming area. For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600. Please monitor park alerts on the Department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-25",
-      "start_effective_date": "2024-02-25",
-      "end_date": "2024-03-01",
+      "description": "Following recent rainfall, a portion of the Araucaria Track has been temporarily closed due to erosion damage. The track has undergone a partial closure to remove the looping return. Walkers are now required to make a turn and retrace their steps to safely return to the trailhead.",
+      "details": "<p>Following recent rainfall, a portion of the Araucaria Track has been temporarily closed due to erosion damage. The track has undergone a partial closure to remove the looping return. Walkers are now required to make a turn and retrace their steps to safely return to the trailhead.</p> <p>Please adhere to all signage, barriers, and directions provided by park rangers. Do not enter closed areas of the Araucaria Track, as these precautions are in place to ensure your saftey.</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Please monitor park alerts on the Department&#39;s website for updated information.</p>",
+      "start_date": "2024-02-28",
+      "start_effective_date": "2024-02-28",
+      "end_date": "2024-04-28",
       "parks": [
         {
           "id": "200319",
@@ -3537,6 +3493,23 @@
           "id": "149417",
           "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
           "url": "https://parks.des.qld.gov.au/parks/keppel-bay-islands"
+        }
+      ]
+    },
+    {
+      "title": "Dingo Awareness - Eurong township and fenced area",
+      "alert_id": "23849",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23849",
+      "description": "Please be aware that there is a likelihood of a dingo being inside the Eurong fenced area.",
+      "details": "<p>Please be aware that there is a likelihood of a dingo being inside the Eurong fenced area.</p> <p>The dingo has been observed loitering in locations including resort area, public toilets and residential area. Any sightings or interactions should be reported to (07) 4127 9150 or <a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a></p> <p>QPWS have implemented ongoing management actions to inspect and monitor potential dingo entry points, monitor dingo behaviour reports and implement dingo removal from fenced area.</p> <p>To assist QPWS and ensure visitor safety, please ensure all gates are closed after use and report any observed fence damage to <a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a></p> <p><strong>Please ensure you are following Be dingo-safe! behaviours</strong></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Secure all food, rubbish and personal items.</li> </ul> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-02-28",
+      "start_effective_date": "2024-02-28",
+      "end_date": "2024-03-31",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
         }
       ]
     }
