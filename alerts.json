@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 180,
-    "script_run_time": "2024-03-01 10:06:48"
+    "alerts_count": 175,
+    "script_run_time": "2024-03-02 10:04:05"
   },
   "alerts": [
     {
@@ -1867,23 +1867,6 @@
       ]
     },
     {
-      "title": "Walk with caution: Mount Cook National Park",
-      "alert_id": "23605",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23605",
-      "description": "Following impacts from ex-Tropical Cyclone Jasper, rangers advise the following regarding the Mount Cook National Park walking tracks:",
-      "details": "<p>Following impacts from ex-Tropical Cyclone Jasper, rangers advise the following regarding the Mount Cook National Park walking tracks:</p> <ul> <li>Areas of erosion have occurred on the Mount Cook walking track network</li> <li>For your safety, it is recommended if walking on the Mount Cook walking tracks: <ul> <li>You are an experienced bushwalker</li> <li>Walk with caution at all times, especially along eroded sections of the walking track</li> <li>Wear sturdy footwear.</li> </ul> </li> </ul>",
-      "start_date": "2024-01-25",
-      "start_effective_date": "2023-12-22",
-      "end_date": "2024-03-01",
-      "parks": [
-        {
-          "id": "148616",
-          "name": "Mount Cook National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mount-cook"
-        }
-      ]
-    },
-    {
       "title": "Temporary road closures: Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road, Danbulla National Park",
       "alert_id": "23606",
       "url": "https://parks.des.qld.gov.au/park-alerts/23606",
@@ -2215,23 +2198,6 @@
       ]
     },
     {
-      "title": "Burrum Point campground will be temporarily closed for maintenance 12/02/24 - 01/03/24",
-      "alert_id": "23661",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23661",
-      "description": "Burrum Point campground, access roads and walking tracks will be temporarily closed from 1000hrs 12/02/24 to 1600hrs 01/03/24. The closure is for scheduled maintenance within Burrum Point campground and entrance tracks. Access will be closed to pedestrians and vehicles during this time.",
-      "details": "<p>Burrum Point campground, access roads and walking tracks will be temporarily closed from 1000hrs 12/02/24 to 1600hrs 01/03/24. The closure is for scheduled maintenance within Burrum Point campground and entrance tracks. Access will be closed to pedestrians and vehicles during this time.</p> <p>Heavy plant will be operating within the park. Please obey all signage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-01-12",
-      "start_effective_date": "2024-02-12",
-      "end_date": "2024-03-01",
-      "parks": [
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.des.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
       "title": "Upper Davies Creek camping area and listed walking tracks are now open, Dinden National Park",
       "alert_id": "23664",
       "url": "https://parks.des.qld.gov.au/park-alerts/23664",
@@ -2415,23 +2381,6 @@
           "id": "148055",
           "name": "Danbulla National Park and State Forest",
           "url": "https://parks.des.qld.gov.au/parks/danbulla"
-        }
-      ]
-    },
-    {
-      "title": "Scheduled maintenance - Zamia walking track",
-      "alert_id": "23747",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23747",
-      "description": "Queensland Parks and Wildlife Service rangers will be conducting intermittent maintenance of the Zamia walking track throughout February.",
-      "details": "<p>Queensland Parks and Wildlife Service rangers will be conducting intermittent maintenance of the Zamia walking track throughout February.</p> <p>You may encounter rangers using brush cutters and spraying weeds.&nbsp;</p> <p>For your safety, please follow any instructions provided by rangers.</p>",
-      "start_date": "2024-01-30",
-      "start_effective_date": "2024-01-30",
-      "end_date": "2024-03-01",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mount-archer"
         }
       ]
     },
@@ -2908,23 +2857,6 @@
       ]
     },
     {
-      "title": "Aerial pest control within Undara Volcanic National Park",
-      "alert_id": "23817",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23817",
-      "description": "Queensland Parks and Wildlife Services is conducting aerial pest control in Undara Volcanic National Park from Monday 26 February up to and including Friday 1 March 2024, dependant on suitable weather conditions. It will involve the use of helicopters and firearms to cull feral animals that may cause damage to the environment and to infrastructure.",
-      "details": "<p>Queensland Parks and Wildlife Services is conducting aerial pest control in Undara Volcanic National Park from Monday 26 February up to and including Friday 1 March 2024, dependant on suitable weather conditions. It will involve the use of helicopters and firearms to cull feral animals that may cause damage to the environment and to infrastructure.</p> <p>Undara Experience and Bedrock Village &#39;Guided tours and talks&#39; will remain open. Kalkani day-use area and Kalkani Crater rim walk will also remain open</p>",
-      "start_date": "2024-02-20",
-      "start_effective_date": "2024-02-26",
-      "end_date": "2024-03-01",
-      "parks": [
-        {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.des.qld.gov.au/parks/undara-volcanic"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for aerial pest control: Wairuna and Princess Hills sections, Girringun National Park.",
       "alert_id": "23818",
       "url": "https://parks.des.qld.gov.au/park-alerts/23818",
@@ -3070,23 +3002,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.des.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Park Alert - Prescribed Burn K'gari Grassy Headlands",
-      "alert_id": "23830",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23830",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation Rangers will conduct prescribed burn operations between 27th February and 1st March 2024 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation Rangers will conduct prescribed burn operations between 27th February and 1st March 2024 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>The K&rsquo;gari Grassy Headlands includes Tukkee Wurro (Indian Head), Champagne Pools and Waddy Point Headlands.&nbsp;</p> <p>As a result, smoke may be seen in these areas and in the vicinity of Orchid Beach, beach camping zones 7 (Wyuna, Burad), and zone 8 (Marloo, Ocean Lake, Duling). &nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-02-23",
-      "start_effective_date": "2024-02-27",
-      "end_date": "2024-03-01",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
