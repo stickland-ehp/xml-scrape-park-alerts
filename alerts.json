@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 175,
-    "script_run_time": "2024-03-03 10:06:51"
+    "script_run_time": "2024-03-04 11:15:43"
   },
   "alerts": [
     {
@@ -2215,14 +2215,14 @@
       ]
     },
     {
-      "title": "Temporary closure: Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve and Herberton Range State Forest",
+      "title": "Temporary closure: Trails 12, 9 and 6, Atherton Forest Mountain Bike Park, within Baldy Mountain Forest Reserve and Herberton Range State Forest",
       "alert_id": "23666",
       "url": "https://parks.des.qld.gov.au/park-alerts/23666",
-      "description": "Due to recent heavy rain, the Atherton Forest Mountain Bike Park is temporarily closed. The closure is to protect trails from degradation and erosion and for the safety of riders.",
-      "details": "<p>Due to recent heavy rain, the Atherton Forest Mountain Bike Park is temporarily closed. The closure is to protect trails from degradation and erosion and for the safety of riders.</p> <p>For your safety, adhere to all safety signs and directions from local rangers and do not enter the closed area.</p> <p>Please monitor park alerts for current information.&nbsp;</p>",
-      "start_date": "2024-02-23",
-      "start_effective_date": "2024-01-15",
-      "end_date": "2024-03-04",
+      "description": "Due to wet conditions, Trails 12 and 9, and the lower section of Trail 6 are temporarily closed. The closure is to protect trails from degradation and erosion and for the safety of riders.",
+      "details": "<p>Due to wet conditions, Trails 12 and 9, and the lower section of Trail 6 are temporarily closed. The closure is to protect trails from degradation and erosion and for the safety of riders.</p> <p>For your safety, adhere to all safety signs and directions from local rangers and do not enter the closed area.</p> <p>Please monitor park alerts for current information.&nbsp;</p>",
+      "start_date": "2024-03-04",
+      "start_effective_date": "2024-03-04",
+      "end_date": "2024-03-25",
       "parks": [
         {
           "id": "148818",
@@ -2823,9 +2823,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23815",
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-02-29",
+      "start_date": "2024-03-04",
       "start_effective_date": "2024-02-19",
-      "end_date": "2024-03-03",
+      "end_date": "2024-03-10",
       "parks": [
         {
           "id": "148468",
@@ -2836,23 +2836,6 @@
           "id": "154596",
           "name": "Josephine Falls, Wooroonooran National Park",
           "url": "https://parks.des.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Paradise and Rockslides swimming areas, Paluma Range National Park",
-      "alert_id": "23816",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23816",
-      "description": "Paradise and Rockslides swimming areas are currently closed. Heavy rain has caused flooding and fast flowing currents, creating dangerous conditions for swimmers. Visitors are advised to stay out of the water until the current and debris subside.",
-      "details": "<p>Paradise and Rockslides swimming areas are currently closed. Heavy rain has caused flooding and fast flowing currents, creating dangerous conditions for swimmers. Visitors are advised to stay out of the water until the current and debris subside.</p> <p>Please adhere to all safety signs and directions from local rangers.<br /> &nbsp;</p>",
-      "start_date": "2024-03-01",
-      "start_effective_date": "2024-02-19",
-      "end_date": "2024-03-05",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -2989,23 +2972,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Jourama Falls camping and day-use area, Paluma Range National Park",
-      "alert_id": "23829",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23829",
-      "description": "Due to recent heavy localised rainfall and flooding of the access road, the Jourama Falls camping and day-use area are currently closed.",
-      "details": "<p>Due to recent heavy localised rainfall and flooding of the access road, the Jourama Falls camping and day-use area are currently closed.</p> <p>This park alert will be removed when the camping and day-use area have&nbsp;been reopened.</p>",
-      "start_date": "2024-03-01",
-      "start_effective_date": "2024-02-23",
-      "end_date": "2024-03-05",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Kondalilla National Park",
       "alert_id": "23831",
       "url": "https://parks.des.qld.gov.au/park-alerts/23831",
@@ -3048,11 +3014,11 @@
       "title": "Temporary track closure: Musgravea track: Djiru National Park.",
       "alert_id": "23836",
       "url": "https://parks.des.qld.gov.au/park-alerts/23836",
-      "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety from 26 February 2024 to 5 March 2024, due to a landslip associated with recent significant rainfall.",
-      "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety from 26 February 2024 to 5 March 2024, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
-      "start_date": "2024-02-26",
+      "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.",
+      "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
+      "start_date": "2024-03-04",
       "start_effective_date": "2024-02-26",
-      "end_date": "2024-03-05",
+      "end_date": "2024-03-18",
       "parks": [
         {
           "id": "147950",
@@ -3271,23 +3237,6 @@
       ]
     },
     {
-      "title": "Planned burn at Bunya Mountains National Park",
-      "alert_id": "23852",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23852",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting an aerial planned burn (weather permitting) commencing Thursday 29/2/24 as part of the fire management program for Bunya Mountains National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting an aerial planned burn (weather permitting) commencing Thursday 29/2/24 as part of the fire management program for Bunya Mountains National Park.</p> <p>During the planned burn, all visitors areas are expected to&nbsp;remain open, including camping areas, day-use areas and walking tracks.&nbsp;</p> <p>Smoke may be seen in the vicinity of the Bunya Mountains and nearby roads. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-02-29",
-      "start_effective_date": "2024-02-29",
-      "end_date": "2024-03-03",
-      "parks": [
-        {
-          "id": "149017",
-          "name": "Bunya Mountains National Park",
-          "url": "https://parks.des.qld.gov.au/parks/bunya-mountains"
-        }
-      ]
-    },
-    {
       "title": "Prescribed burn - Exploration Break East",
       "alert_id": "23853",
       "url": "https://parks.des.qld.gov.au/park-alerts/23853",
@@ -3383,19 +3332,70 @@
       ]
     },
     {
-      "title": "Lighthouse Track Closed",
-      "alert_id": "23858",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23858",
-      "description": "Lighthouse track closed due to land slip from recent rain.",
-      "details": "<p>Lighthouse track closed due to land slip from recent rain.</p> <p>A land slip has occurred on the lighthouse track, blocking access and making the track unsafe to use.</p> <p>Rangers will be onsite over the weekend with machines to clear the track.&nbsp;</p> <p>Please stay clear of the track during this time.&nbsp;</p>",
-      "start_date": "2024-03-01",
-      "start_effective_date": "2024-03-01",
-      "end_date": "2024-03-03",
+      "title": "Planned Burn - Blackdown Tableland National Park",
+      "alert_id": "23859",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23859",
+      "description": "Smoke advice due to planned burning, Blackdown Tableland National Park",
+      "details": "<p>Smoke advice due to planned burning, Blackdown Tableland National Park</p> <p>To take advantage of favourable conditions following recent rainfall, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Blackdown Tableland National Park. This burning will occur from Thursday 7th March&nbsp;2024, weather permitting, and may occur through until Monday 11 March&nbsp;2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the area during this time. For visitor safety, some facilities may require closure at short notice.</p> <p>The aim of this burning is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions. Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p><strong>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-03-04",
+      "start_effective_date": "2024-03-07",
+      "end_date": "2024-03-11",
       "parks": [
         {
-          "id": "148741",
-          "name": "Fitzroy Island National Park",
-          "url": "https://parks.des.qld.gov.au/parks/fitzroy-island"
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.des.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Cania Gorge National Park",
+      "alert_id": "23860",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23860",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Monday the 04/03/2024 until the Friday the 08/03/2024, as part of the fire management program for Cania Gorge National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Monday the 04/03/2024 until the Friday the 08/03/2024, as part of the fire management program for Cania Gorge National Park.</p> <p>During the planned burn these areas are closed to public access:</p> <p>&bull; Fern tree pool and Giant&rsquo;s chair circuit and&nbsp;Big foot walking tracks.</p> <p>Smoke may be seen in the vicinity of Fern tree pool and giant chair circuit and. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p>",
+      "start_date": "2024-03-04",
+      "start_effective_date": "2024-03-04",
+      "end_date": "2024-03-08",
+      "parks": [
+        {
+          "id": "148608",
+          "name": "Cania Gorge National Park",
+          "url": "https://parks.des.qld.gov.au/parks/cania-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to high water levels: Swamp walk, Eubenangee Swamp National Park",
+      "alert_id": "23861",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23861",
+      "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.",
+      "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.</p>",
+      "start_date": "2024-03-04",
+      "start_effective_date": "2024-03-04",
+      "end_date": "2024-03-10",
+      "parks": [
+        {
+          "id": "149501",
+          "name": "Eubenangee Swamp National Park",
+          "url": "https://parks.des.qld.gov.au/parks/eubenangee-swamp"
+        }
+      ]
+    },
+    {
+      "title": "Central Station visitor facility upgrades planned from April to June 2024",
+      "alert_id": "23862",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23862",
+      "description": "Queensland Parks and Wildlife Service will be undertaking major facility upgrades to communications and visitor facilities at Central Station in the coming months.",
+      "details": "<p>Queensland Parks and Wildlife Service will be undertaking major facility upgrades to communications and visitor facilities at Central Station in the coming months.</p> <p>As part of these works, a new septic system will be installed at the site to cater for the high visitor demands. To limited interruption during installation and reduce the load on the current septic system a temporary camping booking block on all campsites will be in place from 15 April to 21 June 2024. &nbsp;</p> <p>The day-use facilities and walking tracks will remain open during this period. Some temporary access restrictions may be required to complete the planned works.</p> <p>We thank you for your support and cooperation during these upgrades.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-04",
+      "start_effective_date": "2024-03-04",
+      "end_date": "2024-06-21",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
         }
       ]
     }
