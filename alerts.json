@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2024-03-04 11:15:43"
+    "alerts_count": 180,
+    "script_run_time": "2024-03-05 10:07:25"
   },
   "alerts": [
     {
@@ -1650,9 +1650,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23571",
       "description": "Following the impacts of ex-Tropical Cyclone Jasper, some visitor facilities in the Palmerston (Doongan) section of Wooroonooran National Park are now open.",
       "details": "<p>Following the impacts of ex-Tropical Cyclone Jasper, some visitor facilities in the Palmerston (Doongan) section of Wooroonooran National Park are now open.</p> <p>Please see below for further details of what is open and what remains temporarily closed until further notice:</p> <p><strong>Camping areas:</strong></p> <ul> <li>Henrietta Creek camping and day-use area - <strong>open</strong></li> <li>South Johnstone camping and day-use area (see Misty Mountains wilderness tracks park alert for more information on the Misty Mountains area) - <strong>closed</strong></li> </ul> <p><strong>Walking tracks</strong><strong>, day-use areas and lookouts:</strong></p> <ul> <li>Gooligans picnic area and track to Henrietta camping area - <strong>open</strong></li> <li>Tchupala Falls track - <strong>open</strong></li> <li>Crawfords lookout - <strong>open</strong></li> <li>North Johnstone lookout and walking track &ndash; <strong>open</strong></li> <li>Nandroya Falls circuit track - <strong>Nandroya Falls top track is now open, the alternate bottom track is closed </strong><strong>until further notice</strong><strong>. Track repairs are in progress. </strong></li> <li>Wallicher Falls walking track - <strong>closed</strong></li> </ul> <p>Monitor park alerts for current information.&nbsp;</p> <p>For information on the condition of the Palmerston Highway, please visit Department of Transport and Main Roads at&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">QldTraffic</a></p>",
-      "start_date": "2024-02-15",
+      "start_date": "2024-03-05",
       "start_effective_date": "2023-12-16",
-      "end_date": "2024-03-05",
+      "end_date": "2024-03-07",
       "parks": [
         {
           "id": "151396",
@@ -1667,14 +1667,14 @@
       ]
     },
     {
-      "title": "Temporary closure: Misty Mountains wilderness tracks and visitor facilities",
+      "title": "Wet season closure, some areas of the Misty Mountains road and track network, Wooroonooran National Park",
       "alert_id": "23585",
       "url": "https://parks.des.qld.gov.au/park-alerts/23585",
-      "description": "Due to impacts from ex-Tropical Cyclone Jasper, the Misty Mountains wilderness tracks are closed until further notice.",
-      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, the Misty Mountains wilderness tracks are closed until further notice.</p> <p>The closure includes all visitor facilities, camping areas, walking and mountain-bike tracks and national park roads (listed below):</p> <p>Camping areas:</p> <ul> <li>South Johnstone camping area</li> <li>Carter Creek camping area</li> <li>Hinson Creek camping area</li> <li>Cannabullen Creek camping area</li> <li>Downey Creek camping area</li> <li>Koolmoon Creek camping area</li> <li>Walters Waterhole camping area.</li> </ul> <p>Walking and mountain-bike tracks:</p> <ul> <li>Gorrell walking and mountain-biking track</li> <li>Cannabullen Creek walking track</li> <li>Cardwell Range walking and mountain-biking track</li> <li>Koolmoon Creek walking track.</li> </ul> <p>Misty Mountain roads:</p> <ul> <li>Maalan Road (off Palmerston Highway)</li> <li>K-tree Road</li> <li>Bora Ground Road</li> <li>Maple Creek Road</li> <li>Sutties Gap Road.</li> </ul> <p>Remember, if it&#39;s flooded, forget it.</p> <p>Read more on&nbsp;<a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\" target=\"_blank\">safety during extreme weather events</a><a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">.</a></p> <p>For weather information, visit&nbsp;<a href=\"http://www.bom.gov.au/\" target=\"_blank\">Bureau of Meteorology</a><strong>.</strong></p>",
-      "start_date": "2024-01-30",
+      "description": "Visitors are advised of a wet season closure to sections of the Misty Mountains road and track network from Wednesday 6 March to Thursday 28 March 2024 (dates inclusive) . The seasonal closure helps to ensure the safety of visitors during North Queenslands wet season.",
+      "details": "<p>Visitors are advised of a wet season closure to sections of the Misty Mountains road and track network from Wednesday 6 March to Thursday 28 March 2024 (dates inclusive) . The seasonal closure helps to ensure the safety of visitors during North Queenslands wet season.</p> <p><strong>Misty Mountains roads that will be closed during the seasonal closure are:</strong></p> <ul> <li>Maalan Road (off Palmerston Highway) and Bora Ground Road (these roads will remain closed to vehicles after 28 March 2024)</li> <li>K-Tree Road*</li> <li>Maple Creek Road.</li> </ul> <p><strong>Camping areas that will be closed during the seasonal closure are:</strong></p> <ul> <li>South Johnstone camping area*</li> <li>Carter Creek camping area</li> <li>Downey Creek camping area.</li> </ul> <p><strong>Walking/mountain bike tracks impacted by seasonal closure:</strong></p> <ul> <li>Gorrell track &ndash; CLOSED</li> <li>Cannabullen Creek track &ndash; CLOSED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li> </ul> <p><strong>Walking tracks and camp sites open (weather and condition dependant):</strong></p> <ul> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters waterhole camping area to Elizabeth Grant Falls).</li> </ul> <p><strong>*</strong>K-Tree Road and access to South Johnstone camping area has sustained damage during Tropical Cyclone Jasper. Continued wet season rain hampers ability to undertake remediation works. Predicting when K-Tree Road and access to South Johnstone camping area will be open is challenging and this park alert will be updated as work progresses.</p> <p>&nbsp;</p>",
+      "start_date": "2024-03-05",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-03-05",
+      "end_date": "2024-03-28",
       "parks": [
         {
           "id": "148460",
@@ -2232,23 +2232,6 @@
       ]
     },
     {
-      "title": "Flat Rock day-use area temporarily closed",
-      "alert_id": "23673",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23673",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting road maintenance at the access track to Flat Rock day-use area from Monday 15th January to Monday 4th March 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting road maintenance at the access track to Flat Rock day-use area from Monday 15th January to Monday 4th March 2024.</p> <p>Flat Rock Day&nbsp;use&nbsp;area and access track will be closed whilst works&nbsp;are&nbsp;taking place. Facilities will reopen when maintenence is complete.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-12",
-      "start_effective_date": "2024-01-15",
-      "end_date": "2024-03-04",
-      "parks": [
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.des.qld.gov.au/parks/deepwater"
-        }
-      ]
-    },
-    {
       "title": "Russell Island camping area closed",
       "alert_id": "23680",
       "url": "https://parks.des.qld.gov.au/park-alerts/23680",
@@ -2614,11 +2597,11 @@
       "title": "Planned works  Mapleton Forest Road",
       "alert_id": "23784",
       "url": "https://parks.des.qld.gov.au/park-alerts/23784",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th February  8th March, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th February  8th March, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead</p> <p>Commercial tour operators and other permit or agreement holders are to be aware of these changes in this area.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-02-20",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th February  15th March, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting a planned maintenance program at Mapleton Forest Road in Mapleton National Park from 12th February  15th March, 2024. (Weather permitting). Extra information: The following areas at Mapleton National Park will have changed conditions for the duration of the maintenance program:  Mapleton Forest Road  East Cedar Creek Road  Mapleton Day-use Area  Leafy Lane Trailhead</p> <p>Commercial tour operators and other permit or agreement holders are to be aware of these changes in this area.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-05",
       "start_effective_date": "2024-02-12",
-      "end_date": "2024-03-08",
+      "end_date": "2024-03-15",
       "parks": [
         {
           "id": "148945",
@@ -3396,6 +3379,108 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Goodedulla National Park - Planned Burning",
+      "alert_id": "23863",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23863",
+      "description": "To take advantage of favourable conditions following recent rain, Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Goodedulla National Park. This burning will occur from Tuesday 5 - Saturday 9 March. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.",
+      "details": "<p>To take advantage of favourable conditions following recent rain, Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Goodedulla National Park. This burning will occur from Tuesday 5 - Saturday 9 March. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>The aim of this burning is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-03-05",
+      "start_effective_date": "2024-03-05",
+      "end_date": "2024-03-09",
+      "parks": [
+        {
+          "id": "148396",
+          "name": "Goodedulla National Park",
+          "url": "https://parks.des.qld.gov.au/parks/goodedulla"
+        }
+      ]
+    },
+    {
+      "title": "Cathedrals grid maintenance - temporary road closure",
+      "alert_id": "23864",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23864",
+      "description": "Fence and grid maintenance will be undertaken at Cathedrals on 06 March 2024.",
+      "details": "<p>Fence and grid maintenance will be undertaken at Cathedrals on 06 March 2024.</p> <p>Access will be restricted throughout the day and large vehicles or trailers may encounter short delays.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-05",
+      "start_effective_date": "2024-03-06",
+      "end_date": "2024-03-06",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Happy Valley grid maintenance - temporary road closure",
+      "alert_id": "23865",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23865",
+      "description": "Fence and grid maintenance will be undertaken at Happy Valley on 07 March 2024.",
+      "details": "<p>Fence and grid maintenance will be undertaken at Happy Valley on 07 March 2024.</p> <p>The Eastern beach entrance road access to/from Happy Valley Township will be closed between 06:00 and 12:00 - access to Happy Valley Township will be via the high tide access road from Yidney Rocks only.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-05",
+      "start_effective_date": "2024-03-07",
+      "end_date": "2024-03-07",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Middle Creek access track - closure due to flooding",
+      "alert_id": "23866",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23866",
+      "description": "As a result of localised flooding, Middle Creek access track and Middle Creek campground, Eurimbula National Park is closed until further notice.",
+      "details": "<p>As a result of localised flooding, Middle Creek access track and Middle Creek campground, Eurimbula National Park is closed until further notice.</p> <p>Rangers will monitor conditions and open the track when safe to do so. If you have a campsite booked, please contact 13 74 68 for a refund.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-05",
+      "start_effective_date": "2024-03-05",
+      "end_date": "2024-03-08",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.des.qld.gov.au/parks/eurimbula"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning in Cape Upstart National Park",
+      "alert_id": "23867",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23867",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS &amp; P) will be conducting planned burns in Cape Upstart National Park between Thursday March 7th to Friday March 8th 2024, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS &amp; P) will be conducting planned burns in Cape Upstart National Park between Thursday March 7th to Friday March 8th 2024, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable condditions for natural regeneration.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-03-05",
+      "start_effective_date": "2024-03-07",
+      "end_date": "2024-03-08",
+      "parks": [
+        {
+          "id": "148496",
+          "name": "Cape Upstart National Park",
+          "url": "https://parks.des.qld.gov.au/parks/cape-upstart"
+        }
+      ]
+    },
+    {
+      "title": "Temporary park closure",
+      "alert_id": "23868",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23868",
+      "description": "Fort Lytton National Park is closed Sunday 17th March as there will be no power to the park due to external works.",
+      "details": "<p>Fort Lytton National Park is closed Sunday 17th March as there will be no power to the park due to external works.</p>",
+      "start_date": "2024-03-05",
+      "start_effective_date": "2024-03-17",
+      "end_date": "2024-03-17",
+      "parks": [
+        {
+          "id": "148592",
+          "name": "Fort Lytton National Park",
+          "url": "https://parks.des.qld.gov.au/parks/fort-lytton"
         }
       ]
     }
