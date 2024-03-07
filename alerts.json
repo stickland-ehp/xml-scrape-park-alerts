@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 181,
-    "script_run_time": "2024-03-06 10:07:11"
+    "alerts_count": 182,
+    "script_run_time": "2024-03-07 10:07:04"
   },
   "alerts": [
     {
@@ -1645,14 +1645,14 @@
       ]
     },
     {
-      "title": "Update on visitor facility status: Palmerston (Doongan) section, Wooroonooran National Park",
+      "title": "Temporary walking track closure: Wallicher Falls walking track and bottom section of Nandroya Falls walking track, Wooroonooran National Park",
       "alert_id": "23571",
       "url": "https://parks.des.qld.gov.au/park-alerts/23571",
-      "description": "Following the impacts of ex-Tropical Cyclone Jasper, some visitor facilities in the Palmerston (Doongan) section of Wooroonooran National Park are now open.",
-      "details": "<p>Following the impacts of ex-Tropical Cyclone Jasper, some visitor facilities in the Palmerston (Doongan) section of Wooroonooran National Park are now open.</p> <p>Please see below for further details of what is open and what remains temporarily closed until further notice:</p> <p><strong>Camping areas:</strong></p> <ul> <li>Henrietta Creek camping and day-use area - <strong>open</strong></li> <li>South Johnstone camping and day-use area (see Misty Mountains wilderness tracks park alert for more information on the Misty Mountains area) - <strong>closed</strong></li> </ul> <p><strong>Walking tracks</strong><strong>, day-use areas and lookouts:</strong></p> <ul> <li>Gooligans picnic area and track to Henrietta camping area - <strong>open</strong></li> <li>Tchupala Falls track - <strong>open</strong></li> <li>Crawfords lookout - <strong>open</strong></li> <li>North Johnstone lookout and walking track &ndash; <strong>open</strong></li> <li>Nandroya Falls circuit track - <strong>Nandroya Falls top track is now open, the alternate bottom track is closed </strong><strong>until further notice</strong><strong>. Track repairs are in progress. </strong></li> <li>Wallicher Falls walking track - <strong>closed</strong></li> </ul> <p>Monitor park alerts for current information.&nbsp;</p> <p>For information on the condition of the Palmerston Highway, please visit Department of Transport and Main Roads at&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">QldTraffic</a></p>",
-      "start_date": "2024-03-05",
+      "description": "Following the impacts of ex-Tropical Cyclone Jasper, the following are currently closed until further notice:",
+      "details": "<p>Following the impacts of ex-Tropical Cyclone Jasper, the following are currently closed until further notice:</p> <ul> <li>Wallicher Falls walking track&nbsp;</li> <li>Nandroyer Falls top track is open, however the alternate bottom track is closed. Track repairs are in progress.</li> </ul> <p>Monitor park alerts for current information.&nbsp;</p> <p>For information on the condition of the Palmerston Highway, please visit Department of Transport and Main Roads at&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">QldTraffic</a></p>",
+      "start_date": "2024-03-07",
       "start_effective_date": "2023-12-16",
-      "end_date": "2024-03-07",
+      "end_date": "2024-03-28",
       "parks": [
         {
           "id": "151396",
@@ -3366,23 +3366,6 @@
       ]
     },
     {
-      "title": "Cathedrals grid maintenance - temporary road closure",
-      "alert_id": "23864",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23864",
-      "description": "Fence and grid maintenance will be undertaken at Cathedrals on 06 March 2024.",
-      "details": "<p>Fence and grid maintenance will be undertaken at Cathedrals on 06 March 2024.</p> <p>Access will be restricted throughout the day and large vehicles or trailers may encounter short delays.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-05",
-      "start_effective_date": "2024-03-06",
-      "end_date": "2024-03-06",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Happy Valley grid maintenance - temporary road closure",
       "alert_id": "23865",
       "url": "https://parks.des.qld.gov.au/park-alerts/23865",
@@ -3498,6 +3481,40 @@
           "id": "148187",
           "name": "Dryander National Park",
           "url": "https://parks.des.qld.gov.au/parks/dryander"
+        }
+      ]
+    },
+    {
+      "title": "Event - Oceanview track 9-10 Mar 2024",
+      "alert_id": "23872",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23872",
+      "description": "There is a planned surfing event occurring at Burleigh Heads on Saturday 9 and Sunday 10 March 2024.",
+      "details": "<p>There is a planned surfing event occurring at Burleigh Heads on Saturday 9 and Sunday 10 March 2024.</p> <p>As a result, park visitors may experience temporary disruptions along the Oceanview track between the northern entrance&nbsp;on Goodwin Terrace and The Cove as participants enter the water (please refer to the <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0017/162512/burleigh-head-webmap.pdf\">park map</a> for more information on locations).</p> <p>The other walking tracks within the park will not be used for the event.</p> <p>Observe all signage, barriers and directions from rangers and event marshals and do not enter closed areas.</p>",
+      "start_date": "2024-03-07",
+      "start_effective_date": "2024-03-07",
+      "end_date": "2024-03-10",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.des.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn",
+      "alert_id": "23873",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23873",
+      "description": "This burn is being undertaken to help protect life and property in the event of a wildfire. Smoke may be seen in the vicinity of Pyramids Road and The Pyramid walking track. All locations will remain open to visitors, however visibility on Pyramids Road may be affected by smoke. For your safety, please slow down and drive safely to road conditions.",
+      "details": "<p>This burn is being undertaken to help protect life and property in the event of a wildfire. Smoke may be seen in the vicinity of Pyramids Road and The Pyramid walking track. All locations will remain open to visitors, however visibility on Pyramids Road may be affected by smoke. For your safety, please slow down and drive safely to road conditions.</p> <p>For your safety, please obey all fire restrictions. &nbsp;<br /> Please observe all signage, barriers and directions from rangers, and do not enter closed areas. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-03-07",
+      "start_effective_date": "2024-03-07",
+      "end_date": "2024-03-08",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.des.qld.gov.au/parks/girraween"
         }
       ]
     }
