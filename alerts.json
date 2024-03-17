@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2024-03-16 10:06:32"
+    "alerts_count": 169,
+    "script_run_time": "2024-03-17 10:03:42"
   },
   "alerts": [
     {
@@ -3259,23 +3259,6 @@
       ]
     },
     {
-      "title": "Police incident - The Knoll section",
-      "alert_id": "23885",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23885",
-      "description": "Due to an ongoing Police incident on Friday 15 and Saturday 16 March 2024, the Knoll section of Tamborine National Park is temporarily closed until declared safe.",
-      "details": "<p>Due to an ongoing Police incident on Friday 15 and Saturday 16 March 2024, the Knoll section of Tamborine National Park is temporarily closed until declared safe.</p> <p><strong>CLOSED&nbsp;</strong>walking tracks and visitor facilities include:</p> <ul> <li>The Knoll day-use area and lookout,</li> <li>Sandy Creek circuit.</li> </ul> <p>QPWS Rangers will reassess conditions once the Police incident resolves.&nbsp;</p> <p>Observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permt or agreement holders are not permitted to enter closed areas.</p> <p>Alternative walking tracks and facilities are available at:</p> <ul> <li>Joalah section,</li> <li>MacDonald section,</li> <li>Palm Grove section, and</li> <li>Witches Falls section.</li> </ul> <p>Please refer to the <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0015/161160/tamborine-locality-map.pdf\">park map</a> and <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0021/164442/tamborine-walking-track-map.pdf\">walking track map</a> for more information on locations.</p>",
-      "start_date": "2024-03-15",
-      "start_effective_date": "2024-03-15",
-      "end_date": "2024-03-16",
-      "parks": [
-        {
-          "id": "148199",
-          "name": "Tamborine National Park",
-          "url": "https://parks.des.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
       "title": "Planned burn to Coolmunda Conservation Park",
       "alert_id": "23886",
       "url": "https://parks.des.qld.gov.au/park-alerts/23886",
@@ -3301,23 +3284,6 @@
       "start_date": "2024-03-15",
       "start_effective_date": "2024-03-26",
       "end_date": "2024-03-27",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Multi-Sport Race Event. Taking place at Enoggera reservoir and surrounding areas.",
-      "alert_id": "23888",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23888",
-      "description": "Max Adventure Racing event happening around Enoggera Reservoir and the surrounding trails. Participants will be cycling, kayaking, and running through the area.",
-      "details": "<p>Max Adventure Racing event happening around Enoggera Reservoir and the surrounding trails. Participants will be cycling, kayaking, and running through the area.</p> <p>Expected to be busy on park.</p>",
-      "start_date": "2024-03-15",
-      "start_effective_date": "2024-03-16",
-      "end_date": "2024-03-16",
       "parks": [
         {
           "id": "200319",
