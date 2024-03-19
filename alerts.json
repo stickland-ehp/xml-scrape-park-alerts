@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-03-18 10:07:28"
+    "alerts_count": 172,
+    "script_run_time": "2024-03-19 10:06:26"
   },
   "alerts": [
     {
@@ -1560,9 +1560,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23565",
       "description": "Due to wet season conditions and associated safety considerations, Rosella Plains lookout walking track and Atkinsons lookout walking track are closed to public access.",
       "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout walking track and Atkinsons lookout walking track are closed to public access.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for further information.</p>",
-      "start_date": "2023-12-15",
-      "start_effective_date": "2023-12-15",
-      "end_date": "2024-03-18",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-19",
+      "end_date": "2024-03-29",
       "parks": [
         {
           "id": "148965",
@@ -2013,9 +2013,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23649",
       "description": "As a result of severe storm damage, Cedar Creek section of Tamborine National Park remains closed until declared safe.",
       "details": "<p>As a result of severe storm damage, Cedar Creek section of Tamborine National Park remains closed until declared safe.</p> <p>The storm caused damage to&nbsp;facilities and hazardous trees making the area unsafe for public access.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Queensland Police and QPWS Rangers are actively patrolling the closure for compliance to ensure public safety.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-08",
+      "start_date": "2024-03-19",
       "start_effective_date": "2024-01-09",
-      "end_date": "2024-03-22",
+      "end_date": "2024-04-12",
       "parks": [
         {
           "id": "148199",
@@ -2780,23 +2780,6 @@
       ]
     },
     {
-      "title": "Planned Works - Peterson Road and Brooyar Forest Drive",
-      "alert_id": "23826",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23826",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Brooyar State Forest from 26 February to 22 March 2024. For your safety, please slow down and observe all directions and signs.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Brooyar State Forest from 26 February to 22 March 2024. For your safety, please slow down and observe all directions and signs.</p> <ul> <li> <p>Peterson Road will be closed for 2 days&nbsp;between those dates&nbsp;to allow contractors&nbsp;to undertake pipe and culvert upgrades.&nbsp;</p> </li> <li> <p>Access to Point Pure Lookout and Eagles Nest Lookout will be Via Wide Bay Highway and Reid Road&nbsp;</p> </li> <li> <p>Access to Glastonbury Creek Camp Area&nbsp;will be Via Glastonbury Road&nbsp;</p> </li> </ul>",
-      "start_date": "2024-02-23",
-      "start_effective_date": "2024-02-26",
-      "end_date": "2024-03-22",
-      "parks": [
-        {
-          "id": "148063",
-          "name": "Brooyar State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/brooyar"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Kondalilla National Park",
       "alert_id": "23831",
       "url": "https://parks.des.qld.gov.au/park-alerts/23831",
@@ -3140,23 +3123,6 @@
       ]
     },
     {
-      "title": "Upper Noosa River CLOSED due to flooding",
-      "alert_id": "23879",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23879",
-      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Everglades section of the Noosa River.",
-      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Everglades section of the Noosa River.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended</strong> for the duration of the closure.</p> <p>To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. The next update will be provided by Monday 18th March.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-13",
-      "start_effective_date": "2024-03-12",
-      "end_date": "2024-03-18",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Very large tides restricting beach access",
       "alert_id": "23880",
       "url": "https://parks.des.qld.gov.au/park-alerts/23880",
@@ -3233,11 +3199,11 @@
       "title": "Planned burn to Coolmunda Conservation Park",
       "alert_id": "23886",
       "url": "https://parks.des.qld.gov.au/park-alerts/23886",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 17 to 20 March 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 17 to 20 March 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The park will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-15",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 17 to 22 March 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 17 to 22 March 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>During the planned burn,&nbsp;Coolmunda Conservation Park is closed to public access.&nbsp;</p> <p>Smoke may be seen in the vicinity of the burn and along nearby roads.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-19",
       "start_effective_date": "2024-03-17",
-      "end_date": "2024-03-20",
+      "end_date": "2024-03-22",
       "parks": [
         {
           "id": "322996",
@@ -3277,6 +3243,118 @@
           "id": "148945",
           "name": "Mapleton National Park",
           "url": "https://parks.des.qld.gov.au/parks/mapleton"
+        }
+      ]
+    },
+    {
+      "title": "Hazardous debris on beach between Hook Point and Dilli Village",
+      "alert_id": "23890",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23890",
+      "description": "Large amounts of debris from a capsized vessel are washing ashore between Hook Point and Dilli Village on the eastern beach of K'gari.",
+      "details": "<p>Large amounts of debris from a capsized vessel are washing ashore between Hook Point and Dilli Village on the eastern beach of K'gari.</p> <p>Motorists are advised to&nbsp;take extra care when traversing this section of beach&nbsp;and avoid driving over the debris as protruding screws and nails may be present.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p>",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-18",
+      "end_date": "2024-03-25",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Upper Noosa River CLOSED due to flooding",
+      "alert_id": "23891",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23891",
+      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Everglades section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walks remain open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.",
+      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the Everglades section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walks remain open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping and day use area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended</strong> for the duration of the closure.</p> <p>To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. The next update will be provided by Monday 25th March.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-19",
+      "end_date": "2024-03-25",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Walking Track Closure",
+      "alert_id": "23892",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23892",
+      "description": "Markwells Break Great Walk access track, Eastern Beach, K'gari (Fraser Island)",
+      "details": "<p>Markwells Break Great Walk access track, Eastern Beach, K'gari (Fraser Island)</p> <p>The Markwells Break Great Walk access track from the Eastern Beach will be closed due to track damage and water inundation from Monday 18th March 2024 until further notice. Access between Lake Boomangin and Eurong township remains open.</p>",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-18",
+      "end_date": "2025-03-18",
+      "parks": [
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Central Station Campground showers",
+      "alert_id": "23893",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23893",
+      "description": "Maintenance works are currently being undertaken on the Central Station Campground toilet block. The disabled toilet and hot water for the showers are temporarily unavailable.",
+      "details": "<p>Maintenance works are currently being undertaken on the Central Station Campground toilet block. The disabled toilet and hot water for the showers are temporarily unavailable.</p> <p>Alternate disabled toilet is in toilet block in the Satinay Camping area at Central Station.</p> <p>Cold water showers are still available in the Central Station Campground toilet block.</p>",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-19",
+      "end_date": "2024-03-28",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Caution needed on damaged roads",
+      "alert_id": "23894",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23894",
+      "description": "Due to seasonal wet weather and flooding, roads in Lochern and Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.",
+      "details": "<p>Due to seasonal wet weather and flooding, roads in Lochern and Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.</p> <p>Please monitor park alerts for updates and check Bureau of Meteorology for weather warnings and forecasts before visiting.<br /> Read more on your safety while visiting our Park here Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</p>",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-18",
+      "end_date": "2024-04-19",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.des.qld.gov.au/parks/welford"
+        },
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.des.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Prescribed Burn - Duck Creek",
+      "alert_id": "23895",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23895",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct as prescribed burn between 19 March and 31 May 2024 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct as prescribed burn between 19 March and 31 May 2024 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Wanggoolba Creek barge landing,<br /> Wanggoolba, Ungowa and Bennett Roads. Persons with respiratory or other<br /> health problems should seek medical advice on mitigating the effects of smoke<br /> inhalation. Smoke can decrease visibility on the roads, so it is important that<br /> motorists drive safely to the conditions.<br /> Persons with respiratory or other health problems should seek medical advice<br /> on mitigating the effects of smoke inhalation.<br /> Please observe and adhere to all signage, barriers and directions from rangers and<br /> contractors, and do not enter closed areas or exclusion zones.<br /> Your safety is our concern, but your responsibility.<br /> Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-03-19",
+      "start_effective_date": "2024-03-19",
+      "end_date": "2024-05-31",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     }
