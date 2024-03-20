@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-03-19 10:06:26"
+    "alerts_count": 176,
+    "script_run_time": "2024-03-20 10:06:40"
   },
   "alerts": [
     {
@@ -1181,14 +1181,14 @@
       ]
     },
     {
-      "title": "Wet season closure: Palmer Goldfield Resources Reserve",
+      "title": "Wet season closure extension: Palmer Goldfield Resources Reserve",
       "alert_id": "23455",
       "url": "https://parks.des.qld.gov.au/park-alerts/23455",
-      "description": "Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is 1 April 2024 (access road and weather conditions dependent). Given that Good Friday (Easter) falls on 29 March 2024, rangers will closely monitor road and weather conditions over the wet season to determine if Palmer Goldfield Resources Reserve can reopen on Friday 29 March 2024. This park alert will be updated accordingly.",
-      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is 1 April 2024 (access road and weather conditions dependent). Given that Good Friday (Easter) falls on 29 March 2024, rangers will closely monitor road and weather conditions over the wet season to determine if Palmer Goldfield Resources Reserve can reopen on Friday 29 March 2024. This park alert will be updated accordingly.</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-03-08",
+      "description": "Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Saturday 13 April 2024 (access road and weather conditions dependent).",
+      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Saturday 13 April 2024 (access road and weather conditions dependent).</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-03-20",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-13",
       "parks": [
         {
           "id": "149489",
@@ -1828,14 +1828,14 @@
       ]
     },
     {
-      "title": "Mossman Gorge section of Daintree National Park (CYPAL) visitor facility update",
+      "title": "Temporary partial track closure: Lower river walking track, Mossman Gorge, Daintree National Park (CYPAL)",
       "alert_id": "23613",
       "url": "https://parks.des.qld.gov.au/park-alerts/23613",
-      "description": "The Mossman Gorge section of the Daintree National Park (CYPAL) is partially open.",
-      "details": "<p>The Mossman Gorge section of the Daintree National Park (CYPAL) is partially open.</p> <p>Please note the following:</p> <ul> <li>Mossman Gorge Cultural Centre is open.</li> <li>At Mossman Gorge, a pedestrian bridge (number 3) on the Lower River walking track is temporarily closed due to damage sustained during the passing of Tropical Cyclone Jasper. Visitors can still access lookouts 1 and 3 along this track. For your safety, adhere to signs and barricades along this track.</li> </ul> <p>Additionally:</p> <ul> <li>The Manjal Jimalji (Devils thumb) walking track is closed until further notice due to damage sustained during the passing of Tropical Cyclone Jasper.&nbsp;</li> </ul> <p>Monitor park alerts for up-to-date information on closures.</p> <p>&nbsp;</p>",
-      "start_date": "2024-02-09",
+      "description": "Visitors are advised that a pedestrian bridge on the Lower river walking track at Mossman Gorge is temporarily closed until further notice. Visitors can still access lookouts 1 and 3 along this walking track.",
+      "details": "<p>Visitors are advised that a pedestrian bridge on the Lower river walking track at Mossman Gorge is temporarily closed until further notice. Visitors can still access lookouts 1 and 3 along this walking track.</p> <p>Expected timeframe for repairs on the pedestrian bridge is&nbsp;3-6 months, depending on material availability.</p> <p>For your safety, adhere to signs and barricades along this walking track.</p> <p>Monitor park alerts for up-to-date information.</p> <p>&nbsp;</p>",
+      "start_date": "2024-03-20",
       "start_effective_date": "2023-12-31",
-      "end_date": "2024-03-29",
+      "end_date": "2024-05-30",
       "parks": [
         {
           "id": "148131",
@@ -2077,11 +2077,11 @@
       "title": "Temporary walking track closure: Manjal Jimalji (Devils Thumb) walking track, Daintree National Park",
       "alert_id": "23656",
       "url": "https://parks.des.qld.gov.au/park-alerts/23656",
-      "description": "Due to the impacts of ex-Tropical Cyclone Jasper, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until at least 31 March 2024.",
-      "details": "<p>Due to the impacts of ex-Tropical Cyclone Jasper, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until at least 31 March 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
-      "start_date": "2024-01-11",
+      "description": "Due to the impacts of ex-Tropical Cyclone Jasper, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until at least 31 May 2024.",
+      "details": "<p>Due to the impacts of ex-Tropical Cyclone Jasper, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until at least 31 May 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
+      "start_date": "2024-03-20",
       "start_effective_date": "2024-01-11",
-      "end_date": "2024-03-31",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148131",
@@ -2248,10 +2248,10 @@
       "alert_id": "23750",
       "url": "https://parks.des.qld.gov.au/park-alerts/23750",
       "description": "The Northern Access Track (north of the Poverty Creek turnoff) to Fort Bribie day-use area is closed until further notice due to intense rainfall waterlogging the track making it unsafe for vehicles.",
-      "details": "<p>The Northern Access Track (north of the Poverty Creek turnoff) to Fort Bribie day-use area is closed until further notice due to intense rainfall waterlogging the track making it unsafe for vehicles.</p> <p>Rangers will monitor conditions and open the track when safe to do so. At this stage we anticipate the track will be closed until 12pm Friday 22nd March&nbsp;2024.&nbsp;</p> <p>Access to Gallagher Point,&nbsp;Poverty Creek and Ocean Beach camping areas remains open.&nbsp;</p> <p>Recent heavy rainfall combined with large swells and tides&nbsp;has caused all the lagoons on Ocean Beach to break through and flow across the beach. Motorist travelling along Ocean Beach should use caution as deep washouts are likely around all the lagoons with conditions changing on a tidal basis. Check depth before crossing lagoons&nbsp;as fast flowing water and soft sand can make vehicle crossing dangerous.</p> <p><strong>Beach travel is recommended one&nbsp;hour&nbsp;either side of low tide.</strong>&nbsp;Travelling three hours either side of high tide should be avoided. Driving over vegetated dunes regardless of conditions&nbsp;is not permitted.</p> <p>Observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-03-14",
+      "details": "<p>The Northern Access Track (north of the Poverty Creek turnoff) to Fort Bribie day-use area is closed until further notice due to intense rainfall waterlogging the track making it unsafe for vehicles.</p> <p>Rangers will monitor conditions and open the track when safe to do so. At this stage we anticipate the track will be closed until 12pm Thursday 28th&nbsp;March&nbsp;2024.&nbsp;</p> <p>Access to Gallagher Point,&nbsp;Poverty Creek and Ocean Beach camping areas remains open.&nbsp;</p> <p>Recent heavy rainfall combined with large swells and tides&nbsp;has caused the lagoons on Ocean Beach to break through and flow across the beach. Motorist travelling along Ocean Beach should use caution as deep washouts are likely around all the lagoons with conditions changing on a tidal basis. Check depth before crossing lagoons&nbsp;as fast flowing water and soft sand can make vehicle crossing dangerous.</p> <p><strong>Beach travel is recommended one&nbsp;hour&nbsp;either side of low tide.</strong>&nbsp;Travelling three hours either side of high tide should be avoided. Driving over vegetated dunes regardless of conditions&nbsp;is not permitted.</p> <p>Observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "start_date": "2024-03-20",
       "start_effective_date": "2024-01-30",
-      "end_date": "2024-03-22",
+      "end_date": "2024-03-28",
       "parks": [
         {
           "id": "149033",
@@ -3355,6 +3355,79 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned works - Mountain Bike Track 4 closed",
+      "alert_id": "23896",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23896",
+      "description": "Planned maintenance is set to begin on the mountain bike track 4, Creek Track. Heavy machinery will be operating in the area.",
+      "details": "<p>Planned maintenance is set to begin on the mountain bike track 4, Creek Track. Heavy machinery will be operating in the area.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-20",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-07",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Temporary toilet closure - Broadwater day use area",
+      "alert_id": "23897",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23897",
+      "description": "Broadwater Day Use Area toilet closed. Please use other amenities located at Archer Camp Ground.",
+      "details": "<p>Broadwater Day Use Area toilet closed. Please use other amenities located at Archer Camp Ground.</p>",
+      "start_date": "2024-03-20",
+      "start_effective_date": "2024-03-13",
+      "end_date": "2024-03-22",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.des.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned works - Peregian section, Noosa National Park",
+      "alert_id": "23898",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23898",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Peregian carpark on Tuesday 26th March, 2024 - weather permitting.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Peregian carpark on Tuesday 26th March, 2024 - weather permitting.</p> <p>This carpark will be closed to vehicle access for the duration of the works - Tuesday 26th March, 2024&nbsp;(6am to 5pm).<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-03-20",
+      "start_effective_date": "2024-03-20",
+      "end_date": "2024-03-27",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.des.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Wet season closure, Bartle Frere access road (western trailhead), Wooroonooran National Park",
+      "alert_id": "23899",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23899",
+      "description": "Visitors are advised of a wet season closure to Bartle Frere access road (western trailhead) until drier conditions allow safe use of the road. The seasonal closure helps ensure the safety of visitors and the condition of the road is maintained throughout the year. The closure applies to motorised vehicles so visitors can still access the park including the Bartle Frere trail. Recommended vehicle parking is in the nearby Windin Falls carpark off Gourka Road. Please monitor park alerts for changes to road status and respect the current closure to motorised vehicles.",
+      "details": "<p>Visitors are advised of a wet season closure to Bartle Frere access road (western trailhead) until drier conditions allow safe use of the road. The seasonal closure helps ensure the safety of visitors and the condition of the road is maintained throughout the year. The closure applies to motorised vehicles so visitors can still access the park including the Bartle Frere trail. Recommended vehicle parking is in the nearby Windin Falls carpark off Gourka Road. Please monitor park alerts for changes to road status and respect the current closure to motorised vehicles.</p>",
+      "start_date": "2024-03-20",
+      "start_effective_date": "2024-03-20",
+      "end_date": "2024-05-31",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.des.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "148428",
+          "name": "Bartle Frere trail, Wooroonooran National Park",
+          "url": "https://parks.des.qld.gov.au/parks/bartle-frere"
         }
       ]
     }
