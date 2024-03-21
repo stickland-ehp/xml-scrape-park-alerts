@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 176,
-    "script_run_time": "2024-03-20 10:06:40"
+    "alerts_count": 177,
+    "script_run_time": "2024-03-21 10:06:31"
   },
   "alerts": [
     {
@@ -865,11 +865,11 @@
       "title": "Chance Bay camping area closure for upgrades",
       "alert_id": "23333",
       "url": "https://parks.des.qld.gov.au/park-alerts/23333",
-      "description": "Chance Bay camping area and toilets will be closed due to construction from Monday 12 February to Friday 28 March 2024 (weather permitting).",
-      "details": "<p>Chance Bay camping area and toilets will be closed due to construction from Monday 12 February to Friday 28 March 2024 (weather permitting).</p> <p>No public access to the site will be permitted during this closure.</p> <p>Access to the Chance Bay beach will remain open at most times (restricted during barge activities).</p> <p>Access to Chance Bay track, connecting Chance Bay to South Whitehaven Beach, will remain open.</p> <p>For your safety, please observe all signs, barriers and directions from rangers and do not enter closed areas or facilities.</p> <p>Please visit this park&#39;s page on the department&#39;s website for alternative nearby park attractions and experiences.&nbsp;<a href=\"https://parks.des.qld.gov.au/parks/whitsunday-islands\">Whitsunday Islands National Park | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-02-19",
-      "start_effective_date": "2024-02-05",
-      "end_date": "2024-03-28",
+      "description": "Chance Bay camping area and toilets will be closed due to construction from Thursday 4 April to Sunday 21 April 2024 (weather permitting).",
+      "details": "<p>Chance Bay camping area and toilets will be closed due to construction from Thursday 4 April to Sunday 21 April 2024 (weather permitting).</p> <p>No public access to the site will be permitted during this closure.</p> <p>Access to the Chance Bay beach will remain open at most times (restricted during barge activities).</p> <p>Access to Chance Bay track, connecting Chance Bay to South Whitehaven Beach, will remain open.</p> <p>For your safety, please observe all signs, barriers and directions from rangers and do not enter closed areas or facilities.</p> <p>Please visit this park&#39;s page on the department&#39;s website for alternative nearby park attractions and experiences.&nbsp;<a href=\"https://parks.des.qld.gov.au/parks/whitsunday-islands\">Whitsunday Islands National Park | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-21",
+      "start_effective_date": "2024-04-04",
+      "end_date": "2024-04-21",
       "parks": [
         {
           "id": "149365",
@@ -3428,6 +3428,23 @@
           "id": "148428",
           "name": "Bartle Frere trail, Wooroonooran National Park",
           "url": "https://parks.des.qld.gov.au/parks/bartle-frere"
+        }
+      ]
+    },
+    {
+      "title": "Mount Mitchell track - temporary closure for scheduled maintenance",
+      "alert_id": "23901",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23901",
+      "description": "QPWS rangers are undertaking planned improvements to the temporary steps at the Mount Mitchell track.",
+      "details": "<p>QPWS rangers are undertaking planned improvements to the temporary steps at the Mount Mitchell track.</p> <p>The track will be closed to visitors from close of business 3rd April until close of business 4th April.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "start_date": "2024-03-21",
+      "start_effective_date": "2024-04-03",
+      "end_date": "2024-04-04",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.des.qld.gov.au/parks/main-range"
         }
       ]
     }
