@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2024-03-23 10:03:38"
+    "alerts_count": 173,
+    "script_run_time": "2024-03-24 10:03:31"
   },
   "alerts": [
     {
@@ -2665,33 +2665,6 @@
       ]
     },
     {
-      "title": "Temporary closure for aerial pest control: Wairuna and Princess Hills sections, Girringun National Park.",
-      "alert_id": "23818",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23818",
-      "description": "The Wairuna and Princess Hills section of Girringun National Park will be closed to all visitors from Monday 19 February 2024 up to and including Friday 23 February 2024 to allow the completion of a pest control program. For additional information please contact the Princess Hills Ranger Base on 07 4097 1448.",
-      "details": "<p>The Wairuna and Princess Hills section of Girringun National Park will be closed to all visitors from Monday 19 February 2024 up to and including Friday 23 February 2024 to allow the completion of a pest control program. For additional information please contact the Princess Hills Ranger Base on 07 4097 1448.</p>",
-      "start_date": "2024-02-19",
-      "start_effective_date": "2024-02-19",
-      "end_date": "2024-03-23",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun-wairuna"
-        }
-      ]
-    },
-    {
       "title": "Planned works in Nerang National Park",
       "alert_id": "23820",
       "url": "https://parks.des.qld.gov.au/park-alerts/23820",
@@ -3158,23 +3131,6 @@
           "id": "200319",
           "name": "Walkabout Creek Discovery Centre",
           "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Competitive event in Mapleton National Park",
-      "alert_id": "23889",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23889",
-      "description": "A competitive trail running event will be held in the northern section of Mapleton National Park on Saturday 23 March 2024.",
-      "details": "<p>A competitive trail running event will be held in the northern section of Mapleton National Park on Saturday 23 March 2024.</p> <p>Large numbers of competitors will be running along walking tracks, fire management trails and public access roads for the duration of the event.</p> <p>The following areas may be busier than usual with minor delays possible:</p> <ul> <li>Point Glorious Lookout</li> <li>Point Glorious Road</li> <li>Buckby Road</li> <li>Blackall Road</li> <li>Mapleton Forest Road</li> <li>Cooloolabin Dam trails and day use area</li> </ul> <p>All facilities remain open to the public. Please observe event signage and share the tracks and roads with competitors. Event participants have also been advised to share paths with other park users.</p> <p>Drive slowly to reduce dust. Please be patient and allow plenty of room if overtaking runners on roads.</p> <p>Event inquiries&nbsp;can be directed to &#39;Run Queensland&#39; on Ph contact 0447 711 232.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
-      "start_date": "2024-03-18",
-      "start_effective_date": "2024-03-18",
-      "end_date": "2024-03-23",
-      "parks": [
-        {
-          "id": "148945",
-          "name": "Mapleton National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mapleton"
         }
       ]
     },
