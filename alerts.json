@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2024-03-24 10:03:31"
+    "alerts_count": 177,
+    "script_run_time": "2024-03-25 10:07:03"
   },
   "alerts": [
     {
@@ -923,14 +923,14 @@
       ]
     },
     {
-      "title": "Wet season closure: Rungulla National Park",
+      "title": "Wet season closure extension: Rungulla National Park",
       "alert_id": "23343",
       "url": "https://parks.des.qld.gov.au/park-alerts/23343",
-      "description": "Rungulla National Park is closed for the wet season. The anticipated re-opening date is 1 April 2024 (access road and weather conditions dependent). Given that Good Friday (Easter) falls on 29 March 2024, rangers will closely monitor road and weather conditions over the wet season to determine if the park can reopen on Friday 29 March 2024.",
-      "details": "<p>Rungulla National Park is closed for the wet season. The anticipated re-opening date is 1 April 2024 (access road and weather conditions dependent). Given that Good Friday (Easter) falls on 29 March 2024, rangers will closely monitor road and weather conditions over the wet season to determine if the park can reopen on Friday 29 March 2024.</p> <p>This park alert will be updated accordingly. Please monitor park alerts for latest information.</p>",
-      "start_date": "2023-11-16",
+      "description": "The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 15 April 2024 (depending on weather and road conditions).",
+      "details": "<p>The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 15 April 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information. This park alert will be removed when the park has reopened.&nbsp;</p>",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-11-01",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-14",
       "parks": [
         {
           "id": "148067",
@@ -940,14 +940,14 @@
       ]
     },
     {
-      "title": "Wet season closure: Canyon Resources Reserve",
+      "title": "Wet season closure extension: Canyon Resources Reserve",
       "alert_id": "23344",
       "url": "https://parks.des.qld.gov.au/park-alerts/23344",
-      "description": "Canyon Resources Reserve is closed for the wet season. The anticipated re-opening date is 1 April 2024 (access road and weather conditions dependent). Given that Good Friday (Easter) falls on 29 March 2024, rangers will closely monitor road and weather conditions over the wet season to determine if Canyon Resources Reserve can reopen on Friday 29 March 2024.",
-      "details": "<p>Canyon Resources Reserve is closed for the wet season. The anticipated re-opening date is 1 April 2024 (access road and weather conditions dependent). Given that Good Friday (Easter) falls on 29 March 2024, rangers will closely monitor road and weather conditions over the wet season to determine if Canyon Resources Reserve can reopen on Friday 29 March 2024.</p> <p>This park alert will be updated accordingly. Please monitor park alerts for latest information.</p>",
-      "start_date": "2023-11-16",
+      "description": "The wet season closure of Canyon Resources Reserve has been extended. The reserve is now anticipated to reopen 15 April 2024 (depending on weather and road conditions.",
+      "details": "<p>The wet season closure of Canyon Resources Reserve has been extended. The reserve is now anticipated to reopen 15 April 2024 (depending on weather and road conditions.</p> <p>Please monitor park alerts for current information. This park alert will be removed when the reserve has reopened.</p>",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-11-01",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-14",
       "parks": [
         {
           "id": "149509",
@@ -1075,23 +1075,6 @@
           "id": "148945",
           "name": "Mapleton National Park",
           "url": "https://parks.des.qld.gov.au/parks/mapleton"
-        }
-      ]
-    },
-    {
-      "title": "Mast Head Island and Beach and Erskine Island and Beach - Seasonal Closure",
-      "alert_id": "23410",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23410",
-      "description": "The annual summer closure of Mast Head Island and beach and Erskine Island and beach begins from 15 October 2023 until 28 March 2024, inclusive.",
-      "details": "<p>The annual summer closure of Mast Head Island and beach and Erskine Island and beach begins from 15 October 2023 until 28 March 2024, inclusive.</p> <p>The closure reduces disturbance and minimises human impacts on this important breeding ground for endangered marine turtles and thousands of nesting seabirds.</p> <p>A restricted access area is enforced. Please refer to <a href=\"https://parks.des.qld.gov.au/parks/capricornia-cays/visiting-safely\">Visiting safely | Capricornia Cays National Park | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a> for clarification.</p> <p>&nbsp;</p>",
-      "start_date": "2023-10-30",
-      "start_effective_date": "2023-10-15",
-      "end_date": "2024-03-24",
-      "parks": [
-        {
-          "id": "149473",
-          "name": "Capricornia Cays National Park",
-          "url": "https://parks.des.qld.gov.au/parks/capricornia-cays"
         }
       ]
     },
@@ -1347,9 +1330,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23498",
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Wooroonooran National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Wooroonooran National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> <li>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</li> </ul>",
-      "start_date": "2023-11-28",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-11-28",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-14",
       "parks": [
         {
           "id": "148468",
@@ -1389,9 +1372,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23499",
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Tully Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Tully Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> <li>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</li> </ul>",
-      "start_date": "2023-11-28",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-11-28",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-14",
       "parks": [
         {
           "id": "147987",
@@ -1538,9 +1521,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23559",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.</p> <p>Monitor park alerts for up-to-date information on closures.</p> <p>For up-to-date weather information, see <a href=\"http://www.bom.gov.au/?ref=hdr\">Bureau of Meteorology</a>.</p>",
-      "start_date": "2024-03-13",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-12-12",
-      "end_date": "2024-04-01",
+      "end_date": "2024-04-30",
       "parks": [
         {
           "id": "322776",
@@ -1682,9 +1665,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23589",
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2023-12-19",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-19",
       "parks": [
         {
           "id": "150260",
@@ -1699,9 +1682,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23590",
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2023-12-19",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-03-31",
+      "end_date": "2024-04-19",
       "parks": [
         {
           "id": "149453",
@@ -1799,9 +1782,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23606",
       "description": "Due to recent heavy rain from ex-Tropical Cyclone Jasper Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.",
       "details": "<p>Due to recent heavy rain from ex-Tropical Cyclone Jasper Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.</p> <p>This closure is for public safety and to protect roads from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p> <p><strong>Danbulla National Park and State Forest camping areas remain open and accessible via Danbulla Road, except for Curri Curri bush camping area which is only accessible by boat.</strong></p> <p>Please monitor this park alert for current information.</p>",
-      "start_date": "2024-01-22",
+      "start_date": "2024-03-25",
       "start_effective_date": "2023-12-22",
-      "end_date": "2024-03-29",
+      "end_date": "2024-05-29",
       "parks": [
         {
           "id": "148055",
@@ -1978,10 +1961,10 @@
       "alert_id": "23646",
       "url": "https://parks.des.qld.gov.au/park-alerts/23646",
       "description": "Wall Creek Road will be temporarily closed to all motorised vehicles until further notice. The closure applies to Wall Creek Road between Tully Falls Road and Red Road. This closure is due to road damage and to allow repairs to be conducted safely.",
-      "details": "<p>Wall Creek Road will be temporarily closed to all motorised vehicles until further notice. The closure applies to Wall Creek Road between Tully Falls Road and Red Road. This closure is due to road damage and to allow repairs to be conducted safely.</p> <p><strong>Please note:&nbsp;Koombooloomba Conservation Park camping area and Koombooloomba Bush camping area are open and accessible via Tully Falls Road.</strong></p> <p><strong>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</strong></p>",
-      "start_date": "2024-01-08",
+      "details": "<p>Wall Creek Road will be temporarily closed to all motorised vehicles until further notice. The closure applies to Wall Creek Road between Tully Falls Road and Red Road. This closure is due to road damage and to allow repairs to be conducted safely.</p> <p><strong>Please note:&nbsp;Koombooloomba Conservation Park camping area and Koombooloomba Bush camping area are&nbsp;accessed&nbsp;via Tully Falls Road.</strong></p> <p><strong>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</strong></p>",
+      "start_date": "2024-03-25",
       "start_effective_date": "2024-01-08",
-      "end_date": "2024-04-01",
+      "end_date": "2024-07-01",
       "parks": [
         {
           "id": "148802",
@@ -2215,9 +2198,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23745",
       "description": "Due to recent heavy rain, the road leading to Gillies lookout (Madigan Road) has become unsafe to traverse. This road is closed until further notice for public safety and to protect from degradation and erosion.",
       "details": "<p>Due to recent heavy rain, the road leading to Gillies lookout (Madigan Road) has become unsafe to traverse. This road is closed until further notice for public safety and to protect from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p>",
-      "start_date": "2024-02-26",
+      "start_date": "2024-03-25",
       "start_effective_date": "2024-01-30",
-      "end_date": "2024-03-29",
+      "end_date": "2024-05-29",
       "parks": [
         {
           "id": "148055",
@@ -2548,9 +2531,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23799",
       "description": "In addition to the existing flood-related closure of Lawn Hill Gorge section, the southern section of Boodjamulla National Park (Aboriginal Land) is now closed due to high rainfall -- this includes Riversleigh World Heritage Area and Miyumba camping area. Roads and river crossings are inaccessible in the region.",
       "details": "<p>In addition to the existing flood-related closure of Lawn Hill Gorge section, the southern section of Boodjamulla National Park (Aboriginal Land) is now closed due to high rainfall -- this includes Riversleigh World Heritage Area and Miyumba camping area. Roads and river crossings are inaccessible in the region.</p> <p>This parkwide closure includes all visitor facilities, day-use areas, camping areas, walking tracks and vehicle access tracks.</p> <p>Please observe all access warnings, signage, barriers and directions from rangers and do not enter closed areas.</p> <p>If you have a camping booking and would like to request a refund visit&nbsp;<a href=\"https://qpws.usedirect.com/qpws/\">qld.gov.au/Camping</a></p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;for updates on park and facility closures.</p> <p>Check and stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/\">weather forecasts</a>&nbsp;and&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">road conditions.</a></p> <p><strong>Remember!</strong>&nbsp;<a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If it&#39;s flooded, forget it.</a></p>",
-      "start_date": "2024-03-08",
+      "start_date": "2024-03-25",
       "start_effective_date": "2024-02-08",
-      "end_date": "2024-03-25",
+      "end_date": "2024-04-30",
       "parks": [
         {
           "id": "151339",
@@ -2648,9 +2631,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23815",
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-03-22",
+      "start_date": "2024-03-25",
       "start_effective_date": "2024-02-19",
-      "end_date": "2024-03-25",
+      "end_date": "2024-04-01",
       "parks": [
         {
           "id": "148468",
@@ -2938,7 +2921,7 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23854",
       "description": "A feral animal control program involving aerial shooting will be conducted at Annan River (Yuku Baja Mulki) National Park and Annan River (Yuku Baja Mulki) Resources Reserves between Monday 25 March and Thursday 28 March 2024 (dates inclusive). The park and resources reserve will be closed during this period.",
       "details": "<p>A feral animal control program involving aerial shooting will be conducted at Annan River (Yuku Baja Mulki) National Park and Annan River (Yuku Baja Mulki) Resources Reserves between Monday 25 March and Thursday 28 March 2024 (dates inclusive). The park and resources reserve will be closed during this period.</p> <p>Ranger in Charge Craig Hall can be contacted on (07)&nbsp;4069 5777 or&nbsp;<a href=\"mailto:craig.hall@des.qld.gov.au\">craig.hall@des.qld.gov.au</a> for any related enquiries.</p>",
-      "start_date": "2024-03-01",
+      "start_date": "2024-03-25",
       "start_effective_date": "2024-03-25",
       "end_date": "2024-03-28",
       "parks": [
@@ -2982,9 +2965,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23861",
       "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.",
       "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.</p>",
-      "start_date": "2024-03-22",
+      "start_date": "2024-03-25",
       "start_effective_date": "2024-03-04",
-      "end_date": "2024-03-25",
+      "end_date": "2024-04-01",
       "parks": [
         {
           "id": "149501",
@@ -3058,23 +3041,6 @@
           "id": "150260",
           "name": "Broadwater, Abergowrie State Forest",
           "url": "https://parks.des.qld.gov.au/parks/broadwater-abergowrie"
-        }
-      ]
-    },
-    {
-      "title": "Potential for impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
-      "alert_id": "23878",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23878",
-      "description": "Potential for impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
-      "details": "<p>Potential for impacts to access roads to and within Byfield National Park, Conservation Park and State Forest</p> <p>Following recent and ongoing rainfall, there is a potential for the causeway at Water Park and Stony Creeks to become flooded.</p> <p>This potential&nbsp;impact is for&nbsp;access to and from the following areas -<br /> * Byfield State Forest, including Water Park Creek camping and day use area and Stony Creek day use area<br /> * Byfield Conservation Park, including Five Rocks camping area, and<br /> * Byfield National Park, including Nine Mile Beach camping area.</p> <p>Please check online for local road conditions and closures before travelling.<br /> <br /> The Water Park Creek height can be monitored at the following link:</p> <p><a href=\"http://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml\">River Height data for Waterpark Ck at Byfield * (bom.gov.au)</a></p> <p><br /> Remember, if it&#39;s flooded, forget it.</p>",
-      "start_date": "2024-03-12",
-      "start_effective_date": "2024-03-12",
-      "end_date": "2024-03-24",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/byfield"
         }
       ]
     },
@@ -3264,23 +3230,6 @@
       ]
     },
     {
-      "title": "Planned works - Peregian section, Noosa National Park",
-      "alert_id": "23898",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23898",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Peregian carpark on Tuesday 26th March, 2024 - weather permitting.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Peregian carpark on Tuesday 26th March, 2024 - weather permitting.</p> <p>This carpark will be closed to vehicle access for the duration of the works - Tuesday 26th March, 2024&nbsp;(6am to 5pm).<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-20",
-      "start_effective_date": "2024-03-20",
-      "end_date": "2024-03-27",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.des.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure, Bartle Frere access road (western trailhead), Wooroonooran National Park",
       "alert_id": "23899",
       "url": "https://parks.des.qld.gov.au/park-alerts/23899",
@@ -3372,6 +3321,135 @@
           "id": "149381",
           "name": "Plunkett Conservation Park and Wickham National Park",
           "url": "https://parks.des.qld.gov.au/parks/plunkett-wickham"
+        }
+      ]
+    },
+    {
+      "title": "Bladensburg National Park temorarily closed due to wet condition",
+      "alert_id": "23905",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23905",
+      "description": "Bladensburg National Park is temporarily closed due to wet conditions and forecasted wet weather until Friday 5 April 2024. Bough Shed Waterhole camping area is temporarily closed until 28 March 2024. Conditions will be reviewed on Thursday 27 March 2024.",
+      "details": "<p>Bladensburg National Park is temporarily closed due to wet conditions and forecasted wet weather until Friday 5 April 2024. Bough Shed Waterhole camping area is temporarily closed until 28 March 2024. Conditions will be reviewed on Thursday 27 March 2024.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-05",
+      "parks": [
+        {
+          "id": "148408",
+          "name": "Bladensburg National Park",
+          "url": "https://parks.des.qld.gov.au/parks/bladensburg"
+        }
+      ]
+    },
+    {
+      "title": "Idalia, Welford and Lochern National Parks temporarily closed due to wet conditions",
+      "alert_id": "23906",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23906",
+      "description": "Idalia, Welford and Lochern National Parks are temporarily closed due to wet conditions and forecasted wet weather until Tuesday 2 April 2024 when conditions will be reviewed.",
+      "details": "<p>Idalia, Welford and Lochern National Parks are temporarily closed due to wet conditions and forecasted wet weather until Tuesday 2 April 2024 when conditions will be reviewed.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-02",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.des.qld.gov.au/parks/welford"
+        },
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.des.qld.gov.au/parks/lochern"
+        },
+        {
+          "id": "148031",
+          "name": "Idalia National Park",
+          "url": "https://parks.des.qld.gov.au/parks/idalia"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Koombooloomba National Park bush camping area, Koombooloomba National Park",
+      "alert_id": "23907",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23907",
+      "description": "Koombooloomba National Park bush camping area is currently closed due to heavy rainfall and high dam levels causing flooding of the access road. With further rain forecast, access and road maintenance issues require a temporary closure of the bush camping area.",
+      "details": "<p>Koombooloomba National Park bush camping area is currently closed due to heavy rainfall and high dam levels causing flooding of the access road. With further rain forecast, access and road maintenance issues require a temporary closure of the bush camping area.</p> <p>This closure is in place until weather and road conditions allow it to be reopened.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-14",
+      "parks": [
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/koombooloomba"
+        }
+      ]
+    },
+    {
+      "title": "Mariala National Park closed due to heavy rainfall",
+      "alert_id": "23908",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23908",
+      "description": "Mariala National Park is closed due to heavy rainfall and the possibility of localised flooding. All roads within the park are unsealed and may become impassable when wet.",
+      "details": "<p>Mariala National Park is closed due to heavy rainfall and the possibility of localised flooding. All roads within the park are unsealed and may become impassable when wet.</p> <p>Closures include all access roads, internal park roads and all camping areas.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-07",
+      "parks": [
+        {
+          "id": "148039",
+          "name": "Mariala National Park",
+          "url": "https://parks.des.qld.gov.au/parks/mariala"
+        }
+      ]
+    },
+    {
+      "title": "Hell Hole Gorge National Park closed due to heavy rainfall",
+      "alert_id": "23909",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23909",
+      "description": "Hell Hole Gorge National Park is closed due to heavy rainfall and the possibility of localised flooding. Roads within the park may become impassable when wet.",
+      "details": "<p>Hell Hole Gorge National Park is closed due to heavy rainfall and the possibility of localised flooding. Roads within the park may become impassable when wet.</p> <p>Closures include all access roads and&nbsp;internal park roads, Powell Creek camping area, Hell Hole Waterhole and Spencers Waterhole.</p> <p>Hell Hole Gorge National Park is very remote and can become isolated after heavy rain, leaving visitors stranded.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-07",
+      "parks": [
+        {
+          "id": "148788",
+          "name": "Hell Hole Gorge National Park",
+          "url": "https://parks.des.qld.gov.au/parks/hell-hole-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Maidenwell Bunya Mountains Rd closed due to heavy rainfall",
+      "alert_id": "23910",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23910",
+      "description": "Visitors to the Bunya Mountains National Park are advised to avoid the Maidenwell Bunya Mountains Rd, due to heavy rainfall, slippery conditions and road closures.",
+      "details": "<p>Visitors to the Bunya Mountains National Park are advised to avoid the Maidenwell Bunya Mountains Rd, due to heavy rainfall, slippery conditions and road closures.</p> <p>Bunya Mountains National Park facilities remain open to the public, including camping areas and walking tracks, except where otherwise signed.&nbsp;</p> <p>Visitors are recommended to travel along&nbsp;Bunya Mountains Rd from the south, via Maclagan, or from the north, via Kumbia.&nbsp;</p> <p>&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-04-04",
+      "parks": [
+        {
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.des.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of High Country areas at Mt Moffatt due to heavy rainfall",
+      "alert_id": "23911",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23911",
+      "description": "Visitor attractions and facilities in the Mount Moffatt High Country have been temporarily closed due to heavy rainfall, making road conditions unsafe.",
+      "details": "<p>Visitor attractions and facilities in the Mount Moffatt High Country have been temporarily closed due to heavy rainfall, making road conditions unsafe.</p> <p>Closed areas include:</p> <ul> <li>High Country Drive&nbsp;</li> <li>Kenniff Drive</li> <li>Incineration site and Kenniff Lookout</li> <li>Rotary Shelter Shed camping area</li> <li>Top Shelter Shed day-use area</li> <li>Mahogany Forest</li> </ul> <p>Other visitor areas at Mount Moffatt remain open, unless otherwise signed. Visitors are reminded that 4WD vehicles are recommended for all roads within&nbsp;Mount Moffatt, and that weather and road&nbsp;conditions may change at short notice.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "start_date": "2024-03-25",
+      "start_effective_date": "2024-03-25",
+      "end_date": "2024-03-27",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.des.qld.gov.au/parks/carnarvon-mount-moffatt"
         }
       ]
     }
