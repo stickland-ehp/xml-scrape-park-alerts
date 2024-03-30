@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 197,
-    "script_run_time": "2024-03-29 10:07:21"
+    "alerts_count": 196,
+    "script_run_time": "2024-03-30 10:03:41"
   },
   "alerts": [
     {
@@ -1533,23 +1533,6 @@
       ]
     },
     {
-      "title": "Wet season closure of 2 x walking tracks; Undara Volcanic National Park",
-      "alert_id": "23565",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23565",
-      "description": "Due to wet season conditions and associated safety considerations, Rosella Plains lookout walking track and Atkinsons lookout walking track are closed to public access.",
-      "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout walking track and Atkinsons lookout walking track are closed to public access.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for further information.</p>",
-      "start_date": "2024-03-19",
-      "start_effective_date": "2024-03-19",
-      "end_date": "2024-03-29",
-      "parks": [
-        {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.des.qld.gov.au/parks/undara-volcanic"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closure: Wallicher Falls walking track and bottom section of Nandroya Falls walking track, Wooroonooran National Park",
       "alert_id": "23571",
       "url": "https://parks.des.qld.gov.au/park-alerts/23571",
@@ -2656,14 +2639,14 @@
       ]
     },
     {
-      "title": "Araucaria walking track closed until further notice.",
+      "title": "Temporary partial closure - Araucaria walking trail.",
       "alert_id": "23834",
       "url": "https://parks.des.qld.gov.au/park-alerts/23834",
-      "description": "Following recent rainfall, the Araucaria Track has been temporarily closed due to flooding.",
-      "details": "<p>Following recent rainfall, the Araucaria Track has been temporarily closed due to flooding.</p> <p>Please adhere to all signage, barriers, and directions provided by park rangers. Do not enter closed areas of the Araucaria Track, as these precautions are in place to ensure your saftey.</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Please monitor park alerts on the Department&#39;s website for updated information.</p>",
-      "start_date": "2024-03-28",
+      "description": "After substantial rainfall, the downhill section of the Araucaria track has been temporarily closed due to erosion damage. Walkers will be required to backtrack on the same path to return to the trailhead.",
+      "details": "<p>After substantial rainfall, the downhill section of the Araucaria track has been temporarily closed due to erosion damage. Walkers will be required to backtrack on the same path to return to the trailhead.</p> <p>Please adhere to all signage, barriers, and directions provided by park rangers. Do not enter closed areas of the Araucaria Track, as these precautions are in place to ensure your saftey.</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Please monitor park alerts on the Department&#39;s website for updated information.</p>",
+      "start_date": "2024-03-30",
       "start_effective_date": "2024-03-28",
-      "end_date": "2024-03-30",
+      "end_date": "2024-04-28",
       "parks": [
         {
           "id": "200319",
@@ -3658,14 +3641,14 @@
       ]
     },
     {
-      "title": "Enoggera Reservoir Closed to Water-Based Activities.",
+      "title": "Enoggera Reservoir Closed to Paddle-craft.",
       "alert_id": "23933",
       "url": "https://parks.des.qld.gov.au/park-alerts/23933",
-      "description": "Enoggera Dam is temporarily closed to all water-based activities including swimming and paddle craft. This is due to the recent significant rainfall into the catchment and resulting inflows which may affect water quality, as well as the resulting water flowing over the spillway. The closure will remain in place for the next three days. Please note any further significant rainfall could extend the closure period.",
-      "details": "<p>Enoggera Dam is temporarily closed to all water-based activities including swimming and paddle craft. This is due to the recent significant rainfall into the catchment and resulting inflows which may affect water quality, as well as the resulting water flowing over the spillway. The closure will remain in place for the next three days. Please note any further significant rainfall could extend the closure period.</p> <p>Please adhere to site signage and directions from rangers for your own safety.</p> <p>The reservoir levels will be reassessed on March 30th, 2024.</p> <p>Please check park alerts before visiting.</p>",
-      "start_date": "2024-03-28",
+      "description": "Enoggera Reservoir is temporarily closed to paddle craft. This is due to the recent significant rainfall into the catchment and resulting in water flowing over the spillway. Please note any further significant rainfall could extend the closure period.",
+      "details": "<p>Enoggera Reservoir is temporarily closed to paddle craft. This is due to the recent significant rainfall into the catchment and resulting in water flowing over the spillway. Please note any further significant rainfall could extend the closure period.</p> <p>Please adhere to all signage, barriers, and directions provided by park rangers.&nbsp;</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Monitor park alerts on the Department&#39;s website for updated information.</p>",
+      "start_date": "2024-03-30",
       "start_effective_date": "2024-03-28",
-      "end_date": "2024-03-30",
+      "end_date": "2024-04-01",
       "parks": [
         {
           "id": "200319",
