@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 196,
-    "script_run_time": "2024-03-31 10:03:37"
+    "alerts_count": 190,
+    "script_run_time": "2024-04-01 10:07:34"
   },
   "alerts": [
     {
@@ -739,73 +739,6 @@
       ]
     },
     {
-      "title": "Poison canisters washing up on Southeast Queensland beaches",
-      "alert_id": "23256",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23256",
-      "description": "Queensland Parks and Wildlife Service is warning visitors of the potential dangers posed by toxic canisters washing up on Queensland beaches.",
-      "details": "<p>Queensland Parks and Wildlife Service is warning visitors of the potential dangers posed by toxic canisters washing up on Queensland beaches.</p> <p>Since February 2012, emergency services have received reports from the public of small unlabelled canisters washing up on Australian beaches. Over the last two months, canisters have been reported washed up on beaches at K&rsquo;gari, Mulgumpin (Moreton Island) and Minjerribah (North Stradbroke Island).</p> <p>The canisters contain a rat poison known as &lsquo;aluminium phosphide&rsquo;, a white to grey solid which is hazardous to humans.</p> <p>When the canister is opened, the powder reacts with moisture in the air to release phosphine gas, which is also highly toxic to humans. The gas has a strong odour that can smell like garlic, rotting fish or urine, but it can quickly dull the sense of smell.</p> <p>Exposure can cause symptoms such as headaches, nausea, vomiting, difficulty breathing, dizziness, tightness of the chest, diarrhoea, fluid in the lungs, liver/kidney damage, and in severe cases death.</p> <p>The gas is also flammable and can spontaneously ignite causing burns or small explosions.</p> <p>The canisters are silver in colour and approximately 22 centimetres tall. They have a tapered top with a screw in lid. Visit <a href=\"https://www.amsa.gov.au/news-community/news-and-media-releases/poison-canister-warning\">https://www.amsa.gov.au/news-community/news-and-media-releases/poison-canister-warning</a> for images of the canisters.</p> <p><strong>Canisters should not <strong>be moved or opened, and any sightings should be reported to emergency services on Triple Zero (000). </strong></strong></p>",
-      "start_date": "2023-09-04",
-      "start_effective_date": "2023-09-04",
-      "end_date": "2024-03-31",
-      "parks": [
-        {
-          "id": "148552",
-          "name": "Teerk Roo Ra National Park",
-          "url": "https://parks.des.qld.gov.au/parks/teerk-roo-ra"
-        },
-        {
-          "id": "150256",
-          "name": "Southern Moreton Bay Islands National Park",
-          "url": "https://parks.des.qld.gov.au/parks/southern-moreton-bay"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.des.qld.gov.au/parks/inskip-peninsula"
-        },
-        {
-          "id": "149369",
-          "name": "Woody Island (Tooliewah) and Little Woody Island (Walangoora), Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/great-sandy-woody"
-        },
-        {
-          "id": "149377",
-          "name": "St Helena Island National Park",
-          "url": "https://parks.des.qld.gov.au/parks/st-helena-island"
-        },
-        {
-          "id": "151400",
-          "name": "South Stradbroke Island Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/south-stradbroke-island"
-        },
-        {
-          "id": "148315",
-          "name": "Minjerribah Recreation Area",
-          "url": "https://parks.des.qld.gov.au/parks/minjerribah"
-        },
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.des.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.des.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
       "title": "Razorback track closed",
       "alert_id": "23309",
       "url": "https://parks.des.qld.gov.au/park-alerts/23309",
@@ -1198,23 +1131,6 @@
       ]
     },
     {
-      "title": "Woody Island on Low Islets Reef (offshore Port Douglas) seasonal closure",
-      "alert_id": "23467",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23467",
-      "description": "Access to Woody Island on Low Islets Reef (16-028) is prohibited during the seasonal closure period of 15 November 2023 to 31 March 2024 to protect nesting birds.",
-      "details": "<p>Access to Woody Island on Low Islets Reef (16-028) is prohibited during the seasonal closure period of 15 November 2023 to 31 March 2024 to protect nesting birds.</p> <p>During the closure period, access to Woody Island and airspace up to 500 feet above the ground or water is prohibited unless authorised. Please also comply with any signage buoys.</p> <p>For further information please email <a href=\"mailto:QPWSgbrmciGBRMPR.Corro@des.qld.gov.au?subject=Woody%20Island%20seasonal%20closure%20query%20(GBRCMP)\">Queensland Parks and Wildlife Service</a>.</p>",
-      "start_date": "2023-12-19",
-      "start_effective_date": "2023-12-19",
-      "end_date": "2024-03-31",
-      "parks": [
-        {
-          "id": "327915",
-          "name": "Great Barrier Reef Coast Marine Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Wet season closure extension: Princess Hills section, Girringun National Park",
       "alert_id": "23471",
       "url": "https://parks.des.qld.gov.au/park-alerts/23472",
@@ -1407,28 +1323,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.des.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Challenging summer hiking conditions",
-      "alert_id": "23520",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23520",
-      "description": "Hiking the Thorsborne Trail is considerably challenging during the summer months between October to March.",
-      "details": "<p>Hiking the Thorsborne Trail is considerably challenging during the summer months between October to March.</p> <p>Conditions can be extremely hot and humid at this time of year which increases the risk of heat related injuries. Water sources often dry up in the lead up to the wet season. When the wet season starts, high rainfall results in rapidly rising creeks making crossing dangerous. Extreme weather events are also more likely during the wet season. QPWS strongly recommends careful consideration of choosing to undertake the Thorsborne Trail hike during the summer months.</p> <p>The Thorsborne Trail is closed seasonally from the start of January to the end of February due to the high risk of unsafe conditions over this period.&nbsp;</p>",
-      "start_date": "2023-12-06",
-      "start_effective_date": "2023-10-01",
-      "end_date": "2024-03-31",
-      "parks": [
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.des.qld.gov.au/parks/hinchinbrook"
-        },
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.des.qld.gov.au/parks/hinchinbrook-thorsborne"
         }
       ]
     },
@@ -2249,23 +2143,6 @@
       ]
     },
     {
-      "title": "Drive with caution - Stockyard Point track, Byfield State Forest to Byfield National Park boundary",
-      "alert_id": "23767",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23767",
-      "description": "Visitors travelling along the unsealed Stockyard Point track between Water Park Creek and the Byfield National Park boundary are reminded to drive with care due to current road conditions.",
-      "details": "<p>Visitors travelling along the unsealed Stockyard Point track between Water Park Creek and the Byfield National Park boundary are reminded to drive with care due to current road conditions.</p> <p>Sections of the road are corrugated with potholes and there is a section where the road narrows due to road edge deterioration - road signage has been ordered for this section but barrier mesh is currently delineating this area until roadworks and signage installations are able to be completed. Drivers are urged to slow down in this marked area to watch for oncoming traffic.</p> <p>Roadworks will be occurring in this area in the short term - this Park Alert will be updated once dates are scheduled with the contractor.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "start_date": "2024-02-05",
-      "start_effective_date": "2024-02-02",
-      "end_date": "2024-03-31",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: ladies change shelter, Lake Eacham, Crater Lakes National Park",
       "alert_id": "23768",
       "url": "https://parks.des.qld.gov.au/park-alerts/23768",
@@ -2775,23 +2652,6 @@
       ]
     },
     {
-      "title": "Dingo Awareness - Eurong township and fenced area",
-      "alert_id": "23849",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23849",
-      "description": "Please be aware that there is a likelihood of a dingo being inside the Eurong fenced area.",
-      "details": "<p>Please be aware that there is a likelihood of a dingo being inside the Eurong fenced area.</p> <p>The dingo has been observed loitering in locations including resort area, public toilets and residential area. Any sightings or interactions should be reported to (07) 4127 9150 or <a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a></p> <p>QPWS have implemented ongoing management actions to inspect and monitor potential dingo entry points, monitor dingo behaviour reports and implement dingo removal from fenced area.</p> <p>To assist QPWS and ensure visitor safety, please ensure all gates are closed after use and report any observed fence damage to <a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a></p> <p><strong>Please ensure you are following Be dingo-safe! behaviours</strong></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Secure all food, rubbish and personal items.</li> </ul> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-02-28",
-      "start_effective_date": "2024-02-28",
-      "end_date": "2024-03-31",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Access road caution: Wallaman Falls camping and day-use area, Girringun National Park",
       "alert_id": "23851",
       "url": "https://parks.des.qld.gov.au/park-alerts/23851",
@@ -2934,23 +2794,6 @@
           "id": "150260",
           "name": "Broadwater, Abergowrie State Forest",
           "url": "https://parks.des.qld.gov.au/parks/broadwater-abergowrie"
-        }
-      ]
-    },
-    {
-      "title": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
-      "alert_id": "23878",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23878",
-      "description": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
-      "details": "<p>Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest</p> <p>Following recent and ongoing rainfall,&nbsp;the causeway at Water Park&nbsp;has become flooded.</p> <p>This will&nbsp;impact&nbsp;access to and from the following areas -<br /> * Byfield State Forest, including Water Park Creek camping and day use<br /> * Byfield Conservation Park, including Five Rocks camping area, and<br /> * Byfield National Park, including Nine Mile Beach camping area.</p> <p>Further rain has the potential to impact access to Upper Stony camping and day use also.</p> <p>Please check online for local road conditions and closures before travelling.<br /> <br /> The Water Park Creek height can be monitored at the following link:</p> <p><a href=\"http://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml\">River Height data for Waterpark Ck at Byfield * (bom.gov.au)</a></p> <p><br /> Remember, if it&#39;s flooded, forget it.</p>",
-      "start_date": "2024-03-26",
-      "start_effective_date": "2024-03-26",
-      "end_date": "2024-03-31",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/byfield"
         }
       ]
     },
