@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 190,
-    "script_run_time": "2024-04-01 10:07:34"
+    "alerts_count": 185,
+    "script_run_time": "2024-04-02 10:07:19"
   },
   "alerts": [
     {
@@ -1748,10 +1748,10 @@
       "alert_id": "23636",
       "url": "https://parks.des.qld.gov.au/park-alerts/23636",
       "description": "Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).",
-      "details": "<p>Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Please note, Douglas Shire Council have&nbsp;information on their website regarding the <a href=\"https://douglas.qld.gov.au/daintree-coast-road-update-cape-tribulation-road-bloomfield-track/\">Daintree Coast Road</a>, including a <a href=\"https://douglas.qld.gov.au/download/Cape-Trib-Road-Visitor-Fact-Sheet2.pdf\">Cape Tribulation Road Fact Sheet.</a>&nbsp;Contact <a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>, or phone 1800 026 318 for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are <strong>open,</strong> (subject to road conditions<strong>&nbsp;</strong>as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra Range lookout</li> <li>Jindalba day-use area and amenities block</li> <li>Madja boardwalk</li> <li>Dubuji day-use area, amenitites block and boardwalks</li> <li>Kulki day-use area and amenities block.</li> </ul> <p>The following QPWS visitor facilties are <strong>partially open:</strong></p> <ul> <li>Jindalaba boardwalk: the first 180m of boardwalk is open. A return walk is available at the exit side.</li> <li>Kulki boardwalk is open, however access to the lookout is not possible.</li> </ul> <p>Monitor park alerts for up-to-date information on visitor facilities.&nbsp;</p> <p>&nbsp;</p>",
-      "start_date": "2024-03-28",
+      "details": "<p>Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Please note, Douglas Shire Council have&nbsp;information on their website regarding the <a href=\"https://douglas.qld.gov.au/daintree-coast-road-update-cape-tribulation-road-bloomfield-track/\">Daintree Coast Road</a>, including a <a href=\"https://douglas.qld.gov.au/download/Cape-Trib-Road-Visitor-Fact-Sheet2.pdf\">Cape Tribulation Road Fact Sheet.</a>&nbsp;Contact <a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>, or phone 1800 026 318 for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are <strong>open,</strong> (subject to road conditions<strong>&nbsp;</strong>as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra Range lookout</li> <li>Jindalba day-use area, amenities block and first 180m of boardwalk (return walk is available at the exit side)</li> <li>Madja boardwalk</li> <li>Dubuji day-use area, amenitites block and boardwalk</li> <li>Kulki day-use area, amenities block and boardwalk.</li> </ul> <p>Monitor park alerts for up-to-date information on visitor facilities.&nbsp;</p>",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-01-04",
-      "end_date": "2024-04-05",
+      "end_date": "2024-06-30",
       "parks": [
         {
           "id": "148131",
@@ -2423,9 +2423,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23815",
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-03-25",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-02-19",
-      "end_date": "2024-04-01",
+      "end_date": "2024-04-05",
       "parks": [
         {
           "id": "148468",
@@ -2587,11 +2587,11 @@
       "title": "Townsville Town Common Conservation Park",
       "alert_id": "23843",
       "url": "https://parks.des.qld.gov.au/park-alerts/23843",
-      "description": "Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Wednesday 3 April 2024. These closures are due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.",
-      "details": "<p>Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Wednesday 3 April 2024. These closures are due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-27",
+      "description": "Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Friday 3 May 2024. These closures are due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.",
+      "details": "<p>Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Friday 3 May 2024. These closures are due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-02-27",
-      "end_date": "2024-04-02",
+      "end_date": "2024-05-03",
       "parks": [
         {
           "id": "148311",
@@ -2604,11 +2604,11 @@
       "title": "Alligator Creek Falls walking track and camping area seasonal closure",
       "alert_id": "23844",
       "url": "https://parks.des.qld.gov.au/park-alerts/23844",
-      "description": "The Alligator Creek Falls walking track and camping area is currently closed and anticipated to re-open Tuesday 2 April 2024. This closure is due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.",
-      "details": "<p>The Alligator Creek Falls walking track and camping area is currently closed and anticipated to re-open Tuesday 2 April 2024. This closure is due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-27",
+      "description": "The Alligator Creek Falls walking track and camping area is currently closed and anticipated to re-open Friday 3 May 2024. This closure is due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.",
+      "details": "<p>The Alligator Creek Falls walking track and camping area is currently closed and anticipated to re-open Friday 3 May 2024. This closure is due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-02-27",
-      "end_date": "2024-04-02",
+      "end_date": "2024-05-03",
       "parks": [
         {
           "id": "149433",
@@ -2718,9 +2718,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23861",
       "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.",
       "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.</p>",
-      "start_date": "2024-03-25",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-03-04",
-      "end_date": "2024-04-01",
+      "end_date": "2024-04-05",
       "parks": [
         {
           "id": "149501",
@@ -2730,14 +2730,14 @@
       ]
     },
     {
-      "title": "Central Station visitor facility upgrades planned from April to June 2024",
+      "title": "Central Station visitor facility upgrades planned from April to July 2024",
       "alert_id": "23862",
       "url": "https://parks.des.qld.gov.au/park-alerts/23862",
       "description": "Queensland Parks and Wildlife Service will be undertaking major facility upgrades to communications and visitor facilities at Central Station in the coming months.",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking major facility upgrades to communications and visitor facilities at Central Station in the coming months.</p> <p>As part of these works, a new wastewater treatment system&nbsp;will be installed at the site to cater for the high visitor demands. To limit interruption during installation and reduce the load on the current wastewater treatment system, a temporary restriction&nbsp;for new camping permits&nbsp;will be in place from 15 April to 21 June 2024. &nbsp;</p> <p>Visitors with existing camping permits will still be able to camp in the Central Station camping area.</p> <p>The day-use facilities and walking tracks will remain open during this period. Some&nbsp;temporary access restrictions may be required to complete the planned works but will be timed to limit any impacts to campers and day visitors.&nbsp;</p> <p>We thank you for your support and cooperation during these upgrades.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-11",
+      "details": "<p>Queensland Parks and Wildlife Service will be undertaking major facility upgrades to communications and visitor facilities at Central Station in the coming months.</p> <p>As part of these works, a new wastewater treatment system&nbsp;will be installed at the site to cater for the high visitor demands. To limit interruption during installation and reduce the load on the current wastewater treatment system, a temporary restriction&nbsp;for new camping permits&nbsp;will be in place from 15 April to 31&nbsp;July&nbsp;2024. &nbsp;</p> <p>Visitors with existing camping permits will still be able to camp in the Central Station camping area.</p> <p>The day-use facilities and walking tracks will remain open during this period. Some&nbsp;temporary access restrictions may be required to complete the planned works but will be timed to limit any impacts to campers and day visitors.&nbsp;</p> <p>We thank you for your support and cooperation during these upgrades.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-03-04",
-      "end_date": "2024-06-21",
+      "end_date": "2024-07-31",
       "parks": [
         {
           "id": "148007",
@@ -3139,23 +3139,6 @@
       ]
     },
     {
-      "title": "Maidenwell Bunya Mountains Rd closed due to heavy rainfall",
-      "alert_id": "23910",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23910",
-      "description": "Visitors to the Bunya Mountains National Park are advised to avoid the Maidenwell Bunya Mountains Rd, due to heavy rainfall, slippery conditions and road closures.",
-      "details": "<p>Visitors to the Bunya Mountains National Park are advised to avoid the Maidenwell Bunya Mountains Rd, due to heavy rainfall, slippery conditions and road closures.</p> <p>Bunya Mountains National Park facilities remain open to the public, including camping areas and walking tracks, except where otherwise signed.&nbsp;</p> <p>Visitors are recommended to travel along&nbsp;Bunya Mountains Rd from the south, via Maclagan, or from the north, via Kumbia.&nbsp;</p> <p>&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-25",
-      "start_effective_date": "2024-03-25",
-      "end_date": "2024-04-04",
-      "parks": [
-        {
-          "id": "149017",
-          "name": "Bunya Mountains National Park",
-          "url": "https://parks.des.qld.gov.au/parks/bunya-mountains"
-        }
-      ]
-    },
-    {
       "title": "Mt Moffatt closed due to heavy rainfall",
       "alert_id": "23911",
       "url": "https://parks.des.qld.gov.au/park-alerts/23911",
@@ -3173,29 +3156,12 @@
       ]
     },
     {
-      "title": "Temporary camping and day-use area closure: Jourama Falls, Paluma Range National Park",
-      "alert_id": "23912",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23912",
-      "description": "Due to recent continued heavy localised rainfall and high creek levels, the Jourama Falls camping and day-use areas are currently closed until further notice.",
-      "details": "<p>Due to recent continued heavy localised rainfall and high creek levels, the Jourama Falls camping and day-use areas are currently closed until further notice.</p> <p>Weather and road conditions will determine when the day-use and camping areas are&nbsp;safe to re-open.&nbsp;</p> <p>Please monitor park alerts for up-to-date information.&nbsp;</p>",
-      "start_date": "2024-03-28",
-      "start_effective_date": "2024-03-26",
-      "end_date": "2024-04-01",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Currawinya National Park - partial closure due to wet conditions",
       "alert_id": "23913",
       "url": "https://parks.des.qld.gov.au/park-alerts/23913",
-      "description": "Due to recent rain, some facilities within Currawinya National Park are closed. Some roads and camping areas are expected to open on Friday 29th March 2024.",
-      "details": "<p>Due to recent rain, some facilities within Currawinya National Park are closed. Some roads and camping areas are expected to open on Friday 29th March 2024.</p> <p>Closures include:</p> <ul> <li>Corni Paroo camping area</li> <li>Caiwarro camping area</li> <li>Pump Hole camping area</li> <li>Beefwood track</li> <li>Northern from Werewilka</li> <li>Shortcut from Boorara Woolshed to Myninya camping area</li> <li>Roads north of the Boorara Woolshed</li> <li>Lakes Rd</li> </ul> <p>Ourimperee and Myninya camping areas will&nbsp;re-open&nbsp;from 29/3/24.</p> <p>For more information call the Currawinya Office on 0746554001.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-03-28",
+      "description": "Due to recent rain, some roads and visitor facilities within Currawinya National Park are closed.",
+      "details": "<p>Due to recent rain, some roads and visitor facilities within Currawinya National Park are closed.</p> <p>Closures include:</p> <ul> <li>Boorara Springs Circuit (roads north of Myninya camping area)</li> <li>Shortcut from Boorara Woolshed to Myninya camping area</li> <li>Roads north of the Boorara Woolshed</li> <li>Lakes Rd</li> </ul> <p>All Currawinya camping areas will&nbsp;be open from 2/4/24.</p> <p>For more information call the Currawinya Office on 0746554001.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-04-02",
       "start_effective_date": "2024-03-26",
       "end_date": "2024-04-03",
       "parks": [
@@ -3484,23 +3450,6 @@
       ]
     },
     {
-      "title": "Enoggera Reservoir Closed to Paddle-craft.",
-      "alert_id": "23933",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23933",
-      "description": "Enoggera Reservoir is temporarily closed to paddle craft. This is due to the recent significant rainfall into the catchment and resulting in water flowing over the spillway. Please note any further significant rainfall could extend the closure period.",
-      "details": "<p>Enoggera Reservoir is temporarily closed to paddle craft. This is due to the recent significant rainfall into the catchment and resulting in water flowing over the spillway. Please note any further significant rainfall could extend the closure period.</p> <p>Please adhere to all signage, barriers, and directions provided by park rangers.&nbsp;</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Monitor park alerts on the Department&#39;s website for updated information.</p>",
-      "start_date": "2024-03-30",
-      "start_effective_date": "2024-03-28",
-      "end_date": "2024-04-01",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Northern access to Starkvale camping area closed - due to wet weather",
       "alert_id": "23934",
       "url": "https://parks.des.qld.gov.au/park-alerts/23934",
@@ -3514,45 +3463,6 @@
           "id": "323012",
           "name": "Expedition State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Carnarvon Gorge closure due to heavy rainfall",
-      "alert_id": "23935",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23935",
-      "description": "The Carnarvon Gorge section of Carnarvon National Park and the Carnarvon Great Walk are temporarily closed due to heavy rainfall and extremely wet conditions.",
-      "details": "<p>The Carnarvon Gorge section of Carnarvon National Park and the Carnarvon Great Walk are temporarily closed due to heavy rainfall and extremely wet conditions.</p> <p>Closures&nbsp;include:</p> <ul> <li>Carnarvon Gorge camping area</li> <li>Big Bend camping area</li> <li>Carnarvon Great Walk walkers&#39; camps</li> <li>All Carnarvon Gorge walking tracks, Nature Trail and Rockpools areas</li> <li>All day-use areas and visitor facilities</li> </ul> <p>All camping permits are suspended for the duration of the closure.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "start_date": "2024-03-28",
-      "start_effective_date": "2024-03-28",
-      "end_date": "2024-04-02",
-      "parks": [
-        {
-          "id": "150195",
-          "name": "Carnarvon Great Walk",
-          "url": "https://parks.des.qld.gov.au/parks/carnarvon-great-walk"
-        },
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.des.qld.gov.au/parks/carnarvon-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Benarkin State Forest temporarily closed due to heavy rainfall",
-      "alert_id": "23936",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23936",
-      "description": "Benarkin State Forest is temporarily closed due to heavy rainfall and extremely wet road conditions.",
-      "details": "<p>Benarkin State Forest is temporarily closed due to heavy rainfall and extremely wet road conditions.</p> <p>Closures&nbsp;include:</p> <ul> <li>Emu Creek and Clancys&nbsp;camping areas</li> <li>All internal&nbsp;forest&nbsp;roads</li> <li>Day-use areas&nbsp;and visitor facilities</li> </ul> <p>All camping permits are suspended for the duration of the closure.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-03-28",
-      "start_effective_date": "2024-03-28",
-      "end_date": "2024-04-04",
-      "parks": [
-        {
-          "id": "148071",
-          "name": "Benarkin State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/benarkin"
         }
       ]
     },
