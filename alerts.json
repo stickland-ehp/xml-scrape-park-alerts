@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 181,
-    "script_run_time": "2024-04-04 10:06:35"
+    "alerts_count": 184,
+    "script_run_time": "2024-04-05 10:07:15"
   },
   "alerts": [
     {
@@ -825,11 +825,11 @@
       "title": "Wet season closure: Errk Oykangand National Park (CYPAL)",
       "alert_id": "23337",
       "url": "https://parks.des.qld.gov.au/park-alerts/23337",
-      "description": "Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen 1 May 2024, subject to road and weather conditions.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen 1 May 2024, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2023-11-17",
+      "description": "Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen 1 July 2024, subject to road and weather conditions.",
+      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen 1 July 2024, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-04-05",
       "start_effective_date": "2023-11-01",
-      "end_date": "2024-04-30",
+      "end_date": "2024-06-30",
       "parks": [
         {
           "id": "148949",
@@ -1083,11 +1083,11 @@
       "title": "Wet season closure extension: Palmer Goldfield Resources Reserve",
       "alert_id": "23455",
       "url": "https://parks.des.qld.gov.au/park-alerts/23455",
-      "description": "Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Saturday 13 April 2024 (access road and weather conditions dependent).",
-      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Saturday 13 April 2024 (access road and weather conditions dependent).</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-03-20",
+      "description": "Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Thursday 25 April 2024 (access road and weather conditions dependent).",
+      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Thursday 25 April 2024 (access road and weather conditions dependent).</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-04-05",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-04-13",
+      "end_date": "2024-04-24",
       "parks": [
         {
           "id": "149489",
@@ -2182,9 +2182,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23780",
       "description": "The Gap Creek Falls walking track and Palm Grove circuit at Main Range National Park are undergoing maintenance and will remain closed until further notice.",
       "details": "<p>The Gap Creek Falls walking track and Palm Grove circuit at Main Range National Park are undergoing maintenance and will remain closed until further notice.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-14",
+      "start_date": "2024-04-05",
       "start_effective_date": "2024-02-07",
-      "end_date": "2024-04-05",
+      "end_date": "2024-05-05",
       "parks": [
         {
           "id": "148480",
@@ -2808,9 +2808,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23881",
       "description": "Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary. Please visit QPWS web site for future updates.",
       "details": "<p>Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary. Please visit QPWS web site for future updates.</p> <p>Please monitor park alerts for updates and check Bureau of Meteorology for weather warnings and forecasts.</p> <p><br /> Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p><br /> Read more on your safety while visiting our Park here Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</p> <p><br /> For your safety, please observe all signage, barriers, and directions from Rangers, Contractors and do not enter closed areas.</p>",
-      "start_date": "2024-03-12",
+      "start_date": "2024-04-05",
       "start_effective_date": "2024-03-12",
-      "end_date": "2024-04-08",
+      "end_date": "2024-04-22",
       "parks": [
         {
           "id": "148360",
@@ -2920,23 +2920,6 @@
       ]
     },
     {
-      "title": "Mount Mitchell track - temporary closure for scheduled maintenance",
-      "alert_id": "23901",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23901",
-      "description": "QPWS rangers are undertaking planned improvements to the temporary steps at the Mount Mitchell track.",
-      "details": "<p>QPWS rangers are undertaking planned improvements to the temporary steps at the Mount Mitchell track.</p> <p>The track will be closed to visitors from close of business 3rd April until close of business 4th April.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
-      "start_date": "2024-03-21",
-      "start_effective_date": "2024-04-03",
-      "end_date": "2024-04-04",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Emu Swamp Camping Areas, Emu Swamp Camping Area and Werrington Road, Blackbraes National Park closed due to boggy access track.",
       "alert_id": "23902",
       "url": "https://parks.des.qld.gov.au/park-alerts/23902",
@@ -2954,12 +2937,12 @@
       ]
     },
     {
-      "title": "Advisory notice - Temporary track closure - Helicopter operations",
+      "title": "Planned works and temporary closures for Springbrook walking tracks  Helicopter operations.",
       "alert_id": "23903",
       "url": "https://parks.des.qld.gov.au/park-alerts/23903",
-      "description": "As a result of helicopter operations between the 8th and the 12th of April 2024 (weather dependant) for a walking track maintenance project, a temporary track closures will be in place for public safety while materials are being lifted into site.",
-      "details": "<p>As a result of helicopter operations between the 8th and the 12th of April 2024 (weather dependant) for a walking track maintenance project, a temporary track closures will be in place for public safety while materials are being lifted into site.</p> <p>The helicopter operations will be conducted&nbsp;over one day and will affect the walking tracks listed below:</p> <ul> <li>Twin falls circuit</li> <li>Purling Brook Falls circuit</li> <li>Warringa pool track</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Park alerts will be regularly updated regarding conditions on park. The next update&nbsp;will be on the 4th of April 2024.</p>",
-      "start_date": "2024-03-22",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday 8 April 2024 (weather permitting). As a result of helicopter operations temporary track closures will be in place for public safety while materials and equipment are air-lifted into site.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday 8 April 2024 (weather permitting). As a result of helicopter operations temporary track closures will be in place for public safety while materials and equipment are air-lifted into site.</p> <p>The following walking tracks will be closed from <strong>8 &ndash; 12 April 2024</strong>:</p> <ul> <li>Twin Falls circuit</li> <li>Purling Brook Falls circuit</li> <li>Warringa Pool track</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Facilities will reopen when construction is completed in June 2024.</p> <p>Please visit this parks web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a> on the departments website for updated information.</p>",
+      "start_date": "2024-04-05",
       "start_effective_date": "2024-03-22",
       "end_date": "2024-04-12",
       "parks": [
@@ -3093,9 +3076,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23913",
       "description": "Due to recent rain, some roads and visitor facilities within Currawinya National Park are closed.",
       "details": "<p>Due to recent rain, some roads and visitor facilities within Currawinya National Park are closed.</p> <p>Closures include:</p> <ul> <li>Boorara Springs Circuit (roads north of Myninya camping area)</li> <li>Shortcut from Boorara Woolshed to Myninya camping area</li> <li>Roads north of the Boorara Woolshed</li> </ul> <p>All Currawinya camping areas will&nbsp;be open from 2/4/24.</p> <p>For more information call the Currawinya Office on 0746554001.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-04",
+      "start_date": "2024-04-05",
       "start_effective_date": "2024-03-26",
-      "end_date": "2024-04-05",
+      "end_date": "2024-04-09",
       "parks": [
         {
           "id": "148323",
@@ -3473,6 +3456,79 @@
           "id": "148223",
           "name": "Byfield National Park, Conservation Park and State Forest",
           "url": "https://parks.des.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Mountain bike trails closed",
+      "alert_id": "23949",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23949",
+      "description": "Due to the ongoing wet weather, all the mountain bike trails in Daisy Hill Conservation Park are closed.",
+      "details": "<p>Due to the ongoing wet weather, all the mountain bike trails in Daisy Hill Conservation Park are closed.</p> <p>Queensland Parks and Wildlife Service rangers are monitoring the situation and all trails will remain closed until safe to reopen.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-05",
+      "start_effective_date": "2024-04-05",
+      "end_date": "2024-04-08",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary track closures due to preparation works for upcoming events: Smithfield Mountain Bike Park",
+      "alert_id": "23950",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23950",
+      "description": "Works are beginning at Smithfield Mountain Bike Park in preparation for the UCI Masters mountain bike world championships and Crankworx events in May.",
+      "details": "<p>Works are beginning at Smithfield Mountain Bike Park in preparation for the UCI Masters mountain bike world championships and Crankworx events in May.</p> <p>Please note the below track closures, effective&nbsp;Tuesday 9 April 2024:</p> <ul> <li>All&nbsp;Crankworx courses including Pump track</li> <li>Centipedes climb (descent remains open)</li> <li>Moranas</li> <li>Jacobs ladder and Caterpillars</li> <li>World cup downhill track.</li> </ul> <p>Riders wanting to access trails on Panguna ridge will need to access via Vemass and the tank access road.</p> <p>Please check park alerts regularly as track closures will change in the lead up to these&nbsp;events.</p> <p>Please obey all signage,&nbsp;and ranger and contractor directions. For more information regarding these events please go to <a href=\"https://www.crankworx.com/festival/cairns/\">https://www.crankworx.com/festival/cairns/</a>&nbsp; and&nbsp;<a href=\"https://www.mtbmastersworldscairns.com.au/\">UCI Mountain Bike Masters World Championships | Cairns, QLD | 16 - 19 May 2024 (mtbmastersworldscairns.com.au)</a>&nbsp;.</p>",
+      "start_date": "2024-04-05",
+      "start_effective_date": "2024-04-08",
+      "end_date": "2024-06-07",
+      "parks": [
+        {
+          "id": "148424",
+          "name": "Smithfield Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/smithfield"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "23951",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23951",
+      "description": "South Zoe Bay camping area will be undergoing preliminary works from 16-22 April 2024.",
+      "details": "<p>South Zoe Bay camping area will be undergoing preliminary works from 16-22 April 2024.</p> <p>South Zoe Bay camping area will remain open during this time. Some of the beach campsites may be closed at time, please remember to use the forest campsites 100m along the Zoe Falls track. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit&nbsp;<a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "start_date": "2024-04-05",
+      "start_effective_date": "2024-04-16",
+      "end_date": "2024-04-22",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.des.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.des.qld.gov.au/parks/hinchinbrook-thorsborne"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations. Peak Range National Park - (Gemini Mountains Section), (Lords Table Mountain Section)",
+      "alert_id": "23952",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23952",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Peak Range National Park (Gemini Mountains Section and Lords Table Mountain Section) . This burning will occur from Wednesday 9 April - 19 April. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Peak Range National Park (Gemini Mountains Section and Lords Table Mountain Section) . This burning will occur from Wednesday 9 April - 19 April. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>Smoke may be seen in the vicinity of Peak Range National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-05",
+      "start_effective_date": "2024-04-09",
+      "end_date": "2024-04-19",
+      "parks": [
+        {
+          "id": "322946",
+          "name": "Peak Range National Park",
+          "url": ""
         }
       ]
     }
