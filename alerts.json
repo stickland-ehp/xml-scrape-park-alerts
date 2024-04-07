@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 181,
-    "script_run_time": "2024-04-06 10:03:38"
+    "alerts_count": 179,
+    "script_run_time": "2024-04-07 10:04:09"
   },
   "alerts": [
     {
@@ -2455,23 +2455,6 @@
       ]
     },
     {
-      "title": "Araucaria walking trail re-opened.",
-      "alert_id": "23834",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23834",
-      "description": "The Araucaria trail is now open again following track maintenance efforts.",
-      "details": "<p>The Araucaria trail is now open again following track maintenance efforts.</p> <p>For more information please contact Walkabout Creek Discovery Centre on (07) 3164 3600.</p> <p>Please monitor park alerts on the Department&#39;s website for updated information.</p>",
-      "start_date": "2024-04-04",
-      "start_effective_date": "2024-04-04",
-      "end_date": "2024-04-06",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Temporary track closure: Musgravea track: Djiru National Park.",
       "alert_id": "23836",
       "url": "https://parks.des.qld.gov.au/park-alerts/23836",
@@ -3254,23 +3237,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.des.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning smoke advice",
-      "alert_id": "23943",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23943",
-      "description": "QPWS Rangers are conducting ground based planned burning in the New Zealand Gully area of Mount Archer. Smoke may be seen in the area, including from Emu Park Road.",
-      "details": "<p>QPWS Rangers are conducting ground based planned burning in the New Zealand Gully area of Mount Archer. Smoke may be seen in the area, including from Emu Park Road.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-03",
-      "start_effective_date": "2024-04-03",
-      "end_date": "2024-04-06",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mount-archer"
         }
       ]
     },
