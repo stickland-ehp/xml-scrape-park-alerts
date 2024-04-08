@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 179,
-    "script_run_time": "2024-04-07 10:04:09"
+    "alerts_count": 177,
+    "script_run_time": "2024-04-08 10:09:00"
   },
   "alerts": [
     {
@@ -1980,23 +1980,6 @@
       ]
     },
     {
-      "title": "Moggill Conservation Park Road Works",
-      "alert_id": "23704",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23704",
-      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to the majority of roads within Moggill Conservation Park as part of the Reconstruction of Essential Public Assets scheme from February to May 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to the majority of roads within Moggill Conservation Park as part of the Reconstruction of Essential Public Assets scheme from February to May 2024.</p> <p>The following&nbsp;roads will be <strong>closed</strong> to the public&nbsp;over this period -</p> <p>Centre Road, Powerline Road, Tower Break, Lookout Loop, Ugly Gully Break, Mill Road Break, Lantana Break, Rocky Mountain High and the first approximately 700 m of Pullen Creek Break from the Mill Road end.&nbsp;</p> <p>The remaining&nbsp;roads, on the eastern edge of the Conservation Park, will be left open for public use and are only accessible&nbsp;from Hawksbury Road. The roads include&nbsp;-</p> <p>Nursery Break, Acerage Break, Hawksbury Road Break, Devils Break, St Peters Downfall and the remainder of Pullen Creek Break.&nbsp;&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For more information, please contact QPWS&amp;P on&nbsp;<strong>(07) 3164 3600</strong></p> <p>Please <strong>visit qld.gov.au/ParkAlerts</strong> for further park alert details.&nbsp;</p>",
-      "start_date": "2024-02-13",
-      "start_effective_date": "2024-02-13",
-      "end_date": "2024-05-01",
-      "parks": [
-        {
-          "id": "148263",
-          "name": "Moggill Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/moggill"
-        }
-      ]
-    },
-    {
       "title": "Camp Mountain Road Works",
       "alert_id": "23708",
       "url": "https://parks.des.qld.gov.au/park-alerts/23708",
@@ -2803,23 +2786,6 @@
       ]
     },
     {
-      "title": "Planned works - Mountain Bike Track 4 closed",
-      "alert_id": "23896",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23896",
-      "description": "Planned maintenance is set to begin on the mountain bike track 4, Creek Track. Heavy machinery will be operating in the area.",
-      "details": "<p>Planned maintenance is set to begin on the mountain bike track 4, Creek Track. Heavy machinery will be operating in the area.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-20",
-      "start_effective_date": "2024-03-25",
-      "end_date": "2024-04-07",
-      "parks": [
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure, Bartle Frere access road (western trailhead), Wooroonooran National Park",
       "alert_id": "23899",
       "url": "https://parks.des.qld.gov.au/park-alerts/23899",
@@ -2942,40 +2908,6 @@
       ]
     },
     {
-      "title": "Mariala National Park closed due to heavy rainfall",
-      "alert_id": "23908",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23908",
-      "description": "Mariala National Park is closed due to heavy rainfall and the possibility of localised flooding. All roads within the park are unsealed and may become impassable when wet.",
-      "details": "<p>Mariala National Park is closed due to heavy rainfall and the possibility of localised flooding. All roads within the park are unsealed and may become impassable when wet.</p> <p>Closures include all access roads, internal park roads and all camping areas.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-25",
-      "start_effective_date": "2024-03-25",
-      "end_date": "2024-04-07",
-      "parks": [
-        {
-          "id": "148039",
-          "name": "Mariala National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mariala"
-        }
-      ]
-    },
-    {
-      "title": "Hell Hole Gorge National Park closed due to heavy rainfall",
-      "alert_id": "23909",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23909",
-      "description": "Hell Hole Gorge National Park is closed due to heavy rainfall and the possibility of localised flooding. Roads within the park may become impassable when wet.",
-      "details": "<p>Hell Hole Gorge National Park is closed due to heavy rainfall and the possibility of localised flooding. Roads within the park may become impassable when wet.</p> <p>Closures include all access roads and&nbsp;internal park roads, Powell Creek camping area, Hell Hole Waterhole and Spencers Waterhole.</p> <p>Hell Hole Gorge National Park is very remote and can become isolated after heavy rain, leaving visitors stranded.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-25",
-      "start_effective_date": "2024-03-25",
-      "end_date": "2024-04-07",
-      "parks": [
-        {
-          "id": "148788",
-          "name": "Hell Hole Gorge National Park",
-          "url": "https://parks.des.qld.gov.au/parks/hell-hole-gorge"
-        }
-      ]
-    },
-    {
       "title": "Currawinya National Park - partial closure due to wet conditions",
       "alert_id": "23913",
       "url": "https://parks.des.qld.gov.au/park-alerts/23913",
@@ -3032,9 +2964,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23918",
       "description": "As a result of wet weather, Booloumba Creek Road (past Booloumba 4 camping area) and Funnels hut Road are closed until declared safe and damage to the road surface will be minimised.",
       "details": "<p>As a result of wet weather, Booloumba Creek Road (past Booloumba 4 camping area) and Funnels hut Road are closed until declared safe and damage to the road surface will be minimised.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-03",
+      "start_date": "2024-04-08",
       "start_effective_date": "2024-03-27",
-      "end_date": "2024-04-08",
+      "end_date": "2024-04-11",
       "parks": [
         {
           "id": "148043",
@@ -3314,14 +3246,14 @@
       ]
     },
     {
-      "title": "Drive with caution - Access Tracks within Byfield National and Conservation Park",
+      "title": "Drive with caution - Access Tracks within Byfield National, Conservation Park and State Forest",
       "alert_id": "23948",
       "url": "https://parks.des.qld.gov.au/park-alerts/23948",
-      "description": "Visitors travelling within Byfield National and Conservation Park access tracks to 9mile and 5rocks Beach are reminded to drive with care and to conditions with on-park road works being conducted along 'Southern Access' and internal tracks.",
-      "details": "<p>Visitors travelling within Byfield National and Conservation Park access tracks to 9mile and 5rocks Beach are reminded to drive with care and to conditions with on-park road works being conducted along 'Southern Access' and internal tracks.</p> <p>Public access tracks impacted by works will be signed with &#39;Road Closed&#39;.&nbsp;Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety, please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-04",
-      "start_effective_date": "2024-04-08",
-      "end_date": "2024-04-12",
+      "description": "Visitors travelling within Byfield National and Conservation Park access tracks to Nine Mile and 5 Rocks Beach are reminded to drive with care and to conditions with road maintenance being conducted along the 'Southern Access' and internal tracks. Following heavy rainfall in the local area, visitors are advised to remain vigilant in relation to water over roads, including Stoney Creek Road, and not to drive through floodwaters.",
+      "details": "<p>Visitors travelling within Byfield National and Conservation Park access tracks to Nine Mile and 5 Rocks Beach are reminded to drive with care and to conditions with road maintenance being conducted along the 'Southern Access' and internal tracks. Following heavy rainfall in the local area, visitors are advised to remain vigilant in relation to water over roads, including Stoney Creek Road, and not to drive through floodwaters.</p> <p>Public access tracks impacted by works will be signed with &#39;Road Closed&#39; signage.&nbsp;Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety, please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-04-08",
+      "start_effective_date": "2024-04-12",
+      "end_date": "2024-04-19",
       "parks": [
         {
           "id": "148223",
@@ -3336,9 +3268,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23949",
       "description": "Due to the ongoing wet weather, all the mountain bike trails in Daisy Hill Conservation Park are closed.",
       "details": "<p>Due to the ongoing wet weather, all the mountain bike trails in Daisy Hill Conservation Park are closed.</p> <p>Queensland Parks and Wildlife Service rangers are monitoring the situation and all trails will remain closed until safe to reopen.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-05",
+      "start_date": "2024-04-08",
       "start_effective_date": "2024-04-05",
-      "end_date": "2024-04-08",
+      "end_date": "2024-04-10",
       "parks": [
         {
           "id": "148560",
@@ -3404,23 +3336,6 @@
       ]
     },
     {
-      "title": "Flood alert for Wongi Waterholes campsite",
-      "alert_id": "23953",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23953",
-      "description": "The following information is for instruction of campers and people wishing to access Wongi Waterholes campground and Day Use Area over the weekend of 5th to 7th April.",
-      "details": "<p>The following information is for instruction of campers and people wishing to access Wongi Waterholes campground and Day Use Area over the weekend of 5th to 7th April.</p> <p>Fraser Coast Regional Council have advised that high inflow to Lenthall&rsquo;s Dam may cause minor flooding of local roads for short&nbsp;periods over the coming days, including flooding of causeways located on Warrah Road. &nbsp;&nbsp;Wongi Waterholes campground may become temporarily isolated while the causeways are under water.&nbsp;</p> <p>Campers staying at the Wongi Waterholes campground are advised not to cross flooded roads and to wait until water levels recede before trying to enter or leave the campground.&nbsp; Campers choosing to stay at the campground over this period will need to be prepared to stay for an extended p.eriod of time and will need to be self-sufficient during their stay.</p> <p>Day use area visitors are advised to postpone their visit until dam water levels have decreased.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "start_date": "2024-04-06",
-      "start_effective_date": "2024-04-05",
-      "end_date": "2024-04-07",
-      "parks": [
-        {
-          "id": "148023",
-          "name": "Wongi State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/wongi"
-        }
-      ]
-    },
-    {
       "title": "Flooding cutting access at Water Park causeway",
       "alert_id": "23954",
       "url": "https://parks.des.qld.gov.au/park-alerts/23954",
@@ -3434,6 +3349,57 @@
           "id": "148223",
           "name": "Byfield National Park, Conservation Park and State Forest",
           "url": "https://parks.des.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure High Country and Top Moffatt areas",
+      "alert_id": "23955",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23955",
+      "description": "The High Country and Top Moffatt areas of the Mount Moffatt section of Carnarvon National Park remain temporarily closed due to wet road conditions following prolonged heavy rainfall.",
+      "details": "<p>The High Country and Top Moffatt areas of the Mount Moffatt section of Carnarvon National Park remain temporarily closed due to wet road conditions following prolonged heavy rainfall.</p> <p>Closures include:</p> <ul> <li>Top Moffatt camping area</li> <li>High Country Drive</li> <li>Rotary Shelter Shed camping area</li> <li>Top Shelter Shed day-use area</li> <li>Mahogany Forest</li> <li>Kenniff Drive and the Incineration site.</li> </ul> <p><br /> Other visitor facilities and attractions at Mount Moffat remain open.<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-04-08",
+      "start_effective_date": "2024-04-07",
+      "end_date": "2024-04-10",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.des.qld.gov.au/parks/carnarvon-mount-moffatt"
+        }
+      ]
+    },
+    {
+      "title": "Flood recovery roadworks within Camp Mountain and Bellbird Grove areas.",
+      "alert_id": "23956",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23956",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to the below roads within the Camp Mountain and Bellbird Grove area as part of the Reconstruction of Essential Public Assets scheme from April to May 2024. The following roads and day use areas will be closed to the public over this period - Camp Mountain day-use area, Camp Mountain Road, Bellbird Grove day-use rea, Bellbird Grove Road, Camp Mountain Break, Sutton Court Break, The Link Road, Lookout Break, Mitchells Break, Warrandyte Court Break, AS1 Break, Ropes Course Road, Pump Shed Road, Marshalls Break, Dam Break, Dozer Break and Leos Break. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For more information, please contact QPWS&amp;P on (07) 3164 3600 Please visit qld.gov.au/ParkAlerts for further park alert details.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to the below roads within the Camp Mountain and Bellbird Grove area as part of the Reconstruction of Essential Public Assets scheme from April to May 2024. The following roads and day use areas will be closed to the public over this period - Camp Mountain day-use area, Camp Mountain Road, Bellbird Grove day-use rea, Bellbird Grove Road, Camp Mountain Break, Sutton Court Break, The Link Road, Lookout Break, Mitchells Break, Warrandyte Court Break, AS1 Break, Ropes Course Road, Pump Shed Road, Marshalls Break, Dam Break, Dozer Break and Leos Break. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For more information, please contact QPWS&amp;P on (07) 3164 3600 Please visit qld.gov.au/ParkAlerts for further park alert details.</p> <p>Jollys Lookout and Maiala day-use areas will remain OPEN during these works.</p>",
+      "start_date": "2024-04-08",
+      "start_effective_date": "2024-04-08",
+      "end_date": "2024-05-31",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.des.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program for Mount Coolum National Park - Marcoola Section",
+      "alert_id": "23957",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23957",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Mount Coolum National Park - Marcoola sections to the north and south-west of the Sunshine Coast Airport from 12 April 2024 to 30 June 2024 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Mount Coolum National Park - Marcoola sections to the north and south-west of the Sunshine Coast Airport from 12 April 2024 to 30 June 2024 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with the approved&nbsp;pest management plan&nbsp;which helps to protect native&nbsp;wildlife from the harmful effects of introduced&nbsp;animals. The control method&nbsp;includes the use of&nbsp;Canid Pest Ejectors (CPE&#39;s) with Sodium fluoroacetate (1080) vertebrate poison.</p> <p>As a result, the following areas are temporarily closed for the duration of the pest management program:</p> <ul> <li>Mount Coolum National Park - Marcoola sections to the north and south-west of the Sunshine Coast Airport</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-08",
+      "start_effective_date": "2024-04-12",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148572",
+          "name": "Mount Coolum National Park",
+          "url": "https://parks.des.qld.gov.au/parks/mount-coolum"
         }
       ]
     }
