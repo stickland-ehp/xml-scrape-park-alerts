@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 177,
-    "script_run_time": "2024-04-12 10:05:49"
+    "alerts_count": 172,
+    "script_run_time": "2024-04-13 10:04:30"
   },
   "alerts": [
     {
@@ -2228,28 +2228,6 @@
       ]
     },
     {
-      "title": "Curtis Island Planned Burns",
-      "alert_id": "23803",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23803",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Curtis Island National Park, Curtis Island Conservation Park, Curtis Island State Forest and Curtis Island Environmental Managment Precinct, between Saturday the 16th of March and Friday the 12th of April 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Curtis Island National Park, Curtis Island Conservation Park, Curtis Island State Forest and Curtis Island Environmental Managment Precinct, between Saturday the 16th of March and Friday the 12th of April 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>As a result, smoke may be seen in the vicinity of area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.</p> <p>This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-03-14",
-      "start_effective_date": "2024-03-16",
-      "end_date": "2024-04-12",
-      "parks": [
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
       "title": "Planned burn within Wuthara Island National Park (CYPAL)",
       "alert_id": "23810",
       "url": "https://parks.des.qld.gov.au/park-alerts/23810",
@@ -2769,23 +2747,6 @@
       ]
     },
     {
-      "title": "Steele Road entrances closed from 2 April",
-      "alert_id": "23904",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23904",
-      "description": "The entrances into Plunkett Conservation Park from the eastern end of Steele Road will be closed for approximately 2 weeks (weather dependant) from Tuesday 2nd April due to construction works that will be occurring in the area.",
-      "details": "<p>The entrances into Plunkett Conservation Park from the eastern end of Steele Road will be closed for approximately 2 weeks (weather dependant) from Tuesday 2nd April due to construction works that will be occurring in the area.</p> <p>These entrances will not be reopened until the works are complete and it is safe to reopen.</p> <p>Please refer to the map of the Conservation Park provided in the Maps and&nbsp; Resources tab to find other&nbsp;entrances to the park.</p>",
-      "start_date": "2024-03-22",
-      "start_effective_date": "2024-03-22",
-      "end_date": "2024-04-12",
-      "parks": [
-        {
-          "id": "149381",
-          "name": "Plunkett Conservation Park and Wickham National Park",
-          "url": "https://parks.des.qld.gov.au/parks/plunkett-wickham"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Koombooloomba National Park bush camping area, Koombooloomba National Park",
       "alert_id": "23907",
       "url": "https://parks.des.qld.gov.au/park-alerts/23907",
@@ -2867,40 +2828,6 @@
           "id": "148043",
           "name": "Conondale National Park",
           "url": "https://parks.des.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
-      "title": "Combo Waterhole Conservation Park temporarily closed due to severe flood damage to the toilet block and walking tracks.",
-      "alert_id": "23920",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23920",
-      "description": "Due to infrastructure damaged by Ex-Tropical Cyclone flood waters, Combo Waterhole Conservation Park is temporarily closed until Friday 12 April 2024.",
-      "details": "<p>Due to infrastructure damaged by Ex-Tropical Cyclone flood waters, Combo Waterhole Conservation Park is temporarily closed until Friday 12 April 2024.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-27",
-      "start_effective_date": "2024-03-27",
-      "end_date": "2024-04-12",
-      "parks": [
-        {
-          "id": "148937",
-          "name": "Combo Waterhole Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/combo-waterhole"
-        }
-      ]
-    },
-    {
-      "title": "Lark Quarry Conservation Park Jump Up loop walking track temporarily closed for maintenance",
-      "alert_id": "23922",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23922",
-      "description": "The Jump Up loop walking track on Lark Quarry Conservation Park is temporarily closed for post-wet season maintenance until Friday 12 April 2024.",
-      "details": "<p>The Jump Up loop walking track on Lark Quarry Conservation Park is temporarily closed for post-wet season maintenance until Friday 12 April 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-27",
-      "start_effective_date": "2024-03-27",
-      "end_date": "2024-04-12",
-      "parks": [
-        {
-          "id": "148392",
-          "name": "Lark Quarry Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/lark-quarry"
         }
       ]
     },
@@ -3069,23 +2996,6 @@
           "id": "149433",
           "name": "Bowling Green Bay National Park",
           "url": "https://parks.des.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
-      "title": "Bunya Mountains Road temporarily closed for repair works",
-      "alert_id": "23947",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23947",
-      "description": "Repair works to the Bunya Mountains Road are being undertaken by the Department of Transport and Main Roads between Monday 8 April until Friday 12 April 2024, weather permitting.",
-      "details": "<p>Repair works to the Bunya Mountains Road are being undertaken by the Department of Transport and Main Roads between Monday 8 April until Friday 12 April 2024, weather permitting.</p> <p>The works will repair 6km&nbsp;of road from&nbsp;8km&nbsp;north of the Bunya Mountains&nbsp;Maclagan Road intersection, to just north of&nbsp;Bunya Mountains Maidenwell Road.&nbsp;The affected stretch of road will be closed, except for local traffic.&nbsp;</p> <p>This will impact vehicle access to the southern entrance to the Park, via Maclagan.</p> <p>Visitors are recommended to enter the Park from&nbsp;the northern entrance along&nbsp;Bunya Mountains Rd via Bell or Kumbia, or via the north-eastern entrance along the Maidenwell Bunya Mountains Road.</p> <p>Visitors are reminded that all access roads to the Bunya Mountains National Park are unsuitable for long or heavy vehicles and care should be taken with caravans, motorhomes, and large buses. Due to recent heavy rainfall, visitors are asked to drive carefully to conditions&nbsp;as roads may be slippery and visibility may be affected by rain and fog.&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "start_date": "2024-04-04",
-      "start_effective_date": "2024-04-08",
-      "end_date": "2024-04-12",
-      "parks": [
-        {
-          "id": "149017",
-          "name": "Bunya Mountains National Park",
-          "url": "https://parks.des.qld.gov.au/parks/bunya-mountains"
         }
       ]
     },
