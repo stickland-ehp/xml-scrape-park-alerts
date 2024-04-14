@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-04-13 10:04:30"
+    "alerts_count": 171,
+    "script_run_time": "2024-04-14 11:29:53"
   },
   "alerts": [
     {
@@ -3215,23 +3215,6 @@
           "id": "148215",
           "name": "Crediton State Forest",
           "url": "https://parks.des.qld.gov.au/parks/crediton"
-        }
-      ]
-    },
-    {
-      "title": "Aerial mosquito treatment",
-      "alert_id": "23964",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23964",
-      "description": "Advice for visitors and campers to Gallagher Point, Poverty Creek, Mission Point and Lime Pocket camping and day-use areas.",
-      "details": "<p>Advice for visitors and campers to Gallagher Point, Poverty Creek, Mission Point and Lime Pocket camping and day-use areas.</p> <p>The City of Moreton Bay will be conducting aerial mosquito treatment from 6.00am on Saturday 13 April 2024 around Bribie Island, the adjacent marine park and surrounding council areas.</p> <p>The early helicopter flight times are due to the likelihood of unfavourable wind speeds in the afternoon which make treatment less effective.</p> <p>Council uses a helicopter to treat the region&rsquo;s intertidal and mangrove areas, targeting saltmarsh mosquito larvae which usually develop after rain or higher tides.</p> <p>For more information visit the council&#39;s website <a href=\"https://urldefense.com/v3/__https:/www.moretonbay.qld.gov.au/Services/Environment/Mosquito-Management__;!!PUY2jUP3Fp7oEg!Ef3Eq-fs79w8R-3EDrFovqBuwGP2czYyEBp5suOoArIXTEYQGW3a6n_IezgMiFMCMXKG623wBllFrOZYGAezS9NT0XCagP_A6aK-fgy3KOIB6_BMBZZAmg$\">Mosquito management - Moreton Bay Regional Council</a>.<strong>&nbsp;</strong></p>",
-      "start_date": "2024-04-11",
-      "start_effective_date": "2024-04-11",
-      "end_date": "2024-04-13",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.des.qld.gov.au/parks/bribie-island"
         }
       ]
     },
