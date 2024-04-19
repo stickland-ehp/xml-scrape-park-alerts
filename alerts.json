@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 182,
-    "script_run_time": "2024-04-18 10:06:35"
+    "alerts_count": 183,
+    "script_run_time": "2024-04-19 10:06:51"
   },
   "alerts": [
     {
@@ -1065,14 +1065,14 @@
       ]
     },
     {
-      "title": "Wet season closure extension: Princess Hills section, Girringun National Park",
+      "title": "Temporary closure: camp site 2, Princess Hills section, Girringun National Park",
       "alert_id": "23471",
       "url": "https://parks.des.qld.gov.au/park-alerts/23472",
-      "description": "The wet season closure of Princess Hills section of Girringun National Park has been extended. Camp site 1 at Princess Hills camping area is anticipated to reopen Saturday 20 April 2024. Camp site 2 is inaccessible due to boggy conditions and is anticipated to reopen Friday 10 May 2024 (depending on weather and road conditions).",
-      "details": "<p>The wet season closure of Princess Hills section of Girringun National Park has been extended. Camp site 1 at Princess Hills camping area is anticipated to reopen Saturday 20 April 2024. Camp site 2 is inaccessible due to boggy conditions and is anticipated to reopen Friday 10 May 2024 (depending on weather and road conditions).</p> <p>Monitor park alerts for current information.</p>",
-      "start_date": "2024-04-15",
+      "description": "Due to boggy conditions, camp site 2 in Princess Hills section of Girringun National Park is temporarily closed. The site is anticipated to reopen Friday 10 May 2024 (depending on weather and road conditions).",
+      "details": "<p>Due to boggy conditions, camp site 2 in Princess Hills section of Girringun National Park is temporarily closed. The site is anticipated to reopen Friday 10 May 2024 (depending on weather and road conditions).</p> <p>Camp site 1 will reopen Saturday 20 April 2024.</p> <p>Monitor park alerts for current information.</p>",
+      "start_date": "2024-04-19",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-04-19",
+      "end_date": "2024-05-09",
       "parks": [
         {
           "id": "148123",
@@ -1113,10 +1113,10 @@
       "alert_id": "23473",
       "url": "https://parks.des.qld.gov.au/park-alerts/23474",
       "description": "The wet season closure of the Wet Tropics Great Walk and the associated camp sites listed below has been extended.",
-      "details": "<p>The wet season closure of the Wet Tropics Great Walk and the associated camp sites listed below has been extended.</p> <ul> <li>Pack trail walkers camp</li> <li>Yamanie walkers camp</li> <li>Stony Creek walkers camp</li> <li>Blanket Creek walkers camp</li> <li>Herbert River walkers camp</li> <li>Pack trail (walk-in site)</li> <li>Yamanie (walk-in site).</li> </ul> <p>The anticipated re-opening date is 26&nbsp;April 2024 (weather and road condition dependant).&nbsp;</p> <p>Please monitor park alerts for current&nbsp;information.</p>",
-      "start_date": "2024-04-11",
+      "details": "<p>The wet season closure of the Wet Tropics Great Walk and the associated camp sites listed below has been extended.</p> <ul> <li>Pack trail walkers camp</li> <li>Yamanie walkers camp</li> <li>Stony Creek walkers camp</li> <li>Blanket Creek walkers camp</li> <li>Herbert River walkers camp</li> <li>Pack trail (walk-in site)</li> <li>Yamanie (walk-in site).</li> </ul> <p>The anticipated re-opening date is 24&nbsp;May 2024 (weather and road condition dependant).&nbsp;</p> <p>Please monitor park alerts for current&nbsp;information.</p>",
+      "start_date": "2024-04-19",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-04-26",
+      "end_date": "2024-05-23",
       "parks": [
         {
           "id": "156541",
@@ -1911,23 +1911,6 @@
       ]
     },
     {
-      "title": "Temporary Closure of Mia Mia State Forest",
-      "alert_id": "23763",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23763",
-      "description": "Mia Mia State forest including Captains Crossing campground is temporarily closed due to unsafe road conditions caused by recent heavy rain. QPWS has engaged with a contractor to make repairs as soon as is practical to do so.",
-      "details": "<p>Mia Mia State forest including Captains Crossing campground is temporarily closed due to unsafe road conditions caused by recent heavy rain. QPWS has engaged with a contractor to make repairs as soon as is practical to do so.</p> <p>QPWS asks that visitors adhere to all closure signage in the State Forest.&nbsp;</p>",
-      "start_date": "2024-04-10",
-      "start_effective_date": "2024-02-02",
-      "end_date": "2024-04-18",
-      "parks": [
-        {
-          "id": "148291",
-          "name": "Mia Mia State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/mia-mia"
-        }
-      ]
-    },
-    {
       "title": "Bunya Mountains - Burtons Well walking tracks closed due to storm damage",
       "alert_id": "23764",
       "url": "https://parks.des.qld.gov.au/park-alerts/23764",
@@ -2508,11 +2491,11 @@
       "title": "Diamantina National Park closed due to flood damage",
       "alert_id": "23881",
       "url": "https://parks.des.qld.gov.au/park-alerts/23881",
-      "description": "Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary. Please visit QPWS web site for future updates.",
-      "details": "<p>Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary. Please visit QPWS web site for future updates.</p> <p>Please monitor park alerts for updates and check Bureau of Meteorology for weather warnings and forecasts.</p> <p><br /> Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p><br /> Read more on your safety while visiting our Park here Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</p> <p><br /> For your safety, please observe all signage, barriers, and directions from Rangers, Contractors and do not enter closed areas.</p>",
-      "start_date": "2024-04-05",
+      "description": "Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary.",
+      "details": "<p>Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-19",
       "start_effective_date": "2024-03-12",
-      "end_date": "2024-04-22",
+      "end_date": "2024-04-29",
       "parks": [
         {
           "id": "148360",
@@ -2539,14 +2522,14 @@
       ]
     },
     {
-      "title": "Caution needed on damaged roads",
+      "title": "Welford National Park caution needed on damaged roads",
       "alert_id": "23894",
       "url": "https://parks.des.qld.gov.au/park-alerts/23894",
-      "description": "Due to seasonal wet weather and flooding, roads in Lochern and Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.",
-      "details": "<p>Due to seasonal wet weather and flooding, roads in Lochern and Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.</p> <p>Please monitor park alerts for updates and check Bureau of Meteorology for weather warnings and forecasts before visiting.<br /> Read more on your safety while visiting our Park here Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</p>",
-      "start_date": "2024-03-19",
+      "description": "Due to seasonal wet weather and flooding, roads within Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.",
+      "details": "<p>Due to seasonal wet weather and flooding, roads within Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-04-19",
       "start_effective_date": "2024-03-18",
-      "end_date": "2024-04-19",
+      "end_date": "2024-05-03",
       "parks": [
         {
           "id": "148075",
@@ -3060,28 +3043,6 @@
       ]
     },
     {
-      "title": "Prescribed Burn - Noosa North Shore",
-      "alert_id": "23967",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23967",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 15 April 2024 to 21 April 2024 as part of the annual prescribed burn program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 15 April 2024 to 21 April 2024 as part of the annual prescribed burn program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Teewah Village and Teewah Beach Camping grounds. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp; Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Cooloola Great Walking track</li> <li>Mt Seewah Walking Track</li> <li>Teewah Landing Firebreak</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-12",
-      "start_effective_date": "2024-04-15",
-      "end_date": "2024-04-21",
-      "parks": [
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.des.qld.gov.au/parks/great-walks-cooloola"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Eurimbula National Park",
       "alert_id": "23968",
       "url": "https://parks.des.qld.gov.au/park-alerts/23968",
@@ -3129,23 +3090,6 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.des.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn  Noosa National Park",
-      "alert_id": "23971",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23971",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Tuesday 16th April and Wednesday 17th April, 2024 as part of the fire management program for Noosa National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Tuesday 16th April and Wednesday 17th April, 2024 as part of the fire management program for Noosa National Park.</p> <p>Firefighters and machinery may be working along walking tracks in the vicinity of McAnally Drive. For your safety and the safety of firefighters, please observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <p>&middot; Sections of Alexandria Bay Walk &amp; Tanglewood Walk</p> <p>Smoke may be seen in the vicinity of Sunshine Beach, Noosa and Noosaville . Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-15",
-      "start_effective_date": "2024-04-16",
-      "end_date": "2024-04-18",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.des.qld.gov.au/parks/noosa"
         }
       ]
     },
@@ -3223,40 +3167,6 @@
       ]
     },
     {
-      "title": "Bringalilly State Forest  Mingimarny Section - Smoke alert",
-      "alert_id": "23976",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23976",
-      "description": "Smoke from planned burn",
-      "details": "<p>Smoke from planned burn</p> <p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Bringalilly State Forest &ndash; Mingimarny Section, starting Tuesday 16th April 2024, weather permitting. This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>This burn will be East of Millmerran Inglewood Rd. A forecast of Easterly and North Easterly winds may result in smoke impacting Millmerran Inglewood Rd, the greater Bringalily area and Inglewood township.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call the Inglewood office of QPWS on 0477 317 267.</p> <p>For further media enquiries contact Media Services on (07) 3339 5831 or email <a href=\"mailto:media@des.qld.gov.au\">media@des.qld.gov.au</a></p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-15",
-      "start_effective_date": "2024-04-16",
-      "end_date": "2024-04-18",
-      "parks": [
-        {
-          "id": "322443",
-          "name": "Bringalily State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Yelarbon State Forest - Smoke Alert",
-      "alert_id": "23977",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23977",
-      "description": "Smoke from planned burn",
-      "details": "<p>Smoke from planned burn</p> <p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Yelarbon State Forest near Brush Creek, starting Wednesday 17th April 2024, weather permitting. This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>This burn will be West of Inglewood Texas Rd and may result in smoke impacting Inglewood Texas Rd, the greater Yelarbon area.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call the Inglewood office of QPWS on 0477 317 267.</p> <p>For further media enquiries contact Media Services on (07) 3339 5831 or email <a href=\"mailto:media@des.qld.gov.au\">media@des.qld.gov.au</a></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-15",
-      "start_effective_date": "2024-04-17",
-      "end_date": "2024-04-18",
-      "parks": [
-        {
-          "id": "322415",
-          "name": "Yelarbon State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Smoke Alert, Undara Volcanic National Park",
       "alert_id": "23978",
       "url": "https://parks.des.qld.gov.au/park-alerts/23978",
@@ -3296,9 +3206,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23980",
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-04-15",
+      "start_date": "2024-04-19",
       "start_effective_date": "2024-04-15",
-      "end_date": "2024-04-19",
+      "end_date": "2024-04-21",
       "parks": [
         {
           "id": "148468",
@@ -3355,11 +3265,11 @@
       "title": "Planned Burn- Mt Mee Section of D'Aguilar National Park",
       "alert_id": "23983",
       "url": "https://parks.des.qld.gov.au/park-alerts/23983",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in the Mt Mee section of the DAguilar National Park on Wednesday 17th April through to Friday 19th April 2024 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in the Mt Mee section of the DAguilar National Park on Wednesday 17th April through to Friday 19th April 2024 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>As a result, smoke may be seen in the Mt Mee, Ocean View, Mount Pleasant, Laceys Creek, Dayboro, Somerset, Neurum and Woodford area.&nbsp;</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Western Escarpment&nbsp;</li> <li>Forest Drive</li> <li>Somerset Lookout</li> <li>Somerset Walking Track</li> </ul> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp; Safety is our concern but your responsibility. For more information, please call The Gap office of QPWS on 07 3164 3600.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-16",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in the Mt Mee section of the DAguilar National Park on Wednesday 17th April through to Tuesday 23rd April 2024 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in the Mt Mee section of the DAguilar National Park on Wednesday 17th April through to Tuesday 23rd April 2024 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>As a result, smoke may be seen in the Mt Mee, Ocean View, Mount Pleasant, Laceys Creek, Dayboro, Somerset, Neurum and Woodford area.&nbsp;</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Western Escarpment&nbsp;</li> <li>Forest Drive</li> <li>Somerset Lookout</li> <li>Somerset Walking Track</li> </ul> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp; Safety is our concern but your responsibility. For more information, please call The Gap office of QPWS on 07 3164 3600.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-19",
       "start_effective_date": "2024-04-17",
-      "end_date": "2024-04-19",
+      "end_date": "2024-04-23",
       "parks": [
         {
           "id": "148259",
@@ -3450,6 +3360,108 @@
           "id": "148892",
           "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
           "url": "https://parks.des.qld.gov.au/parks/jardine-river"
+        }
+      ]
+    },
+    {
+      "title": "Konomie Island (North Keppel Island) Burn Programme",
+      "alert_id": "23991",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23991",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Konomie (North Keppel Island) National Park, between Friday 3rd May and Tuesday 7th May 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Konomie (North Keppel Island) National Park, between Friday 3rd May and Tuesday 7th May 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-19",
+      "start_effective_date": "2024-05-03",
+      "end_date": "2024-05-07",
+      "parks": [
+        {
+          "id": "149417",
+          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
+          "url": "https://parks.des.qld.gov.au/parks/keppel-bay-islands"
+        }
+      ]
+    },
+    {
+      "title": "Wild Duck Island Burn Programme",
+      "alert_id": "23992",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23992",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Wild Duck Island National Park between Friday 26th April and Tuesday 30th Aprill 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Wild Duck Island National Park between Friday 26th April and Tuesday 30th Aprill 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-19",
+      "start_effective_date": "2024-04-26",
+      "end_date": "2024-05-02",
+      "parks": [
+        {
+          "id": "150199",
+          "name": "Broad Sound Islands National Park",
+          "url": "https://parks.des.qld.gov.au/parks/broad-sound-islands"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: camp sites 2 and 3 at Curri Curri bush camping area, Danbulla National Park",
+      "alert_id": "23993",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23993",
+      "description": "Camp sites 2 and 3 at Curri Curri bush camping area are currently closed due to high dam levels. These camp sites are anticipated to reopen Tuesday 11 June 2024 (depending on weather and site conditions).",
+      "details": "<p>Camp sites 2 and 3 at Curri Curri bush camping area are currently closed due to high dam levels. These camp sites are anticipated to reopen Tuesday 11 June 2024 (depending on weather and site conditions).</p> <p>Please monitor this park alert for current information. This park alert will be removed when the camp sites have been reopened.&nbsp;<br /> &nbsp;</p>",
+      "start_date": "2024-04-19",
+      "start_effective_date": "2024-04-19",
+      "end_date": "2024-06-10",
+      "parks": [
+        {
+          "id": "148055",
+          "name": "Danbulla National Park and State Forest",
+          "url": "https://parks.des.qld.gov.au/parks/danbulla"
+        }
+      ]
+    },
+    {
+      "title": "Joey Lees camp area works",
+      "alert_id": "23994",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23994",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned upgrade works at Joey Lees campground, Curtis Island National Park from 13/5/2024 to 24/05/2024 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned upgrade works at Joey Lees campground, Curtis Island National Park from 13/5/2024 to 24/05/2024 (weather permitting).</p> <p>Joey lees camp area will be closed for the duration of the upgrade works program as specified.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "start_date": "2024-04-19",
+      "start_effective_date": "2024-05-13",
+      "end_date": "2024-05-26",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure Kroombit Tops National Park",
+      "alert_id": "23995",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23995",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be conducting a pest management control program at Kroombit Tops National Park from the 13th of May 2024 till the 26th of May 2024",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be conducting a pest management control program at Kroombit Tops National Park from the 13th of May 2024 till the 26th of May 2024</p> <p>All control activities are conducted in accordance with an approved pest management activity plan that identifies and protects the biodiversity of native&nbsp;species &nbsp;and the&nbsp;safety of visitors to Kroombit Tops National Park&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "start_date": "2024-04-19",
+      "start_effective_date": "2024-05-13",
+      "end_date": "2024-05-26",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
+      "title": "Smoke hazard from forestry planned burn",
+      "alert_id": "23996",
+      "url": "https://parks.des.qld.gov.au/park-alerts/23996",
+      "description": "Hancock Queensland Plantations (HQP) are conducting a planned burn on Friday 19 May in pine plantation located within the Bribie Island Recreation Area.",
+      "details": "<p>Hancock Queensland Plantations (HQP) are conducting a planned burn on Friday 19 May in pine plantation located within the Bribie Island Recreation Area.</p> <p>As a result, smoke may be seen in the vicinity of Poverty Creek camping area and along the Poverty Creek and Northern access tracks. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Bribie Island National Park and Recreation Area will remain&nbsp;<strong>OPEN,</strong>&nbsp;including Gallagher Point and Poverty Creek camping areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety, please observe all signage, barriers and directions from HQP&nbsp;contractors and&nbsp;rangers, and do not enter closed areas.</p> <p>For further information, please contact <a href=\"https://www.hqplantations.com.au/contact\">HQPlantations</a> at <a href=\"mailto:information@hqplantations.com.au\">information@hqplantations.com.au</a> or phone <a href=\"tel:+61748374100\">+61 7 4837 4100</a>.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-19",
+      "start_effective_date": "2024-04-19",
+      "end_date": "2024-04-22",
+      "parks": [
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.des.qld.gov.au/parks/bribie-island"
         }
       ]
     }
