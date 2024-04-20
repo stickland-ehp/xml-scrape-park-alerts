@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2024-04-19 10:06:51"
+    "alerts_count": 170,
+    "script_run_time": "2024-04-20 10:04:06"
   },
   "alerts": [
     {
@@ -1158,23 +1158,6 @@
       ]
     },
     {
-      "title": "Wet season safety information: significant stream rises, Murray Falls, Girramay National Park",
-      "alert_id": "23494",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23495",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/qld/\">Bureau of Meteorology</a> before visiting.</p> <p>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-04-11",
-      "start_effective_date": "2023-11-28",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "148127",
-          "name": "Girramay National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girramay"
-        }
-      ]
-    },
-    {
       "title": "Wet season safety information - significant stream rises: Wooroonooran National Park",
       "alert_id": "23497",
       "url": "https://parks.des.qld.gov.au/park-alerts/23498",
@@ -1407,62 +1390,6 @@
       ]
     },
     {
-      "title": "Wet Season safety information: significant stream rises Broadwater, Abergowrie State Forest",
-      "alert_id": "23589",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23589",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-03-25",
-      "start_effective_date": "2023-12-19",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "150260",
-          "name": "Broadwater, Abergowrie State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/broadwater-abergowrie"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information: significant stream rises at Stony Creek swimming hole, Wallaman Falls, Girringun National Park",
-      "alert_id": "23590",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23590",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-03-25",
-      "start_effective_date": "2023-12-19",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun-wallaman"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.des.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information - significant stream rises: Cardwell Forest Drive and Five Mile day-use area",
-      "alert_id": "23591",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23591",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-04-11",
-      "start_effective_date": "2023-12-19",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "150212",
-          "name": "Cardwell State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/cardwell-state-forest"
-        }
-      ]
-    },
-    {
       "title": "Wet season safety information: significant stream rises at swimming locations within Paluma Range National Park",
       "alert_id": "23592",
       "url": "https://parks.des.qld.gov.au/park-alerts/23592",
@@ -1537,23 +1464,6 @@
           "id": "148055",
           "name": "Danbulla National Park and State Forest",
           "url": "https://parks.des.qld.gov.au/parks/danbulla"
-        }
-      ]
-    },
-    {
-      "title": "Drive with caution: Cardwell Forest Drive, Cardwell State Forest",
-      "alert_id": "23611",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23611",
-      "description": "Visitors are advised that due to recent weather events, the road condition of Cardwell Forest Drive in Cardwell State Forest has been impacted.",
-      "details": "<p>Visitors are advised that due to recent weather events, the road condition of Cardwell Forest Drive in Cardwell State Forest has been impacted.</p> <p>For your safety, visitors should use caution and drive to prevailing conditions when visiting Attie Creek, Deadhorse Creek and Spa Pool.</p>",
-      "start_date": "2024-04-11",
-      "start_effective_date": "2023-12-30",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "150212",
-          "name": "Cardwell State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/cardwell-state-forest"
         }
       ]
     },
@@ -2605,28 +2515,6 @@
       ]
     },
     {
-      "title": "Planned works and temporary closures for Springbrook walking tracks  Helicopter operations",
-      "alert_id": "23903",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23903",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting helicopter operations in Springbrook National Park as part of significant planned maintenance on the walking tracks commencing from 15 April until 30 June 2024 (weather permitting). The helicopter operations will involve temporary track closures for public safety, as materials and equipment are air-lifted into site.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting helicopter operations in Springbrook National Park as part of significant planned maintenance on the walking tracks commencing from 15 April until 30 June 2024 (weather permitting). The helicopter operations will involve temporary track closures for public safety, as materials and equipment are air-lifted into site.</p> <p>As a result of helicopter operations, the following walking tracks will be closed from <strong>17&nbsp;&ndash; 19&nbsp;April 2024</strong>:</p> <ul> <li>Twin Falls circuit</li> <li>Purling Brook Falls circuit</li> <li>Warringa Pool track</li> <li>Warrie circuit</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Please visit the <a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a> web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a> on the departments website for updated information.</p>",
-      "start_date": "2024-04-12",
-      "start_effective_date": "2024-03-22",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.des.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.des.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Koombooloomba National Park bush camping area, Koombooloomba National Park",
       "alert_id": "23907",
       "url": "https://parks.des.qld.gov.au/park-alerts/23907",
@@ -2712,23 +2600,6 @@
       ]
     },
     {
-      "title": "White Mountains National Park temporarily closed due to wet weather",
-      "alert_id": "23927",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23927",
-      "description": "White Mountains National Park is temporarily closed due to wet weather until Friday 19 April 2024 when conditions will be reviewed.",
-      "details": "<p>White Mountains National Park is temporarily closed due to wet weather until Friday 19 April 2024 when conditions will be reviewed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-03-27",
-      "start_effective_date": "2024-03-27",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "148796",
-          "name": "White Mountains National Park",
-          "url": "https://parks.des.qld.gov.au/parks/white-mountains"
-        }
-      ]
-    },
-    {
       "title": "Yanks Jetty camping and day use area closed",
       "alert_id": "23931",
       "url": "https://parks.des.qld.gov.au/park-alerts/23931",
@@ -2790,23 +2661,6 @@
       ]
     },
     {
-      "title": "Temporary track closure - Lophostemon walk",
-      "alert_id": "23942",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23942",
-      "description": "As a result of a significant fallen tree which has impeded visitor access, the Lophostemon walk located at Neurum Creek camping area, D'Aguilar National Park will remain temporarily closed until the walk is declared safe for visitors.",
-      "details": "<p>As a result of a significant fallen tree which has impeded visitor access, the Lophostemon walk located at Neurum Creek camping area, D'Aguilar National Park will remain temporarily closed until the walk is declared safe for visitors.</p> <p>All other walking tracks within D&#39;Aguilar&nbsp;National Park are open for visitor access (unless identified in a separate park alert).</p> <p>Observe all signage, barriers and directions from rangers, and do not enter the closed area.</p> <p>Park Alerts will be regularly updated regarding conditions on park. The next update will be provided by the 19th of April 2024.</p>",
-      "start_date": "2024-04-12",
-      "start_effective_date": "2024-04-03",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.des.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park planned burns",
       "alert_id": "23944",
       "url": "https://parks.des.qld.gov.au/park-alerts/23944",
@@ -2846,23 +2700,6 @@
       ]
     },
     {
-      "title": "Drive with caution - Access Tracks within Byfield National, Conservation Park and State Forest",
-      "alert_id": "23948",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23948",
-      "description": "Visitors travelling within Byfield National and Conservation Park access tracks to Nine Mile and 5 Rocks Beach are reminded to drive with care and to conditions with road maintenance being conducted along the 'Southern Access' and internal tracks. Following heavy rainfall in the local area, visitors are advised to remain vigilant in relation to water over roads, including Stoney Creek Road, and not to drive through floodwaters.",
-      "details": "<p>Visitors travelling within Byfield National and Conservation Park access tracks to Nine Mile and 5 Rocks Beach are reminded to drive with care and to conditions with road maintenance being conducted along the 'Southern Access' and internal tracks. Following heavy rainfall in the local area, visitors are advised to remain vigilant in relation to water over roads, including Stoney Creek Road, and not to drive through floodwaters.</p> <p>Public access tracks impacted by works will be signed with &#39;Road Closed&#39; signage.&nbsp;Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety, please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-08",
-      "start_effective_date": "2024-04-12",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Temporary track closures due to preparation works for upcoming events: Smithfield Mountain Bike Park",
       "alert_id": "23950",
       "url": "https://parks.des.qld.gov.au/park-alerts/23950",
@@ -2898,23 +2735,6 @@
           "id": "151379",
           "name": "Thorsborne Trail, Hinchinbrook Island National Park",
           "url": "https://parks.des.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn operations. Peak Range National Park - (Gemini Mountains Section), (Lords Table Mountain Section)",
-      "alert_id": "23952",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23952",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Peak Range National Park (Gemini Mountains Section and Lords Table Mountain Section) . This burning will occur from Wednesday 9 April - 19 April. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Peak Range National Park (Gemini Mountains Section and Lords Table Mountain Section) . This burning will occur from Wednesday 9 April - 19 April. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>Smoke may be seen in the vicinity of Peak Range National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-05",
-      "start_effective_date": "2024-04-09",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "322946",
-          "name": "Peak Range National Park",
-          "url": ""
         }
       ]
     },
@@ -3073,23 +2893,6 @@
           "id": "147975",
           "name": "Conway National Park",
           "url": "https://parks.des.qld.gov.au/parks/conway"
-        }
-      ]
-    },
-    {
-      "title": "Smoke advice and temporary closure of Zamia walking track due to planned burning, Mount Archer National Park and State Forest",
-      "alert_id": "23970",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23970",
-      "description": "To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Mount Archer National Park and Mount Archer State Forest. This burning will occur from Monday 15 April 2024, weather permitting, and may occur through until Friday 19 April 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the Mount Archer area during this time. For visitor safety, the Zamia Walking Track will be closed between Grasstree lookout and First Turkey Mountain Bike Reserve for the duration of the burning operations.",
-      "details": "<p>To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Mount Archer National Park and Mount Archer State Forest. This burning will occur from Monday 15 April 2024, weather permitting, and may occur through until Friday 19 April 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the Mount Archer area during this time. For visitor safety, the Zamia Walking Track will be closed between Grasstree lookout and First Turkey Mountain Bike Reserve for the duration of the burning operations.</p> <p>The aim of this burning is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions. Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-15",
-      "start_effective_date": "2024-04-15",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mount-archer"
         }
       ]
     },
@@ -3279,23 +3082,6 @@
       ]
     },
     {
-      "title": "Temporary closure of Smithfield Mountain Bike Park: Smithfield Conservation Park",
-      "alert_id": "23984",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23984",
-      "description": "Due to recent weather events resulting in heavy rain, the Smithfield Mountain Bike Park is currently closed. Please do not ride on tracks while they are wet as it damages the surface and creates further issues.",
-      "details": "<p>Due to recent weather events resulting in heavy rain, the Smithfield Mountain Bike Park is currently closed. Please do not ride on tracks while they are wet as it damages the surface and creates further issues.</p>",
-      "start_date": "2024-04-16",
-      "start_effective_date": "2024-04-16",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "148424",
-          "name": "Smithfield Conservation Park",
-          "url": "https://parks.des.qld.gov.au/parks/smithfield"
-        }
-      ]
-    },
-    {
       "title": "Notification of planned burn  Dularcha National Park",
       "alert_id": "23985",
       "url": "https://parks.des.qld.gov.au/park-alerts/23985",
@@ -3309,23 +3095,6 @@
           "id": "148175",
           "name": "Dularcha National Park",
           "url": "https://parks.des.qld.gov.au/parks/dularcha"
-        }
-      ]
-    },
-    {
-      "title": "Planned works - Peregian section, Noosa National Park",
-      "alert_id": "23986",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23986",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Peregian carpark on Thursday 18th April, 2024 - weather permitting.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Peregian carpark on Thursday 18th April, 2024 - weather permitting.</p> <p>This carpark will be closed to vehicle access for the duration of the works - Thursday 18th April, 2024 (6am to 5pm).</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-17",
-      "start_effective_date": "2024-04-17",
-      "end_date": "2024-04-19",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.des.qld.gov.au/parks/noosa"
         }
       ]
     },
