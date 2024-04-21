@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2024-04-20 10:04:06"
+    "alerts_count": 168,
+    "script_run_time": "2024-04-21 10:04:35"
   },
   "alerts": [
     {
@@ -1334,23 +1334,6 @@
       ]
     },
     {
-      "title": "Temporary walking tracks closure: Donna Cave car park to Balancing Rock car park and Royal Arch Cave car park, Chillagoe-Mungana Caves National Park",
-      "alert_id": "23586",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23586",
-      "description": "Visitors are advised that the walking track from Donna Cave car park to Balancing Rock car park is temporarily closed due to wet weather, expected to open Wednesday 17 April 2024. The walking track from Balancing Rock car park to Royal Arch Cave car park is temporarily closed due to wet weather, expected to reopen Saturday 20 April 2024.",
-      "details": "<p>Visitors are advised that the walking track from Donna Cave car park to Balancing Rock car park is temporarily closed due to wet weather, expected to open Wednesday 17 April 2024. The walking track from Balancing Rock car park to Royal Arch Cave car park is temporarily closed due to wet weather, expected to reopen Saturday 20 April 2024.</p> <p>The Balancing Rock walking track and the Royal Arch ranger-guided cave tour are open as normal.</p>",
-      "start_date": "2024-04-15",
-      "start_effective_date": "2023-12-19",
-      "end_date": "2024-04-20",
-      "parks": [
-        {
-          "id": "148876",
-          "name": "Chillagoe-Mungana Caves National Park",
-          "url": "https://parks.des.qld.gov.au/parks/chillagoe-caves"
-        }
-      ]
-    },
-    {
       "title": "Closed to visitors: Lawn Hill Gorge remains closed to visitors due to extensive flood damage received in March 2023",
       "alert_id": "23587",
       "url": "https://parks.des.qld.gov.au/park-alerts/23587",
@@ -2596,23 +2579,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.des.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Yanks Jetty camping and day use area closed",
-      "alert_id": "23931",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23931",
-      "description": "The camping and day use area at Yanks Jetty on Orpheus Island will be closed for visitor safety 8-20 April 2024 during construction works for the walking track.",
-      "details": "<p>The camping and day use area at Yanks Jetty on Orpheus Island will be closed for visitor safety 8-20 April 2024 during construction works for the walking track.</p>",
-      "start_date": "2024-03-27",
-      "start_effective_date": "2024-04-08",
-      "end_date": "2024-04-20",
-      "parks": [
-        {
-          "id": "148806",
-          "name": "Orpheus Island National Park",
-          "url": "https://parks.des.qld.gov.au/parks/orpheus-island"
         }
       ]
     },
