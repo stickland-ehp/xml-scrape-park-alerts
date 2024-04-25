@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2024-04-24 10:07:54"
+    "alerts_count": 172,
+    "script_run_time": "2024-04-25 10:06:57"
   },
   "alerts": [
     {
@@ -3107,23 +3107,6 @@
           "id": "148784",
           "name": "Kroombit Tops National Park",
           "url": "https://parks.des.qld.gov.au/parks/kroombit-tops"
-        }
-      ]
-    },
-    {
-      "title": "Byfield Conservation Park - 5rocks campground closure",
-      "alert_id": "23999",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23999",
-      "description": "Heavy machinery works are being undertaken in the 5rocks campground, Byfield Conservation Park. Please be cautious driving within Byfield National Park and Big Sandy with trucks utilising these access roads.",
-      "details": "<p>Heavy machinery works are being undertaken in the 5rocks campground, Byfield Conservation Park. Please be cautious driving within Byfield National Park and Big Sandy with trucks utilising these access roads.</p> <p>Facilities will reopen when construction is completed.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-22",
-      "start_effective_date": "2024-04-22",
-      "end_date": "2024-04-24",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.des.qld.gov.au/parks/byfield"
         }
       ]
     },
