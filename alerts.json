@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-04-25 10:06:57"
+    "alerts_count": 169,
+    "script_run_time": "2024-04-26 10:06:47"
   },
   "alerts": [
     {
@@ -1258,28 +1258,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to impacts from ex-Tropical Cyclone Jasper",
-      "alert_id": "23559",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23559",
-      "description": "Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.",
-      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, national parks and protected areas listed above are temporarily closed until further notice.</p> <p>Monitor park alerts for up-to-date information on closures.</p> <p>For up-to-date weather information, see <a href=\"http://www.bom.gov.au/?ref=hdr\">Bureau of Meteorology</a>.</p>",
-      "start_date": "2024-03-25",
-      "start_effective_date": "2023-12-12",
-      "end_date": "2024-04-30",
-      "parks": [
-        {
-          "id": "322776",
-          "name": "Mount Windsor National Park",
-          "url": ""
-        },
-        {
-          "id": "322716",
-          "name": "Mount Spurgeon National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closure: Wallicher Falls walking track and bottom section of Nandroya Falls walking track, Wooroonooran National Park",
       "alert_id": "23571",
       "url": "https://parks.des.qld.gov.au/park-alerts/23571",
@@ -1512,9 +1490,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23641",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, some walking tracks at Earl Hill Conservation Park remain closed due to landslips. See below for more information on Earl Hill Conservation Parks walking tracks.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, some walking tracks at Earl Hill Conservation Park remain closed due to landslips. See below for more information on Earl Hill Conservation Parks walking tracks.</p> <p>The Woodland walking track is partially closed. The section from the trailhead on Flagship Drive up to the junction with the Rainforest walking track is closed. From the junction to the summit is open and can be accessed from the Rainforest walking track. The partial closure is due to a landslip that requires earth stabilisation work to make it safe.&nbsp;</p> <p>The following Earl Hill Conservation Park walking tracks are OPEN:</p> <ul> <li>Cycad walking track</li> <li>Rainforest walking track</li> <li>Lizard walking track.</li> </ul> <p>A map of Earl Hill&nbsp;Conservation Park walking tracks can be found <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0024/263247/earl-hill-conservation-park-map.pdf\">here</a>.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-27",
+      "start_date": "2024-04-26",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-04-29",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "263080",
@@ -1634,9 +1612,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23655",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, Mount Lewis National Park is closed until further notice.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, Mount Lewis National Park is closed until further notice.</p> <p>Monitor park alerts for up-to-date information.</p>",
-      "start_date": "2024-03-22",
+      "start_date": "2024-04-26",
       "start_effective_date": "2024-01-10",
-      "end_date": "2024-04-30",
+      "end_date": "2024-06-01",
       "parks": [
         {
           "id": "148484",
@@ -2725,11 +2703,11 @@
       "title": "Lower Portals walking track and Lower Portals and Barney Gorge campgrounds closed from 22 April",
       "alert_id": "23960",
       "url": "https://parks.des.qld.gov.au/park-alerts/23960",
-      "description": "The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 3rd May (weather permitting).",
-      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 3rd May (weather permitting).</p> <p>This walking track and the Lower Portals and Barney Gorge campgrounds will be closed during for the duration of the works. All permits, including camping permits, are suspended for the duration of the closure.</p> <p>The area will not be reopened until the works have been completed.<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-22",
+      "description": "The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 10th May (weather permitting).",
+      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 10th May (weather permitting).</p> <p>This walking track and the Lower Portals and Barney Gorge campgrounds will be closed during for the duration of the works. All permits, including camping permits, are suspended for the duration of the closure.</p> <p>The area will not be reopened until the works have been completed.<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-26",
       "start_effective_date": "2024-04-10",
-      "end_date": "2024-05-03",
+      "end_date": "2024-05-10",
       "parks": [
         {
           "id": "148528",
@@ -2769,23 +2747,6 @@
           "id": "148215",
           "name": "Crediton State Forest",
           "url": "https://parks.des.qld.gov.au/parks/crediton"
-        }
-      ]
-    },
-    {
-      "title": "Parts of Mount Barney National Park closed from Monday 15 April",
-      "alert_id": "23966",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23966",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Monday 15 April, as part of the fire management program for Mount Barney National Park.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Monday 15 April, as part of the fire management program for Mount Barney National Park.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Lower portals campground</li> <li>Barney Gorge campground</li> <li>Lower Portals walking track</li> </ul> <p>These areas will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of the Mount Barney and Mount Lindsay areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure. This includes all camping permits for closed campgrounds. Please apply for a refund online at qld.gov.au/camping.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-18",
-      "start_effective_date": "2024-04-12",
-      "end_date": "2024-04-25",
-      "parks": [
-        {
-          "id": "148528",
-          "name": "Mount Barney National Park",
-          "url": "https://parks.des.qld.gov.au/parks/mount-barney"
         }
       ]
     },
@@ -2932,28 +2893,6 @@
           "id": "154596",
           "name": "Josephine Falls, Wooroonooran National Park",
           "url": "https://parks.des.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
-      "title": "PARK CLOSURE: Anzac Day",
-      "alert_id": "23981",
-      "url": "https://parks.des.qld.gov.au/park-alerts/23981",
-      "description": "In observance of Anzac Day, Walkabout Creek Discovery Centre and David Fleay Wildlife Park will be closed on Thursday 25 April 2024 to pay our respects to the courageous servicemen and women of the Australian and New Zealand Armed Services.",
-      "details": "<p>In observance of Anzac Day, Walkabout Creek Discovery Centre and David Fleay Wildlife Park will be closed on Thursday 25 April 2024 to pay our respects to the courageous servicemen and women of the Australian and New Zealand Armed Services.</p> <p>This closure is a mark of our deep reverence for their sacrifices and the significance of this solemn day in our shared history.&nbsp;We appreciate your understanding and encourage everyone to take a moment to reflect on the sacrifices made by the ANZACs. Regular operations will resume on Friday 26 April 2024.</p>",
-      "start_date": "2024-04-16",
-      "start_effective_date": "2024-04-25",
-      "end_date": "2024-04-25",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.des.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        },
-        {
-          "id": "148540",
-          "name": "David Fleay Wildlife Park",
-          "url": "https://parks.des.qld.gov.au/parks/david-fleay"
         }
       ]
     },
