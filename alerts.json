@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2024-04-28 10:04:01"
+    "alerts_count": 166,
+    "script_run_time": "2024-04-29 10:07:12"
   },
   "alerts": [
     {
@@ -258,10 +258,10 @@
       "alert_id": "21110",
       "url": "https://parks.des.qld.gov.au/park-alerts/21110",
       "description": "Mt Allan fire tower in Conondale National Park is temporarily closed to climbing. An engineering report has indicated the tower is not suitable for public access. The tower will be closed to all access until further notice.",
-      "details": "<p>Mt Allan fire tower in Conondale National Park is temporarily closed to climbing. An engineering report has indicated the tower is not suitable for public access. The tower will be closed to all access until further notice.</p> <p>The walking track from Charlie Moreland camping area to the tower is open to the public.</p> <p>The walking track from Booloumba Creek areas&nbsp;to Mt Allan remains open to the public.</p> <p>Please observe all signage, barriers and or directions from rangers, and do not enter closed areas.</p>",
-      "start_date": "2023-12-18",
-      "start_effective_date": "2023-05-22",
-      "end_date": "2024-04-30",
+      "details": "<p>Mt Allan fire tower in Conondale National Park is temporarily closed to climbing. An engineering report has indicated the tower is not suitable for public access. The tower will be closed to all access until further notice.</p> <p>The walking track from Charlie Moreland camping area to the tower is open to the public.</p> <p>The walking track from Booloumba Creek areas&nbsp;to Mt Allan remains open to the public.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2024-04-29",
+      "end_date": "2024-10-29",
       "parks": [
         {
           "id": "147991",
@@ -464,6 +464,23 @@
       ]
     },
     {
+      "title": "Cornwells Road, No Heavy Traffic",
+      "alert_id": "22236",
+      "url": "https://parks.des.qld.gov.au/park-alerts/22236",
+      "description": "Cornwells Road, between Wabby Scenic Road and Northern Road/Pile Valley Road will be closed to buses and heavy vehicle traffic from 31 July 2022 until further notice due to maintenance and repairs.",
+      "details": "<p>Cornwells Road, between Wabby Scenic Road and Northern Road/Pile Valley Road will be closed to buses and heavy vehicle traffic from 31 July 2022 until further notice due to maintenance and repairs.</p> <p>Please observes all traffic control and directional signage in place.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2022-08-31",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
       "title": "Drive safely to road conditions",
       "alert_id": "22331",
       "url": "https://parks.des.qld.gov.au/park-alerts/22331",
@@ -575,10 +592,10 @@
       "alert_id": "23065",
       "url": "https://parks.des.qld.gov.au/park-alerts/23065",
       "description": "Instances of threatening dingo behaviour have been reported at some locations including Eli Creek, Waddy Point and Wathumba.",
-      "details": "<p>Instances of threatening dingo behaviour have been reported at some locations including Eli Creek, Waddy Point and Wathumba.</p> <p>Visitors, tour operators and residents are advised to <a href=\"http://www.nprsr.qld.gov.au/parks/fraser/dingo-safe.html\">be dingo-safe! on Fraser Island</a>.</p> <p>Locations of threatening dingo behaviour:</p> <ul> <li>Happy Valley to Cathedral Beach (including beach camping areas)</li> <li>Eli Creek</li> <li>Waddy Point to Ngkala Rocks (including beach camping areas)</li> <li>Wathumba</li> </ul> <p>It is recommended that visitors&nbsp;be extra vigilant in these areas. Consider camping in <a href=\"https://parks.des.qld.gov.au/parks/kgari-fraser/camping/campgrounds-summary/camping-areas-with-wongari-dingo-deterrent-fences\">fenced QPWS camping areas</a>.</p> <p><strong>Be dingo-safe!&nbsp;</strong>Visit<strong>&nbsp;</strong><a href=\"https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email&nbsp;<a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a>, tell the nearest QPWS ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location, vehicle registration, dingo ear tag colour, number and which ear.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2023-12-10",
+      "details": "<p>Instances of threatening dingo behaviour have been reported at some locations including Eli Creek, Waddy Point and Wathumba.</p> <p>Visitors, tour operators and residents are advised to <a href=\"http://www.nprsr.qld.gov.au/parks/fraser/dingo-safe.html\">be dingo-safe! on Fraser Island</a>.</p> <p>Locations of threatening dingo behaviour:</p> <ul> <li>Happy Valley to Cathedral Beach (including beach camping areas)</li> <li>Eli Creek</li> <li>Waddy Point to Ngkala Rocks (including beach camping areas)</li> <li>Wathumba</li> <li>Western beach camping areas</li> </ul> <p>It is recommended that visitors&nbsp;be extra vigilant in these areas. Consider camping in <a href=\"https://parks.des.qld.gov.au/parks/kgari-fraser/camping/campgrounds-summary/camping-areas-with-wongari-dingo-deterrent-fences\">fenced QPWS camping areas</a>.</p> <p><strong>Be dingo-safe!&nbsp;</strong>Visit<strong>&nbsp;</strong><a href=\"https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email&nbsp;<a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a>, tell the nearest QPWS ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location, vehicle registration, dingo ear tag colour, number and which ear.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-04-29",
       "start_effective_date": "2023-12-08",
-      "end_date": "2024-04-30",
+      "end_date": "2024-10-31",
       "parks": [
         {
           "id": "148007",
@@ -705,9 +722,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23309",
       "description": "Razorback track is closed to all traffic from the Razorback camping area to the park boundary on the Biloela side, due serious erosion and track damage.",
       "details": "<p>Razorback track is closed to all traffic from the Razorback camping area to the park boundary on the Biloela side, due serious erosion and track damage.</p> <p>The track will remained closed until repair work can be completed.</p> <p>Access to the Razorback camping area remains open.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-01-30",
+      "start_date": "2024-04-29",
       "start_effective_date": "2023-10-03",
-      "end_date": "2024-04-30",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148784",
@@ -941,12 +958,12 @@
       ]
     },
     {
-      "title": "Roadworks at Cunninghams Gap - Mount Mitchell track temporarily realigned",
+      "title": "Roadworks at Cunninghams Gap - temporary closures and realignment of walking tracks",
       "alert_id": "23450",
       "url": "https://parks.des.qld.gov.au/park-alerts/23450",
-      "description": "Mount Mitchell track in the Cunninghams Gap section of Main Range National Park has been temporarily realigned while scheduled roadworks on the highway are completed.",
-      "details": "<p>Mount Mitchell track in the Cunninghams Gap section of Main Range National Park has been temporarily realigned while scheduled roadworks on the highway are completed.</p> <p>The track can be accessed from the western side of the Crest carpark via a temporary pedestrian crossing.</p> <p>During construction, there is a temporary reduction in the number of carparking spaces&nbsp;at The Crest. Overflow parking is available at the West Gap Creek picnic area, approximately 1.6km walk along the Cunningham&nbsp;Highway or 2.5km via the Box Forest&nbsp;track.</p> <p>Road conditions and roadworks signage&nbsp;may vary depending on the stage of construction, and visitors are asked to follow all instructions and drive safely to road conditions.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2023-12-21",
+      "description": "Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.",
+      "details": "<p>Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.</p> <p>The following visitor areas have changed conditions:</p> <ul> <li>West Gap Creek picnic area and Box Forest track will be closed from 6am Monday to Friday 6pm from Monday 29 April to Friday 21 June.</li> <li>Mount Mitchell track has been temporarily realigned and&nbsp;can be accessed from the western side of The Crest carpark via a temporary pedestrian crossing.</li> <li>During construction, there is a temporary reduction in the number of carparking spaces&nbsp;at The Crest.</li> </ul> <p>Road conditions and roadworks signage&nbsp;may vary depending on the stage of construction, and visitors are asked to follow all instructions and drive safely to road conditions.</p> <p>For more information, please visit the Department of Transport and Main Roads website:&nbsp;<a href=\"https://www.tmr.qld.gov.au/projects/cunningham-highway-ipswich-warwick-2020-disaster-recovery-funding-arrangements-reconstruction-works\">Cunningham Highway (Ipswich &ndash; Warwick), 2020 Disaster Recovery Funding Arrangements reconstruction works | Department of Transport and Main Roads (tmr.qld.gov.au)</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-29",
       "start_effective_date": "2023-11-10",
       "end_date": "2024-07-31",
       "parks": [
@@ -1241,9 +1258,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23571",
       "description": "Following the impacts of ex-Tropical Cyclone Jasper, the following are currently closed until further notice:",
       "details": "<p>Following the impacts of ex-Tropical Cyclone Jasper, the following are currently closed until further notice:</p> <ul> <li>Wallicher Falls walking track&nbsp;</li> <li>Nandroyer Falls top track is open, however the alternate bottom track is closed. Track repairs are in progress.</li> </ul> <p>Monitor park alerts for current information.&nbsp;</p> <p>For information on the condition of the Palmerston Highway, please visit Department of Transport and Main Roads at&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">QldTraffic</a></p>",
-      "start_date": "2024-03-26",
+      "start_date": "2024-04-29",
       "start_effective_date": "2023-12-16",
-      "end_date": "2024-04-30",
+      "end_date": "2024-06-28",
       "parks": [
         {
           "id": "151396",
@@ -1317,9 +1334,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23592",
       "description": "During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
       "details": "<p>During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-04-11",
+      "start_date": "2024-04-29",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-05-01",
+      "end_date": "2024-05-07",
       "parks": [
         {
           "id": "148452",
@@ -1541,9 +1558,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23649",
       "description": "As a result of severe storm damage, Cedar Creek section of Tamborine National Park remains closed until declared safe.",
       "details": "<p>As a result of severe storm damage, Cedar Creek section of Tamborine National Park remains closed until declared safe.</p> <p>The storm caused damage to&nbsp;facilities and hazardous trees making the area unsafe for public access.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Queensland Police and QPWS Rangers are actively patrolling the closure for compliance to ensure public safety.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-11",
+      "start_date": "2024-04-29",
       "start_effective_date": "2024-01-09",
-      "end_date": "2024-04-29",
+      "end_date": "2024-05-10",
       "parks": [
         {
           "id": "148199",
@@ -2269,9 +2286,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23881",
       "description": "Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary.",
       "details": "<p>Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-19",
+      "start_date": "2024-04-29",
       "start_effective_date": "2024-03-12",
-      "end_date": "2024-04-29",
+      "end_date": "2024-05-06",
       "parks": [
         {
           "id": "148360",
@@ -2401,11 +2418,11 @@
       "title": "Temporary park closure: Keatings Lagoon Conservation Park",
       "alert_id": "23914",
       "url": "https://parks.des.qld.gov.au/park-alerts/23914",
-      "description": "Keatings Lagoon Conservation Park is currently closed due to flooding. The park is anticipated to re-open 2 May 2024 (depending on weather conditions and water levels).",
-      "details": "<p>Keatings Lagoon Conservation Park is currently closed due to flooding. The park is anticipated to re-open 2 May 2024 (depending on weather conditions and water levels).</p> <p>Please monitor this park alert for current information.</p>",
-      "start_date": "2024-03-26",
+      "description": "Keatings Lagoon Conservation Park is currently closed due to flood damage. The park is anticipated to re-open 3 June 2024 (depending on weather conditions and water levels).",
+      "details": "<p>Keatings Lagoon Conservation Park is currently closed due to flood damage. The park is anticipated to re-open 3 June 2024 (depending on weather conditions and water levels).</p> <p>Please monitor this park alert for current information.</p>",
+      "start_date": "2024-04-29",
       "start_effective_date": "2024-03-26",
-      "end_date": "2024-05-01",
+      "end_date": "2024-06-03",
       "parks": [
         {
           "id": "148844",
@@ -2936,9 +2953,9 @@
       "title": "Planned road maintenance: Smalleys Beach Road and Hidden Valley Road, Cape Hillsborough National Park",
       "alert_id": "24001",
       "url": "https://parks.des.qld.gov.au/park-alerts/24001",
-      "description": "Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park on Monday 29 April - Wednesday 1 May 2024 (inclusive).",
-      "details": "<p>Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park on Monday 29 April - Wednesday 1 May 2024 (inclusive).</p> <p>Visitors&nbsp;are advised to proceed with caution on the roads when accessing Smalleys Beach camping area and the Yuwi plant trail due to heavy plant and equipment being in use on the access roads.</p> <p>Please adhere to all safety signage and access advice.</p>",
-      "start_date": "2024-04-24",
+      "description": "Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park on Monday 29 April - Friday 3 May 2024 (inclusive).",
+      "details": "<p>Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park on Monday 29 April - Friday 3 May 2024 (inclusive).</p> <p>Visitors&nbsp;are advised to proceed with caution on the roads when accessing Smalleys Beach camping area and the Yuwi plant trail due to heavy plant and equipment being in use on the access roads.</p> <p>Please adhere to all safety signage and access advice.</p>",
+      "start_date": "2024-04-29",
       "start_effective_date": "2024-04-29",
       "end_date": "2024-05-01",
       "parks": [
@@ -2999,33 +3016,6 @@
       ]
     },
     {
-      "title": "Works notification: Hook Island pontoon construction activities",
-      "alert_id": "24004",
-      "url": "https://parks.des.qld.gov.au/park-alerts/24004",
-      "description": "Visitors are advised that marine construction for private pontoon infrastructure associated with lease development is to take place in Hook Passage (between southern end of Hook Island and northern end of Whitsunday Island) at the Hook Island Eco Resort site from Monday 29th April Friday 3rd May 2024. Works will include pile driving and presence of marine construction vessels.",
-      "details": "<p>Visitors are advised that marine construction for private pontoon infrastructure associated with lease development is to take place in Hook Passage (between southern end of Hook Island and northern end of Whitsunday Island) at the Hook Island Eco Resort site from Monday 29th April Friday 3rd May 2024. Works will include pile driving and presence of marine construction vessels.</p> <p>During this period of time, Hook Passage will be subject to construction related noise impacts during daylight hours for approximately 3-5 days. Based on the nature of the construction activities, visitors to the following day use areas and campgrounds on Hook Island and Whitsunday Island may be impacted by construction noise:</p> <p>- Cairn Beach campground and walking track</p> <p>- Curlew Beach campground</p> <p>- Dugong Beach campground and walking track</p> <p>- Nari&rsquo;s Beach campground</p> <p>- Joe&rsquo;s Beach campground</p> <p>- Cid Harbour</p> <p>For your safety, please avoid the construction area and follow any safety directions from rangers or construction contractors. Please direct any enquiries to <a href=\"mailto:PermitsGBR@des.qld.gov.au\">PermitsGBR@des.qld.gov.au</a> or <a href=\"mailto:Assessments@gbrmpa.gov.au\">Assessments@gbrmpa.gov.au</a>.</p>",
-      "start_date": "2024-04-23",
-      "start_effective_date": "2024-04-29",
-      "end_date": "2024-05-03",
-      "parks": [
-        {
-          "id": "152875",
-          "name": "Whitsunday Ngaro Sea Trail",
-          "url": "https://parks.des.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.des.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.des.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
       "title": "Eastern section of the Bluebush Tourist Drive on Lochern National Park temporarily closed",
       "alert_id": "24005",
       "url": "https://parks.des.qld.gov.au/park-alerts/24005",
@@ -3065,23 +3055,6 @@
       ]
     },
     {
-      "title": "Planned Burn - Block 8",
-      "alert_id": "24007",
-      "url": "https://parks.des.qld.gov.au/park-alerts/24007",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within a remote section of Cooloola Recreation Area from Wednesday 24 to Sunday 28 April 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within a remote section of Cooloola Recreation Area from Wednesday 24 to Sunday 28 April 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Rainbow Beach, Cooloola Cove and Tin Can Bay areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>The Cooloola Wilderness Trail, including Neebs Waterhole and Wandi Waterhole camping areas, are closed to public access for the duration of the burn dates.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas or exclusion zones.</p> <p>Your safety is our concern, but your responsibility.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-23",
-      "start_effective_date": "2024-04-24",
-      "end_date": "2024-04-28",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.des.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Munga-Thirri National Park - flooding of Madigan Track at Camp 20",
       "alert_id": "24010",
       "url": "https://parks.des.qld.gov.au/park-alerts/24010",
@@ -3099,19 +3072,102 @@
       ]
     },
     {
-      "title": "Box Forest track - Fallen trees across track",
-      "alert_id": "24011",
-      "url": "https://parks.des.qld.gov.au/park-alerts/24011",
-      "description": "Due to recent weather events, several trees, including Stinging trees, have fallen across Box Forest Track.",
-      "details": "<p>Due to recent weather events, several trees, including Stinging trees, have fallen across Box Forest Track.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-27",
-      "start_effective_date": "2024-04-27",
-      "end_date": "2024-04-28",
+      "title": "Temporary walking track closure: Djyinda walk, Wallaman Falls, Girringun National Park",
+      "alert_id": "24012",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24012",
+      "description": "Due to a landslip blocking the walking track, the Djyinda walk to the bottom of Wallaman Falls is temporarily closed until further notice.",
+      "details": "<p>Due to a landslip blocking the walking track, the Djyinda walk to the bottom of Wallaman Falls is temporarily closed until further notice.</p> <p>Currently the track is unsafe for public visitation and will remain closed until Queensland Parks and Wildlife Service rangers can undertake an assessment and remedial works. &nbsp;The Wallaman Falls lookout remains open for visitors.</p> <p>Please adhere to all closure signage.</p> <p>&nbsp;</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2024-04-29",
+      "end_date": "2024-05-03",
       "parks": [
         {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.des.qld.gov.au/parks/main-range"
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.des.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "149453",
+          "name": "Wallaman Falls, Girringun National Park",
+          "url": "https://parks.des.qld.gov.au/parks/girringun-wallaman"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24014",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24014",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2024-04-29",
+      "end_date": "2024-05-03",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.des.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.des.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "Closure of far Southern Boardwalk from council carpark at the end of Mon Repos Road.",
+      "alert_id": "24015",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24015",
+      "description": "A recent assessment of the boardwalk has determined it is not safe for use. Access to the beach is still possible via the coastal access track to the south (tide permitting), the Mon Repos Turtle Centre boardwalks and the Moore's Road carpark area.",
+      "details": "<p>A recent assessment of the boardwalk has determined it is not safe for use. Access to the beach is still possible via the coastal access track to the south (tide permitting), the Mon Repos Turtle Centre boardwalks and the Moore's Road carpark area.</p> <p>This beach access will remain closed until an altenate access is re-established. &nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2024-04-30",
+      "end_date": "2024-06-28",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.des.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "K'gari (Fraser Island) Great Walk - advanced booking restriction",
+      "alert_id": "24016",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24016",
+      "description": "As a result of high fire danger conditions typically experienced on Kgari over the warmer months causing an unacceptable risk to the safety of walkers in remote areas, a seasonal restriction on forward bookings for the Kgari (Fraser Island) Great Walk camp areas is implemented yearly from 1 November to 28 February. Restrictions on forward bookings reduces impacts of visitors if the walk is closed at short notice.",
+      "details": "<p>As a result of high fire danger conditions typically experienced on Kgari over the warmer months causing an unacceptable risk to the safety of walkers in remote areas, a seasonal restriction on forward bookings for the Kgari (Fraser Island) Great Walk camp areas is implemented yearly from 1 November to 28 February. Restrictions on forward bookings reduces impacts of visitors if the walk is closed at short notice.</p> <p>During the time when the walk and camp areas may be closed, Rangers will regularly assess the fire danger conditions and open the walk (or sections of the walk) and associated camp areas whenever conditions allow.</p> <p>For an updated status check the K&rsquo;gari (Fraser Island) conditions report.&nbsp;<a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0022/160348/fraser-conditions-report.pdf\">Fraser Island-K&#39;gari conditions report (des.qld.gov.au)</a></p> <p>For further information, please visit <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a></p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned vegetation maintenance along Southern Lakes Road",
+      "alert_id": "24017",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24017",
+      "description": "Pending favourable weather conditions, planned vegetation maintenance along the Southern Lakes Road will commence from Tuesday 30th April 2024 to Friday 3rd May 2024.",
+      "details": "<p>Pending favourable weather conditions, planned vegetation maintenance along the Southern Lakes Road will commence from Tuesday 30th April 2024 to Friday 3rd May 2024.</p> <p>As a result of heavy machinery operating on the road, visitors should expect delays in the following areas:</p> <ul> <li>Southern Lakes Road between Dilli Village and Lake Boomanjin</li> <li>Southern Lakes Road between Lake Benaroon and Lake Boomanjin</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-29",
+      "start_effective_date": "2024-04-30",
+      "end_date": "2024-05-03",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.des.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     }
