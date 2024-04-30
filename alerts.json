@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 166,
-    "script_run_time": "2024-04-29 10:07:12"
+    "alerts_count": 170,
+    "script_run_time": "2024-04-30 10:07:36"
   },
   "alerts": [
     {
@@ -1887,11 +1887,11 @@
       "title": "Temporary track closure - Morans Falls track",
       "alert_id": "23796",
       "url": "https://parks.des.qld.gov.au/park-alerts/23796",
-      "description": "Pending favourable weather conditions, planned upgrades to the Morans Falls track will commence from Wednesday the 14th of February 2024 through to Friday the 3rd of May 2024.",
-      "details": "<p>Pending favourable weather conditions, planned upgrades to the Morans Falls track will commence from Wednesday the 14th of February 2024 through to Friday the 3rd of May 2024.</p> <p>As a result, the Morans Falls track will remain temporarily closed for the duration of the planned upgrades.&nbsp;</p> <p>Comply with signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts will be regularly updated regarding condition on park.&nbsp;</p> <p>The next update will be provided by Friday the 3rd of May 2024.</p>",
-      "start_date": "2024-03-26",
+      "description": "Pending favourable weather conditions, planned upgrades to the Morans Falls track will commence from Wednesday 14 February 2024 through to Friday 31 May 2024.",
+      "details": "<p>Pending favourable weather conditions, planned upgrades to the Morans Falls track will commence from Wednesday 14 February 2024 through to Friday 31 May 2024.</p> <p>As a result, the Morans Falls track will remain temporarily closed for the duration of the planned upgrades.&nbsp;</p> <p>Comply with signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts will be regularly updated regarding condition on park.&nbsp;</p> <p>The next update will be provided by Friday&nbsp;31&nbsp;May 2024.</p>",
+      "start_date": "2024-04-30",
       "start_effective_date": "2024-02-14",
-      "end_date": "2024-05-03",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148271",
@@ -2174,9 +2174,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23851",
       "description": "Visitors are advised that due to recent heavy rainfall in the area, there is potential for flash flooding of waterways along Wallaman Falls Road and approaches to Wallaman Falls camping and day-use area.",
       "details": "<p>Visitors are advised that due to recent heavy rainfall in the area, there is potential for flash flooding of waterways along Wallaman Falls Road and approaches to Wallaman Falls camping and day-use area.</p> <p>Prior to travel, visitors are advised to check local road conditions at:</p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads&nbsp;</a>&nbsp;or call 13 19 40</li> <li><a href=\"https://disaster.hinchinbrook.qld.gov.au/\">Hinchinbrook Shire Council</a>&nbsp;emergency management dashboard.</li> </ul> <p>Weather conditions can be checked at:</p> <ul> <li><a href=\"http://www.bom.gov.au/\">Bureau of Meteorology&nbsp;<strong>(external link)</strong></a>.</li> </ul> <p>Remember if it&rsquo;s flooded, forget it.</p>",
-      "start_date": "2024-02-29",
+      "start_date": "2024-04-30",
       "start_effective_date": "2024-02-29",
-      "end_date": "2024-04-30",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "149453",
@@ -2269,9 +2269,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23876",
       "description": "Due to wet season rains and subsequent localised flooding, the road to Broadwater has significant ruts and potholes. Please exercise caution, drive to the conditions and adhere to safety signage.",
       "details": "<p>Due to wet season rains and subsequent localised flooding, the road to Broadwater has significant ruts and potholes. Please exercise caution, drive to the conditions and adhere to safety signage.</p>",
-      "start_date": "2024-03-08",
+      "start_date": "2024-04-30",
       "start_effective_date": "2024-03-08",
-      "end_date": "2024-04-30",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "150260",
@@ -2320,19 +2320,14 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23894",
       "description": "Due to seasonal wet weather and flooding, roads within Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.",
       "details": "<p>Due to seasonal wet weather and flooding, roads within Welford National Park have sustained damage. Roads are now dry but there are eroded and overgrown sections along tourist drives and entry roads into camping areas. 4WDs are recommended for all roads until repair works can be undertaken.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-19",
+      "start_date": "2024-04-30",
       "start_effective_date": "2024-03-18",
-      "end_date": "2024-05-03",
+      "end_date": "2024-05-10",
       "parks": [
         {
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.des.qld.gov.au/parks/welford"
-        },
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.des.qld.gov.au/parks/lochern"
         }
       ]
     },
@@ -2802,9 +2797,9 @@
       "url": "https://parks.des.qld.gov.au/park-alerts/23985",
       "description": "The Queensland Parks and Wildlife Service intends to conduct a planned burn in a section of Dularcha National Park. This burn is scheduled for the coming weeks, or as soon as weather conditions are favourable.",
       "details": "<p>The Queensland Parks and Wildlife Service intends to conduct a planned burn in a section of Dularcha National Park. This burn is scheduled for the coming weeks, or as soon as weather conditions are favourable.</p> <p>The entire national park, including all trails, will be closed for the duration and following the burn until an inspection has been carried out.&nbsp;</p> <p>Detailed information regarding the dates&nbsp;and associated closures will be posted as an additional Park Alert on the Department&#39;s website once this information is known.&nbsp;</p> <p>This burn is part of our hazard reduction and conservation management program for parks and forests estate. QPWS&amp;P conducts burns to decrease wildfire risk for protection of the community. &nbsp;Fire is also essential for the health of our native plant communities.</p> <p>Smoke may be seen in the vicinity of national park during and after the burn.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>If you have any inquiries regarding the planned burn please contact QPWS&amp;P&nbsp;at Maleny on 5494 3983.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-17",
+      "start_date": "2024-04-30",
       "start_effective_date": "2024-04-17",
-      "end_date": "2024-05-03",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148175",
@@ -3168,6 +3163,84 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.des.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Powrunna State Forest - planned aerial burn",
+      "alert_id": "24018",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24018",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Powrunna State Forest, starting Tuesday 30 April 2024. This burn is part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Powrunna State Forest, starting Tuesday 30 April 2024. This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration and wildlife.</p> <p>Large volumes of smoke are&nbsp;likely to be seen in the vicinity of Powrunna State Forest, near St George.<br /> Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.<br /> &nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-30",
+      "start_effective_date": "2024-04-30",
+      "end_date": "2024-05-02",
+      "parks": [
+        {
+          "id": "322436",
+          "name": "Powrunna State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Palmgrove and Expedition National Parks",
+      "alert_id": "24019",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24019",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Palmgrove National Park and the Bedourie section of Expedition National Park, starting Tuesday 30 April 2024.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Palmgrove National Park and the Bedourie section of Expedition National Park, starting Tuesday 30 April 2024.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Smoke may be seen in the vicinity of the burn and along nearby roads. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-04-30",
+      "start_effective_date": "2024-04-30",
+      "end_date": "2024-05-03",
+      "parks": [
+        {
+          "id": "148508",
+          "name": "Expedition National Park",
+          "url": "https://parks.des.qld.gov.au/parks/expedition"
+        },
+        {
+          "id": "322999",
+          "name": "Expedition (Limited Depth) National Park",
+          "url": ""
+        },
+        {
+          "id": "322992",
+          "name": "Palmgrove National Park (scientific)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Flood recovery roadworks within Mt Mee section of D'Aguilar National Park.",
+      "alert_id": "24020",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24020",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. Lovedays Road will be closed to the public from Sellin Rd to L Traverse during these works.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. Lovedays Road will be closed to the public from Sellin Rd to L Traverse during these works.</p> <p>For more information, please contact QPWS&amp;P on (07) 3164 3600&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "start_date": "2024-04-30",
+      "start_effective_date": "2024-05-01",
+      "end_date": "2024-05-08",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.des.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Closure of the Somerset Walking Trail - Mount Mee Section",
+      "alert_id": "24021",
+      "url": "https://parks.des.qld.gov.au/park-alerts/24021",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. As a result, the Somerset Walking trail will be closed to allow these works to take place.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. As a result, the Somerset Walking trail will be closed to allow these works to take place.</p> <p>For more information, please contact QPWS&amp;P on (07) 3164 3600&nbsp;</p> <p>Please monitor <a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-04-30",
+      "start_effective_date": "2024-05-01",
+      "end_date": "2024-05-08",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.des.qld.gov.au/parks/daguilar"
         }
       ]
     }
