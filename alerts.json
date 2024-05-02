@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2024-05-01 10:07:11"
+    "alerts_count": 168,
+    "script_run_time": "2024-05-02 10:08:04"
   },
   "alerts": [
     {
@@ -2846,23 +2846,6 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
-      "title": "Planned road maintenance: Smalleys Beach Road and Hidden Valley Road, Cape Hillsborough National Park",
-      "alert_id": "24001",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24001",
-      "description": "Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park on Monday 29 April - Friday 3 May 2024 (inclusive).",
-      "details": "<p>Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park on Monday 29 April - Friday 3 May 2024 (inclusive).</p> <p>Visitors&nbsp;are advised to proceed with caution on the roads when accessing Smalleys Beach camping area and the Yuwi plant trail due to heavy plant and equipment being in use on the access roads.</p> <p>Please adhere to all safety signage and access advice.</p>",
-      "start_date": "2024-04-29",
-      "start_effective_date": "2024-04-29",
-      "end_date": "2024-05-01",
-      "parks": [
-        {
-          "id": "149485",
-          "name": "Cape Hillsborough National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
         }
       ]
     },
