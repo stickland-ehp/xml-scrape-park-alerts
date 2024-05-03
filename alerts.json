@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-05-02 10:08:04"
+    "alerts_count": 167,
+    "script_run_time": "2024-05-03 10:07:09"
   },
   "alerts": [
     {
@@ -858,23 +858,6 @@
       ]
     },
     {
-      "title": "Bulburin National Park closed",
-      "alert_id": "23401",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23401",
-      "description": "Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.",
-      "details": "<p>Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.</p> <p>As a result, the following camp grounds&nbsp;are temporarily closed:</p> <p>Forestry camp</p> <p>Range view camp</p> <p>Zamia camp<br /> <br /> All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-09",
-      "start_effective_date": "2023-10-31",
-      "end_date": "2024-05-02",
-      "parks": [
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bulburin"
-        }
-      ]
-    },
-    {
       "title": "Gheerulla campground - transition to walk-in only facility",
       "alert_id": "23407",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23407",
@@ -982,14 +965,14 @@
       ]
     },
     {
-      "title": "Wet season closure extension: Palmer Goldfield Resources Reserve",
+      "title": "Camping and access update: Palmer Goldfield Resources Reserve",
       "alert_id": "23455",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23455",
-      "description": "Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Saturday 4 May 2024 (access road and weather conditions dependent).",
-      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season. The anticipated re-opening date is Saturday 4 May 2024 (access road and weather conditions dependent).</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-04-23",
+      "description": "Palmer Goldfield Resources Reserve is open for camping however access is only possible with a high clearance four-wheel drive vehicle from the east via Dog Leg Crossing (Whites Creek Road). All vehicle access via Palmerville Station and the Palmer River crossing at Maytown remains closed to all traffic.",
+      "details": "<p>Palmer Goldfield Resources Reserve is open for camping however access is only possible with a high clearance four-wheel drive vehicle from the east via Dog Leg Crossing (Whites Creek Road). All vehicle access via Palmerville Station and the Palmer River crossing at Maytown remains closed to all traffic.</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-05-03",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-05-04",
+      "end_date": "2024-05-17",
       "parks": [
         {
           "id": "149489",
@@ -1789,9 +1772,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23780",
       "description": "The Gap Creek Falls walking track and Palm Grove circuit at Main Range National Park are undergoing maintenance and will remain closed until further notice.",
       "details": "<p>The Gap Creek Falls walking track and Palm Grove circuit at Main Range National Park are undergoing maintenance and will remain closed until further notice.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-05",
+      "start_date": "2024-05-03",
       "start_effective_date": "2024-02-07",
-      "end_date": "2024-05-05",
+      "end_date": "2024-06-05",
       "parks": [
         {
           "id": "148480",
@@ -2026,11 +2009,11 @@
       "title": "Townsville Town Common Conservation Park",
       "alert_id": "23843",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23843",
-      "description": "Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Friday 3 May 2024. These closures are due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.",
-      "details": "<p>Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Friday 3 May 2024. These closures are due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-02",
+      "description": "Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Friday 31 May 2024. These closures are due to rainfall received over the last few weeks impacting track clearing efforts.",
+      "details": "<p>Many Peaks Track, Shelly Beach Trail, Smedleys Trail and Under the Radar Trail within the Townsville Town Common Conservation Park are currently closed with an anticipated re-opening on Friday 31 May 2024. These closures are due to rainfall received over the last few weeks impacting track clearing efforts.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-03",
       "start_effective_date": "2024-02-27",
-      "end_date": "2024-05-03",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148311",
@@ -2765,23 +2748,6 @@
       ]
     },
     {
-      "title": "Wild Duck Island Burn Programme",
-      "alert_id": "23992",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23992",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Wild Duck Island National Park between Friday 26th April and Tuesday 30th Aprill 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Wild Duck Island National Park between Friday 26th April and Tuesday 30th Aprill 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-19",
-      "start_effective_date": "2024-04-26",
-      "end_date": "2024-05-02",
-      "parks": [
-        {
-          "id": "150199",
-          "name": "Broad Sound Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/broad-sound-islands"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: camp sites 2 and 3 at Curri Curri bush camping area, Danbulla National Park",
       "alert_id": "23993",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23993",
@@ -2955,14 +2921,14 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Djyinda walk, Wallaman Falls, Girringun National Park",
+      "title": "Walking track open with caution: Djyinda walk, Wallaman Falls, Girringun National Park",
       "alert_id": "24012",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24012",
-      "description": "Due to a landslip blocking the walking track, the Djyinda walk to the bottom of Wallaman Falls is temporarily closed until further notice.",
-      "details": "<p>Due to a landslip blocking the walking track, the Djyinda walk to the bottom of Wallaman Falls is temporarily closed until further notice.</p> <p>Currently the track is unsafe for public visitation and will remain closed until Queensland Parks and Wildlife Service rangers can undertake an assessment and remedial works. &nbsp;The Wallaman Falls lookout remains open for visitors.</p> <p>Please adhere to all closure signage.</p> <p>&nbsp;</p>",
-      "start_date": "2024-04-29",
-      "start_effective_date": "2024-04-29",
-      "end_date": "2024-05-03",
+      "description": "Following a landslip blocking the Djyinda walking track at Wallaman Falls in Girringun National Park, QPWS Rangers have undertaken significant tree fall clearance works. Some vegetation is still impacting the walking track; however, the track is open to walkers with caution.",
+      "details": "<p>Following a landslip blocking the Djyinda walking track at Wallaman Falls in Girringun National Park, QPWS Rangers have undertaken significant tree fall clearance works. Some vegetation is still impacting the walking track; however, the track is open to walkers with caution.</p> <p>For your safety:</p> <ul> <li>walkers should stay on the cleared walking track as further remedial works will continue</li> <li>adhere to any on-site directional and safety signs.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "start_date": "2024-05-03",
+      "start_effective_date": "2024-05-04",
+      "end_date": "2024-05-10",
       "parks": [
         {
           "id": "148123",
@@ -2982,9 +2948,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24014",
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-04-29",
+      "start_date": "2024-05-03",
       "start_effective_date": "2024-04-29",
-      "end_date": "2024-05-03",
+      "end_date": "2024-05-06",
       "parks": [
         {
           "id": "148468",
@@ -3051,23 +3017,6 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Powrunna State Forest - planned aerial burn",
-      "alert_id": "24018",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24018",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Powrunna State Forest, starting Tuesday 30 April 2024. This burn is part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Powrunna State Forest, starting Tuesday 30 April 2024. This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration and wildlife.</p> <p>Large volumes of smoke are&nbsp;likely to be seen in the vicinity of Powrunna State Forest, near St George.<br /> Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.<br /> &nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-30",
-      "start_effective_date": "2024-04-30",
-      "end_date": "2024-05-02",
-      "parks": [
-        {
-          "id": "322436",
-          "name": "Powrunna State Forest",
-          "url": ""
         }
       ]
     },
@@ -3197,6 +3146,40 @@
           "id": "148961",
           "name": "Magnetic Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "Upper Noosa River CLOSED due to flooding",
+      "alert_id": "24028",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24028",
+      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.",
+      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended</strong> for the duration of the closure.</p> <p>To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-03",
+      "start_effective_date": "2024-05-03",
+      "end_date": "2024-05-10",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Safety Advisory Notice: Coomera Falls circuit - High degree of caution required",
+      "alert_id": "24029",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24029",
+      "description": "Due to several compounding severe weather events and ongoing wet conditions the Coomera Falls circuit has sustained significant damage in parts, particularly in the southern section between the Coomera Falls Lookout and the Border track junction.",
+      "details": "<p>Due to several compounding severe weather events and ongoing wet conditions the Coomera Falls circuit has sustained significant damage in parts, particularly in the southern section between the Coomera Falls Lookout and the Border track junction.</p> <p><strong>It is NOT RECOMMENDED for young children and/or anyone with physical limitations at present, until conditions improve.</strong></p> <ul> <li>The section between the Coomera Falls lookout and the junction&nbsp;with the Border track has significant damage to the track surface&nbsp;in parts, including a number of large fallen trees or obstructions, which can be challenging to negotiate, particularly in wet conditions, requiring a high level of experience and care.&nbsp; <strong>Proceed with caution!</strong></li> <li>Creeks may also be swollen and fast-flowing, and rocks may be more slippery than usual.&nbsp; Take extreme care when attempting creek crossings.&nbsp; <strong>Remember, if it&#39;s flooded, forget it (even on walking tracks)!</strong></li> </ul> <p>Whilst the walking track has significant damage in parts, including minor diversions and challenging traverses, it remains within the Grade 4 walking track classification and expectations, in accordance with Australian Standards (AS2156.1-2001).</p> <p>Please note that whilst the section of walking track from the Binna Burra trailhead to the Coomera Falls lookout is very muddy, it remains easily to moderately traversable.</p> <p>Rangers are working to rectify and repair the damage.</p> <p>Observe all signage, barriers, and directions from rangers, and do not enter the closed area.</p> <p><strong>Always remain on the designated walking track, wherever possible.</strong>&nbsp; Your risk to personal safety increases significantly when straying from the designated walking track.</p> <p>Please check Park Alerts as they are regularly updated regarding conditions on park.</p>",
+      "start_date": "2024-05-03",
+      "start_effective_date": "2024-05-03",
+      "end_date": "2024-11-01",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
         }
       ]
     }
