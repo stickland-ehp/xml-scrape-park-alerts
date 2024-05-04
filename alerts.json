@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-05-03 10:07:09"
+    "alerts_count": 163,
+    "script_run_time": "2024-05-04 10:04:25"
   },
   "alerts": [
     {
@@ -2023,23 +2023,6 @@
       ]
     },
     {
-      "title": "Alligator Creek Falls walking track and camping area seasonal closure",
-      "alert_id": "23844",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23844",
-      "description": "The Alligator Creek Falls walking track and camping area is currently closed and anticipated to re-open Friday 3 May 2024. This closure is due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.",
-      "details": "<p>The Alligator Creek Falls walking track and camping area is currently closed and anticipated to re-open Friday 3 May 2024. This closure is due to current rainfall and the forecast of further heavy rainfall impacting track clearing efforts.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-02",
-      "start_effective_date": "2024-02-27",
-      "end_date": "2024-05-03",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for aerial planned burning: North Jardine camping area, Apudthama National Park (CYPAL)",
       "alert_id": "23846",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23846",
@@ -2865,23 +2848,6 @@
       ]
     },
     {
-      "title": "Eastern section of the Bluebush Tourist Drive on Lochern National Park temporarily closed",
-      "alert_id": "24005",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24005",
-      "description": "Due to flooding on the river channels after recent rainfall the eastern section of the Bluebush Tourist Drive on Lochern National Park is temporarily closed until Friday 3 May 2024 inclusive when conditions will be reviewed. The western section of the Tourist Drive is still accessible from the ranger base or the southern end of Waterloo Road. The Broadwater camping area is open.",
-      "details": "<p>Due to flooding on the river channels after recent rainfall the eastern section of the Bluebush Tourist Drive on Lochern National Park is temporarily closed until Friday 3 May 2024 inclusive when conditions will be reviewed. The western section of the Tourist Drive is still accessible from the ranger base or the southern end of Waterloo Road. The Broadwater camping area is open.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-23",
-      "start_effective_date": "2024-04-23",
-      "end_date": "2024-05-03",
-      "parks": [
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lochern"
-        }
-      ]
-    },
-    {
       "title": "Thorsborne Trail camping area enhancement works",
       "alert_id": "24006",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24006",
@@ -2995,55 +2961,6 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned vegetation maintenance along Southern Lakes Road",
-      "alert_id": "24017",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24017",
-      "description": "Pending favourable weather conditions, planned vegetation maintenance along the Southern Lakes Road will commence from Tuesday 30th April 2024 to Friday 3rd May 2024.",
-      "details": "<p>Pending favourable weather conditions, planned vegetation maintenance along the Southern Lakes Road will commence from Tuesday 30th April 2024 to Friday 3rd May 2024.</p> <p>As a result of heavy machinery operating on the road, visitors should expect delays in the following areas:</p> <ul> <li>Southern Lakes Road between Dilli Village and Lake Boomanjin</li> <li>Southern Lakes Road between Lake Benaroon and Lake Boomanjin</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-29",
-      "start_effective_date": "2024-04-30",
-      "end_date": "2024-05-03",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - Palmgrove and Expedition National Parks",
-      "alert_id": "24019",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24019",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Palmgrove National Park and the Bedourie section of Expedition National Park, starting Tuesday 30 April 2024.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burn operations within Palmgrove National Park and the Bedourie section of Expedition National Park, starting Tuesday 30 April 2024.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Smoke may be seen in the vicinity of the burn and along nearby roads. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-30",
-      "start_effective_date": "2024-04-30",
-      "end_date": "2024-05-03",
-      "parks": [
-        {
-          "id": "148508",
-          "name": "Expedition National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/expedition"
-        },
-        {
-          "id": "322999",
-          "name": "Expedition (Limited Depth) National Park",
-          "url": ""
-        },
-        {
-          "id": "322992",
-          "name": "Palmgrove National Park (scientific)",
-          "url": ""
         }
       ]
     },
