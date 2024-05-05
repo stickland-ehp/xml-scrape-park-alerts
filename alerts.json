@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2024-05-04 10:04:25"
+    "alerts_count": 164,
+    "script_run_time": "2024-05-05 10:07:16"
   },
   "alerts": [
     {
@@ -3097,6 +3097,23 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Water Park Creek causeway flooded - impacting access to Byfield National Park and Water Park Creek visitor area",
+      "alert_id": "24032",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24032",
+      "description": "Due to recent rainfall and a saturated catchment, Water Park Creek causeway is currently flooded and access to Byfield National Park and Water Park Creek visitor area in Byfield State Forest is temporarily impacted. Access to these areas will be available once the water height has suitably subsided.",
+      "details": "<p>Due to recent rainfall and a saturated catchment, Water Park Creek causeway is currently flooded and access to Byfield National Park and Water Park Creek visitor area in Byfield State Forest is temporarily impacted. Access to these areas will be available once the water height has suitably subsided.</p> <p>The water height at the causeway can be monitored online by searching &quot;Queensland River Height Bulletin&quot; and then look for Water Park Creek as a subsidiary of the Fitzroy River. Generally, if the water height is above 2.2m, then water is over the causeway.</p> <p>Remember, if it&#39;s flooded - forget it.</p>",
+      "start_date": "2024-05-05",
+      "start_effective_date": "2024-05-05",
+      "end_date": "2024-05-08",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
         }
       ]
     }
