@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2024-05-06 10:07:18"
+    "alerts_count": 169,
+    "script_run_time": "2024-05-07 10:08:02"
   },
   "alerts": [
     {
@@ -430,23 +430,6 @@
       ]
     },
     {
-      "title": "Camper Hygiene",
-      "alert_id": "21650",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/21650",
-      "description": "Queensland Parks and Wildlife Service (QPWS) reminds campers of the need to maintain high personal hygiene standards whilst camping in the Inskip Peninsula Recreation Area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) reminds campers of the need to maintain high personal hygiene standards whilst camping in the Inskip Peninsula Recreation Area.</p> <p>QPWS would like to remind all&nbsp;visitors to maintain high personal hygiene, including washing hands frequently with soap and water, particularly after visiting the toilet, when preparing food and before eating and after visiting waste disposal and water point sites.</p> <p>For the health and wellbeing of our park visitors and staff, and to limit the spread of illness <strong>visitors are recommended to:</strong></p> <ul> <li>Wash hands often with soap and water, especially&nbsp;before preparing food, eating and after going to the toilet (viral and bacterial stomach illnesses are not prevented with alcohole-based sanitisers).</li> <li>Ensure all campers have a personal towel for hand drying.</li> <li>Cover your coughs and sneezes with your elbow or a tissue.</li> <li>Ensure your campsite is located away from other tents.</li> <li>Where possible, bring your own portable toilet.</li> <li>Keep your rubbish secure and dispose in bins provided or take home.</li> <li>Stay at home if you or any members of your group are unwell.</li> <li>Keep a personal supply of drinking and washing water during your stay.&nbsp;</li> </ul> <p>Check Park Alerts regularly for updates on current park conditions.</p> <p>&nbsp;</p>",
-      "start_date": "2023-11-06",
-      "start_effective_date": "2024-02-01",
-      "end_date": "2024-05-06",
-      "parks": [
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
       "title": "Portable toilets mandatory for Teewah Beach camping zones",
       "alert_id": "21789",
       "url": "https://parks.desi.qld.gov.au/park-alerts/21789",
@@ -854,6 +837,23 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Bulburin National Park closed",
+      "alert_id": "23401",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/23401",
+      "description": "Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.",
+      "details": "<p>Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.</p> <p>As a result, the following camp grounds&nbsp;are temporarily closed:</p> <p>Forestry camp</p> <p>Range view camp</p> <p>Zamia camp<br /> <br /> All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2023-10-31",
+      "end_date": "2024-05-23",
+      "parks": [
+        {
+          "id": "148151",
+          "name": "Bulburin National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bulburin"
         }
       ]
     },
@@ -1273,9 +1273,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23592",
       "description": "During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
       "details": "<p>During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-04-29",
+      "start_date": "2024-05-07",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-05-07",
+      "end_date": "2024-05-21",
       "parks": [
         {
           "id": "148452",
@@ -2169,23 +2169,6 @@
       ]
     },
     {
-      "title": "Diamantina National Park closed due to flood damage",
-      "alert_id": "23881",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23881",
-      "description": "Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary.",
-      "details": "<p>Diamantina National Park is temporarily closed due to damage to roads, tracks and camp facilities caused by the recent flood events. Conditions will be monitored until repairs are undertaken and further closures past the current date may be necessary.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-29",
-      "start_effective_date": "2024-03-12",
-      "end_date": "2024-05-06",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
       "title": "Walking Track Closure",
       "alert_id": "23892",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23892",
@@ -2264,14 +2247,14 @@
       ]
     },
     {
-      "title": "Emu Swamp Camping Areas, Emu Swamp Camping Area and Werrington Road, Blackbraes National Park closed due to boggy access track.",
+      "title": "Emu Swamp Camping Area and Werrington Road access on Blackbraes National Park temporarily closed",
       "alert_id": "23902",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23902",
-      "description": "Due to wet season conditions sections of the Emu Swamp Camping Area access road are boggy. The Emu Swamp Camping Area is temporarily closed until Friday 10 May 2024 when conditions will be reviewed.",
-      "details": "<p>Due to wet season conditions sections of the Emu Swamp Camping Area access road are boggy. The Emu Swamp Camping Area is temporarily closed until Friday 10 May 2024 when conditions will be reviewed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-18",
+      "description": "Due to wet season conditions sections of the access road to the Emu Swamp Camping Area are boggy and impassable. The camping area is temporarily closed until Monday 10 June 2024 when conditions will be reviewed.",
+      "details": "<p>Due to wet season conditions sections of the access road to the Emu Swamp Camping Area are boggy and impassable. The camping area is temporarily closed until Monday 10 June 2024 when conditions will be reviewed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-05-07",
       "start_effective_date": "2024-03-25",
-      "end_date": "2024-05-10",
+      "end_date": "2024-06-10",
       "parks": [
         {
           "id": "148604",
@@ -2335,11 +2318,11 @@
       "title": "Combo Waterhole Conservation Park temporarily closed due to severe flood damage to the toilet block and walking tracks.",
       "alert_id": "23920",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23920",
-      "description": "Due to infrastructure damaged by Ex-Tropical Cyclone flood waters, Combo Waterhole Conservation Park is temporarily closed until Friday 10 May 2024.",
-      "details": "<p>Due to infrastructure damaged by Ex-Tropical Cyclone flood waters, Combo Waterhole Conservation Park is temporarily closed until Friday 10 May 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-04-17",
+      "description": "Due to infrastructure damaged by Ex-Tropical Cyclone flood waters, Combo Waterhole Conservation Park is temporarily closed until Friday 24 May 2024.",
+      "details": "<p>Due to infrastructure damaged by Ex-Tropical Cyclone flood waters, Combo Waterhole Conservation Park is temporarily closed until Friday 24 May 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-05-07",
       "start_effective_date": "2024-03-27",
-      "end_date": "2024-05-10",
+      "end_date": "2024-05-24",
       "parks": [
         {
           "id": "148937",
@@ -2799,34 +2782,19 @@
       ]
     },
     {
-      "title": "Whitsunday public mooring inspections",
-      "alert_id": "24002",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24002",
-      "description": "QPWS contractor, Pacific Marine Group, will be undertaking public mooring inspections beginning the 27 April to 6 May 2024.",
-      "details": "<p>QPWS contractor, Pacific Marine Group, will be undertaking public mooring inspections beginning the 27 April to 6 May 2024.</p> <p>Whilst on the water, please be aware of this activity and their vessel, MV ODYSSEY. Please remain clear of the vessel, taking&nbsp;direction&nbsp;as needed and staying away from dive activities.</p> <p>Your cooperation to help keep the public moorings safe to use is appreciated.&nbsp;<br /> &nbsp;</p>",
-      "start_date": "2024-04-23",
-      "start_effective_date": "2024-04-27",
-      "end_date": "2024-05-06",
+      "title": "Planned road maintenance: Smalleys Beach Road and Hidden Valley Road, Cape Hillsborough National Park",
+      "alert_id": "24001",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24001",
+      "description": "Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park from Wednesday 8 May - Friday 10 May 2024 (inclusive).",
+      "details": "<p>Road maintenance is planned to commence on Smalleys Beach Road and Hidden Valley Road in Cape Hillsborough National Park from Wednesday 8 May - Friday 10 May 2024 (inclusive).</p> <p>Visitors&nbsp;are advised to proceed with caution on the roads when accessing Smalleys Beach camping area and the Yuwi plant trail due to heavy plant and equipment being in use on the access roads.</p> <p>Please adhere to all safety signage and access advice.</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-08",
+      "end_date": "2024-05-10",
       "parks": [
         {
-          "id": "148941",
-          "name": "Molle Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/molle-islands"
-        },
-        {
-          "id": "152875",
-          "name": "Whitsunday Ngaro Sea Trail",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
         }
       ]
     },
@@ -2909,28 +2877,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24014",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24014",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-05-03",
-      "start_effective_date": "2024-04-29",
-      "end_date": "2024-05-06",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Closure of far Southern Boardwalk from council carpark at the end of Mon Repos Road.",
       "alert_id": "24015",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24015",
@@ -2970,9 +2916,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24020",
       "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. Lovedays Road will be closed to the public from Sellin Rd to L Traverse during these works.",
       "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. Lovedays Road will be closed to the public from Sellin Rd to L Traverse during these works.</p> <p>For more information, please contact QPWS&amp;P on (07) 3164 3600&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-04-30",
+      "start_date": "2024-05-07",
       "start_effective_date": "2024-05-01",
-      "end_date": "2024-05-08",
+      "end_date": "2024-05-10",
       "parks": [
         {
           "id": "148259",
@@ -2987,9 +2933,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24021",
       "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. As a result, the Somerset Walking trail will be closed to allow these works to take place.",
       "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. As a result, the Somerset Walking trail will be closed to allow these works to take place.</p> <p>For more information, please contact QPWS&amp;P on (07) 3164 3600&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-30",
+      "start_date": "2024-05-07",
       "start_effective_date": "2024-05-01",
-      "end_date": "2024-05-08",
+      "end_date": "2024-05-10",
       "parks": [
         {
           "id": "148259",
@@ -3101,6 +3047,23 @@
       ]
     },
     {
+      "title": "Currawinya National Park - temporarily closed due to wet weather",
+      "alert_id": "24031",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24031",
+      "description": "Due to recent heavy rainfall and wet road conditions, most areas of Currawinya National Park are closed to all visitors from 8 May to 14 May 2024.",
+      "details": "<p>Due to recent heavy rainfall and wet road conditions, most areas of Currawinya National Park are closed to all visitors from 8 May to 14 May 2024.</p> <p>Closures include:</p> <ul> <li>All park access roads except for The Lakes Road</li> <li>All camping areas except for Ourimperee camping area</li> <li>All visitors attractions and facilities</li> </ul> <p>All permits are suspended for the durtion of the closure. Affected campers can apply for a refund.</p> <p>Further heavy rainfall is forecast for the Far South West and Channel Country on Friday 10/05/24. Rangers will check roads and campground access and update the Park Alert as required.&nbsp;</p> <p>For more information contact the Currawinya Office on 07 4655 4001.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-03",
+      "end_date": "2024-05-14",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
       "title": "Water Park Creek causeway flooded - impacting access to Byfield National Park and Water Park Creek visitor area",
       "alert_id": "24032",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24032",
@@ -3114,6 +3077,108 @@
           "id": "148223",
           "name": "Byfield National Park, Conservation Park and State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Warracoota Circuit Tourist Drive on Diamantina National Park temporarily closed",
+      "alert_id": "24033",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24033",
+      "description": "Warracoota Circuit Tourist Drive on Diamantina National Park is temporarily closed due to damage to roads and tracks caused by the recent flood events. Conditions will be monitored until repairs are undertaken. The closure may be extended if necessary.",
+      "details": "<p>Warracoota Circuit Tourist Drive on Diamantina National Park is temporarily closed due to damage to roads and tracks caused by the recent flood events. Conditions will be monitored until repairs are undertaken. The closure may be extended if necessary.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-07",
+      "end_date": "2024-05-27",
+      "parks": [
+        {
+          "id": "148360",
+          "name": "Diamantina National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/diamantina"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice - Emus in park",
+      "alert_id": "24034",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24034",
+      "description": "Visitors are advised that emus have been observed in the Rocky Creek area of Parklands Conservation Park. The period between May to August is the breeding season for these animals. Visitors are advised to take care during this time as they can display aggressive behaviour over this period.",
+      "details": "<p>Visitors are advised that emus have been observed in the Rocky Creek area of Parklands Conservation Park. The period between May to August is the breeding season for these animals. Visitors are advised to take care during this time as they can display aggressive behaviour over this period.</p> <p>For your safety please be alert for nearby wildlife and report any aggressive emu encounters to QPWS&amp;P.</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-07",
+      "end_date": "2024-06-07",
+      "parks": [
+        {
+          "id": "148035",
+          "name": "Parklands Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/parklands"
+        }
+      ]
+    },
+    {
+      "title": "Lockyer National Park - planned burn",
+      "alert_id": "24035",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24035",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Lockyer National Park commencing Wednesday 8 May as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Lockyer National Park commencing Wednesday 8 May as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.&nbsp;&nbsp;</p> <p>Smoke may be seen in the vicinity of nearby localities, including Helidon.&nbsp;</p> <p>On the days of the planned burn,&nbsp;areas adjacent to Paradise Creek, Paradise Creek Rd, and Seventeeen Mile Rd may be temporarily closed to public access. Visitors are advised not to enter areas where the planned burn is being undertaken, and note advice of QPWS staff on-site.&nbsp;</p> <p>Other areas within Lockyer National Park&nbsp;will remain open to visitors.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Visibility on roads may be affected by smoke. For your safety, please slow down and drive safely to road conditions.&nbsp;<br /> <br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-08",
+      "end_date": "2024-05-14",
+      "parks": [
+        {
+          "id": "148287",
+          "name": "Lockyer National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lockyer"
+        }
+      ]
+    },
+    {
+      "title": "Desert Drive on Welford National Park temporarily closed",
+      "alert_id": "24036",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24036",
+      "description": "The Desert Drive section of Welford National Park will be temporarily closed Thursday 9 May 2024 and Friday 10 May 2024 due to controlled burning activities. Please obey road closure signs and be aware that there may be some smoke in the area. The camping area, Mulga Drive and River Drive will remain open during this time.",
+      "details": "<p>The Desert Drive section of Welford National Park will be temporarily closed Thursday 9 May 2024 and Friday 10 May 2024 due to controlled burning activities. Please obey road closure signs and be aware that there may be some smoke in the area. The camping area, Mulga Drive and River Drive will remain open during this time.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-09",
+      "end_date": "2024-05-10",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Bringalilly State Forest - planned burn",
+      "alert_id": "24037",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24037",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Bringalily State Forest near Forestry Road, starting Wednesday 8 May 2024, weather permitting.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Bringalily State Forest near Forestry Road, starting Wednesday 8 May 2024, weather permitting.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of the&nbsp;burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>This burn will be west of Millmerran Inglewood Road and may result in smoke impacting Forestry Road near Canning Creek.<br /> Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call the Inglewood office of QPWS on 0477 317 267.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-08",
+      "end_date": "2024-05-10",
+      "parks": [
+        {
+          "id": "322443",
+          "name": "Bringalily State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Major road works planned for Harpers Track  May 2024",
+      "alert_id": "24039",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24039",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.</p> <p>Road closures are planned for:</p> <ul> <li>Monday 13th to Friday 17th May</li> <li>Monday 20th to Friday 24th May</li> <li>Monday 27th to Friday 31th May<a href=\"#_msocom_1\">[LS1]</a>&nbsp;</li> </ul> <p>This closure is necessary to allow for major road repairs to take place. To minimise visitors impacts, Harpers Track will reopen on the weekends. Alternative access to Cape Moreton and North Point is available via the Bulwer-North Point Road.</p> <p>Road works is planned for completion by 1 June 2024.</p> <p>Visitors should observe all road signs and directions from rangers and contractors.</p> <p>Thank you for your patience during these road works.</p> <p>&nbsp;</p>",
+      "start_date": "2024-05-07",
+      "start_effective_date": "2024-05-07",
+      "end_date": "2024-06-03",
+      "parks": [
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
         }
       ]
     }
