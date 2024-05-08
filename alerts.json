@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2024-05-07 10:08:02"
+    "alerts_count": 173,
+    "script_run_time": "2024-05-08 10:06:57"
   },
   "alerts": [
     {
@@ -511,6 +511,28 @@
           "id": "148464",
           "name": "Moreton Bay Marine Park",
           "url": "https://parks.desi.qld.gov.au/parks/moreton-bay"
+        }
+      ]
+    },
+    {
+      "title": "George Point camping area erosion",
+      "alert_id": "22907",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/22907",
+      "description": "George Point camping area on the southern coastline of Hinchinbrook Island has been affected by erosion due to high tides and windy conditions.",
+      "details": "<p>George Point camping area on the southern coastline of Hinchinbrook Island has been affected by erosion due to high tides and windy conditions.</p> <p>The campground signage and infrastructure has been affected, and camping capacity at this site has been impacted.</p> <p>Space for camping is available under a large stand of trees approximately 150m to the north east along the beach (prior to reaching the camping area when hiking from north to south).</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
+      "start_date": "2024-05-08",
+      "start_effective_date": "2024-04-24",
+      "end_date": "2025-04-24",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
         }
       ]
     },
@@ -2264,23 +2286,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Koombooloomba National Park bush camping area, Koombooloomba National Park",
-      "alert_id": "23907",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23907",
-      "description": "Koombooloomba National Park bush camping area is currently closed due to heavy rainfall and high dam levels causing flooding of the access road. With further rain forecast, access and road maintenance issues require a temporary closure of the bush camping area.",
-      "details": "<p>Koombooloomba National Park bush camping area is currently closed due to heavy rainfall and high dam levels causing flooding of the access road. With further rain forecast, access and road maintenance issues require a temporary closure of the bush camping area.</p> <p>This closure is in place until weather and road conditions allow it to be reopened.</p>",
-      "start_date": "2024-04-22",
-      "start_effective_date": "2024-03-25",
-      "end_date": "2024-05-07",
-      "parks": [
-        {
-          "id": "148802",
-          "name": "Koombooloomba National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/koombooloomba"
-        }
-      ]
-    },
-    {
       "title": "Temporary park closure: Keatings Lagoon Conservation Park",
       "alert_id": "23914",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23914",
@@ -2697,23 +2702,6 @@
       ]
     },
     {
-      "title": "Konomie Island (North Keppel Island) Burn Programme",
-      "alert_id": "23991",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23991",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Konomie (North Keppel Island) National Park, between Friday 3rd May and Tuesday 7th May 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Konomie (North Keppel Island) National Park, between Friday 3rd May and Tuesday 7th May 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more information, please direct your enquiries to SGBR@des.qld.gov.au</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-04-19",
-      "start_effective_date": "2024-05-03",
-      "end_date": "2024-05-07",
-      "parks": [
-        {
-          "id": "149417",
-          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
-          "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: camp sites 2 and 3 at Curri Curri bush camping area, Danbulla National Park",
       "alert_id": "23993",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23993",
@@ -2877,6 +2865,28 @@
       ]
     },
     {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24014",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24014",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "start_date": "2024-05-08",
+      "start_effective_date": "2024-05-08",
+      "end_date": "2024-05-10",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
       "title": "Closure of far Southern Boardwalk from council carpark at the end of Mon Repos Road.",
       "alert_id": "24015",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24015",
@@ -3013,6 +3023,23 @@
       ]
     },
     {
+      "title": "Planned burn within Lizard Island National Park",
+      "alert_id": "24027",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24027",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn on 13/05/24 to 19/05/24, as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn on 13/05/24 to 19/05/24, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Smoke may be seen in the vicinity of Lizard Island National Park and may impact the Research Station, Resort, anchorages surrounding the island as well as the designated camping area/ day use facilities. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.<br /> <br /> During the planned burn these areas are closed to public access:</p> <ul> <li>Cooks Look walking track</li> <li>Watsons Bay camping area</li> </ul> <p>Observe all signage, barriers, and directions from rangers, and do not enter closed areas.<br /> <br /> Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.<br /> <br /> Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\">Park Alerts</a> regularly for updates on current park conditions.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-08",
+      "start_effective_date": "2024-05-13",
+      "end_date": "2024-05-19",
+      "parks": [
+        {
+          "id": "149001",
+          "name": "Lizard Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lizard-island"
+        }
+      ]
+    },
+    {
       "title": "Upper Noosa River CLOSED due to flooding",
       "alert_id": "24028",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24028",
@@ -3064,14 +3091,14 @@
       ]
     },
     {
-      "title": "Water Park Creek causeway flooded - impacting access to Byfield National Park and Water Park Creek visitor area",
+      "title": "Water Park Creek causeway flood risk - potentially impacting access to Byfield National Park and Water Park Creek visitor area",
       "alert_id": "24032",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24032",
-      "description": "Due to recent rainfall and a saturated catchment, Water Park Creek causeway is currently flooded and access to Byfield National Park and Water Park Creek visitor area in Byfield State Forest is temporarily impacted. Access to these areas will be available once the water height has suitably subsided.",
-      "details": "<p>Due to recent rainfall and a saturated catchment, Water Park Creek causeway is currently flooded and access to Byfield National Park and Water Park Creek visitor area in Byfield State Forest is temporarily impacted. Access to these areas will be available once the water height has suitably subsided.</p> <p>The water height at the causeway can be monitored online by searching &quot;Queensland River Height Bulletin&quot; and then look for Water Park Creek as a subsidiary of the Fitzroy River. Generally, if the water height is above 2.2m, then water is over the causeway.</p> <p>Remember, if it&#39;s flooded - forget it.</p>",
-      "start_date": "2024-05-05",
+      "description": "Due to a saturated Byfield area catchment, the risk of Water Park Creek causeway becoming flooded during and following rain events is currently high. When the causeway is flooded, this impacts access to and from Byfield National Park and Water Park Creek visitor area in Byfield State Forest. Potential visitors to these areas should check weather forecasts and the causeway water height online before setting out on their trip and travellers should take extra supplies in case they become isolated due to flooding.",
+      "details": "<p>Due to a saturated Byfield area catchment, the risk of Water Park Creek causeway becoming flooded during and following rain events is currently high. When the causeway is flooded, this impacts access to and from Byfield National Park and Water Park Creek visitor area in Byfield State Forest. Potential visitors to these areas should check weather forecasts and the causeway water height online before setting out on their trip and travellers should take extra supplies in case they become isolated due to flooding.</p> <p>The water height at the causeway can be monitored online by searching &quot;Queensland River Height Bulletin&quot; and then look for Water Park Creek as a subsidiary of the Fitzroy River. Generally, if the water height is above 2.2m, then water is over the causeway.</p> <p>Remember, if it&#39;s flooded - forget it.</p>",
+      "start_date": "2024-05-08",
       "start_effective_date": "2024-05-05",
-      "end_date": "2024-05-08",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148223",
@@ -3170,8 +3197,8 @@
       "alert_id": "24039",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24039",
       "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.</p> <p>Road closures are planned for:</p> <ul> <li>Monday 13th to Friday 17th May</li> <li>Monday 20th to Friday 24th May</li> <li>Monday 27th to Friday 31th May<a href=\"#_msocom_1\">[LS1]</a>&nbsp;</li> </ul> <p>This closure is necessary to allow for major road repairs to take place. To minimise visitors impacts, Harpers Track will reopen on the weekends. Alternative access to Cape Moreton and North Point is available via the Bulwer-North Point Road.</p> <p>Road works is planned for completion by 1 June 2024.</p> <p>Visitors should observe all road signs and directions from rangers and contractors.</p> <p>Thank you for your patience during these road works.</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-07",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.</p> <p>Road closures are planned for:</p> <ul> <li>Monday 13th to Friday 17th May</li> <li>Monday 20th to Friday 24th May</li> <li>Monday 27th to Friday 31th May</li> </ul> <p>This closure is necessary to allow for major road repairs to take place. To minimise visitors impacts, Harpers Track will reopen on the weekends. Alternative access to Cape Moreton and North Point is available via the Bulwer-North Point Road.</p> <p>Road works is planned for completion by 1 June 2024.</p> <p>Visitors should observe all road signs and directions from rangers and contractors.</p> <p>Thank you for your patience during these road works.</p> <p>&nbsp;</p>",
+      "start_date": "2024-05-08",
       "start_effective_date": "2024-05-07",
       "end_date": "2024-06-03",
       "parks": [
@@ -3179,6 +3206,57 @@
           "id": "148757",
           "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        }
+      ]
+    },
+    {
+      "title": "Smoke alert, Undara Volcanic National Park",
+      "alert_id": "24040",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24040",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Undara Volcanic National Park, starting Tuesday 7 May 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. For more information, please call Undara office of QPWS on 4097 1485.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Undara Volcanic National Park, starting Tuesday 7 May 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. For more information, please call Undara office of QPWS on 4097 1485.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-08",
+      "start_effective_date": "2024-05-08",
+      "end_date": "2024-05-10",
+      "parks": [
+        {
+          "id": "148965",
+          "name": "Undara Volcanic National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
+      "title": "Closure of Walking Tracks. Planned burn in progress, Undara Volcanic National Park",
+      "alert_id": "24041",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24041",
+      "description": "Kalkani Crater Rim walking track is closed to public access as Queensland Parks and Wildlife Service is conducting a planned burn in this area. We apologise for any inconvenience this may cause. Please monitor park alerts for further information.",
+      "details": "<p>Kalkani Crater Rim walking track is closed to public access as Queensland Parks and Wildlife Service is conducting a planned burn in this area. We apologise for any inconvenience this may cause. Please monitor park alerts for further information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-08",
+      "start_effective_date": "2024-05-08",
+      "end_date": "2024-05-08",
+      "parks": [
+        {
+          "id": "148965",
+          "name": "Undara Volcanic National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
+      "title": "Walk with caution: Mount Cook walking track, Mount Cook National Park",
+      "alert_id": "24042",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24042",
+      "description": "Following impacts of ex-tropical cyclone Jasper, areas of erosion have occurred on the Mount Cook walking track. Caution should be taken. For your safety it is recommended that you are an experienced bushwalker and are wearing sturdy footwear. Walk with caution at all times, especially along eroded sections of the track.",
+      "details": "<p>Following impacts of ex-tropical cyclone Jasper, areas of erosion have occurred on the Mount Cook walking track. Caution should be taken. For your safety it is recommended that you are an experienced bushwalker and are wearing sturdy footwear. Walk with caution at all times, especially along eroded sections of the track.</p>",
+      "start_date": "2024-05-08",
+      "start_effective_date": "2024-05-09",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148616",
+          "name": "Mount Cook National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
         }
       ]
     }
