@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 173,
-    "script_run_time": "2024-05-08 10:06:57"
+    "script_run_time": "2024-05-09 10:08:21"
   },
   "alerts": [
     {
@@ -793,33 +793,16 @@
       "title": "Wet season closure extension: Rungulla National Park",
       "alert_id": "23343",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23343",
-      "description": "The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 11 May 2024 (depending on weather and road conditions).",
-      "details": "<p>The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 11 May 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information. This park alert will be removed when the park has reopened.&nbsp;</p>",
-      "start_date": "2024-04-10",
+      "description": "The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 3 June 2024 (depending on weather and road conditions).",
+      "details": "<p>The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 3 June 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information. This park alert will be removed when the park has reopened.&nbsp;</p>",
+      "start_date": "2024-05-09",
       "start_effective_date": "2023-11-01",
-      "end_date": "2024-05-10",
+      "end_date": "2024-06-02",
       "parks": [
         {
           "id": "148067",
           "name": "Rungulla National Park",
           "url": "https://parks.desi.qld.gov.au/parks/rungulla"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure extension: Canyon Resources Reserve",
-      "alert_id": "23344",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23344",
-      "description": "The wet season closure of Canyon Resources Reserve has been extended. The reserve is now anticipated to reopen 11 May 2024 (depending on weather and road conditions.",
-      "details": "<p>The wet season closure of Canyon Resources Reserve has been extended. The reserve is now anticipated to reopen 11 May 2024 (depending on weather and road conditions.</p> <p>Please monitor park alerts for current information. This park alert will be removed when the reserve has reopened.</p>",
-      "start_date": "2024-04-10",
-      "start_effective_date": "2023-11-01",
-      "end_date": "2024-05-10",
-      "parks": [
-        {
-          "id": "149509",
-          "name": "Canyon Resources Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/canyon-resources"
         }
       ]
     },
@@ -1021,14 +1004,14 @@
       ]
     },
     {
-      "title": "Temporary closure: camp site 2, Princess Hills section, Girringun National Park",
+      "title": "Temporary closure extension: camp site 2, Princess Hills section, Girringun National Park",
       "alert_id": "23471",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23472",
-      "description": "Due to boggy conditions, camp site 2 in Princess Hills section of Girringun National Park is temporarily closed. The site is anticipated to reopen Friday 10 May 2024 (depending on weather and road conditions).",
-      "details": "<p>Due to boggy conditions, camp site 2 in Princess Hills section of Girringun National Park is temporarily closed. The site is anticipated to reopen Friday 10 May 2024 (depending on weather and road conditions).</p> <p>Monitor park alerts for current information.</p>",
-      "start_date": "2024-04-23",
+      "description": "Due to boggy conditions, camp site 2 in Princess Hills section of Girringun National Park is temporarily closed. The site is anticipated to reopen Friday 24 May 2024 (depending on weather and road conditions).",
+      "details": "<p>Due to boggy conditions, camp site 2 in Princess Hills section of Girringun National Park is temporarily closed. The site is anticipated to reopen Friday 24 May 2024 (depending on weather and road conditions).</p> <p>Monitor park alerts for current information.</p>",
+      "start_date": "2024-05-09",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-05-09",
+      "end_date": "2024-05-23",
       "parks": [
         {
           "id": "148123",
@@ -2513,11 +2496,11 @@
       "title": "Lower Portals walking track and Lower Portals and Barney Gorge campgrounds closed from 22 April",
       "alert_id": "23960",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23960",
-      "description": "The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 10th May (weather permitting).",
-      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 10th May (weather permitting).</p> <p>This walking track and the Lower Portals and Barney Gorge campgrounds will be closed during for the duration of the works. All permits, including camping permits, are suspended for the duration of the closure.</p> <p>The area will not be reopened until the works have been completed.<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-26",
+      "description": "The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 17th May (weather permitting).",
+      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Lower Portals walking track in Mount Barney National Park from Monday 22nd April until Friday 17th May (weather permitting).</p> <p>This walking track and the Lower Portals and Barney Gorge campgrounds will be closed during for the duration of the works. All permits, including camping permits, are suspended for the duration of the closure.</p> <p>The area will not be reopened until the works have been completed.<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-09",
       "start_effective_date": "2024-04-10",
-      "end_date": "2024-05-10",
+      "end_date": "2024-05-17",
       "parks": [
         {
           "id": "148528",
@@ -2804,28 +2787,6 @@
       ]
     },
     {
-      "title": "Thorsborne Trail camping area enhancement works",
-      "alert_id": "24006",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24006",
-      "description": "Little Ramsay and South Zoe camping areas will be undergoing preliminary works from 2-8 May 2024.",
-      "details": "<p>Little Ramsay and South Zoe camping areas will be undergoing preliminary works from 2-8 May 2024.</p> <p>Other works may be occurring at the following locations:</p> <ul> <li>Banksia Bay camping area</li> <li>Sunken Reef Bay camping area</li> <li>North Zoe creek crossing.</li> </ul> <p>All camping areas and tracks will remain open during this time. Some of the beach campsites at South Zoe Bay camping area may be closed at times, please remember to use the forest campsites 100m along the Zoe Falls track. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
-      "start_date": "2024-04-23",
-      "start_effective_date": "2024-05-02",
-      "end_date": "2024-05-08",
-      "parks": [
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        },
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
       "title": "Munga-Thirri National Park - flooding of Madigan Track at Camp 20",
       "alert_id": "24010",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24010",
@@ -2848,9 +2809,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24012",
       "description": "Following a landslip blocking the Djyinda walking track at Wallaman Falls in Girringun National Park, QPWS Rangers have undertaken significant tree fall clearance works. Some vegetation is still impacting the walking track; however, the track is open to walkers with caution.",
       "details": "<p>Following a landslip blocking the Djyinda walking track at Wallaman Falls in Girringun National Park, QPWS Rangers have undertaken significant tree fall clearance works. Some vegetation is still impacting the walking track; however, the track is open to walkers with caution.</p> <p>For your safety:</p> <ul> <li>walkers should stay on the cleared walking track as further remedial works will continue</li> <li>adhere to any on-site directional and safety signs.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-03",
+      "start_date": "2024-05-09",
       "start_effective_date": "2024-05-04",
-      "end_date": "2024-05-10",
+      "end_date": "2024-05-24",
       "parks": [
         {
           "id": "148123",
@@ -2951,40 +2912,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Barge and heli-lift operations, Chance Bay Whitsunday Island",
-      "alert_id": "24022",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24022",
-      "description": "Barge and heli-lift operations are planned at Chance Bay from Friday 3 May to Wednesday 8 May 2024 (weather permitting). This program will require the use of heavy machinery and helicopter for multiple lifts, transferring construction machinery and materials from Chance Bay beach to Torres Herald Bay and Silica Bay. Chance Bay camping area will be closed during this time. For your safety, all visitors are requested to remain well clear of operations, observe all signs, barriers and directions provided by rangers and construction workers. No unauthorised persons are permitted to enter closed areas. For more information on the Ngaro track project visit https://parks.des.qld.gov.au/parks/whitsunday-islands/about/ngaro-track-under-construction",
-      "details": "<p>Barge and heli-lift operations are planned at Chance Bay from Friday 3 May to Wednesday 8 May 2024 (weather permitting). This program will require the use of heavy machinery and helicopter for multiple lifts, transferring construction machinery and materials from Chance Bay beach to Torres Herald Bay and Silica Bay. Chance Bay camping area will be closed during this time. For your safety, all visitors are requested to remain well clear of operations, observe all signs, barriers and directions provided by rangers and construction workers. No unauthorised persons are permitted to enter closed areas. For more information on the Ngaro track project visit https://parks.des.qld.gov.au/parks/whitsunday-islands/about/ngaro-track-under-construction</p>",
-      "start_date": "2024-05-01",
-      "start_effective_date": "2024-05-03",
-      "end_date": "2024-05-08",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - Southwood National Park",
-      "alert_id": "24024",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24024",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Southwood National Park between 1 - 8 May 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Southwood National Park between 1 - 8 May 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.&nbsp;&nbsp;</p> <p>Smoke may be seen in the vicinity of the park and nearby localities including Moonie.</p> <p>On the days of the planned burn, the park is&nbsp;temporarily closed to public access:&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation if affected.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-01",
-      "start_effective_date": "2024-05-01",
-      "end_date": "2024-05-08",
-      "parks": [
-        {
-          "id": "148267",
-          "name": "Southwood National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/southwood"
         }
       ]
     },
@@ -3232,9 +3159,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24041",
       "description": "Kalkani Crater Rim walking track is closed to public access as Queensland Parks and Wildlife Service is conducting a planned burn in this area. We apologise for any inconvenience this may cause. Please monitor park alerts for further information.",
       "details": "<p>Kalkani Crater Rim walking track is closed to public access as Queensland Parks and Wildlife Service is conducting a planned burn in this area. We apologise for any inconvenience this may cause. Please monitor park alerts for further information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-08",
+      "start_date": "2024-05-09",
       "start_effective_date": "2024-05-08",
-      "end_date": "2024-05-08",
+      "end_date": "2024-05-09",
       "parks": [
         {
           "id": "148965",
@@ -3257,6 +3184,84 @@
           "id": "148616",
           "name": "Mount Cook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
+        }
+      ]
+    },
+    {
+      "title": "Curtis Island National Park, Conservation Park, and State Forest",
+      "alert_id": "24043",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24043",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest Saturday the 25th May  Friday the 7th June 2024.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest Saturday the 25th May  Friday the 7th June 2024.</p> <p>Due to live firing, these areas will be closed for this period and access is prohibited.</p> <p>Target spieces of the program are&nbsp;feral pigs, cats, foxes, wild dogs, horses and cattle</p> <p>A 500 metre exclusion zone will be in force for all waters contained within the following areas which includes Black Head, Keppel Creek, Yellow Patch and Cape Capricorn. Maritime Safety Queensland will be issuing a notice to mariners before commencement of operations.</p> <p>For more information, please call Gladstone QPWS office on (07) 49716548 or send us an email at SGBR@des.qld.gov.au&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-09",
+      "start_effective_date": "2024-05-25",
+      "end_date": "2024-06-07",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
+        },
+        {
+          "id": "322464",
+          "name": "Curtis Island State Forest",
+          "url": ""
+        },
+        {
+          "id": "322526",
+          "name": "North Curtis Island State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned maintenance: Witts lookout walking track, Mount Spec section, Paluma National Park",
+      "alert_id": "24044",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24044",
+      "description": "Rangers will be conducting repair and construction work approximately 300m from the entrance of Witts lookout walking track from 15 May to 17 May 2024 (dates inclusive). Visitors are advised that there will be machinery working in the area during this period.",
+      "details": "<p>Rangers will be conducting repair and construction work approximately 300m from the entrance of Witts lookout walking track from 15 May to 17 May 2024 (dates inclusive). Visitors are advised that there will be machinery working in the area during this period.</p> <p>Please observe all signage and follow directions from rangers.</p>",
+      "start_date": "2024-05-09",
+      "start_effective_date": "2024-05-15",
+      "end_date": "2024-05-17",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Alligator Creek day use area toilet block temporary closure",
+      "alert_id": "24045",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24045",
+      "description": "The Alligator Creek day-use area toilet block will be temporarily closed from Friday 10 May 2024 to Friday 14 June while Infrastructure maintenance works are undertaken. Portable toilets will be available on site for the duration of works. The disability toilet and showers will not be available during maintenance works.",
+      "details": "<p>The Alligator Creek day-use area toilet block will be temporarily closed from Friday 10 May 2024 to Friday 14 June while Infrastructure maintenance works are undertaken. Portable toilets will be available on site for the duration of works. The disability toilet and showers will not be available during maintenance works.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-09",
+      "start_effective_date": "2024-05-09",
+      "end_date": "2024-06-14",
+      "parks": [
+        {
+          "id": "149433",
+          "name": "Bowling Green Bay National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Mount Walsh Summit walking track",
+      "alert_id": "24046",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24046",
+      "description": "The walking track to the Mount Walsh Summit will be closed temporarily to allow repair work to be carried out on the front section of the walking track.",
+      "details": "<p>The walking track to the Mount Walsh Summit will be closed temporarily to allow repair work to be carried out on the front section of the walking track.</p> <p>The closure period is expected to last only ne day (Friday 10th May), however, may be extended if work is delayed for any reason.&nbsp; Please continue to check Park Alerts for updates.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-09",
+      "start_effective_date": "2024-05-10",
+      "end_date": "2024-05-10",
+      "parks": [
+        {
+          "id": "148488",
+          "name": "Mount Walsh National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-walsh"
         }
       ]
     }
