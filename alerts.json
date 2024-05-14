@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-05-13 10:07:25"
+    "alerts_count": 172,
+    "script_run_time": "2024-05-14 10:08:14"
   },
   "alerts": [
     {
@@ -1388,11 +1388,11 @@
       "title": "Temporary partial closure: Southern section of Dalrymple Gap walking track, Girringun National Park",
       "alert_id": "23632",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23632",
-      "description": "The northern access section of Dalrymple Gap walking track from the Damper Creek car park to the historic pipe bridge is now open. Walkers must return to the car park via the same track. The southern access section of the track remains closed due to tree fall and stream rises caused by the prolonged wet weather. It is anticipated that the full track will reopen Saturday 18 May 2024.",
-      "details": "<p>The northern access section of Dalrymple Gap walking track from the Damper Creek car park to the historic pipe bridge is now open. Walkers must return to the car park via the same track. The southern access section of the track remains closed due to tree fall and stream rises caused by the prolonged wet weather. It is anticipated that the full track will reopen Saturday 18 May 2024.</p> <p>Please monitor park alerts for current&nbsp;information.</p>",
-      "start_date": "2024-04-23",
+      "description": "The northern access section of Dalrymple Gap walking track from the Damper Creek car park to the historic pipe bridge is now open. Walkers must return to the car park via the same track. The southern access section of the track remains closed due to tree fall and stream rises caused by the prolonged wet weather. It is anticipated that the full track will reopen Saturday 1 June 2024.",
+      "details": "<p>The northern access section of Dalrymple Gap walking track from the Damper Creek car park to the historic pipe bridge is now open. Walkers must return to the car park via the same track. The southern access section of the track remains closed due to tree fall and stream rises caused by the prolonged wet weather. It is anticipated that the full track will reopen Saturday 1 June 2024.</p> <p>Please monitor park alerts for current&nbsp;information.</p>",
+      "start_date": "2024-05-14",
       "start_effective_date": "2024-01-03",
-      "end_date": "2024-05-17",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148123",
@@ -1892,11 +1892,11 @@
       "title": "Planned works in Nerang National Park",
       "alert_id": "23820",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23820",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 17 May 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 17 May 2024 (weather permitting).</p> <p>Works will be undertaken away from existing mountain bike trails, however there may be some additional machinery and vehicle movements in the vicinity of the Gold Coast Cycle Centre entry to the park and around the Casuarina Grove circuit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-02-20",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 21 June 2024 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 21 June 2024 (weather permitting).</p> <p>Works will be undertaken away from existing mountain bike trails, however there may be some additional machinery and vehicle movements in the vicinity of the Gold Coast Cycle Centre entry to the park and around the Casuarina Grove circuit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-14",
       "start_effective_date": "2024-02-20",
-      "end_date": "2024-05-17",
+      "end_date": "2024-06-21",
       "parks": [
         {
           "id": "147971",
@@ -2702,23 +2702,6 @@
       ]
     },
     {
-      "title": "Kinkuna bush camping and access roads closed - water over roads",
-      "alert_id": "24000",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24000",
-      "description": "Kinkuna bush camping and access roads closed.",
-      "details": "<p>Kinkuna bush camping and access roads closed.</p> <p>As a result of water over access roads, Kinkuna section of Burrum Coast National Park is temporarily closed until 14 May 2024.&nbsp;&nbsp;</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Closure&nbsp;includes:</p> <p>-&nbsp; Kinkuna bush camping area</p> <p>-&nbsp; Palm beach road</p> <p>- Southern access road</p> <p>-&nbsp; all other access to Kinkuna</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-22",
-      "start_effective_date": "2024-04-22",
-      "end_date": "2024-05-14",
-      "parks": [
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
       "title": "Pest management control program for West Cooroy Conservation Park",
       "alert_id": "24003",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24003",
@@ -3172,6 +3155,91 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Burrum Coast National Park - Kinkuna section - Southern access temporarily closed",
+      "alert_id": "24056",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24056",
+      "description": "Southern access into Kinkuna bush camping from Woodgate road is temporarily closed.",
+      "details": "<p>Southern access into Kinkuna bush camping from Woodgate road is temporarily closed.</p> <p>Kinkuna bush camping area and&nbsp;Palm Beach road (northern access) is <strong>open</strong>.</p> <p>Four-wheel-drive high clearance vehicles only on permitted roads. Drive to the conditions. Be aware, the area may be closed at short notice with a rainfall or fire event.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "start_date": "2024-05-14",
+      "start_effective_date": "2024-05-14",
+      "end_date": "2024-06-12",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Whetstone National Park - planned burn",
+      "alert_id": "24057",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24057",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operations within Whetstone State Forest  Badgery Section near Morennan Road, starting Wednesday 15th May 2024, weather permitting.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operations within Whetstone State Forest  Badgery Section near Morennan Road, starting Wednesday 15th May 2024, weather permitting.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-14",
+      "start_effective_date": "2024-05-14",
+      "end_date": "2024-05-17",
+      "parks": [
+        {
+          "id": "322523",
+          "name": "Whetstone State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Mossman Gorge section of Daintree National Park (CYPAL)",
+      "alert_id": "24058",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24058",
+      "description": "The Mossman Gorge section of Daintree National Park will be closed from 12pm Thursday 6 June to 8am Friday 7 June 2024 due to road works along Mossman Gorge Road.",
+      "details": "<p>The Mossman Gorge section of Daintree National Park will be closed from 12pm Thursday 6 June to 8am Friday 7 June 2024 due to road works along Mossman Gorge Road.</p>",
+      "start_date": "2024-05-14",
+      "start_effective_date": "2024-06-06",
+      "end_date": "2024-06-07",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Closures due to wet conditions",
+      "alert_id": "24059",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24059",
+      "description": "Due to recent rainfall some facilities and access roads on Currawinya National Park are Closed. Areas that remain open include - Caiwarro Ruins, Ourimperee Camping area, Currawinya Woolshed, Beefwood hut, Boorara Woolshed, Myninya Camping area, Buditi Lookout, the Granites, and Lake Numalla. Areas Closed include Northern Access from Yenloora Road, Fish Springs, Werewilka Creek Circuit, Lake Wyara, Corni Paroo Camping area, Pump Hole Camping area and Caiwarro Waterhole Camping area.",
+      "details": "<p>Due to recent rainfall some facilities and access roads on Currawinya National Park are Closed. Areas that remain open include - Caiwarro Ruins, Ourimperee Camping area, Currawinya Woolshed, Beefwood hut, Boorara Woolshed, Myninya Camping area, Buditi Lookout, the Granites, and Lake Numalla. Areas Closed include Northern Access from Yenloora Road, Fish Springs, Werewilka Creek Circuit, Lake Wyara, Corni Paroo Camping area, Pump Hole Camping area and Caiwarro Waterhole Camping area.</p> <p>Please adhere to Road Closure Signs.&nbsp;Rangers will re-assess road conditions and update Park Alert on Thursday 16 May 2024. For more information call the Currawinya Office on 07 46554001</p>",
+      "start_date": "2024-05-14",
+      "start_effective_date": "2024-05-14",
+      "end_date": "2024-05-16",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Western Creek State Forest - planned burn",
+      "alert_id": "24060",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24060",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Western Creek State Forest, in the vicinity of Western Creek - Boondandilla Road and Bulli Creek Road, starting Wednesday 15th May 2024, weather permitting.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Western Creek State Forest, in the vicinity of Western Creek - Boondandilla Road and Bulli Creek Road, starting Wednesday 15th May 2024, weather permitting.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>This burn will be south of Western Creek - Boondandilla Road and as a result this road could be impacted by smoke.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-14",
+      "start_effective_date": "2024-05-14",
+      "end_date": "2024-05-17",
+      "parks": [
+        {
+          "id": "322348",
+          "name": "Western Creek State Forest",
+          "url": ""
         }
       ]
     }
