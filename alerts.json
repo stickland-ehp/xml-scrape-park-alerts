@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-05-14 10:08:14"
+    "alerts_count": 174,
+    "script_run_time": "2024-05-15 10:07:27"
   },
   "alerts": [
     {
@@ -426,6 +426,23 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Camper Hygiene",
+      "alert_id": "21650",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/21650",
+      "description": "Queensland Parks and Wildlife Service (QPWS) reminds campers of the need to maintain high personal hygiene standards whilst camping in the Inskip Peninsula Recreation Area.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) reminds campers of the need to maintain high personal hygiene standards whilst camping in the Inskip Peninsula Recreation Area.</p> <p>QPWS would like to remind all&nbsp;visitors to maintain high personal hygiene, including washing hands frequently with soap and water, particularly after visiting the toilet, when preparing food and before eating and after visiting waste disposal and water point sites.</p> <p>For the health and wellbeing of our park visitors and staff, and to limit the spread of illness <strong>visitors are recommended to:</strong></p> <ul> <li>Wash hands often with soap and water, especially&nbsp;before preparing food, eating and after going to the toilet (viral and bacterial stomach illnesses are not prevented with alcohol-based sanitisers).</li> <li>Ensure all campers have a personal towel for hand drying.</li> <li>Cover your coughs and sneezes with your elbow or a tissue.</li> <li>Ensure your campsite is located away from other tents.</li> <li>Where possible, bring your own portable toilet (mandatory for Pelican Bay and Dorrigo South camping areas)</li> <li>Keep your rubbish secure and dispose in bins provided or take home.</li> <li>Stay at home if you or any members of your group are unwell.</li> <li>Keep a personal supply of drinking and washing water during your stay.&nbsp;</li> </ul> <p>Check Park Alerts regularly for updates on current park conditions.</p> <p>&nbsp;</p>",
+      "start_date": "2024-05-15",
+      "start_effective_date": "2024-02-01",
+      "end_date": "2025-03-06",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     },
@@ -990,11 +1007,11 @@
       "title": "Wet season closure extension: Halifax Bay Wetlands National Park",
       "alert_id": "23456",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23456",
-      "description": "The Halifax Bay Wetlands National Park wet season closure has been extended. The park is now anticipated to reopen 20 May 2024 (depending on weather and road conditions).",
-      "details": "<p>The Halifax Bay Wetlands National Park wet season closure has been extended. The park is now anticipated to reopen 20 May 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-04-16",
+      "description": "The Halifax Bay Wetlands National Park wet season closure has been extended. The park is now anticipated to reopen 21 June 2024 (depending on weather and road conditions).",
+      "details": "<p>The Halifax Bay Wetlands National Park wet season closure has been extended. The park is now anticipated to reopen 21 June 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-05-15",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-05-20",
+      "end_date": "2024-06-20",
       "parks": [
         {
           "id": "148512",
@@ -1051,11 +1068,11 @@
       "title": "Wet season closure extension update: Wet Tropics Great Walk, Girringun National Park",
       "alert_id": "23473",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23474",
-      "description": "The wet season closure of the Wet Tropics Great Walk and the associated camp sites listed below has been extended.",
-      "details": "<p>The wet season closure of the Wet Tropics Great Walk and the associated camp sites listed below has been extended.</p> <ul> <li>Pack trail walkers camp</li> <li>Yamanie walkers camp</li> <li>Stony Creek walkers camp</li> <li>Blanket Creek walkers camp</li> <li>Herbert River walkers camp</li> <li>Pack trail (walk-in site)</li> <li>Yamanie (walk-in site).</li> </ul> <p>The anticipated re-opening date is 24&nbsp;May 2024 (weather and road condition dependant).&nbsp;</p> <p>Please monitor park alerts for current&nbsp;information.</p>",
-      "start_date": "2024-04-19",
+      "description": "Due to continued rainfall, the wet season closure of the Wet Tropics Great Walk and associated camp sites listed below has been extended.",
+      "details": "<p>Due to continued rainfall, the wet season closure of the Wet Tropics Great Walk and associated camp sites listed below has been extended.</p> <p>The following camp sites are closed while the Wet Tropics Great Walk wet season closure is in place:</p> <ul> <li>Pack trail walkers camp</li> <li>Yamanie walkers camp</li> <li>Stony Creek walkers camp</li> <li>Blanket Creek walkers camp</li> <li>Herbert River walkers camp</li> <li>Pack trail (walk-in site)</li> <li>Yamanie (walk-in site).</li> </ul> <p>The anticipated re-opening date is 15&nbsp;June&nbsp;2024 (weather and walking track&nbsp;condition dependant).&nbsp;</p> <p>Please monitor park alerts for current&nbsp;information.</p>",
+      "start_date": "2024-05-15",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-05-23",
+      "end_date": "2024-06-14",
       "parks": [
         {
           "id": "156541",
@@ -1084,8 +1101,8 @@
       "alert_id": "23475",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23476",
       "description": "Rinyirru (Lakefield) National Park (CYPAL) is closed for the wet season. Predicting re-opening dates is a challenge and will depend on the type of wet season, road and weather conditions, as well as ensuring camp sites are safe to reopen.",
-      "details": "<p>Rinyirru (Lakefield) National Park (CYPAL) is closed for the wet season. Predicting re-opening dates is a challenge and will depend on the type of wet season, road and weather conditions, as well as ensuring camp sites are safe to reopen.</p> <p><strong>The following camping areas south of Lakefield ranger base are anticipated to reopen 1 June 2024:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Old Faithful Waterhole</li> <li>Kennedy Bend</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>Due to the unpredictable nature of wet seasons and the need to open camp sites when it is safe to do so, the following sites (north of Lakefield ranger base) will be available to be booked from Monday 15 July 2024. Conditions throughout the wet season will be closely monitored and this date will be modified accordingly. This park alert will be updated as it becomes clearer when these sites can be safely opened:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2023-12-01",
+      "details": "<p>Rinyirru (Lakefield) National Park (CYPAL) is closed for the wet season. Predicting re-opening dates is a challenge and will depend on the type of wet season, road and weather conditions, as well as ensuring camp sites are safe to reopen.</p> <p><strong>The following camping areas south of Lakefield ranger base are anticipated to reopen 1 June 2024:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Old Faithful Waterhole</li> <li>Kennedy Bend (noting camp sites 3 and 4 will <strong>not reopen</strong> and will remain closed until further notice).</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>Due to the unpredictable nature of wet seasons and the need to open camp sites when it is safe to do so, the following sites (north of Lakefield ranger base) will be available to be booked from Monday 15 July 2024. Conditions throughout the wet season will be closely monitored and this date will be modified accordingly. This park alert will be updated as it becomes clearer when these sites can be safely opened:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-05-15",
       "start_effective_date": "2023-12-01",
       "end_date": "2024-07-14",
       "parks": [
@@ -1373,9 +1390,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23619",
       "description": "As a result of wet weather, access is restricted, and some areas in Bellthorpe National Park are closed until declared safe. Closed areas include Branch Creek and Beacon Roads. QPWS Rangers are monitoring the situation.",
       "details": "<p>As a result of wet weather, access is restricted, and some areas in Bellthorpe National Park are closed until declared safe. Closed areas include Branch Creek and Beacon Roads. QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.<br /> Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-24",
+      "start_date": "2024-05-15",
       "start_effective_date": "2024-01-02",
-      "end_date": "2024-05-17",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148400",
@@ -2758,6 +2775,28 @@
       ]
     },
     {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24014",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24014",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "start_date": "2024-05-15",
+      "start_effective_date": "2024-05-15",
+      "end_date": "2024-05-17",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
       "title": "Closure of far Southern Boardwalk from council carpark at the end of Mon Repos Road.",
       "alert_id": "24015",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24015",
@@ -2843,23 +2882,6 @@
       ]
     },
     {
-      "title": "Currawinya National Park - temporarily closed due to wet weather",
-      "alert_id": "24031",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24031",
-      "description": "Due to recent heavy rainfall and wet road conditions, most areas of Currawinya National Park are closed to all visitors from 8 May to 14 May 2024.",
-      "details": "<p>Due to recent heavy rainfall and wet road conditions, most areas of Currawinya National Park are closed to all visitors from 8 May to 14 May 2024.</p> <p>Closures include:</p> <ul> <li>All park access roads except for The Lakes Road</li> <li>All camping areas except for Ourimperee camping area</li> <li>All visitors attractions and facilities</li> </ul> <p>All permits are suspended for the durtion of the closure. Affected campers can apply for a refund.</p> <p>Further heavy rainfall is forecast for the Far South West and Channel Country on Friday 10/05/24. Rangers will check roads and campground access and update the Park Alert as required.&nbsp;</p> <p>For more information contact the Currawinya Office on 07 4655 4001.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-05-07",
-      "start_effective_date": "2024-05-03",
-      "end_date": "2024-05-14",
-      "parks": [
-        {
-          "id": "148323",
-          "name": "Currawinya National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
-        }
-      ]
-    },
-    {
       "title": "Water Park Creek causeway flood risk - potentially impacting access to Byfield National Park and Water Park Creek visitor area",
       "alert_id": "24032",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24032",
@@ -2907,23 +2929,6 @@
           "id": "148035",
           "name": "Parklands Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/parklands"
-        }
-      ]
-    },
-    {
-      "title": "Lockyer National Park - planned burn",
-      "alert_id": "24035",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24035",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Lockyer National Park commencing Wednesday 8 May as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Lockyer National Park commencing Wednesday 8 May as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.&nbsp;&nbsp;</p> <p>Smoke may be seen in the vicinity of nearby localities, including Helidon.&nbsp;</p> <p>On the days of the planned burn,&nbsp;areas adjacent to Paradise Creek, Paradise Creek Rd, and Seventeeen Mile Rd may be temporarily closed to public access. Visitors are advised not to enter areas where the planned burn is being undertaken, and note advice of QPWS staff on-site.&nbsp;</p> <p>Other areas within Lockyer National Park&nbsp;will remain open to visitors.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Visibility on roads may be affected by smoke. For your safety, please slow down and drive safely to road conditions.&nbsp;<br /> <br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-07",
-      "start_effective_date": "2024-05-08",
-      "end_date": "2024-05-14",
-      "parks": [
-        {
-          "id": "148287",
-          "name": "Lockyer National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lockyer"
         }
       ]
     },
@@ -3240,6 +3245,40 @@
           "id": "322348",
           "name": "Western Creek State Forest",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Heli-lifting operations occurring",
+      "alert_id": "24061",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24061",
+      "description": "Heli-lifting operations will be undertaken on Wednesday 22nd and Thursday 23rd May to transport stone and other materials to locations along the Horseshoe-Balding-Radical Bays walking track (closed May-August).",
+      "details": "<p>Heli-lifting operations will be undertaken on Wednesday 22nd and Thursday 23rd May to transport stone and other materials to locations along the Horseshoe-Balding-Radical Bays walking track (closed May-August).</p> <p>The helicopter will be lifting from Radical Bay.</p> <p>To ensure public safety during the operation, walking access to Radical Bay will be <strong>closed</strong> Wednesday 22nd and Thursday 23rd.</p> <p>Access to Florence and Arthur Bays will remain open.</p> <p>Refuelling will occur at the Horseshoe Bay Oval.</p> <p>Exclusion zones will be in place.</p> <p>QPWS apologises for any inconvenience caused and thanks you for your co-operation during this project.</p>",
+      "start_date": "2024-05-15",
+      "start_effective_date": "2024-05-22",
+      "end_date": "2024-05-23",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track and day-use area closure due to planned burn: Kalkani Crater rim walk and day-use area, Undara Volcanic National Park",
+      "alert_id": "24062",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24062",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn at Undara Volcanic National Park on Tuesday 21 May 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn at Undara Volcanic National Park on Tuesday 21 May 2024.</p> <p>Due to the planned burn operations, the Kalkani Crater rim walking track and day-use area will be closed to public access on Tuesday 21 May 2024.</p> <p>We apologise for any inconvenience this may cause.</p>",
+      "start_date": "2024-05-15",
+      "start_effective_date": "2024-05-21",
+      "end_date": "2024-05-21",
+      "parks": [
+        {
+          "id": "148965",
+          "name": "Undara Volcanic National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
         }
       ]
     }
