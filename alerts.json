@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-05-16 10:07:03"
+    "alerts_count": 173,
+    "script_run_time": "2024-05-17 10:07:11"
   },
   "alerts": [
     {
@@ -992,9 +992,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23455",
       "description": "Palmer Goldfield Resources Reserve is open for camping however access is only possible with a high clearance four-wheel drive vehicle from the east via Dog Leg Crossing (Whites Creek Road). All vehicle access via Palmerville Station and the Palmer River crossing at Maytown remains closed to all traffic.",
       "details": "<p>Palmer Goldfield Resources Reserve is open for camping however access is only possible with a high clearance four-wheel drive vehicle from the east via Dog Leg Crossing (Whites Creek Road). All vehicle access via Palmerville Station and the Palmer River crossing at Maytown remains closed to all traffic.</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-05-03",
+      "start_date": "2024-05-17",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-05-17",
+      "end_date": "2024-05-24",
       "parks": [
         {
           "id": "149489",
@@ -1461,11 +1461,11 @@
       "title": "Temporary closure: Kirrama National Park",
       "alert_id": "23643",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23643",
-      "description": "Due to impacts from ex-Tropical Cyclone Jasper, and continued heavy rainfall and flooding , Kirrama National Park is temporarily closed. The park is anticipated to re-open Friday 24 May 2024, subject to road and weather conditions.",
-      "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, and continued heavy rainfall and flooding , Kirrama National Park is temporarily closed. The park is anticipated to re-open Friday 24 May 2024, subject to road and weather conditions.</p> <p>The closure includes all walking tracks in the national park.&nbsp;</p> <p>Please monitor park alerts for up-to-date information.&nbsp;</p>",
-      "start_date": "2024-04-17",
+      "description": "Due to continued heavy rainfall and flooding , Kirrama National Park is temporarily closed. The park is anticipated to re-open Saturday 15 June 2024, subject to road and weather conditions.",
+      "details": "<p>Due to continued heavy rainfall and flooding , Kirrama National Park is temporarily closed. The park is anticipated to re-open Saturday 15 June 2024, subject to road and weather conditions.</p> <p>The closure includes all walking tracks in the national park.&nbsp;</p> <p>Please monitor park alerts for up-to-date information.&nbsp;</p>",
+      "start_date": "2024-05-17",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-05-23",
+      "end_date": "2024-06-14",
       "parks": [
         {
           "id": "148179",
@@ -1965,31 +1965,14 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23836",
       "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.",
       "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
-      "start_date": "2024-04-17",
+      "start_date": "2024-05-17",
       "start_effective_date": "2024-02-26",
-      "end_date": "2024-05-19",
+      "end_date": "2024-06-03",
       "parks": [
         {
           "id": "147950",
           "name": "Djiru National Park",
           "url": "https://parks.desi.qld.gov.au/parks/djiru"
-        }
-      ]
-    },
-    {
-      "title": "Planned maintenance to Inskip camping area",
-      "alert_id": "23837",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23837",
-      "description": "Maintenance and site rehabilitation within camping areas at Inskip Peninsula Recreation Area will commence from Monday 4 March with completion expected by Friday 17 May 2024, pending favourable weather conditions.",
-      "details": "<p>Maintenance and site rehabilitation within camping areas at Inskip Peninsula Recreation Area will commence from Monday 4 March with completion expected by Friday 17 May 2024, pending favourable weather conditions.</p> <p>The following camping areas will be temporarily closed as per dates listed below:</p> <ul> <li>S.S. Dorrigo from 4 to 15 March 2024.</li> <li>Dorrigo South from 4 to 15 March 2024.</li> <li>M.V. Beagle from 18 to 27 March 2024.</li> <li>M.V. Natone from 18 to 27 March 2024.</li> <li>M.V. Sarawak from 7 to 17 May 2024.</li> <li>Sarawak West from 7 to 17 May 2024.</li> </ul> <p><strong>All closed camping areas will reopen at 12pm on the following day.</strong></p> <p>For visitors with camping bookings over this closure period you are advised to move your booking or apply for a refund. To modify or cancel your booking please visit&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a>&nbsp;and log into your account.</p> <p>Large machinery will be operating in the closed areas during these maintenance works.</p> <p>For your safety, please observe all signs, barriers and directions from rangers and contractors and not enter closed areas.</p> <p>Check Park Alerts regularly for updates on current park conditions.</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-16",
-      "start_effective_date": "2024-03-04",
-      "end_date": "2024-05-16",
-      "parks": [
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     },
@@ -2338,28 +2321,6 @@
           "id": "150208",
           "name": "Cooloola Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Pest control program at Teewah Beach and Freshwater camping areas",
-      "alert_id": "23939",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23939",
-      "description": "QPWS Rangers and contractors will be conducting a feral animal control program from 13 May through to 16 May 2024 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.",
-      "details": "<p>QPWS Rangers and contractors will be conducting a feral animal control program from 13 May through to 16 May 2024 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.</p> <p>For visitor safety,&nbsp;Teewah Beach and Freshwater&nbsp;camping areas<strong> </strong>will be temporarily closed from 11:00am on<strong> </strong>Monday 13 May and will reopen at 2:00pm Thursday 16 May 2024.</p> <p>For visitors with camping permits for closed sites, you will need to modify or cancel your booking and apply for a refund via your online account at&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-03-28",
-      "start_effective_date": "2024-05-13",
-      "end_date": "2024-05-16",
-      "parks": [
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
         }
       ]
     },
@@ -2885,9 +2846,9 @@
       "title": "Safety advice - Emus in park",
       "alert_id": "24034",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24034",
-      "description": "Visitors are advised that emus have been observed in the Rocky Creek area of Parklands Conservation Park. The period between May to August is the breeding season for these animals. Visitors are advised to take care during this time as they can display aggressive behaviour over this period.",
-      "details": "<p>Visitors are advised that emus have been observed in the Rocky Creek area of Parklands Conservation Park. The period between May to August is the breeding season for these animals. Visitors are advised to take care during this time as they can display aggressive behaviour over this period.</p> <p>For your safety please be alert for nearby wildlife and report any aggressive emu encounters to QPWS&amp;P.</p>",
-      "start_date": "2024-05-13",
+      "description": "An emu in the park is active at this time of year, particularly towards horses. QPWS recommends horse-riders consider alternative locations to ride during the months of May to September.",
+      "details": "<p>An emu in the park is active at this time of year, particularly towards horses. QPWS recommends horse-riders consider alternative locations to ride during the months of May to September.</p> <p>For your safety please be alert for nearby wildlife.</p>",
+      "start_date": "2024-05-17",
       "start_effective_date": "2024-05-07",
       "end_date": "2024-06-07",
       "parks": [
@@ -3062,23 +3023,6 @@
       ]
     },
     {
-      "title": "Smoke advice and temporary closure of Zamia walking track due to planned burning, Mount Archer National Park and State Forest",
-      "alert_id": "24051",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24051",
-      "description": "To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Mount Archer National Park and Mount Archer State Forest. This burning will occur from Monday 13 May 2024, weather permitting, and may occur through until Thursday 16 May 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the Mount Archer area during this time. For visitor safety, the Zamia Walking Track will be closed between Grasstree lookout and First Turkey Mountain Bike Reserve for the duration of the burning operations.",
-      "details": "<p>To take advantage of favourable conditions following recent rain, the Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning at Mount Archer National Park and Mount Archer State Forest. This burning will occur from Monday 13 May 2024, weather permitting, and may occur through until Thursday 16 May 2024. This planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. As a result, smoke may be seen throughout the Mount Archer area during this time. For visitor safety, the Zamia Walking Track will be closed between Grasstree lookout and First Turkey Mountain Bike Reserve for the duration of the burning operations.</p> <p>The aim of this burning is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions. Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-10",
-      "start_effective_date": "2024-05-13",
-      "end_date": "2024-05-16",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Bunyaville Conservation Park",
       "alert_id": "24052",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24052",
@@ -3164,12 +3108,12 @@
       ]
     },
     {
-      "title": "Temporary closure: Mossman Gorge section of Daintree National Park (CYPAL)",
+      "title": "Upcoming temporary closure: Mossman Gorge section of Daintree National Park (CYPAL)",
       "alert_id": "24058",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24058",
-      "description": "The Mossman Gorge section of Daintree National Park will be closed from 12pm Thursday 6 June to 8am Friday 7 June 2024 due to road works along Mossman Gorge Road.",
-      "details": "<p>The Mossman Gorge section of Daintree National Park will be closed from 12pm Thursday 6 June to 8am Friday 7 June 2024 due to road works along Mossman Gorge Road.</p>",
-      "start_date": "2024-05-14",
+      "description": "The Mossman Gorge section of Daintree National Park will be closed due to road works along Mossman Gorge Road. Please see below for closure times:",
+      "details": "<p>The Mossman Gorge section of Daintree National Park will be closed due to road works along Mossman Gorge Road. Please see below for closure times:</p> <ul> <li>Thursday from 12pm to 8am Friday morning</li> <li>Friday from&nbsp;5.30pm to&nbsp; 8am Saturday morning</li> </ul> <p>The park remains open outside the above listed times.</p> <p>&nbsp;</p>",
+      "start_date": "2024-05-17",
       "start_effective_date": "2024-06-06",
       "end_date": "2024-06-07",
       "parks": [
@@ -3177,23 +3121,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Closures due to wet conditions",
-      "alert_id": "24059",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24059",
-      "description": "Due to recent rainfall some facilities and access roads on Currawinya National Park are Closed. Areas that remain open include - Caiwarro Water Hole Camping area, Caiwarro Ruins, Ourimperee Camping area, Currawinya Woolshed, Beefwood hut, Boorara Woolshed, Myninya Camping area, Buditi Lookout, the Granites, and Lake Numalla. Areas Closed include Northern Access from Yenloora Road, Fish Springs, Werewilka Creek Circuit, Lake Wyara, Corni Paroo Camping area, Pump Hole Camping area and Caiwarro Waterhole Camping area.",
-      "details": "<p>Due to recent rainfall some facilities and access roads on Currawinya National Park are Closed. Areas that remain open include - Caiwarro Water Hole Camping area, Caiwarro Ruins, Ourimperee Camping area, Currawinya Woolshed, Beefwood hut, Boorara Woolshed, Myninya Camping area, Buditi Lookout, the Granites, and Lake Numalla. Areas Closed include Northern Access from Yenloora Road, Fish Springs, Werewilka Creek Circuit, Lake Wyara, Corni Paroo Camping area, Pump Hole Camping area and Caiwarro Waterhole Camping area.</p> <p>Please adhere to Road Closure Signs.&nbsp;Rangers will re-assess road conditions and update Park Alert on Monday&nbsp;20&nbsp;May 2024. For more information call the Currawinya Office on 07 46554001</p>",
-      "start_date": "2024-05-16",
-      "start_effective_date": "2024-05-14",
-      "end_date": "2024-05-16",
-      "parks": [
-        {
-          "id": "148323",
-          "name": "Currawinya National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
         }
       ]
     },
@@ -3289,6 +3216,57 @@
           "id": "150244",
           "name": "Ka Ka Mundi, Carnarvon National Park",
           "url": "https://parks.desi.qld.gov.au/parks/carnarvon-ka-ka-mundi"
+        }
+      ]
+    },
+    {
+      "title": "Toilet maintenance at Smalleys Beach Campground",
+      "alert_id": "24065",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24065",
+      "description": "The toilet facility at Smalleys Beach Campground is currently unavailable while maintenance is undertaken to the access ramp. In the interim, visitors are advised to use toilet facilities at the Cape Hillsborough Day Use area. Queensland Parks &amp; Wildlife Service apologises for any inconvenience.",
+      "details": "<p>The toilet facility at Smalleys Beach Campground is currently unavailable while maintenance is undertaken to the access ramp. In the interim, visitors are advised to use toilet facilities at the Cape Hillsborough Day Use area. Queensland Parks &amp; Wildlife Service apologises for any inconvenience.</p>",
+      "start_date": "2024-05-17",
+      "start_effective_date": "2024-05-16",
+      "end_date": "2024-05-21",
+      "parks": [
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn within Flinders Group National Park (CYPAL)",
+      "alert_id": "24068",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24068",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns starting May through September, as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns starting May through September, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Smoke may be seen in the vicinity of Flinders Group National Park (CYPAL).&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.<br /> <br /> During the planned burn Flinders Group National Park (CYPAL) will be closed to public access.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\">Park Alerts</a> regularly for updates on current park conditions.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-17",
+      "start_effective_date": "2024-06-19",
+      "end_date": "2024-05-31",
+      "parks": [
+        {
+          "id": "149029",
+          "name": "Flinders Group National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/flinders-group"
+        }
+      ]
+    },
+    {
+      "title": "Partial temporary walking track closure: Earl Hill Conservation Park",
+      "alert_id": "24069",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24069",
+      "description": "Track maintenance work will be undertaken on the Rainforest track to reinstate drainage and clear up debri flows from ex-Tropical Cyclone Jasper. The track will be closed from 20  24 May.",
+      "details": "<p>Track maintenance work will be undertaken on the Rainforest track to reinstate drainage and clear up debri flows from ex-Tropical Cyclone Jasper. The track will be closed from 20  24 May.</p> <p>The lower Woodland summit track section still remains closed (please refer to separate park alert). This means that both tracks will be inaccessible during this time.&nbsp;</p> <p>The Cycad palm coastal track remains open, accessible from the beach trail head, up to the Trinity Beach lookout only.</p> <p>Contractors and machinery will be on site. Please obey signage and directions from contractors and do not pass safety barricading.</p>",
+      "start_date": "2024-05-17",
+      "start_effective_date": "2024-05-20",
+      "end_date": "2024-05-24",
+      "parks": [
+        {
+          "id": "263080",
+          "name": "Earl Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/earl-hill"
         }
       ]
     }
