@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 166,
-    "script_run_time": "2024-05-19 10:05:01"
+    "alerts_count": 171,
+    "script_run_time": "2024-05-20 10:07:32"
   },
   "alerts": [
     {
@@ -396,13 +396,8 @@
       "end_date": "2024-10-30",
       "parks": [
         {
-          "id": "149005",
-          "name": "Conway circuit",
-          "url": "https://parks.desi.qld.gov.au/parks/conway-circuit"
-        },
-        {
           "id": "147975",
-          "name": "Conway National Park",
+          "name": "Conway National Park and Conway Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/conway"
         }
       ]
@@ -1307,9 +1302,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23601",
       "description": "The Goldsborough Valley section of Wooroonooran National Park is temporarily closed until further notice.",
       "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed until further notice.</p> <p>The closure includes:&nbsp;</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Goldfied trail and Mulgrave River (Top causeway) camping area</li> </ul> <p>This closure is due to flooding from ex-Tropical Cyclone Jasper destroying Fisheries Bridge on the access road to Goldborough Valley. For more information on this bridge please contact <a href=\"https://www.cairns.qld.gov.au/\">Cairns Regional Council</a>.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
-      "start_date": "2024-03-14",
+      "start_date": "2024-05-20",
       "start_effective_date": "2023-12-20",
-      "end_date": "2024-06-30",
+      "end_date": "2024-08-15",
       "parks": [
         {
           "id": "148468",
@@ -1518,7 +1513,7 @@
         },
         {
           "id": "147975",
-          "name": "Conway National Park",
+          "name": "Conway National Park and Conway Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/conway"
         }
       ]
@@ -1836,33 +1831,6 @@
           "id": "147955",
           "name": "Noosa National Park",
           "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
-      "title": "Parkwide temporary closure due to high rainfall",
-      "alert_id": "23799",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23799",
-      "description": "In addition to the existing flood-related closure of Lawn Hill Gorge section, the southern section of Boodjamulla National Park (Aboriginal Land) is now closed due to high rainfall -- this includes Riversleigh World Heritage Area and Miyumba camping area. Roads and river crossings are inaccessible in the region.",
-      "details": "<p>In addition to the existing flood-related closure of Lawn Hill Gorge section, the southern section of Boodjamulla National Park (Aboriginal Land) is now closed due to high rainfall -- this includes Riversleigh World Heritage Area and Miyumba camping area. Roads and river crossings are inaccessible in the region.</p> <p>This parkwide closure includes all visitor facilities, day-use areas, camping areas, walking tracks and vehicle access tracks.</p> <p>Please observe all access warnings, signage, barriers and directions from rangers and do not enter closed areas.</p> <p>If you have a camping booking and would like to request a refund visit&nbsp;<a href=\"https://qpws.usedirect.com/qpws/\">qld.gov.au/Camping</a></p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;for updates on park and facility closures.</p> <p>Check and stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/\">weather forecasts</a>&nbsp;and&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">road conditions.</a></p> <p><strong>Remember!</strong>&nbsp;<a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If it&#39;s flooded, forget it.</a></p>",
-      "start_date": "2024-05-10",
-      "start_effective_date": "2024-02-08",
-      "end_date": "2024-05-19",
-      "parks": [
-        {
-          "id": "151339",
-          "name": "Riversleigh World Heritage Area, Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.desi.qld.gov.au/parks/boodjamulla-riversleigh"
-        },
-        {
-          "id": "150272",
-          "name": "Lawn Hill Gorge, Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.desi.qld.gov.au/parks/boodjamulla-lawn-hill"
-        },
-        {
-          "id": "148444",
-          "name": "Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.desi.qld.gov.au/parks/boodjamulla"
         }
       ]
     },
@@ -2460,7 +2428,7 @@
       "parks": [
         {
           "id": "147975",
-          "name": "Conway National Park",
+          "name": "Conway National Park and Conway Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/conway"
         }
       ]
@@ -2663,28 +2631,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24014",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24014",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-05-16",
-      "start_effective_date": "2024-05-15",
-      "end_date": "2024-05-19",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Closure of far Southern Boardwalk from council carpark at the end of Mon Repos Road.",
       "alert_id": "24015",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24015",
@@ -2719,14 +2665,14 @@
       ]
     },
     {
-      "title": "Flooding of QAA line at Eyre Creek",
+      "title": "Munga-Thirri National Park flooding of QAA line at Eyre Creek",
       "alert_id": "24025",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24025",
-      "description": "Flooding from the Mulligan River over Easter is now flowing into Eyre Creek and is expected to impact the QAA line by Friday 3 May 2024. Access to Birdsville will be via the by-pass track north from the QAA line. The flood by-pass is expected to remain accessible. Signage is currently being put into place.",
-      "details": "<p>Flooding from the Mulligan River over Easter is now flowing into Eyre Creek and is expected to impact the QAA line by Friday 3 May 2024. Access to Birdsville will be via the by-pass track north from the QAA line. The flood by-pass is expected to remain accessible. Signage is currently being put into place.</p> <p>Please check Park Alerts on the Department&#39;s website for updates as the situation may change quickly.</p>",
-      "start_date": "2024-05-01",
+      "description": "Flooding of Eyre Creek is impacting the QAA line. Access to Birdsville is via the by-pass track north from the QAA line. The flood by-pass is expected to remain accessible. Signage is currently in place.",
+      "details": "<p>Flooding of Eyre Creek is impacting the QAA line. Access to Birdsville is via the by-pass track north from the QAA line. The flood by-pass is expected to remain accessible. Signage is currently in place.</p> <p>Please check Park Alerts on the Department&#39;s website for updates as the situation may change quickly.</p>",
+      "start_date": "2024-05-20",
       "start_effective_date": "2024-05-01",
-      "end_date": "2024-05-21",
+      "end_date": "2024-06-21",
       "parks": [
         {
           "id": "148564",
@@ -3096,6 +3042,33 @@
       ]
     },
     {
+      "title": "Upcoming temporary closure: Princess Hills and Wairuna sections, Girringun National Park",
+      "alert_id": "24067",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24067",
+      "description": "The Princess Hills and Wairuna sections of Girringun National Park will be temporarily closed from Monday 24 of June to Tuesday 25 June (dates inclusive). These sections will reopen for camping on Wednesday 26 June 2024. This closure is to allow for Queensland Parks and Wildlife Service rangers to conduct pest management activities. These operations help us to conserve the natural and cultural values of the park.",
+      "details": "<p>The Princess Hills and Wairuna sections of Girringun National Park will be temporarily closed from Monday 24 of June to Tuesday 25 June (dates inclusive). These sections will reopen for camping on Wednesday 26 June 2024. This closure is to allow for Queensland Parks and Wildlife Service rangers to conduct pest management activities. These operations help us to conserve the natural and cultural values of the park.</p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-06-24",
+      "end_date": "2024-06-25",
+      "parks": [
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
+        },
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
       "title": "Planned burn within Flinders Group National Park (CYPAL)",
       "alert_id": "24068",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24068",
@@ -3143,6 +3116,113 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Expedition National Park and Belington Hut State Forest - planned burn",
+      "alert_id": "24071",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24071",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Expedition National Park and Belington Hut State Forest, starting Monday 20 May 2024 until Saturday 25 May 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Expedition National Park and Belington Hut State Forest, starting Monday 20 May 2024 until Saturday 25 May 2024.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>While the burn is some distance away from any camping areas, fire may cause a smoke hazard across Robinson Gorge road. &nbsp;&nbsp;</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-05-20",
+      "end_date": "2024-05-25",
+      "parks": [
+        {
+          "id": "322332",
+          "name": "Belington Hut State Forest",
+          "url": ""
+        },
+        {
+          "id": "323012",
+          "name": "Expedition State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Conway National Park: Conway Range trail, Conway National Park",
+      "alert_id": "24072",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24072",
+      "description": "The Conway Circuit in Conway National Park is now named the Conway Range trail.",
+      "details": "<p>The Conway Circuit in Conway National Park is now named the Conway Range trail.</p> <p>To reflect the&nbsp;name change, new signage has been installed along the trail and a new webpage developed.</p> <p>For&nbsp;details refer to <a href=\"https://parks.desi.qld.gov.au/parks/conway/journeys\">Journeys, Conway Range trail, Conway National Park</a></p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-05-20",
+      "end_date": "2024-10-30",
+      "parks": [
+        {
+          "id": "147975",
+          "name": "Conway National Park and Conway Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conway"
+        }
+      ]
+    },
+    {
+      "title": "Road Closures due to wet conditions",
+      "alert_id": "24073",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24073",
+      "description": "Due to boggy road conditions Werewilka Creek Circuit is closed and Boorara Springs Circuit is closed north of Mt Torrance. Access to the park is still available from the Northern Yenloora Road and via the Werewilka-Boorara Road.",
+      "details": "<p>Due to boggy road conditions Werewilka Creek Circuit is closed and Boorara Springs Circuit is closed north of Mt Torrance. Access to the park is still available from the Northern Yenloora Road and via the Werewilka-Boorara Road.</p> <p>Road Closure signs are in place. For more information contact the Currawinya Office on 07 46554001.&nbsp;</p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-05-20",
+      "end_date": "2024-05-27",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn in Magnetic Island National Park",
+      "alert_id": "24074",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24074",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Magnetic Island National Park as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Magnetic Island National Park as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The planned burn will be conducted on&nbsp;Tuesday the 21st&nbsp;of May. The burn will be conducted from West Point Road, just south of West Point.</p> <p>The aim of this burn is to reduce the volume of&nbsp;fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for native&nbsp;woodland regeneration.</p> <p>As a result, smoke may be seen in the vicinity of West Point. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. There may be temporary congestion on West Point Road, please observe all signage, barriers and directions from rangers.</p> <p>For more information, please call the Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-05-20",
+      "end_date": "2024-05-21",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "Relocation of the Wide Bay Bar maritime navigational lights",
+      "alert_id": "24075",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24075",
+      "description": "Due to the dynamic movement of the Wide Bay Bar, the Maritime Safety Queensland navigational lights will be relocated from the corridor between M. V. Beagle and M. V. Natone, to S. S. Dorrigo camping area. The relocation will commence from Monday 20 May to Wednesday 5 June 2024.",
+      "details": "<p>Due to the dynamic movement of the Wide Bay Bar, the Maritime Safety Queensland navigational lights will be relocated from the corridor between M. V. Beagle and M. V. Natone, to S. S. Dorrigo camping area. The relocation will commence from Monday 20 May to Wednesday 5 June 2024.</p> <p>As a result, Dorrigo 1 toilet facility and a small surrounding area will be closed to public access. Three alternative toilet facilities in S. S. Dorrigo camping area remain open.</p> <p>Closed areas will be barricaded from public entry as heavy machinery, plant and equipment may be in use.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-05-20",
+      "end_date": "2024-06-05",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Deepwater National Park",
+      "alert_id": "24076",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24076",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 22 May 2024 to 30 June 2024, as part of the fire management program for Deepwater National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 22 May 2024 to 30 June 2024, as part of the fire management program for Deepwater National Park.</p> <p>Firefighters&nbsp;may be working along roadsides in the vicinity of Wreck Rock Road and&nbsp;Wreck Rock Campground.&nbsp;For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Wreck Rock Road, Flat Rock day use area, Middle Rock campground and Wreck Rock campground. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-20",
+      "start_effective_date": "2024-05-21",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148279",
+          "name": "Deepwater National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/deepwater"
         }
       ]
     }
