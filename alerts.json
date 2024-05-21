@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2024-05-20 10:07:32"
+    "alerts_count": 174,
+    "script_run_time": "2024-05-21 10:07:23"
   },
   "alerts": [
     {
@@ -1401,8 +1401,8 @@
       "alert_id": "23636",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23636",
       "description": "Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).",
-      "details": "<p>Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Please note, Douglas Shire Council have&nbsp;information on their website regarding the <a href=\"https://douglas.qld.gov.au/daintree-coast-road-update-cape-tribulation-road-bloomfield-track/\">Daintree Coast Road</a>, including a <a href=\"https://douglas.qld.gov.au/download/Cape-Trib-Road-Visitor-Fact-Sheet2.pdf\">Cape Tribulation Road Fact Sheet.</a>&nbsp;Contact <a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>, or phone 1800 026 318 for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are <strong>open,</strong> (subject to road conditions<strong>&nbsp;</strong>as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra Range lookout</li> <li>Jindalba day-use area, amenities block and first 180m of boardwalk (return walk is available at the exit side)</li> <li>Madja boardwalk</li> <li>Dubuji day-use area, amenitites block and boardwalk</li> <li>Kulki day-use area, amenities block and boardwalk.</li> </ul> <p>Monitor park alerts for up-to-date information on visitor facilities.&nbsp;</p>",
-      "start_date": "2024-04-02",
+      "details": "<p>Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Please note, Douglas Shire Council have&nbsp;information on their website regarding the <a href=\"https://douglas.qld.gov.au/daintree-coast-road-update-cape-tribulation-road-bloomfield-track/\">Daintree Coast Road</a>, including a <a href=\"https://douglas.qld.gov.au/download/Cape-Trib-Road-Visitor-Fact-Sheet2.pdf\">Cape Tribulation Road Fact Sheet.</a>&nbsp;Contact <a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>, or phone 1800 026 318 for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are <strong>open,</strong> (subject to road conditions<strong>&nbsp;</strong>as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra Range lookout</li> <li>Jindalba day-use area, amenities block and first 180m of boardwalk (return walk is available at the exit side)</li> <li>Madja boardwalk</li> <li>Dubuji day-use area and boardwalk. Dubuji amenities block will be closed for maintenance on 23 May 2024.</li> <li>Kulki day-use area, amenities block and boardwalk.</li> </ul> <p>Monitor park alerts for up-to-date information on visitor facilities.&nbsp;</p>",
+      "start_date": "2024-05-21",
       "start_effective_date": "2024-01-04",
       "end_date": "2024-06-30",
       "parks": [
@@ -2755,9 +2755,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24038",
       "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. Lovedays Road will be closed to the public from Rasmussen Rd to Sellin Rd during these works.",
       "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking flood recovery road work to Lovedays Road as part of the Reconstruction of Essential Public Assets scheme during May 2024. Lovedays Road will be closed to the public from Rasmussen Rd to Sellin Rd during these works.</p> <p>This includes Archer camping area and Broadwater day-use.</p> <p>For more information please contact QPWS&amp;P on (07) 3164 3600</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-05-10",
+      "start_date": "2024-05-21",
       "start_effective_date": "2024-05-08",
-      "end_date": "2024-05-24",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148259",
@@ -2867,9 +2867,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24049",
       "description": "Cape Upstart National Park planned burn activities",
       "details": "<p>Cape Upstart National Park planned burn activities</p> <p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting aerial planned burn operation within Cape Upstart National Park, weather permitting, as part of the annual hazard reduction and conservation management program for parks and forests. As a result, smoke may be seen within the local vicinity and beyond.</p> <p>The aim is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>&nbsp;</p> <p>For more information, please call QPWS&amp;P on 13QGOV (13 74 68).</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-10",
+      "start_date": "2024-05-21",
       "start_effective_date": "2024-05-13",
-      "end_date": "2024-05-24",
+      "end_date": "2024-05-31",
       "parks": [
         {
           "id": "148496",
@@ -3223,6 +3223,62 @@
           "id": "148279",
           "name": "Deepwater National Park",
           "url": "https://parks.desi.qld.gov.au/parks/deepwater"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn information: Gillies Range Road",
+      "alert_id": "24077",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24077",
+      "description": "Queensland Parks and Wildlife Service are conducting a planned burn along the Gillies Range Road within Little Mulgrave National Park. This burn is being carried out for hazard reduction and conservation management purposes. The Robson track will be closed from 21 to 22 May 2024 (dates inclusive). For your safety, please obey all signage and directions provided by Rangers.",
+      "details": "<p>Queensland Parks and Wildlife Service are conducting a planned burn along the Gillies Range Road within Little Mulgrave National Park. This burn is being carried out for hazard reduction and conservation management purposes. The Robson track will be closed from 21 to 22 May 2024 (dates inclusive). For your safety, please obey all signage and directions provided by Rangers.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-21",
+      "start_effective_date": "2024-05-21",
+      "end_date": "2024-05-22",
+      "parks": [
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        },
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Feral Animal Control being conducted Konomie (North Keppel) Island",
+      "alert_id": "24078",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24078",
+      "description": "The Queensland Parks &amp; Wildlife Service (QPWS) will be conducting feral animal control on Konomie (North Keppel) Island National Park. The closure will come into effect after midnight on Thursday 13th June and remain closed up until midnight on Saturday 15th June. The closure will include the entirety of Konomie (North Keppel) Island to both day use and camping for the duration of the closure.",
+      "details": "<p>The Queensland Parks &amp; Wildlife Service (QPWS) will be conducting feral animal control on Konomie (North Keppel) Island National Park. The closure will come into effect after midnight on Thursday 13th June and remain closed up until midnight on Saturday 15th June. The closure will include the entirety of Konomie (North Keppel) Island to both day use and camping for the duration of the closure.</p> <p>For more information or enquiries please contact QPWS via email at SGBR@des.qld.gov.au&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;&nbsp;</p>",
+      "start_date": "2024-05-21",
+      "start_effective_date": "2024-06-14",
+      "end_date": "2024-06-15",
+      "parks": [
+        {
+          "id": "149417",
+          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
+          "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: amenity block at Dubuji day-use area, Daintree National Park",
+      "alert_id": "24079",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24079",
+      "description": "The amenity block at Dubuji day-use area will be closed on 23 May 2024 for scheduled maintenance to the access ramp.",
+      "details": "<p>The amenity block at Dubuji day-use area will be closed on 23 May 2024 for scheduled maintenance to the access ramp.</p> <p><strong>The boardwalk and day-use area will remain open.</strong></p>",
+      "start_date": "2024-05-21",
+      "start_effective_date": "2024-05-23",
+      "end_date": "2024-05-23",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
         }
       ]
     }
