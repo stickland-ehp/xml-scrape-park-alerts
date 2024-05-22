@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-05-21 10:07:23"
+    "alerts_count": 173,
+    "script_run_time": "2024-05-22 10:07:12"
   },
   "alerts": [
     {
@@ -722,9 +722,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23243",
       "description": "The Canoe Creek bridge on Broadwater Forest Road has an engineer-imposed reduced load limit of 8 tons with a speed limit of 5km/h. All visitors wishing to access Broadwater, Abergowrie State Forest must please adhere to these load restrictions.",
       "details": "<p>The Canoe Creek bridge on Broadwater Forest Road has an engineer-imposed reduced load limit of 8 tons with a speed limit of 5km/h. All visitors wishing to access Broadwater, Abergowrie State Forest must please adhere to these load restrictions.</p>",
-      "start_date": "2024-01-30",
+      "start_date": "2024-05-22",
       "start_effective_date": "2023-08-29",
-      "end_date": "2024-06-30",
+      "end_date": "2024-12-31",
       "parks": [
         {
           "id": "150260",
@@ -1259,23 +1259,6 @@
           "id": "148444",
           "name": "Boodjamulla National Park (Aboriginal Land)",
           "url": "https://parks.desi.qld.gov.au/parks/boodjamulla"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information: significant stream rises at swimming locations within Paluma Range National Park",
-      "alert_id": "23592",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23592",
-      "description": "During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
-      "details": "<p>During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "start_date": "2024-05-07",
-      "start_effective_date": "2023-12-19",
-      "end_date": "2024-05-21",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -2612,11 +2595,11 @@
       "title": "Walking track open with caution: Djyinda walk, Wallaman Falls, Girringun National Park",
       "alert_id": "24012",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24012",
-      "description": "Following a landslip blocking the Djyinda walking track at Wallaman Falls in Girringun National Park, QPWS Rangers have undertaken significant tree fall clearance works. Some vegetation is still impacting the walking track; however, the track is open to walkers with caution.",
-      "details": "<p>Following a landslip blocking the Djyinda walking track at Wallaman Falls in Girringun National Park, QPWS Rangers have undertaken significant tree fall clearance works. Some vegetation is still impacting the walking track; however, the track is open to walkers with caution.</p> <p>For your safety:</p> <ul> <li>walkers should stay on the cleared walking track as further remedial works will continue</li> <li>adhere to any on-site directional and safety signs.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-09",
+      "description": "Following the wet season, sections of the Djyinda walking track at Wallaman Falls in Girringun National Park have experienced some degradation and erosion. While the track remains open to walkers, extra care and caution should be taken while undertaking the walk.",
+      "details": "<p>Following the wet season, sections of the Djyinda walking track at Wallaman Falls in Girringun National Park have experienced some degradation and erosion. While the track remains open to walkers, extra care and caution should be taken while undertaking the walk.</p> <p>Queensland Parks and Wildlife Service rangers will be undertaking assessment and conducting remedial works to the track on a priority basis.&nbsp;&nbsp;</p> <p>For your safety, adhere to any on-site directional and safety signs.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "start_date": "2024-05-22",
       "start_effective_date": "2024-05-04",
-      "end_date": "2024-05-24",
+      "end_date": "2024-08-30",
       "parks": [
         {
           "id": "148123",
@@ -2967,11 +2950,11 @@
       "title": "Temporary walking track and day-use area closure due to planned burn: Kalkani Crater rim walk and day-use area, Undara Volcanic National Park",
       "alert_id": "24062",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24062",
-      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn at Undara Volcanic National Park on Tuesday 21 May 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn at Undara Volcanic National Park on Tuesday 21 May 2024.</p> <p>Due to the planned burn operations, the Kalkani Crater rim walking track and day-use area will be closed to public access on Tuesday 21 May 2024.</p> <p>We apologise for any inconvenience this may cause.</p>",
-      "start_date": "2024-05-15",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn at Undara Volcanic National Park on Wednesday 22 May 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn at Undara Volcanic National Park on Wednesday 22 May 2024.</p> <p>Due to the planned burn operations, the Kalkani Crater rim walking track and day-use area will be closed to public access on Wednesday 22 May 2024.</p> <p>We apologise for any inconvenience this may cause.</p>",
+      "start_date": "2024-05-22",
       "start_effective_date": "2024-05-21",
-      "end_date": "2024-05-21",
+      "end_date": "2024-05-22",
       "parks": [
         {
           "id": "148965",
@@ -3025,19 +3008,19 @@
       ]
     },
     {
-      "title": "Toilet maintenance at Smalleys Beach Campground",
-      "alert_id": "24065",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24065",
-      "description": "The toilet facility at Smalleys Beach Campground is currently unavailable while maintenance is undertaken to the access ramp. In the interim, visitors are advised to use toilet facilities at the Cape Hillsborough Day Use area. Queensland Parks &amp; Wildlife Service apologises for any inconvenience.",
-      "details": "<p>The toilet facility at Smalleys Beach Campground is currently unavailable while maintenance is undertaken to the access ramp. In the interim, visitors are advised to use toilet facilities at the Cape Hillsborough Day Use area. Queensland Parks &amp; Wildlife Service apologises for any inconvenience.</p>",
-      "start_date": "2024-05-17",
-      "start_effective_date": "2024-05-16",
-      "end_date": "2024-05-21",
+      "title": "On water signage in Great Sandy Marine Park",
+      "alert_id": "24066",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24066",
+      "description": "Great Sandy Marine Park users are advised not to rely on the presence of signage to inform them of their location within the various zones of the marine park. Marine Park zones are defined solely by GPS boundary locations, and users must refer to Schedule 1 and 2 of the Marine Parks (Great Sandy) Zoning Plan 2024 for precise boundary descriptions. There are reliable digital platforms which provide all-round coverage and information of all the zones and designated areas for users. eg. Electronic chart systems used on GPS chart plotters, electronic chart Apps used for navigation on smart devices, including Marine SQ App and the QLD Fisheries 2.0 App. Legacy advisory signs installed since 2006 are progressively phased out and updating of the Great Sandy Marine Park printed and web materials will continue to occur progressively.",
+      "details": "<p>Great Sandy Marine Park users are advised not to rely on the presence of signage to inform them of their location within the various zones of the marine park. Marine Park zones are defined solely by GPS boundary locations, and users must refer to Schedule 1 and 2 of the Marine Parks (Great Sandy) Zoning Plan 2024 for precise boundary descriptions. There are reliable digital platforms which provide all-round coverage and information of all the zones and designated areas for users. eg. Electronic chart systems used on GPS chart plotters, electronic chart Apps used for navigation on smart devices, including Marine SQ App and the QLD Fisheries 2.0 App. Legacy advisory signs installed since 2006 are progressively phased out and updating of the Great Sandy Marine Park printed and web materials will continue to occur progressively.</p> <p>Information on the marine park can be found at <a href=\"https://parks.desi.qld.gov.au/parks/great-sandy-marine/maps-resources\">Maps and Resoures | Great Sandy Marine Park | Parks and forests&nbsp;| Department of Environment, Science and Innovation, Queensland Government (desi.qld.gov.au)</a>.</p>",
+      "start_date": "2024-05-22",
+      "start_effective_date": "2024-05-21",
+      "end_date": "2025-05-01",
       "parks": [
         {
-          "id": "149485",
-          "name": "Cape Hillsborough National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+          "id": "149461",
+          "name": "Great Sandy Marine Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
         }
       ]
     },
@@ -3176,23 +3159,6 @@
       ]
     },
     {
-      "title": "Planned burn in Magnetic Island National Park",
-      "alert_id": "24074",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24074",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Magnetic Island National Park as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Magnetic Island National Park as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The planned burn will be conducted on&nbsp;Tuesday the 21st&nbsp;of May. The burn will be conducted from West Point Road, just south of West Point.</p> <p>The aim of this burn is to reduce the volume of&nbsp;fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for native&nbsp;woodland regeneration.</p> <p>As a result, smoke may be seen in the vicinity of West Point. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. There may be temporary congestion on West Point Road, please observe all signage, barriers and directions from rangers.</p> <p>For more information, please call the Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-20",
-      "start_effective_date": "2024-05-20",
-      "end_date": "2024-05-21",
-      "parks": [
-        {
-          "id": "148961",
-          "name": "Magnetic Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
-        }
-      ]
-    },
-    {
       "title": "Relocation of the Wide Bay Bar maritime navigational lights",
       "alert_id": "24075",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24075",
@@ -3279,6 +3245,23 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: White Rock peak walking track, Dinden National Park",
+      "alert_id": "24081",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24081",
+      "description": "The White Rock peak walking track from Lake Morris Road to White Rock peak will be closed from 22 May to 31 July 2024 (dates inclusive). Access via Lake Morris Road is closed due to recovery works after ex-Tropical Cyclone Jasper. Work is also being conducted on the towers at the beginning of White Rock peak walking track, involving heavy plant machinery, hazardous materials and heavy traffic.",
+      "details": "<p>The White Rock peak walking track from Lake Morris Road to White Rock peak will be closed from 22 May to 31 July 2024 (dates inclusive). Access via Lake Morris Road is closed due to recovery works after ex-Tropical Cyclone Jasper. Work is also being conducted on the towers at the beginning of White Rock peak walking track, involving heavy plant machinery, hazardous materials and heavy traffic.</p>",
+      "start_date": "2024-05-22",
+      "start_effective_date": "2024-05-22",
+      "end_date": "2024-07-31",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     }
