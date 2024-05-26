@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 179,
-    "script_run_time": "2024-05-25 10:07:21"
+    "alerts_count": 178,
+    "script_run_time": "2024-05-26 10:07:10"
   },
   "alerts": [
     {
@@ -2997,28 +2997,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Expedition National Park and Belington Hut State Forest - planned burn",
-      "alert_id": "24071",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24071",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Expedition National Park and Belington Hut State Forest, starting Monday 20 May 2024 until Saturday 25 May 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Expedition National Park and Belington Hut State Forest, starting Monday 20 May 2024 until Saturday 25 May 2024.</p> <p>This burn is part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any future wildfires and provide favourable conditions for natural forest regeneration.</p> <p>While the burn is some distance away from any camping areas, fire may cause a smoke hazard across Robinson Gorge road. &nbsp;&nbsp;</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-20",
-      "start_effective_date": "2024-05-20",
-      "end_date": "2024-05-25",
-      "parks": [
-        {
-          "id": "322332",
-          "name": "Belington Hut State Forest",
-          "url": ""
-        },
-        {
-          "id": "323012",
-          "name": "Expedition State Forest",
-          "url": ""
         }
       ]
     },
