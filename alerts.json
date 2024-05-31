@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 184,
-    "script_run_time": "2024-05-30 10:08:07"
+    "alerts_count": 188,
+    "script_run_time": "2024-05-31 10:07:37"
   },
   "alerts": [
     {
@@ -2609,23 +2609,6 @@
       ]
     },
     {
-      "title": "Major road works planned for Harpers Track  May 2024",
-      "alert_id": "24039",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24039",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that due to road works occurring along Harpers Track, which connects the Eastern Beach to Cape Moreton and North Point, this road will be temporarily closed to all traffic over selected dates in May.</p> <p>Road closures are planned for:</p> <ul> <li>Monday 13&nbsp;to&nbsp;Friday 24&nbsp;May</li> </ul> <p>This closure is necessary to allow for major road repairs to take place.&nbsp;Alternative access to Cape Moreton and North Point is available via the Bulwer-North Point Road.</p> <p>Road works is planned for completion by 25&nbsp;May 2024.</p> <p>Visitors should observe all road signs and directions from rangers and contractors.</p> <p>Thank you for your patience during these road works.</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-16",
-      "start_effective_date": "2024-05-07",
-      "end_date": "2024-06-03",
-      "parks": [
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        }
-      ]
-    },
-    {
       "title": "Walk with caution: Mount Cook walking track, Mount Cook National Park",
       "alert_id": "24042",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24042",
@@ -3121,11 +3104,11 @@
       "title": "Planned works for Trail 7",
       "alert_id": "24090",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24090",
-      "description": "Queensland Parks and Wildlife Service (QPWS) in conjunction with the Noosa Council will be conducting a planned maintenance program at Yurol State Forest from 27/05/24 to 03/06/24 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) in conjunction with the Noosa Council will be conducting a planned maintenance program at Yurol State Forest from 27/05/24 to 03/06/24 (weather permitting).</p> <p>Areas on Trail 7 will have changed conditions for the duration&nbsp;of the maintenance program, please follow detours in place.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-05-24",
+      "description": "Queensland Parks and Wildlife Service (QPWS) in conjunction with the Noosa Council will be conducting a planned maintenance program at Yurol State Forest from 27/05/24 to 07/06/24 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) in conjunction with the Noosa Council will be conducting a planned maintenance program at Yurol State Forest from 27/05/24 to 07/06/24 (weather permitting).</p> <p>Areas on Trail 7 will have changed conditions for the duration&nbsp;of the maintenance program, please follow detours in place.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-31",
       "start_effective_date": "2024-05-27",
-      "end_date": "2024-06-03",
+      "end_date": "2024-06-07",
       "parks": [
         {
           "id": "322412",
@@ -3494,6 +3477,106 @@
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Toilet closure - Middle Creek Campground",
+      "alert_id": "24114",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24115",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 14th of June 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 14th of June 2024.</p> <p>Visitors are advised to bring their own facilities or use the facilities at Eurimbula Creek campground during this time.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-31",
+      "start_effective_date": "2024-05-31",
+      "end_date": "2024-06-14",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eurimbula"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "24116",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24117",
+      "description": "South Zoe Bay camping area will be undergoing preliminary works from 6-12 June 2024.",
+      "details": "<p>South Zoe Bay camping area will be undergoing preliminary works from 6-12 June 2024.</p> <p>Other works may be occurring at the following locations:</p> <ul> <li>Little Ramsay Bay camping area</li> <li>Banksia Bay camping area</li> <li>Sunken Reef Bay camping area</li> <li>North Zoe creek crossing.</li> </ul> <p>All camping areas and tracks will remain open during this time. Some of the beach campsites at South Zoe Bay camping area may be closed at times, please remember to use the forest campsites 100m along the Zoe Falls track. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>&nbsp;</p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "start_date": "2024-05-31",
+      "start_effective_date": "2024-06-06",
+      "end_date": "2024-06-12",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        }
+      ]
+    },
+    {
+      "title": "Johannsens Cave is seasonally closed",
+      "alert_id": "24118",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24119",
+      "description": "Johannsens Cave is seasonally closed between 3 June 2024 and 31 January 2025, for the protection of threatened ghost bats which use this cave as a maternity site. Access to Johannsens Cave is not permitted during this period, unless under permit or authority. Entering Johannsens Cave during this period without a valid permit or authority is a breach of the Nature Conservation Act 1992 and penalties may apply.",
+      "details": "<p>Johannsens Cave is seasonally closed between 3 June 2024 and 31 January 2025, for the protection of threatened ghost bats which use this cave as a maternity site. Access to Johannsens Cave is not permitted during this period, unless under permit or authority. Entering Johannsens Cave during this period without a valid permit or authority is a breach of the Nature Conservation Act 1992 and penalties may apply.</p>",
+      "start_date": "2024-05-31",
+      "start_effective_date": "2024-06-03",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "149405",
+          "name": "Mount Etna Caves National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn season",
+      "alert_id": "24120",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24121",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from June-September when weather conditions are favourable.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from June-September when weather conditions are favourable.</p> <p>Planned burns&nbsp;reduce the volume of fuels in forests&nbsp;and&nbsp;create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any subsequent wildfires and provide favourable conditions for native woodland regeneration.</p> <p>Before any planned burn is undertaken, local stakeholders and booked campers will be informed.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please call the Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-05-31",
+      "start_effective_date": "2024-05-31",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "148806",
+          "name": "Orpheus Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/orpheus-island"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        }
+      ]
+    },
+    {
+      "title": "Deepwater National Park - closure due to road maintenance",
+      "alert_id": "24121",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24122",
+      "description": "Deepwater National Park will be closed from the 17th to the 21st of June 2024 due to maintenance of Wreck Rock Rd. All facilities within the park will be closed during this time.",
+      "details": "<p>Deepwater National Park will be closed from the 17th to the 21st of June 2024 due to maintenance of Wreck Rock Rd. All facilities within the park will be closed during this time.</p> <p>Access from Deepwater&nbsp;to Agnes Water can be made via Tableland Rd during this time.&nbsp;</p> <p>Facilities will reopen once maintenence is complete.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-05-31",
+      "start_effective_date": "2024-06-17",
+      "end_date": "2024-06-21",
+      "parks": [
+        {
+          "id": "148279",
+          "name": "Deepwater National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/deepwater"
         }
       ]
     }
