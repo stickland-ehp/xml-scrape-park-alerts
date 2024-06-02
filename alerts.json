@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2024-06-01 10:05:39"
+    "alerts_count": 169,
+    "script_run_time": "2024-06-02 10:06:28"
   },
   "alerts": [
     {
@@ -2863,28 +2863,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - Expedition National Park and Presho State Forest",
-      "alert_id": "24097",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24097",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 27 May until 1 June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 27 May until 1 June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of the area.</p> <p>Camping areas and other visitor facilities&nbsp;will remain open to public access unless otherwise signed.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-05-27",
-      "start_effective_date": "2024-05-27",
-      "end_date": "2024-06-01",
-      "parks": [
-        {
-          "id": "322352",
-          "name": "Presho State Forest",
-          "url": ""
-        },
-        {
-          "id": "148508",
-          "name": "Expedition National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/expedition"
         }
       ]
     },
