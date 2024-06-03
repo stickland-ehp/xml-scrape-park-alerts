@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2024-06-02 10:06:28"
+    "alerts_count": 173,
+    "script_run_time": "2024-06-03 10:09:23"
   },
   "alerts": [
     {
@@ -780,23 +780,6 @@
       ]
     },
     {
-      "title": "Wet season closure extension: Rungulla National Park",
-      "alert_id": "23343",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23343",
-      "description": "The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 3 June 2024 (depending on weather and road conditions).",
-      "details": "<p>The wet season closure of Rungulla National Park has been extended. The park is now anticipated to reopen 3 June 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information. This park alert will be removed when the park has reopened.&nbsp;</p>",
-      "start_date": "2024-05-09",
-      "start_effective_date": "2023-11-01",
-      "end_date": "2024-06-02",
-      "parks": [
-        {
-          "id": "148067",
-          "name": "Rungulla National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/rungulla"
-        }
-      ]
-    },
-    {
       "title": "Booloumba Creek 1 camping area now open with new sites",
       "alert_id": "23387",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23387",
@@ -975,12 +958,12 @@
       ]
     },
     {
-      "title": "Wet season closure update including southern camping areas and reopening dates: Rinyirru (Lakefield) National Park (CYPAL)",
+      "title": "Update on current status of camping areas: Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "23475",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23476",
       "description": "Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).",
-      "details": "<p>Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).</p> <p><strong>The following camping areas south of Lakefield ranger base </strong><strong>will reopen 1 June 2024:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Kennedy Bend (noting camp sites 3 and 4 will&nbsp;<strong>not reopen</strong>&nbsp;and will remain closed until further notice).</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>Due to the access track being impassable, the following camping area south of Lakefield ranger base is currently closed and is anticipated to reopen 15 June 2024.</strong></p> <ul> <li>Old Faithful Waterhole</li> </ul> <p><strong>Due to the unpredictable nature of wet seasons and the need to open camp sites when it is safe to do so, the following sites (north of Lakefield ranger base) are anticipated to reopen 15 July 2024 (depending on weather and road conditions). This park alert will be updated as it becomes clearer when these sites can be safely opened:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-05-27",
+      "details": "<p>Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).</p> <p><strong>The following camping areas south of Lakefield ranger base </strong><strong>are now open:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Kennedy Bend (noting camp sites 3 and 4&nbsp;will remain closed until further notice).</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>Due to the access track being impassable, the following camping area south of Lakefield ranger base is currently closed and is anticipated to reopen 15 June 2024.</strong></p> <ul> <li>Old Faithful Waterhole</li> </ul> <p><strong>Due to the unpredictable nature of wet seasons and the need to open camp sites when it is safe to do so, the following sites (north of Lakefield ranger base) are anticipated to reopen 15 July 2024 (depending on weather and road conditions). This park alert will be updated as it becomes clearer when these sites can be safely opened:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-06-03",
       "start_effective_date": "2023-12-01",
       "end_date": "2024-07-14",
       "parks": [
@@ -1782,9 +1765,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23836",
       "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.",
       "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
-      "start_date": "2024-05-17",
+      "start_date": "2024-06-03",
       "start_effective_date": "2024-02-26",
-      "end_date": "2024-06-03",
+      "end_date": "2024-06-17",
       "parks": [
         {
           "id": "147950",
@@ -2008,6 +1991,23 @@
       ]
     },
     {
+      "title": "Portable toilets are mandatory for Pelican Bay and Dorrigo South camping areas",
+      "alert_id": "23923",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/23923",
+      "description": "Queensland Parks and Wildlife Service (QPWS) have introduced mandatory portable toilet requirements at Pelican Bay and Dorrigo South camping areas (Inskip Point Recreation Area) from 01 June 2024. This initiative had been introduced to address high levels of bush toileting posing an unacceptable risk to the health and safety of campers and visitors and the areas natural environment.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) have introduced mandatory portable toilet requirements at Pelican Bay and Dorrigo South camping areas (Inskip Point Recreation Area) from 01 June 2024. This initiative had been introduced to address high levels of bush toileting posing an unacceptable risk to the health and safety of campers and visitors and the areas natural environment.</p> <p>From 01 June 2024, it is an offence to camp at Pelican Bay and Dorrigo South camping areas without a portable toilet and penalties will apply.&nbsp;A minimum of one portable toilet per camping permit holder is required. Rangers will be on patrol to monitor compliance and educate campers about the benefits of using portable toilets.</p> <p>Portable toilets must have a sealed waste holding tank and must be transportable and suitable for emptying into a portable toilet waste disposal facility.&nbsp;Bag and open bucket style toilets are not permitted.&nbsp;</p> <p>For your convenience, the Gympie Regional Council portable toilet waste disposal facility is located at Clarkson Drive, Rainbow Beach. Do not dispose of sanitary items, disposable nappies or toilet wipes into the toilet waste disposal facility as these items will block the system. Bag these items and take them home for disposal.</p> <p>Do not empty your portable toilet waste into any toilets or general waste facilities in the recreation area as it creates a risk to human health and on-the-spot fines apply.</p> <p>QPWS thanks you for your support and cooperation during this management change.</p> <p><strong>Note: This is a permanent management change for Pelican Bay and Dorrigo South camping areas.&nbsp;</strong></p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "start_date": "2024-06-03",
+      "start_effective_date": "2024-03-27",
+      "end_date": "2024-12-31",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
       "title": "Kings Bore Circuit temporary closure",
       "alert_id": "23938",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23938",
@@ -2107,8 +2107,8 @@
       "alert_id": "23958",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23958",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday the 15th of April 2024 (weather pending).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday the 15th of April 2024 (weather pending).</p> <p>The following tracks will be temporarily&nbsp;<strong>closed&nbsp;</strong>from<strong>&nbsp;15&nbsp;April to 28 June 2024.</strong></p> <ul> <li>Partial closure of the eastern side of the Purling Brook Falls circuit &ndash; from the Purling Brook Falls causeway at the top of the canyon to the John Stacey suspension bridge below.</li> <li>Partial closure of the Twin Falls circuit &ndash; northwards from Canyon lookout at the top of the canyon to the junction of the Warrie circuit below.</li> <li>The entire Warringa Pool track (including the corresponding section of the Gold Coast Hinterland Great Walk).</li> </ul> <p>During the&nbsp;closure the below walking tracks will remain open:</p> <ul> <li>Western side of the Purling Brook Falls circuit, including the John Stacey suspension bridge and the base of the waterfall, including the&nbsp;eastern and western lookouts and Tanninaba lookout.</li> <li>Southern section of the Twin Falls circuit (from northern junction of Warrie circuit to southern junction of Warrie circuit, including access to/from Tallanbana).</li> <li>The Warrie circuit</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Facilities will reopen once&nbsp;reconstruction work is&nbsp;completed by the end of&nbsp;June 2024.</p> <p>Please visit the <a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a> web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a>&nbsp;on the departments website for updated information.</p> <p>&nbsp;</p>",
-      "start_date": "2024-04-11",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday the 15th of April 2024 (weather pending).</p> <p>The following tracks will be temporarily&nbsp;<strong>closed&nbsp;</strong>from<strong>&nbsp;15&nbsp;April to 28 June 2024.</strong></p> <ul> <li>Partial closure of the eastern side of the Purling Brook Falls circuit &ndash; from the Purling Brook Falls causeway at the top of the canyon to the John Stacey suspension bridge below.</li> <li>Partial closure of the Twin Falls circuit &ndash; From&nbsp;below&nbsp;the&nbsp;base of&nbsp;the waterfall&nbsp;through to the Twin Falls&nbsp;and&nbsp;Warrie circuit junction.&nbsp;</li> <li>The entire Warringa Pool track (including the corresponding section of the Gold Coast Hinterland Great Walk).</li> </ul> <p>During the&nbsp;closure the below walking tracks will remain open:</p> <ul> <li>Western side of the Purling Brook Falls circuit, including the John Stacey suspension bridge and the base of the waterfall, including the&nbsp;eastern and western lookouts and Tanninaba lookout.</li> <li>Southern section of the Twin Falls circuit, including access to/from Tallanbana.</li> <li>The Warrie circuit. (If commencing the walk from the Tallanbana day use area, please return via Canyon lookout).</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Facilities will reopen once&nbsp;reconstruction work is&nbsp;completed by the end of&nbsp;June 2024.</p> <p>Please visit the <a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a> web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a>&nbsp;on the departments website for updated information.</p> <p>&nbsp;</p>",
+      "start_date": "2024-06-03",
       "start_effective_date": "2024-04-12",
       "end_date": "2024-06-28",
       "parks": [
@@ -2592,12 +2592,12 @@
       ]
     },
     {
-      "title": "Road Closures due to wet conditions",
+      "title": "Currawinya National Park closed - due to wet conditions",
       "alert_id": "24073",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24073",
-      "description": "Due to boggy road conditions Werewilka Creek Circuit is closed and Boorara Springs Circuit is closed north of Mt Torrance. Access to the park is still available from the Northern Yenloora Road and via the Werewilka-Boorara Road.",
-      "details": "<p>Due to boggy road conditions Werewilka Creek Circuit is closed and Boorara Springs Circuit is closed north of Mt Torrance. Access to the park is still available from the Northern Yenloora Road and via the Werewilka-Boorara Road.</p> <p>Road Closure signs are in place. For more information contact the Currawinya Office on 07 46554001.&nbsp;</p>",
-      "start_date": "2024-05-27",
+      "description": "Due to recent rainfall inundating the park, Currawinya National Park is closed up to and including Wednesday 5 June 2024.",
+      "details": "<p>Due to recent rainfall inundating the park, Currawinya National Park is closed up to and including Wednesday 5 June 2024.</p> <p>The closure includes all internal roads, camping and day-use areas.</p> <p>For more information contact the Currawinya Office on 07 4655 4001.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "start_date": "2024-06-03",
       "start_effective_date": "2024-05-20",
       "end_date": "2024-07-01",
       "parks": [
@@ -2974,28 +2974,6 @@
       ]
     },
     {
-      "title": "Planned Burn Noosa North Shore Block 1",
-      "alert_id": "24104",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24104",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Cooloola Recreation Area from Wednesday 29th of May to Sunday the 2nd of June 2024, weather permitting, as part of the annual hazard reduction/ conservation management program for parks and forests. The Cooloola Great Walk may possibly be affected by smoke during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Cooloola Recreation Area from Wednesday 29th of May to Sunday the 2nd of June 2024, weather permitting, as part of the annual hazard reduction/ conservation management program for parks and forests. The Cooloola Great Walk may possibly be affected by smoke during this period.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Noosa North Shore, Teewah Village and Cooloola Great Walk areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-05-28",
-      "start_effective_date": "2024-05-29",
-      "end_date": "2024-06-02",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
       "title": "Feral animal control program involving ground shooting: Hook Island, Whitsunday Islands National Park",
       "alert_id": "24105",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24105",
@@ -3140,6 +3118,23 @@
       ]
     },
     {
+      "title": "New Toilet dump point",
+      "alert_id": "24115",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24116",
+      "description": "From the 20th June 2024 a new Toilet dump point will be operational to service national park camper needs. The facility located 4.5km north of Southend on the road to Connor Bluff, will provide safe access for car and caravans where contents of portable toilet cassettes and or caravan holding tanks can be disposed of. Water (not suitable for consumption) will also be provided for cleaning requirements.",
+      "details": "<p>From the 20th June 2024 a new Toilet dump point will be operational to service national park camper needs. The facility located 4.5km north of Southend on the road to Connor Bluff, will provide safe access for car and caravans where contents of portable toilet cassettes and or caravan holding tanks can be disposed of. Water (not suitable for consumption) will also be provided for cleaning requirements.</p>",
+      "start_date": "2024-06-03",
+      "start_effective_date": "2024-06-01",
+      "end_date": "2024-12-30",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
       "title": "Thorsborne Trail camping area enhancement works",
       "alert_id": "24116",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24117",
@@ -3162,6 +3157,23 @@
       ]
     },
     {
+      "title": "Vehicle access restrictions Joey Lees",
+      "alert_id": "24117",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24118",
+      "description": "Vehicle access to the Joey Lees beach and lower sections of the headland is no longer permitted.",
+      "details": "<p>Vehicle access to the Joey Lees beach and lower sections of the headland is no longer permitted.</p> <p>This closure is necessary to enable rehabilitation of eroded sections of the Joey Lees headland to protect the natural values of the coastal headland communities. &nbsp;&nbsp;</p> <p>It is hoped that through the completion of the rehabilitation works the natural integrity of the headland will be reinstated and continue to enhance natural visitor experiences.</p> <p>A new three bay car park has been provided on the top of the headland for day visitors. Existing pedestrian access to the beach and lower sections of the headland are maintained.</p>",
+      "start_date": "2024-06-03",
+      "start_effective_date": "2024-06-01",
+      "end_date": "2025-05-31",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
       "title": "Johannsens Cave is seasonally closed",
       "alert_id": "24118",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24119",
@@ -3175,6 +3187,23 @@
           "id": "149405",
           "name": "Mount Etna Caves National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "New picnic shelters for Curtis Island Multi-Use trail",
+      "alert_id": "24119",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24120",
+      "description": "Works are complete on the new picnic shelters for the Curtis Island Multi-Use trail",
+      "details": "<p>Works are complete on the new picnic shelters for the Curtis Island Multi-Use trail</p> <p>New picnic shelters are located at the &quot;Ocean view&quot; and the &quot;Graham creek&quot; Multi use trail hubs. Be sure to stop in and enjoy some shade on this beutiful island.&nbsp;&nbsp;</p>",
+      "start_date": "2024-06-03",
+      "start_effective_date": "2024-05-31",
+      "end_date": "2025-05-31",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
         }
       ]
     },
@@ -3219,6 +3248,40 @@
           "id": "148279",
           "name": "Deepwater National Park",
           "url": "https://parks.desi.qld.gov.au/parks/deepwater"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Graham Range camping area, Russell River National Park",
+      "alert_id": "24122",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24123",
+      "description": "Heavy machinery will be operating on the access road to Graham Range camping area on Tuesday 4 June 2024. Please adhere to all signage and advice from rangers and give way to heavy machinery when required.",
+      "details": "<p>Heavy machinery will be operating on the access road to Graham Range camping area on Tuesday 4 June 2024. Please adhere to all signage and advice from rangers and give way to heavy machinery when required.</p>",
+      "start_date": "2024-06-03",
+      "start_effective_date": "2024-06-03",
+      "end_date": "2024-06-04",
+      "parks": [
+        {
+          "id": "148880",
+          "name": "Russell River National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/russell-river"
+        }
+      ]
+    },
+    {
+      "title": "Nearshore landslide at Inskip Peninsula",
+      "alert_id": "24123",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24124",
+      "description": "A nearshore landslide has occurred on the Inskip Peninsula barge landing area causing a large, deep hole to form at the western end of the barge landing.",
+      "details": "<p>A nearshore landslide has occurred on the Inskip Peninsula barge landing area causing a large, deep hole to form at the western end of the barge landing.</p> <p>Motorists should exercise caution and check access conditions before deciding if it is safe to traverse. K&rsquo;gari barge access has not been affected, however a large section of the barge landing has sunk.</p> <p>All camping areas and beach driving areas at Inskip Peninsula Recreation Area remains open. K&rsquo;gari barge access has not been affected.</p> <p>For safety, all visitors are reminded to:</p> <ul> <li>Keep well back from sand cliffs and waters&rsquo; edge as unstable beach sand may collapse without warning.</li> <li>Avoid swimming or wading around the landslip. Submerged objects and strong underwater currents may be present.</li> <li>Supervise children at all times on the beach.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-03",
+      "start_effective_date": "2024-06-03",
+      "end_date": "2024-07-03",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     }
