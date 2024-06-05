@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-06-04 10:07:10"
+    "alerts_count": 179,
+    "script_run_time": "2024-06-05 10:07:10"
   },
   "alerts": [
     {
@@ -884,8 +884,8 @@
       "alert_id": "23450",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23450",
       "description": "Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.",
-      "details": "<p>Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.</p> <p>The following visitor areas have changed conditions:</p> <ul> <li>West Gap Creek picnic area has some carpark area fenced from the public.</li> <li>Box Forest walking track is open, however machinery may be used in this area during the week of 3 June 2024 .</li> <li>Mount Mitchell track has been temporarily realigned and&nbsp;can be accessed from the western side of The Crest carpark via a temporary pedestrian crossing.</li> <li>During construction, there is a temporary reduction in the number of carparking spaces&nbsp;at The Crest.</li> </ul> <p>Road conditions and roadworks signage&nbsp;may vary depending on the stage of construction, and visitors are asked to follow all instructions and drive safely to road conditions.</p> <p>For more information, please visit the Department of Transport and Main Roads website:&nbsp;<a href=\"https://www.tmr.qld.gov.au/projects/cunningham-highway-ipswich-warwick-2020-disaster-recovery-funding-arrangements-reconstruction-works\">Cunningham Highway (Ipswich &ndash; Warwick), 2020 Disaster Recovery Funding Arrangements reconstruction works | Department of Transport and Main Roads (tmr.qld.gov.au)</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-05-23",
+      "details": "<p>Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.</p> <p>The following visitor areas have changed conditions:</p> <ul> <li>West Gap Creek picnic area will be closed from 6am Monday through to 6pm Friday. It will be open Saturday and Sunday each week, with some carpark area fenced from the public.</li> <li>During construction, there is a temporary reduction in the number of carparking spaces&nbsp;at The Crest.</li> <li>Mount Mitchell track has been temporarily realigned and&nbsp;can be accessed from the western side of The Crest carpark via a temporary pedestrian crossing.</li> <li>Visitors may wish to park at West Gap Creek picnic area during the weekend for access to the Mt Cordeaux, Mt Mitchell, Bare Rock and Rainforest circuit tracks, via Box Forest track.&nbsp;</li> </ul> <p>Road conditions and roadworks signage&nbsp;may vary depending on the stage of construction, and visitors are asked to follow all instructions and drive safely to road conditions.</p> <p>For more information, please visit the Department of Transport and Main Roads website:&nbsp;<a href=\"https://www.tmr.qld.gov.au/projects/cunningham-highway-ipswich-warwick-2020-disaster-recovery-funding-arrangements-reconstruction-works\">Cunningham Highway (Ipswich &ndash; Warwick), 2020 Disaster Recovery Funding Arrangements reconstruction works | Department of Transport and Main Roads (tmr.qld.gov.au)</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-05",
       "start_effective_date": "2023-11-10",
       "end_date": "2024-07-31",
       "parks": [
@@ -1476,23 +1476,6 @@
           "id": "148749",
           "name": "Frankland Group National Park",
           "url": "https://parks.desi.qld.gov.au/parks/frankland-group"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure extension: Donna Cave guided tours, Chillagoe-Mungana Caves National Park",
-      "alert_id": "23687",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23687",
-      "description": "The Donna Cave is temporarily closed due recent heavy rain and flooding. It is anticipated to reopen Saturday 8 June 2024 (dates dependant on flood waters receding). The Trezkinn and Royal Arch caves are currently open with ranger guided tours available daily.",
-      "details": "<p>The Donna Cave is temporarily closed due recent heavy rain and flooding. It is anticipated to reopen Saturday 8 June 2024 (dates dependant on flood waters receding). The Trezkinn and Royal Arch caves are currently open with ranger guided tours available daily.</p> <p>For any questions, enquiries or bookings please phone The Hub on (07) 4094 7111.</p>",
-      "start_date": "2024-05-27",
-      "start_effective_date": "2024-01-19",
-      "end_date": "2024-06-07",
-      "parks": [
-        {
-          "id": "148876",
-          "name": "Chillagoe-Mungana Caves National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/chillagoe-caves"
         }
       ]
     },
@@ -2580,14 +2563,14 @@
       ]
     },
     {
-      "title": "Currawinya National Park closed - due to wet conditions",
+      "title": "Currawinya National Park partially closed - due to wet conditions",
       "alert_id": "24073",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24073",
-      "description": "Due to recent rainfall inundating the park, Currawinya National Park is closed up to and including Wednesday 5 June 2024.",
-      "details": "<p>Due to recent rainfall inundating the park, Currawinya National Park is closed up to and including Wednesday 5 June 2024.</p> <p>The closure includes all internal roads, camping and day-use areas.</p> <p>For more information contact the Currawinya Office on 07 4655 4001.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-06-03",
+      "description": "Due to recent rainfall inundating the park, Currawinya National Park is partially closed up to and including Monday 10 June 2024.",
+      "details": "<p>Due to recent rainfall inundating the park, Currawinya National Park is partially closed up to and including Monday 10 June 2024.</p> <p>The closure includes:</p> <ul> <li>Caiwarro Waterhole,&nbsp;Pump Hole and&nbsp;Corni Paroo Waterhole camping areas</li> <li>Northern access via Werewilka -Boorara Road</li> <li>All internal roads and tracks except Lakes Road (to Lake Wyara and Lake Numalla)&nbsp;</li> </ul> <p>For more information contact the Currawinya Office on 07 4655 4001.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "start_date": "2024-06-05",
       "start_effective_date": "2024-05-20",
-      "end_date": "2024-07-01",
+      "end_date": "2024-06-10",
       "parks": [
         {
           "id": "148323",
@@ -3026,9 +3009,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24109",
       "description": "Booloumba Creek Rd will be closed from the gate past Booloumba 4 camping area to Sunday Creek Road due to current roadworks. Booloumba falls and Peters creek Day Use Area will be closed to vehicles during this period.",
       "details": "<p>Booloumba Creek Rd will be closed from the gate past Booloumba 4 camping area to Sunday Creek Road due to current roadworks. Booloumba falls and Peters creek Day Use Area will be closed to vehicles during this period.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-05-30",
+      "start_date": "2024-06-05",
       "start_effective_date": "2024-05-29",
-      "end_date": "2024-06-07",
+      "end_date": "2024-06-14",
       "parks": [
         {
           "id": "148043",
@@ -3206,23 +3189,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Graham Range camping area, Russell River National Park",
-      "alert_id": "24122",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24123",
-      "description": "Heavy machinery will be operating on the access road to Graham Range camping area on Tuesday 4 June 2024. Please adhere to all signage and advice from rangers and give way to heavy machinery when required.",
-      "details": "<p>Heavy machinery will be operating on the access road to Graham Range camping area on Tuesday 4 June 2024. Please adhere to all signage and advice from rangers and give way to heavy machinery when required.</p>",
-      "start_date": "2024-06-03",
-      "start_effective_date": "2024-06-03",
-      "end_date": "2024-06-04",
-      "parks": [
-        {
-          "id": "148880",
-          "name": "Russell River National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/russell-river"
-        }
-      ]
-    },
-    {
       "title": "Nearshore landslide at Inskip Peninsula",
       "alert_id": "24123",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24124",
@@ -3304,6 +3270,150 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Northern Forests scenic drive CLOSED, detour in place",
+      "alert_id": "24128",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24129",
+      "description": "The Northern Scenic Drive between the junction of Bullock link Road and Northern Road, and Woralie Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.",
+      "details": "<p>The Northern Scenic Drive between the junction of Bullock link Road and Northern Road, and Woralie Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.</p> <p>A detour is in place via Bullock link Road and Woralie Road. The bridge and section of road will open to vehicles when the issue is rectified.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-04",
+      "end_date": "2025-06-03",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Northern Forests walking track CLOSED",
+      "alert_id": "24129",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24130",
+      "description": "Please be advised that due to fire and weather events the Northern Forests walking track will be CLOSED until further notice.",
+      "details": "<p>Please be advised that due to fire and weather events the Northern Forests walking track will be CLOSED until further notice.</p> <p>Queensland Parks and Wildlife Service are conducting hazard assessments to plan remedial works.</p> <p>An alternative walk of similar distance (one way) is the Lake Bowarrady circuit, access via&nbsp;Dundubara Campground.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-04",
+      "end_date": "2025-06-03",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Prescribed Burn - K'gari (Fraser Island) Grassy Headlands",
+      "alert_id": "24130",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24131",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation Rangers will conduct prescribed burn operations between 7th June and 30th June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation Rangers will conduct prescribed burn operations between 7th June and 30th June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>The K&rsquo;gari Grassy Headlands includes Tukkee Wurro (Indian Head), Champagne Pools and Waddy Point Headlands.</p> <p>As a result, smoke may be seen in these areas and in the vicinity of Orchid Beach, beach camping zones 7 (Wyuna, Burad), and zone 8 (Marloo, Ocean Lake, Duling). Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions.&nbsp;</p> <p>Your safety is our concern, but your responsibility.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-07",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn: Little Mulgrave National Park",
+      "alert_id": "24131",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24132",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn at the base of Gillies Range Road on Wednesday 5 June 2024. Expect traffic delays up to Huntsbrook Creek, as well as smoke over the road. Motorists are advised to travel with caution through this area, and adhere to traffic control. This planned burn is for fuel reduction and conservation purposes.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn at the base of Gillies Range Road on Wednesday 5 June 2024. Expect traffic delays up to Huntsbrook Creek, as well as smoke over the road. Motorists are advised to travel with caution through this area, and adhere to traffic control. This planned burn is for fuel reduction and conservation purposes.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-05",
+      "end_date": "2024-06-06",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        },
+        {
+          "id": "322677",
+          "name": "Little Mulgrave National Park",
+          "url": ""
+        },
+        {
+          "id": "322292",
+          "name": "Little Mulgrave Forest Reserve",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Fort Bribie day-use area facilities closed from 17 - 30 June 2024 for maintenance",
+      "alert_id": "24132",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24133",
+      "description": "Fort Bribie day-use area facilities will be closed from Monday 17 - Sunday 30 June 2024 for maintenance.",
+      "details": "<p>Fort Bribie day-use area facilities will be closed from Monday 17 - Sunday 30 June 2024 for maintenance.</p> <p>The facilities will reopen to campers and day visitors from Monday 1&nbsp;July 2024.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-17",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program Errk Oykangand, Olkola and Alwal National Parks",
+      "alert_id": "24133",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24134",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Errk Oykangand, Olkola and Alwal National Parks from 12/6/24 to 14/6/24 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Errk Oykangand, Olkola and Alwal National Parks from 12/6/24 to 14/6/24 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with Errk Oykangand, Olkola and Alwal pest management plans and help to protect natiive plants and wildlife from harmful effects of introduced plants and animals.&nbsp;</p> <p>As a result all areas within Errk Oykangand, Olkola and Alwal National Parks will be temporarily closed.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-12",
+      "end_date": "2024-06-14",
+      "parks": [
+        {
+          "id": "148949",
+          "name": "Errk Oykangand National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/errk-oykangand"
+        },
+        {
+          "id": "213735",
+          "name": "Olkola National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/olkola-cypal"
+        },
+        {
+          "id": "147963",
+          "name": "Alwal National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/alwal"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn  West Weyba section, Noosa National Park",
+      "alert_id": "24134",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24135",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 6th June, 2024, as part of the fire management program for West Weyba section, Noosa National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 6th June, 2024, as part of the fire management program for West Weyba section, Noosa National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Eumarella Road, Emu Mountain Road and Walter Hay Drive, Noosaville area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p><br /> During the planned burn West Weyba section, Noosa National Park is closed to public access.</p> <p><br /> Smoke may be seen in the vicinity of Eumarella Road, Noosaville area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-05",
+      "start_effective_date": "2024-06-06",
+      "end_date": "2024-06-10",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
         }
       ]
     }
