@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 177,
-    "script_run_time": "2024-06-09 10:06:04"
+    "alerts_count": 181,
+    "script_run_time": "2024-06-10 10:07:58"
   },
   "alerts": [
     {
@@ -984,8 +984,8 @@
       "alert_id": "23475",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23476",
       "description": "Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).",
-      "details": "<p>Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).</p> <p><strong>The following camping areas south of Lakefield ranger base </strong><strong>are now open:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Kennedy Bend (noting camp sites 3 and 4&nbsp;will remain closed until further notice).</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>Due to the access track being impassable, the following camping area south of Lakefield ranger base is currently closed and is anticipated to reopen 15 June 2024.</strong></p> <ul> <li>Old Faithful Waterhole</li> </ul> <p><strong>Due to the unpredictable nature of wet seasons and the need to open camp sites when it is safe to do so, the following sites (north of Lakefield ranger base) are anticipated to reopen 15 July 2024 (depending on weather and road conditions). This park alert will be updated as it becomes clearer when these sites can be safely opened:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-06-03",
+      "details": "<p>Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).</p> <p><strong>The following camping areas south of Lakefield ranger base </strong><strong>are now open:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Kennedy Bend (noting camp sites 3 and 4&nbsp;will remain closed until further notice).</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>Due to the access track being impassable, the following camping area south of Lakefield ranger base is currently closed and is anticipated to reopen 1 July&nbsp;2024.</strong></p> <ul> <li>Old Faithful Waterhole</li> </ul> <p><strong>Due to the unpredictable nature of wet seasons and the need to open camp sites when it is safe to do so, the following sites (north of Lakefield ranger base) are anticipated to reopen 15 July 2024 (depending on weather and road conditions). This park alert will be updated as it becomes clearer when these sites can be safely opened:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-06-10",
       "start_effective_date": "2023-12-01",
       "end_date": "2024-07-14",
       "parks": [
@@ -2407,23 +2407,6 @@
       ]
     },
     {
-      "title": "Caution track maintenance: Davies Creek mountain bike park, Dinden West Forest Reserve.",
-      "alert_id": "24055",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24055",
-      "description": "Davies Creek mountain bike park is undergoing maintenance works from Monday 13 May to Sunday 9 June 2024. The park remains open, but please follow instructions on caution signs at trail heads, and be aware of operating machines.",
-      "details": "<p>Davies Creek mountain bike park is undergoing maintenance works from Monday 13 May to Sunday 9 June 2024. The park remains open, but please follow instructions on caution signs at trail heads, and be aware of operating machines.</p>",
-      "start_date": "2024-05-13",
-      "start_effective_date": "2024-05-13",
-      "end_date": "2024-06-09",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
       "title": "Burrum Coast National Park - Kinkuna section - Southern access temporarily closed",
       "alert_id": "24056",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24056",
@@ -3246,12 +3229,12 @@
       ]
     },
     {
-      "title": "Northern part of Mount Gilles section closed from Monday 10 June",
+      "title": "Northern part of Mount Gilles section and northeastern part of Mount Maroon section closed from Monday 10 June",
       "alert_id": "24143",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24144",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the northern area of the Mount Gillies section of Mount Barney National Park will be closed.</p> <p>These areas will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-07",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the following areas will be closed:</p> <p>- Northern part&nbsp;of the Mount Gillies section and</p> <p>- Northeastern part of the Mount Maroon section (this does not affect access to&nbsp;the summit route on Mount Maroon or the Paddys Plain/Golden Stairs area)</p> <p>These areas will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney and Maroon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-10",
       "start_effective_date": "2024-06-07",
       "end_date": "2024-06-14",
       "parks": [
@@ -3315,6 +3298,101 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Kinkuna section - Burrum coast National Park - Planned burn",
+      "alert_id": "24147",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24148",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn within Kinkuna section - Burrum Coast National Park , Monday, 10 June 2024. This is part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn within Kinkuna section - Burrum Coast National Park , Monday, 10 June 2024. This is part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>Kinkuna bush camping will remain open.</p> <p>Smoke may be seen in the vacinity of Coonarr, Bundaberg and Woodgate townships.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-10",
+      "start_effective_date": "2024-06-10",
+      "end_date": "2024-06-14",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Prescribed Burn - K'gari (Fraser Island) Duck Creek",
+      "alert_id": "24149",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24150",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 11th and 30th June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 11th and 30th June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Wanggoolba Creek barge landing, Wanggoolba, Ungowa and Bennett Roads. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>As part of this prescribed burn the Great Walk feeder track between Ungowa Road and Bennett Road will be closed during this time. The main section of the Great Walk around Central Station and Lake McKenzie (Boorangoora) will remain open.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-10",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for hazardous tree removal along Rookery Road",
+      "alert_id": "24150",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24151",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Mon Repos Conservation Park from Tuesday 11 June to Wednesday 12 June 2024 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Mon Repos Conservation Park from Tuesday 11 June to Wednesday 12 June 2024 (weather permitting).</p> <p>The following areas will have changed conditions, including <strong>short delays</strong>&nbsp;for the duration of the maintenance&nbsp;program:</p> <ul> <li>&nbsp;Rookery Road</li> <li>Turtle Trail</li> </ul> <p>Some hazardous&nbsp;trees located close to Rookery Road, may cause short closures to the road while works are underway&mdash;which will result in delays to vehicles, pedestrians and bicycles.&nbsp;</p> <ul> <li>A short detour on grassed sandy&nbsp;tracks will be available for pedestrians and bicycle riders&nbsp;to&nbsp;minimise&nbsp;delays.</li> </ul> <p>For your safety please slow down and observe all directions and signs.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "start_date": "2024-06-10",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-12",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Southern section of Bald Rock Creek circuit closed - due to planned burn",
+      "alert_id": "24151",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24152",
+      "description": "Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn as part of the hazard reduction and conservation management program for Girraween National Park. As a result, the southern section of Bald Rock Creek circuit is closed from Wednesday 12 June until Monday 17 June 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn as part of the hazard reduction and conservation management program for Girraween National Park. As a result, the southern section of Bald Rock Creek circuit is closed from Wednesday 12 June until Monday 17 June 2024.</p> <p>All other walks departing Bald Rock Creek day-use area, including the northern section of Bald Rock Creek circuit (to The Junction) will remain open, however smoke may be seen in the vicinity.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-10",
+      "start_effective_date": "2024-06-10",
+      "end_date": "2024-06-17",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girraween"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Noosa North Shore Block N",
+      "alert_id": "24152",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24153",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Cooloola Recreation Area from Wednesday 12th of June to Sunday the 16 of June 2024, weather permitting, as part of the annual hazard reduction/ conservation management program for parks and forests. The southern entrance and exit to the Cooloola Great Walk will be closed during this time. Access for the Cooloola Great Walk will be via the Third Cutting on Teewah Beach, Noosa North Shore. There will be partial road closures in place on Beach Road, Noosa North Shore during the operation.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Cooloola Recreation Area from Wednesday 12th of June to Sunday the 16 of June 2024, weather permitting, as part of the annual hazard reduction/ conservation management program for parks and forests. The southern entrance and exit to the Cooloola Great Walk will be closed during this time. Access for the Cooloola Great Walk will be via the Third Cutting on Teewah Beach, Noosa North Shore. There will be partial road closures in place on Beach Road, Noosa North Shore during the operation.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Noosa North Shore, Teewah Village and Cooloola Great Walk areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-10",
+      "start_effective_date": "2024-06-12",
+      "end_date": "2024-06-16",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
         }
       ]
     }
