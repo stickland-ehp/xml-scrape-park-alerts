@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 181,
-    "script_run_time": "2024-06-10 10:07:58"
+    "alerts_count": 186,
+    "script_run_time": "2024-06-11 10:07:23"
   },
   "alerts": [
     {
@@ -1979,28 +1979,6 @@
       ]
     },
     {
-      "title": "Kings Bore Circuit temporary closure",
-      "alert_id": "23938",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23938",
-      "description": "A QPWS pest management control program is planned to commence from Sunday 12 May to Monday 10 June 2024. As a result, the Kings Bore Circuit is temporarily closed for the duration, including the following tracks: Pettigrews Road, the Eastern Firebreak, Kings Bore Road, and the Western Firebreak.",
-      "details": "<p>A QPWS pest management control program is planned to commence from Sunday 12 May to Monday 10 June 2024. As a result, the Kings Bore Circuit is temporarily closed for the duration, including the following tracks: Pettigrews Road, the Eastern Firebreak, Kings Bore Road, and the Western Firebreak.</p> <p>All control activities are conducted in accordance with approved departmental pest plans, and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, traps, and poisoned baits with active ingredient 1080 may be in use.</p> <p>The pest management program will be conducted at locations throughout the park where high fox activity is occurring. Signs will be placed at all locations where baits and traps are set.&nbsp;</p> <p><strong>Please observe all signage, barriers and directions from rangers. Do not enter any closed areas</strong></p>",
-      "start_date": "2024-03-28",
-      "start_effective_date": "2024-05-12",
-      "end_date": "2024-06-10",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
       "title": "Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park planned burns",
       "alert_id": "23944",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23944",
@@ -2181,23 +2159,6 @@
       ]
     },
     {
-      "title": "Planned works for Trail 4",
-      "alert_id": "23987",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23987",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Parklands Conservation Park from 22 April to 10 June 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Parklands Conservation Park from 22 April to 10 June 2024 (weather permitting).</p> <p>Sections&nbsp;of trail 4 will be closed at times for the duration of the maintenance program.</p> <p>There will be detours in place for the duration of the maintenance program.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-04-22",
-      "start_effective_date": "2024-04-22",
-      "end_date": "2024-06-10",
-      "parks": [
-        {
-          "id": "148035",
-          "name": "Parklands Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/parklands"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure: Eliot Falls boardwalk, Apudthama National Park (CYPAL)",
       "alert_id": "23989",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23989",
@@ -2218,11 +2179,11 @@
       "title": "Temporary closure: camp sites 2 and 3 at Curri Curri bush camping area, Danbulla National Park",
       "alert_id": "23993",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23993",
-      "description": "Camp sites 2 and 3 at Curri Curri bush camping area are currently closed due to high dam levels. These camp sites are anticipated to reopen Tuesday 11 June 2024 (depending on weather and site conditions).",
-      "details": "<p>Camp sites 2 and 3 at Curri Curri bush camping area are currently closed due to high dam levels. These camp sites are anticipated to reopen Tuesday 11 June 2024 (depending on weather and site conditions).</p> <p>Please monitor this park alert for current information. This park alert will be removed when the camp sites have been reopened.&nbsp;<br /> &nbsp;</p>",
-      "start_date": "2024-04-19",
+      "description": "Camp sites 2 and 3 at Curri Curri bush camping area are currently closed due to high dam levels. These camp sites are anticipated to reopen Wednesday 26 June 2024 (depending on weather and site conditions).",
+      "details": "<p>Camp sites 2 and 3 at Curri Curri bush camping area are currently closed due to high dam levels. These camp sites are anticipated to reopen Wednesday 26 June 2024 (depending on weather and site conditions).</p> <p>Please monitor this park alert for current information. This park alert will be removed when the camp sites have been reopened.&nbsp;<br /> &nbsp;</p>",
+      "start_date": "2024-06-11",
       "start_effective_date": "2024-04-19",
-      "end_date": "2024-06-10",
+      "end_date": "2024-06-25",
       "parks": [
         {
           "id": "148055",
@@ -2488,11 +2449,11 @@
       "title": "Currawinya National Park partially closed - due to wet conditions",
       "alert_id": "24073",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24073",
-      "description": "Due to recent rainfall inundating the park, Currawinya National Park is partially closed up to and including Monday 10 June 2024.",
-      "details": "<p>Due to recent rainfall inundating the park, Currawinya National Park is partially closed up to and including Monday 10 June 2024.</p> <p>The closure includes:</p> <ul> <li>Caiwarro Waterhole,&nbsp;Pump Hole and&nbsp;Corni Paroo Waterhole camping areas</li> <li>Northern access via Werewilka -Boorara Road</li> <li>All internal roads and tracks except Lakes Road (to Lake Wyara and Lake Numalla)&nbsp;</li> </ul> <p>For more information contact the Currawinya Office on 07 4655 4001.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "start_date": "2024-06-05",
-      "start_effective_date": "2024-05-20",
-      "end_date": "2024-06-10",
+      "description": "Due to boggy road conditions some tracks within Currawinya National Park are closed up to and including Friday 14 June 2024.",
+      "details": "<p>Due to boggy road conditions some tracks within Currawinya National Park are closed up to and including Friday 14 June 2024.</p> <p>The closure includes:</p> <ul> <li>Caiwarro Waterhole</li> <li>Boorara Wooldshed Road</li> <li>Werewilka Creek Circuit</li> </ul> <p>For more information contact the Currawinya Office on 07 4655 4001.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-10",
+      "end_date": "2024-06-14",
       "parks": [
         {
           "id": "148323",
@@ -2799,11 +2760,11 @@
       "title": "Toilet closure - Middle Creek Campground",
       "alert_id": "24114",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24115",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 14th of June 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 14th of June 2024.</p> <p>Visitors are advised to bring their own facilities or use the facilities at Eurimbula Creek campground during this time.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-05-31",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 28th of June 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 28th of June 2024.</p> <p>Visitors are advised to bring their own facilities or use the facilities at Eurimbula Creek campground during this time.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-11",
       "start_effective_date": "2024-05-31",
-      "end_date": "2024-06-14",
+      "end_date": "2024-06-28",
       "parks": [
         {
           "id": "148119",
@@ -3093,23 +3054,6 @@
       ]
     },
     {
-      "title": "Planned burn  West Weyba section, Noosa National Park",
-      "alert_id": "24134",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24135",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 6th June, 2024, as part of the fire management program for West Weyba section, Noosa National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 6th June, 2024, as part of the fire management program for West Weyba section, Noosa National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Eumarella Road, Emu Mountain Road and Walter Hay Drive, Noosaville area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p><br /> During the planned burn West Weyba section, Noosa National Park is closed to public access.</p> <p><br /> Smoke may be seen in the vicinity of Eumarella Road, Noosaville area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-05",
-      "start_effective_date": "2024-06-06",
-      "end_date": "2024-06-10",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to planned burn: Smith track, Barron Gorge National Park",
       "alert_id": "24136",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24137",
@@ -3393,6 +3337,142 @@
           "id": "150208",
           "name": "Cooloola Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn  Noosa National Park, Emu Mountain section",
+      "alert_id": "24153",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24154",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Wednesday 12th and Thursday 13th June, 2024, as part of the fire management program for Noosa National Park, Emu Mountain section.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Wednesday 12th and Thursday 13th June, 2024, as part of the fire management program for Noosa National Park, Emu Mountain section.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Sunshine Motorway, Marcoola area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn Emu Mountain section of Noosa National Park, is closed to public access.</p> <p>Smoke may be seen in the vicinity of Marcoola and&nbsp;Coolum areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <ul> <li>Facilities will re-open when conditions are considered safe.</li> <li>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-15",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Aerial Planned Burn Activities Coastal Ranges - Byfield State Forest Park",
+      "alert_id": "24154",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24155",
+      "description": "Aerial planned burn operations will be conducted today through the Coastal Ranges in the Byfield State Forest Park today as part of ongoing wildfire mitigation throughout the Byfield National, State Forest and Conservation Parks.",
+      "details": "<p>Aerial planned burn operations will be conducted today through the Coastal Ranges in the Byfield State Forest Park today as part of ongoing wildfire mitigation throughout the Byfield National, State Forest and Conservation Parks.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-14",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Prescribed Burn - K'gari (Fraser Island) Ungowa",
+      "alert_id": "24155",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24156",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 11th to 30th June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 11th to 30th June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Wanggoolba Creek barge landing, Wanggoolba, Ungowa and Bennett Roads. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Gum Hole campground temporarily closed due to wet weather",
+      "alert_id": "24157",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24158",
+      "description": "Due to recent heavy rainfall Gum Hole campground on Diamantina National Park is temporarily closed until Saturday 15 June 2024 when conditions will be reviewed.",
+      "details": "<p>Due to recent heavy rainfall Gum Hole campground on Diamantina National Park is temporarily closed until Saturday 15 June 2024 when conditions will be reviewed.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-15",
+      "parks": [
+        {
+          "id": "148360",
+          "name": "Diamantina National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/diamantina"
+        }
+      ]
+    },
+    {
+      "title": "Milbi Cafe and Gift shopClosed until further notice",
+      "alert_id": "24158",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24159",
+      "description": "The Milbi Cafe and gift shop at Mon Repos Turtle Centre is closed until further notice.",
+      "details": "<p>The Milbi Cafe and gift shop at Mon Repos Turtle Centre is closed until further notice.</p> <p>Mon Repos Turtle Centre is open 9am to 2pm, 7 days a week.</p> <p><a href=\"https://parks.desi.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-centre\">Visit Mon Repos Turtle Centre for further information on daytime visits.</a></p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-06-28",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Water safety advice: Barron River, Barron Gorge National Park",
+      "alert_id": "24159",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24160",
+      "description": "Due to ongoing ex-Tropical Cyclone Jasper recovery, CleanCo continue to undertake construction works at their Kuranda Weir site. During this time there is an increased risk that water levels in the Barron River below the falls may change without notice.",
+      "details": "<p>Due to ongoing ex-Tropical Cyclone Jasper recovery, CleanCo continue to undertake construction works at their Kuranda Weir site. During this time there is an increased risk that water levels in the Barron River below the falls may change without notice.</p> <p>Fast flowing, rapidly rising water, with strong currents, may occur.</p> <p>Visitors are urged to use caution at all times around waterways and choose to undertake water activities at their own risk.</p> <p>For more information and updates, please go to <a href=\"http://cleancoqueensland.com.au\">cleancoqueensland.com.au</a>&nbsp;.&nbsp;</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-11",
+      "end_date": "2024-11-30",
+      "parks": [
+        {
+          "id": "148548",
+          "name": "Barron Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Park Improvements in progress Samford Conservation Park",
+      "alert_id": "24160",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24161",
+      "description": "From 13 June 2024 to 30 June 2024 (weather permitting), flood recovery roadworks will be conducted in the Samford Conservation Park. Works will begin on the eastern section of the park affecting Samford Road Break, east of Ironbark Gully and IBG East Break. From Monday 17 June 2024 the broader closure that will affect the mountain bike hub and mountain bike trails will be in place.",
+      "details": "<p>From 13 June 2024 to 30 June 2024 (weather permitting), flood recovery roadworks will be conducted in the Samford Conservation Park. Works will begin on the eastern section of the park affecting Samford Road Break, east of Ironbark Gully and IBG East Break. From Monday 17 June 2024 the broader closure that will affect the mountain bike hub and mountain bike trails will be in place.</p> <p><strong>During works, the following will be TEMPORARILY CLOSED</strong>:&nbsp;</p> <ul> <li>The PMG Road, Samford Road Break, Sewer Break, Hidden Break, Bergin Creek Break, Y Break, Estate Break, Three Ways Road, Geigers Road, Lomandra Road, IBG Break, IBG East Break, and School Break Outer.</li> <li>Lomandra warm-up / skills track area</li> <li>Mountain bike Trails -&nbsp; Pipeline, Water Tank, Fitness, Lorikeet, Sunset, Bergin Creek, Bandicoot, Kombi, Mopoke, Green Tree Snake, Sunrise and Whipsnake.&nbsp;</li> </ul> <p>Please observe all signage, barriers and directions from rangers and RoadTek staff, do not enter closed areas.</p> <p>Facilities will reopen when works are complete.</p> <p>Ironbark Gully day-use area and the Crebra circuit walking track will remain OPEN during these works.</p> <p>For more information visit <strong>qld.gov.au/Daguilar</strong> Park Alerts</p> <p>or phone (07) 3164 3600.</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-13",
+      "end_date": "2024-06-30",
+      "parks": [
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/samford"
+        }
+      ]
+    },
+    {
+      "title": "Bunyaville Conservation Park - Drone Survey",
+      "alert_id": "24161",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24162",
+      "description": "A site drone survey will be conducted on 12 June 2024 as part of a broader maintenance program for a facility in Bunyaville Conservation Park. The drone flight plan requires that all roads and tracks directly beneath the planned flight path of the survey must be closed whilst the drone is in flight.",
+      "details": "<p>A site drone survey will be conducted on 12 June 2024 as part of a broader maintenance program for a facility in Bunyaville Conservation Park. The drone flight plan requires that all roads and tracks directly beneath the planned flight path of the survey must be closed whilst the drone is in flight.</p> <p><strong>During the survey, the following will be TEMPORARILY CLOSED</strong>:&nbsp;</p> <ul> <li>Bunyaville Dam</li> <li>Dam Break</li> <li>a protion of Bunker Road</li> <li>Mountain bike Trail 7 &ndash; Steps</li> <li>Powerful Owl walking track</li> </ul> <p>All trails will re-open once survey&nbsp;is&nbsp;complete.&nbsp;</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>For more information visit <strong>qld.gov.au/Daguilar</strong> Park Alerts</p> <p>or phone (07) 3164 3600.</p>",
+      "start_date": "2024-06-11",
+      "start_effective_date": "2024-06-12",
+      "end_date": "2024-06-12",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
         }
       ]
     }
