@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 198,
-    "script_run_time": "2024-06-13 10:07:23"
+    "alerts_count": 200,
+    "script_run_time": "2024-06-14 10:07:15"
   },
   "alerts": [
     {
@@ -1536,9 +1536,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23753",
       "description": "As a result of flood damage Figtree Point can only be accessed from Harrys Hut or the Boronia Walk. The Kin Kin Creek pedestrian bridge linking Elanda Point to Figtree Point on the Cooloola Wilderness Trail has been washed away.",
       "details": "<p>As a result of flood damage Figtree Point can only be accessed from Harrys Hut or the Boronia Walk. The Kin Kin Creek pedestrian bridge linking Elanda Point to Figtree Point on the Cooloola Wilderness Trail has been washed away.</p> <p>Works are currently underway to replace the bridge and restore access between Figtree Point and Elanda Point.</p> <p>Swimming across this creek is strongly discouraged due to the presence&nbsp;submerged objects.</p> <p>Access to Mill Point and Kinaba from Elanda Point is not affected.&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-01-31",
+      "start_date": "2024-06-14",
       "start_effective_date": "2024-01-31",
-      "end_date": "2024-07-01",
+      "end_date": "2025-01-01",
       "parks": [
         {
           "id": "148183",
@@ -1753,9 +1753,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23836",
       "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.",
       "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
-      "start_date": "2024-06-03",
+      "start_date": "2024-06-14",
       "start_effective_date": "2024-02-26",
-      "end_date": "2024-06-17",
+      "end_date": "2024-06-23",
       "parks": [
         {
           "id": "147950",
@@ -3134,14 +3134,14 @@
       ]
     },
     {
-      "title": "Northern part of Mount Gilles section and northeastern part of Mount Maroon section closed from Monday 10 June",
+      "title": "Northern part of Mount Gilles section and northeastern and eastern parts of Mount Maroon section closed from Monday 10 June",
       "alert_id": "24143",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24144",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the following areas will be closed:</p> <p>- Northern part&nbsp;of the Mount Gillies section and</p> <p>- Northeastern part of the Mount Maroon section (this does not affect access to&nbsp;the summit route on Mount Maroon or the Paddys Plain/Golden Stairs area)</p> <p>These areas will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney and Maroon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-10",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the following areas will be closed:</p> <p>- Northern part&nbsp;of the Mount Gillies section and</p> <p>- Northeastern and eastern&nbsp;part (Skull camp and Siedenspinner, Maggie&#39;s Farm and Flanagan&#39;s Breaks) of the Mount Maroon section (this does not affect access to&nbsp;the summit route on Mount Maroon or the Paddys Plain/Golden Stairs area)</p> <p>These areas will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney and Maroon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-14",
       "start_effective_date": "2024-06-07",
-      "end_date": "2024-06-14",
+      "end_date": "2024-06-19",
       "parks": [
         {
           "id": "148528",
@@ -3164,28 +3164,6 @@
           "id": "148043",
           "name": "Conondale National Park",
           "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn - Hinchinbrook Island",
-      "alert_id": "24145",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24146",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Hinchinbrook Island National Park as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Hinchinbrook Island National Park as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The planned burn will be conducted from Wednesday&nbsp;the 12th of June&nbsp;to&nbsp;Thursday the 13th&nbsp;of June. The burn will be conducted from Banksia Bay to Zoe Bay.</p> <p>The aim of this burn is to reduce the volume of&nbsp;fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for native&nbsp;woodland regeneration.</p> <p>Due to this planned burn a section of the Thorsborne Trail will be closed between Little Ramsay Bay Campsite and South Zoe Bay Campsite from 7:00am on the 12th of June&nbsp;to 9:00am on the 13th of June. Booked Thorsborne Trail hikers should leave Little Ramsay by 7am and arrive at South Zoe Bay by 11am (track notes state 6 hours is needed but 4 hours is sufficient time).&nbsp;</p> <p>Little Ramsay Bay Campsite and South Zoe Bay Campsite will remain open for the duration of the burn. Banksia Bay Campsite will be closed from 7:00am 12th of June&nbsp;to 9:00am on the 13th of June.</p> <p>As a result, smoke may be seen in the vicinity of the area. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters to drive safely to the conditions.&nbsp;</p> <p>Please observe all signage, barriers and directions from Rangers.</p> <p>For more information, please call the Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-07",
-      "start_effective_date": "2024-06-12",
-      "end_date": "2024-06-13",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
         }
       ]
     },
@@ -3305,11 +3283,11 @@
       "title": "Planned burn  Noosa National Park, Emu Mountain section",
       "alert_id": "24153",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24154",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Wednesday 12th and Thursday 13th June, 2024, as part of the fire management program for Noosa National Park, Emu Mountain section.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Wednesday 12th and Thursday 13th June, 2024, as part of the fire management program for Noosa National Park, Emu Mountain section.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Sunshine Motorway, Marcoola area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn Emu Mountain section of Noosa National Park, is closed to public access.</p> <p>Smoke may be seen in the vicinity of Marcoola and&nbsp;Coolum areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <ul> <li>Facilities will re-open when conditions are considered safe.</li> <li>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-11",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Sunday 16th and Monday 17th June, 2024, as part of the fire management program for Noosa National Park, Emu Mountain section.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Sunday 16th and Monday 17th June, 2024, as part of the fire management program for Noosa National Park, Emu Mountain section.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Sunshine Motorway, Marcoola area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn Emu Mountain section of Noosa National Park, is closed to public access.</p> <p>Smoke may be seen in the vicinity of Marcoola and&nbsp;Coolum areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <ul> <li>Facilities will re-open when conditions are considered safe.</li> <li>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-14",
       "start_effective_date": "2024-06-11",
-      "end_date": "2024-06-15",
+      "end_date": "2024-06-18",
       "parks": [
         {
           "id": "147955",
@@ -3366,23 +3344,6 @@
           "id": "148360",
           "name": "Diamantina National Park",
           "url": "https://parks.desi.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
-      "title": "Milbi Cafe and Gift shopClosed until further notice",
-      "alert_id": "24158",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24159",
-      "description": "The Milbi Cafe and gift shop at Mon Repos Turtle Centre is closed until further notice.",
-      "details": "<p>The Milbi Cafe and gift shop at Mon Repos Turtle Centre is closed until further notice.</p> <p>Mon Repos Turtle Centre is open 9am to 2pm, 7 days a week.</p> <p><a href=\"https://parks.desi.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-centre\">Visit Mon Repos Turtle Centre for further information on daytime visits.</a></p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-06-11",
-      "start_effective_date": "2024-06-11",
-      "end_date": "2024-06-28",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
         }
       ]
     },
@@ -3538,9 +3499,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24169",
       "description": "Queensland Parks and Wildlife Service (QPWS) are conducting planned burning activities on Thursday 13 June 2024, in the Turtle Creek and Wangetti sections of Macalister Range National Park.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) are conducting planned burning activities on Thursday 13 June 2024, in the Turtle Creek and Wangetti sections of Macalister Range National Park.</p> <p>This burn is being carried out for fuel hazard reduction and conservation management purposes.&nbsp;</p> <p>During this period, smoke may be seen in the&nbsp;vicinity.</p>",
-      "start_date": "2024-06-13",
+      "start_date": "2024-06-14",
       "start_effective_date": "2024-06-13",
-      "end_date": "2024-06-14",
+      "end_date": "2024-06-17",
       "parks": [
         {
           "id": "149397",
@@ -3702,6 +3663,94 @@
           "id": "148043",
           "name": "Conondale National Park",
           "url": "https://parks.desi.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: Society Flat rainforest walk, Kirrama National Park",
+      "alert_id": "24180",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24181",
+      "description": "The eastern side of the Society Flat rainforest walk is temporarily closed until further notice, due to safety concerns with the pedestrian bridge and hazardous trees. Access remains open from the western side, however walking this track as a circuit is currently not possible. Visitors can walk approximately 600m along the track before needing to return via the same route.",
+      "details": "<p>The eastern side of the Society Flat rainforest walk is temporarily closed until further notice, due to safety concerns with the pedestrian bridge and hazardous trees. Access remains open from the western side, however walking this track as a circuit is currently not possible. Visitors can walk approximately 600m along the track before needing to return via the same route.</p> <p>Please adhere to all safety signage and directions.</p> <p>For additional information please contact the Princess Hills ranger base on 07 4097 1448.</p>",
+      "start_date": "2024-06-14",
+      "start_effective_date": "2024-06-15",
+      "end_date": "2025-06-13",
+      "parks": [
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
+        },
+        {
+          "id": "148179",
+          "name": "Kirrama National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kirrama"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Rogers day-use area, Yarraman State Forest",
+      "alert_id": "24181",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24182",
+      "description": "Rogers day-use area at Yarraman State Forest will be temporarily closed for the completion of maintenance works.",
+      "details": "<p>Rogers day-use area at Yarraman State Forest will be temporarily closed for the completion of maintenance works.</p> <p>Closures&nbsp;include all the day-use area and carpark,&nbsp;toilets, picnic tables and barbecues.&nbsp;</p> <p>&nbsp;</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-06-14",
+      "start_effective_date": "2024-06-14",
+      "end_date": "2024-06-15",
+      "parks": [
+        {
+          "id": "148095",
+          "name": "Yarraman State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/yarraman"
+        }
+      ]
+    },
+    {
+      "title": "Ridge Track Closure",
+      "alert_id": "24182",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24183",
+      "description": "Ridge Track Closed to all traffic from the Wall Day Use Area back to intersection of Bomber Track.",
+      "details": "<p>Ridge Track Closed to all traffic from the Wall Day Use Area back to intersection of Bomber Track.</p> <p>Closure of the Ridge Track is due to active fire approaching the trail and heavy smoke conditions reducing driver visibility .</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-14",
+      "start_effective_date": "2024-06-14",
+      "end_date": "2024-06-28",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
+      "title": "Open with caution: Wet Tropics Great Walk, Girringun National Park",
+      "alert_id": "24183",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24184",
+      "description": "The Wet Tropics Great Walk is open with caution. The lower Herbert section of this walk is highly overgrown with vegetation following the wet season.",
+      "details": "<p>The Wet Tropics Great Walk is open with caution. The lower Herbert section of this walk is highly overgrown with vegetation following the wet season.</p> <p>Visitors undertaking this walk should be prepared to walk in highly&nbsp;overgrown vegetation,&nbsp;or continue to utilise the Herbert River to navigate the walk to the lower section in the vicinity of Garrawalt Creek.&nbsp;</p> <p>Queensland Parks and Wildlife Service (QPWS)&nbsp;rangers will be working towards clearing this section of the walk on a priority basis</p>",
+      "start_date": "2024-06-14",
+      "start_effective_date": "2024-06-15",
+      "end_date": "2024-07-31",
+      "parks": [
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     }
