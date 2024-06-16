@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 185,
-    "script_run_time": "2024-06-15 10:06:38"
+    "alerts_count": 182,
+    "script_run_time": "2024-06-16 10:06:51"
   },
   "alerts": [
     {
@@ -2353,23 +2353,6 @@
       ]
     },
     {
-      "title": "Feral Animal Control being conducted Konomie (North Keppel) Island",
-      "alert_id": "24078",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24078",
-      "description": "The Queensland Parks &amp; Wildlife Service (QPWS) will be conducting feral animal control on Konomie (North Keppel) Island National Park. The closure will come into effect after midnight on Thursday 13th June and remain closed up until midnight on Saturday 15th June. The closure will include the entirety of Konomie (North Keppel) Island to both day use and camping for the duration of the closure.",
-      "details": "<p>The Queensland Parks &amp; Wildlife Service (QPWS) will be conducting feral animal control on Konomie (North Keppel) Island National Park. The closure will come into effect after midnight on Thursday 13th June and remain closed up until midnight on Saturday 15th June. The closure will include the entirety of Konomie (North Keppel) Island to both day use and camping for the duration of the closure.</p> <p>For more information or enquiries please contact QPWS via email at SGBR@des.qld.gov.au&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;&nbsp;</p>",
-      "start_date": "2024-05-21",
-      "start_effective_date": "2024-06-14",
-      "end_date": "2024-06-15",
-      "parks": [
-        {
-          "id": "149417",
-          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
-          "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: White Rock peak walking track, Dinden National Park",
       "alert_id": "24081",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24081",
@@ -3041,23 +3024,6 @@
       ]
     },
     {
-      "title": "Gum Hole campground temporarily closed due to wet weather",
-      "alert_id": "24157",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24158",
-      "description": "Due to recent heavy rainfall Gum Hole campground on Diamantina National Park is temporarily closed until Saturday 15 June 2024 when conditions will be reviewed.",
-      "details": "<p>Due to recent heavy rainfall Gum Hole campground on Diamantina National Park is temporarily closed until Saturday 15 June 2024 when conditions will be reviewed.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-06-11",
-      "start_effective_date": "2024-06-11",
-      "end_date": "2024-06-15",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
       "title": "Water safety advice: Barron River, Barron Gorge National Park",
       "alert_id": "24159",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24160",
@@ -3395,23 +3361,6 @@
           "id": "148179",
           "name": "Kirrama National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kirrama"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure of Rogers day-use area, Yarraman State Forest",
-      "alert_id": "24181",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24182",
-      "description": "Rogers day-use area at Yarraman State Forest will be temporarily closed for the completion of maintenance works.",
-      "details": "<p>Rogers day-use area at Yarraman State Forest will be temporarily closed for the completion of maintenance works.</p> <p>Closures&nbsp;include all the day-use area and carpark,&nbsp;toilets, picnic tables and barbecues.&nbsp;</p> <p>&nbsp;</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-06-14",
-      "start_effective_date": "2024-06-14",
-      "end_date": "2024-06-15",
-      "parks": [
-        {
-          "id": "148095",
-          "name": "Yarraman State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/yarraman"
         }
       ]
     },
