@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 182,
-    "script_run_time": "2024-06-16 10:06:51"
+    "alerts_count": 185,
+    "script_run_time": "2024-06-17 10:08:37"
   },
   "alerts": [
     {
@@ -1218,8 +1218,8 @@
       "alert_id": "23636",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23636",
       "description": "Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).",
-      "details": "<p>Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Please note, Douglas Shire Council have&nbsp;information on their website regarding the <a href=\"https://douglas.qld.gov.au/daintree-coast-road-update-cape-tribulation-road-bloomfield-track/\">Daintree Coast Road</a>, including a <a href=\"https://douglas.qld.gov.au/download/Cape-Trib-Road-Visitor-Fact-Sheet2.pdf\">Cape Tribulation Road Fact Sheet.</a>&nbsp;Contact <a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>, or phone 1800 026 318 for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are <strong>open,</strong> (subject to road conditions<strong>&nbsp;</strong>as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra Range lookout</li> <li>Jindalba day-use area, amenities block and first 180m of boardwalk (return walk is available at the exit side)</li> <li>Madja boardwalk</li> <li>Dubuji day-use area, amenities block and boardwalk</li> <li>Kulki day-use area&nbsp;and boardwalk. (Kulki amenities block closed Saturday 25 May and Sunday&nbsp;26 May 2024, anticipated to reopen Monday 27 May)</li> </ul> <p>Monitor park alerts for up-to-date information on visitor facilities.&nbsp;</p>",
-      "start_date": "2024-05-24",
+      "details": "<p>Information is provided below on the current status of visitor facilities in the Cape Tribulation section of Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Please note, Douglas Shire Council have&nbsp;information on their website regarding the <a href=\"https://douglas.qld.gov.au/daintree-coast-road-update-cape-tribulation-road-bloomfield-track/\">Daintree Coast Road</a>, including a <a href=\"https://douglas.qld.gov.au/download/Cape-Trib-Road-Visitor-Fact-Sheet2.pdf\">Cape Tribulation Road Fact Sheet.</a>&nbsp;Contact <a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>, or phone 1800 026 318 for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are <strong>open,</strong> (subject to road conditions<strong>&nbsp;</strong>as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra Range lookout</li> <li>Jindalba day-use area, amenities block and first 180m of boardwalk (return walk is available at the exit side)</li> <li>Madja boardwalk</li> <li>Dubuji day-use area, amenities block and boardwalk</li> <li>Kulki day-use area&nbsp;and boardwalk, amenities block and boardwalk</li> <li>Noah Beach camping area</li> </ul> <p>Monitor park alerts for up-to-date information on visitor facilities.&nbsp;</p>",
+      "start_date": "2024-06-17",
       "start_effective_date": "2024-01-04",
       "end_date": "2024-06-30",
       "parks": [
@@ -2336,6 +2336,23 @@
       ]
     },
     {
+      "title": "Fish Spring Circuit partially closed - due to wet conditions",
+      "alert_id": "24073",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24073",
+      "description": "Due to boggy road conditions Fish Spring Circuit North of Mt Torrance is closed up to and including Friday 21 June 2024. Road closure signs are in place.",
+      "details": "<p>Due to boggy road conditions Fish Spring Circuit North of Mt Torrance is closed up to and including Friday 21 June 2024. Road closure signs are in place.</p> <p>For more information contact the Currawinya Office on 07 4655 4001.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-14",
+      "end_date": "2024-06-21",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
       "title": "Planned burn for Deepwater National Park",
       "alert_id": "24076",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24076",
@@ -2422,23 +2439,6 @@
           "id": "148864",
           "name": "Carnarvon Gorge, Carnarvon National Park",
           "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Chance Bay camping area closure for heli-lift and barge operations for Ngaro track camp site and associated hiker infrastructure construction",
-      "alert_id": "24086",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24086",
-      "description": "Chance Bay camping area will be closed due to heli-lift and barge operations on the following dates only Saturday 8 June 2024, Tuesday 11 June 2024, Friday 21 June 2024 and Monday 24 June 2024 (weather permitting) due to Ngaro track camp site and associated hiker infrastructure construction. No public access to the site will be permitted during this closure. For your safety, please observe all signs, barriers and directions from rangers and do not enter closed areas or facilities Please visit this park's page on the department's website for nearby park attractions and experiences https://parks.desi.qld.gov.au/parks/whitsunday-islands",
-      "details": "<p>Chance Bay camping area will be closed due to heli-lift and barge operations on the following dates only Saturday 8 June 2024, Tuesday 11 June 2024, Friday 21 June 2024 and Monday 24 June 2024 (weather permitting) due to Ngaro track camp site and associated hiker infrastructure construction. No public access to the site will be permitted during this closure. For your safety, please observe all signs, barriers and directions from rangers and do not enter closed areas or facilities Please visit this park's page on the department's website for nearby park attractions and experiences https://parks.desi.qld.gov.au/parks/whitsunday-islands</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-06-06",
-      "start_effective_date": "2024-06-08",
-      "end_date": "2024-06-24",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     },
@@ -2861,14 +2861,14 @@
       ]
     },
     {
-      "title": "Northern part of Mount Gilles section and northeastern and eastern parts of Mount Maroon section closed from Monday 10 June",
+      "title": "Northeastern part of Mount Maroon section closed",
       "alert_id": "24143",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24144",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the following areas will be closed:</p> <p>- Northern part&nbsp;of the Mount Gillies section and</p> <p>- Northeastern and eastern&nbsp;part (Skull camp and Siedenspinner, Maggie&#39;s Farm and Flanagan&#39;s Breaks) of the Mount Maroon section (this does not affect access to&nbsp;the summit route on Mount Maroon or the Paddys Plain/Golden Stairs area)</p> <p>These areas will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney and Maroon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-14",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on/from Monday 10 June 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the northeastern part&nbsp;of the Mount Maroon section (this does not affect access to&nbsp;the summit route on Mount Maroon or the Paddys Plain/Golden Stairs area) will be closed.</p> <p>This area&nbsp;will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney and Maroon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-17",
       "start_effective_date": "2024-06-07",
-      "end_date": "2024-06-19",
+      "end_date": "2024-06-21",
       "parks": [
         {
           "id": "148528",
@@ -2964,28 +2964,6 @@
           "id": "148087",
           "name": "Girraween National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girraween"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Noosa North Shore Block N",
-      "alert_id": "24152",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24153",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Cooloola Recreation Area from Wednesday 12th of June to Sunday the 16 of June 2024, weather permitting, as part of the annual hazard reduction/ conservation management program for parks and forests. The southern entrance and exit to the Cooloola Great Walk will be closed during this time. Access for the Cooloola Great Walk will be via the Third Cutting on Teewah Beach, Noosa North Shore. There will be partial road closures in place on Beach Road, Noosa North Shore during the operation.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Cooloola Recreation Area from Wednesday 12th of June to Sunday the 16 of June 2024, weather permitting, as part of the annual hazard reduction/ conservation management program for parks and forests. The southern entrance and exit to the Cooloola Great Walk will be closed during this time. Access for the Cooloola Great Walk will be via the Third Cutting on Teewah Beach, Noosa North Shore. There will be partial road closures in place on Beach Road, Noosa North Shore during the operation.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Noosa North Shore, Teewah Village and Cooloola Great Walk areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-10",
-      "start_effective_date": "2024-06-12",
-      "end_date": "2024-06-16",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
         }
       ]
     },
@@ -3126,33 +3104,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Princess Hills and Wairuna sections, Girringun National Park",
-      "alert_id": "24166",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24167",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities within the Princess Hills and Wairuna sections of Girringun National Park starting Thursday 13 June 2024 (weather permitting) as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities within the Princess Hills and Wairuna sections of Girringun National Park starting Thursday 13 June 2024 (weather permitting) as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.</p> <p>This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call Princess Hills base office of QPWS on 4097 1448</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-12",
-      "start_effective_date": "2024-06-13",
-      "end_date": "2024-06-16",
-      "parks": [
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
-        },
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
       "title": "Planned burn and park closure - Mooloolah River National Park",
       "alert_id": "24167",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24168",
@@ -3205,28 +3156,6 @@
           "id": "150195",
           "name": "Carnarvon Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
-        }
-      ]
-    },
-    {
-      "title": "K'gari (Fraser Island) Great Walk - closure Dilli Village to Lake Boomanjin",
-      "alert_id": "24171",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24172",
-      "description": "Due to prescribed burning activities the Kgari (Fraser Island) Great walk, between Dilli Village and Lake Boomanjin will be closed between 13 June and 21 June 2024.",
-      "details": "<p>Due to prescribed burning activities the Kgari (Fraser Island) Great walk, between Dilli Village and Lake Boomanjin will be closed between 13 June and 21 June 2024.</p> <p>Access to Lake Boomanjin along the Great Walk is still available from Lake Benaroon/Central Station.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-13",
-      "start_effective_date": "2024-06-13",
-      "end_date": "2024-06-21",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -3410,6 +3339,118 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Bilwon State Forest",
+      "alert_id": "24185",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24186",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Bilwon State Forest from Tuesday 18 June to Friday 21 June 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Bilwon State Forest from Tuesday 18 June to Friday 21 June 2024 (dates inclusive).</p> <p>The park will be closed during this period.&nbsp;</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-18",
+      "end_date": "2024-06-21",
+      "parks": [
+        {
+          "id": "322398",
+          "name": "Bilwon State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Mapleton Forest Road, Mapleton National Park",
+      "alert_id": "24186",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24187",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on Mapleton Forest Road, Mapleton National Park, from Monday 17 June to Friday 28 June 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on Mapleton Forest Road, Mapleton National Park, from Monday 17 June to Friday 28 June 2024.</p> <p>Mapleton Forest Road will have changed conditions for the duration on the maitenance program.</p> <p>Heavy plant and machinery (graders and trucks) may be encountered on the road.</p> <p>Visitors are advised to drive to conditons and avoid heavy machinery.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-17",
+      "end_date": "2024-06-28",
+      "parks": [
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mapleton"
+        }
+      ]
+    },
+    {
+      "title": "Flagstaff Hill section of Isla Gorge National Park - closure due to planned burn",
+      "alert_id": "24187",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24188",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns in the Flagstaff Hill section of Isla Gorge National Park as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns in the Flagstaff Hill section of Isla Gorge National Park as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of the burn. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>During the planned burn the Flagstaff Hill section of Isla Gorge National Park will be closed to public access.</p> <p>All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-17",
+      "end_date": "2024-06-21",
+      "parks": [
+        {
+          "id": "148556",
+          "name": "Isla Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/isla-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Planned Hazard Reduction Burn Daisy Hill Conservation Park, Ford Road Section",
+      "alert_id": "24188",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24189",
+      "description": "The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn between Wednesday 19th and Wednesday 26th June as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn between Wednesday 19th and Wednesday 26th June as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The following areas will be closed until they are safe to re-open :</p> <p>Ford Protection Break, Acacia Break, Macropod Way, Eucalyptus Drive, Koala Track, Regen Link, and Conservation Circuit</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Daisy Hill, Shailer Park, Rochedale, Priestdale, Burbank, and Mount Cotton. Persons with respiratory or other health conditions should seek medical advice on mitigation of the effects of smoke inhalation.</p> <p>Any previously issued&nbsp;permits are suspended for the duration of the closure, permit/agreement holders are not permitted to enter closed areas.</p> <p>All other areas within Daisy Hill Conservation Park remain open.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-19",
+      "end_date": "2024-06-26",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Smoke alert - Barakula State Forest",
+      "alert_id": "24189",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24190",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 20 June until 21 June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 20 June until 21 June 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of the area.</p> <p>Camping areas and other visitor facilities&nbsp;will remain open to public access unless otherwise signed.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-20",
+      "end_date": "2024-06-21",
+      "parks": [
+        {
+          "id": "148143",
+          "name": "Barakula State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/barakula"
+        }
+      ]
+    },
+    {
+      "title": "Ex HMAS Tobruk public mooring closed",
+      "alert_id": "24190",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24191",
+      "description": "The Ex HMAS Tobruk public mooring is currently undergoing maintenance works. During this time the mooring is unable to be used.",
+      "details": "<p>The Ex HMAS Tobruk public mooring is currently undergoing maintenance works. During this time the mooring is unable to be used.</p> <p>Please monitor<a href=\"https://parks.desi.qld.gov.au/park-alerts\"> park alerts</a> on the department&#39;s website for unpdated&nbsp;information.</p>",
+      "start_date": "2024-06-17",
+      "start_effective_date": "2024-06-17",
+      "end_date": "2024-08-31",
+      "parks": [
+        {
+          "id": "149461",
+          "name": "Great Sandy Marine Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "149369",
+          "name": "Woody Island (Tooliewah) and Little Woody Island (Walangoora), Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-woody"
         }
       ]
     }
