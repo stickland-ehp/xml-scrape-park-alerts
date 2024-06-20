@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 192,
-    "script_run_time": "2024-06-19 10:08:14"
+    "alerts_count": 190,
+    "script_run_time": "2024-06-20 10:07:08"
   },
   "alerts": [
     {
@@ -931,14 +931,14 @@
       ]
     },
     {
-      "title": "Wet season closure extension: Halifax Bay Wetlands National Park",
+      "title": "Temporary camping area closure: Halifax Bay Wetlands National Park",
       "alert_id": "23456",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23456",
-      "description": "The Halifax Bay Wetlands National Park wet season closure has been extended. The park is now anticipated to reopen 21 June 2024 (depending on weather and road conditions).",
-      "details": "<p>The Halifax Bay Wetlands National Park wet season closure has been extended. The park is now anticipated to reopen 21 June 2024 (depending on weather and road conditions).</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-05-15",
-      "start_effective_date": "2023-12-01",
-      "end_date": "2024-06-20",
+      "description": "Halifax Bay Wetlands National Park is now open for day use, with visitors able to use existing dry track networks. Camping area 1 and Camping area 2 remain closed until vegetation management can be undertaken by Queensland Parks and Wildlife Service (QPWS) rangers. This work is likely to be completed by Wednesday 31 July 2024. It is expected that the camping areas will be open from Thursday 1 August 2024.",
+      "details": "<p>Halifax Bay Wetlands National Park is now open for day use, with visitors able to use existing dry track networks. Camping area 1 and Camping area 2 remain closed until vegetation management can be undertaken by Queensland Parks and Wildlife Service (QPWS) rangers. This work is likely to be completed by Wednesday 31 July 2024. It is expected that the camping areas will be open from Thursday 1 August 2024.</p> <p>Please monitor park alerts for updated information.</p>",
+      "start_date": "2024-06-20",
+      "start_effective_date": "2024-06-19",
+      "end_date": "2024-07-31",
       "parks": [
         {
           "id": "148512",
@@ -1063,11 +1063,11 @@
       "title": "Wet season closure extension UPDATE, some areas of the Misty Mountains road and track network, Wooroonooran National Park",
       "alert_id": "23585",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23585",
-      "description": "Visitors are advised that due to continued further rain, the wet season closure applicable to sections of the Misty Mountains road and track network has been extended to Thursday 20 June 2024 (date inclusive). The seasonal closure helps to ensure the safety of visitors during North Queenslands wet season.",
-      "details": "<p>Visitors are advised that due to continued further rain, the wet season closure applicable to sections of the Misty Mountains road and track network has been extended to Thursday 20 June 2024 (date inclusive). The seasonal closure helps to ensure the safety of visitors during North Queenslands wet season.</p> <p><strong>Misty Mountains roads that will be closed during the seasonal closure are:</strong></p> <ul> <li>Maalan Road (off Palmerston Highway) and Bora Ground Road (these roads will remain closed to vehicles after 20&nbsp;June&nbsp;2024)</li> <li>K-Tree Road*</li> <li>Maple Creek Road.</li> </ul> <p><strong>Camping areas that will be closed during the seasonal closure are:</strong></p> <ul> <li>South Johnstone camping area*</li> <li>Carter Creek camping area</li> <li>Downey Creek camping area.</li> </ul> <p><strong>Walking/mountain bike tracks impacted by seasonal closure:</strong></p> <ul> <li>Gorrell track &ndash; CLOSED</li> <li>Cannabullen Creek track &ndash; CLOSED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li> </ul> <p><strong>Walking tracks and camp sites open (weather and condition dependant):</strong></p> <ul> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters waterhole camping area to Elizabeth Grant Falls).</li> </ul> <p><strong>*</strong>K-Tree Road and access to South Johnstone camping area has sustained damage during Tropical Cyclone Jasper. Continued wet season rain hampers ability to undertake remediation works. Predicting when K-Tree Road and access to South Johnstone camping area will be open is challenging and this park alert will be updated as work progresses.</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-10",
+      "description": "Visitors are advised that due to continued further rain, the wet season closure applicable to sections of the Misty Mountains road and track network has been extended to Friday 21 June 2024 (date inclusive). The seasonal closure helps to ensure the safety of visitors during North Queenslands wet season.",
+      "details": "<p>Visitors are advised that due to continued further rain, the wet season closure applicable to sections of the Misty Mountains road and track network has been extended to Friday 21 June 2024 (date inclusive). The seasonal closure helps to ensure the safety of visitors during North Queenslands wet season.</p> <p><strong>Misty Mountains roads that will be closed during the seasonal closure are:</strong></p> <ul> <li>Maalan Road (off Palmerston Highway) and Bora Ground Road (these roads will remain closed to vehicles after 21&nbsp;June&nbsp;2024)</li> <li>K-Tree Road*</li> <li>Maple Creek Road.</li> </ul> <p><strong>Camping areas that will be closed during the seasonal closure are:</strong></p> <ul> <li>South Johnstone camping area*</li> <li>Carter Creek camping area</li> <li>Downey Creek camping area.</li> </ul> <p><strong>Walking/mountain bike tracks impacted by seasonal closure:</strong></p> <ul> <li>Gorrell track &ndash; CLOSED</li> <li>Cannabullen Creek track &ndash; CLOSED&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li> </ul> <p><strong>Walking tracks and camp sites open (weather and condition dependant):</strong></p> <ul> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters waterhole camping area to Elizabeth Grant Falls).</li> </ul> <p><strong>*</strong>K-Tree Road and access to South Johnstone camping area has sustained damage during Tropical Cyclone Jasper. Continued wet season rain hampers ability to undertake remediation works. Predicting when K-Tree Road and access to South Johnstone camping area will be open is challenging and this park alert will be updated as work progresses.</p> <p>&nbsp;</p>",
+      "start_date": "2024-06-20",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-06-20",
+      "end_date": "2024-06-21",
       "parks": [
         {
           "id": "151396",
@@ -1253,9 +1253,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23645",
       "description": "Due to the potential for rock fall associated with construction works on private property above the Lower Bellbird track, a section of the walking track will be temporarily closed between Rankins Paddock and the junction of the Ships Stern circuit until further notice, to ensure visitor safety.",
       "details": "<p>Due to the potential for rock fall associated with construction works on private property above the Lower Bellbird track, a section of the walking track will be temporarily closed between Rankins Paddock and the junction of the Ships Stern circuit until further notice, to ensure visitor safety.</p> <p>Visitors will still be able to access the Ships Stern circuit, however, will be required to exit via the upper section of the Lower Bellbird track.</p> <p>The temporary closure will also affect a portion of the Gold Coast Hinterland Great Walks (GCHGW). Visitors intending to walk the GCHGW will be required to deviate along the Caves track rather than the Lower Bellbird track to continue the GCHGW.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts are regularly updated regarding condition on park.</p>",
-      "start_date": "2024-05-28",
+      "start_date": "2024-06-20",
       "start_effective_date": "2024-01-08",
-      "end_date": "2024-06-28",
+      "end_date": "2024-07-31",
       "parks": [
         {
           "id": "148271",
@@ -1655,14 +1655,14 @@
       ]
     },
     {
-      "title": "Temporary track closure: Musgravea track: Djiru National Park.",
+      "title": "Temporary track closure: Musgravea track: Djiru National Park",
       "alert_id": "23836",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23836",
       "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.",
       "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
-      "start_date": "2024-06-14",
+      "start_date": "2024-06-20",
       "start_effective_date": "2024-02-26",
-      "end_date": "2024-06-23",
+      "end_date": "2024-06-30",
       "parks": [
         {
           "id": "147950",
@@ -1857,9 +1857,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23915",
       "description": "Due to significant fallen trees and landslide which is obstructing the track and impeding safe visitor access, the West Canungra Creek circuit in the Green Mountains section of Lamington National Park is only partially open in a clockwise direction to Yerralahla Pool (Blue Pool). Walkers must return the same way.",
       "details": "<p>Due to significant fallen trees and landslide which is obstructing the track and impeding safe visitor access, the West Canungra Creek circuit in the Green Mountains section of Lamington National Park is only partially open in a clockwise direction to Yerralahla Pool (Blue Pool). Walkers must return the same way.</p> <p>As a result, the <strong>West Canungra Creek circuit</strong> remains partially <strong>closed </strong>until declared safe.</p> <ul> <li>Access to Yerralahla Pool (Blue Pool) is open in a clockwise direction only. Walkers must return the same way.</li> <li>The remainder of the West Canungra Creek circuit remains temporarily closed until the track is declared safe for visitors.</li> </ul> <p>Other walking track closures for Lamington National Park include:</p> <ul> <li>The Morans Falls track in Green Mountains section (<a href=\"https://parks.des.qld.gov.au/park-alerts/23796\">Park alert: Temporary track closure - Morans Falls track (des.qld.gov.au)</a>;&nbsp;and</li> <li>The Lower Bellbird track in Binna Burra section (<a href=\"https://parks.des.qld.gov.au/park-alerts/23645\">Park alert: Temporary walking track closure - Lower Bellbird track (des.qld.gov.au)</a></li> </ul> <p>All other walking tracks within Lamington National Park remain open for visitor access (except for&nbsp;those listed herein and identified in separate Park Alerts).</p> <p>Observe all signage, barriers, and directions from rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please check Park Alerts as they are regularly updated regarding conditions on park.</p>",
-      "start_date": "2024-05-23",
+      "start_date": "2024-06-20",
       "start_effective_date": "2024-03-26",
-      "end_date": "2024-06-28",
+      "end_date": "2024-07-31",
       "parks": [
         {
           "id": "148271",
@@ -2220,23 +2220,6 @@
           "id": "148616",
           "name": "Mount Cook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
-        }
-      ]
-    },
-    {
-      "title": "Planned works for Amamoor Creek Campground",
-      "alert_id": "24047",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24047",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Amamoor State Forest from 17 June 2024 to 19 June 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Amamoor State Forest from 17 June 2024 to 19 June 2024 (weather permitting).</p> <p>The following areas at Amamoor State Forest are closed for the duration of the maintenance program.</p> <p>Amamoor Creek Campground</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p>",
-      "start_date": "2024-05-10",
-      "start_effective_date": "2024-06-17",
-      "end_date": "2024-06-19",
-      "parks": [
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/amamoor"
         }
       ]
     },
@@ -2847,11 +2830,11 @@
       "title": "Rock Pools Day use area, walking tracks and carpark closure",
       "alert_id": "24141",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24142",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking Carpark resurfacing works and Boulder Creek Causeway upgrade from 13 June to 21 June 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking Carpark resurfacing works and Boulder Creek Causeway upgrade from 13 June to 21 June 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Please mointor park alerts on the department website for updated information.&nbsp;&nbsp;&nbsp;</p>",
-      "start_date": "2024-06-07",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking Carpark resurfacing works and Boulder Creek Causeway upgrade from 13 June to 25 June 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking Carpark resurfacing works and Boulder Creek Causeway upgrade from 13 June to 25 June 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Please monitor park alerts on the department website for updated information.&nbsp;&nbsp;&nbsp;</p>",
+      "start_date": "2024-06-20",
       "start_effective_date": "2024-06-13",
-      "end_date": "2024-06-21",
+      "end_date": "2024-06-25",
       "parks": [
         {
           "id": "148111",
@@ -3153,23 +3136,6 @@
       ]
     },
     {
-      "title": "Planned works for Booloumba Creek camping areas",
-      "alert_id": "24179",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24180",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Conondale National Park from 18 June to 20 June 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Conondale National Park from 18 June to 20 June 2024 (weather permitting).</p> <p>The following areas at Booloumba Creek are closed for the duration of the maintenance program:</p> <ul> <li>Booloumba Creek 1 camping area</li> <li>Booloumba Creek 3 camping area</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-06-13",
-      "start_effective_date": "2024-06-13",
-      "end_date": "2024-06-19",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure: Society Flat rainforest walk, Kirrama National Park",
       "alert_id": "24180",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24181",
@@ -3385,23 +3351,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Davies Creek National Park",
-      "alert_id": "24192",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24193",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities along Bridle Creek Road starting on 17 June 2024. During this period, all visitor facilities will remain open but visitors are advised that smoke will be visible in the area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities along Bridle Creek Road starting on 17 June 2024. During this period, all visitor facilities will remain open but visitors are advised that smoke will be visible in the area.</p> <p>Please travel safely and abide by signage and directions from local rangers.</p>",
-      "start_date": "2024-06-18",
-      "start_effective_date": "2024-06-17",
-      "end_date": "2024-06-19",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
       "title": "Planned burns: Annan River (Yuku Baja-Muliku) National Park and Resources Reserve",
       "alert_id": "24193",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24194",
@@ -3600,6 +3549,23 @@
           "id": "149397",
           "name": "Macalister Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Tuchekoi National Park",
+      "alert_id": "24204",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24205",
+      "description": "Noosa Shire Council and Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) on Friday 21st June, 2024, as part of the fire management program for Tuchekoi National Park.",
+      "details": "<p>Noosa Shire Council and Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) on Friday 21st June, 2024, as part of the fire management program for Tuchekoi National Park.</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn, sections of the&nbsp;Cooroora shared trail network will be&nbsp;closed to public access.</p> <p>Smoke may be seen in the vicinity of School Road, Pomona. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-20",
+      "start_effective_date": "2024-06-20",
+      "end_date": "2024-06-28",
+      "parks": [
+        {
+          "id": "148051",
+          "name": "Tuchekoi National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tuchekoi"
         }
       ]
     }
