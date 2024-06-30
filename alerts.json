@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2024-06-29 10:06:39"
+    "alerts_count": 160,
+    "script_run_time": "2024-06-30 10:06:32"
   },
   "alerts": [
     {
@@ -2959,6 +2959,23 @@
       ]
     },
     {
+      "title": "Planned Aerial Burn - Cape Hillsborough National Park",
+      "alert_id": "24226",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24227",
+      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned aerial burning within Cape Hillsborough National Park from Tuesday 9 July to Thursday 11 July 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned aerial burning within Cape Hillsborough National Park from Tuesday 9 July to Thursday 11 July 2024.</p> <p>This planned burn forms part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>As a result, the Beachcomber Cove track, Yuwi plant trail and Andrews Point track will be closed for public access for the duration of the burn.</p> <p>For more information, please contact the QPWS&amp;P&nbsp;Mackay office on (07) 4999 8591.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-06-30",
+      "start_effective_date": "2024-07-09",
+      "end_date": "2024-07-11",
+      "parks": [
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+        }
+      ]
+    },
+    {
       "title": "Open with caution: Wet Tropics Great Walk, Girringun National Park",
       "alert_id": "24227",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24228",
@@ -2987,6 +3004,23 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Munga-Thirri National Park closed due to wet conditions",
+      "alert_id": "24229",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24229",
+      "description": "Munga-Thirri National Park is closed due to wet conditions after rain. The Bureau of Meteorology is predicting further wet weather during the coming days. This closure will remain in place until Friday the 5th of July, when conditions will be reviewed.",
+      "details": "<p>Munga-Thirri National Park is closed due to wet conditions after rain. The Bureau of Meteorology is predicting further wet weather during the coming days. This closure will remain in place until Friday the 5th of July, when conditions will be reviewed.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
+      "start_date": "2024-06-30",
+      "start_effective_date": "2024-06-30",
+      "end_date": "2024-07-05",
+      "parks": [
+        {
+          "id": "148564",
+          "name": "Munga-Thirri National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
         }
       ]
     }
