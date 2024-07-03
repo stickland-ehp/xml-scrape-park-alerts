@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 151,
-    "script_run_time": "2024-07-02 10:07:17"
+    "alerts_count": 150,
+    "script_run_time": "2024-07-03 10:07:49"
   },
   "alerts": [
     {
@@ -2631,43 +2631,6 @@
           "id": "147955",
           "name": "Noosa National Park",
           "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
-      "title": "Forecasted wet weather for Diamantina National Park, Munga-Thirri National Park, Welford National Park, Idalia National Park and Lochern National Park",
-      "alert_id": "24224",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24225",
-      "description": "The Bureau of Meteorology is predicting wet weather to affect a large area of Central West over the next few days. This includes Diamantina National Park, Munga-Thirri National Park, Welford National Park, Idalia National Park and Lochern National Park. Visitors intending to visit the above parks are advised that internal roads can become undrivable after as little as 5mm of rain.",
-      "details": "<p>The Bureau of Meteorology is predicting wet weather to affect a large area of Central West over the next few days. This includes Diamantina National Park, Munga-Thirri National Park, Welford National Park, Idalia National Park and Lochern National Park. Visitors intending to visit the above parks are advised that internal roads can become undrivable after as little as 5mm of rain.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-06-28",
-      "start_effective_date": "2024-06-28",
-      "end_date": "2024-07-02",
-      "parks": [
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lochern"
-        },
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/idalia"
-        },
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/welford"
-        },
-        {
-          "id": "148564",
-          "name": "Munga-Thirri National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
-        },
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/diamantina"
         }
       ]
     },
