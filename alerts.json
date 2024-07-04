@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 150,
-    "script_run_time": "2024-07-03 10:07:49"
+    "alerts_count": 153,
+    "script_run_time": "2024-07-04 10:07:34"
   },
   "alerts": [
     {
@@ -784,10 +784,10 @@
       "alert_id": "23450",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23450",
       "description": "Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.",
-      "details": "<p>Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.</p> <p>The following visitor areas have changed conditions:</p> <ul> <li>West Gap Creek picnic area will be closed from 6am Monday through to 6pm Friday. It will be open Saturday and Sunday each week, with some carpark area fenced from the public.</li> <li>During construction, there is a temporary reduction in the number of carparking spaces&nbsp;at The Crest.</li> <li>Mount Mitchell track has been temporarily realigned and&nbsp;can be accessed from the western side of The Crest carpark via a temporary pedestrian crossing.</li> <li>Visitors may wish to park at West Gap Creek picnic area during the weekend for access to the Mt Cordeaux, Mt Mitchell, Bare Rock and Rainforest circuit tracks, via Box Forest track.&nbsp;</li> </ul> <p>Road conditions and roadworks signage&nbsp;may vary depending on the stage of construction, and visitors are asked to follow all instructions and drive safely to road conditions.</p> <p>For more information, please visit the Department of Transport and Main Roads website:&nbsp;<a href=\"https://www.tmr.qld.gov.au/projects/cunningham-highway-ipswich-warwick-2020-disaster-recovery-funding-arrangements-reconstruction-works\">Cunningham Highway (Ipswich &ndash; Warwick), 2020 Disaster Recovery Funding Arrangements reconstruction works | Department of Transport and Main Roads (tmr.qld.gov.au)</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-06-05",
+      "details": "<p>Due to current and ongoing restoration works on the Cunningham Highway, walking tracks and visitor areas at the Cunninghams Gap section of Main Range National Park have been temporarily affected.</p> <p>The following visitor areas have changed conditions:</p> <p><strong>From Tuesday 9 July, 2024:</strong></p> <ul> <li>Access to The Crest carpark will be closed to all traffic from the Cunningham Highway.</li> <li>Mount Mitchell track has been temporarily realigned and&nbsp;can be accessed from the western side of The Crest carpark via a temporary pedestrian crossing.</li> <li>Visitors are encouraged to park at West Gap Creek picnic area 1.7km west from The Crest carpark.</li> <li>All Cunningham Gap section walking tracks start from the West Gap Creek picnic area,&nbsp;via the Box Forest track. This includes&nbsp;Mount Cordeaux, Mount Mitchell, Bare Rock and the Rainforest circuit tracks. Walkers need to be aware of the extra 5km this will add to their intended walk.&nbsp;</li> <li>Visitors are reminded that parking along the Cunningham Highway is not prohibited.&nbsp;</li> </ul> <p>Road conditions and roadworks signage&nbsp;may vary depending on the stage of construction, and visitors are asked to follow all instructions and drive safely to road conditions.</p> <p>For more information, please visit the Department of Transport and Main Roads website:&nbsp;<a href=\"https://www.tmr.qld.gov.au/projects/cunningham-highway-ipswich-warwick-2020-disaster-recovery-funding-arrangements-reconstruction-works\">Cunningham Highway (Ipswich &ndash; Warwick), 2020 Disaster Recovery Funding Arrangements reconstruction works | Department of Transport and Main Roads (tmr.qld.gov.au)</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-07-04",
       "start_effective_date": "2023-11-10",
-      "end_date": "2024-07-31",
+      "end_date": "2025-07-04",
       "parks": [
         {
           "id": "148480",
@@ -916,14 +916,14 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Wallicher Falls walking track and bottom section of Nandroya Falls walking track, Wooroonooran National Park",
+      "title": "Temporary walking track closure: Wallicher Falls, Wooroonooran National Park",
       "alert_id": "23571",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23571",
-      "description": "Following the impacts of ex-Tropical Cyclone Jasper, the following are currently closed until further notice:",
-      "details": "<p>Following the impacts of ex-Tropical Cyclone Jasper, the following are currently closed until further notice:</p> <ul> <li>Wallicher Falls walking track&nbsp;</li> <li>Nandroyer Falls top track is open, however the alternate bottom track is closed. Track repairs are in progress.</li> </ul> <p>Monitor park alerts for current information.&nbsp;</p> <p>For information on the condition of the Palmerston Highway, please visit Department of Transport and Main Roads at&nbsp;<a href=\"https://qldtraffic.qld.gov.au/\">QldTraffic</a></p>",
-      "start_date": "2024-06-26",
+      "description": "Following the impacts of ex-Tropical Cyclone Jasper, Wallicher Falls walking track is closed until further notice.",
+      "details": "<p>Following the impacts of ex-Tropical Cyclone Jasper, Wallicher Falls walking track is closed until further notice.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "start_date": "2024-07-04",
       "start_effective_date": "2023-12-16",
-      "end_date": "2024-07-12",
+      "end_date": "2024-07-11",
       "parks": [
         {
           "id": "151396",
@@ -1465,9 +1465,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23836",
       "description": "The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.",
       "details": "<p>The Musgravea track in Djiru National Park is temporarily closed for visitor safety, due to a landslip associated with recent significant rainfall.</p> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
-      "start_date": "2024-06-27",
+      "start_date": "2024-07-04",
       "start_effective_date": "2024-02-26",
-      "end_date": "2024-07-07",
+      "end_date": "2024-07-14",
       "parks": [
         {
           "id": "147950",
@@ -1584,14 +1584,14 @@
       ]
     },
     {
-      "title": "Open with caution for high clearance vehicles: Bartle Frere access road (western trailhead), Wooroonooran National Park",
+      "title": "Temporary road closure: Bartle Frere access road (western trailhead), Wooroonooran National Park",
       "alert_id": "23899",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23899",
-      "description": "The Bartle Frere access road at the western trailhead has reopened to high clearance vehicles only, and visitors are advised to drive with caution. During this period, visitors without high clearance vehicles can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.",
-      "details": "<p>The Bartle Frere access road at the western trailhead has reopened to high clearance vehicles only, and visitors are advised to drive with caution. During this period, visitors without high clearance vehicles can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change following periods of rainfall. Short-term temporary closures may occur to assist visitor safety and limit damage to the road surface.</p> <p>&nbsp;</p>",
-      "start_date": "2024-06-25",
+      "description": "Bartle Frere access road (western trailhead) is temporarily closed to motorised vehicles. This closure is in place to maintain safety and the road condition during the current wet weather.",
+      "details": "<p>Bartle Frere access road (western trailhead) is temporarily closed to motorised vehicles. This closure is in place to maintain safety and the road condition during the current wet weather.</p> <p>Visitors can access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.&nbsp;During this period there will be no vechicle access to Junction camping area.</p> <p>Please continue to monitor park alerts as this access information will change as conditions allow.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area (in a motorised vehicle).</p> <p>&nbsp;</p>",
+      "start_date": "2024-07-04",
       "start_effective_date": "2024-03-20",
-      "end_date": "2024-12-31",
+      "end_date": "2024-08-05",
       "parks": [
         {
           "id": "148468",
@@ -1701,9 +1701,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23963",
       "description": "Visitors are advised to proceed with caution when accessing the Diggings camping area due to deteriorating road conditions on the Diggings/Hazelwood Road.",
       "details": "<p>Visitors are advised to proceed with caution when accessing the Diggings camping area due to deteriorating road conditions on the Diggings/Hazelwood Road.</p> <p>Following heavy wet season rains, sections of Hazelwood Road have significant road ruts and potholes. Drive to the prevailing conditions, your level of experience and adhere to all&nbsp;safety signage and access advise.</p> <p>QPWS is currently working with the owners of the road towards a solution to restore suitable access to the Diggings camping area.</p>",
-      "start_date": "2024-04-18",
+      "start_date": "2024-07-04",
       "start_effective_date": "2024-04-11",
-      "end_date": "2024-07-07",
+      "end_date": "2024-10-01",
       "parks": [
         {
           "id": "148215",
@@ -2816,6 +2816,112 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Poison canisters washing up on Southeast Queensland beaches",
+      "alert_id": "24236",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24236",
+      "description": "Queensland Parks and Wildlife Service (QPWS) is warning visitors of the potential dangers posed by toxic canisters washing up on Queensland beaches.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) is warning visitors of the potential dangers posed by toxic canisters washing up on Queensland beaches.</p> <p>Since February 2012, emergency services have received reports from the public of small unlabelled canisters washing up on Australian beaches. QPWS continue to receive reports of these canisters washing up on beaches at K&rsquo;gari, Mulgumpin (Moreton Island) and Minjerribah (North Stradbroke Island).</p> <p><strong>The canisters contain a rat poison known as &lsquo;aluminium phosphide&rsquo;, a white to grey solid which is hazardous to humans.</strong></p> <p>When the canister is opened, the powder reacts with moisture in the air to release phosphine gas, which is also highly toxic to humans. The gas has a strong odour that can smell like garlic, rotting fish or urine, but it can quickly dull the sense of smell.</p> <p>Exposure can cause symptoms such as headaches, nausea, vomiting, difficulty breathing, dizziness, tightness of the chest, diarrhoea, fluid in the lungs, liver/kidney damage, and in severe cases death.</p> <p>The gas is also flammable and can spontaneously ignite causing burns or small explosions.</p> <p>The canisters are silver in colour and approximately 22 centimetres tall. They have a tapered top with a screw in lid. Visit&nbsp;<a href=\"https://www.amsa.gov.au/news-community/news-and-media-releases/poison-canister-warning\">https://www.amsa.gov.au/news-community/news-and-media-releases/poison-canister-warning(external link)</a>&nbsp;for images of the canisters.</p> <p><strong>Canisters should not&nbsp;<strong>be moved or opened, and any sightings should be reported to emergency services on Triple Zero (000).</strong></strong></p>",
+      "start_date": "2024-07-04",
+      "start_effective_date": "2024-07-04",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "149369",
+          "name": "Woody Island (Tooliewah) and Little Woody Island (Walangoora), Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-woody"
+        },
+        {
+          "id": "148552",
+          "name": "Teerk Roo Ra National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/teerk-roo-ra"
+        },
+        {
+          "id": "149377",
+          "name": "St Helena Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/st-helena-island"
+        },
+        {
+          "id": "150256",
+          "name": "Southern Moreton Bay Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/southern-moreton-bay"
+        },
+        {
+          "id": "151400",
+          "name": "South Stradbroke Island Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/south-stradbroke-island"
+        },
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
+        },
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
+      "title": "Feral animal control planned on Minjerribah (North Stradbroke Island)",
+      "alert_id": "24237",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24237",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) together with members of the Straddie Pest Management Group will be conducting feral animal control measures on North Stradbroke Island from 8 July to 30 September 2024.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) together with members of the Straddie Pest Management Group will be conducting feral animal control measures on North Stradbroke Island from 8 July to 30 September 2024.</p> <p><strong>This integrated feral animal control will include the&nbsp;use of 1080 baits to protect&nbsp;wildlife from predation.</strong></p> <p>Baiting using 1080 is subject to strict regulatory conditions set down by the Queensland Department of Health and Biosecurity Queensland. No baiting will occur until all required conditions have been met.</p> <p>Precautionary measures include buffers of townships and residential areas and other mechanisms to protect wildlife and waterways will be&nbsp;in place.&nbsp;</p> <p>Residents and visitors to North Stradbroke Island are requested to keep domestic animals under tight control and pay&nbsp;specific attention to any signage during this control period.&nbsp;</p> <p>For more information, please contact&nbsp;<a href=\"mailto:info@straddiepest.org\">info@straddiepest.org</a></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-07-04",
+      "start_effective_date": "2024-07-08",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
+        }
+      ]
+    },
+    {
+      "title": "Event - Noosa Day-use area, Noosa National Park",
+      "alert_id": "24239",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24239",
+      "description": "Queensland Parks and Wildlife Service, Noosa Shire Council and Maritime Safety Queensland are currently working together to remove a vessel that has washed up on the beach at Noosa National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service, Noosa Shire Council and Maritime Safety Queensland are currently working together to remove a vessel that has washed up on the beach at Noosa National Park.</p> <p>Sections of the day-use area will be closed for machinery to remove the vessel and make area safe.&nbsp;<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-07-04",
+      "start_effective_date": "2024-07-04",
+      "end_date": "2024-07-08",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
         }
       ]
     }
