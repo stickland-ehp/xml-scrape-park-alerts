@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 153,
-    "script_run_time": "2024-07-04 10:07:34"
+    "alerts_count": 154,
+    "script_run_time": "2024-07-05 10:08:14"
   },
   "alerts": [
     {
@@ -818,10 +818,10 @@
       "alert_id": "23453",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23453",
       "description": "Oyala Thumotang National Park (CYPAL) is now open.",
-      "details": "<p>Oyala Thumotang National Park (CYPAL) is now open.</p> <p>The following camping areas are open with a 6 month booking horizon:</p> <ul> <li>Jerry Lagoon</li> <li>Twin Lagoons 1</li> <li>Twin Lagoons 2</li> <li>10 Mile Junction</li> <li>Old Archer Crossing</li> <li>Mango Lagoon 1</li> <li>Mango Lagoon 2&nbsp;&nbsp;</li> <li>First Coen River</li> <li>Second Coen River</li> <li>Chong Swamp</li> </ul> <p>The following camping areas are open with a 1 month booking horizon:</p> <ul> <li>Vardons Lagoon</li> <li>Governors Waterhole</li> </ul> <p>The following camping area remains closed until further notice:</p> <ul> <li>Horsetailer Waterhole.</li> </ul> <p>Please monitor park alerts for current information.</p> <p>For further information please contact the Coen Ranger Base on 4060 1137</p> <p>&nbsp;</p>",
-      "start_date": "2024-07-01",
+      "details": "<p>Oyala Thumotang National Park (CYPAL) is now open.</p> <p>The following camping areas are open with a 6 month booking horizon:</p> <ul> <li>Jerry Lagoon</li> <li>Twin Lagoons 1</li> <li>Twin Lagoons 2</li> <li>10 Mile Junction</li> <li>Old Archer Crossing</li> <li>Mango Lagoon 1</li> <li>Mango Lagoon 2&nbsp;&nbsp;</li> <li>First Coen River</li> <li>Second Coen River</li> <li>Chong Swamp</li> </ul> <p>The following camping areas are open with a 1 month booking horizon:</p> <ul> <li>Vardons Lagoon</li> <li>Governors Waterhole</li> </ul> <p><strong>The following camping area remains closed until further notice:</strong></p> <ul> <li>Horsetailer Waterhole.</li> </ul> <p>Please monitor park alerts for current information.</p> <p>For further information please contact the Coen Ranger Base on 4060 1137</p> <p>&nbsp;</p>",
+      "start_date": "2024-07-05",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-07-07",
+      "end_date": "2024-07-08",
       "parks": [
         {
           "id": "148933",
@@ -1409,11 +1409,11 @@
       "title": "Planned works in Nerang National Park",
       "alert_id": "23820",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23820",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 5 July 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 5 July 2024 (weather permitting).</p> <p>Works will be undertaken away from existing mountain bike trails, however there may be some additional machinery and vehicle movements in the vicinity of the Gold Coast Cycle Centre entry to the park and around the Casuarina Grove circuit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-06-18",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 12 July 2024 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 12 July 2024 (weather permitting).</p> <p>Works will be undertaken away from existing mountain bike trails, however there may be some additional machinery and vehicle movements in the vicinity of the Gold Coast Cycle Centre entry to the park and around the Casuarina Grove circuit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-07-05",
       "start_effective_date": "2024-02-20",
-      "end_date": "2024-07-05",
+      "end_date": "2024-07-12",
       "parks": [
         {
           "id": "147971",
@@ -2769,23 +2769,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Gillies Range and Robsons Track, Little Mulgrave National Park",
-      "alert_id": "24233",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24233",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities at the base of Gillies Range Road on Tuesday 2 July 2024. Robsons Track will be closed during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities at the base of Gillies Range Road on Tuesday 2 July 2024. Robsons Track will be closed during this period.</p> <p>Expect traffic delays up to Huntsbrook Creek, as well as smoke over the road. Motorists are requested to travel with caution through this area and adhere to traffic control.</p> <p>Hazard reduction burns promote safety of the wider community, as well as our ecosystems.</p> <p>Your safety is our concern, but your responsibility.</p>",
-      "start_date": "2024-07-02",
-      "start_effective_date": "2024-07-02",
-      "end_date": "2024-07-04",
-      "parks": [
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Endeavour River National Park",
       "alert_id": "24234",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24234",
@@ -2922,6 +2905,50 @@
           "id": "147955",
           "name": "Noosa National Park",
           "url": "https://parks.desi.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Smalleys Beach Camping Area water supply currently unavailable",
+      "alert_id": "24241",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24241",
+      "description": "Water supply to Smalleys Beach Campground, including toilet hand wash basins is currently unavailable due to suspected leak. Queensland Parks &amp; Wildlife Service is working to identify and resolve the issue as soon as practically possible.",
+      "details": "<p>Water supply to Smalleys Beach Campground, including toilet hand wash basins is currently unavailable due to suspected leak. Queensland Parks &amp; Wildlife Service is working to identify and resolve the issue as soon as practically possible.</p>",
+      "start_date": "2024-07-05",
+      "start_effective_date": "2024-07-05",
+      "end_date": "2024-07-12",
+      "parks": [
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+        }
+      ]
+    },
+    {
+      "title": "Access information: Blencoe Falls, Girringun National Park",
+      "alert_id": "24242",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24242",
+      "description": "Access to Blencoe Falls camping area from Kirrama Range Road may be impassable during or after wet weather. Visitors are advised to check weather and road conditions before travelling.",
+      "details": "<p>Access to Blencoe Falls camping area from Kirrama Range Road may be impassable during or after wet weather. Visitors are advised to check weather and road conditions before travelling.</p> <p>For further information please contact Tablelands Regional Council on 1300 362 242 or Princess Hills Ranger Base on (07) 4097 1448.</p>",
+      "start_date": "2024-07-05",
+      "start_effective_date": "2024-07-05",
+      "end_date": "2024-07-12",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "148179",
+          "name": "Kirrama National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kirrama"
+        },
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
         }
       ]
     }
