@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 152,
-    "script_run_time": "2024-07-08 10:08:12"
+    "alerts_count": 156,
+    "script_run_time": "2024-07-09 10:07:50"
   },
   "alerts": [
     {
@@ -834,9 +834,9 @@
       "title": "Temporary camping area closure: Halifax Bay Wetlands National Park",
       "alert_id": "23456",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23456",
-      "description": "Halifax Bay Wetlands National Park is now open for day use, with visitors able to use existing dry track networks. Camping area 1 and Camping area 2 remain closed until vegetation management can be undertaken by Queensland Parks and Wildlife Service (QPWS) rangers. This work is likely to be completed by Wednesday 31 July 2024. It is expected that the camping areas will be open from Thursday 1 August 2024.",
-      "details": "<p>Halifax Bay Wetlands National Park is now open for day use, with visitors able to use existing dry track networks. Camping area 1 and Camping area 2 remain closed until vegetation management can be undertaken by Queensland Parks and Wildlife Service (QPWS) rangers. This work is likely to be completed by Wednesday 31 July 2024. It is expected that the camping areas will be open from Thursday 1 August 2024.</p> <p>Please monitor park alerts for updated information.</p>",
-      "start_date": "2024-06-20",
+      "description": "Halifax Bay Wetlands National Park is currently open for day use only, with visitors able to use existing dry track networks.",
+      "details": "<p>Halifax Bay Wetlands National Park is currently open for day use only, with visitors able to use existing dry track networks.</p> <p>Camping area 1 will remain closed until vegetation management can be undertaken by Queensland Parks and Wildlife Service rangers. It is anticipated to reopen Thursday 1 August 2024.</p> <p>Camping area 2 will remain closed until further notice.</p> <p>Please monitor park alerts for updated information.</p>",
+      "start_date": "2024-07-09",
       "start_effective_date": "2024-06-19",
       "end_date": "2024-07-31",
       "parks": [
@@ -2404,28 +2404,6 @@
       ]
     },
     {
-      "title": "Thorsborne Trail camping area enhancement works",
-      "alert_id": "24198",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24199",
-      "description": "South Zoe Bay camping areas will be undergoing preliminary works from the 2nd  8th July 2024.",
-      "details": "<p>South Zoe Bay camping areas will be undergoing preliminary works from the 2nd  8th July 2024.</p> <p>All camping areas and tracks will remain open during this time. Some of the beach campsites at South Zoe Bay camping area may be closed at times, please remember to use the forest campsites 100m along the Zoe Falls track. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
-      "start_date": "2024-06-19",
-      "start_effective_date": "2024-07-01",
-      "end_date": "2024-07-08",
-      "parks": [
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        },
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closure: Old Coen walking track, Kutini-Payamu (Iron Range) National Park (CYPAL)",
       "alert_id": "24200",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24201",
@@ -2768,23 +2746,6 @@
       ]
     },
     {
-      "title": "Event - Noosa Day-use area, Noosa National Park",
-      "alert_id": "24239",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24239",
-      "description": "Queensland Parks and Wildlife Service, Noosa Shire Council and Maritime Safety Queensland are currently working together to remove a vessel that has washed up on the beach at Noosa National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service, Noosa Shire Council and Maritime Safety Queensland are currently working together to remove a vessel that has washed up on the beach at Noosa National Park.</p> <p>Sections of the day-use area will be closed for machinery to remove the vessel and make area safe.&nbsp;<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-07-04",
-      "start_effective_date": "2024-07-04",
-      "end_date": "2024-07-08",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Smalleys Beach Camping Area water supply currently unavailable",
       "alert_id": "24241",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24241",
@@ -2915,6 +2876,123 @@
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Planned works - Coastal Walk detour - Noosa National Park",
+      "alert_id": "24248",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24248",
+      "description": "A section of the Coastal Walk between Granite Bay and Hell's Gates will be closed from Monday 8th July to Friday 9th August, 2024. This section will be temporarily closed as the Queensland Parks and Wildlife Service (QPWS) and contractors work to upgrade the track. Track detours will be in place to ensure visitors can still access Hells Gate, Alexandria Bay and Sunshine Beach.",
+      "details": "<p>A section of the Coastal Walk between Granite Bay and Hell's Gates will be closed from Monday 8th July to Friday 9th August, 2024. This section will be temporarily closed as the Queensland Parks and Wildlife Service (QPWS) and contractors work to upgrade the track. Track detours will be in place to ensure visitors can still access Hells Gate, Alexandria Bay and Sunshine Beach.</p> <p>These improvements will provide resilience against high visitation use and enhance the overall visitor experience.&nbsp;&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-07-09",
+      "start_effective_date": "2024-07-08",
+      "end_date": "2024-08-09",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24249",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24249",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "start_date": "2024-07-09",
+      "start_effective_date": "2024-07-09",
+      "end_date": "2024-07-10",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "Announcement: Bribie Island National Park and Recreation Area pest management program for feral animals.",
+      "alert_id": "24250",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24250",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) is continuing to protect critical habitat supporting threatened species on Bribie Island through its pest management program for feral animals.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) is continuing to protect critical habitat supporting threatened species on Bribie Island through its pest management program for feral animals.</p> <p>Feral animals, such as pigs, foxes and horses pose a significant threat to our natural environment by disrupting ecosystems and negatively impacting native species. To address these environmental concerns, we actively engage in annual pest management programs to control their populations and minimise their impact, using a range of control techniques based on National Codes of Practice and Standard Operating Procedures.</p> <p><em>Visitor safety is our main priority, which is why during quieter periods, we implement temporary closures of campsites and other sections of Park to conduct necessary pest control activities to meet the objectives of our approved pest strategy. Park visitors play a crucial role in this effort and are kindly reminded to securely store their food and rubbish. This simple action helps prevent attracting pests and exacerbating the issue, ensuring a safer and healthier environment for all park users.</em></p> <p><em>Further information on the Department&rsquo;s Management programs for Pest plants and animals can be found at - <a href=\"https://parks.desi.qld.gov.au/management/programs/pest-plants-animals\">https://parks.desi.qld.gov.au/management/programs/pest-plants-animals</a></em></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please avoid interaction with the wildlife.</p>",
+      "start_date": "2024-07-09",
+      "start_effective_date": "2024-07-09",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
+      "title": "Lochern National Park temporarily closed due to wet weather",
+      "alert_id": "24251",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24251",
+      "description": "Lochern National Park is temporarily closed due to wet conditions until Thursday 11 July 2024 when conditions will be reviewed.",
+      "details": "<p>Lochern National Park is temporarily closed due to wet conditions until Thursday 11 July 2024 when conditions will be reviewed.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-07-09",
+      "start_effective_date": "2024-07-09",
+      "end_date": "2024-07-11",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Morgan Park Conservation Park",
+      "alert_id": "24252",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24252",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Morgan Park Conservation Park between 15-19 July, 2024, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Morgan Park Conservation Park between 15-19 July, 2024, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.&nbsp;&nbsp;</p> <p>On the days of the planned burn, Morgan Park Conservation Park is temporarily closed to public access.</p> <p>Smoke may be seen south of Warwick and nearby areas.</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-09",
+      "start_effective_date": "2024-07-15",
+      "end_date": "2024-07-19",
+      "parks": [
+        {
+          "id": "322684",
+          "name": "Morgan Park Conservation Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Chance Bay camping area closure for barge and heli-lift operations for Ngaro track camp site and associated hiker infrastructure construction",
+      "alert_id": "24253",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24253",
+      "description": "Chance Bay camping area and adjacent beachfront will be closed due to barge and heli-lift operations from 6pm Saturday 20 July to 6pm Monday 22 July 2024 (weather permitting).",
+      "details": "<p>Chance Bay camping area and adjacent beachfront will be closed due to barge and heli-lift operations from 6pm Saturday 20 July to 6pm Monday 22 July 2024 (weather permitting).</p> <p>No public access to the site will be permitted during this closure. For your safety, please observe all signs, barriers and directions from rangers and do not enter closed areas or facilities. Please visit https://parks.desi.qld.gov.au/parks/whitsunday-islands for alternative nearby attractions and experiences.</p>",
+      "start_date": "2024-07-09",
+      "start_effective_date": "2024-07-12",
+      "end_date": "2024-07-23",
+      "parks": [
+        {
+          "id": "152875",
+          "name": "Whitsunday Ngaro Sea Trail",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
+        },
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        },
+        {
+          "id": "149365",
+          "name": "Whitsunday national park islands",
+          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
         }
       ]
     }
