@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 156,
-    "script_run_time": "2024-07-12 10:07:27"
+    "alerts_count": 151,
+    "script_run_time": "2024-07-13 10:06:39"
   },
   "alerts": [
     {
@@ -535,23 +535,6 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
-      "title": "Woralie Road Dump Ezy Temporary Closure",
-      "alert_id": "23117",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23117",
-      "description": "The Woralie Road Dump Ezy will be closed until further notice.",
-      "details": "<p>The Woralie Road Dump Ezy will be closed until further notice.</p> <p>Alternative Dump Ezy sites are located at Orchid Beach, Dundubara, Cornwell&rsquo;s Road (Eastern Beach) entrance and Hook Point Road 11km Exit.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-07-10",
-      "start_effective_date": "2023-07-13",
-      "end_date": "2024-07-12",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
@@ -1389,23 +1372,6 @@
       ]
     },
     {
-      "title": "Planned works in Nerang National Park",
-      "alert_id": "23820",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23820",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 12 July 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a planned upgrade program in Nerang National Park from Wednesday 21 February 2024 to Friday 12 July 2024 (weather permitting).</p> <p>Works will be undertaken away from existing mountain bike trails, however there may be some additional machinery and vehicle movements in the vicinity of the Gold Coast Cycle Centre entry to the park and around the Casuarina Grove circuit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-07-05",
-      "start_effective_date": "2024-02-20",
-      "end_date": "2024-07-12",
-      "parks": [
-        {
-          "id": "147971",
-          "name": "Nerang National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/nerang"
-        }
-      ]
-    },
-    {
       "title": "Upcoming planned burns",
       "alert_id": "23825",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23825",
@@ -1529,23 +1495,6 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Access road unsuitable for conventional vehicles: Broadwater, Abergowrie State Forest",
-      "alert_id": "23876",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23876",
-      "description": "Due to current wet conditions, the road to Broadwater has significant ruts and potholes and is not suitable for conventional vehicles.",
-      "details": "<p>Due to current wet conditions, the road to Broadwater has significant ruts and potholes and is not suitable for conventional vehicles.</p> <p>Access remains open for 4WD vehicles but visitors are asked to exercise caution, drive to the conditions and adhere to safety signage.</p>",
-      "start_date": "2024-06-28",
-      "start_effective_date": "2024-03-08",
-      "end_date": "2024-07-12",
-      "parks": [
-        {
-          "id": "150260",
-          "name": "Broadwater, Abergowrie State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/broadwater-abergowrie"
         }
       ]
     },
@@ -2700,33 +2649,6 @@
       ]
     },
     {
-      "title": "Access information: Blencoe Falls, Girringun National Park",
-      "alert_id": "24242",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24242",
-      "description": "Access to Blencoe Falls camping area from Kirrama Range Road may be impassable during or after wet weather. Visitors are advised to check weather and road conditions before travelling.",
-      "details": "<p>Access to Blencoe Falls camping area from Kirrama Range Road may be impassable during or after wet weather. Visitors are advised to check weather and road conditions before travelling.</p> <p>For further information please contact Tablelands Regional Council on 1300 362 242 or Princess Hills Ranger Base on (07) 4097 1448.</p>",
-      "start_date": "2024-07-05",
-      "start_effective_date": "2024-07-05",
-      "end_date": "2024-07-12",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "148179",
-          "name": "Kirrama National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kirrama"
-        },
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
-        }
-      ]
-    },
-    {
       "title": "Viewing platform closed: Red lily lagoon, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "24244",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24244",
@@ -2740,23 +2662,6 @@
           "id": "149481",
           "name": "Rinyirru (Lakefield) National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
-        }
-      ]
-    },
-    {
-      "title": "Welford National Park temporarily closed due to wet weather",
-      "alert_id": "24247",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24247",
-      "description": "Welford National Park is temporarily closed due to wet conditions after rain until Friday 12 July 2024 when conditions will be reviewed.",
-      "details": "<p>Welford National Park is temporarily closed due to wet conditions after rain until Friday 12 July 2024 when conditions will be reviewed.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-07-10",
-      "start_effective_date": "2024-07-08",
-      "end_date": "2024-07-12",
-      "parks": [
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/welford"
         }
       ]
     },
@@ -2878,23 +2783,6 @@
       ]
     },
     {
-      "title": "Happy Valley grid maintenance",
-      "alert_id": "24257",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24257",
-      "description": "ROAD CLOSURE - Happy Valley grid maintenance",
-      "details": "<p>ROAD CLOSURE - Happy Valley grid maintenance</p> <p>The Eastern beach entrance road access to/from Happy Valley Township will be closed between 06:00 and 13:00 - access to Happy Valley Township will be via the high tide access road from Yidney Rocks only</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-07-10",
-      "start_effective_date": "2024-07-12",
-      "end_date": "2024-07-12",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Red Rock - Byfield State Forest Park",
       "alert_id": "24259",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24259",
@@ -2964,6 +2852,23 @@
           "id": "148965",
           "name": "Undara Volcanic National Park",
           "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
+      "title": "Nearshore landslide Inskip Peninsula",
+      "alert_id": "24263",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24263",
+      "description": "Nearshore landslides are a common occurrence on the north facing beachfront of the Inskip Peninsula Recreation Area.",
+      "details": "<p>Nearshore landslides are a common occurrence on the north facing beachfront of the Inskip Peninsula Recreation Area.</p> <p>Campers and pedestrians should exercise caution and check access conditions as landslides can occur anywhere at any time. This is part of ongoing natural coastal erosion.&nbsp;</p> <p>For your safety and to avoid injuries:</p> <ul> <li>Keep well back from sand cliffs and waters&rsquo; edge as unstable beach sand may collapse without warning.</li> <li>Avoid swimming or wading around the landslide.</li> <li>Be aware that submerged objects and strong underwater currents may be present.</li> <li>Nearby trees or branches may fall at any time.</li> <li>Supervise children at all times on the beach.</li> <li>Observe all signage, barriers, and directions from Rangers, and do not enter closed areas.</li> </ul> <p>Ensure compliance with any signage for your safety.</p> <p>Report any unstable beach activity to 07 3087 8910.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-07-13",
+      "start_effective_date": "2024-07-12",
+      "end_date": "2025-01-12",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     },
