@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 151,
-    "script_run_time": "2024-07-14 10:08:48"
+    "alerts_count": 156,
+    "script_run_time": "2024-07-15 10:08:22"
   },
   "alerts": [
     {
@@ -2253,23 +2253,6 @@
       ]
     },
     {
-      "title": "Ridge Track Closure",
-      "alert_id": "24182",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24183",
-      "description": "Ridge Track Closed to all traffic from the Wall Day Use Area back to intersection of Bomber Track.",
-      "details": "<p>Ridge Track Closed to all traffic from the Wall Day Use Area back to intersection of Bomber Track.</p> <p>Closure of the Ridge Track is due to planned maintenance road works occurring using heavy plant and equipment .</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-06-26",
-      "start_effective_date": "2024-06-14",
-      "end_date": "2024-07-14",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
-        }
-      ]
-    },
-    {
       "title": "Ex HMAS Tobruk public mooring closed",
       "alert_id": "24190",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24191",
@@ -2800,23 +2783,6 @@
       ]
     },
     {
-      "title": "Mountain Bike Trail Closure",
-      "alert_id": "24260",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24260",
-      "description": "Mountain bike trail 4- Lorikeet will be closed for track maintenance.",
-      "details": "<p>Mountain bike trail 4- Lorikeet will be closed for track maintenance.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-07-12",
-      "start_effective_date": "2024-07-13",
-      "end_date": "2024-07-14",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/samford"
-        }
-      ]
-    },
-    {
       "title": "Brigalow General Permission Area Public Safety",
       "alert_id": "24261",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24261",
@@ -2903,6 +2869,130 @@
           "id": "148864",
           "name": "Carnarvon Gorge, Carnarvon National Park",
           "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burns: Bilwon State Forest",
+      "alert_id": "24267",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24267",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Bilwon State Forest on Tuesday 16 and Wednesday 17 July 2024. The park will reopen from Friday 19 July 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Bilwon State Forest on Tuesday 16 and Wednesday 17 July 2024. The park will reopen from Friday 19 July 2024.</p> <p>Please travel safely and abide by signage. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-15",
+      "end_date": "2024-07-18",
+      "parks": [
+        {
+          "id": "322398",
+          "name": "Bilwon State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned works  Closure of Noosa Headland section, Noosa National Park for Heli-lift operations",
+      "alert_id": "24268",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24268",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting heli-lift operations on Tuesday, 16th July 2024 from 6am to 5pm - Weather permitting. These works are part of the Coastal Walk upgrade to improve the facilities for visitors.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting heli-lift operations on Tuesday, 16th July 2024 from 6am to 5pm - Weather permitting. These works are part of the Coastal Walk upgrade to improve the facilities for visitors.</p> <p>The following areas and walking tracks will be <strong>closed</strong> during this time:</p> <ul> <li>Coastal Walk &ndash; between Dolphin Point and Hell&rsquo;s Gate.</li> <li>Tanglewood track.</li> <li>Noosa Hill track.</li> <li>Laguna Lookout &ndash; vehicle access closed from Viewland Drive. Pedestrian access only via Morwong Drive.</li> </ul> <p>The following areas and walking tracks that are <strong>open</strong> are:</p> <ul> <li>Noosa Day-use area and carpark on Park Road.</li> <li>Palm Grove circuit.</li> <li>Alexandria Bay from Park Edge Road only.</li> <li>Sunrise Beach stairs from McAnally Drive.</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-15",
+      "end_date": "2024-07-17",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn: Hartleys Creek Falls walking track, Macalister Range National Park",
+      "alert_id": "24269",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24269",
+      "description": "Hartleys Falls walking track will be temporarily closed on Wednesday 17 July 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes.",
+      "details": "<p>Hartleys Falls walking track will be temporarily closed on Wednesday 17 July 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes.</p> <p>Please adhere to all instructions by rangers and track closure signage.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-17",
+      "end_date": "2024-07-17",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary track closure: Bump Track, Mowbray National Park",
+      "alert_id": "24270",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24270",
+      "description": "The Bump Track in Mowbray National Park will be temporarily closed to all visitors between 6am and 6pm on Sunday 28 July for the Reef-to-Reef mountain bike race.",
+      "details": "<p>The Bump Track in Mowbray National Park will be temporarily closed to all visitors between 6am and 6pm on Sunday 28 July for the Reef-to-Reef mountain bike race.</p> <p>Please observe all signage and directions from rangers and event staff.&nbsp;</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-28",
+      "end_date": "2024-07-28",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Byfield National Park Planned Burn Operations",
+      "alert_id": "24271",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24271",
+      "description": "Planned burn operations will be undertaken along the Southern Access track of Byfield National Park. Smoke will be present within the National Park and Stockyard vicinity with minimal impact to visitors and residents.",
+      "details": "<p>Planned burn operations will be undertaken along the Southern Access track of Byfield National Park. Smoke will be present within the National Park and Stockyard vicinity with minimal impact to visitors and residents.</p> <p>Due to these works, the Southern Access track to 9mile beach will be closed. Please use the Northern Access track to 9mile Beach for day-use and camping activities.&nbsp;&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-16",
+      "end_date": "2024-07-20",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Mount Ngungun temporarily closed",
+      "alert_id": "24272",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24272",
+      "description": "For public health and safety, Mount Ngungun is temporarily closed due to high risk of a large rock fall from the summit.",
+      "details": "<p>For public health and safety, Mount Ngungun is temporarily closed due to high risk of a large rock fall from the summit.</p> <p>Serious injury or death could result from entering the closed area.</p> <p>Entry to the closed area (including the summit track and all rock climbing routes) is prohibited until conditions are declared safe and the closure is lifted.</p> <p>The closure applies to everyone, including all permit holders.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-15",
+      "end_date": "2024-07-22",
+      "parks": [
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Program for Minjerribah (North Stradbroke Island)",
+      "alert_id": "24273",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24273",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning on North Stradbroke Island from Tuesday 16th to Friday 19th July 2024 as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning on North Stradbroke Island from Tuesday 16th to Friday 19th July 2024 as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The proposed burn area is Tea Tree Swamp 20km south of Dunwich to the east of Russell Island on Minjerribah.</p> <p>As a result, smoke may be seen in the vicinity of Dunwich, Main Beach, Russell Island and the mainland areas of Redland City.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-15",
+      "start_effective_date": "2024-07-15",
+      "end_date": "2024-07-22",
+      "parks": [
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
+        },
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
         }
       ]
     }
