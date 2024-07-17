@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2024-07-16 10:05:20"
+    "alerts_count": 163,
+    "script_run_time": "2024-07-17 10:07:34"
   },
   "alerts": [
     {
@@ -651,14 +651,14 @@
       ]
     },
     {
-      "title": "Wet season closure: Errk Oykangand National Park (CYPAL)",
+      "title": "Temporary park closure: Errk Oykangand National Park (CYPAL)",
       "alert_id": "23337",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23337",
-      "description": "Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen 1 August 2024, subject to road and weather conditions.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen 1 August 2024, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-06-28",
+      "description": "Errk Oykangand National Park (CYPAL) is currently closed as the access road between Kowanyama and Pormpuraaw remains closed to all traffic at Shelfo crossing on the Mitchell River.",
+      "details": "<p>Errk Oykangand National Park (CYPAL) is currently closed as the access road between Kowanyama and Pormpuraaw remains closed to all traffic at Shelfo crossing on the Mitchell River.</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-07-17",
       "start_effective_date": "2023-11-01",
-      "end_date": "2024-07-31",
+      "end_date": "2024-08-30",
       "parks": [
         {
           "id": "148949",
@@ -797,14 +797,14 @@
       ]
     },
     {
-      "title": "Update on current status of camping areas: Rinyirru (Lakefield) National Park (CYPAL)",
+      "title": "Temporary camp sites closure: Kennedy Bend site 3 and 4, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "23475",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23476",
-      "description": "Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).",
-      "details": "<p>Please see information below for camping area status (open/closed) in Rinyirru (Lakefield) National Park (CYPAL).</p> <p><strong>The following camping areas south of Lakefield ranger base </strong><strong>are now open:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Kennedy Bend (noting camp sites 3 and 4&nbsp;will remain closed until further notice)</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> <li>Old Faithful Waterhole.</li> </ul> <p><strong>The following camping areas north of Lakefield ranger base&nbsp;are now open:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> <li>Midway Waterhole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole.</li> </ul> <p>For road conditions please visit <a href=\"https://www.cook.qld.gov.au/services/roads/current-road-status\">Cook Shire Council</a>.</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-07-10",
-      "start_effective_date": "2023-12-01",
-      "end_date": "2024-07-17",
+      "description": "Kennedy Bend site 3 and site 4 in Rinyirru (Lakefield) National Park (CYPAL) are currently closed until further notice.",
+      "details": "<p>Kennedy Bend site 3 and site 4 in Rinyirru (Lakefield) National Park (CYPAL) are currently closed until further notice.</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-07-17",
+      "end_date": "2024-11-30",
       "parks": [
         {
           "id": "149481",
@@ -2980,6 +2980,23 @@
       ]
     },
     {
+      "title": "Planned Works - Traveston Road",
+      "alert_id": "24277",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24277",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting bridge and culvert repairs on Traveston Road at Woondum National Park from 16 July to 30 November 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting bridge and culvert repairs on Traveston Road at Woondum National Park from 16 July to 30 November 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.&nbsp;</p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-07-16",
+      "end_date": "2024-11-30",
+      "parks": [
+        {
+          "id": "148111",
+          "name": "Woondum National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/woondum"
+        }
+      ]
+    },
+    {
       "title": "Planned burn  Pine Ridge Conservation Park",
       "alert_id": "24278",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24278",
@@ -3015,6 +3032,106 @@
           "id": "150208",
           "name": "Cooloola Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burns - Expedition National Park (including the Amphitheatre area), Presho State Forest and Belington Hut State Forest",
+      "alert_id": "24280",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24280",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Expedition National Park (Limited Depth), including the Amphitheatre, Presho State Forest and Belington Hut State Forest between 18-26 July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Expedition National Park (Limited Depth), including the Amphitheatre, Presho State Forest and Belington Hut State Forest between 18-26 July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.&nbsp;&nbsp;</p> <p>Smoke may be seen&nbsp;in nearby areas.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-07-18",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "322352",
+          "name": "Presho State Forest",
+          "url": ""
+        },
+        {
+          "id": "322332",
+          "name": "Belington Hut State Forest",
+          "url": ""
+        },
+        {
+          "id": "322999",
+          "name": "Expedition (Limited Depth) National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Big Crystal Creek camping area and day-use area, Paluma Range National Park",
+      "alert_id": "24281",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24281",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 3 September to Friday 6 September 2024 (dates inclusive) as part of the fire management program for Paluma Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 3 September to Friday 6 September 2024 (dates inclusive) as part of the fire management program for Paluma Range National Park.</p> <p>Firefighters and machinery will be working along roadsides in the vicinity of Spiegelhauer Road and Intake Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn, Big Crystal Creek camping area and day-use area will be closed to public access,&nbsp;expected to reopen Saturday 7 September 2024, or when considered safe to enter.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the camping area or day-use area.</p> <p>Rockslides will remain open during this time.&nbsp;</p> <p>&nbsp;</p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-09-03",
+      "end_date": "2024-09-06",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Night roadworks and closure, Mount Spec Road: Paluma Range National Park",
+      "alert_id": "24282",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24282",
+      "description": "The Department of Transport and Main Roads has advised that slope stabilisation works will be conducted on Mount Spec Road, between Fairy Falls and Maiden Hair Fern Creek. A full temporary closure of Mount Spec Road will be in place each night between Fairy Falls and Maiden Hair Fern Creek from 6pm Monday 22 July to 5am Friday 11 October 2024 (dates inclusive).",
+      "details": "<p>The Department of Transport and Main Roads has advised that slope stabilisation works will be conducted on Mount Spec Road, between Fairy Falls and Maiden Hair Fern Creek. A full temporary closure of Mount Spec Road will be in place each night between Fairy Falls and Maiden Hair Fern Creek from 6pm Monday 22 July to 5am Friday 11 October 2024 (dates inclusive).</p> <p>Mt Spec Road will reopen from 5am throughout the works period.</p> <p>For further information about these works please contact:</p> <p><strong>Customer and Stakeholder Management</strong></p> <p><strong>Phone: 1800 625 648</strong></p> <p><strong>Email: engagement.northern@tmr.qld.gov.au</strong></p> <p><strong>Website: www.tmr.qld.gov.au</strong></p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-10-11",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned works and temporary closures for Springbrook walking tracks  Helicopter operations",
+      "alert_id": "24283",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24283",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting helicopter operations in Springbrook National Park as part of a planned walking track maintenance project (weather permitting). The helicopter operations will involve temporary track closures for public safety, while equipment is air-lifted out from the sites.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting helicopter operations in Springbrook National Park as part of a planned walking track maintenance project (weather permitting). The helicopter operations will involve temporary track closures for public safety, while equipment is air-lifted out from the sites.</p> <p>As a result of helicopter operations, the following walking tracks will be temporarily closed on <strong>Wednesday the</strong>&nbsp;<strong>24th of July</strong>&nbsp;<strong>2024 (weather permitting)</strong>:</p> <ul> <li>Twin Falls circuit</li> <li>Purling Brook Falls circuit</li> <li>Warringa Pool track</li> <li>Warrie circuit</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Please visit the&nbsp;<a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a>&nbsp;web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a>&nbsp;on the departments website for updated information.</p> <p>&nbsp;</p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-07-18",
+      "end_date": "2024-07-25",
+      "parks": [
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Burtons Well day-use and camping area closed for hazardous tree removal",
+      "alert_id": "24284",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24284",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting hazardous tree works at Burtons Well day-use and camping area from 5-9 July 2024 as part of a program of scheduled maintenance at Bunya Mountains National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting hazardous tree works at Burtons Well day-use and camping area from 5-9 July 2024 as part of a program of scheduled maintenance at Bunya Mountains National Park.</p> <p>These works will involve temporary closure of the camping area, day-use area and walking tracks originating at Burtons Well for public safety.</p> <p>Alternative day-use and camping areas are located at Dandabah and Westcott.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-07-17",
+      "start_effective_date": "2024-08-05",
+      "end_date": "2024-08-09",
+      "parks": [
+        {
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunya-mountains"
         }
       ]
     }
