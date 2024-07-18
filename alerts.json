@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2024-07-17 10:07:34"
+    "alerts_count": 165,
+    "script_run_time": "2024-07-18 10:07:39"
   },
   "alerts": [
     {
@@ -2842,50 +2842,16 @@
       "title": "Temporary closure for planned burns: Bilwon State Forest",
       "alert_id": "24267",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24267",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Bilwon State Forest on Tuesday 16 and Wednesday 17 July 2024. The park will reopen from Friday 19 July 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Bilwon State Forest on Tuesday 16 and Wednesday 17 July 2024. The park will reopen from Friday 19 July 2024.</p> <p>Please travel safely and abide by signage. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-15",
+      "description": "Bilwon State Forest is temporarily closed from 16  22 July 2024. This closure is to undertake planned burns which will be conducted between 16-18 July. The forest will reopen on 23 July 2024.",
+      "details": "<p>Bilwon State Forest is temporarily closed from 16  22 July 2024. This closure is to undertake planned burns which will be conducted between 16-18 July. The forest will reopen on 23 July 2024.</p> <p>Please travel safely and abide by signage. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-18",
       "start_effective_date": "2024-07-15",
-      "end_date": "2024-07-18",
+      "end_date": "2024-07-22",
       "parks": [
         {
           "id": "322398",
           "name": "Bilwon State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned works  Closure of Noosa Headland section, Noosa National Park for Heli-lift operations",
-      "alert_id": "24268",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24268",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting heli-lift operations on Tuesday, 16th July 2024 from 6am to 5pm - Weather permitting. These works are part of the Coastal Walk upgrade to improve the facilities for visitors.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting heli-lift operations on Tuesday, 16th July 2024 from 6am to 5pm - Weather permitting. These works are part of the Coastal Walk upgrade to improve the facilities for visitors.</p> <p>The following areas and walking tracks will be <strong>closed</strong> during this time:</p> <ul> <li>Coastal Walk &ndash; between Dolphin Point and Hell&rsquo;s Gate.</li> <li>Tanglewood track.</li> <li>Noosa Hill track.</li> <li>Laguna Lookout &ndash; vehicle access closed from Viewland Drive. Pedestrian access only via Morwong Drive.</li> </ul> <p>The following areas and walking tracks that are <strong>open</strong> are:</p> <ul> <li>Noosa Day-use area and carpark on Park Road.</li> <li>Palm Grove circuit.</li> <li>Alexandria Bay from Park Edge Road only.</li> <li>Sunrise Beach stairs from McAnally Drive.</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "start_date": "2024-07-15",
-      "start_effective_date": "2024-07-15",
-      "end_date": "2024-07-17",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to planned burn: Hartleys Creek Falls walking track, Macalister Range National Park",
-      "alert_id": "24269",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24269",
-      "description": "Hartleys Falls walking track will be temporarily closed on Wednesday 17 July 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes.",
-      "details": "<p>Hartleys Falls walking track will be temporarily closed on Wednesday 17 July 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes.</p> <p>Please adhere to all instructions by rangers and track closure signage.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-15",
-      "start_effective_date": "2024-07-17",
-      "end_date": "2024-07-17",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     },
@@ -2929,9 +2895,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24272",
       "description": "For public health and safety, Mount Ngungun is temporarily closed due to high risk of a large rock fall from the summit.",
       "details": "<p>For public health and safety, Mount Ngungun is temporarily closed due to high risk of a large rock fall from the summit.</p> <p>Serious injury or death could result from entering the closed area.</p> <p>Entry to the closed area (including the summit track and all rock climbing routes) is prohibited until conditions are declared safe and the closure is lifted.</p> <p>The closure applies to everyone, including all permit holders.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-07-15",
+      "start_date": "2024-07-18",
       "start_effective_date": "2024-07-15",
-      "end_date": "2024-07-22",
+      "end_date": "2024-07-26",
       "parks": [
         {
           "id": "150189",
@@ -3017,11 +2983,11 @@
       "title": "Planned burn  Great Sandy National Park - Cooloola Section",
       "alert_id": "24279",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24279",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park near the Freshwater Camping area from Wednesday 17th July to Friday 19th July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park near the Freshwater Camping area from Wednesday 17th July to Friday 19th July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Teewah Camping and Freshwater Camping Area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Expect minor traffic delays on King Bores Circuit. Observe traffic signage and traffic controller directions.&nbsp;</p> <p>&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-16",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park near the Freshwater Camping area from Wednesday 17th July to Wednesday 24th July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park near the Freshwater Camping area from Wednesday 17th July to Wednesday 24th July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Teewah Camping and Freshwater Camping Area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Expect minor traffic delays on King Bores Circuit. Observe traffic signage and traffic controller directions.&nbsp;</p> <p>&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-18",
       "start_effective_date": "2024-07-16",
-      "end_date": "2024-07-19",
+      "end_date": "2024-07-24",
       "parks": [
         {
           "id": "148183",
@@ -3132,6 +3098,84 @@
           "id": "149017",
           "name": "Bunya Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Heli-lift and barge operations - Torres Herald Bay",
+      "alert_id": "24285",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24285",
+      "description": "Heli-lift activities from barge in Torres Herald Bay to Torres Herald Beach, Whitsunday Island are planned from 7am to 5pm Thursday 25 July (weather permitting). All vessels are to remain well clear of the barge and operational area. No public access to the site will be permitted during this time.",
+      "details": "<p>Heli-lift activities from barge in Torres Herald Bay to Torres Herald Beach, Whitsunday Island are planned from 7am to 5pm Thursday 25 July (weather permitting). All vessels are to remain well clear of the barge and operational area. No public access to the site will be permitted during this time.</p> <p>For your safety, please observe all signs, barriers and directions from rangers and do not enter.</p>",
+      "start_date": "2024-07-18",
+      "start_effective_date": "2024-07-25",
+      "end_date": "2024-07-25",
+      "parks": [
+        {
+          "id": "149365",
+          "name": "Whitsunday national park islands",
+          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
+        },
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Maintenance works: Dubuji day-use area car park, Cape Tribulation section, Daintree National Park (CYPAL)",
+      "alert_id": "24286",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24286",
+      "description": "Visitors are advised that contractors will be conducting maintenance works at the Dubuji day-use area car park from Monday 22 July to Thursday 25 July 2024 (dates inclusive).",
+      "details": "<p>Visitors are advised that contractors will be conducting maintenance works at the Dubuji day-use area car park from Monday 22 July to Thursday 25 July 2024 (dates inclusive).</p> <p>During this period visitors are reminded to adhere to any onsite closure signage and directions from rangers and contractors.&nbsp;</p>",
+      "start_date": "2024-07-18",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-25",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Walk with caution: McDonald Track, Barron Gorge National Park",
+      "alert_id": "24287",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24287",
+      "description": "Ergon will be conducting works along the McDonald track from Tuesday 23 July 2024. Work will include general road repairs and land slip repairs around power poles.",
+      "details": "<p>Ergon will be conducting works along the McDonald track from Tuesday 23 July 2024. Work will include general road repairs and land slip repairs around power poles.</p> <p>The walking track will remain open during this period,&nbsp; but track users need to be aware of heavy vehicles and machinery operating in the area.&nbsp;</p> <p>Please follow and obey all directions from contractors and rangers and observe all safety signage.</p>",
+      "start_date": "2024-07-18",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-07-31",
+      "parks": [
+        {
+          "id": "148548",
+          "name": "Barron Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Prescribed Burn - K'gari (Fraser Island) Figtree Creek",
+      "alert_id": "24288",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24288",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation rangers will conduct a prescribed burn between 19 July 2024 and 15 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation rangers will conduct a prescribed burn between 19 July 2024 and 15 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of the Figtree Creek, Garrys Anchorage, Dilli Village and Boonooroo. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp; Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-18",
+      "start_effective_date": "2024-07-19",
+      "end_date": "2024-08-15",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     }
