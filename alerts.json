@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2024-07-18 10:07:39"
+    "alerts_count": 168,
+    "script_run_time": "2024-07-19 10:07:28"
   },
   "alerts": [
     {
@@ -1576,10 +1576,10 @@
       "alert_id": "23958",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23958",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday the 15th of April 2024 (weather pending).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday the 15th of April 2024 (weather pending).</p> <p>The following tracks will be temporarily&nbsp;<strong>closed&nbsp;</strong>from<strong>&nbsp;15&nbsp;April to 19&nbsp;July 2024.</strong></p> <ul> <li>The entire Warringa Pool track (including the corresponding section of the Gold Coast Hinterland Great Walk).</li> </ul> <p>During the&nbsp;closure the below walking tracks will remain open:</p> <ul> <li>The Purling Brook Falls circuit.&nbsp;</li> <li>The Twin Falls circuit.</li> <li>The Warrie circuit.&nbsp;</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Facilities will reopen once&nbsp;reconstruction work is&nbsp;completed by the end of July.</p> <p>Please visit the <a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a> web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a>&nbsp;on the departments website for updated information.</p> <p>&nbsp;</p>",
-      "start_date": "2024-06-25",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance on the walking tracks in Springbrook National Park commencing from Monday the 15th of April 2024 (weather pending).</p> <p>The following tracks will be temporarily&nbsp;<strong>closed&nbsp;</strong>from<strong>&nbsp;15&nbsp;April to 26 July 2024.</strong></p> <ul> <li>The entire Warringa Pool track (including the corresponding section of the Gold Coast Hinterland Great Walk).</li> </ul> <p>During the&nbsp;closure the below walking tracks will remain open:</p> <ul> <li>The Purling Brook Falls circuit.&nbsp;</li> <li>The Twin Falls circuit.</li> <li>The Warrie circuit.&nbsp;</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Facilities will reopen once&nbsp;reconstruction work is&nbsp;completed by the end of July.</p> <p>Please visit the <a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a> web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a>&nbsp;on the departments website for updated information.</p> <p>&nbsp;</p>",
+      "start_date": "2024-07-19",
       "start_effective_date": "2024-04-12",
-      "end_date": "2024-07-19",
+      "end_date": "2024-07-26",
       "parks": [
         {
           "id": "156492",
@@ -2766,28 +2766,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Forty Mile Scrub National Park",
-      "alert_id": "24262",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24262",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn activities within Forty Mile Scrub National Park starting Tuesday 16 July 2024 (weather permitting) as part of the annual hazard reduction/conservation management program for parks and forests. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn activities within Forty Mile Scrub National Park starting Tuesday 16 July 2024 (weather permitting) as part of the annual hazard reduction/conservation management program for parks and forests. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p><strong>Smoke may be seen in the vicinity of area. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. </strong></p> <p><strong>For more information, please call Undara QPWS office on 40971485.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-12",
-      "start_effective_date": "2024-07-16",
-      "end_date": "2024-07-18",
-      "parks": [
-        {
-          "id": "149441",
-          "name": "Forty Mile Scrub National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/forty-mile-scrub"
-        },
-        {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
-        }
-      ]
-    },
-    {
       "title": "Nearshore landslide Inskip Peninsula",
       "alert_id": "24263",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24263",
@@ -3176,6 +3154,79 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Heli-lift operations - Torres Herald Beach",
+      "alert_id": "24289",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24289",
+      "description": "Heli-lift activities are planned at Torres Herald Beach, Whitsunday Island from 7am to 5pm Tuesday 23 July (weather permitting). No public access to the site will be permitted during this time.",
+      "details": "<p>Heli-lift activities are planned at Torres Herald Beach, Whitsunday Island from 7am to 5pm Tuesday 23 July (weather permitting). No public access to the site will be permitted during this time.</p> <p>For your safety, please observe all signs, barriers and directions from rangers and do not enter.</p>",
+      "start_date": "2024-07-19",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-07-23",
+      "parks": [
+        {
+          "id": "149365",
+          "name": "Whitsunday national park islands",
+          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
+        },
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Mount Maroon",
+      "alert_id": "24290",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24290",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Monday 22 July 2024, as part of the fire management program for Mount Barney National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Monday 22 July 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the Mount Maroon section of Mount Barney National Park&nbsp;will be closed. This includes all summit routes on Mount Maroon. This closure does not affect access to&nbsp;the summit routes on&nbsp;Mount Barney or Mount May.&nbsp;</p> <p>This area&nbsp;will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney, Barney view and Maroon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>&nbsp;</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-19",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Crows Nest National Park",
+      "alert_id": "24291",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24291",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Crows Nest National Park between 22/07/2024 and 30/07/2024, weather permitting.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Crows Nest National Park between 22/07/2024 and 30/07/2024, weather permitting.</p> <p>QPWS conducts planned burns around the State to reduce the risk and intensity of bushfires and support a healthy environment.&nbsp;These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>As a result of the planned burn, smoke may be seen in nearby areas.&nbsp;</p> <p>Visitor facilities at Crows Nest National Park, including camping area, day-use areas and walking tracks, will&nbsp; remain open for the duration of the planned burn, unless otherwise indicated.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-19",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-30",
+      "parks": [
+        {
+          "id": "148380",
+          "name": "Crows Nest National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/crows-nest"
+        }
+      ]
+    },
+    {
+      "title": "Prescribed Burn - K'gari (Fraser Island) Deep Creek",
+      "alert_id": "24292",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24292",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation rangers will conduct a prescribed burn between 22 July 2024 and 17 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation rangers will conduct a prescribed burn between 22 July 2024 and 17 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Ungowa, Lake Benaroon and Lake Benaroon Hikers Camp, Lake Boomanjin, and Dilli Village.&nbsp; Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-19",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-08-17",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     }
