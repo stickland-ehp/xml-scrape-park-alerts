@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-07-19 10:07:28"
+    "alerts_count": 165,
+    "script_run_time": "2024-07-20 10:06:12"
   },
   "alerts": [
     {
@@ -2285,23 +2285,6 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Old Coen walking track, Kutini-Payamu (Iron Range) National Park (CYPAL)",
-      "alert_id": "24200",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24201",
-      "description": "Due to unsafe conditions, the Old Coen walking track is currently closed.",
-      "details": "<p>Due to unsafe conditions, the Old Coen walking track is currently closed.</p>",
-      "start_date": "2024-06-19",
-      "start_effective_date": "2024-06-19",
-      "end_date": "2024-07-19",
-      "parks": [
-        {
-          "id": "149037",
-          "name": "Kutini-Payamu (Iron Range) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/kutini-payamu"
-        }
-      ]
-    },
-    {
       "title": "Notification of running and mountain biking event day",
       "alert_id": "24205",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24206",
@@ -2732,23 +2715,6 @@
       ]
     },
     {
-      "title": "Red Rock - Byfield State Forest Park",
-      "alert_id": "24259",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24259",
-      "description": "Due to recent heavy rains and subsequent boggy ground conditions, two of the multi-use Red Rock camping sites have been closed off for use to minimise damage and allow drying out.",
-      "details": "<p>Due to recent heavy rains and subsequent boggy ground conditions, two of the multi-use Red Rock camping sites have been closed off for use to minimise damage and allow drying out.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-07-11",
-      "start_effective_date": "2024-07-09",
-      "end_date": "2024-07-19",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Brigalow General Permission Area Public Safety",
       "alert_id": "24261",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24261",
@@ -2796,23 +2762,6 @@
           "id": "148892",
           "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
           "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
-        }
-      ]
-    },
-    {
-      "title": "Carnarvon Gorge - maintenance work 15 - 19 July 2024",
-      "alert_id": "24266",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24266",
-      "description": "Maintenance work is being carried out in the Carnarvon Gorge section of Carnarvon National Park between the 15 - 19th July 2024.",
-      "details": "<p>Maintenance work is being carried out in the Carnarvon Gorge section of Carnarvon National Park between the 15 - 19th July 2024.</p> <p>A helicopter will be in use to carry out sling work on Monday and again on either Thursday or Friday. For your own safety DO NOT approach or walk under the work area while the aircraft is overhead.&nbsp;</p> <p>2x ATVs will be in use on the walking tracks.&nbsp;</p> <p>Wards Canyon remains closed while the repair work is carried out. All other walking tracks and visitor areas will remain open during this time.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-07-12",
-      "start_effective_date": "2024-07-12",
-      "end_date": "2024-07-19",
-      "parks": [
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
         }
       ]
     },
