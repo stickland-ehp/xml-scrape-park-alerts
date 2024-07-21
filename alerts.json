@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2024-07-20 10:06:12"
+    "alerts_count": 164,
+    "script_run_time": "2024-07-21 10:07:06"
   },
   "alerts": [
     {
@@ -2796,23 +2796,6 @@
           "id": "148814",
           "name": "Kuranda National Park and Mowbray National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
-      "title": "Byfield National Park Planned Burn Operations",
-      "alert_id": "24271",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24271",
-      "description": "Planned burn operations will be undertaken along the Southern Access track of Byfield National Park. Smoke will be present within the National Park and Stockyard vicinity with minimal impact to visitors and residents.",
-      "details": "<p>Planned burn operations will be undertaken along the Southern Access track of Byfield National Park. Smoke will be present within the National Park and Stockyard vicinity with minimal impact to visitors and residents.</p> <p>Due to these works, the Southern Access track to 9mile beach will be closed. Please use the Northern Access track to 9mile Beach for day-use and camping activities.&nbsp;&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-15",
-      "start_effective_date": "2024-07-16",
-      "end_date": "2024-07-20",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/byfield"
         }
       ]
     },
