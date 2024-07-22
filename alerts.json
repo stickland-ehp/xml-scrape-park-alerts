@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2024-07-21 10:07:06"
+    "alerts_count": 174,
+    "script_run_time": "2024-07-22 10:08:00"
   },
   "alerts": [
     {
@@ -695,9 +695,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23401",
       "description": "Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.",
       "details": "<p>Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.</p> <p>As a result, the following camp grounds&nbsp;are temporarily closed:</p> <p>Forestry camp</p> <p>Range view camp</p> <p>Zamia camp<br /> <br /> All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-07-02",
+      "start_date": "2024-07-22",
       "start_effective_date": "2023-10-31",
-      "end_date": "2024-07-23",
+      "end_date": "2024-08-20",
       "parks": [
         {
           "id": "148151",
@@ -2817,28 +2817,6 @@
       ]
     },
     {
-      "title": "Planned Burn Program for Minjerribah (North Stradbroke Island)",
-      "alert_id": "24273",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24273",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning on North Stradbroke Island from Tuesday 16th to Friday 19th July 2024 as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning on North Stradbroke Island from Tuesday 16th to Friday 19th July 2024 as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>The proposed burn area is Tea Tree Swamp 20km south of Dunwich to the east of Russell Island on Minjerribah.</p> <p>As a result, smoke may be seen in the vicinity of Dunwich, Main Beach, Russell Island and the mainland areas of Redland City.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-15",
-      "start_effective_date": "2024-07-15",
-      "end_date": "2024-07-22",
-      "parks": [
-        {
-          "id": "150268",
-          "name": "Naree Budjong Djara National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
-        },
-        {
-          "id": "148315",
-          "name": "Minjerribah Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
-        }
-      ]
-    },
-    {
       "title": "Planned burn, Moggill Conservation Park",
       "alert_id": "24274",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24274",
@@ -3159,6 +3137,203 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Gheebulum Kunungai National Park (Moreton Island)",
+      "alert_id": "24293",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24293",
+      "description": "Queensland Parks and Wildlife Service (QPWS), Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) and Queensland Fire &amp; Emergency Services (QFES) will be conducting planned burning operations within the Gheebulum Kunungai National Park commencing 22nd to the 25th of July 2024, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS), Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) and Queensland Fire &amp; Emergency Services (QFES) will be conducting planned burning operations within the Gheebulum Kunungai National Park commencing 22nd to the 25th of July 2024, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Middle Road and Ben Ewa Camp Ground area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-25",
+      "parks": [
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        }
+      ]
+    },
+    {
+      "title": "Dularcha National Park closed due to planned burn",
+      "alert_id": "24294",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24294",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Friday 26 July 2024, as part of the fire management program for Dularcha National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Friday 26 July 2024, as part of the fire management program for Dularcha National Park.</p> <p>During the planned burn, the entirety of Dularcha National Park is <strong>closed to public access.</strong></p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Dularcha National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>The park will remain closed following the burn until an inspection can be carried out and the area is considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "148175",
+          "name": "Dularcha National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dularcha"
+        }
+      ]
+    },
+    {
+      "title": "Mon Repos Turtle Centre Closure",
+      "alert_id": "24295",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24295",
+      "description": "Mon Repos Turtle Centre and the Milbi Cafe will be closed on Monday 22 July 2024 due to an unexpected power outage.",
+      "details": "<p>Mon Repos Turtle Centre and the Milbi Cafe will be closed on Monday 22 July 2024 due to an unexpected power outage.</p> <ul> <li>The Mon Repos Turtle Centre and Milbi Cafe will<strong> reopen Tuesday 23 July 2024</strong>.</li> <li>Please note that walking and shared tracks in Mon Repos Conservation Park remain open.</li> <li>Access to Mon Repos beach is still possible from the boardwalks at the Turtle Centre.</li> </ul> <p>Due to the changed conditions the visitor experience may be affected.</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-22",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Oak Hills in the vicinty of Wairuna Section, Girringun National Park",
+      "alert_id": "24298",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24298",
+      "description": "Queensland Parks and Wildlife Service staff will be conducting planned burning operations in Oak Hills in the vicinity of Wairuna section, Girringun National Park between Monday 22 July and Thursday 25 July 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service staff will be conducting planned burning operations in Oak Hills in the vicinity of Wairuna section, Girringun National Park between Monday 22 July and Thursday 25 July 2024 (dates inclusive).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
+        },
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
+        }
+      ]
+    },
+    {
+      "title": "Littabella National Park - Planned burn",
+      "alert_id": "24299",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24299",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Queensland Fire &amp; Emergency Services (QFES) will be conducting planned burning operations within the Littabella National Park commencing 23 July 2024, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Queensland Fire &amp; Emergency Services (QFES) will be conducting planned burning operations within the Littabella National Park commencing 23 July 2024, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Winfield Road and Baffle Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Traffic control will take place on Winfield Road during the planned burn, some delays may occur.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "322935",
+          "name": "Littabella National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Araucaria Track closed",
+      "alert_id": "24300",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24300",
+      "description": "Araucaria will be closed for the period of scheduled maintenance. During this time, operational machinery will be present in the area. We kindly request that you utilise alternative trails available until the completion of these works",
+      "details": "<p>Araucaria will be closed for the period of scheduled maintenance. During this time, operational machinery will be present in the area. We kindly request that you utilise alternative trails available until the completion of these works</p> <p>Please follow all signs and instructions provided by the ranger. These measures are implemented for your safety</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-07-23",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burns King Conservation Park",
+      "alert_id": "24301",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24301",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in King Conservation Park from Tuesday 23 July through to Friday 30 August weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the Palms, Fishermans Pocket and Glastonbury areas. The aim of these burns is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in King Conservation Park from Tuesday 23 July through to Friday 30 August weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the Palms, Fishermans Pocket and Glastonbury areas. The aim of these burns is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-08-30",
+      "parks": [
+        {
+          "id": "322746",
+          "name": "King Conservation Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning in Burrum Coast National Park",
+      "alert_id": "24302",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24302",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) from 23 July until 29th July 2024, as part of the fire management program for Burrum Coast National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) from 23 July until 29th July 2024, as part of the fire management program for Burrum Coast National Park.</p> <p>During the planned burn, part of Burrum Coast National Park - River Section will be closed to public access.&nbsp; This includes areas of the park immediately west of the Burrum Heads Road, adjacent to Dreamtime Avenue and south of Lilly Pilly Dr.</p> <p>Smoke may be seen in the vicinity of Burrum Heads and Raintree Acres. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-29",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burning in Girraween National Park",
+      "alert_id": "24303",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24303",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Girraween National Park between 23/07/2024 and 30/07/2024, weather permitting. QPWS conducts planned burns around the State to reduce the risk and intensity of bushfires and support a healthy environment. These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats. As a result of the planned burn, smoke may be seen in nearby areas. Visitor facilities at Girraween National Park, including camping area, day-use areas and walking tracks, will remain open for the duration of the planned burn, unless otherwise indicated. The following remote campsites will be closed for the duration of the planned burn, Stone Cottage, Dingo Swamp and South Bald Rock. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please proceed with caution along all park access roads. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire and Emergency Services (QFES).",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Girraween National Park between 23/07/2024 and 30/07/2024, weather permitting. QPWS conducts planned burns around the State to reduce the risk and intensity of bushfires and support a healthy environment. These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats. As a result of the planned burn, smoke may be seen in nearby areas. Visitor facilities at Girraween National Park, including camping area, day-use areas and walking tracks, will remain open for the duration of the planned burn, unless otherwise indicated. The following remote campsites will be closed for the duration of the planned burn, Stone Cottage, Dingo Swamp and South Bald Rock. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please proceed with caution along all park access roads. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire and Emergency Services (QFES).</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girraween"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire - Brimgan GPA",
+      "alert_id": "24304",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24304",
+      "description": "QPWS is currently attending to a wildfire in Brimgan GPA. Please be advised that temporary closures may be in place across the GPA while the wildfire is supressed.",
+      "details": "<p>QPWS is currently attending to a wildfire in Brimgan GPA. Please be advised that temporary closures may be in place across the GPA while the wildfire is supressed.</p> <p>Please adhere to all advisory signage on the State Forest.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-22",
+      "end_date": "2024-07-25",
+      "parks": [
+        {
+          "id": "322380",
+          "name": "Blair Athol State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Cardwell Range, Girringun National Park",
+      "alert_id": "24305",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24305",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the area west of the Bruce Highway between Mullers Creek and Sunday Creek between Tuesday 23 and Thursday 25 July 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the area west of the Bruce Highway between Mullers Creek and Sunday Creek between Tuesday 23 and Thursday 25 July 2024 (dates inclusive).</p>",
+      "start_date": "2024-07-22",
+      "start_effective_date": "2024-07-23",
+      "end_date": "2024-07-26",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     }
