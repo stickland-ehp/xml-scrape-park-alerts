@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 190,
-    "script_run_time": "2024-07-25 10:07:57"
+    "alerts_count": 183,
+    "script_run_time": "2024-07-26 10:07:37"
   },
   "alerts": [
     {
@@ -944,11 +944,11 @@
       "title": "Temporary closure: Goldsborough Valley section, Wooroonooran National Park",
       "alert_id": "23601",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23601",
-      "description": "The Goldsborough Valley section of Wooroonooran National Park is temporarily closed until further notice.",
-      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed until further notice.</p> <p>The closure includes:&nbsp;</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Goldfied trail and Mulgrave River (Top causeway) camping area</li> </ul> <p>This closure is due to flooding from ex-Tropical Cyclone Jasper destroying Fisheries Bridge on the access road to Goldborough Valley. For more information on this bridge please contact <a href=\"https://www.cairns.qld.gov.au/\">Cairns Regional Council</a>.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
-      "start_date": "2024-05-20",
+      "description": "The Goldsborough Valley section of Wooroonooran National Park is temporarily closed.",
+      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed.</p> <p>The closure includes:&nbsp;</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Goldfied trail and Mulgrave River (Top causeway) camping area.</li> </ul> <p>Access across Fisheries bridge has now been restored with a temporary council bridge installed for residents use only, however Arnold&rsquo;s bridge and access to Goldsborough Valley Camping area will remain closed.</p> <p>Rangers are currently repairing roads, landslides and drainage following Tropical Cyclone Jasper and the park is anticipated to reopen on Sunday 1 September 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
+      "start_date": "2024-07-26",
       "start_effective_date": "2023-12-20",
-      "end_date": "2024-08-15",
+      "end_date": "2024-08-31",
       "parks": [
         {
           "id": "148468",
@@ -1110,9 +1110,9 @@
       "title": "Temporary walking track closure: Manjal Jimalji (Devils Thumb) walking track, Daintree National Park",
       "alert_id": "23656",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23656",
-      "description": "Due to the impacts of ex-Tropical Cyclone Jasper, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until at least 31 October 2024.",
-      "details": "<p>Due to the impacts of ex-Tropical Cyclone Jasper, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until at least 31 October 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
-      "start_date": "2024-07-23",
+      "description": "Due to the re-alignment of the track, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until 31 October 2024.",
+      "details": "<p>Due to the re-alignment of the track, the Manjal Jimalji (Devils Thumb) walking track is temporarily closed until 31 October 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
+      "start_date": "2024-07-26",
       "start_effective_date": "2024-01-11",
       "end_date": "2024-10-31",
       "parks": [
@@ -2817,28 +2817,6 @@
       ]
     },
     {
-      "title": "Planned works and temporary closures for Springbrook walking tracks  Helicopter operations",
-      "alert_id": "24283",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24283",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting helicopter operations in Springbrook National Park as part of a planned walking track maintenance project (weather permitting). The helicopter operations will involve temporary track closures for public safety, while equipment is air-lifted out from the sites.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting helicopter operations in Springbrook National Park as part of a planned walking track maintenance project (weather permitting). The helicopter operations will involve temporary track closures for public safety, while equipment is air-lifted out from the sites.</p> <p>As a result of helicopter operations, the following walking tracks will be temporarily closed on <strong>Wednesday the</strong>&nbsp;<strong>24th of July</strong>&nbsp;<strong>2024 (weather permitting)</strong>:</p> <ul> <li>Twin Falls circuit</li> <li>Purling Brook Falls circuit</li> <li>Warringa Pool track</li> <li>Warrie circuit</li> </ul> <p>Please observe all barriers, signs, and directions from the rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed area.</p> <p>Please visit the&nbsp;<a href=\"https://parks.des.qld.gov.au/parks/springbrook\">Springbrook National Park</a>&nbsp;web page on the department&rsquo;s website for alternative nearby park attractions and experience.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts?_gl=1*1vt3q9g*_ga*MTc2MTgzNzExMi4xNjUzNTMzMTcy*_ga_0W3GFR6WFE*MTcxMjI5NTk5NS4xNjAuMS4xNzEyMjk3MzI2LjU5LjAuMA..*_gcl_au*MTc0OTgwNzE2MC4xNzA2MDU1Njc4#region\">Park Alerts</a>&nbsp;on the departments website for updated information.</p> <p>&nbsp;</p>",
-      "start_date": "2024-07-17",
-      "start_effective_date": "2024-07-18",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
       "title": "Burtons Well day-use and camping area closed for hazardous tree removal",
       "alert_id": "24284",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24284",
@@ -2852,45 +2830,6 @@
           "id": "149017",
           "name": "Bunya Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunya-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Heli-lift and barge operations - Torres Herald Bay",
-      "alert_id": "24285",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24285",
-      "description": "Heli-lift activities from barge in Torres Herald Bay to Torres Herald Beach, Whitsunday Island are planned from 7am to 5pm Thursday 25 July (weather permitting). All vessels are to remain well clear of the barge and operational area. No public access to the site will be permitted during this time.",
-      "details": "<p>Heli-lift activities from barge in Torres Herald Bay to Torres Herald Beach, Whitsunday Island are planned from 7am to 5pm Thursday 25 July (weather permitting). All vessels are to remain well clear of the barge and operational area. No public access to the site will be permitted during this time.</p> <p>For your safety, please observe all signs, barriers and directions from rangers and do not enter.</p>",
-      "start_date": "2024-07-18",
-      "start_effective_date": "2024-07-25",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
-      "title": "Maintenance works: Dubuji day-use area car park, Cape Tribulation section, Daintree National Park (CYPAL)",
-      "alert_id": "24286",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24286",
-      "description": "Visitors are advised that contractors will be conducting maintenance works at the Dubuji day-use area car park from Monday 22 July to Thursday 25 July 2024 (dates inclusive).",
-      "details": "<p>Visitors are advised that contractors will be conducting maintenance works at the Dubuji day-use area car park from Monday 22 July to Thursday 25 July 2024 (dates inclusive).</p> <p>During this period visitors are reminded to adhere to any onsite closure signage and directions from rangers and contractors.&nbsp;</p>",
-      "start_date": "2024-07-18",
-      "start_effective_date": "2024-07-22",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
         }
       ]
     },
@@ -2985,31 +2924,14 @@
       ]
     },
     {
-      "title": "Planned burn - Gheebulum Kunungai National Park (Moreton Island)",
-      "alert_id": "24293",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24293",
-      "description": "Queensland Parks and Wildlife Service (QPWS), Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) and Queensland Fire &amp; Emergency Services (QFES) will be conducting planned burning operations within the Gheebulum Kunungai National Park commencing 22nd to the 25th of July 2024, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS), Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) and Queensland Fire &amp; Emergency Services (QFES) will be conducting planned burning operations within the Gheebulum Kunungai National Park commencing 22nd to the 25th of July 2024, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Middle Road and Ben Ewa Camp Ground area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-22",
-      "start_effective_date": "2024-07-22",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        }
-      ]
-    },
-    {
-      "title": "Dularcha National Park closed due to planned burn",
+      "title": "Dularcha National Park access restricted due to planned burn",
       "alert_id": "24294",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24294",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Friday 26 July 2024, as part of the fire management program for Dularcha National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Friday 26 July 2024, as part of the fire management program for Dularcha National Park.</p> <p>During the planned burn, the entirety of Dularcha National Park is <strong>closed to public access.</strong></p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Dularcha National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>The park will remain closed following the burn until an inspection can be carried out and the area is considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-22",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Wednesday 31July 2024, as part of the fire management program for Dularcha National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Wednesday 31July 2024, as part of the fire management program for Dularcha National Park.</p> <p>During the planned burn the Myla, Roses and Connection circuits will be closed, The Tunnel track between Mooloolah and Landsborough townships will remain open.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Dularcha National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>These park sections will remain closed following the burn until an inspection can be carried out and the area is considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-26",
       "start_effective_date": "2024-07-22",
-      "end_date": "2024-07-26",
+      "end_date": "2024-07-31",
       "parks": [
         {
           "id": "148175",
@@ -3153,23 +3075,6 @@
       ]
     },
     {
-      "title": "Bushfire - Brimgan GPA",
-      "alert_id": "24304",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24304",
-      "description": "QPWS is currently attending to a wildfire in Brimgan GPA. Please be advised that temporary closures may be in place across the GPA while the wildfire is supressed.",
-      "details": "<p>QPWS is currently attending to a wildfire in Brimgan GPA. Please be advised that temporary closures may be in place across the GPA while the wildfire is supressed.</p> <p>Please adhere to all advisory signage on the State Forest.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-22",
-      "start_effective_date": "2024-07-22",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "322380",
-          "name": "Blair Athol State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Cardwell Range, Girringun National Park",
       "alert_id": "24305",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24305",
@@ -3238,23 +3143,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Wangetti Beach section, Macalister Range National Park",
-      "alert_id": "24310",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24310",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities on the Captain Cook Highway in the Wangetti Beach and Rifle Range area of Macalister Range National Park on Thursday 25 July 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities on the Captain Cook Highway in the Wangetti Beach and Rifle Range area of Macalister Range National Park on Thursday 25 July 2024.</p> <p>Road Tek crews will have traffic control in place and delays should be expected.</p> <p>Smoke will be present in the area so please drive to the conditions.&nbsp;</p>",
-      "start_date": "2024-07-23",
-      "start_effective_date": "2024-07-25",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Bare Hill Conservation Park, Dinden West Forest Reserve, Bilwon State Forest, Kuranda State Forest",
       "alert_id": "24311",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24311",
@@ -3316,28 +3204,6 @@
         {
           "id": "322906",
           "name": "Carbrook Wetlands Conservation Park 2",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burns - Jarrah State Forest and Barakula State Forest",
-      "alert_id": "24314",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24314",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Jarrah State Forest and Barakula State Forest between the dates of 24 July 2024 and 25 July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Jarrah State Forest and Barakula State Forest between the dates of 24 July 2024 and 25 July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.&nbsp;&nbsp;</p> <p>Smoke may be seen&nbsp;in nearby areas.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-23",
-      "start_effective_date": "2024-07-24",
-      "end_date": "2024-07-25",
-      "parks": [
-        {
-          "id": "148143",
-          "name": "Barakula State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/barakula"
-        },
-        {
-          "id": "322622",
-          "name": "Jarrah State Forest",
           "url": ""
         }
       ]
@@ -3416,9 +3282,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24320",
       "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Main Range National Park between the dates of 25 July 2024 and 1 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Main Range National Park between the dates of 25 July 2024 and 1 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire. &nbsp;</p> <p>The following camping areas and tracks will be closed:</p> <p>&nbsp;- Spicers Gap camping area and day use area<br /> &nbsp;- Spicers Peak West remote bush camp<br /> &nbsp;- Spicers Peak East remote bush camp<br /> &nbsp;- Spicers Double Top Saddle remote bush camp<br /> &nbsp;&nbsp;- Mount Mathieson trail<br /> &nbsp;- Pioneer Graves<br /> &nbsp;- Moss&#39;s Well<br /> &nbsp;- Governors Chair lookout<br /> &nbsp;- Heritage trail</p> <p>Smoke may be seen in nearby areas.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
+      "start_date": "2024-07-26",
       "start_effective_date": "2024-07-25",
-      "end_date": "2024-08-01",
+      "end_date": "2024-08-02",
       "parks": [
         {
           "id": "148480",
@@ -3526,12 +3392,17 @@
       "title": "Planned burning activities: Clemant State Forest",
       "alert_id": "24326",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24326",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 July to 02 August 2024, as part of the fire management program for Clemant State Forest. Staff and machinery will be working along QPWS firebreaks in the vicinity of the Bruce Highway between Surveyor Creek and Station Creek on the western side of the Bruce Highway south of Rollingstone.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 July to 02 August 2024, as part of the fire management program for Clemant State Forest. Staff and machinery will be working along QPWS firebreaks in the vicinity of the Bruce Highway between Surveyor Creek and Station Creek on the western side of the Bruce Highway south of Rollingstone.</p> <p><strong>For your safety and the safety of staff, this area is closed to public access during the planned burn.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 July to 02 August 2024 (dates inclusive), as part of the fire management program for Clemant State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 July to 02 August 2024 (dates inclusive), as part of the fire management program for Clemant State Forest.</p> <p><strong>Staff and machinery will be working along QPWS firebreaks in the vicinity of the Bruce Highway.</strong></p> <p><strong>Burns will be conducted between Surveyor Creek and Station Creek on the western side of the Bruce Highway south of Rollingstone.</strong></p> <p><strong>For your safety and the safety of staff, this area is closed to public access during the planned burn.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-26",
       "start_effective_date": "2024-07-30",
       "end_date": "2024-08-02",
       "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        },
         {
           "id": "322391",
           "name": "Clemant State Forest",
