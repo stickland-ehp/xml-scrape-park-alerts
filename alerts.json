@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2024-07-27 10:07:33"
+    "alerts_count": 167,
+    "script_run_time": "2024-07-28 10:06:51"
   },
   "alerts": [
     {
@@ -2627,23 +2627,6 @@
       ]
     },
     {
-      "title": "Temporary track closure: Bump Track, Mowbray National Park",
-      "alert_id": "24270",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24270",
-      "description": "The Bump Track in Mowbray National Park will be temporarily closed to all visitors between 6am and 6pm on Sunday 28 July for the Reef-to-Reef mountain bike race.",
-      "details": "<p>The Bump Track in Mowbray National Park will be temporarily closed to all visitors between 6am and 6pm on Sunday 28 July for the Reef-to-Reef mountain bike race.</p> <p>Please observe all signage and directions from rangers and event staff.&nbsp;</p>",
-      "start_date": "2024-07-15",
-      "start_effective_date": "2024-07-28",
-      "end_date": "2024-07-28",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
       "title": "Mount Ngungun temporarily closed",
       "alert_id": "24272",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24272",
@@ -3063,23 +3046,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Smoke hazard from planned burn in Naree Budjong Djara National Park",
-      "alert_id": "24322",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24322",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) in joint management with Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning operations within the Naree Budjong Djara National Park, at the southern end of Minjerribah (North Stradbroke Island), commencing 24 July 2024, weather permitting, as part of the annual hazard reduction, conservation and cultural management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) in joint management with Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning operations within the Naree Budjong Djara National Park, at the southern end of Minjerribah (North Stradbroke Island), commencing 24 July 2024, weather permitting, as part of the annual hazard reduction, conservation and cultural management program for parks and forests.</p> <p><strong>As a result, smoke may be seen on the southern end of Minjerribah and visible from the Bay Islands (MacLeay Island, Lamb Island, Russell Island).</strong></p> <p>If visiting Naree Budjong Djara National Park and Minjerribah Recreation Area, observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They are also essential in preserving and protecting cultural assets and cultural landscapes.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>You can stay updated with local QPWS fire activities by visiting <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> or by following <a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a> on X (formerly known as Twitter).</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
-      "start_effective_date": "2024-07-24",
-      "end_date": "2024-07-27",
-      "parks": [
-        {
-          "id": "150268",
-          "name": "Naree Budjong Djara National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
         }
       ]
     },
