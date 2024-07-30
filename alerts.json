@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-07-29 10:08:24"
+    "alerts_count": 170,
+    "script_run_time": "2024-07-30 10:07:59"
   },
   "alerts": [
     {
@@ -277,33 +277,6 @@
           "id": "152865",
           "name": "Conondale Range Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Wajil walk (Kearneys Falls walking track), Goldsborough Valley section, Wooroonooran National Park",
-      "alert_id": "21274",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/21274",
-      "description": "The Wajil walk (Kearneys Falls walking track) is closed until further notice. We are working closely with Traditional Owners to determine which parts of this culturally significant area are suitable and safe for public access.",
-      "details": "<p>The Wajil walk (Kearneys Falls walking track) is closed until further notice. We are working closely with Traditional Owners to determine which parts of this culturally significant area are suitable and safe for public access.</p>",
-      "start_date": "2024-01-02",
-      "start_effective_date": "2024-01-02",
-      "end_date": "2025-01-02",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
         }
       ]
     },
@@ -780,14 +753,14 @@
       ]
     },
     {
-      "title": "Temporary camping area closure: Halifax Bay Wetlands National Park",
+      "title": "Closure: camping area 2, Halifax Bay Wetlands National Park",
       "alert_id": "23456",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23456",
-      "description": "Halifax Bay Wetlands National Park is currently open for day use only, with visitors able to use existing dry track networks.",
-      "details": "<p>Halifax Bay Wetlands National Park is currently open for day use only, with visitors able to use existing dry track networks.</p> <p>Camping area 1 will remain closed until vegetation management can be undertaken by Queensland Parks and Wildlife Service rangers. It is anticipated to reopen Thursday 1 August 2024.</p> <p>Camping area 2 will remain closed until further notice.</p> <p>Please monitor park alerts for updated information.</p>",
-      "start_date": "2024-07-09",
+      "description": "Camping area 2, Halifax Bay Wetlands National Park is closed until further notice. Please monitor park alerts for updated information.",
+      "details": "<p>Camping area 2, Halifax Bay Wetlands National Park is closed until further notice. Please monitor park alerts for updated information.</p>",
+      "start_date": "2024-07-30",
       "start_effective_date": "2024-06-19",
-      "end_date": "2024-07-31",
+      "end_date": "2024-11-30",
       "parks": [
         {
           "id": "148512",
@@ -2046,23 +2019,6 @@
       ]
     },
     {
-      "title": "Zone 8 (Marloo, Ocean Lake, Duling) camping area closure",
-      "alert_id": "24138",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24139",
-      "description": "The Zone 8 Beachfront camping area is temporarily closed from 10 June 2024 until further notice due to increased wongari (dingo) activity.",
-      "details": "<p>The Zone 8 Beachfront camping area is temporarily closed from 10 June 2024 until further notice due to increased wongari (dingo) activity.</p> <p>Alternative camping is available at multiple fenced camping areas (Waddy Point Top, Wongai, One Tree Rocks, Cornwells, Eli Creek) and Beach Camping Zone 1 - 7.</p> <p>The wongari situation is being monitored closely by rangers and all interactions should be reported to QPWS rangers on (07) 4127 9150 or <a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a></p> <p>Remember K&rsquo;gari is their place, give wongari space &ndash;&nbsp;do not approach wongari at any time.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-06-06",
-      "start_effective_date": "2024-06-10",
-      "end_date": "2024-09-30",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Prescribed Burn - K'gari (Fraser Island) Duck Creek",
       "alert_id": "24149",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24150",
@@ -2353,9 +2309,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24228",
       "description": "The Wet Tropics Great Walk is open with caution. The lower Herbert section of this walk is highly overgrown with vegetation following the wet season.",
       "details": "<p>The Wet Tropics Great Walk is open with caution. The lower Herbert section of this walk is highly overgrown with vegetation following the wet season.</p> <p>Visitors undertaking this walk should be prepared to walk in highly overgrown vegetation, or continue to utilise the Herbert River to navigate the walk to the lower section in the vicinity of Garrawalt Creek.&nbsp;</p> <p>Queensland Parks and Wildlife Service (QPWS) rangers will be working towards clearing this section of the walk on a priority basis<br /> &nbsp;</p>",
-      "start_date": "2024-06-28",
+      "start_date": "2024-07-30",
       "start_effective_date": "2024-06-29",
-      "end_date": "2024-07-31",
+      "end_date": "2024-08-14",
       "parks": [
         {
           "id": "151383",
@@ -2613,11 +2569,11 @@
       "title": "Planned burning and temporary closure of Ussher Point camping area and road: Apudthama National Park (CYPAL)",
       "alert_id": "24265",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24265",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burns in Apudthama National Park (CYPAL) from Monday 22 July to Friday 2 August 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burns in Apudthama National Park (CYPAL) from Monday 22 July to Friday 2 August 2024 (dates inclusive).</p> <p><strong>Target burn areas include (but are not limited to):</strong></p> <ul> <li>Sections adjacent to the Old Telegraph Track from Mistake Creek north.</li> <li>Sections adjacent to Bamaga Road (between the Captain Billy Landing turn-off and Fruit Bat Falls &amp; Eliot Falls turn-off).</li> <li>Sections adjacent to Ussher Point Road.</li> <li>Ussher Point Road and the Ussher Point camping area will be closed from Monday 22 to Friday 2 August&nbsp;2024 (dates inclusive).</li> </ul> <p><strong>Smoke may affect visibility along Bamaga Road and the Old Telegraph Track.</strong></p>",
-      "start_date": "2024-07-24",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burns in Apudthama National Park (CYPAL) from Monday 22 July to Friday 9 August 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burns in Apudthama National Park (CYPAL) from Monday 22 July to Friday 9 August 2024 (dates inclusive).</p> <p><strong>Target burn areas include (but are not limited to):</strong></p> <ul> <li>Sections adjacent to the Old Telegraph Track from Mistake Creek north.</li> <li>Sections adjacent to Bamaga Road (between the Captain Billy Landing turn-off and Fruit Bat Falls &amp; Eliot Falls turn-off).</li> <li>Sections adjacent to Ussher Point Road.</li> <li>Ussher Point Road and the Ussher Point camping area will be closed from Monday 22 to Friday 9 August&nbsp;2024 (dates inclusive).</li> </ul> <p><strong>Smoke may affect visibility along Bamaga Road and the Old Telegraph Track.</strong></p>",
+      "start_date": "2024-07-30",
       "start_effective_date": "2024-07-22",
-      "end_date": "2024-08-02",
+      "end_date": "2024-08-09",
       "parks": [
         {
           "id": "148892",
@@ -2640,6 +2596,23 @@
           "id": "150189",
           "name": "Glass House Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Planned works Hill Road",
+      "alert_id": "24276",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24276",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be upgrading the causeway at Woondum National Park from 16 July to 30 August 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be upgrading the causeway at Woondum National Park from 16 July to 30 August 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s webiste for updated information.&nbsp;</p>",
+      "start_date": "2024-07-30",
+      "start_effective_date": "2024-07-16",
+      "end_date": "2024-08-30",
+      "parks": [
+        {
+          "id": "148111",
+          "name": "Woondum National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/woondum"
         }
       ]
     },
@@ -2880,23 +2853,6 @@
       ]
     },
     {
-      "title": "Planned burning in Burrum Coast National Park",
-      "alert_id": "24302",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24302",
-      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) from 23 July until 29th July 2024, as part of the fire management program for Burrum Coast National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) from 23 July until 29th July 2024, as part of the fire management program for Burrum Coast National Park.</p> <p>During the planned burn, part of Burrum Coast National Park - River Section will be closed to public access.&nbsp; This includes areas of the park immediately west of the Burrum Heads Road, adjacent to Dreamtime Avenue and south of Lilly Pilly Dr.</p> <p>Smoke may be seen in the vicinity of Burrum Heads and Raintree Acres. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-22",
-      "start_effective_date": "2024-07-22",
-      "end_date": "2024-07-29",
-      "parks": [
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
       "title": "Camp Mountain day-use area toilets closed",
       "alert_id": "24306",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24306",
@@ -2931,23 +2887,6 @@
       ]
     },
     {
-      "title": "Carbrook Wetlands Conservation Park - Planned Burn",
-      "alert_id": "24313",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24313",
-      "description": "Carbrook Wetlands Conservation Park - Planned Burn",
-      "details": "<p>Carbrook Wetlands Conservation Park - Planned Burn</p> <p>The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn on Wednesday 24th until Monday 29th July (inclusive) as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>&nbsp;</p> <p>As a result of this burn, a section of Carbrook Wetlands Conservation Park will be closed during this time.</p> <p>&nbsp;</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>&nbsp;</p> <p>Smoke may be seen in the vicinity of Carbrook, Cornubia, Logan and Redlands areas. Persons with respiratory or other health conditions should seek medical advice on mitigation of the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
-      "start_effective_date": "2024-07-24",
-      "end_date": "2024-07-29",
-      "parks": [
-        {
-          "id": "322906",
-          "name": "Carbrook Wetlands Conservation Park 2",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Prescribed Burn - K'gari (Fraser Island) Kingfisher Dundonga",
       "alert_id": "24317",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24317",
@@ -2961,23 +2900,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned burns - Wooroi day-use area, Tewantin National Park",
-      "alert_id": "24318",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24318",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Noosa Shire Council will be conducting a planned burn (weather permitting) on Thursday 25th and Friday 26th July, as part of the fire management program for Tewantin National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Noosa Shire Council will be conducting a planned burn (weather permitting) on Thursday 25th and Friday 26th July, as part of the fire management program for Tewantin National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Tewantin, Noosa-Cooroy Road and Beckmans Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>During the planned burn Wooroi section, Tewantin National Park is closed to public access.<br /> &nbsp; &nbsp;&nbsp;<br /> Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.<br /> &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
-      "start_effective_date": "2024-07-24",
-      "end_date": "2024-07-29",
-      "parks": [
-        {
-          "id": "148107",
-          "name": "Tewantin National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tewantin"
         }
       ]
     },
@@ -3051,23 +2973,6 @@
           "id": "148043",
           "name": "Conondale National Park",
           "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
-      "title": "Konomie (North Keppel) Island within the Keppel Bay Islands National Park",
-      "alert_id": "24324",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24324",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Konomie (North Keppel) Island within the Keppel Bay Islands National Park, between Friday the 26th of July and Sunday the 28th of July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The main priority of this burn is Hazard reduction with a secondary priority of Conservation management. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more Information, please direct your enquiries to SGBR@des.qld.gov.au or (07) 49 716 500.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Konomie (North Keppel) Island within the Keppel Bay Islands National Park, between Friday the 26th of July and Sunday the 28th of July 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the vicinity of the area. The main priority of this burn is Hazard reduction with a secondary priority of Conservation management. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. For more Information, please direct your enquiries to SGBR@des.qld.gov.au or (07) 49 716 500.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
-      "start_effective_date": "2024-07-26",
-      "end_date": "2024-07-29",
-      "parks": [
-        {
-          "id": "149417",
-          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
-          "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
         }
       ]
     },
@@ -3252,6 +3157,23 @@
       ]
     },
     {
+      "title": "Temporary closure due to event: Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve",
+      "alert_id": "24341",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24341",
+      "description": "The Atherton Forest Mountain Bike Park, including all bike trails and walking tracks, will be closed from the carpark on Rifle Range Road to the three ways for an event on Saturday 3 August 2024 from 9.00am to 5.00pm.",
+      "details": "<p>The Atherton Forest Mountain Bike Park, including all bike trails and walking tracks, will be closed from the carpark on Rifle Range Road to the three ways for an event on Saturday 3 August 2024 from 9.00am to 5.00pm.</p>",
+      "start_date": "2024-07-30",
+      "start_effective_date": "2024-08-03",
+      "end_date": "2024-08-03",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
       "title": "Planned burning in Burrum Coast National Park",
       "alert_id": "24342",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24342",
@@ -3265,6 +3187,40 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Cardwell Range, Girringun National Park",
+      "alert_id": "24343",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24343",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the area west of the Bruce Highway between Mullers Creek and Sunday Creek Tuesday 30 July and Wednesday 31 July 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the area west of the Bruce Highway between Mullers Creek and Sunday Creek Tuesday 30 July and Wednesday 31 July 2024.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-30",
+      "start_effective_date": "2024-07-30",
+      "end_date": "2024-07-31",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Bilwon State Forest",
+      "alert_id": "24344",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24344",
+      "description": "QPWS will be conducting planned burns within Bilwon SF on Wednesday 31 July 2024.",
+      "details": "<p>QPWS will be conducting planned burns within Bilwon SF on Wednesday 31 July 2024.</p> <p>The park will remain open but visitors should be aware that there will be smoke in the area.</p> <p>Please travel safely and abide by signage. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-07-30",
+      "start_effective_date": "2024-07-31",
+      "end_date": "2024-07-31",
+      "parks": [
+        {
+          "id": "322398",
+          "name": "Bilwon State Forest",
+          "url": ""
         }
       ]
     }
