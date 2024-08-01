@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2024-07-31 10:04:58"
+    "alerts_count": 163,
+    "script_run_time": "2024-08-01 10:07:55"
   },
   "alerts": [
     {
@@ -590,23 +590,6 @@
       ]
     },
     {
-      "title": "Razorback track closed",
-      "alert_id": "23309",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23309",
-      "description": "Razorback track is closed to all traffic from the Razorback camping area to the park boundary on the Biloela side, due serious erosion and track damage.",
-      "details": "<p>Razorback track is closed to all traffic from the Razorback camping area to the park boundary on the Biloela side, due serious erosion and track damage.</p> <p>The track will remained closed until repair work can be completed.</p> <p>Access to the Razorback camping area remains open.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-06-28",
-      "start_effective_date": "2023-10-03",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
-        }
-      ]
-    },
-    {
       "title": "Announcement: Closure of North West Island",
       "alert_id": "23311",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23311",
@@ -722,11 +705,11 @@
       "title": "Wet season closure update: Cape Melville National Park (CYPAL)",
       "alert_id": "23452",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23452",
-      "description": "Cape Melville National Park (CYPAL) is currently closed for the wet season.",
-      "details": "<p>Cape Melville National Park (CYPAL) is currently closed for the wet season.</p> <p>The following camping areas will reopen 1 August 2024, subject to road and weather conditions:</p> <ul> <li>Ninian Bay camping area.</li> </ul> <p>The following camping areas will remain closed and are anticipated to reopen 1 September 2024:</p> <ul> <li>Crocodile camping area</li> <li>Wongai camping area</li> <li>Oystercatcher camping area</li> <li>Granite camping area.</li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-07-23",
+      "description": "Please see below information regarding camping areas reopening from wet season closure in Cape Melville National Park (CYPAL).",
+      "details": "<p>Please see below information regarding camping areas reopening from wet season closure in Cape Melville National Park (CYPAL).</p> <p>The following camping area is now open:</p> <ul> <li>Ninian Bay camping area.</li> </ul> <p>The following camping areas will remain closed and are anticipated to reopen 1 September 2024 (subject to road and weather conditions):</p> <ul> <li>Crocodile camping area</li> <li>Wongai camping area</li> <li>Oystercatcher camping area</li> <li>Granite camping area.</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-08-01",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-08-01",
+      "end_date": "2024-09-01",
       "parks": [
         {
           "id": "148725",
@@ -1805,23 +1788,6 @@
       ]
     },
     {
-      "title": "Toilet closure - Middle Creek Campground",
-      "alert_id": "24114",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24115",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 31st of July 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting unplanned maintenance to the Middle Creek toilets at Eurimbula National Park from the 31st of May to the 31st of July 2024.</p> <p>Visitors are advised to bring their own facilities or use the facilities at Eurimbula Creek campground during this time.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-06-28",
-      "start_effective_date": "2024-05-31",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
       "title": "New Toilet dump point",
       "alert_id": "24115",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24116",
@@ -1917,23 +1883,6 @@
       ]
     },
     {
-      "title": "Planned burn: Rinyirru (Lakefield) National Park (CYPAL)",
-      "alert_id": "24124",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24125",
-      "description": "Planned burning activities are being conducted throughout Rinyirru (Lakefield) National Park (CYPAL) from Tuesday 4 June 2024 for conservation purposes and hazard reduction.",
-      "details": "<p>Planned burning activities are being conducted throughout Rinyirru (Lakefield) National Park (CYPAL) from Tuesday 4 June 2024 for conservation purposes and hazard reduction.</p> <p>Park visitors are advised that smoke may be present in the area.&nbsp;</p> <p>People with pre-existing health conditions may be affected.</p>",
-      "start_date": "2024-06-07",
-      "start_effective_date": "2024-06-04",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "149481",
-          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to planned burn: Muundhi National Park (CYPAL)",
       "alert_id": "24126",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24127",
@@ -1998,28 +1947,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Prescribed Burn - K'gari (Fraser Island) Duck Creek",
-      "alert_id": "24149",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24150",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct prescribed burn operations between 11 June and 31 July 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct prescribed burn operations between 11 June and 31 July 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Wanggoolba Creek barge landing, Wanggoolba, Ungowa and Bennett Roads. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>As part of this prescribed burn the Great Walk feeder track between Ungowa Road and Bennett Road will be closed during this time. The main section of the Great Walk around Central Station and Lake McKenzie (Boorangoora) will remain open.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-27",
-      "start_effective_date": "2024-06-11",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -2198,23 +2125,6 @@
           "id": "150189",
           "name": "Glass House Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Prescribed Burn - Dundubara North",
-      "alert_id": "24207",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24208",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn in the area around the Dundubara camping and day use areas between 23 and 31 July 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn in the area around the Dundubara camping and day use areas between 23 and 31 July 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Dundubara Campground, beach camping zone 6 (Eugarie, Yurru, Guruman), and zone 7 (Wyuna, Burad). Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-06-27",
-      "start_effective_date": "2024-06-23",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
@@ -2746,23 +2656,6 @@
       ]
     },
     {
-      "title": "Dularcha National Park access restricted due to planned burn",
-      "alert_id": "24294",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24294",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Wednesday 31July 2024, as part of the fire management program for Dularcha National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Monday 22 July until Wednesday 31July 2024, as part of the fire management program for Dularcha National Park.</p> <p>During the planned burn the Myla, Roses and Connection circuits will be closed, The Tunnel track between Mooloolah and Landsborough townships will remain open.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Dularcha National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>These park sections will remain closed following the burn until an inspection can be carried out and the area is considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-26",
-      "start_effective_date": "2024-07-22",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "148175",
-          "name": "Dularcha National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dularcha"
-        }
-      ]
-    },
-    {
       "title": "Advisory notice - Planned burn  Binna Burra section  Lamington National Park",
       "alert_id": "24296",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24296",
@@ -3072,23 +2965,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Emerald Creek Falls walking track, Dinden West Forest Reserve",
-      "alert_id": "24336",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24336",
-      "description": "Emerald Creek Falls walking track will be closed Tuesday 30 July 2024 for scheduled maintenance, reopening Wednesday 31July 2024.",
-      "details": "<p>Emerald Creek Falls walking track will be closed Tuesday 30 July 2024 for scheduled maintenance, reopening Wednesday 31July 2024.</p> <p>Access to Emerald Creek is still available at the day use area only.&nbsp;</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p>",
-      "start_date": "2024-07-29",
-      "start_effective_date": "2024-07-30",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
       "title": "Smoke hazard from planned burn in Naree Budjong Djara National Park",
       "alert_id": "24339",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24339",
@@ -3136,40 +3012,6 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Cardwell Range, Girringun National Park",
-      "alert_id": "24343",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24343",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the area west of the Bruce Highway between Mullers Creek and Sunday Creek Tuesday 30 July and Wednesday 31 July 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the area west of the Bruce Highway between Mullers Creek and Sunday Creek Tuesday 30 July and Wednesday 31 July 2024.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-30",
-      "start_effective_date": "2024-07-30",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Bilwon State Forest",
-      "alert_id": "24344",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24344",
-      "description": "QPWS will be conducting planned burns within Bilwon SF on Wednesday 31 July 2024.",
-      "details": "<p>QPWS will be conducting planned burns within Bilwon SF on Wednesday 31 July 2024.</p> <p>The park will remain open but visitors should be aware that there will be smoke in the area.</p> <p>Please travel safely and abide by signage. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-30",
-      "start_effective_date": "2024-07-31",
-      "end_date": "2024-07-31",
-      "parks": [
-        {
-          "id": "322398",
-          "name": "Bilwon State Forest",
-          "url": ""
         }
       ]
     },
@@ -3238,6 +3080,23 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning in Poona National Park",
+      "alert_id": "24351",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24351",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) from 2nd August until 5th August 2024, as part of the fire management program for Poona National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) from 2nd August until 5th August 2024, as part of the fire management program for Poona National Park.</p> <p>During the planned burn, part of Poona National Park will be closed to public acces.&nbsp; This includes areas of the park immediately adjacent to Schwarzrock Road, near Boonooroo..</p> <p>Smoke may be seen in the vicinity of Boonooroo and Maroom.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>During ths period here may be some temporary disruption to traffic on Schwarzrock Road due to the operation of traffic control to manage smoke hazard and the safety of fire crews working on the road verge.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-01",
+      "start_effective_date": "2024-08-01",
+      "end_date": "2024-08-05",
+      "parks": [
+        {
+          "id": "147959",
+          "name": "Poona National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/poona"
         }
       ]
     }
