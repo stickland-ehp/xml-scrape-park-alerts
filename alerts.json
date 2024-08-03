@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-08-02 10:07:51"
+    "alerts_count": 162,
+    "script_run_time": "2024-08-03 10:06:54"
   },
   "alerts": [
     {
@@ -2146,23 +2146,6 @@
       ]
     },
     {
-      "title": "Warracoota circuit drive temporarily closed",
-      "alert_id": "24214",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24215",
-      "description": "Warracoota circuit drive on Diamantina National Park is temporarily closed due to wet weather conditions until Friday 2 August 2024 when conditions will be reviewed.",
-      "details": "<p>Warracoota circuit drive on Diamantina National Park is temporarily closed due to wet weather conditions until Friday 2 August 2024 when conditions will be reviewed.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-07-29",
-      "start_effective_date": "2024-06-25",
-      "end_date": "2024-08-02",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn Joseph Banks Conservation Park",
       "alert_id": "24215",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24216",
@@ -2527,28 +2510,6 @@
       ]
     },
     {
-      "title": "Planned burn and walking track detour  Great Sandy National Park - Cooloola Section",
-      "alert_id": "24279",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24279",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park near the Freshwater Camping area from Wednesday 17th July to Friday 2nd August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park near the Freshwater Camping area from Wednesday 17th July to Friday 2nd August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Teewah Camping and Freshwater Camping Area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For the duration of the planned burn, a small section of the Cooloola Great Walk has a short detour in place. The section of walking track between Kings Bore Road and Frankis Firebreak is temporarily closed. Walkers are requested to follow signage and detour directions.</p> <p>Expect minor traffic delays on King Bores Circuit. Observe traffic signage and traffic controller directions.&nbsp;</p> <p>&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-23",
-      "start_effective_date": "2024-07-16",
-      "end_date": "2024-08-02",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for planned burning activities: Big Crystal Creek camping area and day-use area, Paluma Range National Park",
       "alert_id": "24281",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24281",
@@ -2763,40 +2724,6 @@
       ]
     },
     {
-      "title": "Cape Upstart planned burn",
-      "alert_id": "24319",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24319",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burns from Thursday 25 July 2024 to Friday 2 August 2024 at the Snake Trail Cultural Site in Cape Upstart National Park, weather permitting. The site will be closed during this period and temporary smoke signage will be displayed during burning activities. This is part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen around the local areas and beyond. This planned burn will help reduce the likelihood of wildfires leading into the fire season. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burns from Thursday 25 July 2024 to Friday 2 August 2024 at the Snake Trail Cultural Site in Cape Upstart National Park, weather permitting. The site will be closed during this period and temporary smoke signage will be displayed during burning activities. This is part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen around the local areas and beyond. This planned burn will help reduce the likelihood of wildfires leading into the fire season. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information please call QPWS on 13 74 68</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-24",
-      "start_effective_date": "2024-07-25",
-      "end_date": "2024-08-02",
-      "parks": [
-        {
-          "id": "148496",
-          "name": "Cape Upstart National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-upstart"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - temporary closure to Mount Mitchell &amp; Spicers Gap section of Main Range National Park",
-      "alert_id": "24320",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24320",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Main Range National Park between the dates of 25 July 2024 and 1 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns at Main Range National Park between the dates of 25 July 2024 and 1 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire. &nbsp;</p> <p>The following camping areas and tracks will be closed:</p> <p>&nbsp;- Spicers Gap camping area and day use area<br /> &nbsp;- Spicers Peak West remote bush camp<br /> &nbsp;- Spicers Peak East remote bush camp<br /> &nbsp;- Spicers Double Top Saddle remote bush camp<br /> &nbsp;&nbsp;- Mount Mathieson trail<br /> &nbsp;- Pioneer Graves<br /> &nbsp;- Moss&#39;s Well<br /> &nbsp;- Governors Chair lookout<br /> &nbsp;- Heritage trail</p> <p>Smoke may be seen in nearby areas.&nbsp;</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-26",
-      "start_effective_date": "2024-07-25",
-      "end_date": "2024-08-02",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn Conondale National Park",
       "alert_id": "24323",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24323",
@@ -2827,28 +2754,6 @@
       "start_date": "2024-07-25",
       "start_effective_date": "2024-08-14",
       "end_date": "2024-08-16",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
-        },
-        {
-          "id": "322391",
-          "name": "Clemant State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Clemant State Forest",
-      "alert_id": "24326",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24326",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 July to 02 August 2024 (dates inclusive), as part of the fire management program for Clemant State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 July to 02 August 2024 (dates inclusive), as part of the fire management program for Clemant State Forest.</p> <p><strong>Staff and machinery will be working along QPWS firebreaks in the vicinity of the Bruce Highway.</strong></p> <p><strong>Burns will be conducted between Surveyor Creek and Station Creek on the western side of the Bruce Highway south of Rollingstone.</strong></p> <p><strong>For your safety and the safety of staff, this area is closed to public access during the planned burn.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-26",
-      "start_effective_date": "2024-07-30",
-      "end_date": "2024-08-02",
       "parks": [
         {
           "id": "148452",
@@ -2927,23 +2832,6 @@
           "id": "150212",
           "name": "Cardwell State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
-        }
-      ]
-    },
-    {
-      "title": "Smoke hazard from planned burn in Naree Budjong Djara National Park",
-      "alert_id": "24339",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24339",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) in joint management with Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning operations within the Naree Budjong Djara National Park, at the southern end of Minjerribah (North Stradbroke Island), commencing 24 July 2024, weather permitting, as part of the annual hazard reduction, conservation and cultural management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) in joint management with Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting planned burning operations within the Naree Budjong Djara National Park, at the southern end of Minjerribah (North Stradbroke Island), commencing 24 July 2024, weather permitting, as part of the annual hazard reduction, conservation and cultural management program for parks and forests.</p> <p><strong>As a result, smoke may be seen on the southern end of Minjerribah and visible from the Bay Islands (Macleay Island, Lamb Island, Russell Island).</strong></p> <p>If visiting Naree Budjong Djara National Park and Minjerribah Recreation Area, observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They are also essential in preserving and protecting cultural assets and cultural landscapes.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website&nbsp;<a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>You can stay updated with local QPWS fire activities by visiting&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;or by following&nbsp;<a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a>&nbsp;on X (formerly known as Twitter).</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-29",
-      "start_effective_date": "2024-07-29",
-      "end_date": "2024-08-02",
-      "parks": [
-        {
-          "id": "150268",
-          "name": "Naree Budjong Djara National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
         }
       ]
     },
@@ -3190,6 +3078,23 @@
           "id": "148127",
           "name": "Girramay National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girramay"
+        }
+      ]
+    },
+    {
+      "title": "K'gari (Fraser Island) - fire active in Beach camping zone 5",
+      "alert_id": "24357",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24357",
+      "description": "A fire is currently active in the vicinity of the Maheno Wreck within the Fraser Island Recreation Area. For visitor safety beach camping zone 5 Maheno-Wahba is temporarily closed until further notice.",
+      "details": "<p>A fire is currently active in the vicinity of the Maheno Wreck within the Fraser Island Recreation Area. For visitor safety beach camping zone 5 Maheno-Wahba is temporarily closed until further notice.</p> <p>Visitors should exercise caution at all times when travelling along K&#39;gari&#39;s eastern beach in the vicinity of the Maheno Wreck as smoke may impact visibility.&nbsp;Smoke may also affect nearby camping areas.</p> <p>People with camping bookings in zone 5 can request a booking change or refund via the online booking system at www.qld.gov.au/camping</p> <p>Observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Check Park Alerts regularly for updates on current park conditions.</p> <p><strong>To report any wildfires call 000.</strong></p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-03",
+      "start_effective_date": "2024-08-02",
+      "end_date": "2024-08-09",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     }
