@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-08-03 10:06:54"
+    "alerts_count": 161,
+    "script_run_time": "2024-08-04 10:06:57"
   },
   "alerts": [
     {
@@ -2832,23 +2832,6 @@
           "id": "150212",
           "name": "Cardwell State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to event: Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve",
-      "alert_id": "24341",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24341",
-      "description": "The Atherton Forest Mountain Bike Park, including all bike trails and walking tracks, will be closed from the carpark on Rifle Range Road to the three ways for an event on Saturday 3 August 2024 from 6.00am to 6.00pm.",
-      "details": "<p>The Atherton Forest Mountain Bike Park, including all bike trails and walking tracks, will be closed from the carpark on Rifle Range Road to the three ways for an event on Saturday 3 August 2024 from 6.00am to 6.00pm.</p> <p>Herberton Range Ridge Road will also be closed from the trailhead on Rifle Range Road to the three ways.</p> <p>Access to Mount Wallam will only be possible via the southern end of Herberton Range Ridge Road.&nbsp;</p>",
-      "start_date": "2024-07-31",
-      "start_effective_date": "2024-08-03",
-      "end_date": "2024-08-03",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
         }
       ]
     },
