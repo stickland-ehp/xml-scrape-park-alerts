@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 161,
-    "script_run_time": "2024-08-04 10:06:57"
+    "alerts_count": 165,
+    "script_run_time": "2024-08-05 10:06:42"
   },
   "alerts": [
     {
@@ -2887,23 +2887,6 @@
       ]
     },
     {
-      "title": "Planned burn - Western Creek State Forest",
-      "alert_id": "24348",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24348",
-      "description": "QPWS will conduct a planned burn in Western Creek State Forest between 01/08/24 and 02/08/24, weather permitting.",
-      "details": "<p>QPWS will conduct a planned burn in Western Creek State Forest between 01/08/24 and 02/08/24, weather permitting.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>As a result of the planned burn,&nbsp;smoke may be seen in the nearby areas.</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.burn, smoke may be seen in the nearby areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-07-31",
-      "start_effective_date": "2024-08-01",
-      "end_date": "2024-08-04",
-      "parks": [
-        {
-          "id": "322348",
-          "name": "Western Creek State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Possession Island National Park closed for planned burn",
       "alert_id": "24349",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24349",
@@ -3078,6 +3061,91 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program Blackdown Tableland National Park",
+      "alert_id": "24358",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24358",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Blackdown Tableland National Park from 7/08/2024 to 8/08/2024 as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Blackdown Tableland National Park from 7/08/2024 to 8/08/2024 as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with the Blackdown Pest Animal Plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.<br /> Firearms, poisons and traps may be in use.<br /> As a result, the following areas are temporarily closed for the duration of the pest management program:<br /> &bull; Munall Camping Area&nbsp;<br /> All permits for closed areas are suspended for the duration of the closure.<br /> Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.<br /> Facilities will reopen when the program is completed.<br /> Please observe all signage, barriers and directions fromm Rangers and do not enter closed areas.<br /> Please monitor Park Alerts on the Department&#39;s website for updated information.&nbsp;</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-05",
+      "start_effective_date": "2024-08-07",
+      "end_date": "2024-08-08",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Leichhardt Creek to Lilypond Creek, east of the Bruce Highway, Paluma Range National Park",
+      "alert_id": "24359",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24359",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) on Wednesday 07 August 2024 as part of the fire management program for Paluma Range National Park. During the planned burn, Leichhardt Creek to Lilypond Creek, east of the Bruce Highway, will be closed to public access.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) on Wednesday 07 August 2024 as part of the fire management program for Paluma Range National Park. During the planned burn, Leichhardt Creek to Lilypond Creek, east of the Bruce Highway, will be closed to public access.</p> <p>It is expected to reopen Wednesday 14 August 2024, or when considered safe to enter.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-05",
+      "start_effective_date": "2024-08-07",
+      "end_date": "2024-08-13",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary swimming area closure: Jourama Falls day-use area, Paluma Range National Park",
+      "alert_id": "24360",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24360",
+      "description": "The swimming area located at Jourama Falls day-use area, Paluma Range National Park, will be closed from Friday 9 August to Monday 30 September 2024 (dates inclusive), to allow contractors to construct a new swimming access.",
+      "details": "<p>The swimming area located at Jourama Falls day-use area, Paluma Range National Park, will be closed from Friday 9 August to Monday 30 September 2024 (dates inclusive), to allow contractors to construct a new swimming access.</p> <p>During this period visitors are reminded to adhere to any onsite closure signage and directions from rangers and contractors.</p> <p>Swimming will still be available at the Jourama Falls lookout walk and at Jourama Falls camping area.</p>",
+      "start_date": "2024-08-05",
+      "start_effective_date": "2024-08-09",
+      "end_date": "2024-08-30",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn  Great Sandy National Park - Cooloola Section",
+      "alert_id": "24362",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24362",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park in the Rainbow Beach township area on Tuesday 6 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park in the Rainbow Beach township area on Tuesday 6 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Rainbow Beach township area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Firefighters and machinery may be working along the rear access walking track to Carlo Sandblow. For your safety and the safety of firefighters, please use caution and observe all directions and signs.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-05",
+      "start_effective_date": "2024-08-06",
+      "end_date": "2024-08-06",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn- Eungella National Park",
+      "alert_id": "24363",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24363",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Eungella National Park from Tuesday 6th August until Thursday 8th August, weather permitting as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Eungella National Park from Tuesday 6th August until Thursday 8th August, weather permitting as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.</p> <p>This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>For more information, please call Mackay office of QPWS on 0427 587 330.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-05",
+      "start_effective_date": "2024-08-06",
+      "end_date": "2024-08-09",
+      "parks": [
+        {
+          "id": "148295",
+          "name": "Eungella National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eungella"
         }
       ]
     }
