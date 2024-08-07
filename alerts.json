@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-08-06 10:07:59"
+    "alerts_count": 164,
+    "script_run_time": "2024-08-07 10:07:56"
   },
   "alerts": [
     {
@@ -3048,23 +3048,6 @@
       ]
     },
     {
-      "title": "Planned burn  Great Sandy National Park - Cooloola Section",
-      "alert_id": "24362",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24362",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park in the Rainbow Beach township area on Tuesday 6 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park in the Rainbow Beach township area on Tuesday 6 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Rainbow Beach township area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Firefighters and machinery may be working along the rear access walking track to Carlo Sandblow. For your safety and the safety of firefighters, please use caution and observe all directions and signs.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
-      "start_date": "2024-08-05",
-      "start_effective_date": "2024-08-06",
-      "end_date": "2024-08-06",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn- Eungella National Park",
       "alert_id": "24363",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24363",
@@ -3091,6 +3074,77 @@
       "start_effective_date": "2024-08-06",
       "end_date": "2024-08-09",
       "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Mount Gillies",
+      "alert_id": "24365",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24365",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 8 August 2024, as part of the fire management program for Mount Barney National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 8 August 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the Mount Gillies section of Mount Barney National Park&nbsp;will be closed. This includes all summit routes on Mount Maroon. This closure does not affect access to&nbsp;the summit routes on&nbsp;Mount Barney or Mount Maroon.&nbsp;</p> <p>This area&nbsp;will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney, Barney view and Palen Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-07",
+      "start_effective_date": "2024-08-08",
+      "end_date": "2024-08-15",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Rainbow Beach QPWS Information Centre temporarily closed",
+      "alert_id": "24366",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24366",
+      "description": "The Rainbow Beach QPWS Information Centre will be temporarily closed from Thursday 8 until Friday 16 August 2024.",
+      "details": "<p>The Rainbow Beach QPWS Information Centre will be temporarily closed from Thursday 8 until Friday 16 August 2024.</p> <p>To obtain QPWS camping and vehicle permits during this time:</p> <ul> <li>QPWS Online bookings <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></li> <li>Rainbow Beach Shell Service Station</li> <li>Manta Ray Barges permit sales office at the Rainbow Beach Caltex Service Station&nbsp;<a href=\"http://www.mantarayfraserislandbarge.com.au\">www.mantarayfraserislandbarge.com.au</a></li> </ul> <p>To make booking changes, apply for refunds, or system credits, log on to <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>For general park information including Park Alerts and Condition Reports please visit <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a></p>",
+      "start_date": "2024-08-07",
+      "start_effective_date": "2024-08-08",
+      "end_date": "2024-08-16",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn activities: Mount Massie and Little Mulgrave Hillslopes, Wooroonooran National Park and Little Mulgrave National Park",
+      "alert_id": "24368",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24368",
+      "description": "Queensland parks and Wildlife Service will be conducting planned burns in the Mount Massie section of Wooroonooran National Park as well as the hillslopes within the Little Mulgrave National Park between the 8 and 9 August 2024. This burn is being carried out for conservation management and fuel hazard reduction purposes, and smoke may be seen in this vicinity.",
+      "details": "<p>Queensland parks and Wildlife Service will be conducting planned burns in the Mount Massie section of Wooroonooran National Park as well as the hillslopes within the Little Mulgrave National Park between the 8 and 9 August 2024. This burn is being carried out for conservation management and fuel hazard reduction purposes, and smoke may be seen in this vicinity.</p> <p>Stay up-to-date with <a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire and Emergency Services (QFES).</p>",
+      "start_date": "2024-08-07",
+      "start_effective_date": "2024-08-08",
+      "end_date": "2024-08-09",
+      "parks": [
+        {
+          "id": "322677",
+          "name": "Little Mulgrave National Park",
+          "url": ""
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        },
         {
           "id": "148468",
           "name": "Wooroonooran National Park",
