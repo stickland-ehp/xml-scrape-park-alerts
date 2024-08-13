@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-08-12 10:08:13"
+    "alerts_count": 168,
+    "script_run_time": "2024-08-13 10:08:38"
   },
   "alerts": [
     {
@@ -474,6 +474,45 @@
           "id": "148420",
           "name": "Hinchinbrook Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Cathu State Forest Access Road",
+      "alert_id": "22951",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/22951",
+      "description": "Visitors are advised that the Cathu State Forest access road is currently in poor condition due to erosion caused by heavy rain.",
+      "details": "<p>Visitors are advised that the Cathu State Forest access road is currently in poor condition due to erosion caused by heavy rain.</p> <p>The road is open to high clearance 4wd vehicles only. Please proceed with caution.&nbsp;</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2023-05-15",
+      "end_date": "2024-12-31",
+      "parks": [
+        {
+          "id": "148027",
+          "name": "Cathu State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cathu"
+        }
+      ]
+    },
+    {
+      "title": "Clarke Range Track Closure",
+      "alert_id": "22984",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/22984",
+      "description": "The Clarke Range Walking Track from Sky Window to Broken River is currently closed due to storm damage which has caused major landslips and the loss of sections of the walking track.",
+      "details": "<p>The Clarke Range Walking Track from Sky Window to Broken River is currently closed due to storm damage which has caused major landslips and the loss of sections of the walking track.</p> <p>Queensland Parks and Wildlife service are currently working on restoring access to the area. The closure will remain in place until remediation works are complete and the track is safe to open to visitors.&nbsp;&nbsp;</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2023-05-24",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "154584",
+          "name": "Mackay Highlands Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-mackay-highlands"
+        },
+        {
+          "id": "148295",
+          "name": "Eungella National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eungella"
         }
       ]
     },
@@ -1506,23 +1545,6 @@
       ]
     },
     {
-      "title": "Horseshoe-Balding-Radical Bays walking track closed for upgrades",
-      "alert_id": "23979",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23979",
-      "description": "Queensland Parks and Wildlife Service will be upgrading the national park walking track linking Horseshoe Bay, Balding Bay, and Radical Bay.",
-      "details": "<p>Queensland Parks and Wildlife Service will be upgrading the national park walking track linking Horseshoe Bay, Balding Bay, and Radical Bay.</p> <p>The walking track from Horseshoe Bay to Radical Bay, including the Balding Bay track will be CLOSED to all park users from 13 May to 31 August. This is necessary to ensure safety during construction and reduce additional impacts outside of the walking track corridor.</p> <ul> <li>Visitor access to Balding Bay by vessel will remain open.</li> <li>Visitor access to Radical Bay from the Forts Junction (routes 1 &amp; 2) will remain open.</li> </ul> <p><a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0032/275963/magnetic-island-walking-trail-maps.pdf\">Magnetic Island walking trail maps</a></p> <p>Queensland Parks and Wildlife Service thanks you for your understanding during construction and apologises for any inconvenience.</p> <p>For further information call the QPWS Magnetic Island office (07) 4778 5378.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please visit this park&rsquo;s page on the department&rsquo;s website for alternative nearby park attractions and experiences.</p>",
-      "start_date": "2024-04-15",
-      "start_effective_date": "2024-05-13",
-      "end_date": "2024-08-31",
-      "parks": [
-        {
-          "id": "148961",
-          "name": "Magnetic Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
-        }
-      ]
-    },
-    {
       "title": "Walking track open with caution: Djyinda walk, Wallaman Falls, Girringun National Park",
       "alert_id": "24012",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24012",
@@ -2340,9 +2362,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24261",
       "description": "Hazardous objects (metal spikes) have recently been found on roads in the Brigalow General Permissions Area, within Blair Athol State Forest.",
       "details": "<p>Hazardous objects (metal spikes) have recently been found on roads in the Brigalow General Permissions Area, within Blair Athol State Forest.</p> <p>Fossickers, visitors and members of the public are encouraged to stay alert and take care while fossicking or accessing the Brigalow General Permission Area.</p> <p>Report any hazardous items found to the Queensland Police Service</p>",
-      "start_date": "2024-07-12",
+      "start_date": "2024-08-13",
       "start_effective_date": "2024-07-12",
-      "end_date": "2024-08-12",
+      "end_date": "2024-10-25",
       "parks": [
         {
           "id": "322380",
@@ -2690,6 +2712,28 @@
       ]
     },
     {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "24345",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24345",
+      "description": "South Zoe Bay camping area will be undergoing works from 15-22 August 2024.",
+      "details": "<p>South Zoe Bay camping area will be undergoing works from 15-22 August 2024.</p> <p>Other minor works may be occurring at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</p> <p>All camping areas and tracks will remain open during the works. Some of the beach campsites at South Zoe Bay camping area may be closed at times, please remember to use the forest campsites 100m along the Zoe Falls track. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2024-08-15",
+      "end_date": "2024-08-22",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
       "title": "Planned burn and temporary track closures at Mapleton National Park",
       "alert_id": "24352",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24352",
@@ -2864,11 +2908,11 @@
       "title": "Planned works Rock Pools day-use area carpark",
       "alert_id": "24371",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24371",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be upgrading the carpark at Woondum National Park from 11 August to 13 August 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be upgrading the carpark at Woondum National Park from 11 August to 13 August 2024.</p> <p>During this period there will be no access to the Rock pools or the Boulder Mountain hiking trail</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s website for updated information</p>",
-      "start_date": "2024-08-08",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be upgrading the carpark at Woondum National Park from 11 August to 16 August 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be upgrading the carpark at Woondum National Park from 11 August to 16 August 2024.</p> <p>During this period there will be no access to the Rock pools or the Boulder Mountain hiking trail</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s website for updated information</p>",
+      "start_date": "2024-08-13",
       "start_effective_date": "2024-08-11",
-      "end_date": "2024-08-13",
+      "end_date": "2024-08-16",
       "parks": [
         {
           "id": "148111",
@@ -3024,12 +3068,12 @@
       ]
     },
     {
-      "title": "Safety Alert: Potential for impacts to access roads Blackdown Tableland National Park and Byfield State Forest",
+      "title": "Safety Alert: Potential for impacts to access roads Blackdown Tableland National Park",
       "alert_id": "24383",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24383",
-      "description": "Visitors are advised that heavy rainfall events are predicted in the coming week and may result in temporary flooding of access roads into Parks.",
-      "details": "<p>Visitors are advised that heavy rainfall events are predicted in the coming week and may result in temporary flooding of access roads into Parks.</p> <p>Before travelling to Blackdown Tableland National Park, visitors should confirm that the road is open by visiting the Central Highland Regional Council&#39;s Emergency Dashboard - beprepared.chrc.qld.gov.au<br /> <br /> &nbsp;Flooding at Byfield State Forest may restrict access to:<br /> - Waterpark Creek Day use area / Campsite and Upper Stoney Day use area / Campsite<br /> <br /> - Byfield coastal areas including:<br /> &bull;Five Rocks Campsite<br /> &bull;Nine Mile beach- Mytellea, Melaleuca, Pandanus and Casuarina Campsites<br /> &bull;Stockyard Point<br /> <br /> Check current levels at the Waterpark Creek causeway at http://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml(external link)<br /> Please take note if flood water levels are at or above 250mm at Waterpark Creek Crossing DO NOT enter the water.<br /> <br /> Remember if it&#39;s flooded, forget it.<br /> Please monitor Queensland Traffic for updated information regarding road and traffic conditions.<br /> Please monitor park alerts on the department&#39;s website for updated information.<br /> Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-12",
+      "description": "Visitors are advised that heavy rainfall events are predicted in the coming week and may result in temporary flooding of access roads into Park.",
+      "details": "<p>Visitors are advised that heavy rainfall events are predicted in the coming week and may result in temporary flooding of access roads into Park.</p> <p>Before travelling to Blackdown Tableland National Park, visitors should confirm that the road is open by visiting the Central Highland Regional Council&#39;s Emergency Dashboard - beprepared.chrc.qld.gov.au</p>",
+      "start_date": "2024-08-13",
       "start_effective_date": "2024-08-12",
       "end_date": "2024-08-19",
       "parks": [
@@ -3037,11 +3081,6 @@
           "id": "150224",
           "name": "Blackdown Tableland National Park",
           "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
-        },
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/byfield"
         }
       ]
     },
@@ -3125,6 +3164,84 @@
           "id": "150224",
           "name": "Blackdown Tableland National Park",
           "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Top Moffatt and High Country drive - closed due to weather event",
+      "alert_id": "24388",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24388",
+      "description": "As a result of heavy rain affecting road conditions, Top Moffatt and the High Country drive in the Mount Moffatt section of Carnarvon National Park are closed up to, and including, Friday 16 August.",
+      "details": "<p>As a result of heavy rain affecting road conditions, Top Moffatt and the High Country drive in the Mount Moffatt section of Carnarvon National Park are closed up to, and including, Friday 16 August.</p> <p>The closure includes:</p> <ul> <li>Top Moffatt camping area</li> <li>Rotary Shelter Sheld campimg area</li> <li>High Country drive</li> <li>Kenniff drive</li> <li>Top Shelter Shed&nbsp;</li> <li>Mahogany Forest</li> </ul> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2024-08-13",
+      "end_date": "2024-08-16",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Walshs Pyramid walking track, Wooroonooran National Park",
+      "alert_id": "24389",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24389",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the Walshs Pyramid and Mount Massey sections of Wooroonooran National Park and the Blackwells Creek area of Little Mulgrave National Park from Wednesday 14 August to Friday 16 August 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the Walshs Pyramid and Mount Massey sections of Wooroonooran National Park and the Blackwells Creek area of Little Mulgrave National Park from Wednesday 14 August to Friday 16 August 2024 (dates inclusive).</p> <p>This burn is being carried out for conservation management and fuel hazard reduction purposes.</p> <p>Walshs Pyramid walking track will be closed and visitors are urged to not visit Mount Massey or Little Mulgrave National Park during these times.</p> <p>For your safety, please obey all signage and directions provided by Rangers.</p> <p>Your safety is our concern but your responsibility.</p> <p><br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2024-08-14",
+      "end_date": "2024-08-16",
+      "parks": [
+        {
+          "id": "322292",
+          "name": "Little Mulgrave Forest Reserve",
+          "url": ""
+        },
+        {
+          "id": "322677",
+          "name": "Little Mulgrave National Park",
+          "url": ""
+        },
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
+      "alert_id": "24390",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24390",
+      "description": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
+      "details": "<p>Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest</p> <p>Following recent and ongoing rainfall, the causeway at Water Park has become flooded.<br /> <br /> This will impact access to and from the following areas -<br /> * Byfield State Forest, including Water Park Creek camping and day use<br /> * Byfield Conservation Park, including Five Rocks camping area, and<br /> * Byfield National Park, including Nine Mile Beach camping area.<br /> <br /> Further rain has the potential to impact access to Upper Stony camping and day use also.<br /> <br /> Please check online for local road conditions and closures before travelling.<br /> <br /> Current levels ar Waterpark Creek Causeway can be accessed at&nbsp;http://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml<br /> Please note if flood water levels are at or above 250mm at Waterpark Creek Crossing DO NOT enter the water.<br /> <br /> Remember, if it&#39;s flooded, forget it.</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2024-08-13",
+      "end_date": "2024-08-19",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Deepwater National Park - Feral Animal Management",
+      "alert_id": "24391",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24391",
+      "description": "QPWS staff &amp; contractors will be undertaking activities to control the feral fox and pig population within Deepwater National Park. These activities will be conducted in preparation for the upcoming marine turtle nesting season.",
+      "details": "<p>QPWS staff &amp; contractors will be undertaking activities to control the feral fox and pig population within Deepwater National Park. These activities will be conducted in preparation for the upcoming marine turtle nesting season.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-13",
+      "start_effective_date": "2024-08-13",
+      "end_date": "2024-08-30",
+      "parks": [
+        {
+          "id": "148279",
+          "name": "Deepwater National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/deepwater"
         }
       ]
     }
