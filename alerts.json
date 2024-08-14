@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-08-13 10:08:38"
+    "alerts_count": 176,
+    "script_run_time": "2024-08-14 10:08:17"
   },
   "alerts": [
     {
@@ -3242,6 +3242,157 @@
           "id": "148279",
           "name": "Deepwater National Park",
           "url": "https://parks.desi.qld.gov.au/parks/deepwater"
+        }
+      ]
+    },
+    {
+      "title": "Carnarvon Creek crossings underwater due to weather event",
+      "alert_id": "24392",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24392",
+      "description": "Due to heavy rainfall, some of Carnarvon Creek crossings are underwater and impassable.",
+      "details": "<p>Due to heavy rainfall, some of Carnarvon Creek crossings are underwater and impassable.</p> <p>All of the Carnarvon Gorge walking tracks could be affected by fluctuating water levels.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-13",
+      "end_date": "2024-08-14",
+      "parks": [
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
+        },
+        {
+          "id": "150195",
+          "name": "Carnarvon Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
+        }
+      ]
+    },
+    {
+      "title": "Lake Garawongera Scenic Drive - Partial Closure",
+      "alert_id": "24393",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24393",
+      "description": "Due to recent weather events, a large number of tree's are currently restricting access on the Garrawongera Scenic Drive Road between Lake Garrawongera Carpark and the Bogimbah Road T - Intersection.",
+      "details": "<p>Due to recent weather events, a large number of tree's are currently restricting access on the Garrawongera Scenic Drive Road between Lake Garrawongera Carpark and the Bogimbah Road T - Intersection.</p> <p>In and out access to Lake Garrawongera is still open via the Moon Point Road</p> <p>We apologies for any inconvenience this may cause, Rangers aim to have the road re-opened as soon as possible.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-14",
+      "end_date": "2024-08-23",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather alert Great Sandy National Park",
+      "alert_id": "24394",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24394",
+      "description": "The Bureau of Meteorology has issued Coastal Hazard Warning for Damaging Surf which may affect Cooloola Recreation Area, Inskip Peninsula Recreation Area and Kgari Recreation Area.",
+      "details": "<p>The Bureau of Meteorology has issued Coastal Hazard Warning for Damaging Surf which may affect Cooloola Recreation Area, Inskip Peninsula Recreation Area and Kgari Recreation Area.</p> <p>Weather Situation: A trough near the central Queensland coast is combining with a high-pressure system in the Tasman Sea to generate strong easterly winds and large waves along the southern Queensland coast.</p> <p>A Hazardous Surf Warning is in effect for Capricornia, K&#39;gari, and Sunshine Coast waters on Tuesday and Wednesday. Motorists should exercise caution, plan to travel at low tide if safe, and be aware that beach and campsite access points may have erosion with steep drop-offs. Drivers should slow down and assess conditions before proceeding.</p> <p>Damaging surf conditions, potentially causing beach erosion, are expected from Tuesday morning through Wednesday. Campers in exposed beach areas should monitor weather forecasts and road conditions to decide whether to stay or depart. Campers at Inskip Peninsula have better road access but should be aware that roads may flood, and strong winds increase the risk of falling trees.</p> <p>Exercise caution in all waterways due to recent heavy rainfall in the Upper Noosa River. Fast-flowing water and submerged hazards may be present in sections of the river.</p> <p>Observe all signage, barriers and directions from rangers. Do not enter any closed areas.</p> <p>Stay informed of any closures and weather conditions:</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-14",
+      "end_date": "2024-08-17",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Combo Waterhole closed for carpark maintenance",
+      "alert_id": "24395",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24395",
+      "description": "Access to Combo Waterhole is closed with trucks and heavy plant operating on access road and carpark. Reopening planned for Saturday 17th August 2024.",
+      "details": "<p>Access to Combo Waterhole is closed with trucks and heavy plant operating on access road and carpark. Reopening planned for Saturday 17th August 2024.</p> <p>Please monitor park alerts for updates</p> <p><br /> Please monitor park alerts for updates and check Bureau of Meteorology for weather warnings and forecasts.</p> <p><br /> Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p><br /> Read more on your safety while visiting our Park here Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</p> <p><br /> For your safety, please observe all signage, barriers, and directions from Rangers, Contractors and do not enter closed areas.</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-14",
+      "end_date": "2024-08-16",
+      "parks": [
+        {
+          "id": "148937",
+          "name": "Combo Waterhole Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/combo-waterhole"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Halifax Bay Wetlands National Park",
+      "alert_id": "24396",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24396",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities between 15 August and 30 September 2024 (depending on weather conditions).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities between 15 August and 30 September 2024 (depending on weather conditions).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-15",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "148512",
+          "name": "Halifax Bay Wetlands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Hartleys Falls walking track, Macalister Range National Park",
+      "alert_id": "24397",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24397",
+      "description": "The Hartleys Falls walking track will be temporarily closed on Thursday 15 August 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes. Please adhere to all instructions by rangers and track closure signage.",
+      "details": "<p>The Hartleys Falls walking track will be temporarily closed on Thursday 15 August 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes. Please adhere to all instructions by rangers and track closure signage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-15",
+      "end_date": "2024-08-15",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Conway National Park planned burn activities",
+      "alert_id": "24398",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24398",
+      "description": "Planned Burn Swamp Bay section Conway National Park",
+      "details": "<p>Planned Burn Swamp Bay section Conway National Park</p> <p>The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct planned burn operations on the Swamp Bay section of Conway National Park and Conway Conservation Park from Tuesday 20 August 2024 to Friday 23 August 2024, weather permitting, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>As a result, smoke may be seen in the local areas and beyond. Smoke can decrease visibility, so it is important that motorists, mariners, and pilots drive/fly safely to the conditions.</p> <p>For public safety, access to the planned burn area will be closed until further notice. All walking tracks, shared trails, camping areas and associated carparks within the planned burn area are closed, including:</p> <ul> <li>Mt Rooper circuit</li> <li>Swamp Bay walk</li> <li>Swamp Bay camping area</li> </ul> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness</p> <p>For more information, please contact QPWS&amp;P on 13QGOV (13 74 68).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-20",
+      "end_date": "2024-08-23",
+      "parks": [
+        {
+          "id": "147975",
+          "name": "Conway National Park and Conway Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conway"
+        }
+      ]
+    },
+    {
+      "title": "Hoppy Lark's access road temporarily closed - Burrum Coast National Park",
+      "alert_id": "24399",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24399",
+      "description": "Access track to Hoppy Lark's day use area is closed to vehicles, due to water over the road. Walking access is permitted along the road to Hoppy Lark's day use area.",
+      "details": "<p>Access track to Hoppy Lark's day use area is closed to vehicles, due to water over the road. Walking access is permitted along the road to Hoppy Lark's day use area.</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "start_date": "2024-08-14",
+      "start_effective_date": "2024-08-14",
+      "end_date": "2024-09-06",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
         }
       ]
     }
