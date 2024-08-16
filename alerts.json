@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-08-15 10:09:50"
+    "alerts_count": 171,
+    "script_run_time": "2024-08-16 10:08:19"
   },
   "alerts": [
     {
@@ -918,10 +918,10 @@
       "alert_id": "23601",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23601",
       "description": "The Goldsborough Valley section of Wooroonooran National Park is temporarily closed.",
-      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed.</p> <p>The closure includes:&nbsp;</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Goldfied trail and Mulgrave River (Top causeway) camping area.</li> </ul> <p>Access across Fisheries bridge has now been restored with a temporary council bridge installed for residents use only, however Arnold&rsquo;s bridge and access to Goldsborough Valley Camping area will remain closed.</p> <p>Rangers are currently repairing roads, landslides and drainage following Tropical Cyclone Jasper and the park is anticipated to reopen on Sunday 1 September 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
-      "start_date": "2024-07-26",
+      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed.</p> <p>The closure includes:&nbsp;</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Goldfied trail and Mulgrave River (Top causeway) camping area.</li> </ul> <p>Access across Fisheries bridge has now been restored with a temporary council bridge installed for residents use only, however Arnold&rsquo;s bridge and access to Goldsborough Valley Camping area will remain closed.</p> <p>Rangers are currently repairing roads, landslides and drainage following Tropical Cyclone Jasper and the park is anticipated to reopen on Saturday 14 September 2024.</p> <p>Monitor park alerts for current information.&nbsp;</p>",
+      "start_date": "2024-08-16",
       "start_effective_date": "2023-12-20",
-      "end_date": "2024-08-31",
+      "end_date": "2024-09-13",
       "parks": [
         {
           "id": "148468",
@@ -980,9 +980,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23641",
       "description": "Due to impacts from ex-Tropical Cyclone Jasper, some walking tracks at Earl Hill Conservation Park remain closed due to landslips. See below for more information on Earl Hill Conservation Park walking tracks.",
       "details": "<p>Due to impacts from ex-Tropical Cyclone Jasper, some walking tracks at Earl Hill Conservation Park remain closed due to landslips. See below for more information on Earl Hill Conservation Park walking tracks.</p> <p>The Woodland walking track is partially closed. The section from the trailhead on Flagship Drive up to the junction with the Rainforest walking track is closed. From the junction to the summit is open and can be accessed from the Rainforest walking track. The partial closure is due to a landslip that requires earth stabilisation work to make it safe.&nbsp;</p> <p>The following Earl Hill Conservation Park walking tracks are OPEN:</p> <ul> <li>Cycad walking track</li> <li>Rainforest walking track</li> <li>Lizard walking track.</li> </ul> <p>A map of Earl Hill&nbsp;Conservation Park walking tracks can be found <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0024/263247/earl-hill-conservation-park-map.pdf\">here</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-07-29",
+      "start_date": "2024-08-16",
       "start_effective_date": "2024-01-05",
-      "end_date": "2024-08-31",
+      "end_date": "2024-08-18",
       "parks": [
         {
           "id": "263080",
@@ -2444,28 +2444,6 @@
       ]
     },
     {
-      "title": "Prescribed Burn - K'gari (Fraser Island) Figtree Creek",
-      "alert_id": "24288",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24288",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation rangers will conduct a prescribed burn between 19 July 2024 and 15 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation rangers will conduct a prescribed burn between 19 July 2024 and 15 August 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of the Figtree Creek, Garrys Anchorage, Dilli Village and Boonooroo. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp; Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-07-18",
-      "start_effective_date": "2024-07-19",
-      "end_date": "2024-08-15",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Prescribed Burn - K'gari (Fraser Island) Deep Creek",
       "alert_id": "24292",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24292",
@@ -2795,23 +2773,6 @@
       ]
     },
     {
-      "title": "Planned Burn - Mount Gillies",
-      "alert_id": "24365",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24365",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 8 August 2024, as part of the fire management program for Mount Barney National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 8 August 2024, as part of the fire management program for Mount Barney National Park.</p> <p>During this closure the Mount Gillies section of Mount Barney National Park&nbsp;will be closed. This closure does not affect access to&nbsp;the summit routes on&nbsp;Mount Barney or Mount Maroon.&nbsp;</p> <p>This area&nbsp;will remain closed until safe to reopen.</p> <p>Smoke may be seen in the vicinity of Mount Barney, Barney view and Palen Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-08",
-      "start_effective_date": "2024-08-08",
-      "end_date": "2024-08-15",
-      "parks": [
-        {
-          "id": "148528",
-          "name": "Mount Barney National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
-        }
-      ]
-    },
-    {
       "title": "Rainbow Beach QPWS Information Centre temporarily closed",
       "alert_id": "24366",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24366",
@@ -2917,9 +2878,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24375",
       "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
       "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Booloumba Creek Road</li> <li>Funnels Hut Road</li> <li>Booloumba Falls</li> </ul> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-09",
+      "start_date": "2024-08-16",
       "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-19",
+      "end_date": "2024-08-23",
       "parks": [
         {
           "id": "148043",
@@ -2929,36 +2890,19 @@
       ]
     },
     {
-      "title": "Flood watch - Cedar Creek rock pools closed",
+      "title": "Wet weather  Cedar Creek rock pools closed",
       "alert_id": "24376",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24376",
-      "description": "The Bureau of Meteorology has issued a Flood Watch for the South East Queensland Coastal Catchments which may affect Cedar Creek section of Tamborine National Park.",
-      "details": "<p>The Bureau of Meteorology has issued a Flood Watch for the South East Queensland Coastal Catchments which may affect Cedar Creek section of Tamborine National Park.</p> <p>Due to the predicted deterioration in conditions, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the weather event to enable QPWS Rangers time to assess any damage resulting from the event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-08-12",
+      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the weather event to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-08-16",
       "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-16",
+      "end_date": "2024-08-19",
       "parks": [
         {
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.desi.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather - Oceanview track closed",
-      "alert_id": "24377",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24377",
-      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-08-12",
-      "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-16",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
         }
       ]
     },
@@ -2997,23 +2941,6 @@
       ]
     },
     {
-      "title": "Safety Alert: Potential for impacts to access roads Blackdown Tableland National Park",
-      "alert_id": "24383",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24383",
-      "description": "Visitors are advised that heavy rainfall events are predicted in the coming week and may result in temporary flooding of access roads into Park.",
-      "details": "<p>Visitors are advised that heavy rainfall events are predicted in the coming week and may result in temporary flooding of access roads into Park.</p> <p>Before travelling to Blackdown Tableland National Park, visitors should confirm that the road is open by visiting the Central Highland Regional Council&#39;s Emergency Dashboard - beprepared.chrc.qld.gov.au</p>",
-      "start_date": "2024-08-13",
-      "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-19",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Gadgarra National Park",
       "alert_id": "24384",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24384",
@@ -3046,23 +2973,6 @@
       ]
     },
     {
-      "title": "Minerva Hills National Park closure due to weather event",
-      "alert_id": "24385",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24385",
-      "description": "Due to the significant rainfall and unsafe road conditions, Minerva Hills National Park will be closed until declared safe.",
-      "details": "<p>Due to the significant rainfall and unsafe road conditions, Minerva Hills National Park will be closed until declared safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-12",
-      "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-19",
-      "parks": [
-        {
-          "id": "148953",
-          "name": "Minerva Hills National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/minerva-hills"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Formantine State Forest",
       "alert_id": "24386",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24386",
@@ -3076,23 +2986,6 @@
           "id": "322333",
           "name": "Formartine State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Wet weather closures",
-      "alert_id": "24387",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24387",
-      "description": "Due to the recent rainfall, the Four Wheel Drive Loop Road and access to Gudda Gumoo (Rainbow Falls) is temporarily closed due to public safety reasons.",
-      "details": "<p>Due to the recent rainfall, the Four Wheel Drive Loop Road and access to Gudda Gumoo (Rainbow Falls) is temporarily closed due to public safety reasons.</p> <p>The Yaddamen Dhina day use area and Munall Campground remain open.</p>",
-      "start_date": "2024-08-12",
-      "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-16",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
         }
       ]
     },
@@ -3144,11 +3037,11 @@
       "title": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
       "alert_id": "24390",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24390",
-      "description": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
-      "details": "<p>Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest</p> <p>Following recent and ongoing rainfall, the causeway at Water Park has become flooded.<br /> <br /> This will impact access to and from the following areas -<br /> * Byfield State Forest, including Water Park Creek camping and day use<br /> * Byfield Conservation Park, including Five Rocks camping area, and<br /> * Byfield National Park, including Nine Mile Beach camping area.<br /> <br /> Further rain has the potential to impact access to Upper Stony camping and day use also.<br /> <br /> Please check online for local road conditions and closures before travelling.<br /> <br /> Current levels ar Waterpark Creek Causeway can be accessed at&nbsp;http://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml<br /> Please note if flood water levels are at or above 250mm at Waterpark Creek Crossing DO NOT enter the water.<br /> <br /> Remember, if it&#39;s flooded, forget it.</p>",
-      "start_date": "2024-08-13",
+      "description": "Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest.",
+      "details": "<p>Impacts to access roads to and within Byfield National Park, Conservation Park and State Forest.</p> <p>Following recent and ongoing rainfall, the causeway at Water Park has become flooded.<br /> <br /> This will impact access to and from the following areas -<br /> * Byfield State Forest, including Water Park Creek camping and day use<br /> * Byfield Conservation Park, including Five Rocks camping area, and<br /> * Byfield National Park, including Nine Mile Beach camping area.<br /> <br /> Further rain has the potential to impact access to Upper Stony camping and day use also.<br /> <br /> Please check online for local road conditions and closures before travelling.<br /> <br /> Current levels ar Waterpark Creek Causeway can be accessed at&nbsp;http://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml<br /> Please note if flood water levels are at or above 250mm at Waterpark Creek Crossing DO NOT enter the water.</p> <p>As of noon, Friday 16 August 2024, water remains flowing over the causeway at Water Park Creek and the access road to Byfield National Park and the Water Park section of Byfield State Forest remains closed by Council. The road may be reopened in coming days but visitors should not proceed across the causeway until the road closed signage has been lawfully removed by Livingstone Shire Council staff. Visitors should expect that there will have been a deterioration to the condition of unsealed roads in the area and should drive to conditions.</p> <p>Remember, if it&#39;s flooded, forget it.</p>",
+      "start_date": "2024-08-16",
       "start_effective_date": "2024-08-13",
-      "end_date": "2024-08-19",
+      "end_date": "2024-08-21",
       "parks": [
         {
           "id": "148223",
@@ -3226,23 +3119,6 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning activities: Hartleys Falls walking track, Macalister Range National Park",
-      "alert_id": "24397",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24397",
-      "description": "The Hartleys Falls walking track will be temporarily closed on Thursday 15 August 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes. Please adhere to all instructions by rangers and track closure signage.",
-      "details": "<p>The Hartleys Falls walking track will be temporarily closed on Thursday 15 August 2024 due to a planned burn being undertaken in the area. The fire is for hazard reduction and conservation purposes. Please adhere to all instructions by rangers and track closure signage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-14",
-      "start_effective_date": "2024-08-15",
-      "end_date": "2024-08-15",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
       "title": "Conway National Park planned burn activities",
       "alert_id": "24398",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24398",
@@ -3273,6 +3149,23 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Temporary track closure - Good Night Scrub National Park",
+      "alert_id": "24400",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24400",
+      "description": "Due to erosion, Pine Gully, Bowden Creek and Manderson No 2 Tracks are temporarily closed to ensure visitor safety.",
+      "details": "<p>Due to erosion, Pine Gully, Bowden Creek and Manderson No 2 Tracks are temporarily closed to ensure visitor safety.</p> <p>Visitors will still be able to access through the National Park via Back Creek Road, Gayndah Road, Rangers Road, Manderson No 1 Road and Goodnight Road.&nbsp;&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-08-16",
+      "start_effective_date": "2024-08-14",
+      "end_date": "2025-01-14",
+      "parks": [
+        {
+          "id": "149437",
+          "name": "Good Night Scrub National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/good-night-scrub"
         }
       ]
     },
@@ -3329,6 +3222,62 @@
           "id": "148480",
           "name": "Main Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure: Emmagen Creek, Cape Tribulation section, Daintree National Park (CYPAL)",
+      "alert_id": "24404",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24404",
+      "description": "Emmagen Creek walking track will be temporarily closed for hazardous tree removal and track maintenance work from Friday 16 August to Tuesday 20 August 2024 (dates inclusive).",
+      "details": "<p>Emmagen Creek walking track will be temporarily closed for hazardous tree removal and track maintenance work from Friday 16 August to Tuesday 20 August 2024 (dates inclusive).</p> <p>During this period, visitors are asked to adhere to safety signage and directions from local rangers and contractors.</p>",
+      "start_date": "2024-08-16",
+      "start_effective_date": "2024-08-16",
+      "end_date": "2024-08-20",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Cultural Burning Workshop - Cape Hillsborough National Park &amp; Sandringham Bay Conservation Park",
+      "alert_id": "24405",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24405",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burning workshop within Cape Hillsborough National Park, Tuesday 20 August and Sandringham Bay Conservation Park, Wednesday 21 August, weather permitting. The Diversity Boardwalk within Cape Hillsborough National Park and Sandringham Bay will be closed for the duration of the burn. Smoke may be seen in the vicinity of Cape Hillsborough and the township of Dunrock. Please observe signage and barriers, and do not enter closed areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burning workshop within Cape Hillsborough National Park, Tuesday 20 August and Sandringham Bay Conservation Park, Wednesday 21 August, weather permitting. The Diversity Boardwalk within Cape Hillsborough National Park and Sandringham Bay will be closed for the duration of the burn. Smoke may be seen in the vicinity of Cape Hillsborough and the township of Dunrock. Please observe signage and barriers, and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-16",
+      "start_effective_date": "2024-08-19",
+      "end_date": "2024-08-21",
+      "parks": [
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+        },
+        {
+          "id": "322783",
+          "name": "Sandringham Bay Conservation Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burning activities: Earl Hill Conservation Park",
+      "alert_id": "24406",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24406",
+      "description": "Earl Hill Conservation Park will be temporarily closed to allow Queensland Parks and Wildlife Service in conjunction with Cairns Regional Council to conduct planned burning activities on Monday 19 August 2024.",
+      "details": "<p>Earl Hill Conservation Park will be temporarily closed to allow Queensland Parks and Wildlife Service in conjunction with Cairns Regional Council to conduct planned burning activities on Monday 19 August 2024.</p> <p>The park and walking tracks will remain closed on Tuesday 20 August 2024 to monitor the fire and conduct safety inspections before being cleared to reopen.</p> <p>Please adhere to all safety signage and instructions from rangers.</p> <p>If you have questions please contact Ranger in Charge Jess Harris 0n 0448 600 692.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-16",
+      "start_effective_date": "2024-08-19",
+      "end_date": "2024-08-20",
+      "parks": [
+        {
+          "id": "263080",
+          "name": "Earl Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/earl-hill"
         }
       ]
     }
