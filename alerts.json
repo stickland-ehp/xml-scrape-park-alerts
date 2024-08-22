@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2024-08-21 10:08:08"
+    "alerts_count": 174,
+    "script_run_time": "2024-08-22 10:08:52"
   },
   "alerts": [
     {
@@ -132,43 +132,6 @@
       ]
     },
     {
-      "title": "Visitors to Great Barrier Reef reminded to be SharkSmart",
-      "alert_id": "20352",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/20352",
-      "description": "Visitors to the Great Barrier Reef islands and beaches reminded to be SharkSmart:",
-      "details": "<p>Visitors to the Great Barrier Reef islands and beaches reminded to be SharkSmart:</p> <ul> <li>Don&#39;t swim at dawn or dusk</li> <li>Always swim in clear water (not in murky water, busy anchorages, estuary mouths or canals)</li> <li>Don&#39;t throw food scraps or fish waste overboard or into the water from the beach (including in anchorages or where people are swimming)</li> <li>Don&#39;t swim where fish are being cleaned</li> <li>Swim, surf, snorkel or dive with a buddy.</li> </ul> <p>For more information visit <a href=\"https://www.daf.qld.gov.au/sharksmart\">https://www.daf.qld.gov.au/sharksmart</a></p> <p>&nbsp;</p>",
-      "start_date": "2023-08-21",
-      "start_effective_date": "2020-10-14",
-      "end_date": "2024-08-21",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "149473",
-          "name": "Capricornia Cays National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/capricornia-cays"
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
-        },
-        {
-          "id": "149417",
-          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
-          "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: camp site 4 Ussher Point camping area, Apudthama National Park (CYPAL)",
       "alert_id": "20353",
       "url": "https://parks.desi.qld.gov.au/park-alerts/20353",
@@ -182,23 +145,6 @@
           "id": "148892",
           "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
           "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
-        }
-      ]
-    },
-    {
-      "title": "Lady Musgrave Island, Asbestos Containing Material (ACM) Hazard",
-      "alert_id": "20511",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/20512",
-      "description": "Small pieces of Asbestos Containing Material (ACM) have been found and removed from within the camping area.",
-      "details": "<p>Small pieces of Asbestos Containing Material (ACM) have been found and removed from within the camping area.</p> <p>Although risks of exposure to ACM on Lady Musgrave island is low, inhalation of significant quantities of airborne fibres can lead to disease.</p> <p>Do not touch, break or disturb ACM if found.</p> <p>Report any sightings to a ranger or campground host.</p>",
-      "start_date": "2023-08-21",
-      "start_effective_date": "2020-12-18",
-      "end_date": "2024-08-21",
-      "parks": [
-        {
-          "id": "149473",
-          "name": "Capricornia Cays National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/capricornia-cays"
         }
       ]
     },
@@ -681,6 +627,23 @@
           "id": "152865",
           "name": "Conondale Range Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
+        }
+      ]
+    },
+    {
+      "title": "Bulburin National Park temporary closure",
+      "alert_id": "23401",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/23401",
+      "description": "Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.",
+      "details": "<p>Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.</p> <p>As a result, the following camp grounds&nbsp;are temporarily closed:</p> <p>Forestry camp</p> <p>Range view camp</p> <p>Zamia camp<br /> <br /> All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-08-22",
+      "start_effective_date": "2023-10-31",
+      "end_date": "2024-09-19",
+      "parks": [
+        {
+          "id": "148151",
+          "name": "Bulburin National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bulburin"
         }
       ]
     },
@@ -2517,23 +2480,6 @@
       ]
     },
     {
-      "title": "Prescribed Burn - K'gari (Fraser Island) Dilli East",
-      "alert_id": "24327",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24327",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 24th July 2024 to 31st August 2024 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 24th July 2024 to 31st August 2024 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Dilli Village and beach camping zone 1 (Govi, Wongai). Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-07-24",
-      "start_effective_date": "2024-07-24",
-      "end_date": "2024-08-31",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Prescribed Burn - K'gari (Fraser Island) Bogimbah",
       "alert_id": "24331",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24331",
@@ -3356,6 +3302,23 @@
           "id": "148528",
           "name": "Mount Barney National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Western Creek State Forest",
+      "alert_id": "24429",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24429",
+      "description": "QPWS will conduct a planned burn in Western Creek State Forest between 24/08/24 and 27/08/24, weather permitting.",
+      "details": "<p>QPWS will conduct a planned burn in Western Creek State Forest between 24/08/24 and 27/08/24, weather permitting.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>As a result of the planned burn, smoke may be seen in the nearby areas.</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.burn, smoke may be seen in the nearby areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-22",
+      "start_effective_date": "2024-08-24",
+      "end_date": "2024-08-27",
+      "parks": [
+        {
+          "id": "322348",
+          "name": "Western Creek State Forest",
+          "url": ""
         }
       ]
     }
