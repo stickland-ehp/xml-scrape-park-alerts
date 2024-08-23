@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 174,
-    "script_run_time": "2024-08-22 10:08:52"
+    "script_run_time": "2024-08-23 10:07:49"
   },
   "alerts": [
     {
@@ -1941,33 +1941,6 @@
       ]
     },
     {
-      "title": "Ex HMAS Tobruk public mooring closed",
-      "alert_id": "24190",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24191",
-      "description": "The Ex HMAS Tobruk public mooring is currently undergoing maintenance works. During this time the mooring is unable to be used.",
-      "details": "<p>The Ex HMAS Tobruk public mooring is currently undergoing maintenance works. During this time the mooring is unable to be used.</p> <p>Please monitor<a href=\"https://parks.desi.qld.gov.au/park-alerts\"> park alerts</a> on the department&#39;s website for unpdated&nbsp;information.</p>",
-      "start_date": "2024-06-17",
-      "start_effective_date": "2024-06-17",
-      "end_date": "2024-08-31",
-      "parks": [
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "149369",
-          "name": "Woody Island (Tooliewah) and Little Woody Island (Walangoora), Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-woody"
-        }
-      ]
-    },
-    {
       "title": "Planned burns: Annan River (Yuku Baja-Muliku) National Park and Resources Reserve",
       "alert_id": "24193",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24194",
@@ -2531,28 +2504,6 @@
       ]
     },
     {
-      "title": "Thorsborne Trail camping area enhancement works",
-      "alert_id": "24345",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24345",
-      "description": "South Zoe Bay camping area will be undergoing works from 15-22 August 2024.",
-      "details": "<p>South Zoe Bay camping area will be undergoing works from 15-22 August 2024.</p> <p>Other minor works may be occurring at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</p> <p>All camping areas and tracks will remain open during the works. Some of the beach campsites at South Zoe Bay camping area may be closed at times, please remember to use the forest campsites 100m along the Zoe Falls track. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
-      "start_date": "2024-08-13",
-      "start_effective_date": "2024-08-15",
-      "end_date": "2024-08-22",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Oak Hills in the vicinty of Wairuna Section, Girringun National Park",
       "alert_id": "24354",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24354",
@@ -2627,6 +2578,23 @@
           "id": "149461",
           "name": "Great Sandy Marine Park",
           "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
+        }
+      ]
+    },
+    {
+      "title": "Planned site rehabilitation and maintenance closures",
+      "alert_id": "24372",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24372",
+      "description": "Planned site rehabilitation and maintenance works in the Inskip Peninsula Recreation Area will commence Monday 2 September until Friday 13 September 2024.",
+      "details": "<p>Planned site rehabilitation and maintenance works in the Inskip Peninsula Recreation Area will commence Monday 2 September until Friday 13 September 2024.</p> <p>As a result, the following camping areas will be closed during this period:</p> <ul> <li><strong>M.V. Beagle</strong> (2-13 September 2024 inclusive<strong>)</strong> reopen midday 13 September.</li> <li><strong>M.V. Natone</strong> (2-13 September 2024 inclusive) reopen midday 13 September.</li> </ul> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance works as large machinery may be operating in the area.</p> <p>All permits for closed areas are suspended for the duration of the closure. Alternate camping areas are available at Inskip Peninsula camping area for the duration of the closures.</p> <p>Apply for a camping permit refund online at <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a>. Log into your account and cancel your booking to receive an automatic refund or request to change your booking to another camping area at Inskip.</p> <p>QPWS thanks you for your support and cooperation.</p> <p>&nbsp;</p>",
+      "start_date": "2024-08-23",
+      "start_effective_date": "2024-09-02",
+      "end_date": "2024-09-13",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     },
@@ -2938,28 +2906,6 @@
       ]
     },
     {
-      "title": "Caution: Increased traffic expected on Wallaman Falls Road Thursday 22 August, Girringun National Park",
-      "alert_id": "24409",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24409",
-      "description": "Visitors to Wallaman Falls are advised that on Thursday 22 Aug 2024 between 9.30am and 11.00am there will be a Disaster Management Conference site visit, with up to 70 representatives attending a presentation at the Wallaman Falls lookout. There may be an unusually large number of vehicles and buses on Wallaman Falls Road and at the lookout.",
-      "details": "<p>Visitors to Wallaman Falls are advised that on Thursday 22 Aug 2024 between 9.30am and 11.00am there will be a Disaster Management Conference site visit, with up to 70 representatives attending a presentation at the Wallaman Falls lookout. There may be an unusually large number of vehicles and buses on Wallaman Falls Road and at the lookout.</p> <ul> <li>All facilities remain open but visitors to the lookout are advised to come outside that time. &nbsp;</li> <li>Please take extra caution when driving on the range road.</li> </ul>",
-      "start_date": "2024-08-19",
-      "start_effective_date": "2024-08-22",
-      "end_date": "2024-08-22",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wallaman"
-        }
-      ]
-    },
-    {
       "title": "Smoke Alert due to planned burn - Emu Creek and Clancys camping areas",
       "alert_id": "24410",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24410",
@@ -3140,28 +3086,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24421",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24421",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-08-20",
-      "start_effective_date": "2024-08-20",
-      "end_date": "2024-08-22",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Planned burns: Princess Hills, Blencoe Falls and Wairuna sections, Girringun National Park",
       "alert_id": "24422",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24422",
@@ -3272,23 +3196,6 @@
       ]
     },
     {
-      "title": "Kingfisher grid maintenance - temporary road closure",
-      "alert_id": "24427",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24427",
-      "description": "Fence and grid maintenance will be undertaken at Kingfisher on 22 August 2024.",
-      "details": "<p>Fence and grid maintenance will be undertaken at Kingfisher on 22 August 2024.</p> <p>Access will be restricted throughout the day and vehicles may encounter short delays.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-21",
-      "start_effective_date": "2024-08-22",
-      "end_date": "2024-08-22",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn - Mount Barney National Park",
       "alert_id": "24428",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24428",
@@ -3319,6 +3226,74 @@
           "id": "322348",
           "name": "Western Creek State Forest",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary park closure due to flooded access and to allow planned burning",
+      "alert_id": "24431",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24431",
+      "description": "Access through Goodedulla National Park is currently flooded following recent rainfall, warranting temporary closure of the National Park. Access to the park will be reassessed on Monday 26 August 2024.",
+      "details": "<p>Access through Goodedulla National Park is currently flooded following recent rainfall, warranting temporary closure of the National Park. Access to the park will be reassessed on Monday 26 August 2024.</p> <p>QPWS Rangers will be taking advantage of local conditions to conduct strategic planned burning of the National Park from Friday 23 August until Monday 26 August 2024. Smoke will be evident in the general area on these dates.</p>",
+      "start_date": "2024-08-23",
+      "start_effective_date": "2024-08-22",
+      "end_date": "2024-08-26",
+      "parks": [
+        {
+          "id": "148396",
+          "name": "Goodedulla National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/goodedulla"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burning Activities: adjacent to Mount Fox Road and Oak Hills Road, Lannercost State Forest",
+      "alert_id": "24432",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24432",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations adjacent to Mount Fox Road and Oak Hills Road, Lannercost State Forest, from Monday 23 September to Friday 4 October 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations adjacent to Mount Fox Road and Oak Hills Road, Lannercost State Forest, from Monday 23 September to Friday 4 October 2024 (dates inclusive).</p> <p>These planned burns will be subject to weather conditions.&nbsp;</p> <p>During this period smoke will be visible to road users in the area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-23",
+      "start_effective_date": "2024-09-23",
+      "end_date": "2024-10-04",
+      "parks": [
+        {
+          "id": "322545",
+          "name": "Lannercost State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Stretcher Track",
+      "alert_id": "24433",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24433",
+      "description": "Fire Advice: A bushfire has been reported in the vicinity of the Stretcher Track in the remote southwestern section of Lamington National Park. Visitors to this area are urged to be aware of their safety and remain vigilant.",
+      "details": "<p>Fire Advice: A bushfire has been reported in the vicinity of the Stretcher Track in the remote southwestern section of Lamington National Park. Visitors to this area are urged to be aware of their safety and remain vigilant.</p> <p>The fire has entered the national park from adjoining lands.</p> <p>QPWS rangers are monitoring the situation, and will provide regular updates.</p> <p>For your safety please use caution whilst visiting the remote southwestern section of the park.</p> <p><strong>To report any bushfires, call triple zero (000)</strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-23",
+      "start_effective_date": "2024-08-23",
+      "end_date": "2024-08-26",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Turtle Encounter tours 2024-2025 Season Mon Repos Conservation Park",
+      "alert_id": "24434",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24434",
+      "description": "Rangers are excited to announce the dates for the upcoming marine turtle nesting and hatching season at Mon Repos Conservation Park.",
+      "details": "<p>Rangers are excited to announce the dates for the upcoming marine turtle nesting and hatching season at Mon Repos Conservation Park.</p> <p><strong>Turtle Encounter tour season will run from Saturday 9 November 2024 to Sunday 23 March 2025.</strong></p> <ul> <li>Nesting turtles can be viewed once tours commence in November until February, like any breeding season it can start off slowly and then reduce in numbers later in February.</li> <li>Hatchling turtles can be viewed when they start to emerge - usually in early January -&nbsp;however it is low numbers of nests emerging at the start, building&nbsp;to a peak in February, and then slows down in late March.</li> <li>A turtle&rsquo;s arrival or hatchlings emerging can&rsquo;t be predicted&mdash;some nights multiple turtle events happen&nbsp;early, sometimes only a few arrive at a time, and some turtle events happen&nbsp;after 11pm.</li> </ul> <p><strong>Bookings for Turtle Encounter Tours open on Monday 2 September 2024 at 12pm</strong></p> <p>It&#39;s important to know the below, before you <strong>book and read more information&nbsp;at&nbsp;</strong><a href=\"https://parks.desi.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours\">Mon Repos Turtle Encounter tours</a>&nbsp;:</p> <ol> <li>Tours are at night&nbsp;with Turtle Encounter tour groups comprises of up to&nbsp;<strong>60 people</strong>.</li> <li>Moderate fitness level is required, you may have to walk 1.6km (return journey) at night in natural light or with limited light in some sections.</li> <li>You may have to stand on uneven, sandy surfaces for approximately two hours and traverse sandy surfaces, including short steep sandy sections on vegetated dunes, and boardwalk ramps.</li> </ol> <p>&nbsp;</p>",
+      "start_date": "2024-08-23",
+      "start_effective_date": "2024-08-28",
+      "end_date": "2024-11-30",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
         }
       ]
     }
