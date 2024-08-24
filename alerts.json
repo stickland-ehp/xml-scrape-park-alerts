@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-08-23 10:07:49"
+    "alerts_count": 167,
+    "script_run_time": "2024-08-24 10:06:50"
   },
   "alerts": [
     {
@@ -2419,23 +2419,6 @@
       ]
     },
     {
-      "title": "Bladensburg National Park partial closure of Campbells Creek and surrounding area",
-      "alert_id": "24308",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24308",
-      "description": "Access to Campbells Creek area is restricted for purposes of conducting feral animal control. Tourist Drives including Scrammy Gorge and Skull Hole and the Boughshed Waterhole campground will remain open. Reopening of restricted area is scheduled for Saturday 24 August 2024.",
-      "details": "<p>Access to Campbells Creek area is restricted for purposes of conducting feral animal control. Tourist Drives including Scrammy Gorge and Skull Hole and the Boughshed Waterhole campground will remain open. Reopening of restricted area is scheduled for Saturday 24 August 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "start_date": "2024-07-23",
-      "start_effective_date": "2024-08-19",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "148408",
-          "name": "Bladensburg National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
       "title": "Prescribed Burn - K'gari (Fraser Island) Kingfisher Dundonga",
       "alert_id": "24317",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24317",
@@ -2500,6 +2483,23 @@
           "id": "150212",
           "name": "Cardwell State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn within Kroombit Tops National Park",
+      "alert_id": "24337",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24337",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 5th August 2024 to the 31st August 2024, as part of the fire management program for Kroombit Tops National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 5th August 2024 to the 31st August 2024, as part of the fire management program for Kroombit Tops National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of The Wall and WWII Bomber site, Bomber, The Wall and Ridge Tracks For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas may be&nbsp;<strong>closed to public access:</strong></p> <ul> <li>Ridge Track</li> <li>Razorback track west of Razorback camping area</li> </ul> <p>Smoke may be seen in the vicinity of Razorback camping area, Griffiths Campground, Tableland Road and Bomber/The Wall access track. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-08-24",
+      "start_effective_date": "2024-08-05",
+      "end_date": "2024-08-31",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
         }
       ]
     },
@@ -2638,23 +2638,6 @@
       ]
     },
     {
-      "title": "Wet weather access Conondale National Park",
-      "alert_id": "24375",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24375",
-      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Booloumba Creek Road</li> <li>Funnels Hut Road</li> <li>Booloumba Falls</li> </ul> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-16",
-      "start_effective_date": "2024-08-12",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
       "title": "Kinkuna bush camping and access roads closed - water over roads",
       "alert_id": "24382",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24382",
@@ -2721,23 +2704,6 @@
       ]
     },
     {
-      "title": "Lake Garawongera Scenic Drive - Partial Closure",
-      "alert_id": "24393",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24393",
-      "description": "Due to recent weather events, a large number of tree's are currently restricting access on the Garrawongera Scenic Drive Road between Lake Garrawongera Carpark and the Bogimbah Road T - Intersection.",
-      "details": "<p>Due to recent weather events, a large number of tree's are currently restricting access on the Garrawongera Scenic Drive Road between Lake Garrawongera Carpark and the Bogimbah Road T - Intersection.</p> <p>In and out access to Lake Garrawongera is still open via the Moon Point Road</p> <p>We apologies for any inconvenience this may cause, Rangers aim to have the road re-opened as soon as possible.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-14",
-      "start_effective_date": "2024-08-14",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Halifax Bay Wetlands National Park",
       "alert_id": "24396",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24396",
@@ -2751,23 +2717,6 @@
           "id": "148512",
           "name": "Halifax Bay Wetlands National Park",
           "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
-        }
-      ]
-    },
-    {
-      "title": "Conway National Park planned burn activities",
-      "alert_id": "24398",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24398",
-      "description": "Planned Burn Swamp Bay section Conway National Park",
-      "details": "<p>Planned Burn Swamp Bay section Conway National Park</p> <p>The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct planned burn operations on the Swamp Bay section of Conway National Park and Conway Conservation Park from Tuesday 20 August 2024 to Friday 23 August 2024, weather permitting, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>As a result, smoke may be seen in the local areas and beyond. Smoke can decrease visibility, so it is important that motorists, mariners, and pilots drive/fly safely to the conditions.</p> <p>For public safety, access to the planned burn area will be closed until further notice. All walking tracks, shared trails, camping areas and associated carparks within the planned burn area are closed, including:</p> <ul> <li>Mt Rooper circuit</li> <li>Swamp Bay walk</li> <li>Swamp Bay camping area</li> </ul> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Local residents should close windows and doors and keep medications close by if suffering from a respiratory illness</p> <p>For more information, please contact QPWS&amp;P on 13QGOV (13 74 68).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-14",
-      "start_effective_date": "2024-08-20",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "147975",
-          "name": "Conway National Park and Conway Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conway"
         }
       ]
     },
@@ -2862,23 +2811,6 @@
       ]
     },
     {
-      "title": "Cultural Burning Workshop - Sandringham Bay Conservation Park",
-      "alert_id": "24405",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24405",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burning workshop within Sandringham Bay Conservation Park, Wednesday 21 August, weather permitting. Sandringham Bay Conservation Park will be closed for the duration of the burn.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burning workshop within Sandringham Bay Conservation Park, Wednesday 21 August, weather permitting. Sandringham Bay Conservation Park will be closed for the duration of the burn.</p> <p>Smoke may be seen in the vicinity of the township of Dunrock during this period. Please observe signage and barriers, please do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-21",
-      "start_effective_date": "2024-08-21",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "322783",
-          "name": "Sandringham Bay Conservation Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for planned burning activities: Godwins Peak track and Bullocky Tom track, Clemant State Forest and Paluma Range National Park",
       "alert_id": "24408",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24408",
@@ -2902,23 +2834,6 @@
           "id": "322468",
           "name": "Paluma State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Smoke Alert due to planned burn - Emu Creek and Clancys camping areas",
-      "alert_id": "24410",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24410",
-      "description": "Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn as part of the hazard reduction and conservation management program for Benarkin State Forest. The Emu Creek and Clancys camping areas will remain open, however smoke may be seen in the vicinity from Tuesday 20 to Friday 23 August (inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn as part of the hazard reduction and conservation management program for Benarkin State Forest. The Emu Creek and Clancys camping areas will remain open, however smoke may be seen in the vicinity from Tuesday 20 to Friday 23 August (inclusive).</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "start_date": "2024-08-20",
-      "start_effective_date": "2024-08-20",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "148071",
-          "name": "Benarkin State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/benarkin"
         }
       ]
     },
@@ -2970,23 +2885,6 @@
           "id": "150212",
           "name": "Cardwell State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Operations - Cape Hillsborough National Park",
-      "alert_id": "24415",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24415",
-      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned burning within Cape Hillsborough National Park in the vicinity of Haliday Bay from Wednesday 21 August to Friday 23 August 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned burning within Cape Hillsborough National Park in the vicinity of Haliday Bay from Wednesday 21 August to Friday 23 August 2024.</p> <p>This planned burn forms part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>As a result, McBrides Point trail will be closed for public access for the duration of the burn.</p> <p>For more information, please contact Ranger in Charge, Lennan Whiting on 0459 877 850.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.qfes.qld.gov.au/Current-Incidents\">https://www.fire.qld.gov.au/Current-Incidents</a>&nbsp;from Queensland Fire and Emergency Services (QFES).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-21",
-      "start_effective_date": "2024-08-21",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "149485",
-          "name": "Cape Hillsborough National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
         }
       ]
     },
@@ -3048,23 +2946,6 @@
           "id": "322345",
           "name": "Ringtail State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Smoke due to planned burn activities: Big Crystal Creek day-use area and camping area",
-      "alert_id": "24419",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24419",
-      "description": "Queensland Parks and Wildlife Services (QPWS) is conducting planned burning activities near Big Crystal Creek day-use area and camping area from Thursday 22 August to Friday 23 August 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Services (QPWS) is conducting planned burning activities near Big Crystal Creek day-use area and camping area from Thursday 22 August to Friday 23 August 2024 (dates inclusive).</p> <p>Visitors are advised that smoke may be visible in the area on these dates.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-20",
-      "start_effective_date": "2024-08-22",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -3152,33 +3033,6 @@
       ]
     },
     {
-      "title": "Aerial planned burning activities: Formartine State Forest, Kuranda State Forest and Bare Hill Conservation Park",
-      "alert_id": "24425",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24425",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial planned burning within Formartine State Forest, Kuranda State Forest and Bare Hill Conservation Park on 22 August 2024. The parks will remain open but smoke may be visible. Davies Creek camping areas, mountain bike park, day-use areas, walking tracks and the Bunda Bibandji trail will remain open during this time. Please travel safely and abide by signage and be aware of fire crew and fire vehicles travelling along Davies Creek Road.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial planned burning within Formartine State Forest, Kuranda State Forest and Bare Hill Conservation Park on 22 August 2024. The parks will remain open but smoke may be visible. Davies Creek camping areas, mountain bike park, day-use areas, walking tracks and the Bunda Bibandji trail will remain open during this time. Please travel safely and abide by signage and be aware of fire crew and fire vehicles travelling along Davies Creek Road.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-21",
-      "start_effective_date": "2024-08-22",
-      "end_date": "2024-08-23",
-      "parks": [
-        {
-          "id": "322403",
-          "name": "Kuranda State Forest",
-          "url": ""
-        },
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
-        },
-        {
-          "id": "322333",
-          "name": "Formartine State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Smoke advice",
       "alert_id": "24426",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24426",
@@ -3226,6 +3080,23 @@
           "id": "322348",
           "name": "Western Creek State Forest",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn within Kroombit Tops National Park",
+      "alert_id": "24430",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24430",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns, (weather permitting), from 26th August 2024 to 30th August 2024, as part of the fire management program for Kroombit Tops National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns, (weather permitting), from 26th August 2024 to 30th August 2024, as part of the fire management program for Kroombit Tops National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Escarpment walking track, The Razorback Track and Kroombit Tops Lookout. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access:</strong></p> <ul> <li>The Escarpment&nbsp;Track</li> </ul> <p>Smoke may be seen in the vicinity of Tableland Rd, Griffiths Creek camping area, Kroombit Tops Lookout and the Razorback Track. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-08-24",
+      "start_effective_date": "2024-08-26",
+      "end_date": "2024-08-30",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
         }
       ]
     },
