@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-08-24 10:06:50"
+    "alerts_count": 164,
+    "script_run_time": "2024-08-25 10:07:27"
   },
   "alerts": [
     {
@@ -2453,23 +2453,6 @@
       ]
     },
     {
-      "title": "Cape Pallarenda Conservation Park temporarily closed",
-      "alert_id": "24332",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24332",
-      "description": "Cape Pallarenda Conservation Park will be temporarily closed to all visitors between 6:00pm Sunday 11 August 2024 until 6:00am Saturday 24 August 2024 for the Multisport World Championships.",
-      "details": "<p>Cape Pallarenda Conservation Park will be temporarily closed to all visitors between 6:00pm Sunday 11 August 2024 until 6:00am Saturday 24 August 2024 for the Multisport World Championships.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-07-25",
-      "start_effective_date": "2024-08-11",
-      "end_date": "2024-08-24",
-      "parks": [
-        {
-          "id": "148997",
-          "name": "Cape Pallarenda Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Elphinstone Range, Cardwell State Forest",
       "alert_id": "24335",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24335",
@@ -2967,38 +2950,6 @@
       ]
     },
     {
-      "title": "Planned burns: Princess Hills, Blencoe Falls and Wairuna sections, Girringun National Park",
-      "alert_id": "24422",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24422",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park from Thursday 22 August to Saturday 24 August 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests. As a result, smoke may be seen in the area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park from Thursday 22 August to Saturday 24 August 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.</p> <p>This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call Princess Hills base office of QPWS on 4097 1448</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-20",
-      "start_effective_date": "2024-08-22",
-      "end_date": "2024-08-24",
-      "parks": [
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
-        },
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closures due to impacts from ex-Tropical Cyclone Jasper: Earl Hill Conservation Park",
       "alert_id": "24423",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24423",
@@ -3029,23 +2980,6 @@
           "id": "148139",
           "name": "Samford Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/samford"
-        }
-      ]
-    },
-    {
-      "title": "Smoke advice",
-      "alert_id": "24426",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24426",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burning within Bouldercombe Resources Reserve on Wednesday 21 August 2024 - weather permitting - as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned aerial burning within Bouldercombe Resources Reserve on Wednesday 21 August 2024 - weather permitting - as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>As a result, smoke may be seen in this area from the major highways and local roads, on the day of the burn and possibly on subsequent days.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.</p> <p>This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call Rockhampton office of the QPWS on 4936 0570.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-21",
-      "start_effective_date": "2024-08-21",
-      "end_date": "2024-08-24",
-      "parks": [
-        {
-          "id": "322859",
-          "name": "Bouldercombe Gorge Resources Reserve",
-          "url": ""
         }
       ]
     },
