@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 148,
-    "script_run_time": "2024-09-01 10:07:06"
+    "alerts_count": 153,
+    "script_run_time": "2024-09-02 10:08:33"
   },
   "alerts": [
     {
@@ -595,9 +595,9 @@
       "title": "Temporary park closure update: Errk Oykangand National Park (CYPAL)",
       "alert_id": "23337",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23337",
-      "description": "Errk Oykangand National Park (CYPAL) will reopen on Saturday 31 August 2024 for high clearance 4WD vehicles only. Visitors are advised to take care at Shelfo crossing.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) will reopen on Saturday 31 August 2024 for high clearance 4WD vehicles only. Visitors are advised to take care at Shelfo crossing.</p> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-08-30",
+      "description": "Errk Oykangand National Park (CYPAL) is open for high clearance 4WD vehicles only. Visitors are advised to take care at Shelfo crossing.",
+      "details": "<p>Errk Oykangand National Park (CYPAL) is open for high clearance 4WD vehicles only. Visitors are advised to take care at Shelfo crossing.</p> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-09-02",
       "start_effective_date": "2023-11-01",
       "end_date": "2024-09-30",
       "parks": [
@@ -691,10 +691,10 @@
       "alert_id": "23452",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23452",
       "description": "Please see below information regarding camping areas reopening from the wet season closure in Cape Melville National Park (CYPAL).",
-      "details": "<p>Please see below information regarding camping areas reopening from the wet season closure in Cape Melville National Park (CYPAL).</p> <p>The following camping area is now open:</p> <ul> <li>Ninian Bay camping area.</li> </ul> <p>The following camping areas will reopen with caution on 1 September 2024, but visitors are advised that trailers are not recommeded due to boggy sections and erosion issues:</p> <ul> <li>Crocodile camping area</li> <li>Wongai camping area</li> <li>Oystercatcher camping area</li> <li>Granite camping area.</li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-08-29",
+      "details": "<p>Please see below information regarding camping areas reopening from the wet season closure in Cape Melville National Park (CYPAL).</p> <p>The following camping area is now open:</p> <ul> <li>Ninian Bay camping area.</li> </ul> <p>The following camping areas are open with caution, but visitors are advised that trailers are not recommeded due to boggy sections and erosion issues:</p> <ul> <li>Crocodile camping area</li> <li>Wongai camping area</li> <li>Oystercatcher camping area</li> <li>Granite camping area.</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-09-02",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-09-02",
+      "end_date": "2024-09-30",
       "parks": [
         {
           "id": "148725",
@@ -1328,6 +1328,23 @@
       ]
     },
     {
+      "title": "Partial track closure - West Canungra Creek circuit",
+      "alert_id": "23915",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/23915",
+      "description": "Due to significant fallen trees and landslide which is obstructing the track and impeding safe visitor access, the West Canungra Creek circuit in the Green Mountains section of Lamington National Park is only partially open in a clockwise direction to Yerralahla Pool (Blue Pool). Walkers must return the same way.",
+      "details": "<p>Due to significant fallen trees and landslide which is obstructing the track and impeding safe visitor access, the West Canungra Creek circuit in the Green Mountains section of Lamington National Park is only partially open in a clockwise direction to Yerralahla Pool (Blue Pool). Walkers must return the same way.</p> <p>As a result, the <strong>West Canungra Creek circuit</strong> remains partially <strong>closed </strong>until declared safe.</p> <ul> <li>Access to Yerralahla Pool (Blue Pool) is open in a clockwise direction only. Walkers must return the same way.</li> <li>The remainder of the West Canungra Creek circuit remains temporarily closed until the track is declared safe for visitors.</li> </ul> <p>Other walking track closures for Lamington National Park include:</p> <ul> <li>The Lower Bellbird track in Binna Burra section (<a href=\"https://parks.des.qld.gov.au/park-alerts/23645\">Park alert: Temporary walking track closure - Lower Bellbird track (des.qld.gov.au)</a></li> </ul> <p>All other walking tracks within Lamington National Park remain open for visitor access (except for&nbsp;those listed herein and identified in separate Park Alerts).</p> <p>Observe all signage, barriers, and directions from rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please check Park Alerts as they are regularly updated regarding conditions on park.</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-03-26",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
       "title": "Portable toilets are mandatory for Pelican Bay and Dorrigo South camping areas",
       "alert_id": "23923",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23923",
@@ -1443,6 +1460,23 @@
           "id": "148616",
           "name": "Mount Cook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Bunyaville Conservation Park",
+      "alert_id": "24052",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24052",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned capital works upgrade at the Bunyaville Conservation Park picnic area from 15 May to September 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned capital works upgrade at the Bunyaville Conservation Park picnic area from 15 May to September 2024.</p> <p>The following areas at Bunyaville Conservation Park are closed to the public for the duration of the upgrade&nbsp;program from 15&nbsp;May - September 2024:</p> <ul> <li>The&nbsp;Bunyaville picnic areas including all associated carparks</li> <li>All toilets, picnic shelters, tables,&nbsp;and other infrastructure within the picnic areas.</li> </ul> <p>The access road into the picnic area from Old Northern Road will also be closed when required for public safety.</p> <p>The picnic areas shown in light green on the &lt; <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160519/bunyaville-track-map.pdf\">Bunyaville picnic area and walking tracks map</a> &gt; will be closed to public access while construction work is underway.</p> <p>City of Moreton Bay provides a range of BBQ, picnic and play facilities nearby:</p> <ul> <li>Arlington Park - 5 min</li> <li>Lesley Patrick Park - 7 min</li> <li>Lemke Park - 11 min</li> <li>Surrey Farm Park - 11 min</li> </ul> <p>The Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from Rangers or Contractors and do not enter closed areas.</p> <p>QPWS apologises for any inconvenience, new facilities will reopen when construction is completed.</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-05-15",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
         }
       ]
     },
@@ -1718,28 +1752,6 @@
           "id": "148179",
           "name": "Kirrama National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kirrama"
-        }
-      ]
-    },
-    {
-      "title": "Planned burns: Annan River (Yuku Baja-Muliku) National Park and Resources Reserve",
-      "alert_id": "24193",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24194",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities in Annan River (Yuku Baja-Muliku) National Park and Resource Reserve throughout June, July and August 2024. At times there could be heavy smoke in some sections including roadsides.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities in Annan River (Yuku Baja-Muliku) National Park and Resource Reserve throughout June, July and August 2024. At times there could be heavy smoke in some sections including roadsides.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-07-29",
-      "start_effective_date": "2024-06-18",
-      "end_date": "2024-09-01",
-      "parks": [
-        {
-          "id": "322734",
-          "name": "Annan River (Yuku Baja-Muliku) Resources Reserve",
-          "url": ""
-        },
-        {
-          "id": "148372",
-          "name": "Annan River (Yuku Baja-Muliku) National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/annan-river"
         }
       ]
     },
@@ -2646,23 +2658,6 @@
       ]
     },
     {
-      "title": "Bluebush Drive on Lochern National Park temporarily closed",
-      "alert_id": "24447",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24447",
-      "description": "Bluebush Drive on Lochern National Park is temporarily closed due to an event on the morning of Sunday 1 September 2024.",
-      "details": "<p>Bluebush Drive on Lochern National Park is temporarily closed due to an event on the morning of Sunday 1 September 2024.</p> <p>For your safety please observe all signage, barriers, and directions from Rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-27",
-      "start_effective_date": "2024-09-01",
-      "end_date": "2024-09-01",
-      "parks": [
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lochern"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to planned burning activities: Djynda walking track and Herbert River Valley lookout, within Wallaman Falls section of Girringun National Park",
       "alert_id": "24448",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24448",
@@ -2753,23 +2748,6 @@
       ]
     },
     {
-      "title": "Strong wind warning Central Station camping area closed",
-      "alert_id": "24457",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24457",
-      "description": "Kgari (Fraser Island) Great Sandy National Park",
-      "details": "<p>Kgari (Fraser Island) Great Sandy National Park</p> <p>As of 4:45 am EST on Friday 30 August 2024, the Bureau of Meteorology has issued a strong wind warning for K&rsquo;gari Coast. Strong winds are predicted and may cause tree damage. Due to the predicted wind conditions, Central Station Camping Area and Hikers Camp are closed. Camping areas will be reopened when predicted weather conditions abate and safety assessments are completed.<br /> Alternative camping areas include Dundubara, Waddy Point, Lake Boomanjin or the Eastern Beach camping zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-30",
-      "start_effective_date": "2024-08-31",
-      "end_date": "2024-09-01",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Planned burning in Burrum Coast National Park",
       "alert_id": "24458",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24458",
@@ -2790,10 +2768,10 @@
       "title": "Planned Burn Daisy Hill Conservation Park",
       "alert_id": "24459",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24459",
-      "description": "The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn on Tuesday 3rd Of September as part of the annual hazard reduction/conservation management program for parks and forests. Sections of Daisy Hill Conservation Park and Venman Bushland National Park will be closed until it is safe to reopen. These burns are being undertaken to help protect life and property in the event of a wildfire. Smoke may be seen in the vicinity of Mount Cotton, Redlands, Loganholme, Springwood and Daisy Hill. Persons with respiratory or other health conditions should seek medical advice on mitigation of the effects of smoke inhalation.",
-      "details": "<p>The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn on Tuesday 3rd Of September as part of the annual hazard reduction/conservation management program for parks and forests. Sections of Daisy Hill Conservation Park and Venman Bushland National Park will be closed until it is safe to reopen. These burns are being undertaken to help protect life and property in the event of a wildfire. Smoke may be seen in the vicinity of Mount Cotton, Redlands, Loganholme, Springwood and Daisy Hill. Persons with respiratory or other health conditions should seek medical advice on mitigation of the effects of smoke inhalation.</p> <p>Closed Areas into which public entry is prohibited are shown in yellow with red outline on map and are inclusive of:<br /> -&nbsp;&nbsp; &nbsp;Quarry Road<br /> -&nbsp;&nbsp; &nbsp;Barking Dog Break<br /> -&nbsp;&nbsp; &nbsp;Kimberley Link<br /> -&nbsp;&nbsp; &nbsp;Youles Break<br /> -&nbsp;&nbsp; &nbsp;Northern Break<br /> -&nbsp;&nbsp; &nbsp;Bishops Break<br /> -&nbsp;&nbsp; &nbsp;Central Break<br /> -&nbsp;&nbsp; &nbsp;Waterfall Break<br /> -&nbsp;&nbsp; &nbsp;Neville Lawrie Link<br /> -&nbsp;&nbsp; &nbsp;Sawmill Road<br /> -&nbsp;&nbsp; &nbsp;Venmans Road<br /> -&nbsp;&nbsp; &nbsp;Grevillia Break<br /> -&nbsp;&nbsp; &nbsp;Glossy Black Lane<br /> -&nbsp;&nbsp; &nbsp;Slash Break<br /> -&nbsp;&nbsp; &nbsp;Casuarina Break<br /> -&nbsp;&nbsp; &nbsp;Scribbly Break<br /> -&nbsp;&nbsp; &nbsp;Shailer Break<br /> -&nbsp;&nbsp; &nbsp;Wren Break<br /> -&nbsp;&nbsp; &nbsp;Swordsedge Break<br /> -&nbsp;&nbsp; &nbsp;Tallow Break<br /> -&nbsp;&nbsp; &nbsp;Grey Gum Break<br /> -&nbsp;&nbsp; &nbsp;Blackbutt Break<br /> -&nbsp;&nbsp; &nbsp;Kununurra Break</p> <p>Please refer to park map for further detail.</p> <p><strong>CLOSURE PERIOD</strong></p> <p>Monday 2nd of September until safe to open</p> <p><strong>ENTRY PAST THIS POINT IS PROHIBITED &ndash; PENALTIES APPLY</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-08-30",
-      "start_effective_date": "2024-09-02",
+      "description": "The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn on Tuesday 3rd Of September as part of the annual hazard reduction/conservation management program for parks and forests. Sections of Daisy Hill Conservation Park and Venman Bushland National Park &amp; Neville Lawrie Reserve will be closed until it is safe to reopen. These burns are being undertaken to help protect life and property in the event of a wildfire. Smoke may be seen in the vicinity of Mount Cotton, Redlands, Loganholme, Springwood and Daisy Hill. Persons with respiratory or other health conditions should seek medical advice on mitigation of the effects of smoke inhalation.",
+      "details": "<p>The Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will conduct a planned burn on Tuesday 3rd Of September as part of the annual hazard reduction/conservation management program for parks and forests. Sections of Daisy Hill Conservation Park and Venman Bushland National Park &amp; Neville Lawrie Reserve will be closed until it is safe to reopen. These burns are being undertaken to help protect life and property in the event of a wildfire. Smoke may be seen in the vicinity of Mount Cotton, Redlands, Loganholme, Springwood and Daisy Hill. Persons with respiratory or other health conditions should seek medical advice on mitigation of the effects of smoke inhalation.</p> <p>Closed Areas into which public entry is prohibited are shown in yellow with red outline on map and are inclusive of:</p> <p><strong>Daisy Hill CP:</strong></p> <ul> <li>Quarry Road</li> <li>Barking Dog Break</li> <li>Kimberley Link</li> <li>Youles Break</li> </ul> <p><strong>Neville Lawrie Reserve:</strong></p> <ul> <li>Bishops Break</li> <li>Waterfall Break</li> <li>Quarry Road</li> <li>Sawmill Road</li> <li>Neville Lawrie Link</li> </ul> <p><strong>Venman Bushland NP:</strong></p> <ul> <li>Swordsedge Break</li> <li>Casuarina Break</li> <li>Slashed Break</li> <li>Northern Break</li> <li>Grevillia Break</li> <li>Glossy Black Lane</li> <li>Neville Lawrie Link</li> <li>Venman Road</li> <li>Wren Break</li> <li>Scribbly Break</li> <li>Tallow Break</li> <li>Grey Gum Break</li> <li>Blackbutt Break</li> <li>Kununurra Break</li> <li>Shailer Break</li> </ul> <p>Please refer to park map for further detail.</p> <p><strong>CLOSURE PERIOD</strong></p> <p>Tuesday 3rd of September until safe to open</p> <p><strong>ENTRY PAST THIS POINT IS PROHIBITED &ndash; PENALTIES APPLY</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-03",
       "end_date": "2024-09-09",
       "parks": [
         {
@@ -2822,6 +2800,118 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Lindeman Islands National Park",
+      "alert_id": "24461",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24461",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Lindeman Island National Park from Monday 2nd September until Sunday 15th September, weather permitting as part of the annual hazard reduction/conservation management program for parks and forests. The Mount Oldfield track will be closed for the duration of the planned burn. Smoke may be seen in the vicinity of Linderman Island. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Please observe signage and barriers, and do not enter closed areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Lindeman Island National Park from Monday 2nd September until Sunday 15th September, weather permitting as part of the annual hazard reduction/conservation management program for parks and forests. The Mount Oldfield track will be closed for the duration of the planned burn. Smoke may be seen in the vicinity of Linderman Island. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Please observe signage and barriers, and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-02",
+      "end_date": "2024-09-15",
+      "parks": [
+        {
+          "id": "149521",
+          "name": "Lindeman Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lindeman-islands"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure Black Mountain Road, Kuranda National Park",
+      "alert_id": "24462",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24462",
+      "description": "The northern end of Black Mountain Road, north of Quaid road, will be temporarily closed on Saturday 7 September 2024 between 7:00am and 11:00am.",
+      "details": "<p>The northern end of Black Mountain Road, north of Quaid road, will be temporarily closed on Saturday 7 September 2024 between 7:00am and 11:00am.</p> <p>The closure will be managed by contracted traffic controllers for safe passage of mountain bikers for the &lsquo;Gran Fondo Hartley&rsquo;s to Port Douglas race&rsquo;.&nbsp;</p> <p>Please adhere to all signage and direction by traffic controllers.</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-03",
+      "end_date": "2024-09-07",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Sundown National Park",
+      "alert_id": "24463",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24463",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Sundown National Park between 3-13 September, 2024, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn at Sundown National Park between 3-13 September, 2024, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the area.</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-02",
+      "end_date": "2024-09-13",
+      "parks": [
+        {
+          "id": "322943",
+          "name": "Sundown Resources Reserve",
+          "url": ""
+        },
+        {
+          "id": "148159",
+          "name": "Sundown National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/sundown"
+        }
+      ]
+    },
+    {
+      "title": "Strong wind warning Central Station camping area closed",
+      "alert_id": "24464",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24464",
+      "description": "Strong wind warning Central Station camping area closed",
+      "details": "<p>Strong wind warning Central Station camping area closed</p> <p>As of 4:45 am EST on Monday 2 September 2024, the Bureau of Meteorology has issued a strong wind warning for K&rsquo;gari Coast. Strong winds are predicted and may cause tree damage.</p> <p>Due to the predicted wind conditions, Central Station Camping Area and Hikers Camp are closed. Camping areas will be reopened when predicted weather conditions abate and safety assessments are completed.</p> <p>Alternative camping areas include Dundubara, Waddy Point, Lake Boomanjin or the Eastern Beach camping zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>For a comprehensive list of Park Alerts, visit us online <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-02",
+      "end_date": "2024-09-03",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Water temporarily unavailable - Smalley's Beach Campground",
+      "alert_id": "24465",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24465",
+      "description": "Water for the toilet facilities, hand basins and taps at Smalleys Beach Campground, within Cape Hillsborough National Park is currently unavailable. QPWS Ranger staff have identified a leak and are engaging a contractor to resolve the issue as soon as practically possible.",
+      "details": "<p>Water for the toilet facilities, hand basins and taps at Smalleys Beach Campground, within Cape Hillsborough National Park is currently unavailable. QPWS Ranger staff have identified a leak and are engaging a contractor to resolve the issue as soon as practically possible.</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-02",
+      "end_date": "2024-09-06",
+      "parks": [
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn  Freshwater Camping Area",
+      "alert_id": "24467",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24467",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park in the Freshwater Camping Area on Wednesday 4 September 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Great Sandy National Park in the Freshwater Camping Area on Wednesday 4 September 2024, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Freshwater and Teewah Camping Areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Freshwater Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn Freshwater Camping Area is <strong>closed to public access. </strong>All permits for closed areas are suspended for the duration of the closure. Alternate camping areas are available at Teewah Beach Camping Area for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-02",
+      "start_effective_date": "2024-09-03",
+      "end_date": "2024-09-04",
+      "parks": [
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
         }
       ]
     }
