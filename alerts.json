@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2024-09-03 10:08:15"
+    "alerts_count": 156,
+    "script_run_time": "2024-09-04 10:08:27"
   },
   "alerts": [
     {
@@ -2344,28 +2344,6 @@
       ]
     },
     {
-      "title": "Lookout Road, Goomburra section - closed for road maintenance",
-      "alert_id": "24403",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24403",
-      "description": "Due to scheduled road maintenance, Lookout Road, Goomburra section - Main Range National Park will be closed.",
-      "details": "<p>Due to scheduled road maintenance, Lookout Road, Goomburra section - Main Range National Park will be closed.</p> <p>Road maintenance will commence from:</p> <ul> <li>Monday 26 August until Friday 30 August 2024, inclusive.</li> <li>Monday 2 September until Tuesday 3 September 2024, inclusive.</li> </ul> <p>The road will be reopened for weekend use between these dates.</p> <p>Visitor areas affected by this closure:</p> <ul> <li>North Branch track</li> <li>Araucaria Falls track</li> <li>Winder track</li> <li>Mount Castle lookout track</li> <li>Sylvesters lookout track</li> </ul> <p>All camping and other visitor areas in the Goomburra section will remain open.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-20",
-      "start_effective_date": "2024-08-26",
-      "end_date": "2024-09-03",
-      "parks": [
-        {
-          "id": "205144",
-          "name": "Scenic Rim Trail, Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/scenic-rim-trail"
-        },
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Maintenance of infrastructure - temporary closure of look outs",
       "alert_id": "24412",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24412",
@@ -2559,6 +2537,23 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn in Magnetic Island National Park",
+      "alert_id": "24439",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24439",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) is conducting a planned burn in the north-western highlands of Magnetic Island National Park.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) is conducting a planned burn in the north-western highlands of Magnetic Island National Park.</p> <p>The fire has been burning around the highlands in the northern interior of the island. The fire can be seen, especially at nighttime, burning flammable material on the ridges. The fire will start moving slowly down the hills towards the lowlands at Horseshoe Bay West and the northern end of Bolger Bay over the coming days.&nbsp;</p> <p>The planned burn is behaving as expected. Rangers and Rural Fire Brigade are monitoring the burn and are making preparations to suppress the fire in the lowlands.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>You can stay updated with local QPWS fire activities by visiting <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> or by following <a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a> on X (formerly known as Twitter).</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-04",
+      "start_effective_date": "2024-08-26",
+      "end_date": "2024-09-06",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
         }
       ]
     },
@@ -2809,23 +2804,6 @@
       ]
     },
     {
-      "title": "Strong wind warning Central Station camping area closed",
-      "alert_id": "24464",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24464",
-      "description": "Strong wind warning Central Station camping area closed",
-      "details": "<p>Strong wind warning Central Station camping area closed</p> <p>As of 4:45 am EST on Monday 2 September 2024, the Bureau of Meteorology has issued a strong wind warning for K&rsquo;gari Coast. Strong winds are predicted and may cause tree damage.</p> <p>Due to the predicted wind conditions, Central Station Camping Area and Hikers Camp are closed. Camping areas will be reopened when predicted weather conditions abate and safety assessments are completed.</p> <p>Alternative camping areas include Dundubara, Waddy Point, Lake Boomanjin or the Eastern Beach camping zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>For a comprehensive list of Park Alerts, visit us online <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-09-02",
-      "start_effective_date": "2024-09-02",
-      "end_date": "2024-09-03",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Water temporarily unavailable - Smalley's Beach Campground",
       "alert_id": "24465",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24465",
@@ -2886,8 +2864,8 @@
       "alert_id": "24469",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24469",
       "description": "The Queensland Parks and Wildlife Service (QPWS) is conducting a planned burn in the north-western highlands of Magnetic Island National Park.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) is conducting a planned burn in the north-western highlands of Magnetic Island National Park.</p> <p>The fire has been burning around the highlands in the northern interior of the island. The fire can be seen, especially at nightime, burning flammable material on the ridges. It has reached the top of the ridges above the western end of Horseshoe Bay and Bolger Bay. The fire is moving slowly down the hills towards the lowlands.&nbsp;&nbsp;</p> <p>The planned burn is behaving as expected. Rangers and Rural Fire Brigade have been and are continuing to actively monitor the burn and have made preparations to suppress the fire in the lowlands as required.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website&nbsp;<a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>You can stay updated with local QPWS fire activities by visiting&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;or by following&nbsp;<a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a>&nbsp;on X (formerly known as Twitter).</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a>&nbsp;webpage.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings<strong>(external link)</strong></a>.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park&#39;s page on the department&#39;s website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-03",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) is conducting a planned burn in the north-western highlands of Magnetic Island National Park.</p> <p>The fire has been burning around the highlands in the north-western interior of the island. The fire at the western end of Horseshoe Bay has extinguished. At Bolger Bay, the fire front has reduced and is still actively burning in the hills adjacent to Young Bay.</p> <p>Rangers and Rural Fire Brigade have been and are continuing to actively monitor the burn and have made preparations to suppress the fire in the lowlands as required.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website&nbsp;<a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>You can stay updated with local QPWS fire activities by visiting&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;or by following&nbsp;<a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a>&nbsp;on X (formerly known as Twitter).</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a>&nbsp;webpage.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings<strong>(external link)</strong></a>.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park&#39;s page on the department&#39;s website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-04",
       "start_effective_date": "2024-09-03",
       "end_date": "2024-09-06",
       "parks": [
@@ -2949,6 +2927,62 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Mount Etna Caves National Park feral animal control activities",
+      "alert_id": "24472",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24472",
+      "description": "QPWS&amp;P are conducting feral animal control as part of Mt Etna pest management program. Rangers may be using firearms 1500 02 Sep 24 - 1200 06 Sept 2024 Bat Cleft track will remain open as we are only trapping target areas.",
+      "details": "<p>QPWS&amp;P are conducting feral animal control as part of Mt Etna pest management program. Rangers may be using firearms 1500 02 Sep 24 - 1200 06 Sept 2024 Bat Cleft track will remain open as we are only trapping target areas.</p> <p>Please monitor park alerts for updates</p> <p><br /> For your safety, please observe all signage, barriers, and directions from Rangers, Contractors and do not enter closed areas.</p>",
+      "start_date": "2024-09-03",
+      "start_effective_date": "2024-09-02",
+      "end_date": "2024-09-06",
+      "parks": [
+        {
+          "id": "149405",
+          "name": "Mount Etna Caves National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Girraween National Park",
+      "alert_id": "24473",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24473",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 5 to Sunday 8 September, as part of the fire management program for Girraween National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 5 to Sunday 8 September, as part of the fire management program for Girraween National Park.</p> <p>Rangers will be working in the vicinity of Stone Cottage, West Bald Rock and South Bald Rock. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access:</strong></p> <ul> <li>Mount Norman day-use area,</li> <li>Dingo Swamp remote bush camp; and</li> <li>Stone Cottage remote bush camp.</li> </ul> <p>Smoke may be seen in the vicinity of the park and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-04",
+      "start_effective_date": "2024-09-05",
+      "end_date": "2024-09-08",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girraween"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "24474",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24474",
+      "description": "South Zoe Bay camping area will be undergoing works from 24 September  2 October 2024.",
+      "details": "<p>South Zoe Bay camping area will be undergoing works from 24 September  2 October 2024.</p> <p>Other minor works may be occurring at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</p> <p>All camping areas and tracks will remain open during the works. Some of the campsites at South Zoe Bay camping area may be closed at times, please remember to check the forest campsites 100m along the Zoe Falls track for availability. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "start_date": "2024-09-04",
+      "start_effective_date": "2024-09-24",
+      "end_date": "2024-10-02",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
         }
       ]
     }
