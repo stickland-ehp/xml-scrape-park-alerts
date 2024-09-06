@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2024-09-05 10:08:13"
+    "alerts_count": 166,
+    "script_run_time": "2024-09-06 10:08:21"
   },
   "alerts": [
     {
@@ -1532,6 +1532,23 @@
       ]
     },
     {
+      "title": "Planned Burns Wrattens National Park",
+      "alert_id": "24083",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24083",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from 01 September to 27 September 2024 as part of the fire management program for Wrattens National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from 01 September to 27 September 2024 as part of the fire management program for Wrattens National Park.</p> <p>Firefighters and machinery will&nbsp;be working along the roadside&nbsp;in the vicinity of Wrattens Kandanga Road .&nbsp;</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions&nbsp;and signs.&nbsp;&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-06",
+      "start_effective_date": "2024-09-06",
+      "end_date": "2024-09-27",
+      "parks": [
+        {
+          "id": "322707",
+          "name": "Wrattens National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
       "title": "Temporary closure of beach camping zone 8 for dingo management",
       "alert_id": "24096",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24096",
@@ -3042,6 +3059,116 @@
       "start_effective_date": "2024-09-11",
       "end_date": "2024-10-11",
       "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning: Princess Hills, Blencoe Falls and Wairuna sections, Girringun National Park",
+      "alert_id": "24480",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24480",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park from Monday 9 September to Wednesday 11 September 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests. As a result, smoke may be seen in the area.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park from Monday 9 September to Wednesday 11 September 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call the Princess Hills QPWS office on 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-06",
+      "start_effective_date": "2024-09-09",
+      "end_date": "2024-09-11",
+      "parks": [
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
+        },
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
+        }
+      ]
+    },
+    {
+      "title": "Smoke notification - planned burn Mount Etna Caves National Park",
+      "alert_id": "24481",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24481",
+      "description": "QPWS&amp;P Rangers will be conducting a small planned burn near the Pilkington's Quarry Section of Mount Etna Caves National Park on Friday 6 September 2024. As a result, smoke may be seen from Rossmoya Road on the day of operation. Public access to this specific area will not be permitted during the burn.",
+      "details": "<p>QPWS&amp;P Rangers will be conducting a small planned burn near the Pilkington's Quarry Section of Mount Etna Caves National Park on Friday 6 September 2024. As a result, smoke may be seen from Rossmoya Road on the day of operation. Public access to this specific area will not be permitted during the burn.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-06",
+      "start_effective_date": "2024-09-06",
+      "end_date": "2024-09-06",
+      "parks": [
+        {
+          "id": "149405",
+          "name": "Mount Etna Caves National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "Limited parking at Cedar Creek",
+      "alert_id": "24482",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24482",
+      "description": "There is limited parking at Cedar Creek. The car park fills quickly particularly at weekends and on public holidays.",
+      "details": "<p>There is limited parking at Cedar Creek. The car park fills quickly particularly at weekends and on public holidays.</p> <p>Parking is not permitted along Cedar Creek Falls Road or Tamborine Mountain Road.</p> <p>Please be aware that police issue infringement notices for illegal parking.</p> <p>Alternate walks and picnic facilities are available in other sections of Tamborine National Park. Please refer to the park&rsquo;s <a href=\"https://parks.des.qld.gov.au/parks/tamborine/things-to-do\">webpage</a> or <a href=\"https://parks.des.qld.gov.au/__data/assets/pdf_file/0015/161160/tamborine-locality-map.pdf\">map</a> for more information.</p>",
+      "start_date": "2024-09-06",
+      "start_effective_date": "2024-09-14",
+      "end_date": "2025-05-05",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn within D'Aguilar National Park Walkabout Creek Area",
+      "alert_id": "24483",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24483",
+      "description": "Fire breaks and walking tracks including Link Track, Hillside Track, Araucaria Track, Reservoir Break, Mount Nebo Break, Jeep Break and Duck Creek Road will be closed for the duration of this planned burn operation due to the increased risk of treefall or the chance of fire re-igniting within the burn block.",
+      "details": "<p>Fire breaks and walking tracks including Link Track, Hillside Track, Araucaria Track, Reservoir Break, Mount Nebo Break, Jeep Break and Duck Creek Road will be closed for the duration of this planned burn operation due to the increased risk of treefall or the chance of fire re-igniting within the burn block.</p> <p>Please observe all signage , barriers and directions from rangers and do not enter closed areas.<br /> These precautions are in place for your saftey.</p> <p>Contact - QPWS, Walkabout Creek Discovery Centre - PH. 3164 3600&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-06",
+      "start_effective_date": "2024-09-09",
+      "end_date": "2024-09-11",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: listed walks and camping areas along Wet Tropics Great Walk, Girringun National Park",
+      "alert_id": "24484",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24484",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Wet Tropics Great Walk, Girringun National Park from Monday 9 September to Wednesday 11 September 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Wet Tropics Great Walk, Girringun National Park from Monday 9 September to Wednesday 11 September 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests.</p> <p>During this period the following will be closed and smoke will be visible in the area:</p> <ul> <li>Juwun and Jambal walks (Wet Tropics Great Walk)</li> <li>Blanket Creek walker&rsquo;s camp (Wet Tropics Great Walk)</li> <li>Herbert River camping zone (Wet Tropics Great Walk)</li> <li>Yamanie camping area (Girringun National Park)</li> </ul> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. Visitors are advised that planned burning is also occurring in other sections of Girringun National Park. Please see park alerts for details.</p> <p>For more information, please call the Princess Hills QPWS office on 4097 1448.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-06",
+      "start_effective_date": "2024-09-09",
+      "end_date": "2024-09-11",
+      "parks": [
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
         {
           "id": "148123",
           "name": "Girringun National Park",
