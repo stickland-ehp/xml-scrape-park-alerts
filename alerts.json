@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2024-09-07 10:07:19"
+    "alerts_count": 156,
+    "script_run_time": "2024-09-08 10:08:05"
   },
   "alerts": [
     {
@@ -2590,23 +2590,6 @@
       ]
     },
     {
-      "title": "Temporary track closure: Bump Track, Mowbray National Park",
-      "alert_id": "24451",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24451",
-      "description": "The Bump Track will be temporarily closed to the public on Saturday 7 September 2024 for public safety during the Gran Fondo mountain bike event.",
-      "details": "<p>The Bump Track will be temporarily closed to the public on Saturday 7 September 2024 for public safety during the Gran Fondo mountain bike event.</p> <p>We apologise for any inconvenience this may cause.</p>",
-      "start_date": "2024-08-29",
-      "start_effective_date": "2024-09-07",
-      "end_date": "2024-09-07",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
       "title": "Temporary lookout closure: Whitehaven Bay South",
       "alert_id": "24453",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24453",
@@ -2710,23 +2693,6 @@
           "id": "149521",
           "name": "Lindeman Islands National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lindeman-islands"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure Black Mountain Road, Kuranda National Park",
-      "alert_id": "24462",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24462",
-      "description": "The northern end of Black Mountain Road, north of Quaid road, will be temporarily closed on Saturday 7 September 2024 between 7:00am and 11:00am.",
-      "details": "<p>The northern end of Black Mountain Road, north of Quaid road, will be temporarily closed on Saturday 7 September 2024 between 7:00am and 11:00am.</p> <p>The closure will be managed by contracted traffic controllers for safe passage of mountain bikers for the &lsquo;Gran Fondo Hartley&rsquo;s to Port Douglas race&rsquo;.&nbsp;</p> <p>Please adhere to all signage and direction by traffic controllers.</p>",
-      "start_date": "2024-09-02",
-      "start_effective_date": "2024-09-03",
-      "end_date": "2024-09-07",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
         }
       ]
     },
