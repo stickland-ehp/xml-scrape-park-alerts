@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 156,
-    "script_run_time": "2024-09-11 10:08:13"
+    "script_run_time": "2024-09-12 10:08:47"
   },
   "alerts": [
     {
@@ -10,9 +10,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/16815",
       "description": "As there are numerous parks in the Cape York Peninsula area, park alerts are published on individual park pages.",
       "details": "<p>As there are numerous parks in the Cape York Peninsula area, park alerts are published on individual park pages.</p> <p>Please visit our <a href=\"https://parks.des.qld.gov.au/parks/\">find a park</a> page to search for parks by name or region.</p>",
-      "start_date": "2023-11-17",
+      "start_date": "2024-09-12",
       "start_effective_date": "2019-04-02",
-      "end_date": "2024-09-15",
+      "end_date": "2025-09-12",
       "parks": [
         {
           "id": "148211",
@@ -2839,23 +2839,6 @@
       ]
     },
     {
-      "title": "Planned Burn within D'Aguilar National Park Walkabout Creek Area",
-      "alert_id": "24483",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24483",
-      "description": "Fire breaks and walking tracks including Link Track, Hillside Track, Araucaria Track, Reservoir Break, Mount Nebo Break, Jeep Break and Duck Creek Road will be closed for the duration of this planned burn operation due to the increased risk of treefall or the chance of fire re-igniting within the burn block.",
-      "details": "<p>Fire breaks and walking tracks including Link Track, Hillside Track, Araucaria Track, Reservoir Break, Mount Nebo Break, Jeep Break and Duck Creek Road will be closed for the duration of this planned burn operation due to the increased risk of treefall or the chance of fire re-igniting within the burn block.</p> <p>Please observe all signage , barriers and directions from rangers and do not enter closed areas.<br /> These precautions are in place for your saftey.</p> <p>Contact - QPWS, Walkabout Creek Discovery Centre - PH. 3164 3600&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-06",
-      "start_effective_date": "2024-09-09",
-      "end_date": "2024-09-11",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for planned burning activities: listed walks and camping areas along Wet Tropics Great Walk, Girringun National Park",
       "alert_id": "24484",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24484",
@@ -2886,11 +2869,11 @@
       "title": "Planned works for Bloodwood track, Wooroi Section",
       "alert_id": "24485",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24485",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Tewantin National Park, Wooroi Section from Wednesday 11 to Saturday 14 September 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Tewantin National Park, Wooroi Section from Wednesday 11 to Saturday 14 September 2024.</p> <p>The following area at the Wooroi mountain bike trail network will be closed for the duration of the maintenance program:</p> <ul> <li>Bloodwood track from the start to the hub</li> </ul> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-09-09",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Tewantin National Park, Wooroi Section from Wednesday 11 to Wednesday 18 September 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Tewantin National Park, Wooroi Section from Wednesday 11 to Wednesday 18 September 2024.</p> <p>The following area at the Wooroi mountain bike trail network will be closed for the duration of the maintenance program:</p> <ul> <li>Bloodwood track from the start to the hub</li> </ul> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-09-12",
       "start_effective_date": "2024-09-11",
-      "end_date": "2024-09-14",
+      "end_date": "2024-09-18",
       "parks": [
         {
           "id": "148107",
@@ -3008,6 +2991,28 @@
           "id": "148741",
           "name": "Fitzroy Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/fitzroy-island"
+        }
+      ]
+    },
+    {
+      "title": "Gas BBQ facilities temporarily out of order: Goldsborough Valley day-use and camping areas, Wooroonooran National Park",
+      "alert_id": "24492",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24492",
+      "description": "Gas BBQ facilities at Goldsborough Valley day-use and camping areas are currently inoperable. Replacement parts are on order and these facilities will be back in operation as soon as possible.",
+      "details": "<p>Gas BBQ facilities at Goldsborough Valley day-use and camping areas are currently inoperable. Replacement parts are on order and these facilities will be back in operation as soon as possible.</p> <p>We apologise for any inconvenience this may cause.</p>",
+      "start_date": "2024-09-12",
+      "start_effective_date": "2024-09-16",
+      "end_date": "2024-09-23",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
         }
       ]
     }
