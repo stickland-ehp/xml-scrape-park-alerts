@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2024-09-14 10:07:16"
+    "alerts_count": 156,
+    "script_run_time": "2024-09-15 10:07:34"
   },
   "alerts": [
     {
@@ -571,28 +571,6 @@
           "id": "148949",
           "name": "Errk Oykangand National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/errk-oykangand"
-        }
-      ]
-    },
-    {
-      "title": "Booloumba Creek 1 camping area now open with new sites",
-      "alert_id": "23387",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23387",
-      "description": "Booloumba Creek 1 camping area in Conondale National Park is now open for camping, following a temporary closure for upgrade works.",
-      "details": "<p>Booloumba Creek 1 camping area in Conondale National Park is now open for camping, following a temporary closure for upgrade works.</p> <p>Please note that the camping area has been redesigned. Three multi-use sites&nbsp;allowing campervans, camper trailers and tents are now available to visitors. A &#39;person with a disability&#39; (PWD) site has also been built to accommodate visitors requiring wheelchair access.</p> <p>Please carefully review the new camping area map on the DES website as site numbers have changed.</p> <p>Permits can be obtained <a href=\"https://qpws.usedirect.com/qpws/\">online</a></p>",
-      "start_date": "2024-03-18",
-      "start_effective_date": "2023-10-25",
-      "end_date": "2024-09-14",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        },
-        {
-          "id": "152865",
-          "name": "Conondale Range Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
         }
       ]
     },
