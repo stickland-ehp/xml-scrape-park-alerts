@@ -12,7 +12,7 @@ def clean_text(text):
     text = text.encode('ascii', 'ignore').decode('utf-8')  # Remove non-ASCII characters
     return text.strip()
 
-url = "https://parks.des.qld.gov.au/xml/parkalerts.xml"
+url = "https://parks.desi.qld.gov.au/xml/parkalerts.xml"
 xml_data = requests.get(url).content
 
 soup = BeautifulSoup(xml_data, "xml")
