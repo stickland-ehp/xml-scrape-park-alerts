@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2024-09-16 10:09:04"
+    "alerts_count": 158,
+    "script_run_time": "2024-09-17 10:08:07"
   },
   "alerts": [
     {
@@ -385,13 +385,13 @@
       ]
     },
     {
-      "title": "George Point camping area erosion",
+      "title": "George Point camping area closed",
       "alert_id": "22907",
       "url": "https://parks.desi.qld.gov.au/park-alerts/22907",
-      "description": "George Point camping area on the southern coastline of Hinchinbrook Island has been affected by erosion due to high tides and windy conditions.",
-      "details": "<p>George Point camping area on the southern coastline of Hinchinbrook Island has been affected by erosion due to high tides and windy conditions.</p> <p>The campground signage and infrastructure has been affected, and camping capacity at this site has been impacted.</p> <p>Space for camping is available under a large stand of trees approximately 150m to the north east along the beach (prior to reaching the camping area when hiking from north to south).</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
-      "start_date": "2024-05-08",
-      "start_effective_date": "2024-04-24",
+      "description": "George Point camping area on the southern coastline of Hinchinbrook Island has been affected by erosion due to high tides and windy conditions. This camping area is closed until further notice.",
+      "details": "<p>George Point camping area on the southern coastline of Hinchinbrook Island has been affected by erosion due to high tides and windy conditions. This camping area is closed until further notice.</p> <p>The campground signage and infrastructure has been washed out and the toilet has been compromised. For hikers undertaking the Thorsborne Trail, plan not to use this camping area.&nbsp;</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
+      "start_date": "2024-09-17",
+      "start_effective_date": "2024-09-17",
       "end_date": "2025-04-24",
       "parks": [
         {
@@ -2527,38 +2527,6 @@
       ]
     },
     {
-      "title": "Planned burning: Princess Hills, Blencoe Falls and Wairuna sections, Girringun National Park",
-      "alert_id": "24480",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24480",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park from Thursday 12 September to Monday 16 September 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests. As a result, smoke may be seen in the area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park from Thursday 12 September to Monday 16 September 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program for parks and forests. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call the Princess Hills QPWS office on 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-13",
-      "start_effective_date": "2024-09-12",
-      "end_date": "2024-09-16",
-      "parks": [
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
-        },
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
-        }
-      ]
-    },
-    {
       "title": "Limited parking at Cedar Creek",
       "alert_id": "24482",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24482",
@@ -2969,6 +2937,96 @@
           "id": "200319",
           "name": "Walkabout Creek Discovery Centre",
           "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Park Closure",
+      "alert_id": "24510",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24510",
+      "description": "Park Closed for Maintenance Works",
+      "details": "<p>Park Closed for Maintenance Works</p> <p>David Fleay Wildlife Park will be closed for the day to enable significant operational works to be completed. Normal park operations should resume Thursday, 17 October 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "start_date": "2024-09-17",
+      "start_effective_date": "2024-10-16",
+      "end_date": "2024-10-16",
+      "parks": [
+        {
+          "id": "148540",
+          "name": "David Fleay Wildlife Park",
+          "url": "https://parks.desi.qld.gov.au/parks/david-fleay"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn operation within the DAguilar National Park (Walkabout Creek area.)",
+      "alert_id": "24512",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24512",
+      "description": "The fire breaks and walking tracks including Araucaria Track, Reservoir Break, Mount Nebo Road Break, Holman's break , Jeep Break and Duck Creek Road will be closed during this planned burn operation, due to the increased risk of treefall or the chance of the fire re-igniting within the burn block.",
+      "details": "<p>The fire breaks and walking tracks including Araucaria Track, Reservoir Break, Mount Nebo Road Break, Holman's break , Jeep Break and Duck Creek Road will be closed during this planned burn operation, due to the increased risk of treefall or the chance of the fire re-igniting within the burn block.</p> <p>This planned burn operation is part of the annual hazard reduction and conservation management program for parks and forests and&nbsp;will be conducted in the D&rsquo;Aguilar National Park, specifically within the Walkabout Creek area.&nbsp;<br /> This closure will be in place from Wednesday, September 18 until it&rsquo;s assessed as safe to open by Queensland Parks and Wildlife Service (QPWS) fire management staff.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Contact &ndash; QPWS, Walkabout Creek Visitor Centre &ndash; ph. 3164 3600</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-17",
+      "start_effective_date": "2024-09-18",
+      "end_date": "2024-09-26",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Kauri Creek camping area, Danbulla National Park.",
+      "alert_id": "24514",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
+      "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Kauri Creek camping area. The camping area is heavily booked from Friday 20 September 2024 to Sunday 22 September 2024, and space usually available for camping is currently underwater.",
+      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Kauri Creek camping area. The camping area is heavily booked from Friday 20 September 2024 to Sunday 22 September 2024, and space usually available for camping is currently underwater.</p> <p>If you choose to continue with your camping booking, we ask that you are respectful of the limited space and of other campers.</p> <p>In particular,&nbsp;<strong>please do not put up day-use gazebos</strong>.&nbsp;</p> <p>Should you wish to camp with more space, please consider changing your booking to Fong-On Bay camping area.</p> <p>If you are no longer planning to camp at this time, please cancel or modify your booking.</p> <p>Campers with bookings will receive an email with instructions on how to seek a refund.</p>",
+      "start_date": "2024-09-17",
+      "start_effective_date": "2024-09-17",
+      "end_date": "2024-12-16",
+      "parks": [
+        {
+          "id": "148055",
+          "name": "Danbulla National Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/danbulla"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24515",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24515",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "start_date": "2024-09-17",
+      "start_effective_date": "2024-09-17",
+      "end_date": "2024-09-19",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Upper NZ track, Parklands Conservation Park",
+      "alert_id": "24516",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24516",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Parklands Conservation Park from Monday 23 September to Monday 30 September 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Parklands Conservation Park from Monday 23 September to Monday 30 September 2024.</p> <p>The following area at the Parklands mountain bike trail network will be closed for the duration of the maintenance program:</p> <ul> <li>Upper NZ track to Handlebar track</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "start_date": "2024-09-17",
+      "start_effective_date": "2024-09-23",
+      "end_date": "2024-09-30",
+      "parks": [
+        {
+          "id": "148035",
+          "name": "Parklands Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/parklands"
         }
       ]
     }
