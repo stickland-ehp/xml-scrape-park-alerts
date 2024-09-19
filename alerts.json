@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-09-18 10:08:23"
+    "alerts_count": 161,
+    "script_run_time": "2024-09-19 10:08:18"
   },
   "alerts": [
     {
@@ -2257,9 +2257,9 @@
       "title": "Temporary closure: Broadwater day-use area and camping area, Abergowrie State Forest",
       "alert_id": "24420",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24420",
-      "description": "Broadwater day-use area and camping area, Abergowrie State Forest, will be closed from Wednesday 18 September to Friday 22 September 2024 (dates inclusive) for the purpose of Warrgamay native title holders performing Ceremony on Warrgamay Country.",
-      "details": "<p>Broadwater day-use area and camping area, Abergowrie State Forest, will be closed from Wednesday 18 September to Friday 22 September 2024 (dates inclusive) for the purpose of Warrgamay native title holders performing Ceremony on Warrgamay Country.</p>",
-      "start_date": "2024-08-20",
+      "description": "Broadwater day-use area and camping area, Abergowrie State Forest, will be closed from Wednesday 18 September to Sunday 22 September 2024 (dates inclusive) for the purpose of Warrgamay native title holders performing Ceremony on Warrgamay Country.",
+      "details": "<p>Broadwater day-use area and camping area, Abergowrie State Forest, will be closed from Wednesday 18 September to Sunday 22 September 2024 (dates inclusive) for the purpose of Warrgamay native title holders performing Ceremony on Warrgamay Country.</p>",
+      "start_date": "2024-09-19",
       "start_effective_date": "2024-09-18",
       "end_date": "2024-09-22",
       "parks": [
@@ -2544,23 +2544,6 @@
       ]
     },
     {
-      "title": "Planned works for Bloodwood track, Wooroi Section",
-      "alert_id": "24485",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24485",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Tewantin National Park, Wooroi Section from Wednesday 11 to Wednesday 18 September 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Tewantin National Park, Wooroi Section from Wednesday 11 to Wednesday 18 September 2024.</p> <p>The following area at the Wooroi mountain bike trail network will be closed for the duration of the maintenance program:</p> <ul> <li>Bloodwood track from the start to the hub</li> </ul> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-09-12",
-      "start_effective_date": "2024-09-11",
-      "end_date": "2024-09-18",
-      "parks": [
-        {
-          "id": "148107",
-          "name": "Tewantin National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tewantin"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure: Goldfield trail from the Babinda Boulders to Mulgrave River camping area, Wooroonooran National Park",
       "alert_id": "24487",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24487",
@@ -2656,14 +2639,14 @@
       ]
     },
     {
-      "title": "Gas BBQ facilities temporarily out of order: Goldsborough Valley day-use and camping areas, Wooroonooran National Park",
+      "title": "Temporary day-use area BBQ shelter closure: Goldsborough Valley, Wooroonooran National Park",
       "alert_id": "24492",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24492",
-      "description": "Gas BBQ facilities at Goldsborough Valley day-use and camping areas are currently inoperable. Replacement parts are on order and these facilities will be back in operation as soon as possible.",
-      "details": "<p>Gas BBQ facilities at Goldsborough Valley day-use and camping areas are currently inoperable. Replacement parts are on order and these facilities will be back in operation as soon as possible.</p> <p>We apologise for any inconvenience this may cause.</p>",
-      "start_date": "2024-09-12",
+      "description": "Due to public safety concerns, the Goldsborough Valley day-use area BBQ shelter is temporarily closed for repairs.",
+      "details": "<p>Due to public safety concerns, the Goldsborough Valley day-use area BBQ shelter is temporarily closed for repairs.</p> <p>Uncovered picnic tables are available throughout the day-use area and an alternative shelter (without BBQ facilities) is located near the car park closest to the park entry.&nbsp;</p> <p>Queensland Parks and Wildlife Service apologises for any inconvenience this may cause.</p>",
+      "start_date": "2024-09-19",
       "start_effective_date": "2024-09-16",
-      "end_date": "2024-09-23",
+      "end_date": "2024-12-01",
       "parks": [
         {
           "id": "148468",
