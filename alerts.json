@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 161,
-    "script_run_time": "2024-09-19 10:08:18"
+    "alerts_count": 162,
+    "script_run_time": "2024-09-20 10:08:42"
   },
   "alerts": [
     {
@@ -76,9 +76,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/17903",
       "description": "The section of Koolmoon Creek walking track between Walters Waterhole camping area and Elizabeth Grant Falls is closed until further notice.",
       "details": "<p>The section of Koolmoon Creek walking track between Walters Waterhole camping area and Elizabeth Grant Falls is closed until further notice.</p> <p>Please do not attempt to traverse this walking track during this closure.</p>",
-      "start_date": "2023-11-17",
+      "start_date": "2024-09-20",
       "start_effective_date": "2020-08-19",
-      "end_date": "2024-09-26",
+      "end_date": "2025-03-31",
       "parks": [
         {
           "id": "148460",
@@ -579,10 +579,10 @@
       "alert_id": "23401",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23401",
       "description": "Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.",
-      "details": "<p>Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.</p> <p>As a result, the following camp grounds&nbsp;are temporarily closed:</p> <p>Forestry camp</p> <p>Range view camp</p> <p>Zamia camp<br /> <br /> All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "start_date": "2024-08-22",
+      "details": "<p>Bulburin National Park is temporarily closed due to Forestry road and Dawes Range road being unsuitable to drive.</p> <p>As a result, the following camp grounds&nbsp;are temporarily closed:</p> <p>Forestry camp</p> <p>Range view camp</p> <p>Zamia camp<br /> <br /> All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "start_date": "2024-09-20",
       "start_effective_date": "2023-10-31",
-      "end_date": "2024-09-19",
+      "end_date": "2024-12-18",
       "parks": [
         {
           "id": "148151",
@@ -2992,28 +2992,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24515",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24515",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "start_date": "2024-09-17",
-      "start_effective_date": "2024-09-17",
-      "end_date": "2024-09-19",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Upper NZ track, Parklands Conservation Park",
       "alert_id": "24516",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24516",
@@ -3113,6 +3091,40 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Tamborine National Park",
+      "alert_id": "24520",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24520",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Saturday, 21 September 2024 as part of the management program for Tamborine National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Saturday, 21 September 2024 as part of the management program for Tamborine National Park.</p> <p>During the planned burn the following area is&nbsp;<strong>closed to public access:</strong></p> <ul> <li>Cameron Falls lookout on Sandy Creek circuit in&nbsp;The Knoll section.</li> </ul> <p>Smoke may be seen in the vicinity of Tamborine Mountain (The Knoll and Beacon Road areas), Tamborine Village and Boyland. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-20",
+      "start_effective_date": "2024-09-20",
+      "end_date": "2024-09-23",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Moogerah Peaks National Park, Mount Edwards section - Closed due to Bushfire",
+      "alert_id": "24521",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24521",
+      "description": "Due to current wildfire, Moogerah Peaks National Park- Mount Edwards Section is temporarily closed until declared safe, this includes the Mount Edwards Summit Walk. Wildfire mitigation activities are in progress and areas will be reopened once conditions are considered safe. All permits for closed areas are suspended for the duration of the closure.",
+      "details": "<p>Due to current wildfire, Moogerah Peaks National Park- Mount Edwards Section is temporarily closed until declared safe, this includes the Mount Edwards Summit Walk. Wildfire mitigation activities are in progress and areas will be reopened once conditions are considered safe. All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-20",
+      "start_effective_date": "2024-09-20",
+      "end_date": "2024-09-24",
+      "parks": [
+        {
+          "id": "149021",
+          "name": "Moogerah Peaks National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
         }
       ]
     }
