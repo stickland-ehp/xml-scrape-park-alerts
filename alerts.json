@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-09-20 10:08:42"
+    "alerts_count": 164,
+    "script_run_time": "2024-09-21 10:07:01"
   },
   "alerts": [
     {
@@ -3125,6 +3125,40 @@
           "id": "149021",
           "name": "Moogerah Peaks National Park",
           "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Nearby wildfire has entered Mount Moffatt section",
+      "alert_id": "24523",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24523",
+      "description": "Nearby wildfire at Mount Moffatt, Carnarvon National Park.",
+      "details": "<p>Nearby wildfire at Mount Moffatt, Carnarvon National Park.</p> <p>A current wildfire has entered the south west corner of&nbsp;Mount Moffatt, Carnarvon National Park. Wildfire mitigation activities are in progress.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\" target=\"_blank\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\" target=\"_blank\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-21",
+      "start_effective_date": "2024-09-21",
+      "end_date": "2024-09-23",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
+        }
+      ]
+    },
+    {
+      "title": "Starkvale camping area closed due to nearby wildfire",
+      "alert_id": "24524",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24524",
+      "description": "Nearby wildfire to Starkvale camping area",
+      "details": "<p>Nearby wildfire to Starkvale camping area</p> <p>Due to current wildfire, Starkvale camping area is temporarily closed until declared safe. Wildfire mitigation activities are in progress and areas will be reopened once conditions are considered safe. All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\" target=\"_blank\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\" target=\"_blank\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-21",
+      "start_effective_date": "2024-09-21",
+      "end_date": "2024-09-23",
+      "parks": [
+        {
+          "id": "148508",
+          "name": "Expedition National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/expedition"
         }
       ]
     }
