@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2024-09-26 10:08:37"
+    "alerts_count": 184,
+    "script_run_time": "2024-09-27 10:08:37"
   },
   "alerts": [
     {
@@ -631,14 +631,14 @@
       ]
     },
     {
-      "title": "Wet season closure update: Cape Melville National Park (CYPAL)",
+      "title": "Camping areas information: Cape Melville National Park (CYPAL)",
       "alert_id": "23452",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23452",
-      "description": "Please see below information regarding camping areas reopening from the wet season closure in Cape Melville National Park (CYPAL).",
-      "details": "<p>Please see below information regarding camping areas reopening from the wet season closure in Cape Melville National Park (CYPAL).</p> <p>The following camping area is now open:</p> <ul> <li>Ninian Bay camping area.</li> </ul> <p>The following camping areas are open with caution, but visitors are advised that trailers are not recommeded due to boggy sections and erosion issues:</p> <ul> <li>Crocodile camping area</li> <li>Wongai camping area</li> <li>Oystercatcher camping area</li> <li>Granite camping area.</li> </ul> <p>Please monitor park alerts for current information.</p>",
-      "start_date": "2024-09-02",
+      "description": "Please see below information regarding camping areas in Cape Melville National Park (CYPAL).",
+      "details": "<p>Please see below information regarding camping areas in Cape Melville National Park (CYPAL).</p> <p>The following camping area is now open:</p> <ul> <li>Ninian Bay camping area.</li> </ul> <p>The following camping areas are open with caution, but visitors are advised that trailers are not recommended due to rough and boggy terrain:</p> <ul> <li>Crocodile camping area</li> <li>Wongai camping area</li> <li>Oystercatcher camping area</li> <li>Granite camping area.</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "start_date": "2024-09-27",
       "start_effective_date": "2023-12-01",
-      "end_date": "2024-09-30",
+      "end_date": "2024-10-28",
       "parks": [
         {
           "id": "148725",
@@ -1250,9 +1250,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/23915",
       "description": "Due to significant fallen trees and landslide which is obstructing the track and impeding safe visitor access, the West Canungra Creek circuit in the Green Mountains section of Lamington National Park is only partially open in a clockwise direction to Yerralahla Pool (Blue Pool). Walkers must return the same way.",
       "details": "<p>Due to significant fallen trees and landslide which is obstructing the track and impeding safe visitor access, the West Canungra Creek circuit in the Green Mountains section of Lamington National Park is only partially open in a clockwise direction to Yerralahla Pool (Blue Pool). Walkers must return the same way.</p> <p>As a result, the <strong>West Canungra Creek circuit</strong> remains partially <strong>closed </strong>until declared safe.</p> <ul> <li>Access to Yerralahla Pool (Blue Pool) is open in a clockwise direction only. Walkers must return the same way.</li> <li>The remainder of the West Canungra Creek circuit remains temporarily closed until the track is declared safe for visitors.</li> </ul> <p>Other walking track closures for Lamington National Park include:</p> <ul> <li>The Lower Bellbird track in Binna Burra section (<a href=\"https://parks.des.qld.gov.au/park-alerts/23645\">Park alert: Temporary walking track closure - Lower Bellbird track (des.qld.gov.au)</a></li> </ul> <p>All other walking tracks within Lamington National Park remain open for visitor access (except for&nbsp;those listed herein and identified in separate Park Alerts).</p> <p>Observe all signage, barriers, and directions from rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please check Park Alerts as they are regularly updated regarding conditions on park.</p>",
-      "start_date": "2024-09-02",
+      "start_date": "2024-09-27",
       "start_effective_date": "2024-03-26",
-      "end_date": "2024-09-30",
+      "end_date": "2024-12-20",
       "parks": [
         {
           "id": "148271",
@@ -1384,11 +1384,11 @@
       "title": "Planned works for Bunyaville Conservation Park",
       "alert_id": "24052",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24052",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned capital works upgrade at the Bunyaville Conservation Park picnic area from 15 May to September 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned capital works upgrade at the Bunyaville Conservation Park picnic area from 15 May to September 2024.</p> <p>The following areas at Bunyaville Conservation Park are closed to the public for the duration of the upgrade&nbsp;program from 15&nbsp;May - September 2024:</p> <ul> <li>The&nbsp;Bunyaville picnic areas including all associated carparks</li> <li>All toilets, picnic shelters, tables,&nbsp;and other infrastructure within the picnic areas.</li> </ul> <p>The access road into the picnic area from Old Northern Road will also be closed when required for public safety.</p> <p>The picnic areas shown in light green on the &lt; <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160519/bunyaville-track-map.pdf\">Bunyaville picnic area and walking tracks map</a> &gt; will be closed to public access while construction work is underway.</p> <p>City of Moreton Bay provides a range of BBQ, picnic and play facilities nearby:</p> <ul> <li>Arlington Park - 5 min</li> <li>Lesley Patrick Park - 7 min</li> <li>Lemke Park - 11 min</li> <li>Surrey Farm Park - 11 min</li> </ul> <p>The Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from Rangers or Contractors and do not enter closed areas.</p> <p>QPWS apologises for any inconvenience, new facilities will reopen when construction is completed.</p>",
-      "start_date": "2024-09-02",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned capital works upgrade at the Bunyaville Conservation Park picnic area from 15 May to mid-October 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned capital works upgrade at the Bunyaville Conservation Park picnic area from 15 May to mid-October 2024.</p> <p>The following areas at Bunyaville Conservation Park are closed to the public for the duration of the upgrade&nbsp;program from 15&nbsp;May - mid October 2024:</p> <ul> <li>The&nbsp;Bunyaville picnic areas including all associated carparks</li> <li>All toilets, picnic shelters, tables,&nbsp;and other infrastructure within the picnic areas.</li> </ul> <p>The access road into the picnic area from Old Northern Road will also be closed when required for public safety.</p> <p>The picnic areas shown in light green on the &lt; <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160519/bunyaville-track-map.pdf\">Bunyaville picnic area and walking tracks map</a> &gt; will be closed to public access while construction work is underway.</p> <p>City of Moreton Bay provides a range of BBQ, picnic and play facilities nearby:</p> <ul> <li>Arlington Park - 5 min</li> <li>Lesley Patrick Park - 7 min</li> <li>Lemke Park - 11 min</li> <li>Surrey Farm Park - 11 min</li> </ul> <p>The Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from Rangers or Contractors and do not enter closed areas.</p> <p>QPWS apologises for any inconvenience, new facilities will reopen when construction is completed.</p>",
+      "start_date": "2024-09-27",
       "start_effective_date": "2024-05-15",
-      "end_date": "2024-09-30",
+      "end_date": "2024-10-14",
       "parks": [
         {
           "id": "148376",
@@ -1435,11 +1435,11 @@
       "title": "Temporary closure: White Rock peak walking track, Dinden National Park",
       "alert_id": "24081",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24081",
-      "description": "The White Rock peak walking track from Lake Morris Road to White Rock peak will be closed from 22 May to 30 September 2024 (dates inclusive). Access via Lake Morris Road is closed due to recovery works after ex-Tropical Cyclone Jasper. Work is also being conducted on the towers at the beginning of White Rock peak walking track, involving heavy plant machinery, hazardous materials and heavy traffic.",
-      "details": "<p>The White Rock peak walking track from Lake Morris Road to White Rock peak will be closed from 22 May to 30 September 2024 (dates inclusive). Access via Lake Morris Road is closed due to recovery works after ex-Tropical Cyclone Jasper. Work is also being conducted on the towers at the beginning of White Rock peak walking track, involving heavy plant machinery, hazardous materials and heavy traffic.</p>",
-      "start_date": "2024-08-30",
+      "description": "Due to recovery works after ex-Tropical Cyclone Jasper, access to White Rock peak walking track on Lake Morris Road is closed from Wednesday 22 May to Saturday 30 November 2024 (dates inclusive). The walking track will be closed during this period.",
+      "details": "<p>Due to recovery works after ex-Tropical Cyclone Jasper, access to White Rock peak walking track on Lake Morris Road is closed from Wednesday 22 May to Saturday 30 November 2024 (dates inclusive). The walking track will be closed during this period.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-09-27",
       "start_effective_date": "2024-05-22",
-      "end_date": "2024-09-30",
+      "end_date": "2024-11-30",
       "parks": [
         {
           "id": "151371",
@@ -2032,9 +2032,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24306",
       "description": "The toilet block in the Camp Mountain day-use area is closed until further notice. The toilets are currently not working due to water supply issues. The Camp Mountain access road is closed to vehicles due to a large landslip. However, walk-in access to the Camp Mountain day-use area is permitted via the asphalt access road and along the fire breaks.",
       "details": "<p>The toilet block in the Camp Mountain day-use area is closed until further notice. The toilets are currently not working due to water supply issues. The Camp Mountain access road is closed to vehicles due to a large landslip. However, walk-in access to the Camp Mountain day-use area is permitted via the asphalt access road and along the fire breaks.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "start_date": "2024-07-24",
+      "start_date": "2024-09-27",
       "start_effective_date": "2024-07-22",
-      "end_date": "2024-09-30",
+      "end_date": "2024-11-30",
       "parks": [
         {
           "id": "148259",
@@ -2870,23 +2870,6 @@
       ]
     },
     {
-      "title": "Planned Burn operation within the DAguilar National Park (Walkabout Creek area.)",
-      "alert_id": "24512",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24512",
-      "description": "The fire breaks and walking tracks including Araucaria Track, Reservoir Break, Mount Nebo Road Break, Holman's break , Jeep Break and Duck Creek Road will be closed during this planned burn operation, due to the increased risk of treefall or the chance of the fire re-igniting within the burn block.",
-      "details": "<p>The fire breaks and walking tracks including Araucaria Track, Reservoir Break, Mount Nebo Road Break, Holman's break , Jeep Break and Duck Creek Road will be closed during this planned burn operation, due to the increased risk of treefall or the chance of the fire re-igniting within the burn block.</p> <p>This planned burn operation is part of the annual hazard reduction and conservation management program for parks and forests and&nbsp;will be conducted in the D&rsquo;Aguilar National Park, specifically within the Walkabout Creek area.&nbsp;<br /> This closure will be in place from Wednesday, September 18 until it&rsquo;s assessed as safe to open by Queensland Parks and Wildlife Service (QPWS) fire management staff.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Contact &ndash; QPWS, Walkabout Creek Visitor Centre &ndash; ph. 3164 3600</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-26",
-      "start_effective_date": "2024-09-18",
-      "end_date": "2024-09-30",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Kauri Creek camping area, Danbulla National Park.",
       "alert_id": "24514",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
@@ -3063,9 +3046,9 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24524",
       "description": "Due to current bushfire, Starkvale camping area, Expedition National Park is closed until declared safe.",
       "details": "<p>Due to current bushfire, Starkvale camping area, Expedition National Park is closed until declared safe.</p> <p>Wildfire mitigation activities are in progress and areas will be reopened once conditions are considered safe. All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\" target=\"_blank\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\" target=\"_blank\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-23",
+      "start_date": "2024-09-27",
       "start_effective_date": "2024-09-21",
-      "end_date": "2024-09-27",
+      "end_date": "2024-10-01",
       "parks": [
         {
           "id": "148508",
@@ -3160,14 +3143,14 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning activities: Walshs Pyramid walking track, Wooroonooran National Park",
+      "title": "Temporary closure for planned burning activities UPDATE: Walshs Pyramid walking track, Wooroonooran National Park",
       "alert_id": "24532",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24532",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities in the Walshs Pyramid section of Wooroonooran National Park between Tuesday 24 September and Friday 27 September 2024 (dates inclusive). The Walshs Pyramid walking track will be closed during this time.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities in the Walshs Pyramid section of Wooroonooran National Park between Tuesday 24 September and Friday 27 September 2024 (dates inclusive). The Walshs Pyramid walking track will be closed during this time.</p> <p>This burn is being carried out for conservation management and fuel hazard reduction purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers. Your safety is our concern but your responsibility.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-23",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities in the Walshs Pyramid section of Wooroonooran National Park between Tuesday 24 September and Monday 30 September 2024 (dates inclusive). The Walshs Pyramid walking track will be closed during this time.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities in the Walshs Pyramid section of Wooroonooran National Park between Tuesday 24 September and Monday 30 September 2024 (dates inclusive). The Walshs Pyramid walking track will be closed during this time.</p> <p>This burn is being carried out for conservation management and fuel hazard reduction purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers. Your safety is our concern but your responsibility.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-27",
       "start_effective_date": "2024-09-24",
-      "end_date": "2024-09-27",
+      "end_date": "2024-09-30",
       "parks": [
         {
           "id": "148468",
@@ -3532,6 +3515,40 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
+      "title": "Incident  Cedar Creek closed",
+      "alert_id": "24550",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24550",
+      "description": "Due to an ongoing incident involving emergency services, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>Due to an ongoing incident involving emergency services, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek section of Tamborine National Park including: <ul> <li>Cedar Creek day-use area</li> <li>Cedar Creek Falls lookout track</li> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> </li> </ul> <p>The area may remain closed after the incident to enable QPWS Rangers time to assess the site.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Alternate facilities are available at the below locations. Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0015/161160/tamborine-locality-map.pdf\">park locality map</a> for more information.</p> <ul> <li>Joalah section</li> <li>MacDonald section</li> <li>Palm Grove section</li> <li>The Knoll section</li> <li>Witches Falls section.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-09-27",
+      "start_effective_date": "2024-09-27",
+      "end_date": "2024-09-27",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Temporary camping area and surrounds closure: Twelve Mile Lagoon, Rinyirru (Lakefield) National Park (CYPAL)",
+      "alert_id": "24551",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24551",
+      "description": "Twelve Mile Lagoon and surrounds in Rinyirru (Lakefield) National Park (CYPAL) is temporarily closed for public safety . This closure includes all internal park access roads and camping areas in the Twelve Mile Lagoon area.",
+      "details": "<p>Twelve Mile Lagoon and surrounds in Rinyirru (Lakefield) National Park (CYPAL) is temporarily closed for public safety . This closure includes all internal park access roads and camping areas in the Twelve Mile Lagoon area.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "start_date": "2024-09-27",
+      "start_effective_date": "2024-09-27",
+      "end_date": "2024-12-01",
+      "parks": [
+        {
+          "id": "149481",
+          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
         }
       ]
     }
