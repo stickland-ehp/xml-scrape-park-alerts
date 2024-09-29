@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2024-09-28 10:07:05"
+    "alerts_count": 176,
+    "script_run_time": "2024-09-29 10:07:18"
   },
   "alerts": [
     {
@@ -3014,23 +3014,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Grey Peaks National Park",
-      "alert_id": "24531",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24531",
-      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn at Bessie Point on Tuesday 24 September 2024. This burn will likely continue overnight if conditions permit.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn at Bessie Point on Tuesday 24 September 2024. This burn will likely continue overnight if conditions permit.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "start_date": "2024-09-23",
-      "start_effective_date": "2024-09-24",
-      "end_date": "2024-09-28",
-      "parks": [
-        {
-          "id": "148448",
-          "name": "Grey Peaks National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/grey-peaks"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for planned burning activities UPDATE: Walshs Pyramid walking track, Wooroonooran National Park",
       "alert_id": "24532",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24532",
@@ -3386,6 +3369,40 @@
           "id": "149481",
           "name": "Rinyirru (Lakefield) National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
+        }
+      ]
+    },
+    {
+      "title": "Park Closure_Bushfire",
+      "alert_id": "24552",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24552",
+      "description": "Blackdown Tableland National Park is closed until further notice due to two (2) active bushfires.",
+      "details": "<p>Blackdown Tableland National Park is closed until further notice due to two (2) active bushfires.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "start_date": "2024-09-29",
+      "start_effective_date": "2024-09-29",
+      "end_date": "2024-10-04",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Big Bend closed due to structural damage",
+      "alert_id": "24553",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24553",
+      "description": "Big Bend will be closed due to structural damage to the toilet block.",
+      "details": "<p>Big Bend will be closed due to structural damage to the toilet block.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "start_date": "2024-09-29",
+      "start_effective_date": "2024-09-29",
+      "end_date": "2024-10-31",
+      "parks": [
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
         }
       ]
     }
