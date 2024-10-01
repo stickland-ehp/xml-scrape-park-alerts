@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 161,
-    "script_run_time": "2024-10-01 05:24:56"
+    "alerts_count": 164,
+    "script_run_time": "2024-10-01 10:08:51"
   },
   "alerts": [
     {
@@ -2608,9 +2608,9 @@
       "description": "The toilet block in the Red Cedar day-use area is closed until further notice. The toilets are currently not working due water supply issues.",
       "details": "<p>The toilet block in the Red Cedar day-use area is closed until further notice. The toilets are currently not working due water supply issues.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-09-13",
+      "start_date": "2024-10-01",
       "start_effective_date": "2024-09-13",
-      "end_date": "2024-10-01",
+      "end_date": "2024-11-01",
       "parks": [
         {
           "id": "148259",
@@ -3264,6 +3264,60 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal seabird closures, Barnard Island Group National Park",
+      "alert_id": "24560",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24560",
+      "description": "Access to Sisters Island is prohibited until 31 March 2025 to protect nesting seabirds. This includes the national park and the beach.",
+      "details": "<p>Access to Sisters Island is prohibited until 31 March 2025 to protect nesting seabirds. This includes the national park and the beach.</p> <p>Stephens Island camping area and beach is still accessible during this period, however access to Stephens Island beyond the designated camping area is prohibited until 31 March 2025.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-01",
+      "start_effective_date": "2024-10-01",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148900",
+          "name": "Barnard Island Group National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/barnard-island"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal seabird closure, Woody Island on Low Islets Reef",
+      "alert_id": "24561",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24561",
+      "description": "Access to Woody Island on Low Islets Reef (16-028), is prohibited until 31 March 2025 to protect nesting birds.",
+      "details": "<p>Access to Woody Island on Low Islets Reef (16-028), is prohibited until 31 March 2025 to protect nesting birds.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-01",
+      "start_effective_date": "2024-10-01",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148368",
+          "name": "Snapper Island, Hope Islands National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/hope-snapper"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal seabird closure, Taylor Cay",
+      "alert_id": "24562",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24562",
+      "description": "Access to Taylor Cay on Taylor Reef (17-064), is prohibited until 31 March 2025 to protect nesting seabirds.",
+      "details": "<p>Access to Taylor Cay on Taylor Reef (17-064), is prohibited until 31 March 2025 to protect nesting seabirds.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-01",
+      "start_effective_date": "2024-10-01",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148872",
+          "name": "Family Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/family-islands"
         }
       ]
     }
