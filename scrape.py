@@ -25,6 +25,7 @@ alert_id = []  # Added to capture the alert ID
 alert_url = []
 description = []
 details = []
+category = []
 start_date = []
 start_effective_date = []
 end_date = []
@@ -55,6 +56,11 @@ for child in alerts:
         details.append(clean_text(" ".join(child.find('details').get_text().split())))
     except:
         details.append(" ")
+
+    try:
+        category.append(clean_text(" ".join(child.find('category').get_text().split())))
+    except:
+        category.append(" ")    
 
     try:
         start_date.append(child.find('date').find('start').get_text())
@@ -89,6 +95,7 @@ data = pd.DataFrame({
     "url": alert_url,
     "description": description,
     "details": details,
+    "category": category,
     "start_date": start_date,
     "start_effective_date": start_effective_date,
     "end_date": end_date,
