@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-10-05 10:07:26"
+    "alerts_count": 167,
+    "script_run_time": "2024-10-06 10:07:23"
   },
   "alerts": [
     {
@@ -2629,24 +2629,6 @@
           "id": "151343",
           "name": "Mount Moffatt, Carnarvon National Park",
           "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
-        }
-      ]
-    },
-    {
-      "title": "Townsville Town Common Conservation Park access road temporarily closed",
-      "alert_id": "24529",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24529",
-      "description": "The Townsville Town Common Conservation Park access road will be temporarily closed from Tuesday 1 October 2024 to Saturday 5 October 2024 inclusive due to maintenance works.",
-      "details": "<p>The Townsville Town Common Conservation Park access road will be temporarily closed from Tuesday 1 October 2024 to Saturday 5 October 2024 inclusive due to maintenance works.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-09-23",
-      "start_effective_date": "2024-10-01",
-      "end_date": "2024-10-05",
-      "parks": [
-        {
-          "id": "148311",
-          "name": "Townsville Town Common Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/townsville"
         }
       ]
     },
