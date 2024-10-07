@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-10-06 10:07:23"
+    "alerts_count": 166,
+    "script_run_time": "2024-10-07 10:09:04"
   },
   "alerts": [
     {
@@ -2611,24 +2611,6 @@
           "id": "322718",
           "name": "Southend Conservation Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Mount Moffatt section closure - damage due to bushfire",
-      "alert_id": "24523",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24523",
-      "description": "Due to a recent bushfire, Mount Moffatt section, Carnarvon National Park, is closed. QPWS Rangers are managing the situation and have damage repair activities in progress.",
-      "details": "<p>Due to a recent bushfire, Mount Moffatt section, Carnarvon National Park, is closed. QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-09-30",
-      "start_effective_date": "2024-09-21",
-      "end_date": "2024-10-06",
-      "parks": [
-        {
-          "id": "151343",
-          "name": "Mount Moffatt, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
         }
       ]
     },
