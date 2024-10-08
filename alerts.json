@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 166,
-    "script_run_time": "2024-10-07 10:09:04"
+    "script_run_time": "2024-10-08 10:08:33"
   },
   "alerts": [
     {
@@ -1102,24 +1102,6 @@
       ]
     },
     {
-      "title": "Planned works for Conondale National Park roads",
-      "alert_id": "23838",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23838",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Conondale National Park from 26 February 2024 to 30 November 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Conondale National Park from 26 February 2024 to 30 November 2024 (weather permitting).</p> <p>The following areas will have changed conditions for the duration of the maintenance program:</p> <ul> <li>Sunday Creek Road</li> <li>Booloumba Creek Road</li> <li>Funnels Hut Road</li> <li>Jimna-Bellthorpe Road</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "category": "Announcement",
-      "start_date": "2024-06-25",
-      "start_effective_date": "2024-02-26",
-      "end_date": "2024-11-30",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
       "title": "Walking Track Closure",
       "alert_id": "23892",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23892",
@@ -1861,24 +1843,6 @@
       ]
     },
     {
-      "title": "Cassowary safety message: Murray Falls, Girramay National Park",
-      "alert_id": "24356",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24356",
-      "description": "Please see below cassowary safety information for visitors to Murray Falls, Girramay National Park.",
-      "details": "<p>Please see below cassowary safety information for visitors to Murray Falls, Girramay National Park.</p> <ul> <li>While cassowaries are fascinating, they are also potentially dangerous. &nbsp;The cassowaries at Murray Falls camping area&nbsp;are very bold and will actively take food from campers.</li> <li>Please ensure all food, scraps and rubbish is secured and not accessible to cassowaries.&nbsp; Extra vigilance is required around mealtimes.</li> <li>Allowing cassowaries to connect human campsites with food is dangerous to campers and may lead to illness, injury, and deaths of birds.</li> <li>Rangers and wildlife officers are regularly visiting the park to provide education to campers regarding cassowary behaviour and ensuring potential food sources are isolated. &nbsp;</li> </ul> <p>Visitors are reminded to <a href=\"https://www.qld.gov.au/environment/plants-animals/conservation/threatened-wildlife/threatened-species/featured-projects/southern-cassowary\">Be CassoWARY</a>&nbsp;when visiting the park.&nbsp;</p>",
-      "category": "Other",
-      "start_date": "2024-08-02",
-      "start_effective_date": "2024-08-05",
-      "end_date": "2024-10-07",
-      "parks": [
-        {
-          "id": "148127",
-          "name": "Girramay National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girramay"
-        }
-      ]
-    },
-    {
       "title": "Seasonal Shorebird Closure Areas",
       "alert_id": "24369",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24369",
@@ -2205,12 +2169,12 @@
       "title": "Planned burning activities and access restrictions: Girramay National Park",
       "alert_id": "24478",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24478",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations in Girramay National Park from Wednesday 11 September to Friday 11 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations in Girramay National Park from Wednesday 11 September to Friday 11 October 2024 (dates inclusive).</p> <ul> <li>In the Dallachy/Bilyana area burning will occur west of Bruce Highway. &nbsp;</li> <li>In the Murray Falls section burning will occur in the vicinty of Murray Falls camping area. Visitors are advised that there may be limited access to Yalgay Ginja Bulumi walking track and the top viewing platform during this period,</li> </ul> <p>Please obey signage and instructions from Rangers.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations in Girramay National Park from Wednesday 11 September to Friday 25 October 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations in Girramay National Park from Wednesday 11 September to Friday 25 October 2024 (dates inclusive).</p> <ul> <li>In the Dallachy/Bilyana area burning will occur west of Bruce Highway. &nbsp;</li> <li>In the Murray Falls section burning will occur in the vicinty of Murray Falls camping area. Visitors are advised that there may be limited access to Yalgay Ginja Bulumi walking track and the top viewing platform during this period.</li> </ul> <p>Please obey signage and instructions from rangers.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-09-05",
+      "start_date": "2024-10-08",
       "start_effective_date": "2024-09-11",
-      "end_date": "2024-10-11",
+      "end_date": "2024-10-25",
       "parks": [
         {
           "id": "148127",
@@ -2220,15 +2184,15 @@
       ]
     },
     {
-      "title": "Planned burning activities: Girringun National Park",
+      "title": "Planned burning activities: Sunday creek and Conn creek areas, Girringun National Park",
       "alert_id": "24479",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24479",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations in the Girringun National Park west of Bruce Highway in Mullers creek and Conn creek areas from Wednesday 11 September to Friday 11 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations in the Girringun National Park west of Bruce Highway in Mullers creek and Conn creek areas from Wednesday 11 September to Friday 11 October 2024 (dates inclusive).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations in the Girringun National Park west of Bruce Highway in Sunday creek and Conn creek areas from Wednesday 11 September to Friday 18 October 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations in the Girringun National Park west of Bruce Highway in Sunday creek and Conn creek areas from Wednesday 11 September to Friday 18 October 2024 (dates inclusive).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-09-05",
+      "start_date": "2024-10-08",
       "start_effective_date": "2024-09-11",
-      "end_date": "2024-10-11",
+      "end_date": "2024-10-18",
       "parks": [
         {
           "id": "148123",
@@ -2667,24 +2631,6 @@
           "id": "322678",
           "name": "Gadgarra National Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Lake Euramoo lookout deck, Danbulla National Park",
-      "alert_id": "24536",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24536",
-      "description": "The Lake Euramoo lookout deck will be closed for maintenance from Monday 30 September to Monday 7 October 2024 (dates inclusive).",
-      "details": "<p>The Lake Euramoo lookout deck will be closed for maintenance from Monday 30 September to Monday 7 October 2024 (dates inclusive).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-09-24",
-      "start_effective_date": "2024-09-30",
-      "end_date": "2024-10-07",
-      "parks": [
-        {
-          "id": "148055",
-          "name": "Danbulla National Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/danbulla"
         }
       ]
     },
@@ -3160,24 +3106,6 @@
       ]
     },
     {
-      "title": "Happy Valley grid maintenance",
-      "alert_id": "24566",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24566",
-      "description": "Fence and grid maintenance will be undertaken at Happy Valley on 7 October 2024.",
-      "details": "<p>Fence and grid maintenance will be undertaken at Happy Valley on 7 October 2024.</p> <p>The Eastern beach entrance road access to/from Happy Valley Township will be closed between 07:00 and 12:00 - access to Happy Valley Township will be via the high tide access road from Yidney Rocks only.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-02",
-      "start_effective_date": "2024-10-07",
-      "end_date": "2024-10-07",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Bushfire: Herberton Range National Park",
       "alert_id": "24567",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24567",
@@ -3359,6 +3287,118 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Girringun National Park and Kirrama National Park",
+      "alert_id": "24577",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24577",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park and Kirrama National Park from Tuesday 8 October to Friday 18 October 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program. As a result, smoke may be seen in the area.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park and Kirrama National Park from Tuesday 8 October to Friday 18 October 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important for that motorists drive safely and to the conditions</p> <p>Fore more information, please call the Princess Hills QPWS office on (07) 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-10-08",
+      "start_effective_date": "2024-10-08",
+      "end_date": "2024-10-18",
+      "parks": [
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "148179",
+          "name": "Kirrama National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kirrama"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
+        },
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
+        },
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
+        }
+      ]
+    },
+    {
+      "title": "Byfield State Forest - Water Park Creek",
+      "alert_id": "24578",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24578",
+      "description": "HQPlantations will be conducting planned burn operations north of the Byfield State Forest - Water Park camping and day use areas. There will be smoke and HQPlantations heavy vehicle movement within the area.",
+      "details": "<p>HQPlantations will be conducting planned burn operations north of the Byfield State Forest - Water Park camping and day use areas. There will be smoke and HQPlantations heavy vehicle movement within the area.</p> <p>For further information, please contact <a href=\"https://www.hqplantations.com.au/contact\">HQPlantations</a> at <a href=\"mailto:information@hqplantations.com.au\">information@hqplantations.com.au</a> or phone <a href=\"tel:+61748374100\">+61 7 4837 4100</a>.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-10-08",
+      "start_effective_date": "2024-10-08",
+      "end_date": "2024-10-29",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Girraween National Park Visitor Information Centre closure - for planned works",
+      "alert_id": "24579",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24579",
+      "description": "Girraween National Park is undergoing a $7.7M upgrade to its visitor facilities with construction expected to take place from October 2024 to July 2025 (weather permitting). As a result, the Girraween National Park Visitor Information Centre and adjacent car park will be closed temporarily.",
+      "details": "<p>Girraween National Park is undergoing a $7.7M upgrade to its visitor facilities with construction expected to take place from October 2024 to July 2025 (weather permitting). As a result, the Girraween National Park Visitor Information Centre and adjacent car park will be closed temporarily.</p> <p>The upgrade includes a new amenities block, a new visitor centre building and more car parking to meet increased visitor demand. The existing visitor centre will be refurbished into an office for the local rangers.</p> <p>During construction:<br /> &bull; The visitor centre and adjacent car park will be TEMPORARILY CLOSED.<br /> &bull; Visitors can park in the day-use area and camping areas.<br /> &bull; Trailhead and orientation signs are available in the day-use area.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-08",
+      "start_effective_date": "2024-10-11",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girraween"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather damage - Advisory notice - The Border Track.",
+      "alert_id": "24580",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24580",
+      "description": "As a result of severe weather damage, there are multiple fallen trees on the Border Track between Green Mountains (O'Reilly's) and Binna Burra. QPWS advise visitors to allow additional time and take extra caution when walking the Border Track.",
+      "details": "<p>As a result of severe weather damage, there are multiple fallen trees on the Border Track between Green Mountains (O'Reilly's) and Binna Burra. QPWS advise visitors to allow additional time and take extra caution when walking the Border Track.</p> <p>QPWS rangers are managing the situation and have damage repair activities in progress.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts are regularly updated regarding condition on park.</p>",
+      "category": "Other",
+      "start_date": "2024-10-08",
+      "start_effective_date": "2024-10-08",
+      "end_date": "2024-10-25",
+      "parks": [
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
         }
       ]
     }
