@@ -39,7 +39,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "update data" -a --allow-empty        
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" -a --allow-empty        
           
       - name: push changes
         uses: ad-m/github-push-action@master
