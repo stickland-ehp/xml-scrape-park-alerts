@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 166,
-    "script_run_time": "2024-10-08 10:08:33"
+    "alerts_count": 167,
+    "script_run_time": "2024-10-09 10:09:03"
   },
   "alerts": [
     {
@@ -180,9 +180,9 @@
       "description": "A QPWS imposed fire prohibition is in place in the Cooloola Recreation Area, except at Poverty Point camping area. Campfires must not be lit anywhere else in the recreation area including in the Teewah Beach camping zones 1-7.",
       "details": "<p>A QPWS imposed fire prohibition is in place in the Cooloola Recreation Area, except at Poverty Point camping area. Campfires must not be lit anywhere else in the recreation area including in the Teewah Beach camping zones 1-7.</p> <p>This <strong>permanent fire prohibition</strong> was implemented to reduce the risk of bushfires, protect critical habitat of native wildlife,&nbsp;enhance visitor safety from campfire related injuries and reduce rubbish from non-combustible materials being burnt.</p> <p>Fully enclosed cooking and heating appliances can still be used in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>On the spot fines of $806 can be issued to people who light fires during a fire prohibition.</p> <p>Campfires are permitted&nbsp;at Poverty Point camping area and at nearby Inskip Peninsula Recreation Area unless in accordance with all local directions for that area.</p> <p>For details on the&nbsp;difference between a Queensland Fire and Emergency Services (QFES) total fire ban&nbsp;and a QPWS fire prohibition and approved cooking appliances visit the DES<a href=\"http://parks.des.qld.gov.au/camping/fires\"> Camp fires and cooking</a> web page.</p> <p>QPWS thanks you for your cooperation while we implement this management change.</p>",
       "category": "Announcement",
-      "start_date": "2024-08-28",
+      "start_date": "2024-10-09",
       "start_effective_date": "2021-04-01",
-      "end_date": "2024-10-11",
+      "end_date": "2025-10-09",
       "parks": [
         {
           "id": "148183",
@@ -2699,52 +2699,6 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning activities: Maria Creek National Park",
-      "alert_id": "24542",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24542",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burn activities in Maria Creek National Park between Thursday 26 September and Thursday 31 October 2024 (dates inclusive). The entire park will be closed during this time.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burn activities in Maria Creek National Park between Thursday 26 September and Thursday 31 October 2024 (dates inclusive). The entire park will be closed during this time.</p> <p>This burn is being carries out for conservation management and fuel hazard reduction purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers.&nbsp;<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-09-26",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "322983",
-          "name": "Maria Creek National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities  Djyinda walk and Gorge Lookout Closure",
-      "alert_id": "24543",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24543",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations, weather pending, from Tuesday 8 October and Thursday 10 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations, weather pending, from Tuesday 8 October and Thursday 10 October 2024 (dates inclusive).</p> <p>During these dates the Djyinda walk to Wallaman Falls and the Herbert River Valley lookout will be closed to the public.</p> <p><strong>The main Wallaman Falls lookout will remain open under direction of QPWS Rangers.</strong></p> <p>Smoke will be visible to visitors in the area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-09-25",
-      "start_effective_date": "2024-10-08",
-      "end_date": "2024-10-10",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wallaman"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Daintree National Park, Mount Lewis National Park , Mount Windsor National Park and Ngalba-Bulal National Park",
       "alert_id": "24546",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24546",
@@ -2909,12 +2863,12 @@
       "title": "Planned burning activities: Leichhardt Creek to Lilypond Creek, Paluma Range National Park",
       "alert_id": "24555",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24555",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Friday 11 October 2024, as part of the fire management program for Paluma Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Friday 11 October 2024, as part of the fire management program for Paluma Range National Park.</p> <p>During fire operations, rangers and machinery will be working within and adjacent to the national park between Leichhardt Creek and Lilypond Creek, east of the Bruce Highway, in the vicinity of the township of Toomulla.</p> <p>For your safety and the safety of rangers, this area is closed to the public during this period. Please do not enter this area during this time and obey all directions from rangers.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Monday 14 October 2024, as part of the fire management program for Paluma Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Monday 14 October 2024, as part of the fire management program for Paluma Range National Park.</p> <p>During fire operations, rangers and machinery will be working within and adjacent to the national park between Leichhardt Creek and Lilypond Creek, east of the Bruce Highway, in the vicinity of the township of Toomulla.</p> <p>For your safety and the safety of rangers, this area is closed to the public during this period. Please do not enter this area during this time and obey all directions from rangers.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-10-03",
+      "start_date": "2024-10-09",
       "start_effective_date": "2024-10-01",
-      "end_date": "2024-10-11",
+      "end_date": "2024-10-14",
       "parks": [
         {
           "id": "148452",
@@ -3102,24 +3056,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire: Herberton Range National Park",
-      "alert_id": "24567",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24567",
-      "description": "A bushfire is active in Herberton Range National Park at the top of the Herberton Range near Moomin.",
-      "details": "<p>A bushfire is active in Herberton Range National Park at the top of the Herberton Range near Moomin.</p> <p>No visitor facilities are affected, but smoke may be visible in the area.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-10-02",
-      "end_date": "2024-10-08",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -3399,6 +3335,78 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Ocean Lake toilet block temporarily closed for repairs",
+      "alert_id": "24581",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24581",
+      "description": "Kgari, Great Sandy National Park. Maintenance works are currently being undertaken on the Ocean Lake Day use area toilet block. The toilets are temporarily unavailable. Alternate toilets are located at Waddy Point camping area.",
+      "details": "<p>Kgari, Great Sandy National Park. Maintenance works are currently being undertaken on the Ocean Lake Day use area toilet block. The toilets are temporarily unavailable. Alternate toilets are located at Waddy Point camping area.</p> <p>Your safety is our concern, but your responsibility</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-09",
+      "start_effective_date": "2024-10-08",
+      "end_date": "2024-11-08",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Section of Figtree boardwalk closed for repair.",
+      "alert_id": "24582",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24582",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting repairs to the Figtree boardwalk in Imbil State Forest from 9 October until 30 November 2024 (weather permitting). Due to these works a section of this boardwalk will be closed.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting repairs to the Figtree boardwalk in Imbil State Forest from 9 October until 30 November 2024 (weather permitting). Due to these works a section of this boardwalk will be closed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-09",
+      "start_effective_date": "2024-10-09",
+      "end_date": "2024-11-30",
+      "parks": [
+        {
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/imbil"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Maria Creek National Park",
+      "alert_id": "24583",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24583",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burn activities in Maria Creek National Park between Wednesday 9 October and Thursday 31 October 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burn activities in Maria Creek National Park between Wednesday 9 October and Thursday 31 October 2024 (dates inclusive).</p> <p>The entire park will be closed during this time.</p> <p>This burn is being carried out for conservation management and fuel hazard reduction purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2024-10-09",
+      "start_effective_date": "2024-10-09",
+      "end_date": "2024-10-31",
+      "parks": [
+        {
+          "id": "322983",
+          "name": "Maria Creek National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Townsville Town Common Conservation Park Routine Maintenance - Painting of Payets Tower",
+      "alert_id": "24584",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24584",
+      "description": "QPWS &amp; P will be conducting maintenance of Payets Tower, including cleaning and repainting of the elevated viewing platform from the 14/10/2024 till 18/10/2024. Please obey all signage.",
+      "details": "<p>QPWS &amp; P will be conducting maintenance of Payets Tower, including cleaning and repainting of the elevated viewing platform from the 14/10/2024 till 18/10/2024. Please obey all signage.</p> <p>Please monitor park alerts for updates</p> <p><br /> For your safety, please observe all signage, barriers, and directions from Rangers, Contractors and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2024-10-09",
+      "start_effective_date": "2024-10-14",
+      "end_date": "2024-10-18",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/townsville"
         }
       ]
     }
