@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-10-09 10:09:03"
+    "alerts_count": 168,
+    "script_run_time": "2024-10-10 10:08:36"
   },
   "alerts": [
     {
@@ -2807,9 +2807,9 @@
       "description": "Blackdown Tableland National Park is closed until further notice due to two (2) active bushfires.",
       "details": "<p>Blackdown Tableland National Park is closed until further notice due to two (2) active bushfires.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-03",
+      "start_date": "2024-10-10",
       "start_effective_date": "2024-09-29",
-      "end_date": "2024-10-11",
+      "end_date": "2024-10-18",
       "parks": [
         {
           "id": "150224",
@@ -2899,12 +2899,12 @@
       "title": "Temporary closure for planned burning activities: Bora Ground Road, Maalan Road and Jordan Creek area, Palmerston (Doongan), Wooroonooran National Park",
       "alert_id": "24557",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24557",
-      "description": "Queensland Parks and Wildlife Service and Mamu Land and Sea Rangers will be conducting planned burning activities in Palmerston (Doongan), Wooroonooran National Park, from Tuesday 1 October to Friday 11 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service and Mamu Land and Sea Rangers will be conducting planned burning activities in Palmerston (Doongan), Wooroonooran National Park, from Tuesday 1 October to Friday 11 October 2024 (dates inclusive).</p> <p>Bora Ground Road, Maalan Road and the Jordan Creek area will be closed during this period. Camping areas, day-use areas and walking tracks will not be impacted.</p> <p>These burns are being carried out for conservation management and cultural purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service and Mamu Land and Sea Rangers will be conducting planned burning activities in Palmerston (Doongan), Wooroonooran National Park, from Tuesday 1 October to Friday 18 October 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service and Mamu Land and Sea Rangers will be conducting planned burning activities in Palmerston (Doongan), Wooroonooran National Park, from Tuesday 1 October to Friday 18 October 2024 (dates inclusive).</p> <p>Bora Ground Road, Maalan Road and the Jordan Creek area will be closed during this period. Camping areas, day-use areas and walking tracks will not be impacted.</p> <p>These burns are being carried out for conservation management and cultural purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-10-01",
+      "start_date": "2024-10-10",
       "start_effective_date": "2024-10-01",
-      "end_date": "2024-10-11",
+      "end_date": "2024-10-18",
       "parks": [
         {
           "id": "148840",
@@ -3407,6 +3407,24 @@
           "id": "148311",
           "name": "Townsville Town Common Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/townsville"
+        }
+      ]
+    },
+    {
+      "title": "Wet Weather - Oceanview track closure",
+      "alert_id": "24585",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24585",
+      "description": "Wet Weather - Oceanview track closed",
+      "details": "<p>Wet Weather - Oceanview track closed</p> <p>As a result of wet weather (excessive rainfall), and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the departments website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-10",
+      "start_effective_date": "2024-10-09",
+      "end_date": "2024-10-12",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
         }
       ]
     }
