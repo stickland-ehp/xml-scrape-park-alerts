@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2024-10-10 10:08:36"
+    "alerts_count": 167,
+    "script_run_time": "2024-10-11 10:08:20"
   },
   "alerts": [
     {
@@ -3001,47 +3001,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Curtain Fig National Park",
-      "alert_id": "24563",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24563",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Curtain Fig National Park on Wednesday 9 October and Thursday 10 October 2024. Burning will be conducted between Chumbrumba Road and Peterson Creek.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Curtain Fig National Park on Wednesday 9 October and Thursday 10 October 2024. Burning will be conducted between Chumbrumba Road and Peterson Creek.</p> <p>Active smoke may impact the Curtain Fig boardwalk on this date.</p> <p>QPWS will monitor fire activity until it is out.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-10-09",
-      "end_date": "2024-10-10",
-      "parks": [
-        {
-          "id": "323000",
-          "name": "Yungaburra National Park",
-          "url": ""
-        },
-        {
-          "id": "148584",
-          "name": "Curtain Fig National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtain-fig"
-        }
-      ]
-    },
-    {
-      "title": "Planned works - Closure of Noosa Headland section, Noosa National Park for Heli-lift operations",
-      "alert_id": "24564",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24564",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting heli-lift operations on WEDNESDAY, 9th OCTOBER 2024 from 6am to 5pm. Weather permitting. These works are part of the Coastal Walk upgrade to improve the facilities for visitors.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting heli-lift operations on WEDNESDAY, 9th OCTOBER 2024 from 6am to 5pm. Weather permitting. These works are part of the Coastal Walk upgrade to improve the facilities for visitors.</p> <p>The following areas and walking tracks will be <strong>CLOSED&nbsp;</strong>during this time:</p> <ul> <li><em>Coastal Walk &ndash; between Tea Tree Bay and Hell&rsquo;s Gate.</em></li> <li><em>Tanglewood walk</em></li> <li><em>Noosa Hill&nbsp;walk</em></li> <li><em>All surf access points from Tea Tree Bay to Hell&#39;s Gate</em></li> <li><em>Laguna Lookout &ndash; vehicle access closed from Viewland Drive. Pedestrian access only via Morwong Drive.</em></li> </ul> <p>The following areas and walking tracks that are <strong>OPEN</strong> are:</p> <ul> <li><em>Noosa Day-use area and carpark on Park Road.</em></li> <li><em>Palm Grove circuit</em></li> <li><em>Alexandria Bay from Park Edge Road only</em></li> <li><em>Sunrise Beach stairs from McAnally Drive.</em></li> </ul> <p>For your safety, please observe all signs, barriers and directions from rangers and do not enter closed areas or facilities.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-02",
-      "start_effective_date": "2024-10-04",
-      "end_date": "2024-10-10",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure - (Lost World - Creek and Lost World - Saddle) remote bush campsites.",
       "alert_id": "24565",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24565",
@@ -3155,24 +3114,6 @@
       ]
     },
     {
-      "title": "Pest management control program - Lake Murphy Conservation Park",
-      "alert_id": "24573",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24573",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Lake Murphy Conservation Park from Tuesday 8 to Thursday 10 October, 2024 (weather permitting) as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Lake Murphy Conservation Park from Tuesday 8 to Thursday 10 October, 2024 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with the pest management plan for Lake Murphy Conservation Park and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.</p> <p>As a result, Lake Murphy Conservation Park, including all visitor and camping areas are temporarily closed for the duration of the pest management program.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-03",
-      "start_effective_date": "2024-10-08",
-      "end_date": "2024-10-10",
-      "parks": [
-        {
-          "id": "148440",
-          "name": "Lake Murphy Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lake-murphy"
-        }
-      ]
-    },
-    {
       "title": "Bushfire alert for Lizard South remote bush camp, Main Range National Park",
       "alert_id": "24574",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24574",
@@ -3187,24 +3128,6 @@
           "id": "148480",
           "name": "Main Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning operations: Dinden National Park and Bare Hill Conservation Park",
-      "alert_id": "24575",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24575",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Bare Hill Conservation Park and Dinden National Park. This burning will occur from 09th October - 09 November 2024 . Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Smoke may be seen in the vicinity of Bare Hill Conservation Park, Dinden National Park and Davies Creek National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning within Bare Hill Conservation Park and Dinden National Park. This burning will occur from 09th October - 09 November 2024 . Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Smoke may be seen in the vicinity of Bare Hill Conservation Park, Dinden National Park and Davies Creek National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-10-09",
-      "end_date": "2024-11-07",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     },
@@ -3425,6 +3348,90 @@
           "id": "148908",
           "name": "Burleigh Head National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Temporary trail closure: Trail 13, Atherton Forest Mountain Bike Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "24587",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24587",
+      "description": "Trail 13 in Atherton Forest Mountain Bike Park will be temporarily closed to riders for maintenance works between Friday 11 October and Friday 25 October (dates inclusive).",
+      "details": "<p>Trail 13 in Atherton Forest Mountain Bike Park will be temporarily closed to riders for maintenance works between Friday 11 October and Friday 25 October (dates inclusive).</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-11",
+      "start_effective_date": "2024-10-11",
+      "end_date": "2024-10-25",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Aerial feral animal control program",
+      "alert_id": "24589",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24589",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control on the listed national parks (CYPAL) from Wednesday 16 October to Sunday 20 October 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control on the listed national parks (CYPAL) from Wednesday 16 October to Sunday 20 October 2024 (dates inclusive).</p> <p>For public safety all park visitors are to remain on designated access tracks and within designated camping areas and day-use areas only. Helicopters may be seen and heard regularly throughout the park during this time.</p> <p>Please see below for further&nbsp;information:</p> <ul> <li>Apudthama (Jardine River) National Park (CYPAL) &ndash; remains open for visitor access, however people may hear helicopters and firearms being discharged at times during this period</li> <li>Oyala Thumotang National Park (CYPAL) &nbsp;- remains open for visitor access, however people may hear helicopters and firearms being discharged at times during this period</li> <li>Batavia National Park (CYPAL) &ndash; no public access</li> <li>Bromley (Ampulin) and Bromley (Kannichi) National Park (CYPAL) &ndash; no public access</li> <li>KULLA (McIlwraith Range) National Park (CYPAL) &ndash; no public access</li> <li>Wuthathi (Shelburne Bay) National Park (CYPAL) &ndash; no public access.</li> </ul>",
+      "category": "Announcement",
+      "start_date": "2024-10-11",
+      "start_effective_date": "2024-10-16",
+      "end_date": "2024-10-20",
+      "parks": [
+        {
+          "id": "148892",
+          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
+        },
+        {
+          "id": "148933",
+          "name": "Oyala Thumotang National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/oyala-thumotang"
+        },
+        {
+          "id": "148219",
+          "name": "Batavia National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/batavia"
+        },
+        {
+          "id": "148171",
+          "name": "Bromley (Ampulin) National Park (CYPAL) and Bromley (Kaanichi) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/bromley"
+        },
+        {
+          "id": "151355",
+          "name": "KULLA (McIlwraith Range) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/kulla-mcilwraith-range"
+        },
+        {
+          "id": "148239",
+          "name": "Wuthathi (Shelburne Bay) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/wuthathi"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "24590",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24590",
+      "description": "South Zoe Bay and Little Ramsay Bay camping areas will be undergoing works from 16  24 October 2024.",
+      "details": "<p>South Zoe Bay and Little Ramsay Bay camping areas will be undergoing works from 16  24 October 2024.</p> <p>Other minor works may be occurring at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</p> <p>All camping areas and tracks will remain open during the works. Some of the campsite nodes at South Zoe Bay/Little Ramsay Bay camping area may be closed at times, please remember to check other campsite nodes for availability. The works will be carried out during the day to minimise disturbance to campers.</p> <p>QPWS apologises for any inconvenience caused.</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "category": "Announcement",
+      "start_date": "2024-10-11",
+      "start_effective_date": "2024-10-16",
+      "end_date": "2024-10-24",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
         }
       ]
     }
