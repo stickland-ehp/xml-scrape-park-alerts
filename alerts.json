@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-10-11 10:08:20"
+    "alerts_count": 165,
+    "script_run_time": "2024-10-12 10:07:33"
   },
   "alerts": [
     {
@@ -1789,24 +1789,6 @@
       ]
     },
     {
-      "title": "Night roadworks and closure, Mount Spec Road: Paluma Range National Park",
-      "alert_id": "24282",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24282",
-      "description": "The Department of Transport and Main Roads has advised that slope stabilisation works will be conducted on Mount Spec Road, between Fairy Falls and Maiden Hair Fern Creek. A full temporary closure of Mount Spec Road will be in place each night between Fairy Falls and Maiden Hair Fern Creek from 6pm Monday 22 July to 5am Friday 11 October 2024 (dates inclusive).",
-      "details": "<p>The Department of Transport and Main Roads has advised that slope stabilisation works will be conducted on Mount Spec Road, between Fairy Falls and Maiden Hair Fern Creek. A full temporary closure of Mount Spec Road will be in place each night between Fairy Falls and Maiden Hair Fern Creek from 6pm Monday 22 July to 5am Friday 11 October 2024 (dates inclusive).</p> <p>Mt Spec Road will reopen from 5am throughout the works period.</p> <p>For further information about these works please contact:</p> <p><strong>Customer and Stakeholder Management</strong></p> <p><strong>Phone: 1800 625 648</strong></p> <p><strong>Email: engagement.northern@tmr.qld.gov.au</strong></p> <p><strong>Website: www.tmr.qld.gov.au</strong></p>",
-      "category": "Announcement",
-      "start_date": "2024-07-17",
-      "start_effective_date": "2024-07-22",
-      "end_date": "2024-10-11",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Walk with caution: McDonald Track, Barron Gorge National Park",
       "alert_id": "24287",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24287",
@@ -3110,24 +3092,6 @@
           "id": "149397",
           "name": "Macalister Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Lizard South remote bush camp, Main Range National Park",
-      "alert_id": "24574",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24574",
-      "description": "Due to a current bushfire in the southern section of Main Range National Park, the Lizard South remote bush camp is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to a current bushfire in the southern section of Main Range National Park, the Lizard South remote bush camp is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All camping permits for closed area are suspended for the duration of the closure.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-10-04",
-      "end_date": "2024-10-11",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
         }
       ]
     },
