@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2024-10-12 10:07:33"
+    "alerts_count": 164,
+    "script_run_time": "2024-10-13 10:07:36"
   },
   "alerts": [
     {
@@ -3294,24 +3294,6 @@
           "id": "148311",
           "name": "Townsville Town Common Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/townsville"
-        }
-      ]
-    },
-    {
-      "title": "Wet Weather - Oceanview track closure",
-      "alert_id": "24585",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24585",
-      "description": "Wet Weather - Oceanview track closed",
-      "details": "<p>Wet Weather - Oceanview track closed</p> <p>As a result of wet weather (excessive rainfall), and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the departments website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-10",
-      "start_effective_date": "2024-10-09",
-      "end_date": "2024-10-12",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
         }
       ]
     },
