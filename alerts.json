@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2024-10-13 10:07:36"
+    "alerts_count": 167,
+    "script_run_time": "2024-10-14 10:09:29"
   },
   "alerts": [
     {
@@ -2845,12 +2845,12 @@
       "title": "Planned burning activities: Leichhardt Creek to Lilypond Creek, Paluma Range National Park",
       "alert_id": "24555",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24555",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Monday 14 October 2024, as part of the fire management program for Paluma Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Monday 14 October 2024, as part of the fire management program for Paluma Range National Park.</p> <p>During fire operations, rangers and machinery will be working within and adjacent to the national park between Leichhardt Creek and Lilypond Creek, east of the Bruce Highway, in the vicinity of the township of Toomulla.</p> <p>For your safety and the safety of rangers, this area is closed to the public during this period. Please do not enter this area during this time and obey all directions from rangers.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Friday 18 October 2024, as part of the fire management program for Paluma Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Tuesday 1 October to Friday 18 October 2024, as part of the fire management program for Paluma Range National Park.</p> <p>During fire operations, rangers and machinery will be working within and adjacent to the national park between Leichhardt Creek and Lilypond Creek, east of the Bruce Highway, in the vicinity of the township of Toomulla.</p> <p>For your safety and the safety of rangers, this area is closed to the public during this period. Please do not enter this area during this time and obey all directions from rangers.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-10-09",
+      "start_date": "2024-10-14",
       "start_effective_date": "2024-10-01",
-      "end_date": "2024-10-14",
+      "end_date": "2024-10-18",
       "parks": [
         {
           "id": "148452",
@@ -3096,24 +3096,6 @@
       ]
     },
     {
-      "title": "Cultural Burn - K'gari (Fraser Island) Oysterman's Lease",
-      "alert_id": "24576",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24576",
-      "description": "Butchulla Aboriginal Corporation rangers will conduct a cultural burn between 08 October and 13 October 2024 between Garrys Anchorage and Snout Point, weather permitting.",
-      "details": "<p>Butchulla Aboriginal Corporation rangers will conduct a cultural burn between 08 October and 13 October 2024 between Garrys Anchorage and Snout Point, weather permitting.</p> <p>As a result, smoke may be seen in the vicinity of the Figtree Creek, Garrys Anchorage, Dilli Village and Boonooroo.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp; Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>For a comprehensive list of Park Alerts, visit us online <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-10-08",
-      "end_date": "2024-10-13",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Girringun National Park and Kirrama National Park",
       "alert_id": "24577",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24577",
@@ -3316,6 +3298,24 @@
       ]
     },
     {
+      "title": "Fire line maintenance",
+      "alert_id": "24588",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24588",
+      "description": "Queensland Parks and Wildlife Service (QPWS) in conjunction with joint management partners Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be undertaking fire line maintenance using heavy machinery in sections of Naree Budjong Djara National Park from Friday 11 October through to Monday 28 October 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) in conjunction with joint management partners Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be undertaking fire line maintenance using heavy machinery in sections of Naree Budjong Djara National Park from Friday 11 October through to Monday 28 October 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2024-10-14",
+      "start_effective_date": "2024-10-11",
+      "end_date": "2024-10-28",
+      "parks": [
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
+        }
+      ]
+    },
+    {
       "title": "Aerial feral animal control program",
       "alert_id": "24589",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24589",
@@ -3378,6 +3378,65 @@
           "id": "151379",
           "name": "Thorsborne Trail, Hinchinbrook Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Eubenangee Swamp National Park and Russell River National Park",
+      "alert_id": "24591",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24591",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities in Eubenangee Swamp National Park and Russell River National Park (weather permitting) from Monday 14 October to Friday 1 November 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities in Eubenangee Swamp National Park and Russell River National Park (weather permitting) from Monday 14 October to Friday 1 November 2024 (dates inclusive).</p> <p>Visitor facilities will not be impacted by these burning activites but smoke may be seen in the area during this period.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-10-14",
+      "start_effective_date": "2024-10-14",
+      "end_date": "2024-11-01",
+      "parks": [
+        {
+          "id": "148880",
+          "name": "Russell River National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/russell-river"
+        },
+        {
+          "id": "149501",
+          "name": "Eubenangee Swamp National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eubenangee-swamp"
+        }
+      ]
+    },
+    {
+      "title": "Toilet facilities closed in Mapleton Falls National Park",
+      "alert_id": "24592",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24592",
+      "description": "Toilet facilities at Mapleton Falls day-use-area are unavailable until further notice.",
+      "details": "<p>Toilet facilities at Mapleton Falls day-use-area are unavailable until further notice.</p> <p>Damage called by arson has made this area unsafe and facilities have been closed as a result.&nbsp;</p> <p>Alternative public toilet facilties are available within 5min drive at RSL Park on Flaxton Drive in Mapleton township.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-14",
+      "start_effective_date": "2024-10-14",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148929",
+          "name": "Mapleton Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure: Barrar (red tulip oak) walk, Malanda Falls Conservation Park",
+      "alert_id": "24593",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24593",
+      "description": "Birrar (red tulip oak) walking track will be closed for maintenance from Monday 14 October 2024 to Friday 18 October 2024 (dates inclusive).",
+      "details": "<p>Birrar (red tulip oak) walking track will be closed for maintenance from Monday 14 October 2024 to Friday 18 October 2024 (dates inclusive).</p> <p>Please do not attempt to traverse this walking track during this closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-14",
+      "start_effective_date": "2024-10-14",
+      "end_date": "2024-10-18",
+      "parks": [
+        {
+          "id": "148917",
+          "name": "Malanda Falls Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/malanda-falls"
         }
       ]
     }
