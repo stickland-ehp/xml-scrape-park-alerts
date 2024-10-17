@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-10-16 10:08:53"
+    "alerts_count": 171,
+    "script_run_time": "2024-10-17 10:08:55"
   },
   "alerts": [
     {
@@ -2489,24 +2489,6 @@
       ]
     },
     {
-      "title": "Park Closure",
-      "alert_id": "24510",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24510",
-      "description": "Park Closed for Maintenance Works",
-      "details": "<p>Park Closed for Maintenance Works</p> <p>David Fleay Wildlife Park will be closed for the day to enable significant operational works to be completed. Normal park operations should resume Thursday, 17 October 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-09-17",
-      "start_effective_date": "2024-10-16",
-      "end_date": "2024-10-16",
-      "parks": [
-        {
-          "id": "148540",
-          "name": "David Fleay Wildlife Park",
-          "url": "https://parks.desi.qld.gov.au/parks/david-fleay"
-        }
-      ]
-    },
-    {
       "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Kauri Creek camping area, Danbulla National Park.",
       "alert_id": "24514",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
@@ -3391,9 +3373,9 @@
       "alert_id": "24592",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24592",
       "description": "Toilet facilities at Mapleton Falls day-use-area are unavailable until further notice.",
-      "details": "<p>Toilet facilities at Mapleton Falls day-use-area are unavailable until further notice.</p> <p>Damage called by arson has made this area unsafe and facilities have been closed as a result.&nbsp;</p> <p>Alternative public toilet facilties are available within 5min drive at RSL Park on Flaxton Drive in Mapleton township.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "details": "<p>Toilet facilities at Mapleton Falls day-use-area are unavailable until further notice.</p> <p>Damage caused by arson has made this area unsafe and facilities have been closed as a result.&nbsp;</p> <p>Alternative public toilet facilties are available in Mapleton township, within a 5 minute drive.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-14",
+      "start_date": "2024-10-17",
       "start_effective_date": "2024-10-14",
       "end_date": "2025-03-14",
       "parks": [
@@ -3423,38 +3405,15 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24594",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24594",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2024-10-15",
-      "start_effective_date": "2024-10-15",
-      "end_date": "2024-10-16",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Nearby bushfire alert - Isla Gorge National Park",
       "alert_id": "24595",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24595",
       "description": "Due to the current bushfire nearby, Isla Gorge National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
       "details": "<p>Due to the current bushfire nearby, Isla Gorge National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-10-16",
+      "start_date": "2024-10-17",
       "start_effective_date": "2024-10-16",
-      "end_date": "2024-10-18",
+      "end_date": "2024-10-23",
       "parks": [
         {
           "id": "148556",
@@ -3532,6 +3491,34 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Feral animal control program involving ground shooting: Hook Island, Whitsunday Islands National Park",
+      "alert_id": "24600",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24600",
+      "description": "A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Wednesday 23rd October to Sunday 27th October 2024 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.",
+      "details": "<p>A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Wednesday 23rd October to Sunday 27th October 2024 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.</p> <p><a href=\"https://www.publications.qld.gov.au/dataset/7e50bf4d-4bf7-4d0e-861c-8dd3756317ec/resource/a4afcb53-bec8-437b-8a75-3b79f53f67e1/download/advice-feral-animal-control-hook-island.pdf\">Maritime Exclusion Zone - Southern Hook Island</a></p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-10-17",
+      "start_effective_date": "2024-10-23",
+      "end_date": "2024-10-27",
+      "parks": [
+        {
+          "id": "149365",
+          "name": "Whitsunday national park islands",
+          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
+        },
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        },
+        {
+          "id": "152875",
+          "name": "Whitsunday Ngaro Sea Trail",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
         }
       ]
     }
