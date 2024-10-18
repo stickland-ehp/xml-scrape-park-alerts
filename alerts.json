@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2024-10-17 10:08:55"
+    "alerts_count": 172,
+    "script_run_time": "2024-10-18 10:09:53"
   },
   "alerts": [
     {
@@ -2059,12 +2059,12 @@
       "title": "Daisy Hill Koala Centre temporary closure",
       "alert_id": "24468",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24468",
-      "description": "The Daisy Hill Koala Centre will be closed from Monday 30 September until Friday 25 October 2024.",
-      "details": "<p>The Daisy Hill Koala Centre will be closed from Monday 30 September until Friday 25 October 2024.</p> <p>A significant construction project at the Daisy Hill Koala Centre means that the centre will be closed to the public. This project will not impact access to the day use area or other park facilities.&nbsp;</p>",
+      "description": "The Daisy Hill Koala Centre will be closed from Monday 30 September until Sunday 3 November 2024.",
+      "details": "<p>The Daisy Hill Koala Centre will be closed from Monday 30 September until Sunday 3 November 2024.</p> <p>A significant construction project at the Daisy Hill Koala Centre means that the centre will be closed to the public. This project will not impact access to the day use area or other park facilities.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-09-03",
+      "start_date": "2024-10-18",
       "start_effective_date": "2024-09-30",
-      "end_date": "2024-10-25",
+      "end_date": "2024-11-03",
       "parks": [
         {
           "id": "148560",
@@ -2747,15 +2747,15 @@
       ]
     },
     {
-      "title": "Park Closure_Bushfire",
+      "title": "Blackdown Tableland National Park reopened following bushfires",
       "alert_id": "24552",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24552",
-      "description": "Blackdown Tableland National Park is closed until further notice due to two (2) active bushfires.",
-      "details": "<p>Blackdown Tableland National Park is closed until further notice due to two (2) active bushfires.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-10",
-      "start_effective_date": "2024-09-29",
-      "end_date": "2024-10-18",
+      "description": "Following recent bushfires, QPWS rangers have now completed bushfire impact safety assessments in relation to visitor infrastructure and hazardous trees. Blackdown Tableland National Park has now reopened to public visitation.",
+      "details": "<p>Following recent bushfires, QPWS rangers have now completed bushfire impact safety assessments in relation to visitor infrastructure and hazardous trees. Blackdown Tableland National Park has now reopened to public visitation.</p> <p>Visitors may still see smoke evident from areas well within containment lines over coming days.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2024-10-18",
+      "start_effective_date": "2024-10-18",
+      "end_date": "2024-10-25",
       "parks": [
         {
           "id": "150224",
@@ -3063,12 +3063,12 @@
       "title": "Planned burning activities: Girringun National Park and Kirrama National Park",
       "alert_id": "24577",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24577",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park and Kirrama National Park from Tuesday 8 October to Friday 18 October 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program. As a result, smoke may be seen in the area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park and Kirrama National Park from Tuesday 8 October to Friday 18 October 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important for that motorists drive safely and to the conditions</p> <p>Fore more information, please call the Princess Hills QPWS office on (07) 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park and Kirrama National Park from Tuesday 8 October to Friday 1 November 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program. As a result, smoke may be seen in the area.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities (weather permitting) within Girringun National Park and Kirrama National Park from Tuesday 8 October to Friday 1 November 2024 (dates inclusive) as part of the annual hazard reduction/ conservation management program. As a result, smoke may be seen in the area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important for that motorists drive safely and to the conditions</p> <p>Fore more information, please call the Princess Hills QPWS office on (07) 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2024-10-08",
+      "start_date": "2024-10-18",
       "start_effective_date": "2024-10-08",
-      "end_date": "2024-10-18",
+      "end_date": "2024-11-01",
       "parks": [
         {
           "id": "158157",
@@ -3519,6 +3519,24 @@
           "id": "152875",
           "name": "Whitsunday Ngaro Sea Trail",
           "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track and camping area closure due to bushfire: Mount Halifax walking track and Mount Halifax remote bush camping south of Paluma, Paluma Range National Park",
+      "alert_id": "24602",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24602",
+      "description": "Queensland Parks and Wildlife Service (QPWS) in conjunction with Queensland Fire Department (QFD) will be conducting fire operations from Friday 18 October to Friday 25 October 2024 (dates inclusive), to contain an active bushfire in Paluma Range National Park. During this period Mount Halifax walking track and Mount Halifax remote bush camping south of Paluma will be closed.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) in conjunction with Queensland Fire Department (QFD) will be conducting fire operations from Friday 18 October to Friday 25 October 2024 (dates inclusive), to contain an active bushfire in Paluma Range National Park. During this period Mount Halifax walking track and Mount Halifax remote bush camping south of Paluma will be closed.</p> <p>Firefighters, rangers and machinery will be working within and adjacent to the national park between Rollingstone Creek (west branch) and Rollingstone Creek (east branch) in the vicinity of the Mount Halifax walking track.</p> <p>For your safety and the safety of firefighters and rangers, this area is closed to public during the prescribed period. Please do not enter this area during this time and obey all directions from firefighting personnel.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2024-10-18",
+      "start_effective_date": "2024-10-18",
+      "end_date": "2024-10-25",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
         }
       ]
     }
