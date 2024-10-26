@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2024-10-25 10:09:10"
+    "alerts_count": 175,
+    "script_run_time": "2024-10-26 10:08:51"
   },
   "alerts": [
     {
@@ -1717,24 +1717,6 @@
       ]
     },
     {
-      "title": "Brigalow General Permission Area Public Safety",
-      "alert_id": "24261",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24261",
-      "description": "Hazardous objects (metal spikes) have recently been found on roads in the Brigalow General Permissions Area, within Blair Athol State Forest.",
-      "details": "<p>Hazardous objects (metal spikes) have recently been found on roads in the Brigalow General Permissions Area, within Blair Athol State Forest.</p> <p>Fossickers, visitors and members of the public are encouraged to stay alert and take care while fossicking or accessing the Brigalow General Permission Area.</p> <p>Report any hazardous items found to the Queensland Police Service</p>",
-      "category": "Announcement",
-      "start_date": "2024-08-13",
-      "start_effective_date": "2024-07-12",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "322380",
-          "name": "Blair Athol State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Nearshore landslide Inskip Peninsula",
       "alert_id": "24263",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24263",
@@ -2489,24 +2471,6 @@
       ]
     },
     {
-      "title": "Planned works for Lookout Rd, Goomburra section",
-      "alert_id": "24530",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24530",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Lookout Rd, Goomburra section, Main Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Lookout Rd, Goomburra section, Main Range National Park.</p> <p>Planned maintenance will commence from:</p> <ul> <li>Wednesday 9 to Friday 11 October; and</li> <li>Monday 14&nbsp;to Friday 18&nbsp;October 2024; and</li> <li>Monday 21 to Friday 25 October 2024(weather permitting).</li> </ul> <p>The road will be reopened for weekend use between these dates.</p> <p>Access to the following visitor areas will interrupted by this closure:</p> <ul> <li>North Branch track</li> <li>Araucaria Falls track</li> <li>Winder track</li> <li>Mount Castle lookout track</li> <li>Sylvesters lookout track</li> </ul> <p>All camping areas and other visitor nodes in the Goomburra section will remain open.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-02",
-      "start_effective_date": "2024-10-09",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Pest animal control",
       "alert_id": "24538",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24538",
@@ -2993,29 +2957,6 @@
       ]
     },
     {
-      "title": "Severe weather damage - Advisory notice - The Border Track.",
-      "alert_id": "24580",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24580",
-      "description": "As a result of severe weather damage, there are multiple fallen trees on the Border Track between Green Mountains (O'Reilly's) and Binna Burra. QPWS advise visitors to allow additional time and take extra caution when walking the Border Track.",
-      "details": "<p>As a result of severe weather damage, there are multiple fallen trees on the Border Track between Green Mountains (O'Reilly's) and Binna Burra. QPWS advise visitors to allow additional time and take extra caution when walking the Border Track.</p> <p>QPWS rangers are managing the situation and have damage repair activities in progress.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts are regularly updated regarding condition on park.</p>",
-      "category": "Other",
-      "start_date": "2024-10-08",
-      "start_effective_date": "2024-10-08",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148271",
-          "name": "Lamington National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
       "title": "Ocean Lake toilet block temporarily closed for repairs",
       "alert_id": "24581",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24581",
@@ -3084,24 +3025,6 @@
           "id": "148311",
           "name": "Townsville Town Common Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/townsville"
-        }
-      ]
-    },
-    {
-      "title": "Temporary trail closure: Trail 13, Atherton Forest Mountain Bike Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-      "alert_id": "24587",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24587",
-      "description": "Trail 13 in Atherton Forest Mountain Bike Park will be temporarily closed to riders for maintenance works between Friday 11 October and Friday 25 October (dates inclusive).",
-      "details": "<p>Trail 13 in Atherton Forest Mountain Bike Park will be temporarily closed to riders for maintenance works between Friday 11 October and Friday 25 October (dates inclusive).</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-11",
-      "start_effective_date": "2024-10-11",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -3183,24 +3106,6 @@
       ]
     },
     {
-      "title": "Temporary closure for road and track maintenance: Jourama Falls camping area, day-use area and walking track, Paluma National Park",
-      "alert_id": "24596",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24596",
-      "description": "The entire Jourama Falls section of Paluma Range National Park will be closed from Thursday 24 October 2024 until 2:00pm Friday 25 October 2024, to allow for maintenance works to be performed on access roads and tracks.",
-      "details": "<p>The entire Jourama Falls section of Paluma Range National Park will be closed from Thursday 24 October 2024 until 2:00pm Friday 25 October 2024, to allow for maintenance works to be performed on access roads and tracks.</p> <p>Rangers and machinery will be working along roads and tracks within the Jourama Falls area. There will be no access to Jourama Falls camping area, day-use area and walking track during this time.</p> <p>For your safety, do not enter the area during the closure period. Jourama Falls section including the camping area, will reopen 2:00pm Friday 25 October.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-16",
-      "start_effective_date": "2024-10-24",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "QPWS Rangers will be oiling timber infrastructure at Tongue Point and Bettys beach Boardwalk and some facilities will be temporarily closed.",
       "alert_id": "24597",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24597",
@@ -3251,24 +3156,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Temporary walking track and camping area closure due to bushfire: Mount Halifax walking track and Mount Halifax remote bush camping south of Paluma, Paluma Range National Park",
-      "alert_id": "24602",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24602",
-      "description": "Queensland Parks and Wildlife Service (QPWS) in conjunction with Queensland Fire Department (QFD) will be conducting fire operations from Friday 18 October to Friday 25 October 2024 (dates inclusive), to contain an active bushfire in Paluma Range National Park. During this period Mount Halifax walking track and Mount Halifax remote bush camping south of Paluma will be closed.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) in conjunction with Queensland Fire Department (QFD) will be conducting fire operations from Friday 18 October to Friday 25 October 2024 (dates inclusive), to contain an active bushfire in Paluma Range National Park. During this period Mount Halifax walking track and Mount Halifax remote bush camping south of Paluma will be closed.</p> <p>Firefighters, rangers and machinery will be working within and adjacent to the national park between Rollingstone Creek (west branch) and Rollingstone Creek (east branch) in the vicinity of the Mount Halifax walking track.</p> <p>For your safety and the safety of firefighters and rangers, this area is closed to public during the prescribed period. Please do not enter this area during this time and obey all directions from firefighting personnel.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-18",
-      "start_effective_date": "2024-10-18",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -3411,24 +3298,6 @@
       ]
     },
     {
-      "title": "Planned burn for Nerang National Park",
-      "alert_id": "24610",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24610",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Wednesday 23 October 2014, as part of the fire management program for Nerang National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Wednesday 23 October 2014, as part of the fire management program for Nerang National Park.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Yarrayne Road / Mylor Street entry,</li> <li>Velodrome Break, Centre Road and Easement Break in the vicinity of emergency markers NG19 and NG20,</li> <li>Training Wheels mountain bike trail.</li> </ul> <p>Please see the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/156040/nerang-park-map.pdf\">Nerang National Park map</a> for information on emergency marker locations.</p> <p>Smoke may be seen in the vicinity of Nerang. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-10-22",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "147971",
-          "name": "Nerang National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/nerang"
-        }
-      ]
-    },
-    {
       "title": "Upcoming wet season closure: Rungulla National Park",
       "alert_id": "24611",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24611",
@@ -3555,29 +3424,6 @@
       ]
     },
     {
-      "title": "Strong wind warning Central Station camping area closed",
-      "alert_id": "24618",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24618",
-      "description": "As of 10:17 am EST on Thursday 24 October 2024, the Bureau of Meteorology has issued a strong wind warning for Kgari Coast. Strong winds are predicted and may cause tree damage.",
-      "details": "<p>As of 10:17 am EST on Thursday 24 October 2024, the Bureau of Meteorology has issued a strong wind warning for Kgari Coast. Strong winds are predicted and may cause tree damage.</p> <p>Due to the predicted wind conditions, Central Station Camping Area and Hikers Camp are closed until weather conditions abate and the area is made safe.</p> <p>Alternative camping areas include Dundubara, Waddy Point, Lake Boomanjin or the Eastern Beach camping zones.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-24",
-      "start_effective_date": "2024-10-24",
-      "end_date": "2024-10-25",
-      "parks": [
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Restricted camping availability - Sarawak West Camping Area",
       "alert_id": "24619",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24619",
@@ -3632,15 +3478,15 @@
       ]
     },
     {
-      "title": "Smoke alert for Girraween National Park",
+      "title": "Bushfire Advice for Girraween National Park",
       "alert_id": "24622",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24622",
-      "description": "Due to current bushfire, some areas are temporarily closed in Girraween National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The Peak and Creek shared trails are closed until Friday 1 November. The Underground Creek Walking trail is also closed until Friday 1 November. Smoke alert also current for Girraween National Park.",
-      "details": "<p>Due to current bushfire, some areas are temporarily closed in Girraween National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The Peak and Creek shared trails are closed until Friday 1 November. The Underground Creek Walking trail is also closed until Friday 1 November. Smoke alert also current for Girraween National Park.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p><strong>To report any bushfires, call Triple Zero (000)</strong></p> <p><strong>Smoke alert also current for Girraween National Park.</strong></p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0026/155834/girraween-map.pdf\">Girraween National Park map (desi.qld.gov.au)</a></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Due to current bushfire, some areas are temporarily closed in Girraween National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The Mount Norman Road (from north of the Day Use area) is closed until Monday 28 October 2024. Access to Mount Norman walking track and Day Use area remains open at this stage Smoke alert also current for Girraween National Park.",
+      "details": "<p>Due to current bushfire, some areas are temporarily closed in Girraween National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The Mount Norman Road (from north of the Day Use area) is closed until Monday 28 October 2024. Access to Mount Norman walking track and Day Use area remains open at this stage Smoke alert also current for Girraween National Park.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p><strong>To report any bushfires, call Triple Zero (000)</strong></p> <p><strong>Please observe all signage, barriers and directions from Rangers and do not enter closed areas.</strong></p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0026/155834/girraween-map.pdf\">Girraween National Park map (desi.qld.gov.au)</a></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-10-25",
+      "start_date": "2024-10-26",
       "start_effective_date": "2024-10-25",
-      "end_date": "2024-11-01",
+      "end_date": "2024-10-28",
       "parks": [
         {
           "id": "148087",
