@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 177,
-    "script_run_time": "2024-10-31 10:09:21"
+    "alerts_count": 168,
+    "script_run_time": "2024-11-01 10:09:19"
   },
   "alerts": [
     {
@@ -406,24 +406,6 @@
           "id": "148027",
           "name": "Cathu State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cathu"
-        }
-      ]
-    },
-    {
-      "title": "Threatening dingo activity - Eli Creek, Waddy Point and Wathumba",
-      "alert_id": "23065",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23065",
-      "description": "Instances of threatening dingo behaviour have been reported at some locations including Eli Creek, Waddy Point and Wathumba.",
-      "details": "<p>Instances of threatening dingo behaviour have been reported at some locations including Eli Creek, Waddy Point and Wathumba.</p> <p>Visitors, tour operators and residents are advised to <a href=\"http://www.nprsr.qld.gov.au/parks/fraser/dingo-safe.html\">be dingo-safe! on Fraser Island</a>.</p> <p>Locations of threatening dingo behaviour:</p> <ul> <li>Happy Valley to Cathedral Beach (including beach camping areas)</li> <li>Eli Creek</li> <li>Waddy Point to Ngkala Rocks (including beach camping areas)</li> <li>Wathumba</li> <li>Western beach camping areas</li> </ul> <p>It is recommended that visitors&nbsp;be extra vigilant in these areas. Consider camping in <a href=\"https://parks.des.qld.gov.au/parks/kgari-fraser/camping/campgrounds-summary/camping-areas-with-wongari-dingo-deterrent-fences\">fenced QPWS camping areas</a>.</p> <p><strong>Be dingo-safe!&nbsp;</strong>Visit<strong>&nbsp;</strong><a href=\"https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email&nbsp;<a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a>, tell the nearest QPWS ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location, vehicle registration, dingo ear tag colour, number and which ear.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-04-29",
-      "start_effective_date": "2023-12-08",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
@@ -1064,44 +1046,6 @@
       ]
     },
     {
-      "title": "Upcoming planned burns",
-      "alert_id": "23825",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23825",
-      "description": "The Queensland Parks and Wildlife Service will be undertaking planned burns in this park over the coming months as part of the fire management program for the area.",
-      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking planned burns in this park over the coming months as part of the fire management program for the area.</p> <p>Detailed information regarding the dates, location of the burns and associated closures will be posted as an additional park alert on the Department&#39;s website once this information is known. Please be advised that due to the need for specific weather conditions to undertake these burns, information regarding dates and associated closures may only be provided at short notice.</p> <p>Please monitor park alerts for this updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-08-30",
-      "start_effective_date": "2024-02-22",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/venman-bushland"
-        },
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
-        },
-        {
-          "id": "149381",
-          "name": "Plunkett Conservation Park and Wickham National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/plunkett-wickham"
-        },
-        {
-          "id": "148528",
-          "name": "Mount Barney National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
-        },
-        {
-          "id": "149021",
-          "name": "Moogerah Peaks National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
-        }
-      ]
-    },
-    {
       "title": "Walking Track Closure",
       "alert_id": "23892",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23892",
@@ -1449,47 +1393,6 @@
       ]
     },
     {
-      "title": "Battleship Spur track conditions",
-      "alert_id": "24170",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24171",
-      "description": "Battleship Spur walking track - take care",
-      "details": "<p>Battleship Spur walking track - take care</p> <p>Please be advised&nbsp;that there are several&nbsp;fallen trees on&nbsp;the Battleship Spur walking track. This includes&nbsp;sections between&nbsp;the ladder and the top of the ridge where some tree fall and erosion has occured. Walkers are to proceed cautiously and consider your own abilities when undertaking this walk which is classed as a Grade 5 walking track for experienced walkers.&nbsp;You can read more about walking safely and track grades on the departments webpage <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/walk-with-care\">Walk with care | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p>",
-      "category": "Announcement",
-      "start_date": "2024-06-19",
-      "start_effective_date": "2024-06-13",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
-        },
-        {
-          "id": "150195",
-          "name": "Carnarvon Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather access Conondale National Park",
-      "alert_id": "24178",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24179",
-      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Jimna-Bellthorpe Road from South Goods Road to Mt Kilcoy Road</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-06-13",
-      "start_effective_date": "2024-06-13",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure: Society Flat rainforest walk, Kirrama National Park",
       "alert_id": "24180",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24181",
@@ -1600,29 +1503,6 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn season",
-      "alert_id": "24238",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24238",
-      "description": "Planned Burn season.",
-      "details": "<p>Planned Burn season.</p> <p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from July- October when weather conditions are favourable.</p> <p>Planned burns reduce the volume of fuels in forests and create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any subsequent wildfires and provide favourable conditions for native woodland regeneration.</p> <p>Before any planned burn is undertaken, local stakeholders and booked campers will be informed.</p> <p>Smoke may be seen coming from the Conway and Dryander National Park areas at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please contact QPWS&amp;P on 13QGOV (13 74 68).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-09-30",
-      "start_effective_date": "2024-07-08",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148187",
-          "name": "Dryander National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dryander"
-        },
-        {
-          "id": "147975",
-          "name": "Conway National Park and Conway Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conway"
         }
       ]
     },
@@ -1830,24 +1710,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Halifax Bay Wetlands National Park",
-      "alert_id": "24396",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24396",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities (depending on weather conditions) between Thursday 15 August and Thursday 31 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities (depending on weather conditions) between Thursday 15 August and Thursday 31 October 2024 (dates inclusive).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-09-26",
-      "start_effective_date": "2024-08-15",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148512",
-          "name": "Halifax Bay Wetlands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
-        }
-      ]
-    },
-    {
       "title": "Temporary track closure - Good Night Scrub National Park",
       "alert_id": "24400",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24400",
@@ -1898,24 +1760,6 @@
           "id": "263080",
           "name": "Earl Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/earl-hill"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burning Activities: adjacent to Mount Fox Road and Oak Hills Road, Lannercost State Forest",
-      "alert_id": "24432",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24432",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations adjacent to Mount Fox Road and Oak Hills Road, Lannercost State Forest, from Monday 23 September to Thursday 31 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations adjacent to Mount Fox Road and Oak Hills Road, Lannercost State Forest, from Monday 23 September to Thursday 31 October 2024 (dates inclusive).</p> <p>These planned burns will be subject to weather conditions.&nbsp;</p> <p>During this period smoke will be visible to road users in the area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-09-25",
-      "start_effective_date": "2024-09-23",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "322545",
-          "name": "Lannercost State Forest",
-          "url": ""
         }
       ]
     },
@@ -1984,24 +1828,6 @@
       ]
     },
     {
-      "title": "Seasonal Shorebird Closure Area at Moon Point",
-      "alert_id": "24454",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24454",
-      "description": "The Seasonal Shorebird Closure Area at Moon Point is in place each year from 1 September to 31 October. Unauthorised entry is prohibited.",
-      "details": "<p>The Seasonal Shorebird Closure Area at Moon Point is in place each year from 1 September to 31 October. Unauthorised entry is prohibited.</p> <p>The area is closed to minimise the harm or distress to shorebirds caused, directly or indirectly, by human activity. Penalties, including on-the-spot fines apply. More Information on the locations of these areas can be found at <a href=\"http://www.parks.desi.qld.gov.au/parks/great-sandy-marine/maps-resources\">www.parks.desi.qld.gov.au/parks/great-sandy-marine/maps-resources</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-08-29",
-      "start_effective_date": "2024-09-01",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Daisy Hill Koala Centre temporary closure",
       "alert_id": "24468",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24468",
@@ -2049,29 +1875,6 @@
           "id": "151383",
           "name": "Wet Tropics Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Oak Hills Road and Sea View Range, Mount Fox Section, Girringun National Park",
-      "alert_id": "24471",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24471",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities from Thursday 5 September to Thursday 31 October 2024 (dates inclusive) in the vicinity of Oak Hills Road and Sea View Range in the Mount Fox Section of Girringun National Park (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities from Thursday 5 September to Thursday 31 October 2024 (dates inclusive) in the vicinity of Oak Hills Road and Sea View Range in the Mount Fox Section of Girringun National Park (weather permitting).</p> <ul> <li>The walk up Mount Fox will remain open for these dates, but visitors are advised that smoke may be seen in the vicinity.&nbsp;</li> </ul> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-09-03",
-      "start_effective_date": "2024-09-05",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "150228",
-          "name": "Mount Fox, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-mount-fox"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     },
@@ -2348,39 +2151,6 @@
       ]
     },
     {
-      "title": "Walk with caution: Orange Tree to Yamanie pick up point, Wet Tropics Great Walk",
-      "alert_id": "24504",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24504",
-      "description": "Due to a prolonged wet season, vegetation management activities have not occurred along some sections of the Wet Tropics Great Walk. As a result, visitors walking between Orange Tree and Yamanie pick up point, may have difficulty in navigating this section of the walk. Walkers should be prepared to utilise the Herbert River to aid in navigation.",
-      "details": "<p>Due to a prolonged wet season, vegetation management activities have not occurred along some sections of the Wet Tropics Great Walk. As a result, visitors walking between Orange Tree and Yamanie pick up point, may have difficulty in navigating this section of the walk. Walkers should be prepared to utilise the Herbert River to aid in navigation.</p> <p>Queensland Parks and Wildlife Service Rangers will prioritise track these works as conditions allow.</p>",
-      "category": "Other",
-      "start_date": "2024-09-13",
-      "start_effective_date": "2024-09-13",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "151383",
-          "name": "Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
-        },
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "158157",
-          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
-        }
-      ]
-    },
-    {
       "title": "Red Cedar day-use area toilets closed",
       "alert_id": "24505",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24505",
@@ -2528,39 +2298,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Conway National Park, Dryander National Park, Dryander State Forest and Dryander Forest Reserve feral animal management program",
-      "alert_id": "24547",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24547",
-      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) is undertaking an aerial baiting program on 3October 2024. Sodium Fluoroacetate (1080) meat baits will be used to control feral pigs on Conway National Park (Lot 43 on NPW1144 and Lot 1 on NPW1145), Dryander National Park (Lot 24 on AP19346), Dryander State Forest (Lot 432 on AP19346) and Dryander Forest Reserve (Lot 5 on AP19346). A licensed operator will distribute the baits by helicopter. These baits will not be collected. Notices will be placed at the Queensland Parks and Wildlife Service office at Jubilee Pocket and the Whitsunday Regional Council offices at Proserpine and Cannonvale for one week prior to the baiting event. These notices will remain in place for four weeks after baiting has finished. Notices will also be placed at the entrances of the Conway Circuit on Conway National Park and at Double Bay on Dryander National Park. A Park Alert will also be placed on the Department of Environment and Science website (www.des.qld.gov.au) for the same period. Dogs and other domestic animals are not permitted within the protected areas. Steps must be taken to ensure domestic dogs do not gain access to the 1080 baits or poisoned animals. Neighbours should restrain dogs and other domestic animals during baiting programs.",
-      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) is undertaking an aerial baiting program on 3October 2024. Sodium Fluoroacetate (1080) meat baits will be used to control feral pigs on Conway National Park (Lot 43 on NPW1144 and Lot 1 on NPW1145), Dryander National Park (Lot 24 on AP19346), Dryander State Forest (Lot 432 on AP19346) and Dryander Forest Reserve (Lot 5 on AP19346). A licensed operator will distribute the baits by helicopter. These baits will not be collected. Notices will be placed at the Queensland Parks and Wildlife Service office at Jubilee Pocket and the Whitsunday Regional Council offices at Proserpine and Cannonvale for one week prior to the baiting event. These notices will remain in place for four weeks after baiting has finished. Notices will also be placed at the entrances of the Conway Circuit on Conway National Park and at Double Bay on Dryander National Park. A Park Alert will also be placed on the Department of Environment and Science website (www.des.qld.gov.au) for the same period. Dogs and other domestic animals are not permitted within the protected areas. Steps must be taken to ensure domestic dogs do not gain access to the 1080 baits or poisoned animals. Neighbours should restrain dogs and other domestic animals during baiting programs.</p> <p>For more information, please contact (QPWS&amp;P) on 13 74 68.</p>",
-      "category": "Other",
-      "start_date": "2024-09-26",
-      "start_effective_date": "2024-09-27",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "322283",
-          "name": "Dryander Forest Reserve",
-          "url": ""
-        },
-        {
-          "id": "322431",
-          "name": "Dryander State Forest",
-          "url": ""
-        },
-        {
-          "id": "148187",
-          "name": "Dryander National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dryander"
-        },
-        {
-          "id": "147975",
-          "name": "Conway National Park and Conway Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conway"
         }
       ]
     },
@@ -2921,24 +2658,6 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning activities: Maria Creek National Park",
-      "alert_id": "24583",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24583",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burn activities in Maria Creek National Park between Wednesday 9 October and Thursday 31 October 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burn activities in Maria Creek National Park between Wednesday 9 October and Thursday 31 October 2024 (dates inclusive).</p> <p>The entire park will be closed during this time.</p> <p>This burn is being carried out for conservation management and fuel hazard reduction purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-09",
-      "start_effective_date": "2024-10-09",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "322983",
-          "name": "Maria Creek National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Townsville Town Common Conservation Park Payets Tower maintenance",
       "alert_id": "24584",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24584",
@@ -3093,39 +2812,6 @@
       ]
     },
     {
-      "title": "Bushfire advice: Huntsbrook Creek area of the Gillies Range Road, Little Mulgrave National Park and Forest Reserve",
-      "alert_id": "24605",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24605",
-      "description": "A bushfire is currently burning in the Huntsbrook Creek area of the Gillies Range Road. Smoke is expected to impact the road at times over the coming days. Please drive with caution and adhere to warning signs.",
-      "details": "<p>A bushfire is currently burning in the Huntsbrook Creek area of the Gillies Range Road. Smoke is expected to impact the road at times over the coming days. Please drive with caution and adhere to warning signs.</p> <p>Robsons track, within Little Mulgrave National Park is currently closed.</p> <p>Queensland Parks and Wildlife Service (QPWS) requests that all park visitors remain off this walking track until it is deemed safe to return.</p> <p>Rangers thank you for your cooperation during this time.</p> <p>Your safety is our concern but your responsibility.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-10-21",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
-        },
-        {
-          "id": "322292",
-          "name": "Little Mulgrave Forest Reserve",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary closure: Kulki boardwalk and viewing platform, Daintree National Park",
       "alert_id": "24606",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24606",
@@ -3167,15 +2853,15 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Rungulla National Park",
+      "title": "Wet season closure: Rungulla National Park",
       "alert_id": "24611",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24611",
-      "description": "Rungulla National Park will close for the wet season on Friday 1 November 2024. The park is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.",
-      "details": "<p>Rungulla National Park will close for the wet season on Friday 1 November 2024. The park is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-10-22",
-      "end_date": "2024-11-01",
+      "description": "Rungulla National Park is closed for the wet season.",
+      "details": "<p>Rungulla National Park is closed for the wet season.</p> <p>The park is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-03-31",
       "parks": [
         {
           "id": "148067",
@@ -3185,15 +2871,15 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Canyon Resources Reserve",
+      "title": "Wet season closure: Canyon Resources Reserve",
       "alert_id": "24612",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24612",
-      "description": "Canyon Resources Reserve will close for the wet season on Friday 1 November 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to weather and road conditions.",
-      "details": "<p>Canyon Resources Reserve will close for the wet season on Friday 1 November 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-10-22",
-      "end_date": "2024-11-01",
+      "description": "Canyon Resources Reserve is closed for the wet season.",
+      "details": "<p>Canyon Resources Reserve is closed for the wet season.</p> <p>It is anticipated to reopen on Tuesday 1 April 2025, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-03-31",
       "parks": [
         {
           "id": "149509",
@@ -3203,15 +2889,15 @@
       ]
     },
     {
-      "title": "Upcoming wet season walking track closures: Atkinsons lookout trail and Rosella Plains lookout trail, Undara Volcanic National Park",
+      "title": "Wet season walking track closures: Atkinsons lookout trail and Rosella Plains lookout trail, Undara Volcanic National Park",
       "alert_id": "24613",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24613",
-      "description": "Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail will be closed to public access from Friday 1 November 2024. These walking tracks are anticipated to reopen on Tuesday 1 April 2025, subject to weather conditions.",
-      "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail will be closed to public access from Friday 1 November 2024. These walking tracks are anticipated to reopen on Tuesday 1 April 2025, subject to weather conditions.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-10-22",
-      "end_date": "2024-11-01",
+      "description": "Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.",
+      "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.</p> <p>These walking tracks are anticipated to reopen on Tuesday 1 April 2025, subject to weather conditions.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-03-31",
       "parks": [
         {
           "id": "148965",
@@ -3221,15 +2907,15 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Olkola National Park (CYPAL)",
+      "title": "Wet season closure: Olkola National Park (CYPAL)",
       "alert_id": "24614",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24614",
-      "description": "Olkola National Park (CYPAL) will close for the wet season on Friday 1 November 2024. It is anticipated to reopen on Tuesday 1 July 2025, subject to road and weather conditions.",
-      "details": "<p>Olkola National Park (CYPAL) will close for the wet season on Friday 1 November 2024. It is anticipated to reopen on Tuesday 1 July 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-10-22",
-      "end_date": "2024-11-01",
+      "description": "Olkola National Park (CYPAL) is closed for the wet season.",
+      "details": "<p>Olkola National Park (CYPAL) is closed for the wet season.</p> <p>The park is anticipated to reopen on Tuesday 1 July 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-06-30",
       "parks": [
         {
           "id": "213735",
@@ -3257,15 +2943,15 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Errk Oykangand National Park (CYPAL)",
+      "title": "Wet season closure: Errk Oykangand National Park (CYPAL)",
       "alert_id": "24617",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24617",
-      "description": "Errk Oykangand National Park (CYPAL) will close for the wet season on Friday 1 November 2024. It is anticipated to reopen Tuesday 1 July 2025, subject to weather and road conditions.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) will close for the wet season on Friday 1 November 2024. It is anticipated to reopen Tuesday 1 July 2025, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-28",
-      "start_effective_date": "2024-10-24",
-      "end_date": "2024-11-01",
+      "description": "Errk Oykangand National Park (CYPAL) is closed for the wet season.",
+      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season.</p> <p>It is anticipated to reopen Tuesday 1 July 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-06-30",
       "parks": [
         {
           "id": "148949",
@@ -3314,12 +3000,12 @@
       "title": "Temporary road closure: Hahn Crossing/Bizant Homestead access road, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "24621",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24621",
-      "description": "Visitors are advised that trucks will be transporting rocks and gravel from Bizant gravel pit on the Hahn crossing /Bizant homestead access road from Monday 21 October to Friday 1 November 2024 (dates inclusive).",
-      "details": "<p>Visitors are advised that trucks will be transporting rocks and gravel from Bizant gravel pit on the Hahn crossing /Bizant homestead access road from Monday 21 October to Friday 1 November 2024 (dates inclusive).</p> <p>During this period, the road will be closed to the public. &nbsp;All access to the northern camping areas must be made via detour south&nbsp;and turn onto Bizant River Road.</p> <p>For your safety&nbsp;please adhere to all warning signs.</p> <p>Queensland Parks and Wildlife Service apologises for the inconvenience and thanks you for your cooperation.</p>",
+      "description": "Visitors are advised that trucks will be transporting rocks and gravel from Bizant gravel pit on the Hahn crossing /Bizant homestead access road from Monday 21 October to Friday 15 November 2024 (dates inclusive).",
+      "details": "<p>Visitors are advised that trucks will be transporting rocks and gravel from Bizant gravel pit on the Hahn crossing /Bizant homestead access road from Monday 21 October to Friday 15 November 2024 (dates inclusive).</p> <p>During this period, the road will be closed to the public. &nbsp;All access to the northern camping areas must be made via detour south&nbsp;and turn onto Bizant River Road.</p> <p>For your safety&nbsp;please adhere to all warning signs.</p> <p>Queensland Parks and Wildlife Service apologises for the inconvenience and thanks you for your cooperation.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-25",
+      "start_date": "2024-11-01",
       "start_effective_date": "2024-10-21",
-      "end_date": "2024-11-01",
+      "end_date": "2024-11-15",
       "parks": [
         {
           "id": "149481",
@@ -3343,39 +3029,6 @@
           "id": "148880",
           "name": "Russell River National Park",
           "url": "https://parks.desi.qld.gov.au/parks/russell-river"
-        }
-      ]
-    },
-    {
-      "title": "Fire ban in place across protected areas in Central West Queensland and Gulf of Carpentaria",
-      "alert_id": "24625",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24625",
-      "description": "The Queensland Fire Department have issued a fire ban across Central West Queensland and the Gulf of Carpentaria including protected areas listed. The fire ban is in place from 00:01 25 October 2024 to 23:59 31 October 2024. During this time, fires must not be lit anywhere in:",
-      "details": "<p>The Queensland Fire Department have issued a fire ban across Central West Queensland and the Gulf of Carpentaria including protected areas listed. The fire ban is in place from 00:01 25 October 2024 to 23:59 31 October 2024. During this time, fires must not be lit anywhere in:</p> <ul> <li>Wiliyan-ngurru National Park</li> <li>Boodjamulla National Park (Aboriginal Land) including&nbsp;Riversleigh World Heritage Area and&nbsp;Lawn Hill Gorge</li> <li>Lawn Hill (Boodjamulla) National Park</li> <li>Lawn Hill Resources Reserves</li> </ul> <p>During the fire ban, only fully enclosed cooking and heating appliances are permitted in designated QPWS camping areas that meet the below requirements:</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does not include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must not have the potential to generate airborne embers, or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are not permitted.</li> <li>All appliances, materials and burnt fuel must be removed from the protected area on your departure.</li> </ul> <p>Visitors must comply with this fire ban and any directions given by rangers. On-the-spot fines may be issued for non-compliance.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p>To report any wildfires, call Triple Zero (000).</p> <p>Please monitor park alerts on the <a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">department&#39;s website</a> for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-25",
-      "start_effective_date": "2024-10-25",
-      "end_date": "2024-10-31",
-      "parks": [
-        {
-          "id": "148836",
-          "name": "Wiliyan-ngurru National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wiliyan-ngurru-camooweal-caves"
-        },
-        {
-          "id": "150272",
-          "name": "Lawn Hill Gorge, Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.desi.qld.gov.au/parks/boodjamulla-lawn-hill"
-        },
-        {
-          "id": "151339",
-          "name": "Riversleigh World Heritage Area, Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.desi.qld.gov.au/parks/boodjamulla-riversleigh"
-        },
-        {
-          "id": "148444",
-          "name": "Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.desi.qld.gov.au/parks/boodjamulla"
         }
       ]
     },
@@ -3627,6 +3280,121 @@
           "id": "148115",
           "name": "Speewah Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/speewah"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Hull River National Park, Maria Creek National Park and Basilisk Range National Park",
+      "alert_id": "24641",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24641",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations in Basilisk Range, Maria Creek and Hull River national parks from Friday 1 November to Friday 29 November 2024 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations in Basilisk Range, Maria Creek and Hull River national parks from Friday 1 November to Friday 29 November 2024 (weather permitting).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2024-11-30",
+      "parks": [
+        {
+          "id": "322991",
+          "name": "Hull River National Park",
+          "url": ""
+        },
+        {
+          "id": "322983",
+          "name": "Maria Creek National Park",
+          "url": ""
+        },
+        {
+          "id": "322679",
+          "name": "Basilisk Range National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track and camping area closure: Goldfield trail, Wooroonooran National Park",
+      "alert_id": "24642",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24642",
+      "description": "Queensland Parks and Wildlife Service (QPWS) rangers will be conducting pest management activities on Goldfield trail as part of a broader pest management strategy on Monday 4 November and Tuesday 5 November 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) rangers will be conducting pest management activities on Goldfield trail as part of a broader pest management strategy on Monday 4 November and Tuesday 5 November 2024.</p> <p>The following closures will apply:</p> <p>Mulgrave River (Goldfield trail) camping area - closed from&nbsp;Sunday 3 November to Tuesday 5 November 2024 (dates inclusive)</p> <p>Goldfield trail -&nbsp;closed from&nbsp; Monday 4 November to Tuesday 5 November 2024 (dates inclusive).</p> <p>For your safety, QPWS request that all visitors adhere to park closures.&nbsp;&nbsp;Your safety is our concern but your responsibility.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-04",
+      "end_date": "2024-11-05",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "151367",
+          "name": "Goldfield trail, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        }
+      ]
+    },
+    {
+      "title": "White Mountains National Park closed for bushfire season",
+      "alert_id": "24643",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24643",
+      "description": "White Mountains National Park is closed for the 2024 bushfire season",
+      "details": "<p>White Mountains National Park is closed for the 2024 bushfire season</p> <p>Read more on your safety while visiting our Park here <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-01-05",
+      "parks": [
+        {
+          "id": "148796",
+          "name": "White Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/white-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Mount Coolum quarry area closed to public access.",
+      "alert_id": "24644",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24644",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be closing public access to the Mount Coolum disused quarry area due to increased safety risks. This closure is from Friday, 1st November 2024, until further notice.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be closing public access to the Mount Coolum disused quarry area due to increased safety risks. This closure is from Friday, 1st November 2024, until further notice.</p> <p>The summit access remains open.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "148572",
+          "name": "Mount Coolum National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-coolum"
+        }
+      ]
+    },
+    {
+      "title": "Park Alert - Central Station to Pile Valley Section Temporary closure for track maintenance",
+      "alert_id": "24645",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24645",
+      "description": "The Central Station to Pile Valley section of the Kgari (Fraser Island) Great Walk is currently closed due to fallen timber restricting access along the track. Rangers are working to have this area cleared for access as soon as possible.",
+      "details": "<p>The Central Station to Pile Valley section of the Kgari (Fraser Island) Great Walk is currently closed due to fallen timber restricting access along the track. Rangers are working to have this area cleared for access as soon as possible.</p> <p>The closure is effective from 01st November to 04th November 2024.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>For a comprehensive list of Park Alerts, visit us online <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-01",
+      "start_effective_date": "2024-11-01",
+      "end_date": "2024-11-04",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     }
