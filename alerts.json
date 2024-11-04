@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2024-11-03 10:09:24"
+    "alerts_count": 162,
+    "script_run_time": "2024-11-04 10:09:43"
   },
   "alerts": [
     {
@@ -2151,26 +2151,16 @@
       ]
     },
     {
-      "title": "Planned burning activities: Tumoulin National Park and Koombooloomba National Park",
+      "title": "Planned burning activities: Koombooloomba National Park",
       "alert_id": "24541",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24541",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Tumoulin National Park and Koombooloomba National Park from Wednesday 25 September 2024 onwards. Aircraft will be operating in the area during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Tumoulin National Park and Koombooloomba National Park from Wednesday 25 September 2024 onwards. Aircraft will be operating in the area during this period.</p> <ul> <li>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition.</li> <li>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</li> <li>QPWS will monitor fire activity until it is out.</li> <li>No visitor facilities will be affected.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Koombooloomba National Park from Wednesday 25 September 2024 onwards. Aircraft will be operating in the area during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Koombooloomba National Park from Wednesday 25 September 2024 onwards. Aircraft will be operating in the area during this period.</p> <ul> <li>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition.</li> <li>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</li> <li>QPWS will monitor fire activity until it is out.</li> <li>No visitor facilities will be affected.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2024-10-25",
+      "start_date": "2024-11-04",
       "start_effective_date": "2024-09-25",
       "end_date": "2024-11-08",
       "parks": [
-        {
-          "id": "322278",
-          "name": "Tumoulin National Park",
-          "url": ""
-        },
-        {
-          "id": "148099",
-          "name": "Tumoulin State Forest and Tumoulin Forest Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/tumoulin"
-        },
         {
           "id": "148802",
           "name": "Koombooloomba National Park and Conservation Park",
@@ -2836,24 +2826,6 @@
       ]
     },
     {
-      "title": "Bushfire alert for Salvator Rosa section of Carnarvon National Park",
-      "alert_id": "24630",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24630",
-      "description": "Due to current bushfire Salvator Rosa section of Carnarvon National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to current bushfire Salvator Rosa section of Carnarvon National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-10-29",
-      "start_effective_date": "2024-10-29",
-      "end_date": "2024-11-03",
-      "parks": [
-        {
-          "id": "151359",
-          "name": "Salvator Rosa, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-salvator-rosa"
-        }
-      ]
-    },
-    {
       "title": "Aerial feral animal control activities: Rinyirru (Lakefield) National Park (CYPAL), Cape Melville National Park (CYPAL) and Lama Lama National Park (CYPAL)",
       "alert_id": "24631",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24631",
@@ -3156,6 +3128,24 @@
       ]
     },
     {
+      "title": "Aerial feral animal control program: Olkola National Park (CYPAL)",
+      "alert_id": "24646",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24646",
+      "description": "A feral animal control program involving aerial shooting activities will be carried out in Olkola National Park (CYPAL) between Tuesday 26 November and Saturday 30 November 2024 (dates inclusive).",
+      "details": "<p>A feral animal control program involving aerial shooting activities will be carried out in Olkola National Park (CYPAL) between Tuesday 26 November and Saturday 30 November 2024 (dates inclusive).</p> <p>&nbsp;The park will be closed for wet season during this period.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-04",
+      "start_effective_date": "2024-11-26",
+      "end_date": "2024-11-30",
+      "parks": [
+        {
+          "id": "213735",
+          "name": "Olkola National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/olkola-cypal"
+        }
+      ]
+    },
+    {
       "title": "Durikai Southern Fossicking Area Temporarily Closed",
       "alert_id": "24648",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24648",
@@ -3169,6 +3159,98 @@
         {
           "id": "322657",
           "name": "Durikai State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Mapleton Falls National Park access restrictions.",
+      "alert_id": "24649",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24649",
+      "description": "Queensland Parks and Wildlife Service are conducting planned maintenance works in Mapleton Falls National Park. Access to carpark and toilet facilities is temporarily closed.",
+      "details": "<p>Queensland Parks and Wildlife Service are conducting planned maintenance works in Mapleton Falls National Park. Access to carpark and toilet facilities is temporarily closed.</p> <p>The park and all other facilities remain open. Visitors are encouraged to park along Mapleton Falls Road and walk in. With the steep slope of the road, wheelchair access is not recommended during the closure.&nbsp;</p> <p>The carpark will reopen once construction is completed, however the toilet facilities will remain unavailable until further notice.</p> <p>Alternative public toilet facilities are available in Mapleton township, within a five minute drive.&nbsp;&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-04",
+      "start_effective_date": "2024-11-05",
+      "end_date": "2024-11-06",
+      "parks": [
+        {
+          "id": "148929",
+          "name": "Mapleton Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Gadgarra National Park",
+      "alert_id": "24650",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24650",
+      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burning in Gadgarra National Park from Thursday 07 November 2024.",
+      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burning in Gadgarra National Park from Thursday 07 November 2024.</p> <ul> <li>Burning will be conducted between Butchers and Toohey Creek.</li> <li>Access to Winden falls and Bartle Frere will not be impacted by these operations.</li> <li>Most fire activity is expected to self-extinguish each evening, However some fire may remain active and smoke visible for 2 &ndash; 3 days following ignition.</li> <li>QPWS will monitor fire activity until it is out.</li> </ul> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-04",
+      "start_effective_date": "2024-11-07",
+      "end_date": "2024-11-24",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "148428",
+          "name": "Bartle Frere trail, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bartle-frere"
+        },
+        {
+          "id": "322678",
+          "name": "Gadgarra National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Jordan Creek area, Wooroonooran National Park",
+      "alert_id": "24651",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24651",
+      "description": "The Queensland Parks and Wildlife Service and Mamu Land and Sea Rangers will be conducting planned burning activities in Wooroonooran National Park between Tuesday 5 November and Friday 8 November 2024 (dates inclusive).",
+      "details": "<p>The Queensland Parks and Wildlife Service and Mamu Land and Sea Rangers will be conducting planned burning activities in Wooroonooran National Park between Tuesday 5 November and Friday 8 November 2024 (dates inclusive).</p> <p>The closure only applies to the Jordan Creek area in the Palmerston (Doongan) section of Wooroonooran National Park.&nbsp;</p> <p>Camping areas, day-use areas and walking tracks will not be impacted by this burn.</p> <p>This burn is being carried out for conservation management and cultural purposes.</p> <p>For your safety, please obey all signage and directions provided by rangers.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2024-11-04",
+      "start_effective_date": "2024-11-05",
+      "end_date": "2024-11-08",
+      "parks": [
+        {
+          "id": "151396",
+          "name": "Palmerston (Doongan), Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-palmerston"
+        },
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire advice: Between Damper Creek and Conn Creek, Girringun National Park",
+      "alert_id": "24652",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24652",
+      "description": "A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days. Please drive with caution and adhere to warning signs.",
+      "details": "<p>A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days. Please drive with caution and adhere to warning signs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-04",
+      "start_effective_date": "2024-11-04",
+      "end_date": "2024-11-07",
+      "parks": [
+        {
+          "id": "148768",
+          "name": "Dalrymple Gap walking track, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
+        },
+        {
+          "id": "322269",
+          "name": "Girringun Conservation Park",
           "url": ""
         }
       ]
