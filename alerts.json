@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-11-04 10:09:43"
+    "alerts_count": 160,
+    "script_run_time": "2024-11-05 10:09:01"
   },
   "alerts": [
     {
@@ -1159,13 +1159,13 @@
       ]
     },
     {
-      "title": "Closure of far Southern Boardwalk from council carpark at the end of Mon Repos Road.",
+      "title": "Far Southern Boardwalk temporarily closed for repairs",
       "alert_id": "24015",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24015",
-      "description": "An assessment of the boardwalk has determined it is not safe for use. Access to the beach is still possible via the coastal access track to the south (tide permitting), the Mon Repos Turtle Centre boardwalks and the Moore's Road carpark area.",
-      "details": "<p>An assessment of the boardwalk has determined it is not safe for use. Access to the beach is still possible via the coastal access track to the south (tide permitting), the Mon Repos Turtle Centre boardwalks and the Moore's Road carpark area.</p> <p>This beach access will remain closed until an alternate access is re-established. &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "The boardwalk to the beach at the end of Mon Repos Road is temporarily closed for repairs. Repairs to the boardwalk (funded by NRMA) are being progressed and will restore the vital connection to the beach, while protecting the delicate ecosystem of Mon Repos Conservation Park.",
+      "details": "<p>The boardwalk to the beach at the end of Mon Repos Road is temporarily closed for repairs. Repairs to the boardwalk (funded by NRMA) are being progressed and will restore the vital connection to the beach, while protecting the delicate ecosystem of Mon Repos Conservation Park.</p> <ul> <li>The expected completion date for this project is uncertain at this stage.</li> <li>Access to the beach is still possible via the coastal access track to the south (tide permitting), the Mon Repos Turtle Centre boardwalks and the Moore&#39;s Road carpark area.&nbsp;&nbsp;</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-08-28",
+      "start_date": "2024-11-05",
       "start_effective_date": "2024-04-30",
       "end_date": "2025-01-31",
       "parks": [
@@ -1575,24 +1575,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Planned Works - Traveston Road",
-      "alert_id": "24277",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24277",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting bridge and culvert repairs on Traveston Road at Woondum National Park from 16 July to 30 November 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting bridge and culvert repairs on Traveston Road at Woondum National Park from 16 July to 30 November 2024.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-07-17",
-      "start_effective_date": "2024-07-16",
-      "end_date": "2024-11-30",
-      "parks": [
-        {
-          "id": "148111",
-          "name": "Woondum National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/woondum"
         }
       ]
     },
@@ -2598,12 +2580,12 @@
       "title": "Planned burning activities: Dinden National Park",
       "alert_id": "24607",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24607",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden National Park from Wednesday 23 October to Friday 8 November 2024 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden National Park from Wednesday 23 October to Friday 8 November 2024 (dates inclusive).</p> <p>Camping areas, day-use areas and walking tracks will remain open, however smoke may be seen in the vicinity of Dinden National Park and Davies Creek National Park.</p> <p>&nbsp;</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden National Park from Wednesday 23 October to Saturday 30 November 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden National Park from Wednesday 23 October to Saturday 30 November 2024 (dates inclusive).</p> <p>Camping areas, day-use areas and walking tracks will remain open, however smoke may be seen in the vicinity of Dinden National Park and Davies Creek National Park.</p> <p>&nbsp;</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2024-10-22",
+      "start_date": "2024-11-05",
       "start_effective_date": "2024-10-22",
-      "end_date": "2024-11-08",
+      "end_date": "2024-11-30",
       "parks": [
         {
           "id": "322450",
@@ -2840,24 +2822,6 @@
           "id": "149481",
           "name": "Rinyirru (Lakefield) National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
-        }
-      ]
-    },
-    {
-      "title": "Safety alert: Dead mutton birds on Mulgumpin beaches",
-      "alert_id": "24633",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24633",
-      "description": "Numerous carcasses of mutton birds have washed ashore on the eastern beach of Mulgumpin. The current cause of death of the mutton birds is unknown.",
-      "details": "<p>Numerous carcasses of mutton birds have washed ashore on the eastern beach of Mulgumpin. The current cause of death of the mutton birds is unknown.</p> <p>Each year various species of migratory shorebirds fly thousands of kilometres to reach Australian shores to feed over the summer. Unfortunately, many arrive weak from the journey and don&rsquo;t survive. Shorebirds can also carry diseases that are harmful to people.</p> <p><strong>For visitor safety, DO NOT handle and interfere with any dead birds. </strong></p> <p>If you come in to contact with a sick or dead bird and begin to show flu-like symptoms we recommend you seek urgent medical advice.</p> <p><strong>Report unusual signs of sick or dead birds to:</strong></p> <ul> <li>13 25 23 (Business hours &ndash; Biosecurity Queensland)</li> <li>1800 675 888 (After hours - Emergency Animal Disease Hotline)</li> </ul> <p>Please observe all signage, barriers and directions from rangers.</p>",
-      "category": "Other",
-      "start_date": "2024-10-30",
-      "start_effective_date": "2024-10-29",
-      "end_date": "2024-11-04",
-      "parks": [
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
         }
       ]
     },
@@ -3105,29 +3069,6 @@
       ]
     },
     {
-      "title": "Park Alert - Central Station to Pile Valley Section Temporary closure for track maintenance",
-      "alert_id": "24645",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24645",
-      "description": "The Central Station to Pile Valley section of the Kgari (Fraser Island) Great Walk is currently closed due to fallen timber restricting access along the track. Rangers are working to have this area cleared for access as soon as possible.",
-      "details": "<p>The Central Station to Pile Valley section of the Kgari (Fraser Island) Great Walk is currently closed due to fallen timber restricting access along the track. Rangers are working to have this area cleared for access as soon as possible.</p> <p>The closure is effective from 01st November to 04th November 2024.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>For a comprehensive list of Park Alerts, visit us online <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-01",
-      "start_effective_date": "2024-11-01",
-      "end_date": "2024-11-04",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Aerial feral animal control program: Olkola National Park (CYPAL)",
       "alert_id": "24646",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24646",
@@ -3146,20 +3087,20 @@
       ]
     },
     {
-      "title": "Durikai Southern Fossicking Area Temporarily Closed",
-      "alert_id": "24648",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24648",
-      "description": "Bushfire alert for Durikai southern fossicking areas. Due to current bushfire in the Greymare locality, some areas are temporarily closed in Durikai State Forest. Bushfire response activities are in progress and QPWS Rangers will continue to monitor the situation.",
-      "details": "<p>Bushfire alert for Durikai southern fossicking areas. Due to current bushfire in the Greymare locality, some areas are temporarily closed in Durikai State Forest. Bushfire response activities are in progress and QPWS Rangers will continue to monitor the situation.</p> <p>Durikai southern fossicking area off Mountain Maid road is temporarily closed due to a large wildfire to the east of the reserve.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-11-02",
-      "start_effective_date": "2024-11-02",
-      "end_date": "2024-11-04",
+      "title": "Aerial feral animal control program: Alwal National Park (CYPAL)",
+      "alert_id": "24647",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24647",
+      "description": "A feral animal control program involving aerial shooting activities will be carried out in Alwal National Park (CYPAL) between Tuesday 26 November and Saturday 30 November 2024 (dates inclusive).",
+      "details": "<p>A feral animal control program involving aerial shooting activities will be carried out in Alwal National Park (CYPAL) between Tuesday 26 November and Saturday 30 November 2024 (dates inclusive).</p> <p>&nbsp;The park will be closed to the public during this period.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-05",
+      "start_effective_date": "2024-11-26",
+      "end_date": "2024-11-30",
       "parks": [
         {
-          "id": "322657",
-          "name": "Durikai State Forest",
-          "url": ""
+          "id": "147963",
+          "name": "Alwal National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/alwal"
         }
       ]
     },
@@ -3236,22 +3177,40 @@
       "title": "Bushfire advice: Between Damper Creek and Conn Creek, Girringun National Park",
       "alert_id": "24652",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24652",
-      "description": "A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days. Please drive with caution and adhere to warning signs.",
-      "details": "<p>A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days. Please drive with caution and adhere to warning signs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days.",
+      "details": "<p>A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days.</p> <p>Please drive with caution and adhere to warning signs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2024-11-04",
+      "start_date": "2024-11-05",
       "start_effective_date": "2024-11-04",
       "end_date": "2024-11-07",
       "parks": [
         {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
           "id": "148768",
           "name": "Dalrymple Gap walking track, Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Boot cleaning stations at Mt Tibrogargan trailhead",
+      "alert_id": "24653",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24653",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) has installed boot cleaning stations at Mount Tibrogargan trailhead in Glass House Mountains National Park to help protect the surrounding forest and heathlands for future times from a potentially devastating soil-based disease.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) has installed boot cleaning stations at Mount Tibrogargan trailhead in Glass House Mountains National Park to help protect the surrounding forest and heathlands for future times from a potentially devastating soil-based disease.</p> <p>Visitors to Mt Tibrogargan trailhead are required to clean their footwear at the stations as they enter and exit the park.&nbsp;</p> <p>The boot cleaning stations have been installed following the recent discovery of&nbsp;<em>Phytophthora cinnamomi</em> in the park, which is believed to be causing dieback for some species of native plants.</p> <p><em>Phytophthora cinnamomi</em>&nbsp;is a species of water mould, often referred to as a microscopic fungal-like organism, that lives in soil and is spread by the movement of infected soil carried on shoes, machines and other equipment or plants.</p> <p>Phytophthora affects plants by attacking the root system and therefore decreasing the plant&rsquo;s ability to absorb water and nutrients.&nbsp;</p> <p>Once established, Phytophthora cannot be eradicated and there is no cure.</p> <p>Visitors to the Glass House Mountains National Park can help protect&nbsp; by following some simple tips:</p> <ol> <li>Clean footwear and equipment before you visit</li> <li>Use boot-washing stations to clean footwear and equipment (such as walking poles and pram wheels) when going in and out of the park</li> <li>Avoid going off designated walking tracks, and do not enter areas affected by closures</li> <li>Never assume anywhere is disease free</li> <li>Keep a spare set of shoes and a cleaning kit in your vehicle</li> <li>Purchase gear that is easy to clean</li> </ol> <p>With clean footwear, visitors can help slow the spread of Phytophthora throughout the park and minmise the chance of Phytophthora infecting plants in other natural areas.&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-05",
+      "start_effective_date": "2024-11-05",
+      "end_date": "2025-02-28",
+      "parks": [
         {
-          "id": "322269",
-          "name": "Girringun Conservation Park",
-          "url": ""
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
         }
       ]
     }
