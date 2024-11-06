@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 160,
-    "script_run_time": "2024-11-05 10:09:01"
+    "script_run_time": "2024-11-06 10:09:07"
   },
   "alerts": [
     {
@@ -2133,16 +2133,41 @@
       ]
     },
     {
-      "title": "Planned burning activities: Koombooloomba National Park",
+      "title": "Planned burning activities: Koombooloomba National Park, Tully Falls National Park, Tully Gorge National Park and Misty Mountains wilderness tracks",
       "alert_id": "24541",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24541",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Koombooloomba National Park from Wednesday 25 September 2024 onwards. Aircraft will be operating in the area during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Koombooloomba National Park from Wednesday 25 September 2024 onwards. Aircraft will be operating in the area during this period.</p> <ul> <li>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition.</li> <li>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</li> <li>QPWS will monitor fire activity until it is out.</li> <li>No visitor facilities will be affected.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Koombooloomba National Park, Tully Falls National Park, Tully Gorge National Park and Misty Mountains wilderness tracks from Thursday 7 November 2024 onwards. Aircraft will be operating in the area during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Koombooloomba National Park, Tully Falls National Park, Tully Gorge National Park and Misty Mountains wilderness tracks from Thursday 7 November 2024 onwards. Aircraft will be operating in the area during this period.</p> <ul> <li>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition.</li> <li>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</li> <li>QPWS will monitor fire activity until it is out.</li> <li>No visitor facilities will be affected.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2024-11-04",
-      "start_effective_date": "2024-09-25",
-      "end_date": "2024-11-08",
+      "start_date": "2024-11-06",
+      "start_effective_date": "2024-11-06",
+      "end_date": "2024-11-15",
       "parks": [
+        {
+          "id": "147987",
+          "name": "Tully section, Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully"
+        },
+        {
+          "id": "148840",
+          "name": "Misty Mountains wilderness tracks",
+          "url": "https://parks.desi.qld.gov.au/parks/misty-mountains"
+        },
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
+        },
+        {
+          "id": "148460",
+          "name": "Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-gorge"
+        },
+        {
+          "id": "148888",
+          "name": "Tablelands section, Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-tableland"
+        },
         {
           "id": "148802",
           "name": "Koombooloomba National Park and Conservation Park",
@@ -3005,34 +3030,6 @@
       ]
     },
     {
-      "title": "Temporary walking track and camping area closure: Goldfield trail, Wooroonooran National Park",
-      "alert_id": "24642",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24642",
-      "description": "Queensland Parks and Wildlife Service (QPWS) rangers will be conducting pest management activities on Goldfield trail as part of a broader pest management strategy on Monday 4 November and Tuesday 5 November 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) rangers will be conducting pest management activities on Goldfield trail as part of a broader pest management strategy on Monday 4 November and Tuesday 5 November 2024.</p> <p>The following closures will apply:</p> <p>Mulgrave River (Goldfield trail) camping area - closed from&nbsp;Sunday 3 November to Tuesday 5 November 2024 (dates inclusive)</p> <p>Goldfield trail -&nbsp;closed from&nbsp; Monday 4 November to Tuesday 5 November 2024 (dates inclusive).</p> <p>For your safety, QPWS request that all visitors adhere to park closures.&nbsp;&nbsp;Your safety is our concern but your responsibility.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-01",
-      "start_effective_date": "2024-11-04",
-      "end_date": "2024-11-05",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        }
-      ]
-    },
-    {
       "title": "White Mountains National Park closed for bushfire season",
       "alert_id": "24643",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24643",
@@ -3211,6 +3208,24 @@
           "id": "150189",
           "name": "Glass House Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Mount Cook walking track, Mount Cook National Park",
+      "alert_id": "24654",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24654",
+      "description": "The Mount Cook walking track will be closed from Monday 11 November to Tuesday 31 December 2024 (dates inclusive).",
+      "details": "<p>The Mount Cook walking track will be closed from Monday 11 November to Tuesday 31 December 2024 (dates inclusive).</p> <p>Contractors will be doing repairs to the track which will involve the use of a helicopter.</p> <p>Please adhere to safety signs and do not enter the area.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-06",
+      "start_effective_date": "2024-11-11",
+      "end_date": "2025-01-01",
+      "parks": [
+        {
+          "id": "148616",
+          "name": "Mount Cook National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
         }
       ]
     }
