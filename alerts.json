@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2024-11-06 10:09:07"
+    "alerts_count": 167,
+    "script_run_time": "2024-11-07 10:08:34"
   },
   "alerts": [
     {
@@ -241,12 +241,12 @@
       "title": "Long term closure of walking tracks in Upper Stony Creek area",
       "alert_id": "21451",
       "url": "https://parks.desi.qld.gov.au/park-alerts/21451",
-      "description": "Due to forestry operations, both the Caribbean circuit and Upper Stony circuit walking tracks are closed longer term in the Upper Stony Creek area. The Venusta track remains available for use for visitors and is accessed via the Upper Stony Creek day use area.",
-      "details": "<p>Due to forestry operations, both the Caribbean circuit and Upper Stony circuit walking tracks are closed longer term in the Upper Stony Creek area. The Venusta track remains available for use for visitors and is accessed via the Upper Stony Creek day use area.</p>",
+      "description": "Due to forestry plantation management, including heavy machinery operation in the Upper Stony Creek area, both the Caribbean circuit and Stony Creek circuit walking tracks are closed until further notice.",
+      "details": "<p>Due to forestry plantation management, including heavy machinery operation in the Upper Stony Creek area, both the Caribbean circuit and Stony Creek circuit walking tracks are closed until further notice.</p> <p>For your safety, do not enter the closed walking tracks and follow all directions from Rangers and on-site closed signs.</p> <p>The Venusta circuit remains open for visitors and is accessed via the Upper Stony Creek day-use area.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2023-11-08",
-      "start_effective_date": "2021-11-11",
-      "end_date": "2024-11-08",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-08",
+      "end_date": "2025-11-07",
       "parks": [
         {
           "id": "148223",
@@ -406,6 +406,29 @@
           "id": "148027",
           "name": "Cathu State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cathu"
+        }
+      ]
+    },
+    {
+      "title": "Clarke Range Track Closure",
+      "alert_id": "22984",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/22984",
+      "description": "The Clarke Range Walking Track from Sky Window to Broken River is currently closed due to storm damage which has caused major landslips and the loss of sections of the walking track.",
+      "details": "<p>The Clarke Range Walking Track from Sky Window to Broken River is currently closed due to storm damage which has caused major landslips and the loss of sections of the walking track.</p> <p>Queensland Parks and Wildlife service are currently working on restoring access to the area. The closure will remain in place until remediation works are complete and the track is safe to open to visitors.&nbsp;&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2023-05-24",
+      "end_date": "2024-12-31",
+      "parks": [
+        {
+          "id": "154584",
+          "name": "Mackay Highlands Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-mackay-highlands"
+        },
+        {
+          "id": "148295",
+          "name": "Eungella National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eungella"
         }
       ]
     },
@@ -2851,6 +2874,24 @@
       ]
     },
     {
+      "title": "Certified support dogs and assistance animals at Bluff Point, Capricorn Coast National Park",
+      "alert_id": "24632",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24632",
+      "description": "Visitors to Bluff Point in Capricorn Coast National Park are reminded that domestic animals are prohibited in national parks and penalties apply, however a person with a certified support dog or an appropriately authorised assistance animal can enter areas managed by Queensland Parks and Wildlife Service (QPWS).",
+      "details": "<p>Visitors to Bluff Point in Capricorn Coast National Park are reminded that domestic animals are prohibited in national parks and penalties apply, however a person with a certified support dog or an appropriately authorised assistance animal can enter areas managed by Queensland Parks and Wildlife Service (QPWS).</p> <p>Recent incidents at Bluff Point involving inappropriate visitor behaviour targeting a visitor with an appropriately authorised support animal is not acceptable. Certified guide, hearing and assistance dogs are allowed into public areas of Queensland&#39;s parks and forests and there is comprehensive information about this in our operational policy, <a href=\"https://parks.desi.qld.gov.au/before-you-visit?external-uuid=2711adb7-be88-4f0b-8d16-878507b795a8\">certified support dogs and assistance animals in QPWS managed areas</a>.</p> <p>For further information on dogs and pets in areas managed by QPWS, please see:&nbsp;<a href=\"https://parks.desi.qld.gov.au/before-you-visit/dogs-and-pets\">Dogs and pets | Parks and forests | Department of Environment, Science and Innovation, Queensland (desi.qld.gov.au)</a>&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-07",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "148977",
+          "name": "Capricorn Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/capricorn-coast"
+        }
+      ]
+    },
+    {
       "title": "Ex HMAS Tobruk public mooring closed",
       "alert_id": "24634",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24634",
@@ -3102,24 +3143,6 @@
       ]
     },
     {
-      "title": "Mapleton Falls National Park access restrictions.",
-      "alert_id": "24649",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24649",
-      "description": "Queensland Parks and Wildlife Service are conducting planned maintenance works in Mapleton Falls National Park. Access to carpark and toilet facilities is temporarily closed.",
-      "details": "<p>Queensland Parks and Wildlife Service are conducting planned maintenance works in Mapleton Falls National Park. Access to carpark and toilet facilities is temporarily closed.</p> <p>The park and all other facilities remain open. Visitors are encouraged to park along Mapleton Falls Road and walk in. With the steep slope of the road, wheelchair access is not recommended during the closure.&nbsp;</p> <p>The carpark will reopen once construction is completed, however the toilet facilities will remain unavailable until further notice.</p> <p>Alternative public toilet facilities are available in Mapleton township, within a five minute drive.&nbsp;&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-04",
-      "start_effective_date": "2024-11-05",
-      "end_date": "2024-11-06",
-      "parks": [
-        {
-          "id": "148929",
-          "name": "Mapleton Falls National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Gadgarra National Park",
       "alert_id": "24650",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24650",
@@ -3226,6 +3249,114 @@
           "id": "148616",
           "name": "Mount Cook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Hartleys Falls walking track, Macalister Range National Park",
+      "alert_id": "24655",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24655",
+      "description": "The Hartleys Falls walking track will be temporarily closed from Thursday 7 November 2024 and is anticipated to reopen on 2 December 2024. The closure is due to contractors engaged by Queensland Parks and Wildlife Service conducting earthworks and repairs to the walking track.",
+      "details": "<p>The Hartleys Falls walking track will be temporarily closed from Thursday 7 November 2024 and is anticipated to reopen on 2 December 2024. The closure is due to contractors engaged by Queensland Parks and Wildlife Service conducting earthworks and repairs to the walking track.</p> <p>Entry into this area is prohibited during this time for safety reasons. Please adhere to all signage, barricading and directions from contractors.&nbsp;&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-07",
+      "end_date": "2024-12-01",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Heightened dingo activity Lake McKenzie (Boorangoora)",
+      "alert_id": "24656",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24656",
+      "description": "Rangers on Kgari (formerly Fraser Island) are urging visitors to be dingo safe at all times after a recent spate of high-risk dingo incidents at Lake McKenzie (Boorangoora).",
+      "details": "<p>Rangers on Kgari (formerly Fraser Island) are urging visitors to be dingo safe at all times after a recent spate of high-risk dingo incidents at Lake McKenzie (Boorangoora).</p> <p>The warning comes after a man was bitten on the calf in the Lake McKenzie (Boorangoora) carpark around noon on Sunday (3 November 2024).</p> <p>Visitors, tour operators and residents are advised to be dingo-safe! on K&#39;gari (Fraser Island).<br /> <br /> Visitors are reminded to use the fenced picnic areas when eating or preparing food, and take no food or drinks, other than water, to the lake shores.<br /> Remain vigilant of their surroundings at all times, keep children within arm&rsquo;s length, never walk alone andcarry a stick at all times.<br /> <br /> All negative dingo encounters should immediately be reported to a QPWS ranger by calling<br /> 07 4127 9150 or emailing dingo.ranger@des.qld.gov.au.</p> <p><strong>Be dingo-safe!</strong><br /> Visit <a href=\"https://parks.desi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.des.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>&nbsp;Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong> &ndash; email dingo.ranger@des.qld.gov.au, tell the nearest QPWS ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply.<br /> Take note of location, vehicle registration, dingo ear tag colour, number and which ear.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please be alert for nearby wildlife.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-03",
+      "end_date": "2025-01-24",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire - Urannah Station",
+      "alert_id": "24657",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24657",
+      "description": "Queensland Parks and Wildlife Service are closely monitoring a bushfire burning adjacent to Cathu State Forest on Urannah Station.",
+      "details": "<p>Queensland Parks and Wildlife Service are closely monitoring a bushfire burning adjacent to Cathu State Forest on Urannah Station.</p> <p>The movement of the fire is being closely monitored by our Fire Management Uplift team.</p> <p>QPWS is maintaining regular contact with neighbouring landholders and have operational staff&nbsp; on stand by should the fire move onto the estate. All efforts will be made to contain the bushfire should it move onto Cathu State Forest.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-07",
+      "end_date": "2024-11-14",
+      "parks": [
+        {
+          "id": "148027",
+          "name": "Cathu State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cathu"
+        }
+      ]
+    },
+    {
+      "title": "Water Park to Stockyard Point access road",
+      "alert_id": "24659",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24659",
+      "description": "Byfield National and Conservation Park will be closed from Tuesday 12th November to Friday 15th November. Road works are being undertaken on the access track from Water Park to Stockyard Point during this time.",
+      "details": "<p>Byfield National and Conservation Park will be closed from Tuesday 12th November to Friday 15th November. Road works are being undertaken on the access track from Water Park to Stockyard Point during this time.</p> <p>Unauthorised entry is prohibited during this time with penalties, including on-the-spot-fines, applying.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-12",
+      "end_date": "2024-11-15",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Byfield - Upper Stony water quality",
+      "alert_id": "24660",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24660",
+      "description": "Due to a lack of recent rainfall and therefore reduced water flow, the water quality at Upper Stony Creek is currently in decline.",
+      "details": "<p>Due to a lack of recent rainfall and therefore reduced water flow, the water quality at Upper Stony Creek is currently in decline.</p> <p>It is anticipated that water quality will improve following the next significant rainfall event. Swimming at Upper Stony is not recommended until water quality improves.</p> <p>For your safety, please observe all signage and directions from Rangers.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-11",
+      "end_date": "2024-11-12",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Water Park to Stockyard Point Access Road Closure",
+      "alert_id": "24661",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24661",
+      "description": "Byfield National and Conservation Park will be closed from Tuesday 5th November to Friday 8th November.",
+      "details": "<p>Byfield National and Conservation Park will be closed from Tuesday 5th November to Friday 8th November.</p> <p>Heavy road works are being undertaken on the access track from Water Park to Stockyard Point during this time. Unauthorised entry is prohibited during this time with penalties, including on-the-spot-fines applying.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-07",
+      "start_effective_date": "2024-11-05",
+      "end_date": "2024-11-08",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
         }
       ]
     }
