@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-11-07 10:08:34"
+    "alerts_count": 169,
+    "script_run_time": "2024-11-08 10:08:31"
   },
   "alerts": [
     {
@@ -3031,9 +3031,9 @@
       "description": "Visitors are advised there is currently no water available at taps located in the camping area and day-use area. During this period hand washing facilities are available at the toilet block.",
       "details": "<p>Visitors are advised there is currently no water available at taps located in the camping area and day-use area. During this period hand washing facilities are available at the toilet block.</p> <p>We apologise for any inconvenience this may cause.</p>",
       "category": "Announcement",
-      "start_date": "2024-10-31",
+      "start_date": "2024-11-08",
       "start_effective_date": "2024-10-31",
-      "end_date": "2024-11-08",
+      "end_date": "2024-11-15",
       "parks": [
         {
           "id": "148115",
@@ -3194,29 +3194,6 @@
       ]
     },
     {
-      "title": "Bushfire advice: Between Damper Creek and Conn Creek, Girringun National Park",
-      "alert_id": "24652",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24652",
-      "description": "A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days.",
-      "details": "<p>A bushfire is currently burning on the eastern side of the Bruce Highway in Girringun National Park between Damper Creek and Conn Creek. Smoke may impact the road at times over the coming days.</p> <p>Please drive with caution and adhere to warning signs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-05",
-      "start_effective_date": "2024-11-04",
-      "end_date": "2024-11-07",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "148768",
-          "name": "Dalrymple Gap walking track, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
-        }
-      ]
-    },
-    {
       "title": "Boot cleaning stations at Mt Tibrogargan trailhead",
       "alert_id": "24653",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24653",
@@ -3357,6 +3334,90 @@
           "id": "148223",
           "name": "Byfield National Park, Conservation Park and State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Moorrinya, Dalrymple, White Mountains, Blackbraes and Porcupine Gorge National Parks total fire ban",
+      "alert_id": "24663",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24663",
+      "description": "Queensland Fire Department (QFD) has imposed a local fire ban for Northern Region residents. The local fire ban will be in place from 0001hrs on Friday 8 November for residents in the Charters Towers, Flinders, Richmond, Croydon, and Etheridge Local Government Areas. Current fire conditions are perfect for bushfires to ignite and spread quickly. Under a local fire ban all open fires are prohibited and all Permits to Light Fire which have been issued in the designated areas have been suspended for the duration of the ban. The ban is expected to remain in place until 2359hrs on Saturday 9 November. Information on fire bans and the exemptions that can apply can be found on the QFD website fire.qld.gov.au/firebans.",
+      "details": "<p>Queensland Fire Department (QFD) has imposed a local fire ban for Northern Region residents. The local fire ban will be in place from 0001hrs on Friday 8 November for residents in the Charters Towers, Flinders, Richmond, Croydon, and Etheridge Local Government Areas. Current fire conditions are perfect for bushfires to ignite and spread quickly. Under a local fire ban all open fires are prohibited and all Permits to Light Fire which have been issued in the designated areas have been suspended for the duration of the ban. The ban is expected to remain in place until 2359hrs on Saturday 9 November. Information on fire bans and the exemptions that can apply can be found on the QFD website fire.qld.gov.au/firebans.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-08",
+      "start_effective_date": "2024-11-08",
+      "end_date": "2024-11-09",
+      "parks": [
+        {
+          "id": "148856",
+          "name": "Porcupine Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/porcupine-gorge"
+        },
+        {
+          "id": "148796",
+          "name": "White Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/white-mountains"
+        },
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackbraes"
+        },
+        {
+          "id": "148103",
+          "name": "Dalrymple National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dalrymple"
+        },
+        {
+          "id": "148207",
+          "name": "Moorrinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/moorrinya"
+        }
+      ]
+    },
+    {
+      "title": "Low flying aerial surveillance",
+      "alert_id": "24664",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24664",
+      "description": "The Department of Primary Industries (DPI) Biosecurity Queensland will be conducting low flying aerial surveillance from Monday 11 to Friday 15 November in Cooloola and Inskip Peninsula Recreation Areas.",
+      "details": "<p>The Department of Primary Industries (DPI) Biosecurity Queensland will be conducting low flying aerial surveillance from Monday 11 to Friday 15 November in Cooloola and Inskip Peninsula Recreation Areas.</p> <p>The aerial surveillance is a critical activity in the bitou bush eradication project.</p> <p>For further information contact the DPI call centre on 13 25 23.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-08",
+      "start_effective_date": "2024-11-11",
+      "end_date": "2024-11-15",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Private Event at Walkabout Creek Discovery Centre Events lawn -16th November 2024.",
+      "alert_id": "24665",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24665",
+      "description": "Saturday, November 16, 2024, Walkabout Creek Discovery Centre's Events Lawn is reserved for a private event. Parts of the park will be inaccessible to visitors from 2:00 pm - 10:00 pm.",
+      "details": "<p>Saturday, November 16, 2024, Walkabout Creek Discovery Centre's Events Lawn is reserved for a private event. Parts of the park will be inaccessible to visitors from 2:00 pm - 10:00 pm.</p> <ul> <li>All other park areas will remain open and accessible to the public.</li> <li>Signage and staff will be present to guide visitors and provide information on alternative routes.</li> <li>Restroom facilities near the Events Lawn will be reserved for event attendees &mdash; additional public restrooms are available throughout the park.</li> <li>Please note limited parking will be available during the event. Please follow traffic control directions for recommended alternative parking.&nbsp;</li> </ul> <p>We appreciate your understanding and cooperation during this time, and we apologise for any inconvenience this may cause.&nbsp;<br /> For any enquiries or further information, please contact the park administration office on 31643600.<br /> &nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-08",
+      "start_effective_date": "2024-11-08",
+      "end_date": "2024-11-18",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     }
