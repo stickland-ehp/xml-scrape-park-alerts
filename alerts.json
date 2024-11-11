@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2024-11-10 10:07:32"
+    "alerts_count": 165,
+    "script_run_time": "2024-11-11 10:09:08"
   },
   "alerts": [
     {
@@ -727,11 +727,11 @@
       "alert_id": "23585",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23585",
       "description": "Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:",
-      "details": "<p>Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:</p> <p><strong>Misty Mountains roads that are now open:</strong></p> <ul> <li>K-Tree Road</li> <li>Maple Creek Road&nbsp;(except for a temporary closure for roadworks from Monday 4 November to Friday 8 November 2024, dates inclusive)</li> </ul> <p><strong>Walking tracks and camping areas that are now open:</strong></p> <ul> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters Waterhole camping area to Elizabeth Grant Falls)</li> <li>Gorrell track between Gorrell trailhead (western) on K-tree Road to Downey Creek camping area</li> <li>South Johnstone camping area</li> <li>Hinson Creek camping area</li> <li>Walters Waterhole camping area</li> <li>Koolmoon Creek camping area.</li> <li>Downey Creek camping area (only accessible from the Gorrell trailhead (western) via K-tree Road).</li> </ul> <p><strong>Walking tracks and camping areas that are currently closed or partially closed:</strong></p> <ul> <li>Carter Creek camping area &ndash; full closure</li> <li>Cannabullen Creek camping area &ndash; full closure</li> <li>Cochable Creek camping area &ndash; full closure</li> <li>Cannabullen Creek track &ndash; full closure</li> <li>Gorrell track &ndash; partial closure <ul> <li>Closed between Gorrell trailhead (eastern) on Mena Creek Road to Downey Creek camping area.</li> <li>Open from the Gorrell trailhead (western) via K-tree Road to Downey Creek camping area.</li> </ul> </li> </ul> <p>Monitor park alerts for up-to-date information.</p>",
+      "details": "<p>Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:</p> <p><strong>Misty Mountains roads that are now open:</strong></p> <ul> <li>K-Tree Road</li> <li>Maple Creek Road</li> </ul> <p><strong>Walking tracks and camping areas that are now open:</strong></p> <ul> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters Waterhole camping area to Elizabeth Grant Falls)</li> <li>Gorrell track between Gorrell trailhead (western) on K-tree Road to Downey Creek camping area</li> <li>South Johnstone camping area</li> <li>Hinson Creek camping area</li> <li>Walters Waterhole camping area</li> <li>Koolmoon Creek camping area.</li> <li>Downey Creek camping area (only accessible from the Gorrell trailhead (western) via K-tree Road).</li> </ul> <p><strong>Walking tracks and camping areas that are currently closed or partially closed:</strong></p> <ul> <li>Carter Creek camping area &ndash; full closure</li> <li>Cannabullen Creek camping area &ndash; full closure</li> <li>Cochable Creek camping area &ndash; full closure</li> <li>Cannabullen Creek track &ndash; full closure</li> <li>Gorrell track &ndash; partial closure <ul> <li>Closed between Gorrell trailhead (eastern) on Mena Creek Road to Downey Creek camping area.</li> <li>Open from the Gorrell trailhead (western) via K-tree Road to Downey Creek camping area.</li> </ul> </li> </ul> <p>Monitor park alerts for up-to-date information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-31",
+      "start_date": "2024-11-11",
       "start_effective_date": "2023-12-19",
-      "end_date": "2024-11-11",
+      "end_date": "2024-11-29",
       "parks": [
         {
           "id": "151396",
@@ -3285,6 +3285,47 @@
           "id": "200319",
           "name": "Walkabout Creek Discovery Centre",
           "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Queen Mary Falls tracks - Main Range National Park",
+      "alert_id": "24666",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24666",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance to track at Queen Mary Falls - Main Range National Park (weather permitting)",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance to track at Queen Mary Falls - Main Range National Park (weather permitting)</p> <p>The Queen Mary Falls Circuit steps and track are being upgraded to address erosion and stability, improve access and enhance visitor experiences.&nbsp; Works include the realignment of the walking track and installation of new steps, handrails and signs.</p> <p>During construction:</p> <ul> <li>Queen Mary Falls Circuit track and the western side of Queen Mary Falls day use area&nbsp;will be temporarily closed.</li> <li>Access to the foot of the falls, Cliff lookout and Queen Mary Falls lookout will remain open via the Cliff Circuit track.</li> <li>Barbecue, picnic table and toilet facilities at Queen Mary Falls day use area will remain open.</li> </ul> <p>We apologise for any inconvenience and appreciate your cooperation during construction.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-11",
+      "start_effective_date": "2024-11-15",
+      "end_date": "2024-12-20",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Feral Animal Control - Curtis Island National Park, Conservation Park and State Forest",
+      "alert_id": "24667",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24667",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest, from Monday the 25th of November  Friday the 29th of November 2024",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest, from Monday the 25th of November  Friday the 29th of November 2024</p> <p>Target spieces of the program are&nbsp;feral pigs, cats, foxes and wild dogs</p> <p>Due to live firing, these areas will be closed for this period and access is prohibited.</p> <p>500 metre exclusion zone will be in force for all waters contained within the following areas which includes Black Head, Keppel Creek, Yellow Patch and Cape Capricorn. Maritime Safety Queensland will be issuing a notice to mariners before commencement of operations.</p> <p>For more information, please call Gladstone QPWS office on (07) 49716548 or send us an email at SGBR@des.qld.gov.au&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-11",
+      "start_effective_date": "2024-11-25",
+      "end_date": "2024-11-29",
+      "parks": [
+        {
+          "id": "322464",
+          "name": "Curtis Island State Forest",
+          "url": ""
+        },
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
         }
       ]
     }
