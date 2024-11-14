@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2024-11-13 10:08:50"
+    "alerts_count": 172,
+    "script_run_time": "2024-11-14 10:09:09"
   },
   "alerts": [
     {
@@ -1218,24 +1218,6 @@
       ]
     },
     {
-      "title": "Walk with caution: Mount Cook walking track, Mount Cook National Park",
-      "alert_id": "24042",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24042",
-      "description": "Following impacts of ex-tropical cyclone Jasper, areas of erosion have occurred on the Mount Cook walking track. Caution should be taken. For your safety it is recommended that you are an experienced bushwalker and are wearing sturdy footwear. Walk with caution at all times, especially along eroded sections of the track.",
-      "details": "<p>Following impacts of ex-tropical cyclone Jasper, areas of erosion have occurred on the Mount Cook walking track. Caution should be taken. For your safety it is recommended that you are an experienced bushwalker and are wearing sturdy footwear. Walk with caution at all times, especially along eroded sections of the track.</p>",
-      "category": "Other",
-      "start_date": "2024-10-31",
-      "start_effective_date": "2024-05-09",
-      "end_date": "2024-11-30",
-      "parks": [
-        {
-          "id": "148616",
-          "name": "Mount Cook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
-        }
-      ]
-    },
-    {
       "title": "On water signage in Great Sandy Marine Park",
       "alert_id": "24066",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24066",
@@ -1800,12 +1782,12 @@
       "title": "Daisy Hill Koala Centre temporary closure",
       "alert_id": "24468",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24468",
-      "description": "The Daisy Hill Koala Centre will be closed from Monday 30 September until Friday 15 November 2024.",
-      "details": "<p>The Daisy Hill Koala Centre will be closed from Monday 30 September until Friday 15 November 2024.</p> <p>A significant construction project at the Daisy Hill Koala Centre means that the centre will be closed to the public. This project will not impact access to the day use area or other park facilities.&nbsp;</p>",
+      "description": "The Daisy Hill Koala Centre will be closed from Monday 30 September until Monday 18 November 2024.",
+      "details": "<p>The Daisy Hill Koala Centre will be closed from Monday 30 September until Monday 18 November 2024.</p> <p>A significant construction project at the Daisy Hill Koala Centre means that the centre will be closed to the public. This project will not impact access to the day use area or other park facilities.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-29",
+      "start_date": "2024-11-14",
       "start_effective_date": "2024-09-30",
-      "end_date": "2024-11-15",
+      "end_date": "2024-11-18",
       "parks": [
         {
           "id": "148560",
@@ -3398,6 +3380,88 @@
           "id": "323001",
           "name": "Ella Bay National Park",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Black Mountain Road, Kuranda National Park",
+      "alert_id": "24674",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24674",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities along sections of Black Mountain Road in Kuranda National Park on Thursday 14 November and Friday 15 November 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities along sections of Black Mountain Road in Kuranda National Park on Thursday 14 November and Friday 15 November 2024.</p> <p>This burn is being carried out for fuel hazard reduction and conservation management purposes.&nbsp;</p> <p>Visitors are advised that smoke may be seen in the viciniity.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-14",
+      "start_effective_date": "2024-11-14",
+      "end_date": "2024-11-15",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Temporary overnight partial boardwalk closure: Baral Marrjanga walking track, Mossman Gorge, Daintree National Park (CYPAL)",
+      "alert_id": "24676",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24676",
+      "description": "Visitors are advised that sections of the elevated boardwalk on the Baral Marrjanga walking track at Mossman Gorge will be closed overnight between 6pm and 6am on Wednesday 20 November and Thursday 21 November 2024. The boardwalk will reopen at 6am Friday 22 November 2024",
+      "details": "<p>Visitors are advised that sections of the elevated boardwalk on the Baral Marrjanga walking track at Mossman Gorge will be closed overnight between 6pm and 6am on Wednesday 20 November and Thursday 21 November 2024. The boardwalk will reopen at 6am Friday 22 November 2024</p> <p>The boardwalk will reopen at 6am Friday 22 November 2024</p> <p>During the closure times, a diversion will be in place through the lower river track section, however please note there will be no wheelchair access.</p> <p>Stay up to date with park alerts.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-14",
+      "start_effective_date": "2024-11-20",
+      "end_date": "2024-11-22",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Feral animal control program involving ground shooting: Hook Island, Whitsunday Islands National Park",
+      "alert_id": "24678",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24678",
+      "description": "A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Monday 25th November to Friday 29th November 2024 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.",
+      "details": "<p>A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Monday 25th November to Friday 29th November 2024 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.</p> <p><a href=\"https://www.publications.qld.gov.au/dataset/7e50bf4d-4bf7-4d0e-861c-8dd3756317ec/resource/e16da7d2-16e8-47a4-9395-1aa64ed19354/download/advice-feral-animal-control-hook-island.pdf\">Maritime Exclusion Zone - Southern Hook Island</a></p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-14",
+      "start_effective_date": "2024-11-25",
+      "end_date": "2024-11-29",
+      "parks": [
+        {
+          "id": "152875",
+          "name": "Whitsunday Ngaro Sea Trail",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
+        },
+        {
+          "id": "149365",
+          "name": "Whitsunday national park islands",
+          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
+        },
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Water outage",
+      "alert_id": "24679",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24679",
+      "description": "Due to plumbing equipment maintenance, water is unavailable from taps located at some of the toilet facilities within the Inskip Peninsula camping area.",
+      "details": "<p>Due to plumbing equipment maintenance, water is unavailable from taps located at some of the toilet facilities within the Inskip Peninsula camping area.</p> <p>As a result, the following toilet facilities are temporarily closed Thursday 14 to Friday 15 November 2024:</p> <ul> <li>M.V. Sarawak 1 toilet</li> <li>M.V. Sarawak 2 toilet</li> </ul> <p>Alternate facilities are available at M.V. Sarawak 3 toilet.</p> <p>Visitors to M.V. Sarawak camping area should bring their own water containers and drinking water. Treated water is available at the council service facility located on Clarkson Drive just north of Rainbow Beach.</p> <p>QPWS apologises for the inconvenience and appreciates your understanding while we work on maintaining the facilities.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-14",
+      "start_effective_date": "2024-11-14",
+      "end_date": "2024-11-15",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     }
