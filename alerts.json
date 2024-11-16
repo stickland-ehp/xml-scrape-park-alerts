@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2024-11-15 10:09:14"
+    "alerts_count": 164,
+    "script_run_time": "2024-11-16 10:08:05"
   },
   "alerts": [
     {
@@ -1779,39 +1779,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Herbert River Gorge, Wet Tropics Great Walk, Girringun National Park",
-      "alert_id": "24470",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24470",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Thursday 12 September to Friday 15 November 2024 (dates inclusive) in the vicinity of the Herbert River Gorge, between Henrietta Creek pick-up point and Blanket Creek within the Wet Tropics Great Walk area of Girringun National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Thursday 12 September to Friday 15 November 2024 (dates inclusive) in the vicinity of the Herbert River Gorge, between Henrietta Creek pick-up point and Blanket Creek within the Wet Tropics Great Walk area of Girringun National Park.</p> <p>Visitors planning to walk should contact QPWS office on 07 4777 2822 for more information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-31",
-      "start_effective_date": "2024-09-12",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "158157",
-          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
-        },
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "151383",
-          "name": "Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
-        }
-      ]
-    },
-    {
       "title": "Limited parking at Cedar Creek",
       "alert_id": "24482",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24482",
@@ -2163,39 +2130,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Daintree National Park, Mount Lewis National Park, Mount Windsor National Park and Ngalba-Bulal National Park",
-      "alert_id": "24546",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24546",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Daintree National Park, Mount Lewis National Park , Mount Windsor National Park and Ngalba-Bulal National Park from Thursday 26 September 2024 onwards. Aircraft will be operating in the area during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Daintree National Park, Mount Lewis National Park , Mount Windsor National Park and Ngalba-Bulal National Park from Thursday 26 September 2024 onwards. Aircraft will be operating in the area during this period.</p> <p>The sections included in this planned burning activity are:</p> <ul> <li>Daintree National Park (Adeline Creek section, Upper Daintree catchments and Bloomfield track)</li> <li>Mount Lewis National Park (Mount Spurgeon road and Mcleod River section)</li> <li>Mount Windsor National Park (Mount Windsor access road)</li> <li>Ngalba-Bulal National Park (Granite Creek)</li> </ul> <p>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition.</p> <p>Burns will continue in the area as weather and seasonal conditions allow over coming weeks&nbsp;and months.</p> <p>QPWS will monitor fire activity until it is out.<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-25",
-      "start_effective_date": "2024-09-26",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "148231",
-          "name": "Mangkalba (Cedar Bay), Ngalba Bulal National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mangkalba"
-        },
-        {
-          "id": "322776",
-          "name": "Mount Windsor National Park",
-          "url": ""
-        },
-        {
-          "id": "148484",
-          "name": "Mount Lewis National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-lewis"
-        },
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Temporary camping area and surrounds closure: Twelve Mile Lagoon, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "24551",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24551",
@@ -2269,29 +2203,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Severe weather damage - Advisory notice - Warrie circuit and the Gold Coast Hinterland Great Walks (GCHGW).",
-      "alert_id": "24559",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24559",
-      "description": "As a result of severe weather damage, there are multiple fallen trees on the Warrie circuit and the Springbrook section of the GCHGW. QPWS advise visitors to allow additional time and take extra caution when walking either of these tracks.",
-      "details": "<p>As a result of severe weather damage, there are multiple fallen trees on the Warrie circuit and the Springbrook section of the GCHGW. QPWS advise visitors to allow additional time and take extra caution when walking either of these tracks.</p> <p>QPWS rangers are managing the situation and have damage repair activities in progress.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts are regularly updated regarding condition on park.</p>",
-      "category": "Other",
-      "start_date": "2024-10-28",
-      "start_effective_date": "2024-10-01",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
         }
       ]
     },
@@ -3125,34 +3036,6 @@
       ]
     },
     {
-      "title": "Low flying aerial surveillance",
-      "alert_id": "24664",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24664",
-      "description": "The Department of Primary Industries (DPI) Biosecurity Queensland will be conducting low flying aerial surveillance from Monday 11 to Friday 15 November in Cooloola and Inskip Peninsula Recreation Areas.",
-      "details": "<p>The Department of Primary Industries (DPI) Biosecurity Queensland will be conducting low flying aerial surveillance from Monday 11 to Friday 15 November in Cooloola and Inskip Peninsula Recreation Areas.</p> <p>The aerial surveillance is a critical activity in the bitou bush eradication project.</p> <p>For further information contact the DPI call centre on 13 25 23.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-08",
-      "start_effective_date": "2024-11-11",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Private Event at Walkabout Creek Discovery Centre Events lawn -16th November 2024.",
       "alert_id": "24665",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24665",
@@ -3212,24 +3095,6 @@
       ]
     },
     {
-      "title": "Wet weather  Cedar Creek rock pools closed",
-      "alert_id": "24668",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24668",
-      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-12",
-      "start_effective_date": "2024-11-12",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "148199",
-          "name": "Tamborine National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to bushfire: Bicton Hill walking track, Clump Mountain National Park",
       "alert_id": "24669",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24669",
@@ -3244,24 +3109,6 @@
           "id": "148828",
           "name": "Clump Mountain National Park",
           "url": "https://parks.desi.qld.gov.au/parks/clump-mountain"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to planned burning activities: Graham Range camping area, Russell River National Park",
-      "alert_id": "24670",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24670",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Russell River National Park adjacent to Graham Range camping area from Wednesday 13 November until Friday 15 November 2024 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Russell River National Park adjacent to Graham Range camping area from Wednesday 13 November until Friday 15 November 2024 (weather permitting).</p> <p>Grahm Range camping area will be closed for this period.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-11-12",
-      "start_effective_date": "2024-11-13",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "148880",
-          "name": "Russell River National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/russell-river"
         }
       ]
     },
@@ -3298,24 +3145,6 @@
           "id": "323001",
           "name": "Ella Bay National Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Black Mountain Road, Kuranda National Park",
-      "alert_id": "24674",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24674",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities along sections of Black Mountain Road in Kuranda National Park on Thursday 14 November and Friday 15 November 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities along sections of Black Mountain Road in Kuranda National Park on Thursday 14 November and Friday 15 November 2024.</p> <p>This burn is being carried out for fuel hazard reduction and conservation management purposes.&nbsp;</p> <p>Visitors are advised that smoke may be seen in the viciniity.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-14",
-      "start_effective_date": "2024-11-14",
-      "end_date": "2024-11-15",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
         }
       ]
     },
