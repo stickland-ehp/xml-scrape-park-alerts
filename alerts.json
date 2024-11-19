@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-11-18 10:10:01"
+    "alerts_count": 175,
+    "script_run_time": "2024-11-19 10:09:31"
   },
   "alerts": [
     {
@@ -1761,24 +1761,6 @@
       ]
     },
     {
-      "title": "Daisy Hill Koala Centre temporary closure",
-      "alert_id": "24468",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24468",
-      "description": "The Daisy Hill Koala Centre will be closed from Monday 30 September until Monday 18 November 2024.",
-      "details": "<p>The Daisy Hill Koala Centre will be closed from Monday 30 September until Monday 18 November 2024.</p> <p>A significant construction project at the Daisy Hill Koala Centre means that the centre will be closed to the public. This project will not impact access to the day use area or other park facilities.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-14",
-      "start_effective_date": "2024-09-30",
-      "end_date": "2024-11-18",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "Limited parking at Cedar Creek",
       "alert_id": "24482",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24482",
@@ -3036,24 +3018,6 @@
       ]
     },
     {
-      "title": "Private Event at Walkabout Creek Discovery Centre Events lawn -16th November 2024.",
-      "alert_id": "24665",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24665",
-      "description": "Saturday, November 16, 2024, Walkabout Creek Discovery Centre's Events Lawn is reserved for a private event. Parts of the park will be inaccessible to visitors from 2:00 pm - 10:00 pm.",
-      "details": "<p>Saturday, November 16, 2024, Walkabout Creek Discovery Centre's Events Lawn is reserved for a private event. Parts of the park will be inaccessible to visitors from 2:00 pm - 10:00 pm.</p> <ul> <li>All other park areas will remain open and accessible to the public.</li> <li>Signage and staff will be present to guide visitors and provide information on alternative routes.</li> <li>Restroom facilities near the Events Lawn will be reserved for event attendees &mdash; additional public restrooms are available throughout the park.</li> <li>Please note limited parking will be available during the event. Please follow traffic control directions for recommended alternative parking.&nbsp;</li> </ul> <p>We appreciate your understanding and cooperation during this time, and we apologise for any inconvenience this may cause.&nbsp;<br /> For any enquiries or further information, please contact the park administration office on 31643600.<br /> &nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-08",
-      "start_effective_date": "2024-11-08",
-      "end_date": "2024-11-18",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Queen Mary Falls tracks - Main Range National Park",
       "alert_id": "24666",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24666",
@@ -3159,15 +3123,15 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Palmer Goldfield Resources Reserve",
+      "title": "Wet season closure: Palmer Goldfield Resources Reserve",
       "alert_id": "24680",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24680",
-      "description": "Palmer Goldfield Resources Reserve will close for the wet season on 19 November 2024 as roads into and on the park become impassable after heavy rain. The park is anticipated to reopen 1 April 2025, subject to road and weather conditions.",
-      "details": "<p>Palmer Goldfield Resources Reserve will close for the wet season on 19 November 2024 as roads into and on the park become impassable after heavy rain. The park is anticipated to reopen 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-15",
+      "description": "Palmer Goldfield Resources Reserve is closed for the wet season.",
+      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season.</p> <p>It is anticipated to reopen Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-19",
       "start_effective_date": "2024-11-15",
-      "end_date": "2024-11-19",
+      "end_date": "2025-03-31",
       "parks": [
         {
           "id": "149489",
@@ -3303,6 +3267,34 @@
       ]
     },
     {
+      "title": "Safety advice: crocodile at Bluemetal Creek, Bramston Beach",
+      "alert_id": "24689",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24689",
+      "description": "Wildlife Officers are continuing to target a large crocodile for removal at Bluemetal Creek, Bramston Beach. The crocodile was declared a problem crocodile following reports of concerning behaviour that presented a risk to the public.",
+      "details": "<p>Wildlife Officers are continuing to target a large crocodile for removal at Bluemetal Creek, Bramston Beach. The crocodile was declared a problem crocodile following reports of concerning behaviour that presented a risk to the public.</p> <p>The public should be aware this crocodile has recently lunged at people fishing and occasionally moves out of the creek and then traverses the coastal area.&nbsp;<br /> &nbsp;<br /> People are reminded that Bramston Beach is within croc country and are advised to<a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\"> Be-Crocwise</a> and remain vigilant at all times.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-18",
+      "end_date": "2024-11-25",
+      "parks": [
+        {
+          "id": "149501",
+          "name": "Eubenangee Swamp National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eubenangee-swamp"
+        },
+        {
+          "id": "148880",
+          "name": "Russell River National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/russell-river"
+        },
+        {
+          "id": "323001",
+          "name": "Ella Bay National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
       "title": "Temporary Mountain Bike Trail Maintenance Closures",
       "alert_id": "24690",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24690",
@@ -3317,6 +3309,193 @@
           "id": "148560",
           "name": "Daisy Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Enoggera Reservoir is closed to paddle craft access from Monday, 18th November 2024, until further notice.",
+      "alert_id": "24691",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24691",
+      "description": "This safety measure is in place due to the recent rainfall in the area, leading to water overflowing at the spillway.",
+      "details": "<p>This safety measure is in place due to the recent rainfall in the area, leading to water overflowing at the spillway.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Swimming Area will remain open until further notice.</p> <p>Thank you for your understanding.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-18",
+      "end_date": "2024-11-25",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Wongi Waterholes campsite",
+      "alert_id": "24692",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24692",
+      "description": "The Wongi Waterholes campground will be temporarily closed while maintenance is being carried out on the amenities block.",
+      "details": "<p>The Wongi Waterholes campground will be temporarily closed while maintenance is being carried out on the amenities block.</p> <p>This closure will occur from the 19/11/24 until 23/11/24.in order to ensure that the work can proceed safely and with minimal inconvenience for park visitors.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2024-11-23",
+      "parks": [
+        {
+          "id": "148023",
+          "name": "Wongi State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/wongi"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Halifax Bay Wetlands National Park",
+      "alert_id": "24693",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24693",
+      "description": "Halifax Bay Wetlands National Park will close for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025.",
+      "details": "<p>Halifax Bay Wetlands National Park will close for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148512",
+          "name": "Halifax Bay Wetlands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Princess Hills section, Girringun National Park",
+      "alert_id": "24694",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24694",
+      "description": "Princess Hills section of Girringun National Park will close for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.",
+      "details": "<p>Princess Hills section of Girringun National Park will close for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-princess-hills"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Wairuna section, Girringun National Park",
+      "alert_id": "24695",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24695",
+      "description": "Wairuna section of Girringun National Park will close for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.",
+      "details": "<p>Wairuna section of Girringun National Park will close for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
+        }
+      ]
+    },
+    {
+      "title": "Permanent closure of Lonesome camping area, Expedition National Park",
+      "alert_id": "24696",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24696",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) have made the decision to permanently close the Lonesome camping area in Expedition National Park from 1 December 2024.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) have made the decision to permanently close the Lonesome camping area in Expedition National Park from 1 December 2024.</p> <p>Recently the land where the camping area is located was revoked for the benefit of resource access and is no longer managed by QPWS.</p> <p><strong>What does this mean for park users?</strong></p> <p>Visitors can still enjoy the existing recreational opportunities in other parts of the park, including access to picnic facilities at the Lonesome lookout.</p> <p>Remote camping opportunities are available in other sections of Expedition National Park and nearby park locations. Check out the department&#39;s website for more details.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148508",
+          "name": "Expedition National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/expedition"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Wet Tropics Great Walk, Girringun National Park",
+      "alert_id": "24697",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24697",
+      "description": "The Wet Tropics Great Walk and the associated camp sites listed below will close for the wet season on Sunday 1 December 2024. They are anticipated to reopen Tuesday 1 April 2025, subject to track and weather conditions.",
+      "details": "<p>The Wet Tropics Great Walk and the associated camp sites listed below will close for the wet season on Sunday 1 December 2024. They are anticipated to reopen Tuesday 1 April 2025, subject to track and weather conditions.</p> <p>&bull;&nbsp;&nbsp; &nbsp;Pack Trail walkers camp<br /> &bull;&nbsp;&nbsp; &nbsp;Yamanie camping area&nbsp;<br /> &bull;&nbsp;&nbsp; &nbsp;Stony Creek walkers camp<br /> &bull;&nbsp;&nbsp; &nbsp;Blanket Creek walkers camp<br /> &bull;&nbsp;&nbsp; &nbsp;Herbert River walkers camp</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Mariala National Park",
+      "alert_id": "24698",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24698",
+      "description": "As a result of wet weather, Mariala National Park is closed until declared safe.",
+      "details": "<p>As a result of wet weather, Mariala National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-19",
+      "end_date": "2024-11-29",
+      "parks": [
+        {
+          "id": "148039",
+          "name": "Mariala National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mariala"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Mount Moffatt National Park",
+      "alert_id": "24699",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24699",
+      "description": "As a result of wet weather, Mount Moffatt is closed until declared safe.",
+      "details": "<p>As a result of wet weather, Mount Moffatt is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-19",
+      "start_effective_date": "2024-11-18",
+      "end_date": "2024-11-21",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
         }
       ]
     }
