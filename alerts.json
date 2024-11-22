@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-11-21 10:09:14"
+    "alerts_count": 175,
+    "script_run_time": "2024-11-22 10:09:21"
   },
   "alerts": [
     {
@@ -3137,34 +3137,6 @@
       ]
     },
     {
-      "title": "Safety advice: crocodile at Bluemetal Creek, Bramston Beach",
-      "alert_id": "24689",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24689",
-      "description": "Wildlife Officers are continuing to target a large crocodile for removal at Bluemetal Creek, Bramston Beach. The crocodile was declared a problem crocodile following reports of concerning behaviour that presented a risk to the public.",
-      "details": "<p>Wildlife Officers are continuing to target a large crocodile for removal at Bluemetal Creek, Bramston Beach. The crocodile was declared a problem crocodile following reports of concerning behaviour that presented a risk to the public.</p> <p>The public should be aware this crocodile has recently lunged at people fishing and occasionally moves out of the creek and then traverses the coastal area.&nbsp;<br /> &nbsp;<br /> People are reminded that Bramston Beach is within croc country and are advised to<a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\"> Be-Crocwise</a> and remain vigilant at all times.&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-19",
-      "start_effective_date": "2024-11-18",
-      "end_date": "2024-11-25",
-      "parks": [
-        {
-          "id": "149501",
-          "name": "Eubenangee Swamp National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/eubenangee-swamp"
-        },
-        {
-          "id": "148880",
-          "name": "Russell River National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/russell-river"
-        },
-        {
-          "id": "323001",
-          "name": "Ella Bay National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Temporary Mountain Bike Trail Maintenance Closures",
       "alert_id": "24690",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24690",
@@ -3352,24 +3324,6 @@
       ]
     },
     {
-      "title": "Wet weather access Mount Moffatt National Park",
-      "alert_id": "24699",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24699",
-      "description": "As a result of wet weather, Mount Moffatt is closed until declared safe.",
-      "details": "<p>As a result of wet weather, Mount Moffatt is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-19",
-      "start_effective_date": "2024-11-18",
-      "end_date": "2024-11-21",
-      "parks": [
-        {
-          "id": "151343",
-          "name": "Mount Moffatt, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
-        }
-      ]
-    },
-    {
       "title": "Mountain Bike Trail Closure Samford and Bunyaville Conservation Parks",
       "alert_id": "24700",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24700",
@@ -3429,20 +3383,79 @@
       ]
     },
     {
-      "title": "Temporary closure due to maintenance: Worlds downhill track, Smithfield bike park, Smithfield Conservation Park.",
-      "alert_id": "24703",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24703",
-      "description": "Queensland Parks and Wildlife Service will be undertaking weed management activities on the Worlds downhill track at Smithfield Mountain bike park on Thursday 21 November 2024.",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking weed management activities on the Worlds downhill track at Smithfield Mountain bike park on Thursday 21 November 2024.</p> <p>The track will be closed to allow rangers to safely undertake this work.</p> <p>&nbsp;</p> <p>Please adhere to all safety signage.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-21",
-      "start_effective_date": "2024-11-21",
-      "end_date": "2024-11-21",
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24705",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24705",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "category": "Other",
+      "start_date": "2024-11-22",
+      "start_effective_date": "2024-11-22",
+      "end_date": "2024-11-24",
       "parks": [
         {
-          "id": "148424",
-          "name": "Smithfield Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/smithfield"
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather  Oceanview track closed",
+      "alert_id": "24706",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24706",
+      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>&nbsp;</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>The Rainforest circuit remains open for through walks.&nbsp;</p> <p>&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-22",
+      "start_effective_date": "2024-11-22",
+      "end_date": "2024-11-25",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather  Cedar Creek rock pools closed",
+      "alert_id": "24707",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24707",
+      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-22",
+      "start_effective_date": "2024-11-22",
+      "end_date": "2024-11-25",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Speed limit reduction - Teewah Beach camping area",
+      "alert_id": "24708",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24708",
+      "description": "The speed limit on the 14km section of beach adjacent to Teewah Beach camping area has been reduced to 40km/h.",
+      "details": "<p>The speed limit on the 14km section of beach adjacent to Teewah Beach camping area has been reduced to 40km/h.</p> <p>Gympie Regional Council Traffic and Road Safety Committee implemented the speed limit reduction to improve road safety, and maintain consistency with the 40km/h speed limit at Teewah Village beachfront.</p> <p>Gympie Regional Council have installed 40km/h speed signs, and speed limits are now enforceable. Queensland road rules apply to all beaches in Cooloola Recreation Area where vehicles are permitted. QPWS Rangers and the Queensland Police Service patrol this area regularly.</p> <p>There is no change to the 80km/h speed limit on other sections of Teewah Beach, unless otherwise signed.</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-22",
+      "start_effective_date": "2024-11-22",
+      "end_date": "2025-11-22",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
         }
       ]
     }
