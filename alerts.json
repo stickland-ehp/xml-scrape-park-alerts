@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2024-11-23 10:08:57"
+    "alerts_count": 169,
+    "script_run_time": "2024-11-24 10:08:04"
   },
   "alerts": [
     {
@@ -3074,24 +3074,6 @@
           "id": "200319",
           "name": "Walkabout Creek Discovery Centre",
           "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure of Wongi Waterholes campsite",
-      "alert_id": "24692",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24692",
-      "description": "The Wongi Waterholes campground will be temporarily closed while maintenance is being carried out on the amenities block.",
-      "details": "<p>The Wongi Waterholes campground will be temporarily closed while maintenance is being carried out on the amenities block.</p> <p>This closure will occur from the 19/11/24 until 23/11/24.in order to ensure that the work can proceed safely and with minimal inconvenience for park visitors.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-19",
-      "start_effective_date": "2024-11-19",
-      "end_date": "2024-11-23",
-      "parks": [
-        {
-          "id": "148023",
-          "name": "Wongi State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/wongi"
         }
       ]
     },
