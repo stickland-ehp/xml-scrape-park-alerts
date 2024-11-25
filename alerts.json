@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2024-11-24 10:08:04"
+    "alerts_count": 167,
+    "script_run_time": "2024-11-25 10:10:08"
   },
   "alerts": [
     {
@@ -2480,24 +2480,6 @@
       ]
     },
     {
-      "title": "Temporary partial closure of boardwalk: section of Curtain Fig boardwalk, Curtain Fig National Park",
-      "alert_id": "24616",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24616",
-      "description": "Due to a large hazardous limb, a section of the Curtain Fig boardwalk is closed from Thursday 24 October to Sunday 24 November 2024 (dates inclusive).",
-      "details": "<p>Due to a large hazardous limb, a section of the Curtain Fig boardwalk is closed from Thursday 24 October to Sunday 24 November 2024 (dates inclusive).</p> <p>Access to view the fig remains possible from either end of the boardwalk, but the walk cannot be completed as a full circuit. The section has been barricaded off and remains closed until the limb is safely removed.</p> <p>Visitors are asked to adhere to all safety signs and directions from local rangers and not to enter the barricaded area.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-24",
-      "start_effective_date": "2024-10-24",
-      "end_date": "2024-11-24",
-      "parks": [
-        {
-          "id": "148584",
-          "name": "Curtain Fig National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtain-fig"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Errk Oykangand National Park (CYPAL)",
       "alert_id": "24617",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24617",
@@ -2743,34 +2725,6 @@
           "id": "147963",
           "name": "Alwal National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/alwal"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Gadgarra National Park",
-      "alert_id": "24650",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24650",
-      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burning in Gadgarra National Park from Thursday 07 November 2024.",
-      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burning in Gadgarra National Park from Thursday 07 November 2024.</p> <ul> <li>Burning will be conducted between Butchers and Toohey Creek.</li> <li>Access to Winden falls and Bartle Frere will not be impacted by these operations.</li> <li>Most fire activity is expected to self-extinguish each evening, However some fire may remain active and smoke visible for 2 &ndash; 3 days following ignition.</li> <li>QPWS will monitor fire activity until it is out.</li> </ul> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-04",
-      "start_effective_date": "2024-11-07",
-      "end_date": "2024-11-24",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "148428",
-          "name": "Bartle Frere trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bartle-frere"
-        },
-        {
-          "id": "322678",
-          "name": "Gadgarra National Park",
-          "url": ""
         }
       ]
     },
@@ -3066,9 +3020,9 @@
       "description": "This safety measure is in place due to the recent rainfall in the area, leading to water overflowing at the spillway.",
       "details": "<p>This safety measure is in place due to the recent rainfall in the area, leading to water overflowing at the spillway.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Swimming Area will remain open until further notice.</p> <p>Thank you for your understanding.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-19",
+      "start_date": "2024-11-25",
       "start_effective_date": "2024-11-18",
-      "end_date": "2024-11-25",
+      "end_date": "2024-12-02",
       "parks": [
         {
           "id": "200319",
@@ -3234,24 +3188,6 @@
       ]
     },
     {
-      "title": "Mountain Bike Trail Closure Daisy Hill Conservation Park",
-      "alert_id": "24701",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24701",
-      "description": "As a result of high rainfall and the current forecast, all mountain bike trails within Daisy Hill Conservation Park will be closed from 20/11/24 to 25/11/24 to avoid trail damage.",
-      "details": "<p>As a result of high rainfall and the current forecast, all mountain bike trails within Daisy Hill Conservation Park will be closed from 20/11/24 to 25/11/24 to avoid trail damage.</p> <p>Trails will be reopened when conditions are deemed appropriate. Riders can access fire breaks and should proceed with caution due to changed conditions caused by wet weather. QPWS asks riders to observe all signage and directions from rangers.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-20",
-      "start_effective_date": "2024-11-20",
-      "end_date": "2024-11-24",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "MTB Trail 7 - Steps - Temporary Closure",
       "alert_id": "24702",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24702",
@@ -3270,61 +3206,20 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24705",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24705",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2024-11-22",
-      "start_effective_date": "2024-11-22",
-      "end_date": "2024-11-24",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather  Oceanview track closed",
-      "alert_id": "24706",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24706",
-      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>&nbsp;</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>The Rainforest circuit remains open for through walks.&nbsp;</p> <p>&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "title": "Daisy Hill Koala Centre temporary closure",
+      "alert_id": "24704",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24704",
+      "description": "The Daisy Hill Koala Centre will be closed for maintenance on Monday 25 November and Tuesday 26 November 2024.",
+      "details": "<p>The Daisy Hill Koala Centre will be closed for maintenance on Monday 25 November and Tuesday 26 November 2024.</p> <p>This closure will not impact access to the day use area, walkways and trails surrounding the visitor centre.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-22",
-      "start_effective_date": "2024-11-22",
-      "end_date": "2024-11-25",
+      "start_date": "2024-11-25",
+      "start_effective_date": "2024-11-25",
+      "end_date": "2024-11-26",
       "parks": [
         {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather  Cedar Creek rock pools closed",
-      "alert_id": "24707",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24707",
-      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-22",
-      "start_effective_date": "2024-11-22",
-      "end_date": "2024-11-25",
-      "parks": [
-        {
-          "id": "148199",
-          "name": "Tamborine National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
         }
       ]
     },
@@ -3343,6 +3238,60 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Happy Valley grid maintenance - temporary road closure",
+      "alert_id": "24709",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24709",
+      "description": "Fence and grid maintenance will be undertaken at Happy Valley on 1 December 2024.",
+      "details": "<p>Fence and grid maintenance will be undertaken at Happy Valley on 1 December 2024.</p> <p>The Eastern beach entrance road access to/from Happy Valley Township will be closed between 07:00 and 12:00 - access to Happy Valley Township will be via the high tide access road from Yidney Rocks only.</p> <p>Your safety is our concern, but your responsibility.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-25",
+      "start_effective_date": "2024-12-01",
+      "end_date": "2024-12-01",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Recent crocodile sighting Flinders Island camping area",
+      "alert_id": "24710",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24710",
+      "description": "A crocodile has been recently sighted around the beach at the camping area on Flinders Island. Be Crocwise in Croc Country. Report any crocodile sightings using the QWildlife App or call 1300 130 372.",
+      "details": "<p>A crocodile has been recently sighted around the beach at the camping area on Flinders Island. Be Crocwise in Croc Country. Report any crocodile sightings using the QWildlife App or call 1300 130 372.</p> <p>Camp well back from the waters edges and limited your time at the water&#39;s edge. Avoid using the same spot repeatedly as crocodiles recognise repeated behaviours. Learn more at https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise</p>",
+      "category": "Other",
+      "start_date": "2024-11-25",
+      "start_effective_date": "2024-11-25",
+      "end_date": "2024-12-31",
+      "parks": [
+        {
+          "id": "149029",
+          "name": "Flinders Group National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/flinders-group"
+        }
+      ]
+    },
+    {
+      "title": "Daisy Hill Conservation Park Mountain Bike Trails - Partial Closure",
+      "alert_id": "24711",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24711",
+      "description": "Contractors will be conducting trail drainage works, berm repairs, and vegetation management on Flying Cloud and Jim's Trail, between 25/11/2024 and 2/12/2024. These trails will be closed to the public during this time. All other mountain bike trails in Daisy Hill Conservation Park remain open.",
+      "details": "<p>Contractors will be conducting trail drainage works, berm repairs, and vegetation management on Flying Cloud and Jim's Trail, between 25/11/2024 and 2/12/2024. These trails will be closed to the public during this time. All other mountain bike trails in Daisy Hill Conservation Park remain open.</p> <p>This maintenance work will improve rider safety, and ensure the integrity and longevity of the trails.&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-25",
+      "start_effective_date": "2024-11-25",
+      "end_date": "2024-12-02",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
         }
       ]
     }
