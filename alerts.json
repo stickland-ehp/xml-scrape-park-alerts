@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2024-11-25 10:10:08"
+    "alerts_count": 171,
+    "script_run_time": "2024-11-26 10:09:38"
   },
   "alerts": [
     {
@@ -2015,15 +2015,15 @@
       ]
     },
     {
-      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Kauri Creek camping area, Danbulla National Park.",
+      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Downfall Creek, Kauri Creek and Fong On Bay camping areas, Danbulla National Park.",
       "alert_id": "24514",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
-      "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Kauri Creek camping area. The camping area is heavily booked from Friday 20 September 2024 to Sunday 22 September 2024, and space usually available for camping is currently underwater.",
-      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Kauri Creek camping area. The camping area is heavily booked from Friday 20 September 2024 to Sunday 22 September 2024, and space usually available for camping is currently underwater.</p> <p>If you choose to continue with your camping booking, we ask that you are respectful of the limited space and of other campers.</p> <p>In particular,&nbsp;<strong>please do not put up day-use gazebos</strong>.&nbsp;</p> <p>Should you wish to camp with more space, please consider changing your booking to Fong-On Bay camping area.</p> <p>If you are no longer planning to camp at this time, please cancel or modify your booking.</p> <p>Campers with bookings will receive an email with instructions on how to seek a refund.</p>",
+      "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.",
+      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.</p>",
       "category": "Announcement",
-      "start_date": "2024-09-17",
+      "start_date": "2024-11-26",
       "start_effective_date": "2024-09-17",
-      "end_date": "2024-12-16",
+      "end_date": "2025-01-31",
       "parks": [
         {
           "id": "148055",
@@ -2134,9 +2134,9 @@
       "description": "As a result of severe weather damage, there are multiple fallen trees on the Albert River circuit. The majority of the fallen trees are between the second turn off on the Border track and Echo Point. QPWS advise visitors to allow additional time and take extra caution when walking the Albert River circuit.",
       "details": "<p>As a result of severe weather damage, there are multiple fallen trees on the Albert River circuit. The majority of the fallen trees are between the second turn off on the Border track and Echo Point. QPWS advise visitors to allow additional time and take extra caution when walking the Albert River circuit.</p> <p>QPWS rangers are managing the situation and have damage repair activities in progress.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Park Alerts are regularly updated regarding condition on park.</p>",
       "category": "Other",
-      "start_date": "2024-10-28",
+      "start_date": "2024-11-26",
       "start_effective_date": "2024-10-01",
-      "end_date": "2024-11-29",
+      "end_date": "2025-02-14",
       "parks": [
         {
           "id": "148271",
@@ -2519,12 +2519,12 @@
       "title": "Cathu Cauley Road Works",
       "alert_id": "24620",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24620",
-      "description": "Works will be undertaken on the Cathu Cauley Road to repair road infrastructure. A stop/go system will be in place for local traffic for the duration of works. Visitors to Cathu State Forest must obey all signage. Please monitor Park Alerts for updates .",
-      "details": "<p>Works will be undertaken on the Cathu Cauley Road to repair road infrastructure. A stop/go system will be in place for local traffic for the duration of works. Visitors to Cathu State Forest must obey all signage. Please monitor Park Alerts for updates .</p>",
+      "description": "Works are currently being undertaken on the Cathu Cauley Road to repair road infrastructure.",
+      "details": "<p>Works are currently being undertaken on the Cathu Cauley Road to repair road infrastructure.</p> <p>Traffic control and appropriate signage will be in place for the duration of the works. Visitors to Cathu State Forest are asked to obey all signage.</p> <p>Please monitor Park Alerts for updates .</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-10-25",
+      "start_date": "2024-11-26",
       "start_effective_date": "2024-10-28",
-      "end_date": "2024-11-25",
+      "end_date": "2024-12-24",
       "parks": [
         {
           "id": "148027",
@@ -3165,29 +3165,6 @@
       ]
     },
     {
-      "title": "Mountain Bike Trail Closure Samford and Bunyaville Conservation Parks",
-      "alert_id": "24700",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24700",
-      "description": "As a result of high accumulated rainfall and the current forecast, all mountain bike trails within Samford and Bunyaville Conservation Parks are temporarily closed to avoid unnecessary trail damage. Trails will re-open once conditions are deemed suitable. Mountain bike riders should stay alert, slow down and proceed with caution due to possible trail changes caused by wet weather.",
-      "details": "<p>As a result of high accumulated rainfall and the current forecast, all mountain bike trails within Samford and Bunyaville Conservation Parks are temporarily closed to avoid unnecessary trail damage. Trails will re-open once conditions are deemed suitable. Mountain bike riders should stay alert, slow down and proceed with caution due to possible trail changes caused by wet weather.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-20",
-      "start_effective_date": "2024-11-20",
-      "end_date": "2024-11-25",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/samford"
-        },
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "MTB Trail 7 - Steps - Temporary Closure",
       "alert_id": "24702",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24702",
@@ -3292,6 +3269,121 @@
           "id": "148560",
           "name": "Daisy Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Henrietta and Herbert River Gorge, Wet Tropics Great Walks, Girringun National Park",
+      "alert_id": "24712",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24712",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations within sections of Girringun National Park and the Wet Tropics Great Walk, in the vicinity of Henrietta Creek, Herbert River and Sheahans Road pick-up point (weather pending) from Tuesday 26 November to Friday 6 December 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations within sections of Girringun National Park and the Wet Tropics Great Walk, in the vicinity of Henrietta Creek, Herbert River and Sheahans Road pick-up point (weather pending) from Tuesday 26 November to Friday 6 December 2024 (dates inclusive).</p> <p>Visitors planning walks in the area during this time should contact QPWS on 07 4777 2822 to confirm planned burning operations.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-25",
+      "start_effective_date": "2024-11-26",
+      "end_date": "2024-12-06",
+      "parks": [
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: KULLA (McIlwraith Range) National Park (CYPAL) and Kutini-Payamu (Iron Range) National Park (CYPAL)",
+      "alert_id": "24713",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24713",
+      "description": "Rangers will be conducting planned aerial burns in KULLA (McIlwraith Range) National Park (CYPAL) and Kutini-Payamu (Iron Range) National Park (CYPAL) on Tuesday 3 December and Wednesday 4 December 2024. These burns are being conducted by trained staff.",
+      "details": "<p>Rangers will be conducting planned aerial burns in KULLA (McIlwraith Range) National Park (CYPAL) and Kutini-Payamu (Iron Range) National Park (CYPAL) on Tuesday 3 December and Wednesday 4 December 2024. These burns are being conducted by trained staff.</p> <p>Nearby camping areas and visitor facilities are not expected to be impacted.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-26",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2024-12-04",
+      "parks": [
+        {
+          "id": "149037",
+          "name": "Kutini-Payamu (Iron Range) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/kutini-payamu"
+        },
+        {
+          "id": "151355",
+          "name": "KULLA (McIlwraith Range) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/kulla-mcilwraith-range"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season partial closure: Dalrymple Gap Walking Track, Girringun National Park",
+      "alert_id": "24715",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24715",
+      "description": "Dalrymple Gap walking track will be partially closed for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.",
+      "details": "<p>Dalrymple Gap walking track will be partially closed for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p><strong>This section of track to remain open:</strong> Dalrymple Gap short walk to historic bridge (northern access)</p> <p><strong>This section of track to close for the wet season</strong>: Dalrymple Gap walking track from historic bridge to Dalrymple Creek car park (southern access)</p> <p>&nbsp;</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-11-26",
+      "start_effective_date": "2024-11-26",
+      "end_date": "2025-04-01",
+      "parks": [
+        {
+          "id": "148768",
+          "name": "Dalrymple Gap walking track, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Sections of Flinders Beach CLOSED due to severe erosion",
+      "alert_id": "24716",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24716",
+      "description": "Flinders Beach from Amity Point beach access to campsite A in the Minjerribah Recreation Area is temporarily closed to vehicles until further notice due to severe beach erosion.",
+      "details": "<p>Flinders Beach from Amity Point beach access to campsite A in the Minjerribah Recreation Area is temporarily closed to vehicles until further notice due to severe beach erosion.</p> <p>Flinders Beach campground campsite A can be accessed via the back track on the right-hand side just before the main beach access track.&nbsp;&nbsp;</p> <p>Flinders Beach can also be accessed from:&nbsp;</p> <ul> <li>Flinders Beach Drive beach access&nbsp;</li> </ul> <ul> <li>Adder Rock beach access&nbsp;</li> </ul> <p>Pedestrians should exercise care when walking along this section of beach as there may be partially buried debris. Parents should supervise children at all times and never allow them to dig or play near exposed sand cliffs.&nbsp;</p> <p>Motorists are advised to avoid stopping or parking near sand cliffs as they can be unstable and could collapse without warning. Never drive or park on the vegetated dunes as turtles and shorebirds nest in these areas. &nbsp;</p> <p>Driving over vegetated dunes is not permitted despite conditions.&nbsp;On-the-spot fines apply. &nbsp;&nbsp;</p> <p>Observe all signage, barriers and directions from rangers.&nbsp;</p> <p>Check <a href=\"https://www.npsr.qld.gov.au/park-alerts/\" target=\"_blank\">Park Alerts</a> regularly for updates on current park conditions.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-26",
+      "start_effective_date": "2024-11-26",
+      "end_date": "2024-12-09",
+      "parks": [
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
+        }
+      ]
+    },
+    {
+      "title": "Unplanned/emergent maintenance work - Sundown National Park",
+      "alert_id": "24717",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24717",
+      "description": "As a result of severe damage to park infrastructure, The Broadwater camping area in Sundown National Park will be closed until declared safe.",
+      "details": "<p>As a result of severe damage to park infrastructure, The Broadwater camping area in Sundown National Park will be closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-26",
+      "start_effective_date": "2024-11-26",
+      "end_date": "2024-12-06",
+      "parks": [
+        {
+          "id": "148159",
+          "name": "Sundown National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/sundown"
         }
       ]
     }
