@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-11-29 10:09:14"
+    "alerts_count": 172,
+    "script_run_time": "2024-11-30 10:08:02"
   },
   "alerts": [
     {
@@ -2020,24 +2020,6 @@
       ]
     },
     {
-      "title": "Pest animal control",
-      "alert_id": "24538",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24538",
-      "description": "The Queensland Parks and Wildlife Service will be conducting pest activity control activities throughout Kroombit Tops National Park (KTNP) Commencing 28th October 2024 extending through to the 29th of November 2024.",
-      "details": "<p>The Queensland Parks and Wildlife Service will be conducting pest activity control activities throughout Kroombit Tops National Park (KTNP) Commencing 28th October 2024 extending through to the 29th of November 2024.</p> <p>The pest activities to be carried out across KTNP is to reduce the degradation on habitat and maximise the chances of long-term recovery of populations of identified threatened species endemic to the area and associated vegetation groups. This includes the Kroombit Tops Tinkerfrog, Kroombit Tops Tree Frog, Silver headed Antechinus and Monteiths spiny crayfish.</p> <p>The control activities include a focus on the of public&nbsp; safety and visitor experiance within&nbsp; KTNP.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-09-25",
-      "start_effective_date": "2024-10-28",
-      "end_date": "2024-11-29",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
-        }
-      ]
-    },
-    {
       "title": "Planned Harvesting Operations Sunday Creek Road",
       "alert_id": "24540",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24540",
@@ -2824,57 +2806,6 @@
       ]
     },
     {
-      "title": "Feral Animal Control - Curtis Island National Park, Conservation Park and State Forest",
-      "alert_id": "24667",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24667",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest, from Monday the 25th of November  Friday the 29th of November 2024",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest, from Monday the 25th of November  Friday the 29th of November 2024</p> <p>Target spieces of the program are&nbsp;feral pigs, cats, foxes and wild dogs</p> <p>Due to live firing, these areas will be closed for this period and access is prohibited.</p> <p>500 metre exclusion zone will be in force for all waters contained within the following areas which includes Black Head, Keppel Creek, Yellow Patch and Cape Capricorn. Maritime Safety Queensland will be issuing a notice to mariners before commencement of operations.</p> <p>For more information, please call Gladstone QPWS office on (07) 49716548 or send us an email at SGBR@des.qld.gov.au&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-11",
-      "start_effective_date": "2024-11-25",
-      "end_date": "2024-11-29",
-      "parks": [
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
-      "title": "Feral animal control program involving ground shooting: Hook Island, Whitsunday Islands National Park",
-      "alert_id": "24678",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24678",
-      "description": "A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Monday 25th November to Friday 29th November 2024 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.",
-      "details": "<p>A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Monday 25th November to Friday 29th November 2024 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.</p> <p><a href=\"https://www.publications.qld.gov.au/dataset/7e50bf4d-4bf7-4d0e-861c-8dd3756317ec/resource/e16da7d2-16e8-47a4-9395-1aa64ed19354/download/advice-feral-animal-control-hook-island.pdf\">Maritime Exclusion Zone - Southern Hook Island</a></p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-14",
-      "start_effective_date": "2024-11-25",
-      "end_date": "2024-11-29",
-      "parks": [
-        {
-          "id": "152875",
-          "name": "Whitsunday Ngaro Sea Trail",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Palmer Goldfield Resources Reserve",
       "alert_id": "24680",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24680",
@@ -3458,6 +3389,24 @@
           "id": "322391",
           "name": "Clemant State Forest",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Wet weather - Cedar Creek Rock pools closed",
+      "alert_id": "24724",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24724",
+      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek Rock pools.</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-11-30",
+      "start_effective_date": "2024-11-30",
+      "end_date": "2024-12-02",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
         }
       ]
     }
