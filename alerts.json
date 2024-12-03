@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-12-02 10:10:17"
+    "alerts_count": 168,
+    "script_run_time": "2024-12-03 10:09:56"
   },
   "alerts": [
     {
@@ -1948,24 +1948,6 @@
       ]
     },
     {
-      "title": "Exposed sand dunes and sand cliffs at Eli Creek",
-      "alert_id": "24568",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24568",
-      "description": "Exposed sand dunes and sand cliffs at Eli Creek are unstable and can collapse without warning.",
-      "details": "<p>Exposed sand dunes and sand cliffs at Eli Creek are unstable and can collapse without warning.</p> <p><strong>For your safety and to avoid injury:</strong></p> <ul> <li>Never climb or dig into sand dunes or sand cliffs.</li> <li>Do not dig deep holes that may collapse. &nbsp;</li> <li>Do not jump, slide or dive into the creek.</li> <li>Supervise children within arm&rsquo;s reach at all times.</li> </ul> <p>Your safety is our concern, but your responsibility.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2024-10-02",
-      "start_effective_date": "2024-10-02",
-      "end_date": "2024-12-02",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Partial track closure - Coomera circuit.",
       "alert_id": "24570",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24570",
@@ -2259,24 +2241,6 @@
       ]
     },
     {
-      "title": "Ex HMAS Tobruk public mooring closed",
-      "alert_id": "24634",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24634",
-      "description": "Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs.",
-      "details": "<p>Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-10-30",
-      "start_effective_date": "2024-10-30",
-      "end_date": "2024-12-02",
-      "parks": [
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
-        }
-      ]
-    },
-    {
       "title": "Drive with care during marine turtle nesting season",
       "alert_id": "24638",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24638",
@@ -2552,15 +2516,15 @@
       ]
     },
     {
-      "title": "Enoggera Reservoir is closed to paddle craft access from Monday, 18th November 2024, until further notice.",
+      "title": "Enoggera Reservoir is closed to all water activities and until further notice.",
       "alert_id": "24691",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24691",
-      "description": "This safety measure is in place due to the recent rainfall in the area, leading to water overflowing at the spillway.",
-      "details": "<p>This safety measure is in place due to the recent rainfall in the area, leading to water overflowing at the spillway.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Swimming Area will remain open until further notice.</p> <p>Thank you for your understanding.&nbsp;</p>",
+      "description": "Reservoir is closed to all water activities including swimming and paddle craft. This is due to the recent rainfall in the area with resulting inflows which may affect water quality, as well as water flowing over the spillway.",
+      "details": "<p>Reservoir is closed to all water activities including swimming and paddle craft. This is due to the recent rainfall in the area with resulting inflows which may affect water quality, as well as water flowing over the spillway.</p> <p>Please note any further significant rainfall could extend the closure period.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Thank you for your understanding.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-25",
-      "start_effective_date": "2024-11-18",
-      "end_date": "2024-12-02",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-02",
+      "end_date": "2024-12-05",
       "parks": [
         {
           "id": "200319",
@@ -2735,24 +2699,6 @@
           "id": "149029",
           "name": "Flinders Group National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/flinders-group"
-        }
-      ]
-    },
-    {
-      "title": "Daisy Hill Conservation Park Mountain Bike Trails - Partial Closure",
-      "alert_id": "24711",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24711",
-      "description": "Contractors will be conducting trail drainage works, berm repairs, and vegetation management on Flying Cloud and Jim's Trail, between 25/11/2024 and 2/12/2024. These trails will be closed to the public during this time. All other mountain bike trails in Daisy Hill Conservation Park remain open.",
-      "details": "<p>Contractors will be conducting trail drainage works, berm repairs, and vegetation management on Flying Cloud and Jim's Trail, between 25/11/2024 and 2/12/2024. These trails will be closed to the public during this time. All other mountain bike trails in Daisy Hill Conservation Park remain open.</p> <p>This maintenance work will improve rider safety, and ensure the integrity and longevity of the trails.&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-25",
-      "start_effective_date": "2024-11-25",
-      "end_date": "2024-12-02",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
         }
       ]
     },
@@ -3257,6 +3203,188 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Ex HMAS Tobruk public mooring temporary closed",
+      "alert_id": "24736",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24736",
+      "description": "Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs.",
+      "details": "<p>Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-02",
+      "end_date": "2024-12-05",
+      "parks": [
+        {
+          "id": "149461",
+          "name": "Great Sandy Marine Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
+        }
+      ]
+    },
+    {
+      "title": "Temporary track closure - Illinbah circuit and Gwongoorool Pool track",
+      "alert_id": "24737",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24737",
+      "description": "As a result of severe weather, the Illinbah circuit and Gwongoorool Pool track will remain temporarily closed until declared safe. High amounts of rainfall have resulted in fast flowing creeks, swollen creek crossings which may be impassable, landslides and tree falls.",
+      "details": "<p>As a result of severe weather, the Illinbah circuit and Gwongoorool Pool track will remain temporarily closed until declared safe. High amounts of rainfall have resulted in fast flowing creeks, swollen creek crossings which may be impassable, landslides and tree falls.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>For your safety, please use caution whilst visiting the park&mdash; bushwalkers may still encounter recently fallen trees due to the soft, saturated ground, and rising or fast flowing creeks. Remember&mdash;if it&#39;s flooded, forget it, even on our walking tracks!</p> <p>Commercial tour operators and other permit&nbsp;or agreement holders are not permitted to enter closed areas.</p> <p>Park alerts will be regularly updated regarding conditions on park. The next update will be provided by Friday the 6th of December 2024.</p> <p>&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2024-12-06",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Wet Season safety information: significant stream rises Broadwater, Abergowrie State Forest",
+      "alert_id": "24738",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24738",
+      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
+      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "150260",
+          "name": "Broadwater, Abergowrie State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/broadwater-abergowrie"
+        }
+      ]
+    },
+    {
+      "title": "Wet season safety information - significant stream rises: Cardwell Forest Drive and Five Mile day-use area",
+      "alert_id": "24739",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24739",
+      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
+      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "150212",
+          "name": "Cardwell State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
+        }
+      ]
+    },
+    {
+      "title": "Wet season safety information: significant stream rises at swimming locations within Paluma Range National Park",
+      "alert_id": "24740",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24740",
+      "description": "During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
+      "details": "<p>During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Wet season safety information: significant stream rises, Murray Falls, Girramay National Park",
+      "alert_id": "24741",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24741",
+      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
+      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148127",
+          "name": "Girramay National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girramay"
+        }
+      ]
+    },
+    {
+      "title": "Drive with care during marine turtle nesting season",
+      "alert_id": "24742",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24742",
+      "description": "From November to May, you may see turtles crossing the beach to lay their eggs or hatchlings making their way from nest to ocean for the first time. Motorists and visitors to Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area and the Minjerribah Recreation Area are asked to minimise disturbance and human impacts to nesting marine turtles.",
+      "details": "<p>From November to May, you may see turtles crossing the beach to lay their eggs or hatchlings making their way from nest to ocean for the first time. Motorists and visitors to Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area and the Minjerribah Recreation Area are asked to minimise disturbance and human impacts to nesting marine turtles.</p> <p>When driving on the beach:</p> <ul> <li>Plan to travel at 2 hours either side of low tide.&nbsp; Keep to the hard sand well below the high tide line to avoid making wheel ruts that create barriers to hatchling moevement down the beach.</li> <li>Avoid driving on the beach at night.&nbsp; This is when turtles will lay their eggs, and hatchlings are most likely to be emerging.&nbsp; Exercise caution and look out for turtles and turtle hatchlings when traversing the beach.</li> <li>If turtles are making their way across the beach - slow down, stop and wait for the turtles to reach the ocean or the dunes.&nbsp; On-the -spot fines apply to visitors disturbing turtle hatchlings or turtle nests.</li> <li>Driving over vegetated dunes is dangerous and prohibited.&nbsp; It is damaging to the environment and can impact turtle nests, on-the-spot fines apply.</li> </ul> <p>&#39;<strong>Cut the glow to help turtles go</strong>&#39;.&nbsp; Artificial lights can affect a turtle&#39;s ability to see the natural horizon over the ocean.&nbsp; Hatchlings can become disoriented, veer from their natural path and head towards the artificial light.&nbsp; When camping during the nesting season you can help cut the glow of lights affecting beaches by switching off unnecessary lights on the beach after 7.30pm.</p> <p>To report marine animal strandings (of sick, injured or dead turtles, dolphin, dugongs or whales) call <strong>1300 130 372</strong>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Check&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;regularly for updates on current park conditions.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-04-30",
+      "parks": [
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
+        },
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        }
+      ]
+    },
+    {
+      "title": "Wet season safety information - significant stream rises: Tully Gorge National Park",
+      "alert_id": "24743",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24743",
+      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Tully Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.",
+      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Tully Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.</p> <p>At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Keep clear of soft road edges to avoid getting bogged.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> <li>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</li> </ul>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "147987",
+          "name": "Tully section, Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully"
+        },
+        {
+          "id": "148460",
+          "name": "Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Wet season safety information: significant stream rises at Stony Creek swimming hole, Wallaman Falls, Girringun National Park",
+      "alert_id": "24745",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24745",
+      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
+      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</p> <p>Prior to travel, visitors are advised to check local road conditions at:</p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads&nbsp;</a>&nbsp;or call 13 19 40</li> <li><a href=\"https://disaster.hinchinbrook.qld.gov.au/\">Hinchinbrook Shire Council</a>&nbsp;emergency management dashboard.</li> </ul> <p><br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-03",
+      "start_effective_date": "2024-12-03",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "149453",
+          "name": "Wallaman Falls, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun-wallaman"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     }
