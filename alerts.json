@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2024-12-04 10:09:39"
+    "alerts_count": 174,
+    "script_run_time": "2024-12-05 10:09:54"
   },
   "alerts": [
     {
@@ -979,15 +979,15 @@
       ]
     },
     {
-      "title": "Open with caution for high clearance vehicles: Bartle Frere access road (western trailhead), Wooroonooran National Park",
+      "title": "Temporary closure: Bartle Frere access road (western trailhead) and Junction camp, Wooroonooran National Park",
       "alert_id": "23899",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23899",
-      "description": "The Bartle Frere access road at the western trailhead has reopened to high clearance vehicles only, and visitors are advised to drive with caution. During this period, visitors without high clearance vehicles can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.",
-      "details": "<p>The Bartle Frere access road at the western trailhead has reopened to high clearance vehicles only, and visitors are advised to drive with caution. During this period, visitors without high clearance vehicles can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change following periods of rainfall. Short-term temporary closures may occur to assist visitor safety and limit damage to the road surface.</p> <p>&nbsp;</p>",
+      "description": "The Bartle Frere access road at the western trailhead, and Junction camp are closed due to wet conditions. During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.",
+      "details": "<p>The Bartle Frere access road at the western trailhead, and Junction camp are closed due to wet conditions. During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change.</p> <p>&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2024-11-29",
+      "start_date": "2024-12-05",
       "start_effective_date": "2024-03-20",
-      "end_date": "2024-12-20",
+      "end_date": "2025-01-07",
       "parks": [
         {
           "id": "148468",
@@ -1008,9 +1008,9 @@
       "description": "Following impacts of ex-tropical cyclone Jasper, areas of flooding have occurred. Keatings Lagoon walking track is open, but the track is slippery in places.",
       "details": "<p>Following impacts of ex-tropical cyclone Jasper, areas of flooding have occurred. Keatings Lagoon walking track is open, but the track is slippery in places.</p> <p>For your safety, please take caution when walking close to watercourses.</p> <p>Please monitor this park alert for current information.</p>",
       "category": "Announcement",
-      "start_date": "2024-07-02",
+      "start_date": "2024-12-05",
       "start_effective_date": "2024-03-26",
-      "end_date": "2024-12-31",
+      "end_date": "2025-01-06",
       "parks": [
         {
           "id": "148844",
@@ -2285,12 +2285,12 @@
       "title": "Temporary closure: Mount Cook walking track, Mount Cook National Park",
       "alert_id": "24654",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24654",
-      "description": "The Mount Cook walking track will be closed from Monday 11 November to Tuesday 31 December 2024 (dates inclusive).",
-      "details": "<p>The Mount Cook walking track will be closed from Monday 11 November to Tuesday 31 December 2024 (dates inclusive).</p> <p>Contractors will be doing repairs to the track which will involve the use of a helicopter.</p> <p>Please adhere to safety signs and do not enter the area.</p>",
+      "description": "The Mount Cook walking track will be closed from Monday 11 November to Monday 6 January 2025 (dates inclusive).",
+      "details": "<p>The Mount Cook walking track will be closed from Monday 11 November to Monday 6 January 2025 (dates inclusive).</p> <p>Contractors will be doing repairs to the track which will involve the use of a helicopter.</p> <p>Please adhere to safety signs and do not enter the area.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-06",
+      "start_date": "2024-12-05",
       "start_effective_date": "2024-11-11",
-      "end_date": "2025-01-01",
+      "end_date": "2025-01-06",
       "parks": [
         {
           "id": "148616",
@@ -2613,24 +2613,6 @@
       ]
     },
     {
-      "title": "Wet weather access Mariala National Park",
-      "alert_id": "24698",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24698",
-      "description": "As a result of wet weather, Mariala National Park is closed until declared safe.",
-      "details": "<p>As a result of wet weather, Mariala National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-28",
-      "start_effective_date": "2024-11-19",
-      "end_date": "2024-12-04",
-      "parks": [
-        {
-          "id": "148039",
-          "name": "Mariala National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mariala"
-        }
-      ]
-    },
-    {
       "title": "Speed limit reduction - Teewah Beach camping area",
       "alert_id": "24708",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24708",
@@ -2696,29 +2678,6 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: KULLA (McIlwraith Range) National Park (CYPAL) and Kutini-Payamu (Iron Range) National Park (CYPAL)",
-      "alert_id": "24713",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24713",
-      "description": "Rangers will be conducting planned aerial burns in KULLA (McIlwraith Range) National Park (CYPAL) and Kutini-Payamu (Iron Range) National Park (CYPAL) on Tuesday 3 December and Wednesday 4 December 2024. These burns are being conducted by trained staff.",
-      "details": "<p>Rangers will be conducting planned aerial burns in KULLA (McIlwraith Range) National Park (CYPAL) and Kutini-Payamu (Iron Range) National Park (CYPAL) on Tuesday 3 December and Wednesday 4 December 2024. These burns are being conducted by trained staff.</p> <p>Nearby camping areas and visitor facilities are not expected to be impacted.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-26",
-      "start_effective_date": "2024-12-03",
-      "end_date": "2024-12-04",
-      "parks": [
-        {
-          "id": "149037",
-          "name": "Kutini-Payamu (Iron Range) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/kutini-payamu"
-        },
-        {
-          "id": "151355",
-          "name": "KULLA (McIlwraith Range) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/kulla-mcilwraith-range"
         }
       ]
     },
@@ -3135,6 +3094,24 @@
       ]
     },
     {
+      "title": "Christmas/ New Year closure",
+      "alert_id": "24735",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24735",
+      "description": "Fort Lytton National Park is closed around Christmas/ New Year.",
+      "details": "<p>Fort Lytton National Park is closed around Christmas/ New Year.</p> <p><strong>Sunday closures:&nbsp;</strong></p> <p>Last open Sunday is 8th Dec 2024. First open Sunday is 19th Jan 2025..</p> <p><strong>Mo-Fri closures:</strong></p> <p>Last open day is Friday 20th Dec 2024. First day back is Thursday 2nd Jan 2025.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-05",
+      "start_effective_date": "2024-12-15",
+      "end_date": "2025-01-19",
+      "parks": [
+        {
+          "id": "148592",
+          "name": "Fort Lytton National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/fort-lytton"
+        }
+      ]
+    },
+    {
       "title": "Ex HMAS Tobruk public mooring temporary closed",
       "alert_id": "24736",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24736",
@@ -3467,6 +3444,60 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn D'Aguilar National Park, Mt Mee section",
+      "alert_id": "24754",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24754",
+      "description": "The Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will conduct a planned burn in D'Aguilar National Park Mt Mee section on Sunday 8th December 2024 to Wednesday 11th December, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. Smoke maybe seen in the Mount Mee, Mount Byron, Mount Plesant and Laceys Creek area.",
+      "details": "<p>The Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will conduct a planned burn in D'Aguilar National Park Mt Mee section on Sunday 8th December 2024 to Wednesday 11th December, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. Smoke maybe seen in the Mount Mee, Mount Byron, Mount Plesant and Laceys Creek area.</p> <p>The following roads are restricted to the public during fire operations and the following days; The Winder, Range Road Forest Drive, Chambers Road, Peggs Road, Jack Creek Road, Jacky Internal Road, Byron Creek Road, A Break, AK Break and Dianas Bath Road. The Mount Mee horse trail network will be closed.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp;&nbsp;For more information, please call The Gap office of QPWS on 07 3164 3600.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2024-12-05",
+      "start_effective_date": "2024-12-08",
+      "end_date": "2024-12-11",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Temporary track closure - Burrum point campground Road",
+      "alert_id": "24755",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24755",
+      "description": "The Burrum point campground road will be temporarily closed from 7am on Monday the 9th of December until 4:30 pm Friday the 13th of December. This section of road will be closed as the Queensland Parks and Wildlife Service (QPWS) and contractors work to upgrade the drains on the track.",
+      "details": "<p>The Burrum point campground road will be temporarily closed from 7am on Monday the 9th of December until 4:30 pm Friday the 13th of December. This section of road will be closed as the Queensland Parks and Wildlife Service (QPWS) and contractors work to upgrade the drains on the track.</p> <p>For your safety, please use the beach access track during low tide. Campers can acess this track by turning left at Walkers point road. Tide times can be found online.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-05",
+      "start_effective_date": "2024-12-09",
+      "end_date": "2024-12-13",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Camping and Day Use Area Closed",
+      "alert_id": "24756",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24756",
+      "description": "Due to recent heavy localised rainfall and raised watercourse levels the Jourama Falls Campground and Day Use area are closed until further notice.",
+      "details": "<p>Due to recent heavy localised rainfall and raised watercourse levels the Jourama Falls Campground and Day Use area are closed until further notice.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-05",
+      "start_effective_date": "2024-12-05",
+      "end_date": "2024-12-09",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
         }
       ]
     }
