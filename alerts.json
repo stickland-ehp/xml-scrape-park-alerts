@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2024-12-05 10:09:54"
+    "alerts_count": 175,
+    "script_run_time": "2024-12-06 10:09:40"
   },
   "alerts": [
     {
@@ -598,9 +598,9 @@
       "description": "Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.",
       "details": "<p>Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.</p> <p>Monitor park alerts for current information on closures.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-28",
+      "start_date": "2024-12-06",
       "start_effective_date": "2023-12-11",
-      "end_date": "2024-12-30",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "148231",
@@ -1301,9 +1301,9 @@
       "description": "Information is provided below on the current status of visitor facilities in Jindalba, Cape Tribulation section, Daintree National Park:",
       "details": "<p>Information is provided below on the current status of visitor facilities in Jindalba, Cape Tribulation section, Daintree National Park:</p> <ul> <li>Jindalba circuit track - closed</li> <li>Jindalba boardwalk - partially open (visitors can walk approximately 180m of the boardwalk)</li> <li>Amenity block - open</li> <li>Day-use area - open.</li> </ul> <p>Please adhere to all safety signs and directions from local rangers.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-06-28",
+      "start_date": "2024-12-06",
       "start_effective_date": "2024-07-01",
-      "end_date": "2024-12-30",
+      "end_date": "2025-04-18",
       "parks": [
         {
           "id": "148131",
@@ -2480,24 +2480,6 @@
       ]
     },
     {
-      "title": "Enoggera Reservoir is closed to all water activities and until further notice.",
-      "alert_id": "24691",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24691",
-      "description": "Reservoir is closed to all water activities including swimming and paddle craft. This is due to the recent rainfall in the area with resulting inflows which may affect water quality, as well as water flowing over the spillway.",
-      "details": "<p>Reservoir is closed to all water activities including swimming and paddle craft. This is due to the recent rainfall in the area with resulting inflows which may affect water quality, as well as water flowing over the spillway.</p> <p>Please note any further significant rainfall could extend the closure period.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Thank you for your understanding.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-03",
-      "start_effective_date": "2024-12-02",
-      "end_date": "2024-12-05",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Halifax Bay Wetlands National Park",
       "alert_id": "24693",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24693",
@@ -2729,9 +2711,9 @@
       "description": "Flinders Beach from Amity Point beach access to campsite A in the Minjerribah Recreation Area is temporarily closed to vehicles until further notice due to severe beach erosion.",
       "details": "<p>Flinders Beach from Amity Point beach access to campsite A in the Minjerribah Recreation Area is temporarily closed to vehicles until further notice due to severe beach erosion.</p> <p>Flinders Beach campground campsite A can be accessed via the back track on the right-hand side just before the main beach access track.&nbsp;&nbsp;</p> <p>Flinders Beach can also be accessed from:&nbsp;</p> <ul> <li>Flinders Beach Drive beach access&nbsp;</li> </ul> <ul> <li>Adder Rock beach access&nbsp;</li> </ul> <p>Pedestrians should exercise care when walking along this section of beach as there may be partially buried debris. Parents should supervise children at all times and never allow them to dig or play near exposed sand cliffs.&nbsp;</p> <p>Motorists are advised to avoid stopping or parking near sand cliffs as they can be unstable and could collapse without warning. Never drive or park on the vegetated dunes as turtles and shorebirds nest in these areas. &nbsp;</p> <p>Driving over vegetated dunes is not permitted despite conditions.&nbsp;On-the-spot fines apply. &nbsp;&nbsp;</p> <p>Observe all signage, barriers and directions from rangers.&nbsp;</p> <p>Check <a href=\"https://www.npsr.qld.gov.au/park-alerts/\" target=\"_blank\">Park Alerts</a> regularly for updates on current park conditions.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-26",
+      "start_date": "2024-12-06",
       "start_effective_date": "2024-11-26",
-      "end_date": "2024-12-09",
+      "end_date": "2025-01-31",
       "parks": [
         {
           "id": "148315",
@@ -2800,29 +2782,6 @@
       ]
     },
     {
-      "title": "Wet weather access Conondale National Park",
-      "alert_id": "24721",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24721",
-      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Booloumba Creek Road from Booloumba Creek camping area 4 to Funnels Hut Road</li> <li>Funnels Hut Road</li> <li>Vehicular access to Booloumba Falls</li> </ul> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-28",
-      "start_effective_date": "2024-11-28",
-      "end_date": "2024-12-05",
-      "parks": [
-        {
-          "id": "152865",
-          "name": "Conondale Range Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
-        },
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
       "title": "Eurimbula and Deepwater National Park - Feral Animal Management",
       "alert_id": "24722",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24722",
@@ -2860,24 +2819,6 @@
           "id": "322391",
           "name": "Clemant State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Wet weather - Cedar Creek Rock pools closed",
-      "alert_id": "24724",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24724",
-      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek Rock pools.</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-02",
-      "start_effective_date": "2024-11-30",
-      "end_date": "2024-12-05",
-      "parks": [
-        {
-          "id": "148199",
-          "name": "Tamborine National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
         }
       ]
     },
@@ -3031,7 +2972,7 @@
       "description": "As a result of high rainfall and the current forecast, all mountain bike trails within Daisy Hill Conservation Park will be closed from 2/12/24 to 6/12/24 to avoid trail damage.",
       "details": "<p>As a result of high rainfall and the current forecast, all mountain bike trails within Daisy Hill Conservation Park will be closed from 2/12/24 to 6/12/24 to avoid trail damage.</p> <p>Trails will be reopened when conditions are deemed appropriate. Riders can access fire breaks and should proceed with caution due to changed conditions caused by wet weather. QPWS asks riders to observe all signage and directions from rangers.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-02",
+      "start_date": "2024-12-06",
       "start_effective_date": "2024-12-02",
       "end_date": "2024-12-06",
       "parks": [
@@ -3108,24 +3049,6 @@
           "id": "148592",
           "name": "Fort Lytton National Park",
           "url": "https://parks.desi.qld.gov.au/parks/fort-lytton"
-        }
-      ]
-    },
-    {
-      "title": "Ex HMAS Tobruk public mooring temporary closed",
-      "alert_id": "24736",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24736",
-      "description": "Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs.",
-      "details": "<p>Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-03",
-      "start_effective_date": "2024-12-02",
-      "end_date": "2024-12-05",
-      "parks": [
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
         }
       ]
     },
@@ -3484,13 +3407,13 @@
       ]
     },
     {
-      "title": "Camping and Day Use Area Closed",
+      "title": "Temporary camping and day-use area closure: Jourama Falls, Paluma Range National Park",
       "alert_id": "24756",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24756",
-      "description": "Due to recent heavy localised rainfall and raised watercourse levels the Jourama Falls Campground and Day Use area are closed until further notice.",
-      "details": "<p>Due to recent heavy localised rainfall and raised watercourse levels the Jourama Falls Campground and Day Use area are closed until further notice.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "description": "Due to recent heavy localised rainfall and raised watercourse levels, the Jourama Falls camping area and day-use area are closed until further notice.",
+      "details": "<p>Due to recent heavy localised rainfall and raised watercourse levels, the Jourama Falls camping area and day-use area are closed until further notice.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-05",
+      "start_date": "2024-12-06",
       "start_effective_date": "2024-12-05",
       "end_date": "2024-12-09",
       "parks": [
@@ -3498,6 +3421,96 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary lookout closure: Mossman River lookout, Baral Marrjanga track, Mossman Gorge, Daintree National Park (CYPAL)",
+      "alert_id": "24757",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24757",
+      "description": "The Mossman River lookout on Baral Marrjanga track will be temporarily closed for maintenance from Wednesday 11 December to Friday 13 December 2024 (dates inclusive).",
+      "details": "<p>The Mossman River lookout on Baral Marrjanga track will be temporarily closed for maintenance from Wednesday 11 December to Friday 13 December 2024 (dates inclusive).</p> <p>During this period&nbsp;visitors will still&nbsp; be able to walk the Baral Marrjanga track.&nbsp;</p> <p>Views to the river will be possible from the lookouts on the Lower river track.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-06",
+      "start_effective_date": "2024-12-11",
+      "end_date": "2024-12-13",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Araucaria Walking track is currently closed due to partial flooding.",
+      "alert_id": "24759",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24759",
+      "description": "Araucaria Walking Track is partially flooded from recent significant rainfall in the area. The track will remain closed until further assessment can be conducted to ensure the safety of all visitors.",
+      "details": "<p>Araucaria Walking Track is partially flooded from recent significant rainfall in the area. The track will remain closed until further assessment can be conducted to ensure the safety of all visitors.</p> <p>Reserviour Break and surrounding walking tracks remain open, exercise caution when walking.<br /> These tracks will be slippery and partially flooded in areas.&nbsp;</p> <p>We apologise for any inconvenience this may cause and thank you for your understanding.</p> <p>Please adhere to all signage and directions from Rangers.<br /> &nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-06",
+      "start_effective_date": "2024-12-06",
+      "end_date": "2024-12-09",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Kuranda National Park",
+      "alert_id": "24760",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24760",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Kuranda National Park from Monday 9 December to Friday 13 December 2024 (dates inclusive). These burning activities are not anticipated to impact any visitor facilities.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Kuranda National Park from Monday 9 December to Friday 13 December 2024 (dates inclusive). These burning activities are not anticipated to impact any visitor facilities.</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-06",
+      "start_effective_date": "2024-12-09",
+      "end_date": "2024-12-13",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Davies Creek Mountain Bike Park for planned burning activities: Dinden State Forest and Dinden West Forest Reserve",
+      "alert_id": "24761",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24761",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden State Forest and Dinden West Forest Reserve from Monday 9 December to Friday 13 December 2024 (dates inclusive). Davies Creek Mountain Bike Park will be closed to the public during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden State Forest and Dinden West Forest Reserve from Monday 9 December to Friday 13 December 2024 (dates inclusive). Davies Creek Mountain Bike Park will be closed to the public during this period.</p> <p>All other visitor facilities including camping areas, day-use areas and walking tracks will remain open.</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2024-12-06",
+      "start_effective_date": "2024-12-09",
+      "end_date": "2024-12-13",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Mountain Bike Trail Closure Daisy Hill Conservation Park",
+      "alert_id": "24762",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24762",
+      "description": "As a result of recent rainfall, current forecast and wet trail conditions, all mountain bike trails within Daisy Hill Conservation Park will be closed from 6/12/24 to 9/12/24 to avoid trail damage.",
+      "details": "<p>As a result of recent rainfall, current forecast and wet trail conditions, all mountain bike trails within Daisy Hill Conservation Park will be closed from 6/12/24 to 9/12/24 to avoid trail damage.</p> <p>Trails will be reopened when conditions are deemed appropriate. Riders can access fire breaks and should proceed with caution due to changed conditions caused by wet weather. QPWS asks riders to observe all signage and directions from rangers.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-06",
+      "start_effective_date": "2024-12-06",
+      "end_date": "2024-12-09",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
         }
       ]
     }
