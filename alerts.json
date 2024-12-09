@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 166,
-    "script_run_time": "2024-12-08 10:08:04"
+    "alerts_count": 168,
+    "script_run_time": "2024-12-09 10:10:25"
   },
   "alerts": [
     {
@@ -126,9 +126,9 @@
       "description": "The entry into Eliot Falls camping and day-use area requires crossing Scrubby Creek on the Old Telegraph Track (managed by Cook Shire Council). This crossing is only suitable for high clearance four-wheel-drive vehicles due to severe erosion of the entry and exit points.",
       "details": "<p>The entry into Eliot Falls camping and day-use area requires crossing Scrubby Creek on the Old Telegraph Track (managed by Cook Shire Council). This crossing is only suitable for high clearance four-wheel-drive vehicles due to severe erosion of the entry and exit points.</p>",
       "category": "Other",
-      "start_date": "2023-12-12",
+      "start_date": "2024-12-09",
       "start_effective_date": "2020-12-23",
-      "end_date": "2024-12-12",
+      "end_date": "2025-12-08",
       "parks": [
         {
           "id": "148892",
@@ -2282,33 +2282,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Mount Cook walking track, Mount Cook National Park",
-      "alert_id": "24654",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24654",
-      "description": "The Mount Cook walking track will be closed from Monday 11 November to Monday 6 January 2025 (dates inclusive).",
-      "details": "<p>The Mount Cook walking track will be closed from Monday 11 November to Monday 6 January 2025 (dates inclusive).</p> <p>Contractors will be doing repairs to the track which will involve the use of a helicopter.</p> <p>Please adhere to safety signs and do not enter the area.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-05",
-      "start_effective_date": "2024-11-11",
-      "end_date": "2025-01-06",
-      "parks": [
-        {
-          "id": "148616",
-          "name": "Mount Cook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-cook"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Hartleys Falls walking track, Macalister Range National Park",
       "alert_id": "24655",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24655",
-      "description": "The Hartleys Falls walking track will be temporarily closed from Thursday 7 November and is anticipated to reopen on Thursday 12 December 2024.",
-      "details": "<p>The Hartleys Falls walking track will be temporarily closed from Thursday 7 November and is anticipated to reopen on Thursday 12 December 2024.</p> <p>The closure is due to contractors engaged by Queensland Parks and Wildlife Service conducting earthworks and repairs to the walking track.</p> <p>Entry into this area is prohibited during this time for safety reasons.</p> <p>Please adhere to all signage, barricading and directions from contractors.&nbsp;&nbsp;</p>",
+      "description": "The Hartleys Falls walking track will be temporarily closed from Thursday 7 November and is anticipated to reopen on Friday 13 December 2024.",
+      "details": "<p>The Hartleys Falls walking track will be temporarily closed from Thursday 7 November and is anticipated to reopen on Friday 13 December 2024.</p> <p>The closure is due to contractors engaged by Queensland Parks and Wildlife Service conducting earthworks and repairs to the walking track.</p> <p>Entry into this area is prohibited during this time for safety reasons.</p> <p>Please adhere to all signage, barricading and directions from contractors.&nbsp;&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-28",
+      "start_date": "2024-12-09",
       "start_effective_date": "2024-11-07",
-      "end_date": "2024-12-11",
+      "end_date": "2024-12-12",
       "parks": [
         {
           "id": "149397",
@@ -2760,9 +2742,9 @@
       "description": "All access routes to the Mt Beerwah summit are temporarily closed following the recent very high rainfall.",
       "details": "<p>All access routes to the Mt Beerwah summit are temporarily closed following the recent very high rainfall.</p> <p>This closure is a precautionary measure following high rainfall events.&nbsp;The risk of large rock fall above the summit route is much higher after heavy rain.</p> <p>The route will be closed for a minimum of 7 days.&nbsp; During this time, Queensland Parks and Wildlife Service will assess the route for any rock fall.&nbsp; If no rock falls are observed, the route will be re-opened.</p> <p>There are signs informing visitors of the closure at the site and barriers in place at the picnic area.&nbsp; For your safety, please do not enter the closed area.&nbsp; Visitors found entering the closed area may be issued with an on-the-spot fine of $645.</p> <p>The Mt Beerwah day use area remains open.</p> <p>All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-02",
+      "start_date": "2024-12-09",
       "start_effective_date": "2024-12-02",
-      "end_date": "2024-12-09",
+      "end_date": "2024-12-10",
       "parks": [
         {
           "id": "150189",
@@ -2786,24 +2768,6 @@
           "id": "148323",
           "name": "Currawinya National Park",
           "url": "https://parks.desi.qld.gov.au/parks/currawinya"
-        }
-      ]
-    },
-    {
-      "title": "Hazardous driving conditions impacting Ocean Beach on Bribie Island",
-      "alert_id": "24728",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24728",
-      "description": "Due to recent heavy rainfall, all four lagoons on Ocean Beach in the Bribie Island Recreation Area are close to breaking through to the ocean. Conditions can change rapidly resulting in fast flowing water and unstable sand. Extra caution should be taken when passing the lagoons.",
-      "details": "<p>Due to recent heavy rainfall, all four lagoons on Ocean Beach in the Bribie Island Recreation Area are close to breaking through to the ocean. Conditions can change rapidly resulting in fast flowing water and unstable sand. Extra caution should be taken when passing the lagoons.</p> <p><strong>Beach travel is recommended one hour either side of low tide only.</strong> Travelling three hours either side of high tide should be avoided. Driving over vegetated dunes is not permitted despite conditions. On-the-spot fines apply for anyone found driving over the vegetated dunes.</p> <p>Observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2024-12-02",
-      "start_effective_date": "2024-12-02",
-      "end_date": "2024-12-08",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
         }
       ]
     },
@@ -2857,9 +2821,9 @@
       "description": "Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.",
       "details": "<p>Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.</p> <p>Queensland Parks and Wildlife Service (QPWS) advise the temporary walking track closure will be in place until an engineer&#39;s safety assessment is received and appropriate safety measures can be implemented.</p> <p>The temporary walking track closure is in place from the beginning of the Wheel of Fire walking track (from the turn-off on the Araluen Cascades walking track) and the closure includes access to Callistemon Crossing and Wheel of Fire.</p> <p>Access to the Araluen Cascades walking track is still open.</p> <p>For your safety, obey on-site closure signs and directions from Rangers and do not enter any closed areas.</p> <p>QPWS is working to remediate the developing safety risk and will endeavour to have the walking track open as soon as practicable.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-02",
+      "start_date": "2024-12-09",
       "start_effective_date": "2024-12-02",
-      "end_date": "2024-12-09",
+      "end_date": "2025-01-09",
       "parks": [
         {
           "id": "148295",
@@ -3062,29 +3026,6 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24746",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24746",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2024-12-04",
-      "start_effective_date": "2024-12-04",
-      "end_date": "2024-12-08",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
         }
       ]
     },
@@ -3324,6 +3265,106 @@
           "id": "148560",
           "name": "Daisy Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Wet Season safety information - significant stream rises: Barron Gorge National Park",
+      "alert_id": "24764",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24764",
+      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout the Barron River including Stoney Creek and Surprise Creek in Barron Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.",
+      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout the Barron River including Stoney Creek and Surprise Creek in Barron Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.</p> <p>At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> </ul> <p>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-09",
+      "start_effective_date": "2024-12-09",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148548",
+          "name": "Barron Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Planned road maintenance - Benarkin State Forest",
+      "alert_id": "24765",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24765",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned road maintenance at Benarkin State Forest from 9 to 18 December 2024.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned road maintenance at Benarkin State Forest from 9 to 18 December 2024.</p> <p>Heavy machinery will be operating and visitors may experience road closures or delays when accessing the area.</p> <p>&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-09",
+      "start_effective_date": "2024-12-09",
+      "end_date": "2024-12-18",
+      "parks": [
+        {
+          "id": "148071",
+          "name": "Benarkin State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/benarkin"
+        }
+      ]
+    },
+    {
+      "title": "Russell Island toilet removed due to erosion",
+      "alert_id": "24766",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24766",
+      "description": "Due to significant erosion, the toilet at the Russell Island camping area has been removed. Please bring a portable camping toilet or chemical toilet when camping.",
+      "details": "<p>Due to significant erosion, the toilet at the Russell Island camping area has been removed. Please bring a portable camping toilet or chemical toilet when camping.</p> <p>Erosion has significantly affected the northern beach of the low-lying sandy portion of Russell Island, requiring removal of the toilet and a reduction in the capacity of the camping area.</p> <p>Russell Island is a Commonwealth Island managed jointly by Queensland Parks and Wildlife Service and the Great Barrier Reef Marine Park Authority. Further assessments will occur to determine if there is another suitable location on Russell Island for a camping area or other appropriate recreational opportunities.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-09",
+      "start_effective_date": "2025-01-01",
+      "end_date": "2025-12-09",
+      "parks": [
+        {
+          "id": "148749",
+          "name": "Frankland Group National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/frankland-group"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Undara Volcanic National Park",
+      "alert_id": "24767",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24767",
+      "description": "Queensland Parks and Wildlife Service will be conducting aerial planned burns from Tuesday 10 December to Thursday 12 December 2024 (dates inclusive). During this period, the park will remain open to visitors but smoke will be visible.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial planned burns from Tuesday 10 December to Thursday 12 December 2024 (dates inclusive). During this period, the park will remain open to visitors but smoke will be visible.</p> <p>Please adhere to all safety signs and directions from rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-09",
+      "start_effective_date": "2024-12-10",
+      "end_date": "2024-12-16",
+      "parks": [
+        {
+          "id": "148965",
+          "name": "Undara Volcanic National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Bulleringa National Park, Rungulla National Park and Tagalaka (Littleton) National Park",
+      "alert_id": "24768",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24768",
+      "description": "Queensland Parks and Wildlife Service will be conducting aerial planned burns from Tuesday 10 December to Thursday 12 December 2024 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial planned burns from Tuesday 10 December to Thursday 12 December 2024 (dates inclusive).</p> <p>During this period smoke will be visible in the vicinity.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-09",
+      "start_effective_date": "2024-12-10",
+      "end_date": "2024-12-16",
+      "parks": [
+        {
+          "id": "148067",
+          "name": "Rungulla National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/rungulla"
+        },
+        {
+          "id": "148492",
+          "name": "Bulleringa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bulleringa"
+        },
+        {
+          "id": "322270",
+          "name": "Littleton National Park",
+          "url": ""
         }
       ]
     }
