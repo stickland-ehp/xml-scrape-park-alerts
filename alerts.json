@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2024-12-12 10:09:46"
+    "alerts_count": 165,
+    "script_run_time": "2024-12-13 10:09:37"
   },
   "alerts": [
     {
@@ -1735,12 +1735,12 @@
       "title": "Temporary partial closure - Coochin Hills section",
       "alert_id": "24554",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24554",
-      "description": "A track within the Coochin Hills section, Glass House Mountains National Park, is temporarily closed due to phytophthora being detected in nearby National Parks.",
-      "details": "<p>A track within the Coochin Hills section, Glass House Mountains National Park, is temporarily closed due to phytophthora being detected in nearby National Parks.</p> <p>Plant species vulnerable to phytophthora are at risk.&nbsp; Phytophthora is a soil-borne organism that kills key species of native plants and fruit trees. The pathogen is spread through the transmission of infected soil, commonly on footwear.</p> <p>Queensland Parks and Wildlife Service is working with Biosecurity Queensland to prevent the spread of the disease.</p> <p>Please help stop the spread into the park by not entering the closed section of Coochin Hills.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "A track within the Coochin Hills section, Glass House Mountains National Park, is temporarily closed to help protect the surrounding forest and heathlands for future times from a potentially devastating soil-based disease.",
+      "details": "<p>A track within the Coochin Hills section, Glass House Mountains National Park, is temporarily closed to help protect the surrounding forest and heathlands for future times from a potentially devastating soil-based disease.</p> <p>The track on the western peak and saddle section of Coochin Hills is temporarily closed following the recent discovery of&nbsp;<em>Phytophthora cinnamomi</em>&nbsp;in the park, which has the potential to cause dieback for some species of native plants.</p> <p><em>Phytophthora cinnamomi</em>&nbsp;is a species of water mould, often referred to as a microscopic fungal-like organism, that lives in soil and is spread by the movement of infected soil carried on shoes, machines and other equipment or plants.</p> <p>Phytophthora affects plants by attacking the root system and therefore decreasing the plant&rsquo;s ability to absorb water and nutrients.&nbsp;</p> <p>Once established, Phytophthora cannot be eradicated and there is no cure.</p> <p>Visitors to the Glass House Mountains National Park can help protect the park by following some simple tips:</p> <ol> <li>Clean footwear and equipment before you visit</li> <li>Use boot-washing stations where available to clean footwear and equipment (such as walking poles and pram wheels) when going in and out of the park</li> <li>Avoid going off designated walking tracks, and do not enter areas affected by closures</li> <li>Never assume anywhere is disease free</li> <li>Keep a spare set of shoes and a cleaning kit in your vehicle</li> <li>Purchase gear that is easy to clean</li> </ol> <p>With clean footwear, visitors can help slow the spread of Phytophthora throughout the park and minmise the chance of Phytophthora infecting plants in other natural areas.&nbsp;</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-09-30",
+      "start_date": "2024-12-13",
       "start_effective_date": "2024-09-27",
-      "end_date": "2025-01-01",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "150189",
@@ -2210,24 +2210,6 @@
       ]
     },
     {
-      "title": "Byfield - Upper Stony water quality",
-      "alert_id": "24660",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24660",
-      "description": "Due to a lack of recent rainfall and therefore reduced water flow, the water quality at Upper Stony Creek is currently in decline.",
-      "details": "<p>Due to a lack of recent rainfall and therefore reduced water flow, the water quality at Upper Stony Creek is currently in decline.</p> <p>It is anticipated that water quality will improve following the next significant rainfall event. Swimming at Upper Stony is not recommended until water quality improves.</p> <p>For your safety, please observe all signage and directions from Rangers.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-12",
-      "start_effective_date": "2024-11-11",
-      "end_date": "2024-12-12",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Queen Mary Falls tracks - Main Range National Park",
       "alert_id": "24666",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24666",
@@ -2677,9 +2659,9 @@
       "description": "Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.",
       "details": "<p>Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.</p> <p>Queensland Parks and Wildlife Service (QPWS) advise the temporary walking track closure will be in place until an engineer&#39;s safety assessment is received and appropriate safety measures can be implemented.</p> <p>The temporary walking track closure is in place from the beginning of the Wheel of Fire walking track (from the turn-off on the Araluen Cascades walking track) and the closure includes access to Callistemon Crossing and Wheel of Fire.</p> <p>Access to the Araluen Cascades walking track is still open.</p> <p>For your safety, obey on-site closure signs and directions from Rangers and do not enter any closed areas.</p> <p>QPWS is working to remediate the developing safety risk and will endeavour to have the walking track open as soon as practicable.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-09",
+      "start_date": "2024-12-13",
       "start_effective_date": "2024-12-02",
-      "end_date": "2025-01-09",
+      "end_date": "2025-01-31",
       "parks": [
         {
           "id": "148295",
@@ -2981,6 +2963,24 @@
       ]
     },
     {
+      "title": "Enoggera Reservoir is temporarily closed to paddle craft access and swimming until further notice.",
+      "alert_id": "24758",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24758",
+      "description": "Enoggera Reservoir remains closed to paddle craft access and swimming due to recent significant rainfall events resulting in water flowing over the spillway.",
+      "details": "<p>Enoggera Reservoir remains closed to paddle craft access and swimming due to recent significant rainfall events resulting in water flowing over the spillway.</p> <p>The designated swimming area is open.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Thank you for your understanding.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-12",
+      "start_effective_date": "2024-12-06",
+      "end_date": "2024-12-13",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
       "title": "Planned burning activities: Kuranda National Park",
       "alert_id": "24760",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24760",
@@ -3117,13 +3117,13 @@
       ]
     },
     {
-      "title": "Temporary track closure - Illinbah circuit and Gwongoorool Pool track",
+      "title": "Temporary track closure - Illinbah circuit",
       "alert_id": "24769",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24769",
-      "description": "As a result of severe weather, the Illinbah circuit and Gwongoorool Pool track will remain temporarily closed until declared safe. High amounts of rainfall have resulted in significant landslips and fallen trees across the walking track.",
-      "details": "<p>As a result of severe weather, the Illinbah circuit and Gwongoorool Pool track will remain temporarily closed until declared safe. High amounts of rainfall have resulted in significant landslips and fallen trees across the walking track.</p> <p>Rangers are currently working on repairing the damage to ensure both tracks are safe for visitor access.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>Commercial tour operators and other permit&nbsp;or agreement holders are not permitted to enter closed areas.</p> <p>Park alerts will be regularly updated regarding conditions on park. The next update will be provided by Friday the 31st of January 2025.</p>",
+      "description": "As a result of severe weather, the Illinbah circuit will remain temporarily closed until declared safe. High amounts of rainfall have resulted in significant landslips and fallen trees across the walking track.",
+      "details": "<p>As a result of severe weather, the Illinbah circuit will remain temporarily closed until declared safe. High amounts of rainfall have resulted in significant landslips and fallen trees across the walking track.</p> <p>Gwongoorool Pool walking track is now open to the public.</p> <p>Rangers are currently working on repairing the damage to ensure both tracks are safe for visitor access.</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>Commercial tour operators and other permit&nbsp;or agreement holders are not permitted to enter closed areas.</p> <p>Park alerts will be regularly updated regarding conditions on park. The next update will be provided by Friday the 31st of January 2025.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-10",
+      "start_date": "2024-12-13",
       "start_effective_date": "2024-12-09",
       "end_date": "2025-01-31",
       "parks": [
@@ -3171,20 +3171,20 @@
       ]
     },
     {
-      "title": "Access to Amamoor State Forest - Cedar Grove and Amamoor Creek Camping Areas",
+      "title": "Access to Imbil State Forest - Charlie Moreland Camping Areas",
       "alert_id": "24772",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24772",
-      "description": "There has been localised flooding in the Amamoor State Forest area due to heavy rainfall over the past 48 hours. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
-      "details": "<p>There has been localised flooding in the Amamoor State Forest area due to heavy rainfall over the past 48 hours. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "description": "There has been localised flooding in the Imbil State Forest &amp; Little Yabba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
+      "details": "<p>There has been localised flooding in the Imbil State Forest &amp; Little Yabba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
       "category": "Announcement",
-      "start_date": "2024-12-11",
-      "start_effective_date": "2024-12-11",
-      "end_date": "2024-12-13",
+      "start_date": "2024-12-13",
+      "start_effective_date": "2024-12-13",
+      "end_date": "2024-12-18",
       "parks": [
         {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/amamoor"
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/imbil"
         }
       ]
     },
@@ -3257,6 +3257,60 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Turtle Trail temporary closure due to hazardous tree removal",
+      "alert_id": "24777",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24777",
+      "description": "The Turtle Trail section from the Mon Repos Turtle Centre heading north towards Burnett Heads, will be closed on Tuesday 17 December 2024. Contractors will be working to remove hazardous trees along the trail at this time.",
+      "details": "<p>The Turtle Trail section from the Mon Repos Turtle Centre heading north towards Burnett Heads, will be closed on Tuesday 17 December 2024. Contractors will be working to remove hazardous trees along the trail at this time.</p> <ul> <li>Detours will be provided for users. It is important&nbsp;for bike riders to note that these detours will be on sand tracks or along the beach, so you may need to dismount and walk your bike for a section.</li> <li>The closure will be in place from 7am to 4pm, if works are completed earlier the trail will be reopened accordingly.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-13",
+      "start_effective_date": "2024-12-17",
+      "end_date": "2024-12-17",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Access to Conondale National Park - Booloumba Creek Camping and Day Use Areas",
+      "alert_id": "24778",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24778",
+      "description": "There has been localised flooding in the Booloumba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
+      "details": "<p>There has been localised flooding in the Booloumba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-13",
+      "start_effective_date": "2024-12-13",
+      "end_date": "2024-12-18",
+      "parks": [
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
+      "title": "Access to Amamoor State Forest - Cedar Grove and Amamoor Creek Camping Areas",
+      "alert_id": "24779",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24779",
+      "description": "There has been localised flooding in the Amamoor Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
+      "details": "<p>There has been localised flooding in the Amamoor Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-13",
+      "start_effective_date": "2024-12-13",
+      "end_date": "2024-12-16",
+      "parks": [
+        {
+          "id": "148275",
+          "name": "Amamoor State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/amamoor"
         }
       ]
     }
