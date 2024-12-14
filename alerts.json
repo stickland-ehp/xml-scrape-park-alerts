@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2024-12-13 10:09:37"
+    "alerts_count": 160,
+    "script_run_time": "2024-12-14 10:08:15"
   },
   "alerts": [
     {
@@ -2546,24 +2546,6 @@
       ]
     },
     {
-      "title": "Planned works for toilet facilities at Mapleton day-use-area",
-      "alert_id": "24719",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24719",
-      "description": "Access to the toilet facilities may be closed or restricted during the works.",
-      "details": "<p>Access to the toilet facilities may be closed or restricted during the works.</p> <p>Toilet facilities at Mapleton Falls day-use-area are currently being repainted.</p> <p>Weather permitting, the works should be completed by Friday 13 November 2024.&nbsp;&nbsp;</p> <p>Alternative public toilet facilties are available in Mapleton township, within a 5 minute drive.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-27",
-      "start_effective_date": "2024-11-27",
-      "end_date": "2024-12-13",
-      "parks": [
-        {
-          "id": "148945",
-          "name": "Mapleton National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mapleton"
-        }
-      ]
-    },
-    {
       "title": "Annual closure period for all Lamington bush camping areas",
       "alert_id": "24720",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24720",
@@ -2904,24 +2886,6 @@
       ]
     },
     {
-      "title": "Planned works - Emu Mountain section, Noosa National Park",
-      "alert_id": "24749",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24749",
-      "description": "The Emu Mountain summit walk will be temporarily closed from Tuesday 9 December to Friday 13 December 2024.",
-      "details": "<p>The Emu Mountain summit walk will be temporarily closed from Tuesday 9 December to Friday 13 December 2024.</p> <p>This section will be temporarily closed as the Queensland Parks and Wildlife Service (QPWS) and contractors work to upgrade the track.</p> <p>The Hakea walk will remain open during this time.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-04",
-      "start_effective_date": "2024-12-09",
-      "end_date": "2024-12-13",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Heavy Rainfall and Flash Flooding",
       "alert_id": "24750",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24750",
@@ -2959,60 +2923,6 @@
           "id": "149405",
           "name": "Mount Etna Caves National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
-        }
-      ]
-    },
-    {
-      "title": "Enoggera Reservoir is temporarily closed to paddle craft access and swimming until further notice.",
-      "alert_id": "24758",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24758",
-      "description": "Enoggera Reservoir remains closed to paddle craft access and swimming due to recent significant rainfall events resulting in water flowing over the spillway.",
-      "details": "<p>Enoggera Reservoir remains closed to paddle craft access and swimming due to recent significant rainfall events resulting in water flowing over the spillway.</p> <p>The designated swimming area is open.</p> <p>This temporary closure is in place for your safety.<br /> Please follow all safety signs and instructions provided by Rangers.</p> <p>Thank you for your understanding.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-12",
-      "start_effective_date": "2024-12-06",
-      "end_date": "2024-12-13",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Kuranda National Park",
-      "alert_id": "24760",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24760",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Kuranda National Park from Monday 9 December to Friday 13 December 2024 (dates inclusive). These burning activities are not anticipated to impact any visitor facilities.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Kuranda National Park from Monday 9 December to Friday 13 December 2024 (dates inclusive). These burning activities are not anticipated to impact any visitor facilities.</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-06",
-      "start_effective_date": "2024-12-09",
-      "end_date": "2024-12-13",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure of Davies Creek Mountain Bike Park for planned burning activities: Dinden State Forest and Dinden West Forest Reserve",
-      "alert_id": "24761",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24761",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden State Forest and Dinden West Forest Reserve from Monday 9 December to Friday 13 December 2024 (dates inclusive). Davies Creek Mountain Bike Park will be closed to the public during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden State Forest and Dinden West Forest Reserve from Monday 9 December to Friday 13 December 2024 (dates inclusive). Davies Creek Mountain Bike Park will be closed to the public during this period.</p> <p>All other visitor facilities including camping areas, day-use areas and walking tracks will remain open.</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-12-06",
-      "start_effective_date": "2024-12-09",
-      "end_date": "2024-12-13",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     },
