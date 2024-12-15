@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2024-12-14 10:08:15"
+    "alerts_count": 161,
+    "script_run_time": "2024-12-15 10:08:12"
   },
   "alerts": [
     {
@@ -3221,6 +3221,29 @@
           "id": "148275",
           "name": "Amamoor State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/amamoor"
+        }
+      ]
+    },
+    {
+      "title": "Very large high tides",
+      "alert_id": "24781",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24781",
+      "description": "Exposed beaches in the Cooloola Recreation Area are expecting very large high tides over the coming Christmas holiday period with some sections of beach impassable.",
+      "details": "<p>Exposed beaches in the Cooloola Recreation Area are expecting very large high tides over the coming Christmas holiday period with some sections of beach impassable.</p> <p>Driving on Teewah Beach, Rainbow Beach, and Inskip beaches, within 2 hours either side of high tide should be avoided. Drivers should slow down, stop and check access conditions before deciding if it is safe to traverse. Motorists should exercise caution at all times, and plan to travel at low tide, if safe to do so.</p> <p>Beachfront campsites at Teewah and Inskip Peninsula may sustain flooding, or severe erosion creating steep drop-offs. Visitors should consider forecasted high tides and check surroundings before setting up camp, or move to a safe area if already set up camp.</p> <p>Remember, driving over vegetated dunes is dangerous and prohibited. It is damaging to the environment and can impact nesting wildlife such as turtles and shorebirds. On-the-spot fines will be issued for anyone caught damaging the dunes.</p> <p>Observe all signage, barriers and directions from rangers.</p> <p>Your safety is our concern, but your responsibility.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-15",
+      "start_effective_date": "2024-12-15",
+      "end_date": "2025-01-28",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
         }
       ]
     }
