@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 161,
-    "script_run_time": "2024-12-15 10:08:12"
+    "alerts_count": 172,
+    "script_run_time": "2024-12-16 10:10:15"
   },
   "alerts": [
     {
@@ -1070,24 +1070,6 @@
           "id": "148215",
           "name": "Crediton State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/crediton"
-        }
-      ]
-    },
-    {
-      "title": "Far Southern Boardwalk temporarily closed for repairs",
-      "alert_id": "24015",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24015",
-      "description": "The boardwalk to the beach at the end of Mon Repos Road is temporarily closed for repairs. Repairs to the boardwalk (funded by NRMA) are being progressed and will restore the vital connection to the beach, while protecting the delicate ecosystem of Mon Repos Conservation Park.",
-      "details": "<p>The boardwalk to the beach at the end of Mon Repos Road is temporarily closed for repairs. Repairs to the boardwalk (funded by NRMA) are being progressed and will restore the vital connection to the beach, while protecting the delicate ecosystem of Mon Repos Conservation Park.</p> <ul> <li>The expected completion date for this project is uncertain at this stage.</li> <li>Access to the beach is still possible via the coastal access track to the south (tide permitting), the Mon Repos Turtle Centre boardwalks and the Moore&#39;s Road carpark area.&nbsp;&nbsp;</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-05",
-      "start_effective_date": "2024-04-30",
-      "end_date": "2025-01-31",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
         }
       ]
     },
@@ -2569,6 +2551,29 @@
       ]
     },
     {
+      "title": "Wet weather access Conondale National Park",
+      "alert_id": "24721",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24721",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Booloumba Creek Road from Booloumba Creek camping area 4 to Funnels Hut Road</li> <li>Funnels Hut Road</li> <li>Vehicular access to Booloumba Falls</li> </ul> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-13",
+      "end_date": "2024-12-16",
+      "parks": [
+        {
+          "id": "152865",
+          "name": "Conondale Range Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
       "title": "Eurimbula and Deepwater National Park - Feral Animal Management",
       "alert_id": "24722",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24722",
@@ -2868,24 +2873,6 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning activities: Elliot Falls camping area, Apudthama National Park (CYPAL)",
-      "alert_id": "24748",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24748",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking planned burning activities in Apudthama National Park (CYPAL) including scheduled aerial and ground fires carried out by professionally trained Rangers.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking planned burning activities in Apudthama National Park (CYPAL) including scheduled aerial and ground fires carried out by professionally trained Rangers.</p> <p>Eliot Falls camping area will be closed from Thursday December 12 to Sunday December 15 2024 while these burns are taking place.</p> <p>If visiting the day-use area please be aware that the area may be impacted by smoke.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-12-04",
-      "start_effective_date": "2024-12-05",
-      "end_date": "2024-12-15",
-      "parks": [
-        {
-          "id": "148892",
-          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
-        }
-      ]
-    },
-    {
       "title": "Heavy Rainfall and Flash Flooding",
       "alert_id": "24750",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24750",
@@ -3081,14 +3068,14 @@
       ]
     },
     {
-      "title": "Access to Imbil State Forest - Charlie Moreland Camping Areas",
+      "title": "Wet weather access Imbil State Forest",
       "alert_id": "24772",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24772",
-      "description": "There has been localised flooding in the Imbil State Forest &amp; Little Yabba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
-      "details": "<p>There has been localised flooding in the Imbil State Forest &amp; Little Yabba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-13",
-      "start_effective_date": "2024-12-13",
+      "description": "As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Charlie Moreland camping and day use areas.</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
       "end_date": "2024-12-18",
       "parks": [
         {
@@ -3102,12 +3089,12 @@
       "title": "Daisy Hill Conservation Park - Mountain Bike Track Closure",
       "alert_id": "24773",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24773",
-      "description": "All mountain bike trails within Daisy Hill Conservation Park are closed between Weds 11th, and Monday 16th December.",
-      "details": "<p>All mountain bike trails within Daisy Hill Conservation Park are closed between Weds 11th, and Monday 16th December.</p> <p>Persistent rainfall on saturated ground has softened the surface of the mountain bike trail network. The closure is required to prevent potential damage to the trails.</p> <p>Mountain bikes are permitted to ride on firebreaks within the park during the closure period.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "description": "All mountain bike trails within Daisy Hill Conservation Park are closed between Monday 16th, and Friday 20th December.",
+      "details": "<p>All mountain bike trails within Daisy Hill Conservation Park are closed between Monday 16th, and Friday 20th December.</p> <p>Persistent rainfall on saturated ground has softened the surface of the mountain bike trail network. The closure is required to prevent potential damage to the trails.</p> <p>Mountain bikes are permitted to ride on firebreaks within the park during the closure period.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-11",
-      "start_effective_date": "2024-12-11",
-      "end_date": "2024-12-16",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-20",
       "parks": [
         {
           "id": "148560",
@@ -3189,15 +3176,15 @@
       ]
     },
     {
-      "title": "Access to Conondale National Park - Booloumba Creek Camping and Day Use Areas",
+      "title": "Wet weather access Conondale National Park",
       "alert_id": "24778",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24778",
-      "description": "There has been localised flooding in the Booloumba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
-      "details": "<p>There has been localised flooding in the Booloumba Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-13",
-      "start_effective_date": "2024-12-13",
-      "end_date": "2024-12-18",
+      "description": "As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Booloumba Creek camping and day use areas</li> <li>Booloumba Falls</li> <li>Booloumba Creek Road&nbsp;to Booloumba Falls&nbsp;</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-19",
       "parks": [
         {
           "id": "148043",
@@ -3207,20 +3194,38 @@
       ]
     },
     {
-      "title": "Access to Amamoor State Forest - Cedar Grove and Amamoor Creek Camping Areas",
+      "title": "Wet weather access Amamoor State Forest",
       "alert_id": "24779",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24779",
-      "description": "There has been localised flooding in the Amamoor Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
-      "details": "<p>There has been localised flooding in the Amamoor Creek catchment area due to heavy rainfall over the past week. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Amama day use area and walking tracks</li> <li>Cedar Grove Campground&nbsp;</li> <li>Amamoor Creek Campground&nbsp;</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a>&nbsp;for updated information regarding road and traffic conditions.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings(external link)</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Announcement",
-      "start_date": "2024-12-13",
-      "start_effective_date": "2024-12-13",
-      "end_date": "2024-12-16",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-19",
       "parks": [
         {
           "id": "148275",
           "name": "Amamoor State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/amamoor"
+        }
+      ]
+    },
+    {
+      "title": "Blackbraes National Park Werrington Road and Emu Swamp campground closed",
+      "alert_id": "24780",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24780",
+      "description": "Due to wet season conditions sections of Werrington Road leading to the Emu Swamp camping area are boggy and impassable. Both Werrington Road and Emu Swamp camping area are closed from 13 December 2024 to 28 February 2025.",
+      "details": "<p>Due to wet season conditions sections of Werrington Road leading to the Emu Swamp camping area are boggy and impassable. Both Werrington Road and Emu Swamp camping area are closed from 13 December 2024 to 28 February 2025.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackbraes"
         }
       ]
     },
@@ -3244,6 +3249,224 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
+      "title": "Bellthorpe National Park - Wet Weather Access",
+      "alert_id": "24782",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24782",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Branch Creek Road&nbsp;</li> <li>Beacon Road</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2025-01-13",
+      "parks": [
+        {
+          "id": "148400",
+          "name": "Bellthorpe National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bellthorpe"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of mountain bike trails - Tewantin NP and Parklands CP",
+      "alert_id": "24783",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24783",
+      "description": "Due to persistent rainfall on saturated ground, all mountain bike trails within Tewantin National Park (Wooroi section) and Parklands Conservation Park are closed between Monday 16 and Friday 20 December 2024.",
+      "details": "<p>Due to persistent rainfall on saturated ground, all mountain bike trails within Tewantin National Park (Wooroi section) and Parklands Conservation Park are closed between Monday 16 and Friday 20 December 2024.</p> <p>This closure is required to prevent potential damage to the trails.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-20",
+      "parks": [
+        {
+          "id": "148035",
+          "name": "Parklands Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/parklands"
+        },
+        {
+          "id": "148107",
+          "name": "Tewantin National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tewantin"
+        }
+      ]
+    },
+    {
+      "title": "Sunshine Coast Hinterland Great Walk - Wet weather closure",
+      "alert_id": "24784",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24784",
+      "description": "As a result of wet weather, the Sunshine Coast Hinterland Great Walk is temporarily closed.",
+      "details": "<p>As a result of wet weather, the Sunshine Coast Hinterland Great Walk is temporarily closed.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Sunshine Coast Hinterland Great Walk (all sections)</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-19",
+      "parks": [
+        {
+          "id": "152831",
+          "name": "Sunshine Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-sunshine-coast"
+        },
+        {
+          "id": "148243",
+          "name": "Kondalilla National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kondalilla"
+        },
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mapleton"
+        },
+        {
+          "id": "148929",
+          "name": "Mapleton Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
+        }
+      ]
+    },
+    {
+      "title": "Mapleton Falls National Park - Wet Weather Access",
+      "alert_id": "24785",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24785",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Picnic Area and all walking tracks</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-18",
+      "parks": [
+        {
+          "id": "148929",
+          "name": "Mapleton Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
+        }
+      ]
+    },
+    {
+      "title": "Burrum Coast National Park Kinkuna section - Campground and access roads closed",
+      "alert_id": "24786",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24786",
+      "description": "As a result of wet weather and flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.",
+      "details": "<p>As a result of wet weather and flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Closure&nbsp;includes:</p> <p>-&nbsp; Kinkuna bush camping area</p> <p>-&nbsp; Palm beach road</p> <p>- Southern access road</p> <p>-&nbsp; all other access to Kinkuna</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2025-01-08",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Noah Beach camping area, Cape Tribulation, Daintree National Park (CYPAL)",
+      "alert_id": "24787",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24787",
+      "description": "Noah Beach camping area will close for the wet season on Friday 20 December 2024. It is anticipated to reopen Friday 18 April 2025, subject to weather and road conditions.",
+      "details": "<p>Noah Beach camping area will close for the wet season on Friday 20 December 2024. It is anticipated to reopen Friday 18 April 2025, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-20",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Wangetti Trail : Temporary closure - Macalister Range National Park",
+      "alert_id": "24788",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24788",
+      "description": "The Wangetti Trail will temporarily be closed for maintenance works on Wednesday 18 December 2024",
+      "details": "<p>The Wangetti Trail will temporarily be closed for maintenance works on Wednesday 18 December 2024</p> <p>Works are scheduled to occur on sections of the Wangetti Trail to undertake trail maintenance.&nbsp;</p> <p>Helicopters will be used to deliver and drop materails onto the trail.</p> <p>During this period, visitors will not be able to walk or ride the trail due to public safety.</p> <p>Please observe all signage, barriers and directions from rangers or contractors and do not traverse the trail.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-18",
+      "end_date": "2024-12-18",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Eurimbula National Park - Eurimbula Creek and Middle Creek campgrounds and access roads closed",
+      "alert_id": "24789",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24789",
+      "description": "As a result of wet weather and flooded roads, all vehicle access to campgrounds and day use areas in Eurimbula National Park are temporarily closed until the roads are declared safe.",
+      "details": "<p>As a result of wet weather and flooded roads, all vehicle access to campgrounds and day use areas in Eurimbula National Park are temporarily closed until the roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>Closure&nbsp;includes:</p> <p>- Eurimbula Creek road</p> <p>- Middle Creek road&nbsp;</p> <p>- Tanti track</p> <p>- Ganoonga Noonga look out</p> <p>If you have a booking and would like to request a camping credit or refund, please visit qld.gov.au/Camping.</p> <p>Campgrounds remain accessible via boat.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-23",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eurimbula"
+        }
+      ]
+    },
+    {
+      "title": "Kondalilla National Park - Wet Weather Access",
+      "alert_id": "24790",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24790",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Kondolilla Falls Circuit Walk</li> <li>Picnic Creek Circuit Walk</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-18",
+      "parks": [
+        {
+          "id": "148243",
+          "name": "Kondalilla National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kondalilla"
+        }
+      ]
+    },
+    {
+      "title": "Temporary track closure- Box Forest and Toolona circuit",
+      "alert_id": "24791",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24791",
+      "description": "As a result of continual wet weather, the Box Forest circuit and Toolona circuits will remain temporarily closed until declared safe. High amounts of rainfall have resulted in fallen trees across the walking track.",
+      "details": "<p>As a result of continual wet weather, the Box Forest circuit and Toolona circuits will remain temporarily closed until declared safe. High amounts of rainfall have resulted in fallen trees across the walking track.</p> <p>Rangers are currently working on repairing the damage to ensure both tracks are safe for visitor access.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2024-12-20",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Burrum Coast National Park - Hoppy Larks - Access road closed",
+      "alert_id": "24792",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24792",
+      "description": "As a result of wet weather and flooded roads, Hoppy Larks is temporarily closed until the access road is declared safe.",
+      "details": "<p>As a result of wet weather and flooded roads, Hoppy Larks is temporarily closed until the access road is declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closure includes:</p> <p>Hoppy Larks access track.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-16",
+      "start_effective_date": "2024-12-16",
+      "end_date": "2025-01-08",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
         }
       ]
     }
