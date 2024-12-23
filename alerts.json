@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2024-12-22 10:07:26"
+    "alerts_count": 164,
+    "script_run_time": "2024-12-23 10:09:14"
   },
   "alerts": [
     {
@@ -925,24 +925,6 @@
       ]
     },
     {
-      "title": "Park improvements in progress",
-      "alert_id": "23797",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23797",
-      "description": "Sections of the Coastal Walk and associated visitor facilities will be undergoing construction and maintenance to improve resilience against high visitation and enhance the overall visitor experience.",
-      "details": "<p>Sections of the Coastal Walk and associated visitor facilities will be undergoing construction and maintenance to improve resilience against high visitation and enhance the overall visitor experience.</p> <p>The works will take place over sections of the walking track in a staged manner between Tea Tree Bay and the northern beach access at Alexandria Bay. Parts of the Coastal Walk will be temporarily closed. Access to Granite Bay, Hell&#39;s Gates and Alexandria Bay will be provided along alternative tracks within Noosa National Park</p> <p>Thank you for your patience while we improve the park&#39;s facilities for you and other park visitors.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Announcement",
-      "start_date": "2024-02-15",
-      "start_effective_date": "2024-02-26",
-      "end_date": "2025-02-14",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Walking Track Closure",
       "alert_id": "23892",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23892",
@@ -1556,24 +1538,6 @@
           "id": "151367",
           "name": "Goldfield trail, Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
-        }
-      ]
-    },
-    {
-      "title": "Beach Camping Zone 8 - Partial Opening",
-      "alert_id": "24500",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24500",
-      "description": "Beach camping zone 8 is partially open with camping permitted at Marloo and Duling camping areas. Ocean Lake camping area remains closed due to increased wongari (dingo) activity in the area.",
-      "details": "<p>Beach camping zone 8 is partially open with camping permitted at Marloo and Duling camping areas. Ocean Lake camping area remains closed due to increased wongari (dingo) activity in the area.</p> <p>Alternative camping is available at multiple fenced and unfenced camping areas.</p> <p>Heightened dingo activity has been occurring in Zone 8 camping area. Dingoes have ripped tents and chewed storage boxes to access food. Whilst camping in Marloo or Duling campers are asked to be extra vigilant.</p> <p>Report all interactions to QPWS rangers on (07) 4127 9150 or <a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@des.qld.gov.au</a></p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2024-10-22",
-      "start_effective_date": "2024-09-13",
-      "end_date": "2025-04-03",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
@@ -2891,24 +2855,6 @@
       ]
     },
     {
-      "title": "Upper Noosa River CLOSED due to flooding.",
-      "alert_id": "24775",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24775",
-      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on the river upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in 'The Narrows' section of the river. Walkers on the Cooloola Great Walk should be aware that sections of the walk may be submerged in water. The Walk remain open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.",
-      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on the river upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in 'The Narrows' section of the river. Walkers on the Cooloola Great Walk should be aware that sections of the walk may be submerged in water. The Walk remain open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point.</li> <li>Fig Tree Point camping area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 - 15.</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended </strong>for the duration of the closure.</p> <p>To modify your booking or request a full refund go online at https://qpws.usedirect.com/qpws/ log into your account and either modify your camping booking to another camping area or select &#39;cancel your booking&#39; for a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and will reopen when declared safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-17",
-      "start_effective_date": "2024-12-12",
-      "end_date": "2024-12-24",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Mountain Bike Trail 7 - Steps Temporary Closure",
       "alert_id": "24776",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24776",
@@ -2923,24 +2869,6 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather access Amamoor State Forest",
-      "alert_id": "24779",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24779",
-      "description": "As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather and localised flooding, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Amama day use area and walking tracks</li> <li>Cedar Grove Campground&nbsp;</li> <li>Amamoor Creek Campground&nbsp;</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a>&nbsp;for updated information regarding road and traffic conditions.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings(external link)</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-19",
-      "start_effective_date": "2024-12-16",
-      "end_date": "2024-12-23",
-      "parks": [
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/amamoor"
         }
       ]
     },
@@ -3133,9 +3061,9 @@
       "description": "Recent significant rainfall has led to flooding, resulting in the southern 2wd access to Deepwater National Park being unavailable. The affected area is at the causeway over Deepwater Creek on Wreck Rock Road.",
       "details": "<p>Recent significant rainfall has led to flooding, resulting in the southern 2wd access to Deepwater National Park being unavailable. The affected area is at the causeway over Deepwater Creek on Wreck Rock Road.</p> <p>Campgrounds remain accessible by 4wd via from the northern end of Wreck Rock Road.&nbsp;</p> <p>If you have a booking and would like to request a camping credit or refund, please visit qld.gov.au/Camping.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Other",
-      "start_date": "2024-12-17",
+      "start_date": "2024-12-23",
       "start_effective_date": "2024-12-17",
-      "end_date": "2024-12-24",
+      "end_date": "2024-12-26",
       "parks": [
         {
           "id": "148279",
@@ -3366,6 +3294,60 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Rainforest Display Centre - Lake Eacham",
+      "alert_id": "24810",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24810",
+      "description": "Rainforest Display Centre closed for the Christmas period.",
+      "details": "<p>Rainforest Display Centre closed for the Christmas period.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-23",
+      "start_effective_date": "2024-12-23",
+      "end_date": "2025-01-02",
+      "parks": [
+        {
+          "id": "148568",
+          "name": "Crater Lakes National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/crater-lakes"
+        }
+      ]
+    },
+    {
+      "title": "Summer Planned Burns",
+      "alert_id": "24811",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24811",
+      "description": "Queensland Parks and Wildlife Service will be undertaking planned burns within D'Aguilar National Park during appropriate weather opportunities over the coming months.",
+      "details": "<p>Queensland Parks and Wildlife Service will be undertaking planned burns within D'Aguilar National Park during appropriate weather opportunities over the coming months.</p> <p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns around the State to reduce the risk and intensity of bushfires and support a healthy environment.</p> <p>As a result of the planned burn, smoke may be seen in the nearby areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, summer burns rely on high soil mositure to encourage natives to re-establish quickly.</p> <p>Please follow the warnings and advise of any signs and any directions given by Rangers.&nbsp;</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>You can stay updated with local QPWS fire activities by visiting <a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a> or by following <a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a> on X (formerly known as Twitter).</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-23",
+      "start_effective_date": "2024-12-23",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: top floor of Hasties Swamp bird hide, Hasties Swamp National Park",
+      "alert_id": "24812",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24812",
+      "description": "The top floor of the Hasties Swamp bird hide will be closed to the public due to the stairway being taken down and a new one built. The public needs to be aware that Queensland Parks and Wildlife Staff (QPWS) staff may be working at the time of their visit.",
+      "details": "<p>The top floor of the Hasties Swamp bird hide will be closed to the public due to the stairway being taken down and a new one built. The public needs to be aware that Queensland Parks and Wildlife Staff (QPWS) staff may be working at the time of their visit.</p> <p>Barriers and signs will be erected for public safety. In general, visitors will be able to access the bottom section of the hide, however there may be times when work is being carried out and there will be no access.&nbsp;&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-23",
+      "start_effective_date": "2025-01-05",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148713",
+          "name": "Hasties Swamp National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hasties-swamp"
         }
       ]
     }
