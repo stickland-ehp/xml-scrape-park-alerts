@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2024-12-23 10:09:14"
+    "alerts_count": 163,
+    "script_run_time": "2024-12-24 10:08:22"
   },
   "alerts": [
     {
@@ -2084,6 +2084,24 @@
       ]
     },
     {
+      "title": "Cape Pallarenda Conservation Park automatic gate after hours closure",
+      "alert_id": "24658",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24658",
+      "description": "As of 1 December 2024 the automatic gate will be closed between the hours of 6:30pm and 6:30am. Vehicles will be able to exit during these hours by driving onto the pressure pad. Public access to the Cape Pallarenda Conservation Park by vehicles will be restricted between these hours.",
+      "details": "<p>As of 1 December 2024 the automatic gate will be closed between the hours of 6:30pm and 6:30am. Vehicles will be able to exit during these hours by driving onto the pressure pad. Public access to the Cape Pallarenda Conservation Park by vehicles will be restricted between these hours.</p>",
+      "category": "Announcement",
+      "start_date": "2024-12-24",
+      "start_effective_date": "2024-11-07",
+      "end_date": "2024-12-31",
+      "parks": [
+        {
+          "id": "148997",
+          "name": "Cape Pallarenda Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
+        }
+      ]
+    },
+    {
       "title": "Wet season closure: Palmer Goldfield Resources Reserve",
       "alert_id": "24680",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24680",
@@ -2807,9 +2825,9 @@
       "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
       "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-20",
+      "start_date": "2024-12-24",
       "start_effective_date": "2024-12-10",
-      "end_date": "2024-12-23",
+      "end_date": "2024-12-26",
       "parks": [
         {
           "id": "148199",
@@ -3001,24 +3019,6 @@
       ]
     },
     {
-      "title": "Eurimbula National Park - Eurimbula Creek and Middle Creek campgrounds and access roads closed",
-      "alert_id": "24789",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24789",
-      "description": "As a result of wet weather and flooded roads, all vehicle access to campgrounds and day use areas in Eurimbula National Park are temporarily closed until the roads are declared safe.",
-      "details": "<p>As a result of wet weather and flooded roads, all vehicle access to campgrounds and day use areas in Eurimbula National Park are temporarily closed until the roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>Closure&nbsp;includes:</p> <p>- Eurimbula Creek road</p> <p>- Middle Creek road&nbsp;</p> <p>- Tanti track</p> <p>- Ganoonga Noonga look out</p> <p>If you have a booking and would like to request a camping credit or refund, please visit qld.gov.au/Camping.</p> <p>Campgrounds remain accessible via boat.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-16",
-      "start_effective_date": "2024-12-16",
-      "end_date": "2024-12-23",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
       "title": "Temporary track closure- Box Forest and Toolona Creek circuit.",
       "alert_id": "24791",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24791",
@@ -3145,67 +3145,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "24803",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24803",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2024-12-19",
-      "start_effective_date": "2024-12-20",
-      "end_date": "2024-12-23",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
-      "title": "Hazardous beach conditions impacting Southeast Queensland coastal parks",
-      "alert_id": "24804",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24804",
-      "description": "Strong winds and large surf have the potential to create hazardous driving conditions. Beaches exposed to wave action may also experience coastal beach erosion.",
-      "details": "<p>Strong winds and large surf have the potential to create hazardous driving conditions. Beaches exposed to wave action may also experience coastal beach erosion.</p> <p>Beach hazards such as steep sand dunes, deep washouts, fast flowing creek and lagoon outlets, hidden banks, fallen trees, exposed coffee rock and debris including logs may occur from current weather conditions.</p> <p>Motorist should exercise extreme care when driving on exposed beaches and plan to travel at low tide only, if safe to do so. Some beaches may be impassable even at low tide.&nbsp; Driving on vegetated dunes is not permitted. On-the-spot fines will be issued for anyone caught damaging the dunes.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Stay informed of any closures and weather conditions:</p> <ul> <li>Tune in to local ABC radio stations for weather updates.</li> <li>Check <a href=\"http://131940.qld.gov.au\">road conditions</a>.</li> <li>Check <a href=\"http://www.bom.gov.au/qld/warnings/\">weather reports</a>.</li> </ul> <p>&nbsp;</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2024-12-19",
-      "start_effective_date": "2024-12-19",
-      "end_date": "2024-12-23",
-      "parks": [
-        {
-          "id": "150268",
-          "name": "Naree Budjong Djara National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
-        },
-        {
-          "id": "151400",
-          "name": "South Stradbroke Island Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/south-stradbroke-island"
-        },
-        {
-          "id": "148315",
-          "name": "Minjerribah Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
-        },
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        },
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
       "title": "Wet Season safety information: significant stream rises Alligator Creek, Bowling Green Bay National Park",
       "alert_id": "24805",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24805",
@@ -3280,24 +3219,6 @@
       ]
     },
     {
-      "title": "Wet weather closure - Mt Mee Section",
-      "alert_id": "24809",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24809",
-      "description": "As a result of wet weather within the D'Aguilar Nation Park (Mt Mee Section) some roads have been damaged by flood water. Some roads are closed for safety and allow time for the road network to dry out and prevent unnecessary damage to road surface.",
-      "details": "<p>As a result of wet weather within the D'Aguilar Nation Park (Mt Mee Section) some roads have been damaged by flood water. Some roads are closed for safety and allow time for the road network to dry out and prevent unnecessary damage to road surface.</p> <p>Access to The Gantry Day Use Area, Neurum Creek camping area and Archer camping area are open, access via Sellin Road only.</p> <p>Rasmussen Rd to Archer camping area - CLOSED<br /> Western Escarpment forest drive - CLOSED<br /> Mt Mee forest Drive - CLOSED<br /> Range Road forest drive - CLOSED</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2024-12-20",
-      "start_effective_date": "2024-12-19",
-      "end_date": "2024-12-23",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Rainforest Display Centre - Lake Eacham",
       "alert_id": "24810",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24810",
@@ -3348,6 +3269,42 @@
           "id": "148713",
           "name": "Hasties Swamp National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hasties-swamp"
+        }
+      ]
+    },
+    {
+      "title": "Wangetti Trail: Potential trail obstructions and vegetation works occurring - Macalister Range National Park",
+      "alert_id": "24813",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24813",
+      "description": "The Wangetti Trail may have vegetation maintenance being undertaken within the trail alignment due to fallen trees or other minor obstructions. Please exercise care during walking or riding and observe all signage, barriers and directions from rangers or contractors.",
+      "details": "<p>The Wangetti Trail may have vegetation maintenance being undertaken within the trail alignment due to fallen trees or other minor obstructions. Please exercise care during walking or riding and observe all signage, barriers and directions from rangers or contractors.</p>",
+      "category": "Other",
+      "start_date": "2024-12-24",
+      "start_effective_date": "2024-12-23",
+      "end_date": "2024-12-31",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Enoggera Reservoir re-open for swimming",
+      "alert_id": "24814",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24814",
+      "description": "Enoggera Reservoir is open for swimming but remains closed to all paddle craft",
+      "details": "<p>Enoggera Reservoir is open for swimming but remains closed to all paddle craft</p> <p>Swimming is permitted in Enoggera Reservoir in the designated swimming area, but all paddle craft activities are prohibited at this time, until further notice.&nbsp;</p>",
+      "category": "Park or facility opening",
+      "start_date": "2024-12-24",
+      "start_effective_date": "2024-12-24",
+      "end_date": "2024-12-27",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     }
