@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2024-12-24 10:08:22"
+    "alerts_count": 160,
+    "script_run_time": "2024-12-25 10:08:21"
   },
   "alerts": [
     {
@@ -1953,24 +1953,6 @@
       ]
     },
     {
-      "title": "Cathu Cauley Road Works",
-      "alert_id": "24620",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24620",
-      "description": "Works are currently being undertaken on the Cathu Cauley Road to repair road infrastructure.",
-      "details": "<p>Works are currently being undertaken on the Cathu Cauley Road to repair road infrastructure.</p> <p>Traffic control and appropriate signage will be in place for the duration of the works. Visitors to Cathu State Forest are asked to obey all signage.</p> <p>Please monitor Park Alerts for updates .</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-11-26",
-      "start_effective_date": "2024-10-28",
-      "end_date": "2024-12-24",
-      "parks": [
-        {
-          "id": "148027",
-          "name": "Cathu State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/cathu"
-        }
-      ]
-    },
-    {
       "title": "Certified support dogs and assistance animals at Bluff Point, Capricorn Coast National Park",
       "alert_id": "24632",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24632",
@@ -2950,39 +2932,6 @@
       ]
     },
     {
-      "title": "Sunshine Coast Hinterland Great Walk - Wet weather access",
-      "alert_id": "24784",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24784",
-      "description": "Following easing of recent heavy rain, creek levels on the Great Walk are now reducing and access should be possible.",
-      "details": "<p>Following easing of recent heavy rain, creek levels on the Great Walk are now reducing and access should be possible.</p> <p>Large sections of the track have not been checked by ranger staff and may be affected.&nbsp; Visitors are asked to take care in wet and slippery conditions.&nbsp; Any issues or fallen trees can be reported to 13QGOV (137468) or via the Enquiry form on the Parks and Forests website.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-17",
-      "start_effective_date": "2024-12-16",
-      "end_date": "2024-12-24",
-      "parks": [
-        {
-          "id": "152831",
-          "name": "Sunshine Coast Hinterland Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-sunshine-coast"
-        },
-        {
-          "id": "148243",
-          "name": "Kondalilla National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kondalilla"
-        },
-        {
-          "id": "148945",
-          "name": "Mapleton National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mapleton"
-        },
-        {
-          "id": "148929",
-          "name": "Mapleton Falls National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mapleton-falls"
-        }
-      ]
-    },
-    {
       "title": "Burrum Coast National Park Kinkuna section - Campground and access roads closed",
       "alert_id": "24786",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24786",
@@ -3069,24 +3018,6 @@
           "id": "148279",
           "name": "Deepwater National Park",
           "url": "https://parks.desi.qld.gov.au/parks/deepwater"
-        }
-      ]
-    },
-    {
-      "title": "Hazardous driving conditions on Ocean Beach",
-      "alert_id": "24798",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24798",
-      "description": "Heavy rainfall has caused Second lagoon on Ocean Beach to break through and flow across the beach. Deep washouts are likely around the lagoon with conditions changing on a tidal basis. Check depth before crossing the lagoon as fast flowing water and soft sand can make vehicle crossing dangerous.",
-      "details": "<p>Heavy rainfall has caused Second lagoon on Ocean Beach to break through and flow across the beach. Deep washouts are likely around the lagoon with conditions changing on a tidal basis. Check depth before crossing the lagoon as fast flowing water and soft sand can make vehicle crossing dangerous.</p> <p><strong>Beach travel is recommended one hour either side of low tide only.</strong> Travelling three hours either side of high tide should be avoided.</p> <p>Motorist should use caution when travelling along the beach and travel at a reduce speed to avoid hazards such as steep sand dunes, deep washouts, hidden banks, fallen trees and large debris.&nbsp;Driving over vegetated dunes is not permitted despite conditions. On-the-spot fines apply for anyone found driving over the vegetated dunes.</p> <p>Observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2024-12-17",
-      "start_effective_date": "2024-12-17",
-      "end_date": "2024-12-24",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
         }
       ]
     },
@@ -3294,10 +3225,10 @@
       "title": "Enoggera Reservoir re-open for swimming",
       "alert_id": "24814",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24814",
-      "description": "Enoggera Reservoir is open for swimming but remains closed to all paddle craft",
-      "details": "<p>Enoggera Reservoir is open for swimming but remains closed to all paddle craft</p> <p>Swimming is permitted in Enoggera Reservoir in the designated swimming area, but all paddle craft activities are prohibited at this time, until further notice.&nbsp;</p>",
+      "description": "Enoggera Reservoir is now open for both swimming and paddle craft.",
+      "details": "<p>Enoggera Reservoir is now open for both swimming and paddle craft.</p> <p>Swimming is permitted in Enoggera Reservoir in the designated swimming area, but all paddle craft activities are prohibited at this time, until further notice.&nbsp;</p>",
       "category": "Park or facility opening",
-      "start_date": "2024-12-24",
+      "start_date": "2024-12-25",
       "start_effective_date": "2024-12-24",
       "end_date": "2024-12-27",
       "parks": [
