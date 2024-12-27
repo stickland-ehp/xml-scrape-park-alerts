@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2024-12-26 10:08:33"
+    "alerts_count": 158,
+    "script_run_time": "2024-12-27 10:08:14"
   },
   "alerts": [
     {
@@ -2801,24 +2801,6 @@
       ]
     },
     {
-      "title": "Wet weather  Cedar Creek rock pools closed",
-      "alert_id": "24770",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24770",
-      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-24",
-      "start_effective_date": "2024-12-10",
-      "end_date": "2024-12-26",
-      "parks": [
-        {
-          "id": "148199",
-          "name": "Tamborine National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
       "title": "Exercise caution when walking reservoir tracks.",
       "alert_id": "24771",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24771",
@@ -3000,24 +2982,6 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
-      "title": "Southern access to Deepwater NP unavailable due to localised flooding",
-      "alert_id": "24793",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24793",
-      "description": "Recent significant rainfall has led to flooding, resulting in the southern 2wd access to Deepwater National Park being unavailable. The affected area is at the causeway over Deepwater Creek on Wreck Rock Road.",
-      "details": "<p>Recent significant rainfall has led to flooding, resulting in the southern 2wd access to Deepwater National Park being unavailable. The affected area is at the causeway over Deepwater Creek on Wreck Rock Road.</p> <p>Campgrounds remain accessible by 4wd via from the northern end of Wreck Rock Road.&nbsp;</p> <p>If you have a booking and would like to request a camping credit or refund, please visit qld.gov.au/Camping.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2024-12-23",
-      "start_effective_date": "2024-12-17",
-      "end_date": "2024-12-26",
-      "parks": [
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/deepwater"
         }
       ]
     },
