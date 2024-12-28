@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2024-12-27 10:08:14"
+    "alerts_count": 157,
+    "script_run_time": "2024-12-28 10:07:22"
   },
   "alerts": [
     {
@@ -3182,24 +3182,6 @@
           "id": "149397",
           "name": "Macalister Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
-      "title": "Enoggera Reservoir re-open for swimming",
-      "alert_id": "24814",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24814",
-      "description": "Enoggera Reservoir is now open for both swimming and paddle craft.",
-      "details": "<p>Enoggera Reservoir is now open for both swimming and paddle craft.</p> <p>Swimming is permitted in Enoggera Reservoir in the designated swimming area, but all paddle craft activities are prohibited at this time, until further notice.&nbsp;</p>",
-      "category": "Park or facility opening",
-      "start_date": "2024-12-25",
-      "start_effective_date": "2024-12-24",
-      "end_date": "2024-12-27",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     }
