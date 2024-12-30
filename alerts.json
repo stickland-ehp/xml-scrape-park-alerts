@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2024-12-29 10:07:28"
+    "alerts_count": 156,
+    "script_run_time": "2024-12-30 10:09:13"
   },
   "alerts": [
     {
@@ -2946,24 +2946,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Temporary track closure- Box Forest and Toolona Creek circuit.",
-      "alert_id": "24791",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24791",
-      "description": "As a result of continual wet weather, the Box Forest and Toolona Creek circuit will remain temporarily closed until declared safe. High amounts of rainfall have resulted in creeks with rising and fast flowing water, swollen creek crossing making them impassable and fallen trees across the walking tracks.",
-      "details": "<p>As a result of continual wet weather, the Box Forest and Toolona Creek circuit will remain temporarily closed until declared safe. High amounts of rainfall have resulted in creeks with rising and fast flowing water, swollen creek crossing making them impassable and fallen trees across the walking tracks.</p> <p>Rangers are currently working on repairing the damage and assessing creek crossings to ensure both tracks are safe for visitor access.</p> <p>Observe all signage, barriers, and directions from rangers, and do not enter the closed area.</p> <p>Please see the link below for all walking track closures within Lamington National Park.</p> <ul> <li><a href=\"https://parks.desi.qld.gov.au/park-alerts#section-gold-coast\">https://parks.desi.qld.gov.au/park-alerts#section-gold-coast</a></li> </ul> <p>All other walking tracks within Lamington National Park remain open for visitor access (except for those identified in separate Park Alerts).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please check Park Alerts as they are regularly updated regarding conditions on park.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-17",
-      "start_effective_date": "2024-12-16",
-      "end_date": "2025-01-31",
-      "parks": [
-        {
-          "id": "148271",
-          "name": "Lamington National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lamington"
         }
       ]
     },
