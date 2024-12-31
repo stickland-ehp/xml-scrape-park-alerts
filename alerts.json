@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 156,
-    "script_run_time": "2024-12-30 10:09:13"
+    "script_run_time": "2024-12-31 10:08:30"
   },
   "alerts": [
     {
@@ -429,24 +429,6 @@
           "id": "148295",
           "name": "Eungella National Park",
           "url": "https://parks.desi.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
-      "title": "Bribie Islands northern breakaway section remains part of the recreation area",
-      "alert_id": "23083",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23083",
-      "description": "In early 2022, a new coastal bar was cut through Bribie Island 2kms from the northern end of Bribie Island Recreation Area, separating the park into two sections.",
-      "details": "<p>In early 2022, a new coastal bar was cut through Bribie Island 2kms from the northern end of Bribie Island Recreation Area, separating the park into two sections.</p> <p>This northern breakaway section of Bribie Island remains part of the Bribie Island National Park and Recreation Area. While the national park boundary remains at the high tide mark, the recreation area boundary extends down to the mean low water mark and moves with the accretion and erosion of the sand. Newly formed sandbars and vegetated dunes at this northern breakaway section fall within the recreation area boundary.</p> <p>Boaties and mainland residents are reminded that this northern breakaway section is not suitable for dog walking.</p> <p>All national park and recreation area regulations continue to be enforceable including dogs, fires and camping being prohibited from this section of the recreation area.</p> <p>Rangers will be patrolling this area and can issue fines for anyone caught breaching park rules.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2023-12-30",
-      "start_effective_date": "2023-06-30",
-      "end_date": "2024-12-30",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
         }
       ]
     },
@@ -1070,24 +1052,6 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
-      "title": "New Toilet dump point",
-      "alert_id": "24115",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24116",
-      "description": "From the 20th June 2024 a new Toilet dump point will be operational to service national park camper needs. The facility located 4.5km north of Southend on the road to Connor Bluff, will provide safe access for car and caravans where contents of portable toilet cassettes and or caravan holding tanks can be disposed of. Water (not suitable for consumption) will also be provided for cleaning requirements.",
-      "details": "<p>From the 20th June 2024 a new Toilet dump point will be operational to service national park camper needs. The facility located 4.5km north of Southend on the road to Connor Bluff, will provide safe access for car and caravans where contents of portable toilet cassettes and or caravan holding tanks can be disposed of. Water (not suitable for consumption) will also be provided for cleaning requirements.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2024-06-03",
-      "start_effective_date": "2024-06-01",
-      "end_date": "2024-12-30",
-      "parks": [
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
         }
       ]
     },
@@ -3164,6 +3128,42 @@
           "id": "149397",
           "name": "Macalister Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Flood alert for Wongi Waterholes campsite",
+      "alert_id": "24815",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24815",
+      "description": "Due to recent heavy rainfall, Fraser Coast Regional Council have advised that high inflow to Lenthalls Dam may cause minor flooding of local roads for extended periods over the coming days, including causeways located on Warrah Road. Wongi Waterholes campground may become temporarily isolated while the causeways are under water.",
+      "details": "<p>Due to recent heavy rainfall, Fraser Coast Regional Council have advised that high inflow to Lenthalls Dam may cause minor flooding of local roads for extended periods over the coming days, including causeways located on Warrah Road. Wongi Waterholes campground may become temporarily isolated while the causeways are under water.</p> <p>Campers already staying at the Wongi Waterholes campground are advised not to cross flooded roads and to wait until water levels recede before trying to leave or re-enter the campground.&nbsp; Additional rainfall is expected across the catchment over the coming days and water levels may fluctuate after each rainfall event.&nbsp; Campers choosing to stay at the campground over this period will need to be prepared to stay for an extended period of time and to be entirely self-sufficient.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-31",
+      "start_effective_date": "2024-12-31",
+      "end_date": "2025-01-06",
+      "parks": [
+        {
+          "id": "148023",
+          "name": "Wongi State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/wongi"
+        }
+      ]
+    },
+    {
+      "title": "Upper Noosa River CLOSED due to flooding",
+      "alert_id": "24816",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24816",
+      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River.",
+      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River.</p> <p>Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended</strong> for the duration of the closure.</p> <p>To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2024-12-31",
+      "start_effective_date": "2024-12-31",
+      "end_date": "2025-01-06",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
         }
       ]
     }
