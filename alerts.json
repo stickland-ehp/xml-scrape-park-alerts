@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 156,
-    "script_run_time": "2024-12-31 10:08:30"
+    "alerts_count": 146,
+    "script_run_time": "2025-01-01 10:08:40"
   },
   "alerts": [
     {
@@ -392,24 +392,6 @@
       ]
     },
     {
-      "title": "Cathu State Forest Access via Cathu Cauley Road",
-      "alert_id": "22951",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/22951",
-      "description": "Visitors are advised that Cathu Cauley Road, the access road to Cathu State Forest is currently in poor condition due to erosion caused by heavy rain.",
-      "details": "<p>Visitors are advised that Cathu Cauley Road, the access road to Cathu State Forest is currently in poor condition due to erosion caused by heavy rain.</p> <p>The road is open to high clearance 4wd vehicles only. Please proceed with caution.&nbsp;</p>",
-      "category": "Other",
-      "start_date": "2024-10-30",
-      "start_effective_date": "2023-05-15",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "148027",
-          "name": "Cathu State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/cathu"
-        }
-      ]
-    },
-    {
       "title": "Clarke Range Track Closure",
       "alert_id": "22984",
       "url": "https://parks.desi.qld.gov.au/park-alerts/22984",
@@ -570,24 +552,6 @@
           "id": "148231",
           "name": "Mangkalba (Cedar Bay), Ngalba Bulal National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mangkalba"
-        }
-      ]
-    },
-    {
-      "title": "Partial closure: 1 of 4 Snapper Island campsites remain closed",
-      "alert_id": "23542",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23542",
-      "description": "The easternmost campsite of Snapper Island remains closed following damage from Cyclone Jasper in December 2023.",
-      "details": "<p>The easternmost campsite of Snapper Island remains closed following damage from Cyclone Jasper in December 2023.</p> <p>The other three campsites have been reopened and are available to book. The island has also been reopened for day use.</p> <p>The island is open with caution; please be aware that there is still some debris around the sites and internal tracks, and noticeable&nbsp;cyclone damage to the island. Rangers have worked to ensure that visitor infrastructure is safe. The easternmost campsite will be reopened once additional works have been completed.</p> <p>Please observe all signage, barriers, and directions from Rangers and do not enter closed areas.</p> <p>We apologise for any inconvenience.</p> <p>If you have a camping booking and would like to request a camping credit or refund visit&nbsp;<a href=\"https://qpws.usedirect.com/qpws/\">qld.gov.au/Camping</a></p> <p>Please check&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;on the department&#39;s website for updates.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-03-28",
-      "start_effective_date": "2023-12-11",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "148368",
-          "name": "Snapper Island, Hope Islands National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/hope-snapper"
         }
       ]
     },
@@ -794,24 +758,6 @@
       ]
     },
     {
-      "title": "Russell Island camping area closed",
-      "alert_id": "23680",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23680",
-      "description": "Russell Island camping area will be closed until further notice while management authorities make decisions about the future suitability for recreational infrastructure in this area.",
-      "details": "<p>Russell Island camping area will be closed until further notice while management authorities make decisions about the future suitability for recreational infrastructure in this area.</p> <p>Erosion has significantly affected the northern beach of the low-lying sandy portion of Russell Island. This&nbsp;was exacerbated by Tropical Cyclone Jasper in December 2023. Erosion&nbsp;now threatens the camping area&nbsp;as well as the safe operation and longevity of the toilet block in its current location.</p> <p>For this reason, Russell Island will be closed for camping indefinitely. The island is still open for day use.</p> <p>Russell Island is a Commonwealth Island managed jointly by Queensland Parks and Wildlife Service and the Great Barrier Reef Marine Park Authority.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-01-17",
-      "start_effective_date": "2024-01-17",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "148749",
-          "name": "Frankland Group National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/frankland-group"
-        }
-      ]
-    },
-    {
       "title": "Cooroora Shared Trail 2 entry closed at School Street",
       "alert_id": "23698",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23698",
@@ -854,9 +800,9 @@
       "description": "As a result of flood damage Figtree Point can only be accessed from Harrys Hut or the Boronia Walk. The Kin Kin Creek pedestrian bridge linking Elanda Point to Figtree Point on the Cooloola Wilderness Trail has been washed away.",
       "details": "<p>As a result of flood damage Figtree Point can only be accessed from Harrys Hut or the Boronia Walk. The Kin Kin Creek pedestrian bridge linking Elanda Point to Figtree Point on the Cooloola Wilderness Trail has been washed away.</p> <p>Works are currently underway to replace the bridge and restore access between Figtree Point and Elanda Point.</p> <p>Swimming across this creek is strongly discouraged due to the presence&nbsp;submerged objects.</p> <p>Access to Mill Point and Kinaba from Elanda Point is not affected.&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Announcement",
-      "start_date": "2024-06-14",
+      "start_date": "2025-01-01",
       "start_effective_date": "2024-01-31",
-      "end_date": "2025-01-01",
+      "end_date": "2025-06-01",
       "parks": [
         {
           "id": "148183",
@@ -1529,24 +1475,6 @@
       ]
     },
     {
-      "title": "Eel-tail Catfish in Enoggera Reservoir Swimming Area",
-      "alert_id": "24509",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24509",
-      "description": "Attention swimmers and visitors to Enoggera Reservoir Please be aware that Eel-tail Catfish have been observed around the designated swimming area. We urge all swimmers to exercise caution while enjoying the water as these fish can bite.",
-      "details": "<p>Attention swimmers and visitors to Enoggera Reservoir Please be aware that Eel-tail Catfish have been observed around the designated swimming area. We urge all swimmers to exercise caution while enjoying the water as these fish can bite.</p> <p>Please do not attempt to touch or interact with the fish.<br /> Keep a respectful distance from areas where fish are visible.<br /> Supervise children closely to ensure they swim safely.<br /> Stay safe and enjoy your visit!</p> <p>For more information please contact Walkabout Creek Discover Centre on : (07) 3164 3600</p>",
-      "category": "Announcement",
-      "start_date": "2024-09-16",
-      "start_effective_date": "2024-09-16",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Downfall Creek, Kauri Creek and Fong On Bay camping areas, Danbulla National Park.",
       "alert_id": "24514",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
@@ -1692,29 +1620,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Wangetti Trail  Minor Works",
-      "alert_id": "24572",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24572",
-      "description": "Sections of the Wangetti Trail may be undergoing minor works from 1 October until 31 December 2024. This may include sections of the trail through Macalister Range National Park.",
-      "details": "<p>Sections of the Wangetti Trail may be undergoing minor works from 1 October until 31 December 2024. This may include sections of the trail through Macalister Range National Park.</p> <p>All works will occur between 7am and 4pm, Monday to Friday.</p> <p>Unless otherwise indicated, the trail will remain open, however bikers may need to dismount and walk their bikes through the work areas.</p> <p>For your safety, please observe all signs, barriers and directions from work crews, and do not enter closed areas.</p> <p>For further information about the Wangetti Trail, visit <a href=\"https://www.dts.qld.gov.au/tourism/qld-ecotourism-trails/wangetti-trail\">https://www.dts.qld.gov.au/tourism/qld-ecotourism-trails/wangetti-trail</a></p>",
-      "category": "Announcement",
-      "start_date": "2024-10-04",
-      "start_effective_date": "2024-10-01",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "354857",
-          "name": "Wangetti Trail",
-          "url": "https://parks.desi.qld.gov.au/parks/wangetti-trail"
-        },
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     },
@@ -2030,24 +1935,6 @@
       ]
     },
     {
-      "title": "Cape Pallarenda Conservation Park automatic gate after hours closure",
-      "alert_id": "24658",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24658",
-      "description": "As of 1 December 2024 the automatic gate will be closed between the hours of 6:30pm and 6:30am. Vehicles will be able to exit during these hours by driving onto the pressure pad. Public access to the Cape Pallarenda Conservation Park by vehicles will be restricted between these hours.",
-      "details": "<p>As of 1 December 2024 the automatic gate will be closed between the hours of 6:30pm and 6:30am. Vehicles will be able to exit during these hours by driving onto the pressure pad. Public access to the Cape Pallarenda Conservation Park by vehicles will be restricted between these hours.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-24",
-      "start_effective_date": "2024-11-07",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "148997",
-          "name": "Cape Pallarenda Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Palmer Goldfield Resources Reserve",
       "alert_id": "24680",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24680",
@@ -2267,24 +2154,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Recent crocodile sighting Flinders Island camping area",
-      "alert_id": "24710",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24710",
-      "description": "A crocodile has been recently sighted around the beach at the camping area on Flinders Island. Be Crocwise in Croc Country. Report any crocodile sightings using the QWildlife App or call 1300 130 372.",
-      "details": "<p>A crocodile has been recently sighted around the beach at the camping area on Flinders Island. Be Crocwise in Croc Country. Report any crocodile sightings using the QWildlife App or call 1300 130 372.</p> <p>Camp well back from the waters edges and limited your time at the water&#39;s edge. Avoid using the same spot repeatedly as crocodiles recognise repeated behaviours. Learn more at https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise</p>",
-      "category": "Other",
-      "start_date": "2024-11-25",
-      "start_effective_date": "2024-11-25",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "149029",
-          "name": "Flinders Group National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/flinders-group"
         }
       ]
     },
@@ -2670,29 +2539,6 @@
       ]
     },
     {
-      "title": "Heavy Rainfall and Flash Flooding",
-      "alert_id": "24750",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24750",
-      "description": "Please be advised that due to heavy rainfall around Hinchinbrook Island National Park flash flooding may occur along the Thorsborne Trail and at the campsites.",
-      "details": "<p>Please be advised that due to heavy rainfall around Hinchinbrook Island National Park flash flooding may occur along the Thorsborne Trail and at the campsites.</p> <p>Take time to plan ahead and be aware of extra risks while hiking such as swift water, flooded creeks and slippery surfaces. Visitor experience may also be affected due to altered conditions.</p> <p>Please consider having a back-up plan and options for getting picked-up from Hinchinbrook.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-04",
-      "start_effective_date": "2024-12-04",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
       "title": "Bat Cleft - Boardwalk",
       "alert_id": "24752",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24752",
@@ -2761,24 +2607,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Exercise caution when walking reservoir tracks.",
-      "alert_id": "24771",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24771",
-      "description": "Due to recent heavy rainfall, please be advised that walking tracks around Enoggera Reservoir may be slippery and muddy. In addition, some sections of the tracks could be partially flooded, particularly in areas where water runs off into the catchment. Exercise caution when using these tracks.",
-      "details": "<p>Due to recent heavy rainfall, please be advised that walking tracks around Enoggera Reservoir may be slippery and muddy. In addition, some sections of the tracks could be partially flooded, particularly in areas where water runs off into the catchment. Exercise caution when using these tracks.</p> <p>Please adhere to all saftey signage and directions provided by rangers.<br /> &nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-11",
-      "start_effective_date": "2024-12-10",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     },
@@ -3110,24 +2938,6 @@
           "id": "148713",
           "name": "Hasties Swamp National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hasties-swamp"
-        }
-      ]
-    },
-    {
-      "title": "Wangetti Trail: Potential trail obstructions and vegetation works occurring - Macalister Range National Park",
-      "alert_id": "24813",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24813",
-      "description": "The Wangetti Trail may have vegetation maintenance being undertaken within the trail alignment due to fallen trees or other minor obstructions. Please exercise care during walking or riding and observe all signage, barriers and directions from rangers or contractors.",
-      "details": "<p>The Wangetti Trail may have vegetation maintenance being undertaken within the trail alignment due to fallen trees or other minor obstructions. Please exercise care during walking or riding and observe all signage, barriers and directions from rangers or contractors.</p>",
-      "category": "Other",
-      "start_date": "2024-12-24",
-      "start_effective_date": "2024-12-23",
-      "end_date": "2024-12-31",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     },
