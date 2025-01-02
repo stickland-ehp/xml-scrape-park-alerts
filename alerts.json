@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 146,
-    "script_run_time": "2025-01-01 10:08:40"
+    "alerts_count": 147,
+    "script_run_time": "2025-01-02 10:08:24"
   },
   "alerts": [
     {
@@ -1620,6 +1620,29 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Wangetti Trail  Minor Works",
+      "alert_id": "24572",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24572",
+      "description": "Sections of the Wangetti Trail through Macalister Range National Park will be undergoing maintenance and minor works activities from 1st January 2025 until further notice.",
+      "details": "<p>Sections of the Wangetti Trail through Macalister Range National Park will be undergoing maintenance and minor works activities from 1st January 2025 until further notice.</p> <p>Works may occur between 7am and 5pm, Monday to Friday.</p> <p>Unless otherwise indicated, the trail will remain open, however bikers may need to dismount and walk their bikes through any work areas.</p> <p>For your safety, please observe all signs, barriers and directions from work crews.</p> <p>For further information about the Wangetti Trail, visit <a href=\"https://www.dts.qld.gov.au/tourism/qld-ecotourism-trails/wangetti-trail\">https://www.dts.qld.gov.au/tourism/qld-ecotourism-trails/wangetti-trail</a></p>",
+      "category": "Announcement",
+      "start_date": "2025-01-02",
+      "start_effective_date": "2024-10-01",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "354857",
+          "name": "Wangetti Trail",
+          "url": "https://parks.desi.qld.gov.au/parks/wangetti-trail"
+        },
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     },
