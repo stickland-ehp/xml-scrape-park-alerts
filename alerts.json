@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 147,
-    "script_run_time": "2025-01-02 10:08:24"
+    "alerts_count": 148,
+    "script_run_time": "2025-01-03 10:08:37"
   },
   "alerts": [
     {
@@ -894,15 +894,15 @@
       ]
     },
     {
-      "title": "Walk with caution: Keatings Lagoon walking track, Keatings Lagoon Conservation Park.",
+      "title": "Walk with caution: Keatings Lagoon walking track, Keatings Lagoon Conservation Park",
       "alert_id": "23914",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23914",
       "description": "Following impacts of ex-tropical cyclone Jasper, areas of flooding have occurred. Keatings Lagoon walking track is open, but the track is slippery in places.",
       "details": "<p>Following impacts of ex-tropical cyclone Jasper, areas of flooding have occurred. Keatings Lagoon walking track is open, but the track is slippery in places.</p> <p>For your safety, please take caution when walking close to watercourses.</p> <p>Please monitor this park alert for current information.</p>",
       "category": "Announcement",
-      "start_date": "2024-12-05",
+      "start_date": "2025-01-03",
       "start_effective_date": "2024-03-26",
-      "end_date": "2025-01-06",
+      "end_date": "2025-01-31",
       "parks": [
         {
           "id": "148844",
@@ -2911,24 +2911,6 @@
       ]
     },
     {
-      "title": "Rainforest Display Centre - Lake Eacham",
-      "alert_id": "24810",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24810",
-      "description": "Rainforest Display Centre closed for the Christmas period.",
-      "details": "<p>Rainforest Display Centre closed for the Christmas period.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-23",
-      "start_effective_date": "2024-12-23",
-      "end_date": "2025-01-02",
-      "parks": [
-        {
-          "id": "148568",
-          "name": "Crater Lakes National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/crater-lakes"
-        }
-      ]
-    },
-    {
       "title": "Summer Planned Burns",
       "alert_id": "24811",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24811",
@@ -2997,6 +2979,42 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather damage - Starkvale camping area",
+      "alert_id": "24818",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24818",
+      "description": "Due to extreme wet weather, all access roads to the Starkvale camping area are currently impassable for caravans and trailers.",
+      "details": "<p>Due to extreme wet weather, all access roads to the Starkvale camping area are currently impassable for caravans and trailers.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-01-03",
+      "start_effective_date": "2025-01-03",
+      "end_date": "2025-01-10",
+      "parks": [
+        {
+          "id": "148508",
+          "name": "Expedition National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/expedition"
+        }
+      ]
+    },
+    {
+      "title": "Unscheduled works for Best of All lookout track - track closed",
+      "alert_id": "24819",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24819",
+      "description": "Un-scheduled maintenance is required at Best of All lookout track from 3/01/2024 to 6/01/2024.",
+      "details": "<p>Un-scheduled maintenance is required at Best of All lookout track from 3/01/2024 to 6/01/2024.</p> <p>The walking track will be closed for the dration of the works.&nbsp;<br /> All permits for closed areas are suspended for the duration of the closure.&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-03",
+      "start_effective_date": "2025-01-03",
+      "end_date": "2025-01-06",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
         }
       ]
     }
