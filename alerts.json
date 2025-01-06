@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 148,
-    "script_run_time": "2025-01-05 10:07:50"
+    "alerts_count": 149,
+    "script_run_time": "2025-01-06 10:09:20"
   },
   "alerts": [
     {
@@ -388,6 +388,24 @@
           "id": "148420",
           "name": "Hinchinbrook Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Cathu State Forest Access via Cathu Cauley Road",
+      "alert_id": "22951",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/22951",
+      "description": "Visitors are advised that Cathu Cauley Road, the access road to Cathu State Forest is currently in poor condition due to erosion caused by heavy rain.",
+      "details": "<p>Visitors are advised that Cathu Cauley Road, the access road to Cathu State Forest is currently in poor condition due to erosion caused by heavy rain.</p> <p>The road is open to high clearance 4wd vehicles only. Please proceed with caution.&nbsp;</p>",
+      "category": "Other",
+      "start_date": "2025-01-06",
+      "start_effective_date": "2023-05-15",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "148027",
+          "name": "Cathu State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cathu"
         }
       ]
     },
@@ -877,9 +895,9 @@
       "description": "The Bartle Frere access road at the western trailhead, and Junction camp are closed due to wet conditions. During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.",
       "details": "<p>The Bartle Frere access road at the western trailhead, and Junction camp are closed due to wet conditions. During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change.</p> <p>&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2024-12-05",
+      "start_date": "2025-01-06",
       "start_effective_date": "2024-03-20",
-      "end_date": "2025-01-07",
+      "end_date": "2025-03-31",
       "parks": [
         {
           "id": "148468",
@@ -1274,24 +1292,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Walk with caution: McDonald Track, Barron Gorge National Park",
-      "alert_id": "24287",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24287",
-      "description": "Ergon will be conducting works along the McDonald track from Tuesday 23 July to Friday 10 January 2024 (dates inclusive). Work will include general road repairs and land slip repairs around power poles.",
-      "details": "<p>Ergon will be conducting works along the McDonald track from Tuesday 23 July to Friday 10 January 2024 (dates inclusive). Work will include general road repairs and land slip repairs around power poles.</p> <p>The walking track will remain open during this period, but track users need to be aware of heavy vehicles and machinery operating in the area.&nbsp;</p> <p>Please follow and obey all directions from contractors and rangers and observe all safety signage.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-18",
-      "start_effective_date": "2024-07-23",
-      "end_date": "2025-01-10",
-      "parks": [
-        {
-          "id": "148548",
-          "name": "Barron Gorge National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
         }
       ]
     },
@@ -1886,24 +1886,6 @@
       ]
     },
     {
-      "title": "White Mountains National Park closed for bushfire season",
-      "alert_id": "24643",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24643",
-      "description": "White Mountains National Park is closed for the 2024 bushfire season",
-      "details": "<p>White Mountains National Park is closed for the 2024 bushfire season</p> <p>Read more on your safety while visiting our Park here <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2024-11-01",
-      "start_effective_date": "2024-11-01",
-      "end_date": "2025-01-05",
-      "parks": [
-        {
-          "id": "148796",
-          "name": "White Mountains National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/white-mountains"
-        }
-      ]
-    },
-    {
       "title": "Mount Coolum quarry area closed to public access.",
       "alert_id": "24644",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24644",
@@ -2200,24 +2182,6 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Sections of Flinders Beach CLOSED due to severe erosion",
-      "alert_id": "24716",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24716",
-      "description": "Flinders Beach from Amity Point beach access to campsite A in the Minjerribah Recreation Area is temporarily closed to vehicles until further notice due to severe beach erosion.",
-      "details": "<p>Flinders Beach from Amity Point beach access to campsite A in the Minjerribah Recreation Area is temporarily closed to vehicles until further notice due to severe beach erosion.</p> <p>Flinders Beach campground campsite A can be accessed via the back track on the right-hand side just before the main beach access track.&nbsp;&nbsp;</p> <p>Flinders Beach can also be accessed from:&nbsp;</p> <ul> <li>Flinders Beach Drive beach access&nbsp;</li> </ul> <ul> <li>Adder Rock beach access&nbsp;</li> </ul> <p>Pedestrians should exercise care when walking along this section of beach as there may be partially buried debris. Parents should supervise children at all times and never allow them to dig or play near exposed sand cliffs.&nbsp;</p> <p>Motorists are advised to avoid stopping or parking near sand cliffs as they can be unstable and could collapse without warning. Never drive or park on the vegetated dunes as turtles and shorebirds nest in these areas. &nbsp;</p> <p>Driving over vegetated dunes is not permitted despite conditions.&nbsp;On-the-spot fines apply. &nbsp;&nbsp;</p> <p>Observe all signage, barriers and directions from rangers.&nbsp;</p> <p>Check <a href=\"https://www.npsr.qld.gov.au/park-alerts/\" target=\"_blank\">Park Alerts</a> regularly for updates on current park conditions.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-06",
-      "start_effective_date": "2024-11-26",
-      "end_date": "2025-01-31",
-      "parks": [
-        {
-          "id": "148315",
-          "name": "Minjerribah Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
         }
       ]
     },
@@ -2658,9 +2622,9 @@
       "description": "Mountain Bike Track 7 - 'Steps', in Bunyaville Conservation Park will be temporary closed due to Dam water level pumping activities taking place on the dam wall.",
       "details": "<p>Mountain Bike Track 7 - 'Steps', in Bunyaville Conservation Park will be temporary closed due to Dam water level pumping activities taking place on the dam wall.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-20",
+      "start_date": "2025-01-06",
       "start_effective_date": "2024-12-13",
-      "end_date": "2025-01-06",
+      "end_date": "2025-01-31",
       "parks": [
         {
           "id": "148376",
@@ -3015,6 +2979,75 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Planned aerial burning activities: Rungulla National Park, Canyon Resource Reserve and Bulleringa National Park",
+      "alert_id": "24821",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24821",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking planned aerial burning activities across Rungulla National Park, Canyon Resource Reserve and Bulleringa National Park, from Monday 6 January 2025 to Friday 28 February 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking planned aerial burning activities across Rungulla National Park, Canyon Resource Reserve and Bulleringa National Park, from Monday 6 January 2025 to Friday 28 February 2025.</p> <p>Visitors are reminded that Rungulla National Park and Canyon Resource Reserve are closed for the wet season and Bulleringa National Park has no public access.</p> <p>Smoke may be visible from surrounding areas</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-01-06",
+      "start_effective_date": "2025-01-06",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148067",
+          "name": "Rungulla National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/rungulla"
+        },
+        {
+          "id": "149509",
+          "name": "Canyon Resources Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/canyon-resources"
+        },
+        {
+          "id": "148492",
+          "name": "Bulleringa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bulleringa"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
+      "alert_id": "24822",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24822",
+      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
+      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
+      "category": "Other",
+      "start_date": "2025-01-06",
+      "start_effective_date": "2025-01-06",
+      "end_date": "2025-01-07",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "White Mountains National Park temporarily closed due to wet conditions",
+      "alert_id": "24823",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24823",
+      "description": "White Mountains National Park is temporarily closed due to wet conditions until Friday 28 February 2025 when conditions will be reviewed.",
+      "details": "<p>White Mountains National Park is temporarily closed due to wet conditions until Friday 28 February 2025 when conditions will be reviewed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-06",
+      "start_effective_date": "2025-01-06",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148796",
+          "name": "White Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/white-mountains"
         }
       ]
     }
