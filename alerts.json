@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 149,
-    "script_run_time": "2025-01-06 10:09:20"
+    "alerts_count": 148,
+    "script_run_time": "2025-01-07 10:09:13"
   },
   "alerts": [
     {
@@ -1481,9 +1481,9 @@
       "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.",
       "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.</p>",
       "category": "Announcement",
-      "start_date": "2024-11-26",
+      "start_date": "2025-01-07",
       "start_effective_date": "2024-09-17",
-      "end_date": "2025-01-31",
+      "end_date": "2025-06-30",
       "parks": [
         {
           "id": "148055",
@@ -2911,38 +2911,20 @@
       ]
     },
     {
-      "title": "Flood alert for Wongi Waterholes campsite",
-      "alert_id": "24815",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24815",
-      "description": "Due to recent heavy rainfall, Fraser Coast Regional Council have advised that high inflow to Lenthalls Dam may cause minor flooding of local roads for extended periods over the coming days, including causeways located on Warrah Road. Wongi Waterholes campground may become temporarily isolated while the causeways are under water.",
-      "details": "<p>Due to recent heavy rainfall, Fraser Coast Regional Council have advised that high inflow to Lenthalls Dam may cause minor flooding of local roads for extended periods over the coming days, including causeways located on Warrah Road. Wongi Waterholes campground may become temporarily isolated while the causeways are under water.</p> <p>Campers already staying at the Wongi Waterholes campground are advised not to cross flooded roads and to wait until water levels recede before trying to leave or re-enter the campground.&nbsp; Additional rainfall is expected across the catchment over the coming days and water levels may fluctuate after each rainfall event.&nbsp; Campers choosing to stay at the campground over this period will need to be prepared to stay for an extended period of time and to be entirely self-sufficient.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "title": "Happy Valley grid maintenance - temporary road closure",
+      "alert_id": "24817",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24817",
+      "description": "Fence and grid maintenance will be undertaken at Happy Valley on 08 January 2025.",
+      "details": "<p>Fence and grid maintenance will be undertaken at Happy Valley on 08 January 2025.</p> <p>The Eastern beach entrance road access to/from Happy Valley Township will be closed between 07:00 and 12:00 - access to Happy Valley Township will be via the high tide access road from Yidney Rocks only.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-31",
-      "start_effective_date": "2024-12-31",
-      "end_date": "2025-01-06",
+      "start_date": "2025-01-07",
+      "start_effective_date": "2025-01-08",
+      "end_date": "2025-01-08",
       "parks": [
         {
-          "id": "148023",
-          "name": "Wongi State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/wongi"
-        }
-      ]
-    },
-    {
-      "title": "Upper Noosa River CLOSED due to flooding",
-      "alert_id": "24816",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24816",
-      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River.",
-      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River.</p> <p>Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended</strong> for the duration of the closure.</p> <p>To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-31",
-      "start_effective_date": "2024-12-31",
-      "end_date": "2025-01-06",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
@@ -2953,32 +2935,14 @@
       "description": "Due to extreme wet weather, all access roads to the Starkvale camping area are currently impassable for caravans and trailers.",
       "details": "<p>Due to extreme wet weather, all access roads to the Starkvale camping area are currently impassable for caravans and trailers.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Announcement",
-      "start_date": "2025-01-03",
+      "start_date": "2025-01-07",
       "start_effective_date": "2025-01-03",
-      "end_date": "2025-01-10",
+      "end_date": "2025-01-17",
       "parks": [
         {
           "id": "148508",
           "name": "Expedition National Park",
           "url": "https://parks.desi.qld.gov.au/parks/expedition"
-        }
-      ]
-    },
-    {
-      "title": "Unscheduled works for Best of All lookout track - track closed",
-      "alert_id": "24819",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24819",
-      "description": "Un-scheduled maintenance is required at Best of All lookout track from 3/01/2024 to 6/01/2024.",
-      "details": "<p>Un-scheduled maintenance is required at Best of All lookout track from 3/01/2024 to 6/01/2024.</p> <p>The walking track will be closed for the dration of the works.&nbsp;<br /> All permits for closed areas are suspended for the duration of the closure.&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-03",
-      "start_effective_date": "2025-01-03",
-      "end_date": "2025-01-06",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
         }
       ]
     },
@@ -3048,6 +3012,24 @@
           "id": "148796",
           "name": "White Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/white-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Lamington National Park",
+      "alert_id": "24824",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24824",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between the 7th and 9th of January 2025, as part of the fire management program for Lamington National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between the 7th and 9th of January 2025, as part of the fire management program for Lamington National Park.</p> <p>Smoke may be seen in the vicinity of Binna Burra and Nerang - Murwillumbah Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Park visitors walking the Gold Coast Hinterland Great Walk - Binna Burra to Numinbah are advised that while the track will remain open, Rangers may request you to wait temporarily at closure points and guide you through or advise when it is safe to proceed.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-01-07",
+      "start_effective_date": "2025-01-07",
+      "end_date": "2025-01-09",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
         }
       ]
     }
