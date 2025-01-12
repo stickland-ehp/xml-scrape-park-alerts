@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 154,
-    "script_run_time": "2025-01-11 10:07:33"
+    "script_run_time": "2025-01-12 10:07:38"
   },
   "alerts": [
     {
@@ -2552,24 +2552,6 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Rainforest circuit track and Rex Creek swing bridge, Mossman Gorge, Daintree National Park (CYPAL)",
-      "alert_id": "24774",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24774",
-      "description": "The Rainforest circuit track and Rex Creek swing bridge will be temporarily closed for urgent repair works from Wednesday 11 December 2024 to Saturday 11 January 2024 (dates inclusive).",
-      "details": "<p>The Rainforest circuit track and Rex Creek swing bridge will be temporarily closed for urgent repair works from Wednesday 11 December 2024 to Saturday 11 January 2024 (dates inclusive).</p> <p>Urgent repairs works are due to vandalism causing damage to the swing bridge.</p> <p>During this period visitors will still be able to walk the Baral Marrjanga track and Lower river track.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-11",
-      "start_effective_date": "2024-12-11",
-      "end_date": "2025-01-11",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Mountain Bike Trail 7 - Steps Temporary Closure",
       "alert_id": "24776",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24776",
@@ -3128,6 +3110,24 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Wet Weather - Oceanview track closure",
+      "alert_id": "24840",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24840",
+      "description": "Wet Weather  Oceanview track closed As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe. The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event. Observe all signage, barriers and directions from rangers, and do not enter closed areas. The Rainforest circuit remains open for through walks. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Facilities will reopen when conditions are considered safe. Please monitor park alerts on the department's website for updated information.",
+      "details": "<p>Wet Weather  Oceanview track closed As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe. The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event. Observe all signage, barriers and directions from rangers, and do not enter closed areas. The Rainforest circuit remains open for through walks. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Facilities will reopen when conditions are considered safe. Please monitor park alerts on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-12",
+      "start_effective_date": "2025-01-12",
+      "end_date": "2025-01-14",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
         }
       ]
     }
