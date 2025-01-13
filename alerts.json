@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2025-01-12 10:07:38"
+    "alerts_count": 155,
+    "script_run_time": "2025-01-13 10:09:46"
   },
   "alerts": [
     {
@@ -1299,12 +1299,12 @@
       "title": "Temporary track closure - Good Night Scrub National Park",
       "alert_id": "24400",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24400",
-      "description": "Due to erosion, Pine Gully, Bowden Creek and Manderson No 2 Tracks are temporarily closed to ensure visitor safety.",
-      "details": "<p>Due to erosion, Pine Gully, Bowden Creek and Manderson No 2 Tracks are temporarily closed to ensure visitor safety.</p> <p>Visitors will still be able to access through the National Park via Back Creek Road, Gayndah Road, Rangers Road, Manderson No 1 Road and Goodnight Road.&nbsp;&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Due to erosion, Pine Gully, Bowden Creek, Manderson No 2 and One Tree Hill Tracks are temporarily closed to ensure visitor safety.",
+      "details": "<p>Due to erosion, Pine Gully, Bowden Creek, Manderson No 2 and One Tree Hill Tracks are temporarily closed to ensure visitor safety.</p> <p>Visitors will still be able to access through the National Park via Back Creek Road, Gayndah Road, Rangers Road, Manderson No 1 Road and Goodnight Road.&nbsp;&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-08-16",
+      "start_date": "2025-01-13",
       "start_effective_date": "2024-08-14",
-      "end_date": "2025-01-14",
+      "end_date": "2025-02-12",
       "parks": [
         {
           "id": "149437",
@@ -2935,9 +2935,9 @@
       "description": "Due to recent heavy rainfall, the Cedar Creek pools section of Tamborine National Park has been temporarily closed to swimming.",
       "details": "<p>Due to recent heavy rainfall, the Cedar Creek pools section of Tamborine National Park has been temporarily closed to swimming.</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-01-09",
+      "start_date": "2025-01-13",
       "start_effective_date": "2025-01-09",
-      "end_date": "2025-01-13",
+      "end_date": "2025-01-17",
       "parks": [
         {
           "id": "148199",
@@ -2989,9 +2989,9 @@
       "description": "Due to current bushfire, smoke may be seen in the vicinity of Isla Gorge National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
       "details": "<p>Due to current bushfire, smoke may be seen in the vicinity of Isla Gorge National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>The Isla Gorge camping area will remain open, however smoke may be seen in the vicinity of the camping area and access roads. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-01-09",
+      "start_date": "2025-01-13",
       "start_effective_date": "2025-01-09",
-      "end_date": "2025-01-17",
+      "end_date": "2025-01-13",
       "parks": [
         {
           "id": "148556",
@@ -3128,6 +3128,24 @@
           "id": "148908",
           "name": "Burleigh Head National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial track closure  Hartleys Falls walking track, Macalister Range National Park",
+      "alert_id": "24841",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24841",
+      "description": "The Hartleys Falls walking track is partially closed from Flat Rock up to the falls while contractors engaged by Queensland Parks and Wildlife Service are conducting earthworks and track repairs to the walking track.",
+      "details": "<p>The Hartleys Falls walking track is partially closed from Flat Rock up to the falls while contractors engaged by Queensland Parks and Wildlife Service are conducting earthworks and track repairs to the walking track.</p> <p>The closure is from Monday 13 January to Monday 20 January 2025 (dates inclusive).</p> <p>There will be no access to the waterfall at this time.&nbsp;</p> <p>Entry beyond Flat Rock will be prohibited during this time for safety considerations.</p> <p>Please adhere to all signage and barricading and directions from contractors. &nbsp;&nbsp;</p> <p>Safety is our concern, but your responsibility.<br /> &nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-13",
+      "start_effective_date": "2025-01-13",
+      "end_date": "2025-01-20",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     }
