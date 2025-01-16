@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2025-01-15 10:08:52"
+    "alerts_count": 160,
+    "script_run_time": "2025-01-16 10:08:44"
   },
   "alerts": [
     {
@@ -2251,11 +2251,11 @@
       "alert_id": "24733",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24733",
       "description": "Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.",
-      "details": "<p>Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.</p> <p>Queensland Parks and Wildlife Service (QPWS) advise the temporary walking track closure will be in place until an engineer&#39;s safety assessment is received and appropriate safety measures can be implemented.</p> <p>The temporary walking track closure is in place from the beginning of the Wheel of Fire walking track (from the turn-off on the Araluen Cascades walking track) and the closure includes access to Callistemon Crossing and Wheel of Fire.</p> <p>Access to the Araluen Cascades walking track is still open.</p> <p>For your safety, obey on-site closure signs and directions from Rangers and do not enter any closed areas.</p> <p>QPWS is working to remediate the developing safety risk and will endeavour to have the walking track open as soon as practicable.</p>",
+      "details": "<p>Visitors are advised that due to a section of undermined and eroded walking track, potentially worsened by rain events, the Wheel of Fire walking track at Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.</p> <p>Queensland Parks and Wildlife Service (QPWS) advise the temporary walking track closure will be in place until an engineer&#39;s safety assessment is received and appropriate safety measures can be implemented.</p> <p>The temporary walking track closure is in place prior to access to the Callistemon Crossing (eastern side) and the closure includes access to Callistemon Crossing and Wheel of Fire.</p> <p>Access to the Araluen Cascades walking track is still open.</p> <p>For your safety, obey on-site closure signs and directions from Rangers and do not enter any closed areas.</p> <p>QPWS is working to remediate the developing safety risk and will endeavour to have the walking track open as soon as practicable.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-13",
+      "start_date": "2025-01-16",
       "start_effective_date": "2024-12-02",
-      "end_date": "2025-01-31",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "148295",
@@ -3001,47 +3001,6 @@
       ]
     },
     {
-      "title": "Wet weather access Conondale National Park",
-      "alert_id": "24837",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24837",
-      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe. QPWS Rangers are monitoring the situation. Closed areas: - Booloumba Creek Road from Booloumba Creek camping area 4 to Funnels Hut Road. - Funnels Hut Road. - Vehicular access to Booloumba Falls. Commercial tour operators and other permit holders are not permitted to enter closed areas.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe. QPWS Rangers are monitoring the situation. Closed areas: - Booloumba Creek Road from Booloumba Creek camping area 4 to Funnels Hut Road. - Funnels Hut Road. - Vehicular access to Booloumba Falls. Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-10",
-      "start_effective_date": "2025-01-10",
-      "end_date": "2025-01-15",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
-      "title": "Partial track closure - Purling Brook Falls circuit",
-      "alert_id": "24838",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24838",
-      "description": "A planned commercial activity will occur along sections of the Purling Brook falls circuit walking track in Springbrook National Park from Monday 13 January to Wednesday 15 January 2025, inclusive, weather permitting.",
-      "details": "<p>A planned commercial activity will occur along sections of the Purling Brook falls circuit walking track in Springbrook National Park from Monday 13 January to Wednesday 15 January 2025, inclusive, weather permitting.</p> <p>As a result the following areas are temporarily closed to the public for the duration of the closure period:;</p> <ul> <li>The entire <strong>eastern </strong>section of the walking track circuit from the John Stacey suspension bridge at the bottom of the waterfall to the upper pedestrian causeway at the top of the waterfall, including the eastern lookout viewing platform (adjacent to the waterfall); and</li> <li>The entire Settlement Day Use Area, including access to Purling Brook falls.</li> </ul> <p>Please note that&nbsp;Gwongorella picnic area remains open for picnicing and barbeques.</p> <p>The main lookout west of Purling Brook falls also remains open for views&nbsp;of the waterfall, as does the western section of the walking track down to the base of the Purling Brook falls.&nbsp; Visitors must return in the same direction.</p> <p>Great Walkers&#39; will need find an alternative route should they wish to camp at the Settlement camping area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-10",
-      "start_effective_date": "2025-01-13",
-      "end_date": "2025-01-15",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
       "title": "Emergent maintenance - Toilets closed at Tallanbana",
       "alert_id": "24839",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24839",
@@ -3155,6 +3114,24 @@
       ]
     },
     {
+      "title": "Stony Access Road maintenance",
+      "alert_id": "24846",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24846",
+      "description": "Asphalt patching on the bitumen section of the Stoney Access Road will be undertaken on Tuesday 21 January 2025. The road will remain open while repairs are completed.",
+      "details": "<p>Asphalt patching on the bitumen section of the Stoney Access Road will be undertaken on Tuesday 21 January 2025. The road will remain open while repairs are completed.</p> <p>Please observe all signage and directions.</p>",
+      "category": "Other",
+      "start_date": "2025-01-16",
+      "start_effective_date": "2025-01-16",
+      "end_date": "2025-01-21",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure: Lake Barrine circuit track, Crater Lakes National Park",
       "alert_id": "24847",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24847",
@@ -3187,6 +3164,88 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Impassable Beach",
+      "alert_id": "24849",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24849",
+      "description": "Due to large tides and beach conditions, the section of beach 500m north of Orchid Beach is impassable 2 hours either side of the high tide.",
+      "details": "<p>Due to large tides and beach conditions, the section of beach 500m north of Orchid Beach is impassable 2 hours either side of the high tide.</p> <p>Motorists should exercise caution at all times, and plan to travel 2 hours either side of low tide, if safe to do so. Drivers should slow down, stop and check access conditions before deciding if it is safe to traverse.</p> <p>Driving over vegetated foredunes is <strong>PROHIBITED</strong> causing damage to the environment, which can impact nesting wildlife such as turtles and shorebirds.</p> <p>&nbsp;</p> <p><strong>ON-THE-SPOT-FINES WILL BE ISSUED FOR ANYONE CAUGHT DAMAGING THE DUNES.</strong></p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-01-16",
+      "start_effective_date": "2025-01-14",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program - Lake Broadwater Conservation Park and Lake Broadwater Resources Reserve",
+      "alert_id": "24850",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24850",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Lake Broadwater Conservation Park and Lake Broadwater Resources Reserve on the 17 January 2025 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Lake Broadwater Conservation Park and Lake Broadwater Resources Reserve on the 17 January 2025 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted to help protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp; Firearms will be in use.</p> <p>As a result, the following areas are temporarility closed for the duration of the pest management program:</p> <ul> <li>Wilga Bush camping area</li> <li>Wilga campground track</li> <li>Red gum track</li> <li>Bird hide</li> <li>Recreation area and Lake Broadwater camping area</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-16",
+      "start_effective_date": "2025-01-17",
+      "end_date": "2025-03-17",
+      "parks": [
+        {
+          "id": "322940",
+          "name": "Lake Broadwater Resources Reserve",
+          "url": ""
+        },
+        {
+          "id": "148904",
+          "name": "Lake Broadwater Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lake-broadwater"
+        }
+      ]
+    },
+    {
+      "title": "Harvesting operations - Yarraman State Forest",
+      "alert_id": "24851",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24851",
+      "description": "HQ Plantations will be harvesting commercial Araucaria (Hoop Pine) in Yarraman State Forest from 16 January 2025 to 31 March 2025 (weather permitting).",
+      "details": "<p>HQ Plantations will be harvesting commercial Araucaria (Hoop Pine) in Yarraman State Forest from 16 January 2025 to 31 March 2025 (weather permitting).</p> <p>Rogers day-use area will be closed for the duration of this harvesting.</p> <p>For further information, please contact <a href=\"https://www.hqplantations.com.au/contact\">HQPlantations</a> at <a href=\"mailto:information@hqplantations.com.au\">information@hqplantations.com.au</a> or phone <a href=\"tel:+61748374100\">+61 7 4837 4100</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-16",
+      "start_effective_date": "2025-01-16",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148095",
+          "name": "Yarraman State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/yarraman"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Carnarvon Great Walk",
+      "alert_id": "24852",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24852",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 21 January 2025 to 22 January 2025 as a part of the fire management program for Carnarvon Great Walk.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 21 January 2025 to 22 January 2025 as a part of the fire management program for Carnarvon Great Walk.</p> <p>Smoke may be seen in the vicinity of Boolimba Bluff.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-01-16",
+      "start_effective_date": "2025-01-19",
+      "end_date": "2025-01-22",
+      "parks": [
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
+        },
+        {
+          "id": "150195",
+          "name": "Carnarvon Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
         }
       ]
     }
