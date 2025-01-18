@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2025-01-17 10:08:18"
+    "alerts_count": 158,
+    "script_run_time": "2025-01-18 10:07:03"
   },
   "alerts": [
     {
@@ -2955,24 +2955,6 @@
       ]
     },
     {
-      "title": "Planned maintenance works - Headland section, Noosa National Park",
-      "alert_id": "24842",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24842",
-      "description": "Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting planned maintenance program at Noosa National Park, Headland section from Tuesday 14 January to Friday 17 January 2025. (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and contractors will be conducting planned maintenance program at Noosa National Park, Headland section from Tuesday 14 January to Friday 17 January 2025. (weather permitting).</p> <p>The following fire mangement trails will have maintenance being carried out for the duration of the program.</p> <p>* McAnally break</p> <p>* Grass Tree break</p> <p>* Park Edge break</p> <p>Please observe all signage, barriers and directions from rangers. Where required detour signage will be in place.</p> <p>&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2025-01-14",
-      "start_effective_date": "2025-01-14",
-      "end_date": "2025-01-17",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Foothold Trapping - Southend Conservation Park",
       "alert_id": "24843",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24843",
@@ -3010,24 +2992,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn in Palmview Conservation Park",
-      "alert_id": "24845",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24845",
-      "description": "Queensland Parks and Wildlife Service are conducting a planned burn (weather permitting) from Thursday 16 to Friday 17 January 2025, as part of the fire management program for Palmview Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service are conducting a planned burn (weather permitting) from Thursday 16 to Friday 17 January 2025, as part of the fire management program for Palmview Conservation Park.</p> <p>During the planned burn, the entirety of the park is closed to public access.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Pignata Rd and Laxton Rd. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of the park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Permit and agreement holders are not permitted to enter closed areas.</p> <p>The park will be reopened once an inspection has been carried out and the area is declared safe.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-01-15",
-      "start_effective_date": "2025-01-16",
-      "end_date": "2025-01-17",
-      "parks": [
-        {
-          "id": "322952",
-          "name": "Palmview Conservation Park",
-          "url": ""
         }
       ]
     },
