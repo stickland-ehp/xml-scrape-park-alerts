@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2025-01-18 10:07:03"
+    "alerts_count": 159,
+    "script_run_time": "2025-01-19 10:07:29"
   },
   "alerts": [
     {
@@ -2298,24 +2298,6 @@
       ]
     },
     {
-      "title": "Christmas/ New Year closure",
-      "alert_id": "24735",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24735",
-      "description": "Fort Lytton National Park is closed around Christmas/ New Year.",
-      "details": "<p>Fort Lytton National Park is closed around Christmas/ New Year.</p> <p><strong>Sunday closures:&nbsp;</strong></p> <p>Last open Sunday is 8th Dec 2024. First open Sunday is 19th Jan 2025..</p> <p><strong>Mo-Fri closures:</strong></p> <p>Last open day is Friday 20th Dec 2024. First day back is Thursday 2nd Jan 2025.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-05",
-      "start_effective_date": "2024-12-15",
-      "end_date": "2025-01-19",
-      "parks": [
-        {
-          "id": "148592",
-          "name": "Fort Lytton National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/fort-lytton"
-        }
-      ]
-    },
-    {
       "title": "Wet Season safety information: significant stream rises Broadwater, Abergowrie State Forest",
       "alert_id": "24738",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24738",
@@ -3210,6 +3192,42 @@
           "id": "151379",
           "name": "Thorsborne Trail, Hinchinbrook Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        }
+      ]
+    },
+    {
+      "title": "Tamborine National Park, Cedar Creek Section - Temporary closure to swimming.",
+      "alert_id": "24857",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24857",
+      "description": "Due to heavy rainfall the Cedar Creek Section of Tamborine National Park has been temporarily closed to swimming.",
+      "details": "<p>Due to heavy rainfall the Cedar Creek Section of Tamborine National Park has been temporarily closed to swimming.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-19",
+      "start_effective_date": "2025-01-19",
+      "end_date": "2025-01-23",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Wet Weather - Oceanview track closure",
+      "alert_id": "24858",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24858",
+      "description": "Wet Weather  Oceanview track closed As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe. The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event. Observe all signage, barriers and directions from rangers, and do not enter closed areas. The Rainforest circuit remains open for through walks. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Facilities will reopen when conditions are considered safe. Please monitor park alerts on the department's website for updated information.",
+      "details": "<p>Wet Weather  Oceanview track closed As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe. The walking track may also be closed after the rain eases to enable QPWS staff time to assess any damage resulting from the rain event. Observe all signage, barriers and directions from rangers, and do not enter closed areas. The Rainforest circuit remains open for through walks. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Facilities will reopen when conditions are considered safe. Please monitor park alerts on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-19",
+      "start_effective_date": "2025-01-19",
+      "end_date": "2025-01-21",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
         }
       ]
     }
