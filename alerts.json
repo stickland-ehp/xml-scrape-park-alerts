@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2025-01-20 10:09:01"
+    "alerts_count": 166,
+    "script_run_time": "2025-01-21 10:08:42"
   },
   "alerts": [
     {
@@ -3014,24 +3014,6 @@
       ]
     },
     {
-      "title": "DAguilar National Park Planned Burn Enoggera Creek Area",
-      "alert_id": "24848",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24848",
-      "description": "Planned Burn Centre Road, South Boundary Road, Holmans Break",
-      "details": "<p>Planned Burn Centre Road, South Boundary Road, Holmans Break</p> <p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in D&rsquo;Aguilar National Park on Thursday, January 15 to Monday, January 20, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke will be seen in The Gap, Brookfield, Camp Mountain, Upper Kedron, Ferny Grove, Keperra and Mount Nebo areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Centre Road, Holmans Break and South Boundary Road between Centre and Holmans (also access to Enoggera Creek will be restricted between Centre Road and Holmans Break .) There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility.</p> <p>For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-01-15",
-      "start_effective_date": "2025-01-16",
-      "end_date": "2025-01-20",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Impassable Beach",
       "alert_id": "24849",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24849",
@@ -3241,6 +3223,132 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Bat Cleft - Boardwalk",
+      "alert_id": "24863",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24863",
+      "description": "The Bat Cleft boardwalk section is closed to reduce impacts on the Little Bent Wing Bat community during nesting",
+      "details": "<p>The Bat Cleft boardwalk section is closed to reduce impacts on the Little Bent Wing Bat community during nesting</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-01",
+      "end_date": "2025-02-08",
+      "parks": [
+        {
+          "id": "149405",
+          "name": "Mount Etna Caves National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "High Clearance 4WD Recommended - Mount Mee Section, D'Aguilar National Park",
+      "alert_id": "24864",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24864",
+      "description": "Due to recent rain events and associated track damage in the Mount Mee Section of D'Aguilar National Park, it is recommended that access to all unsealed roads within this section of the National Park is for high clearance 4WD only. Access to the Gantry Day Use Area is via a bitumen Rd, which is still suitable for 2WD vehicles.",
+      "details": "<p>Due to recent rain events and associated track damage in the Mount Mee Section of D'Aguilar National Park, it is recommended that access to all unsealed roads within this section of the National Park is for high clearance 4WD only. Access to the Gantry Day Use Area is via a bitumen Rd, which is still suitable for 2WD vehicles.</p> <p>This recommendation will stay in place until upcoming road maintanence is completed on the affected roads.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Other",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-21",
+      "end_date": "2025-04-01",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn D'Aguilar National Park",
+      "alert_id": "24865",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24865",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Northbrook Parkway on Wednesday 22nd January 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the Mount Glorious, Dundas, Lacey's Creek, and Mount Samson area.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Northbrook Parkway on Wednesday 22nd January 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the Mount Glorious, Dundas, Lacey's Creek, and Mount Samson area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp; For more information, please call The Gap office of QPWS on 07 3164 3600.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-22",
+      "end_date": "2025-01-28",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Roadworks: C Break within Mt Mee Section, D'Aguilar National Park",
+      "alert_id": "24867",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24867",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking maintenance road works to motorbike trails within the Mt Mee section of D'Aguilar National Park. C Break will be closed between Neurum Creek Road and Top Road over this period.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking maintenance road works to motorbike trails within the Mt Mee section of D'Aguilar National Park. C Break will be closed between Neurum Creek Road and Top Road over this period.</p> <p>For your safety please proceed with caution along all park access roads while heavy plant are in use.</p> <p>Please observe all signage, barriers and directions from local rangers and do not enter closed areas.</p> <p>Please visit <strong>qld.gov.au/ParkAlerts</strong> for further information.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-21",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Nine Mile Beach 'Northern Access'",
+      "alert_id": "24868",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24868",
+      "description": "Nine Mile Beach Northern Access Closure - Recent storm activity has resulted in large washouts along the access track causing damage to the palleting.",
+      "details": "<p>Nine Mile Beach Northern Access Closure - Recent storm activity has resulted in large washouts along the access track causing damage to the palleting.</p> <p>For alternate Nini Mile Beach access, please use the &#39;Southern Access&#39; located approximately 600 meters east from the top of Big Sandy. Freshwater Creek, Nine Mile beach camping nodes and Corio day-use will still be accessible via this track.</p> <p>For the safety of yourself and others, please observe the signage and only drive on marked tracks.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Other",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-17",
+      "end_date": "2025-01-24",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Mount Etna Caves National Park is closed for pest management",
+      "alert_id": "24869",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24869",
+      "description": "Mt Etna Caves National Park - closed for pest management activities from 4pm on Tuesday 21 January 2025 until 6am Wednesday 22 January 2025.",
+      "details": "<p>Mt Etna Caves National Park - closed for pest management activities from 4pm on Tuesday 21 January 2025 until 6am Wednesday 22 January 2025.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-21",
+      "end_date": "2025-01-22",
+      "parks": [
+        {
+          "id": "149405",
+          "name": "Mount Etna Caves National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Mountain Bike Trail Maintenance Closures",
+      "alert_id": "24871",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24871",
+      "description": "Visitors are advised that select mountain bike trails within Daisy Hill Conservation Park are closed for Maintenance works between 21/1/25-24/1/25. The effected trails will be open for use on the afternoon of 24/1/25.",
+      "details": "<p>Visitors are advised that select mountain bike trails within Daisy Hill Conservation Park are closed for Maintenance works between 21/1/25-24/1/25. The effected trails will be open for use on the afternoon of 24/1/25.</p> <p>The following mountain bike trails are effected during this closure period:</p> <p>- Bronzewing trail</p> <p>- Entrance of Gillians trail</p> <p>Machinery will be operating at these trails, please adhere to signage and monitor park alerts for further information. Other trails within the park will not be effected.&nbsp;</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-21",
+      "start_effective_date": "2025-01-22",
+      "end_date": "2025-01-24",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
         }
       ]
     }
