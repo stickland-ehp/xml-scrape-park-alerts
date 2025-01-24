@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2025-01-23 10:08:22"
+    "alerts_count": 171,
+    "script_run_time": "2025-01-24 10:09:06"
   },
   "alerts": [
     {
@@ -743,24 +743,6 @@
       ]
     },
     {
-      "title": "Cooroora Shared Trail 2 entry closed at School Street",
-      "alert_id": "23698",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23698",
-      "description": "In conjunction with Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P), the Noosa Council has upgraded the Cooroora Shared Trail 2 as part of the Noosa Trail master plan.",
-      "details": "<p>In conjunction with Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P), the Noosa Council has upgraded the Cooroora Shared Trail 2 as part of the Noosa Trail master plan.</p> <p>Upgrades completed include trail realignment, resurfacing and the moving of the trailhead to allow safer access and better parking options.&nbsp;</p> <p>The access point for the Cooroora Shared Trail 2, previously located at the School Street, has moved further west to Mountain Street. The Tuchekoi National Park map has been updated on the website to reflect these changes.</p> <p>Please note dog walking is not permitted on the trails within Tuchekoi National Park. QPWS&nbsp;rangers do patrol the area and may issue on-the-spot fines for non-compliance.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-01-23",
-      "start_effective_date": "2024-01-23",
-      "end_date": "2025-01-23",
-      "parks": [
-        {
-          "id": "148051",
-          "name": "Tuchekoi National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tuchekoi"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Madigan Road and Gillies lookout, Danbulla National Park",
       "alert_id": "23745",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23745",
@@ -1450,10 +1432,10 @@
       "title": "Big Bend closed due to structural damage",
       "alert_id": "24553",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24553",
-      "description": "Big Bend is closed due to structural damage to the toilet block.",
-      "details": "<p>Big Bend is closed due to structural damage to the toilet block.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "description": "Big Bend campground is closed due to structural damage to the toilet block while repairs are being completed.",
+      "details": "<p>Big Bend campground is closed due to structural damage to the toilet block while repairs are being completed.</p> <p>This Park Alert applies to the Big Bend campground only. All other sites and walking tracks including Cathedral Cave and Boowinda Gorge remain open.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-03",
+      "start_date": "2025-01-24",
       "start_effective_date": "2024-09-29",
       "end_date": "2025-09-30",
       "parks": [
@@ -1530,10 +1512,15 @@
       "description": "Access to Woody Island on Low Islets Reef (16-028), is prohibited until 31 March 2025 to protect nesting birds.",
       "details": "<p>Access to Woody Island on Low Islets Reef (16-028), is prohibited until 31 March 2025 to protect nesting birds.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-01",
+      "start_date": "2025-01-24",
       "start_effective_date": "2024-10-01",
       "end_date": "2025-03-31",
       "parks": [
+        {
+          "id": "327915",
+          "name": "Great Barrier Reef Coast Marine Park",
+          "url": ""
+        },
         {
           "id": "148368",
           "name": "Snapper Island, Hope Islands National Park (CYPAL)",
@@ -1548,10 +1535,15 @@
       "description": "Access to Taylor Cay on Taylor Reef (17-064), is prohibited until 31 March 2025 to protect nesting seabirds.",
       "details": "<p>Access to Taylor Cay on Taylor Reef (17-064), is prohibited until 31 March 2025 to protect nesting seabirds.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-10-01",
+      "start_date": "2025-01-24",
       "start_effective_date": "2024-10-01",
       "end_date": "2025-03-31",
       "parks": [
+        {
+          "id": "327915",
+          "name": "Great Barrier Reef Coast Marine Park",
+          "url": ""
+        },
         {
           "id": "148872",
           "name": "Family Islands National Park",
@@ -2701,13 +2693,13 @@
       ]
     },
     {
-      "title": "Carnarvon Great Walk - closure due to planned burn",
+      "title": "Carnarvon Great Walk - closure in March and June due to planned burn",
       "alert_id": "24808",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24808",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) along the Carnarvon Great Walk during March and possibly June, as part of the fire management program for Carnarvon National Park.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) along the Carnarvon Great Walk during March and possibly June, as part of the fire management program for Carnarvon National Park.</p> <p>During these months, the Carnarvon Great Walk will be closed to public access.</p> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation while visiting Carnarvon National Park during these times.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2024-12-20",
+      "start_date": "2025-01-24",
       "start_effective_date": "2024-12-20",
       "end_date": "2025-06-30",
       "parks": [
@@ -3125,9 +3117,9 @@
       "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
       "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-23",
+      "start_date": "2025-01-24",
       "start_effective_date": "2025-01-19",
-      "end_date": "2025-01-24",
+      "end_date": "2025-01-28",
       "parks": [
         {
           "id": "148199",
@@ -3169,24 +3161,6 @@
           "id": "148480",
           "name": "Main Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
-      "title": "Temporary change to creek access Five Mile Creek day-use area, Cardwell State Forest",
-      "alert_id": "24861",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24861",
-      "description": "The main access ladder at Five Mile Creek day-use area in Cardwell State Forest has been removed for repairs.",
-      "details": "<p>The main access ladder at Five Mile Creek day-use area in Cardwell State Forest has been removed for repairs.</p> <p>Access to the creek is possible from the walking track via steps at the lower section.</p> <p>Please observe all signage, barriers and directions from workers and rangers.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-20",
-      "start_effective_date": "2025-01-20",
-      "end_date": "2025-01-28",
-      "parks": [
-        {
-          "id": "150212",
-          "name": "Cardwell State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
         }
       ]
     },
@@ -3295,24 +3269,6 @@
           "id": "148560",
           "name": "Daisy Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
-      "title": "Toilets closed - under repair",
-      "alert_id": "24872",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24872",
-      "description": "Cougals Day Use Area - Toilets Closed. Toilets are closed for emergency maintenance, will be closed all day Wednesday 22nd January, re opening Thursday 23rd January.",
-      "details": "<p>Cougals Day Use Area - Toilets Closed. Toilets are closed for emergency maintenance, will be closed all day Wednesday 22nd January, re opening Thursday 23rd January.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-22",
-      "start_effective_date": "2025-01-22",
-      "end_date": "2025-01-23",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
         }
       ]
     },
@@ -3441,6 +3397,88 @@
           "id": "151396",
           "name": "Palmerston (Doongan), Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-palmerston"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Southwood National Park",
+      "alert_id": "24879",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24879",
+      "description": "Due to the current bushfire, Southwood National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to the current bushfire, Southwood National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-24",
+      "start_effective_date": "2025-01-24",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "148267",
+          "name": "Southwood National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/southwood"
+        }
+      ]
+    },
+    {
+      "title": "Smoke Alert - Barakula State Forest",
+      "alert_id": "24880",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24880",
+      "description": "Due to a current bushfire in Barakula State Forest, smoke may be visible from Pelham Road, Barakula.",
+      "details": "<p>Due to a current bushfire in Barakula State Forest, smoke may be visible from Pelham Road, Barakula.</p> <p>Bushfire mitigation activities are in progress.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-01-24",
+      "start_effective_date": "2025-01-24",
+      "end_date": "2025-01-31",
+      "parks": [
+        {
+          "id": "148143",
+          "name": "Barakula State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/barakula"
+        }
+      ]
+    },
+    {
+      "title": "Aerial feral animal control activities: Apudthama (Jardine River) National Park (CYPAL), Bromley (Amplulin) National Park (CYPAL) and Wuthathi (Shelburne Bay) National Park (CYPAL)",
+      "alert_id": "24881",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24881",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in the parks listed below, from Monday 3 February 2025 to Friday 7 February 2025 (dates inclusive). Helicopters may be seen and heard regularly during this time.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in the parks listed below, from Monday 3 February 2025 to Friday 7 February 2025 (dates inclusive). Helicopters may be seen and heard regularly during this time.</p> <p><strong>Parks with no public access:</strong></p> <ul> <li>Bromley (Amplulin) National Park (CYPAL)</li> <li>Wuthathi (Shelburne Bay) National Park (CYPAL)</li> </ul> <p><strong>Parks with public access:</strong></p> <ul> <li>Apudthama (Jardine River) National Park (CYPAL) -&nbsp;camping areas, day-use areas including roads and tracks will not be affected.</li> </ul> <p>For your safety, visitors are reminded to remain on designated access tracks and within designated camping areas and day-use areas only.</p>",
+      "category": "Other",
+      "start_date": "2025-01-24",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148892",
+          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
+        },
+        {
+          "id": "148171",
+          "name": "Bromley (Ampulin) National Park (CYPAL) and Bromley (Kaanichi) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/bromley"
+        },
+        {
+          "id": "148239",
+          "name": "Wuthathi (Shelburne Bay) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/wuthathi"
+        }
+      ]
+    },
+    {
+      "title": "QPWS Rangers will be Partially Closing infrastructure to oil timber at Tongue Point look out Monday 3rd of February",
+      "alert_id": "24882",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24882",
+      "description": "Tongue Point look outs &amp; Betties beach Boardwalk will be partially closed for routine maintenance and Oilling.",
+      "details": "<p>Tongue Point look outs &amp; Betties beach Boardwalk will be partially closed for routine maintenance and Oilling.</p> <p>Toilet Facilites will remain open. One viewing deck will remain open while the other is shut for Oilling. Rangers will only close half of betties beach walk allowing for access to the beach. Please follow all signage and barricades.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-24",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     }
