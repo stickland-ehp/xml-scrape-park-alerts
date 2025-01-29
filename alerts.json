@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2025-01-28 10:08:47"
+    "alerts_count": 169,
+    "script_run_time": "2025-01-29 10:08:39"
   },
   "alerts": [
     {
@@ -861,15 +861,15 @@
       ]
     },
     {
-      "title": "Walk with caution: Keatings Lagoon walking track, Keatings Lagoon Conservation Park",
+      "title": "Temporary closure due to flooding: Keatings Lagoon Conservation Park",
       "alert_id": "23914",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23914",
-      "description": "Following impacts of ex-tropical cyclone Jasper, areas of flooding have occurred. Keatings Lagoon walking track is open, but the track is slippery in places.",
-      "details": "<p>Following impacts of ex-tropical cyclone Jasper, areas of flooding have occurred. Keatings Lagoon walking track is open, but the track is slippery in places.</p> <p>For your safety, please take caution when walking close to watercourses.</p> <p>Please monitor this park alert for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-01-03",
-      "start_effective_date": "2024-03-26",
-      "end_date": "2025-01-31",
+      "description": "Keatings Lagoon Conservation Park, including the walking track and day-use area, is currently closed due to flooding.",
+      "details": "<p>Keatings Lagoon Conservation Park, including the walking track and day-use area, is currently closed due to flooding.</p> <p>The&nbsp;park will re-open to visitors when it is safe.</p> <p>Please monitor this park alert for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-29",
+      "start_effective_date": "2025-01-29",
+      "end_date": "2025-05-01",
       "parks": [
         {
           "id": "148844",
@@ -2457,38 +2457,15 @@
       ]
     },
     {
-      "title": "Very large high tides",
-      "alert_id": "24781",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24781",
-      "description": "Exposed beaches in the Cooloola Recreation Area are expecting very large high tides over the coming Christmas holiday period with some sections of beach impassable.",
-      "details": "<p>Exposed beaches in the Cooloola Recreation Area are expecting very large high tides over the coming Christmas holiday period with some sections of beach impassable.</p> <p>Driving on Teewah Beach, Rainbow Beach, and Inskip beaches, within 2 hours either side of high tide should be avoided. Drivers should slow down, stop and check access conditions before deciding if it is safe to traverse. Motorists should exercise caution at all times, and plan to travel at low tide, if safe to do so.</p> <p>Beachfront campsites at Teewah and Inskip Peninsula may sustain flooding, or severe erosion creating steep drop-offs. Visitors should consider forecasted high tides and check surroundings before setting up camp, or move to a safe area if already set up camp.</p> <p>Remember, driving over vegetated dunes is dangerous and prohibited. It is damaging to the environment and can impact nesting wildlife such as turtles and shorebirds. On-the-spot fines will be issued for anyone caught damaging the dunes.</p> <p>Observe all signage, barriers and directions from rangers.</p> <p>Your safety is our concern, but your responsibility.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-15",
-      "start_effective_date": "2024-12-15",
-      "end_date": "2025-01-28",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
       "title": "Burrum Coast National Park Kinkuna section - Campground and access roads closed",
       "alert_id": "24786",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24786",
       "description": "As a result of flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.",
-      "details": "<p>As a result of flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation and will review on Thursday 30 January.&nbsp; Further wet weather may impact access.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Closure&nbsp;includes:</p> <p>-&nbsp; Kinkuna bush camping area</p> <p>-&nbsp; Palm beach road</p> <p>- Southern access road</p> <p>-&nbsp; all other access to Kinkuna</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "details": "<p>As a result of flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation and will review on Thursday 20 February.&nbsp; Further wet weather may impact access.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Closure&nbsp;includes:</p> <p>-&nbsp; Kinkuna bush camping area</p> <p>-&nbsp; Palm beach road</p> <p>- Southern access road</p> <p>-&nbsp; all other access to Kinkuna</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-15",
+      "start_date": "2025-01-29",
       "start_effective_date": "2024-12-16",
-      "end_date": "2025-01-30",
+      "end_date": "2025-02-20",
       "parks": [
         {
           "id": "148436",
@@ -2947,24 +2924,6 @@
       ]
     },
     {
-      "title": "Secret Garden track and lighthouse maintenance",
-      "alert_id": "24859",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24859",
-      "description": "QPWS will be carrying out maintenance work on the Secret Garden track and the lighthouse on Fitzroy Island between 24-28 January.",
-      "details": "<p>QPWS will be carrying out maintenance work on the Secret Garden track and the lighthouse on Fitzroy Island between 24-28 January.</p> <p>During this time, the Secret Garden track will be closed. The area around the lighthouse (including the lookout) may also be fenced off for periods of time throughout the works.</p> <p>QPWS apologises for the inconvenience.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-20",
-      "start_effective_date": "2025-01-24",
-      "end_date": "2025-01-28",
-      "parks": [
-        {
-          "id": "148741",
-          "name": "Fitzroy Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/fitzroy-island"
-        }
-      ]
-    },
-    {
       "title": "Bat Cleft - Boardwalk",
       "alert_id": "24863",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24863",
@@ -3084,42 +3043,6 @@
           "id": "148420",
           "name": "Hinchinbrook Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert - Boondandilla State Forest",
-      "alert_id": "24875",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24875",
-      "description": "Due to the current bushfire, in the vicinity of Killens Road, Boondandilla State Forest is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to the current bushfire, in the vicinity of Killens Road, Boondandilla State Forest is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-01-23",
-      "start_effective_date": "2025-01-22",
-      "end_date": "2025-01-28",
-      "parks": [
-        {
-          "id": "322423",
-          "name": "Boondandilla State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned works for hazardous tree removal along Turtle Trail",
-      "alert_id": "24876",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24876",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Mon Repos Conservation Park on Tues 28th Jan 2025 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Mon Repos Conservation Park on Tues 28th Jan 2025 (weather permitting).</p> <p>The following area will have changed conditions for the duration of the maintenance&nbsp;program (between 7am - 4pm):</p> <ul> <li>Turtle Trail&nbsp;</li> </ul> <p>Some hazardous&nbsp;trees located along the turtle trail will be removed causing closures to the Turtle Trail while works are underway&mdash;which will result in delays to pedestrians and bicycles.&nbsp;</p> <ul> <li>A&nbsp;detour on grassed sandy&nbsp;tracks or along the beach will be available for pedestrians and bicycle riders&nbsp;to&nbsp;minimise&nbsp;delays.</li> </ul> <p>For your safety please slow down and observe all directions and signs.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-23",
-      "start_effective_date": "2025-01-28",
-      "end_date": "2025-01-28",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
         }
       ]
     },
@@ -3474,6 +3397,57 @@
           "id": "148107",
           "name": "Tewantin National Park",
           "url": "https://parks.desi.qld.gov.au/parks/tewantin"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Tully Gorge camping area, Tully Gorge National Park",
+      "alert_id": "24897",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24897",
+      "description": "Tully Gorge camping area is temporarily closed due to boggy conditions until further notice.",
+      "details": "<p>Tully Gorge camping area is temporarily closed due to boggy conditions until further notice.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-29",
+      "start_effective_date": "2025-01-29",
+      "end_date": "2025-02-06",
+      "parks": [
+        {
+          "id": "147987",
+          "name": "Tully section, Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully"
+        },
+        {
+          "id": "148460",
+          "name": "Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Very large high tides",
+      "alert_id": "24898",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24898",
+      "description": "Exposed beaches in the Great Sandy National Park are experiencing very large high tides with some sections of beach impassable.",
+      "details": "<p>Exposed beaches in the Great Sandy National Park are experiencing very large high tides with some sections of beach impassable.</p> <p>Driving on Teewah Beach, Rainbow Beach, Inskip and K&rsquo;gari (Fraser Island) beaches, within 2 hours either side of high tide should be avoided.</p> <p>Visitors should consider forecasted high tides when planning a trip, and check access conditions before deciding if it is safe to traverse. Motorists should exercise caution at all times, and plan to travel only at low tide, if safe to do so.</p> <p>Driving over vegetated sand dunes is dangerous and prohibited.&nbsp;Vehicles driving on sand dunes to avoid being inundated with water, are causing the dunes to collapse and vehicles rolling over. It is also damaging to the environment and can impact nesting wildlife such as turtles and shorebirds. On-the-spot fines will be issued for anyone caught damaging the dunes.</p> <p>Observe all signage, barriers and directions from rangers.</p> <p>Your safety is our concern, but your responsibility.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-01-29",
+      "start_effective_date": "2025-01-29",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     }
