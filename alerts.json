@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2025-01-29 10:08:39"
+    "alerts_count": 170,
+    "script_run_time": "2025-01-30 10:08:33"
   },
   "alerts": [
     {
@@ -1727,6 +1727,24 @@
       ]
     },
     {
+      "title": "Restricted camping availability - Sarawak West Camping Area",
+      "alert_id": "24619",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24619",
+      "description": "Nearshore landslides and dynamic coastal activities are common within the Inskip Peninsula. Recent high tides and steady shoreline retrogression has forced the requirement to remove a toilet facility within the Sarawak West camping area. As a result, camping capacity has been reduced in the area whilst the removal and relocation of the toilet facility takes place.",
+      "details": "<p>Nearshore landslides and dynamic coastal activities are common within the Inskip Peninsula. Recent high tides and steady shoreline retrogression has forced the requirement to remove a toilet facility within the Sarawak West camping area. As a result, camping capacity has been reduced in the area whilst the removal and relocation of the toilet facility takes place.</p> <p>For your safety and to avoid injuries:</p> <ul> <li>Keep well back from sand cliffs and waters&#39; edge as unstable beach sand may collapse without warning.</li> <li>Avoid swimming or wading around the eroded waterline.</li> <li>Be aware that submerged oggjects and strong underwater currents may be present.</li> <li>Nearby trees or branches may fall at any time.</li> <li>Supervise children at all times on the beach.</li> <li>Observe all signage, barriers and directions from Rangers and do not enter closed areas.</li> </ul> <p>Campers and pedestrians should exercise caution and check access conditions as landslides and erosion can occur anywhere at any time. This is part of ongoing natural coastal erosion.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-01-30",
+      "start_effective_date": "2024-10-24",
+      "end_date": "2025-07-27",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
       "title": "Certified support dogs and assistance animals at Bluff Point, Capricorn Coast National Park",
       "alert_id": "24632",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24632",
@@ -3230,9 +3248,9 @@
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
       "category": "Announcement",
-      "start_date": "2025-01-28",
+      "start_date": "2025-01-30",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-01-30",
+      "end_date": "2025-02-03",
       "parks": [
         {
           "id": "148468",
@@ -3271,9 +3289,9 @@
       "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.",
       "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.</p> <p>This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location.</p> <p>The Swamp walk will reopen when water levels subside.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-28",
+      "start_date": "2025-01-30",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-01-30",
+      "end_date": "2025-02-03",
       "parks": [
         {
           "id": "149501",
