@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2025-02-01 10:07:43"
+    "alerts_count": 165,
+    "script_run_time": "2025-02-02 10:07:42"
   },
   "alerts": [
     {
@@ -3325,6 +3325,52 @@
           "id": "148127",
           "name": "Girramay National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girramay"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park",
+      "alert_id": "24906",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24906",
+      "description": "Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park are temporarily closed until Friday 7 February 2025 when conditions will be reviewed. Intense heavy rain has led to significant stream rises and flooding in the Townsville area. Further monsoonal rainfall is predicted in the coming days with associated stream rises and flooding expected to continue. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.",
+      "details": "<p>Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park are temporarily closed until Friday 7 February 2025 when conditions will be reviewed. Intense heavy rain has led to significant stream rises and flooding in the Townsville area. Further monsoonal rainfall is predicted in the coming days with associated stream rises and flooding expected to continue. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-02",
+      "start_effective_date": "2025-02-02",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/townsville"
+        },
+        {
+          "id": "148997",
+          "name": "Cape Pallarenda Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
+        },
+        {
+          "id": "149433",
+          "name": "Bowling Green Bay National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Dalrymple National park",
+      "alert_id": "24907",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24907",
+      "description": "Due to heavy rain Dalrymple National Park including the campground is closed until Friday 7 February 2025 inclusive when conditions will be reviewed For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.",
+      "details": "<p>Due to heavy rain Dalrymple National Park including the campground is closed until Friday 7 February 2025 inclusive when conditions will be reviewed For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-02",
+      "start_effective_date": "2025-02-02",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148103",
+          "name": "Dalrymple National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dalrymple"
         }
       ]
     }
