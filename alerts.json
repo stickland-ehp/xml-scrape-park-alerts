@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2025-02-02 10:07:42"
+    "alerts_count": 174,
+    "script_run_time": "2025-02-03 10:08:53"
   },
   "alerts": [
     {
@@ -2778,24 +2778,6 @@
       ]
     },
     {
-      "title": "Bat Cleft - Boardwalk",
-      "alert_id": "24863",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24863",
-      "description": "The Bat Cleft boardwalk section is closed to reduce impacts on the Little Bent Wing Bat community during nesting",
-      "details": "<p>The Bat Cleft boardwalk section is closed to reduce impacts on the Little Bent Wing Bat community during nesting</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-21",
-      "start_effective_date": "2025-01-01",
-      "end_date": "2025-02-08",
-      "parks": [
-        {
-          "id": "149405",
-          "name": "Mount Etna Caves National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
-        }
-      ]
-    },
-    {
       "title": "High Clearance 4WD Recommended - Mount Mee Section, D'Aguilar National Park",
       "alert_id": "24864",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24864",
@@ -3030,9 +3012,9 @@
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
       "category": "Announcement",
-      "start_date": "2025-01-30",
+      "start_date": "2025-02-03",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-03",
+      "end_date": "2025-02-07",
       "parks": [
         {
           "id": "148468",
@@ -3053,9 +3035,9 @@
       "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.",
       "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.</p> <p>This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location.</p> <p>The Swamp walk will reopen when water levels subside.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-30",
+      "start_date": "2025-02-03",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-03",
+      "end_date": "2025-02-07",
       "parks": [
         {
           "id": "149501",
@@ -3141,11 +3123,11 @@
       "alert_id": "24895",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24895",
       "description": "The Goldsborough Valley section of Wooroonooran National Park is temporarily closed due to recent heavy rain and localised flooding with further monsoonal rainfall predicted in the coming days.",
-      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed due to recent heavy rain and localised flooding with further monsoonal rainfall predicted in the coming days.</p> <p>This closure includes:</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Mulgrave River (Goldfield Trail) camping area</li> <li>Goldfield trail</li> </ul> <p>This section of the park is anticipated to reopen on Tuesday 4 February 2025 depending on weather and road conditions.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
+      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed due to recent heavy rain and localised flooding with further monsoonal rainfall predicted in the coming days.</p> <p>This closure includes:</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Mulgrave River (Goldfield Trail) camping area</li> <li>Goldfield trail</li> </ul> <p>This section of the park will reopen on Friday 7 February 2025 depending on weather and road conditions.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-31",
+      "start_date": "2025-02-03",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-03",
+      "end_date": "2025-02-07",
       "parks": [
         {
           "id": "148468",
@@ -3329,6 +3311,24 @@
       ]
     },
     {
+      "title": "Planned Burn",
+      "alert_id": "24905",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24905",
+      "description": "Smoke my be evident in remote areas of the park from a planned burn",
+      "details": "<p>Smoke my be evident in remote areas of the park from a planned burn</p> <p>Visitor access should not be affected</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-01-31",
+      "end_date": "2025-02-05",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure: Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park",
       "alert_id": "24906",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24906",
@@ -3371,6 +3371,188 @@
           "id": "148103",
           "name": "Dalrymple National Park",
           "url": "https://parks.desi.qld.gov.au/parks/dalrymple"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Smithfield Mountain Bike Park, Smithfield Conservation Park",
+      "alert_id": "24908",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24908",
+      "description": "Due to recent weather events resulting in heavy rain, the Smithfield Mountain Bike Park is currently closed.",
+      "details": "<p>Due to recent weather events resulting in heavy rain, the Smithfield Mountain Bike Park is currently closed.</p> <p>Please do not ride tracks while wet as it damages the surface and creates further issues.</p> <p>Please see the Cairns Mountain Bike Club website or Facebook page for updates.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148424",
+          "name": "Smithfield Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/smithfield"
+        }
+      ]
+    },
+    {
+      "title": "Walking tracks closed due to extreme weather",
+      "alert_id": "24910",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24910",
+      "description": "For public safety the walking tracks on Magnetic Island are closed pending inspection by QPWS Rangers following extreme rain and wind experienced over the weekend.",
+      "details": "<p>For public safety the walking tracks on Magnetic Island are closed pending inspection by QPWS Rangers following extreme rain and wind experienced over the weekend.</p> <p>Trees will have fallen accross the walking tracks and track damage is expected following heavy rain and strong winds. Rangers will clear the tracks as soon as practicable.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "Visitor facilities closed for public safety following extreme weather.",
+      "alert_id": "24911",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24911",
+      "description": "Camping areas and walking tracks on Orpheus Island, Hinchinbrook Island and Goold Island National Parks are closed following extreme rain and wind associated with an intense tropical rain depression.",
+      "details": "<p>Camping areas and walking tracks on Orpheus Island, Hinchinbrook Island and Goold Island National Parks are closed following extreme rain and wind associated with an intense tropical rain depression.</p> <p>For public safety, visitor facilities will be closed until weather conditons improve and Rangers can inspect camping areas and walking tracks.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-15",
+      "parks": [
+        {
+          "id": "148806",
+          "name": "Orpheus Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/orpheus-island"
+        },
+        {
+          "id": "148307",
+          "name": "Goold Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/goold-island"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Yellow Pinch lookout closed for maintenance",
+      "alert_id": "24913",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24913",
+      "description": "The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Yellow Pinch Lookout walking track in Mount Barney National Park from Tuesday 4 February 2025 until Friday 7 February 2025 (weather permitting). This walking track and the Yellow Pinch Lookout will be closed during for the duration of the works. All permits are suspended for the duration of the closure. Alternative access to Cronan Creek Falls, Bush camping areas and Mount Barney summit routes is available via the main fire break leaving from the yellow pinch car park adjacent the walking track. Please observe all signage, barriers and directions from rangers and do not enter closed areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Yellow Pinch Lookout walking track in Mount Barney National Park from Tuesday 4 February 2025 until Friday 7 February 2025 (weather permitting). This walking track and the Yellow Pinch Lookout will be closed during for the duration of the works. All permits are suspended for the duration of the closure. Alternative access to Cronan Creek Falls, Bush camping areas and Mount Barney summit routes is available via the main fire break leaving from the yellow pinch car park adjacent the walking track. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-04",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Big Crystal Creek camping and day-use areas, Paluma Range National Park",
+      "alert_id": "24914",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24914",
+      "description": "Due to recent heavy localised rainfall and predicted further monsoonal rainfall with associated flooding, Big Crystal Creek camping and day-use areas are currently closed.",
+      "details": "<p>Due to recent heavy localised rainfall and predicted further monsoonal rainfall with associated flooding, Big Crystal Creek camping and day-use areas are currently closed.</p> <p>Please follow all directions displayed on signage.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-13",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Bladensburg National Park closed due to flooding",
+      "alert_id": "24915",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24915",
+      "description": "Bladensburg National Park is closed due to wet weather conditions and flooding until Monday 17 February 2025 inclusive when conditions will be reviewed.",
+      "details": "<p>Bladensburg National Park is closed due to wet weather conditions and flooding until Monday 17 February 2025 inclusive when conditions will be reviewed.</p> <p>Read more on your safety while visiting our Park here <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>Don&#39;t walk, drive or ride through floodwaters.&nbsp; Remember, if it&#39;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-17",
+      "parks": [
+        {
+          "id": "148408",
+          "name": "Bladensburg National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bladensburg"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to severe weather: Blackbraes National Park",
+      "alert_id": "24916",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24916",
+      "description": "The Bureau of Meteorology have issued weather and flood warnings for Northern and Central Queensland locations. Due to heavy to locally intense rain that can lead to dangerous and life-threatening flash flooding, Blackbraes National Park is temporarily closed until further notice.",
+      "details": "<p>The Bureau of Meteorology have issued weather and flood warnings for Northern and Central Queensland locations. Due to heavy to locally intense rain that can lead to dangerous and life-threatening flash flooding, Blackbraes National Park is temporarily closed until further notice.</p> <p>The temporary closures applies to all visitor facilities including camping areas and vehicle tracks at Blackbraes National Park.</p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackbraes"
+        }
+      ]
+    },
+    {
+      "title": "Report of Saltwater Crocodile sighting",
+      "alert_id": "24917",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24917",
+      "description": "As of 11:00am Monday 3 February 2025, Queensland Parks and Wildlife Service (QPWS) is investigating a credible saltwater crocodile sighting at the beachfront of Sarawak West camping area, Inskip Peninsula Recreation Area, within the Great Sandy Marine Park.",
+      "details": "<p>As of 11:00am Monday 3 February 2025, Queensland Parks and Wildlife Service (QPWS) is investigating a credible saltwater crocodile sighting at the beachfront of Sarawak West camping area, Inskip Peninsula Recreation Area, within the Great Sandy Marine Park.</p> <p>QPWS is requesting park users to stay out of the area while Rangers investigate the sighting as crocodiles are easily spooked. Rangers thank you for your cooperation.&nbsp; &nbsp;</p> <p>If you see a crocodile in Great Sandy Marine Park please follow the link to report it to the Department of Environment, Tourism, Science and Innovation via:&nbsp;</p> <p><a href=\"https://environment.des.qld.gov.au/wildlife/animals/living-with/crocodiles/report-crocodile\">https://environment.des.qld.gov.au/wildlife/animals/living-with/crocodiles/report-crocodile</a></p> <p>Remember: crocodiles are highly mobile and the longer you take to report a sighting, the less likely it is that the crocodile will be located.</p> <p>For your safety follow these Crocwise tips:</p> <p><a href=\"https://environment.des.qld.gov.au/wildlife/animals/living-with/crocodiles/croc-wise\">Crocodiles - Be Crocwise | Environment | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p>",
+      "category": "Announcement",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-10",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to severe weather: Finch Hatton Gorge in Eungella National Park",
+      "alert_id": "24918",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24918",
+      "description": "The Bureau of Meteorology have issued weather and flood warnings for Northern and Central Queensland locations. Due to heavy to locally intense rain that can lead to dangerous and life-threatening flash flooding, Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.",
+      "details": "<p>The Bureau of Meteorology have issued weather and flood warnings for Northern and Central Queensland locations. Due to heavy to locally intense rain that can lead to dangerous and life-threatening flash flooding, Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.</p> <p>The temporary closure includes all visitor facilities and walking tracks at Finch Hatton Gorge in Eungella National Park.</p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-03",
+      "start_effective_date": "2025-02-03",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "148295",
+          "name": "Eungella National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eungella"
         }
       ]
     }
