@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2025-02-05 10:08:46"
+    "alerts_count": 182,
+    "script_run_time": "2025-02-06 10:08:49"
   },
   "alerts": [
     {
@@ -1329,15 +1329,15 @@
       ]
     },
     {
-      "title": "Big Bend closed due to structural damage",
+      "title": "Big Bend camping area closed due to works underway.",
       "alert_id": "24553",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24553",
-      "description": "Big Bend campground is closed due to structural damage to the toilet block while repairs are being completed.",
-      "details": "<p>Big Bend campground is closed due to structural damage to the toilet block while repairs are being completed.</p> <p>This Park Alert applies to the Big Bend campground only. All other sites and walking tracks including Cathedral Cave and Boowinda Gorge remain open.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "description": "Big Bend camping area (including the Great Walk site) is closed due to unplanned structural repairs needing to be undertaken on the toilet block.",
+      "details": "<p>Big Bend camping area (including the Great Walk site) is closed due to unplanned structural repairs needing to be undertaken on the toilet block.</p> <p>This Park Alert applies to the Big Bend camping area only. All other sites and walking tracks including Cathedral Cave and Boowinda Gorge remain open.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-24",
+      "start_date": "2025-02-06",
       "start_effective_date": "2024-09-29",
-      "end_date": "2025-09-30",
+      "end_date": "2025-04-30",
       "parks": [
         {
           "id": "150195",
@@ -2401,24 +2401,6 @@
       ]
     },
     {
-      "title": "Remote camping areas - Main Range National Park",
-      "alert_id": "24801",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24801",
-      "description": "Due to a booking system upgrade, for bookings of Main Range National Parks remote bush camping areas (excluding Lizard South, Stern and Mount Steamer remote bush camping areas) please email: visitormgtswr@des.qld.gov.au.",
-      "details": "<p>Due to a booking system upgrade, for bookings of Main Range National Parks remote bush camping areas (excluding Lizard South, Stern and Mount Steamer remote bush camping areas) please email: visitormgtswr@des.qld.gov.au.</p>",
-      "category": "Announcement",
-      "start_date": "2024-12-18",
-      "start_effective_date": "2025-01-06",
-      "end_date": "2025-02-05",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Cape Pallarenda Conservation Park exercise caution on tracks and trails",
       "alert_id": "24802",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24802",
@@ -2651,29 +2633,6 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
-      "title": "Foothold Trapping - Southend Conservation Park",
-      "alert_id": "24843",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24843",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting foothold trapping activities in Southend Conservation Park between Wednesday the 29th of January and Thursday the 6th of February 2025",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting foothold trapping activities in Southend Conservation Park between Wednesday the 29th of January and Thursday the 6th of February 2025</p> <p>Southend Conservation Park will be closed to the public between the above dates. Access will still be available along the main road and along the beach below the high water mark.&nbsp;</p> <p>These activities are conducted to reduce impacts on turtle nests from predation by feral animals. QPWS will be installing a number of warning signs within the area informing residents and visitors that traps and Firearms will be used along the beach and other areas within Southend Conservation Park.</p> <p>Should you have any queries in relation to this matter, please Email SGBR@des.qld.gov.au or call 0429 129 388.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-14",
-      "start_effective_date": "2025-01-29",
-      "end_date": "2025-02-06",
-      "parks": [
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
-        },
-        {
-          "id": "322718",
-          "name": "Southend Conservation Park",
-          "url": ""
         }
       ]
     },
@@ -3125,9 +3084,9 @@
       "description": "The Goldsborough Valley section of Wooroonooran National Park is temporarily closed due to recent heavy rain and localised flooding with further monsoonal rainfall predicted in the coming days.",
       "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is temporarily closed due to recent heavy rain and localised flooding with further monsoonal rainfall predicted in the coming days.</p> <p>This closure includes:</p> <ul> <li>Goldsborough Valley camping and day-use area</li> <li>Bora Ground camping area</li> <li>Mulgrave River (Goldfield Trail) camping area</li> <li>Goldfield trail</li> </ul> <p>This section of the park will reopen when weather and road conditions permit.&nbsp;</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-05",
+      "start_date": "2025-02-06",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-03-10",
+      "end_date": "2025-02-10",
       "parks": [
         {
           "id": "148468",
@@ -3216,6 +3175,24 @@
       ]
     },
     {
+      "title": "Temporary closure: Swamp Bay walking track and Campground, Conway National Park",
+      "alert_id": "24899",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24899",
+      "description": "Swamp Bay walking track and camping ground in Conway National Park is temporarily closed until further notice. Damage caused by wind and flooding rain has made the area unsafe.",
+      "details": "<p>Swamp Bay walking track and camping ground in Conway National Park is temporarily closed until further notice. Damage caused by wind and flooding rain has made the area unsafe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-06",
+      "start_effective_date": "2025-02-06",
+      "end_date": "2025-02-07",
+      "parks": [
+        {
+          "id": "147975",
+          "name": "Conway National Park and Conway Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conway"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure: Broadwater, Abergowrie State Forest",
       "alert_id": "24900",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24900",
@@ -3293,24 +3270,6 @@
       ]
     },
     {
-      "title": "Planned Burn",
-      "alert_id": "24905",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24905",
-      "description": "Smoke my be evident in remote areas of the park from a planned burn",
-      "details": "<p>Smoke my be evident in remote areas of the park from a planned burn</p> <p>Visitor access should not be affected</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-02-03",
-      "start_effective_date": "2025-01-31",
-      "end_date": "2025-02-05",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park",
       "alert_id": "24906",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24906",
@@ -3339,15 +3298,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Dalrymple National park",
+      "title": "Temporary closure: Dalrymple National Park",
       "alert_id": "24907",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24907",
       "description": "Due to heavy rain Dalrymple National Park including the campground is closed until Friday 7 February 2025 inclusive when conditions will be reviewed For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.",
       "details": "<p>Due to heavy rain Dalrymple National Park including the campground is closed until Friday 7 February 2025 inclusive when conditions will be reviewed For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-02",
+      "start_date": "2025-02-06",
       "start_effective_date": "2025-02-02",
-      "end_date": "2025-02-07",
+      "end_date": "2025-02-14",
       "parks": [
         {
           "id": "148103",
@@ -3790,6 +3749,29 @@
           "id": "148832",
           "name": "Cape Palmerston National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cape-palmerston"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to flooding: Blencoe Falls camping and day-use areas as listed, Girringun National Park",
+      "alert_id": "24928",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24928",
+      "description": "Due to recent flooding, the Blencoe Falls camping area, Blencoe Falls lookout and Society Flats walking track are closed until the severe wet weather recedes and Queensland Parks and Wildlife Service staff are able to assess these areas.",
+      "details": "<p>Due to recent flooding, the Blencoe Falls camping area, Blencoe Falls lookout and Society Flats walking track are closed until the severe wet weather recedes and Queensland Parks and Wildlife Service staff are able to assess these areas.</p> <p>Access from the west is cut at Cashmere crossing.</p> <p>Access from the east via the Kirrama Range Road will likely be cut due to recent rainfall.</p> <p>Do not attempt to access Blencoe Falls before checking the <a href=\"https://www.cassowarycoast.qld.gov.au/\">Cassowary Coast Council</a> and the <a href=\"https://www.trc.qld.gov.au/\">Tablelands Regional Council</a> webpages for road closures and road condition reports that may affect access to the Blencoe Falls area.</p> <p>Please monitor this park alert for current information, it will be removed when the area has reopened.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-06",
+      "start_effective_date": "2025-02-06",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     }
