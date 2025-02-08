@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 179,
-    "script_run_time": "2025-02-07 10:08:43"
+    "alerts_count": 174,
+    "script_run_time": "2025-02-08 10:07:47"
   },
   "alerts": [
     {
@@ -2737,24 +2737,6 @@
       ]
     },
     {
-      "title": "Planned Burn D'Aguilar National Park",
-      "alert_id": "24865",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24865",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Northbrook Parkway and Mt Mee section on Wednesday 28th January 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. The Range Rd area between the Winder and Northbrook Parkway will be closed to the public. As a result of the burn, smoke may be seen in the Mount Glorious, Mount Mee, Ocean View, Mount Brisbane, Reedy Creek, Dundas, Lacey's Creek, and Mount Samson area.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Northbrook Parkway and Mt Mee section on Wednesday 28th January 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. The Range Rd area between the Winder and Northbrook Parkway will be closed to the public. As a result of the burn, smoke may be seen in the Mount Glorious, Mount Mee, Ocean View, Mount Brisbane, Reedy Creek, Dundas, Lacey's Creek, and Mount Samson area.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp; For more information, please call The Gap office of QPWS on 07 3164 3600.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-04",
-      "start_effective_date": "2025-01-22",
-      "end_date": "2025-02-07",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary walking track and camping area closures: Wallaman Falls, Girringun National Park and Wet Tropics Great Walk",
       "alert_id": "24873",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24873",
@@ -2843,52 +2825,6 @@
           "id": "151396",
           "name": "Palmerston (Doongan), Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-palmerston"
-        }
-      ]
-    },
-    {
-      "title": "Aerial feral animal control activities: Apudthama (Jardine River) National Park (CYPAL), Bromley (Amplulin) National Park (CYPAL) and Wuthathi (Shelburne Bay) National Park (CYPAL)",
-      "alert_id": "24881",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24881",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in the parks listed below, from Monday 3 February 2025 to Friday 7 February 2025 (dates inclusive). Helicopters may be seen and heard regularly during this time.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in the parks listed below, from Monday 3 February 2025 to Friday 7 February 2025 (dates inclusive). Helicopters may be seen and heard regularly during this time.</p> <p><strong>Parks with no public access:</strong></p> <ul> <li>Bromley (Amplulin) National Park (CYPAL)</li> <li>Wuthathi (Shelburne Bay) National Park (CYPAL)</li> </ul> <p><strong>Parks with public access:</strong></p> <ul> <li>Apudthama (Jardine River) National Park (CYPAL) -&nbsp;camping areas, day-use areas including roads and tracks will not be affected.</li> </ul> <p>For your safety, visitors are reminded to remain on designated access tracks and within designated camping areas and day-use areas only.</p>",
-      "category": "Other",
-      "start_date": "2025-01-24",
-      "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-07",
-      "parks": [
-        {
-          "id": "148892",
-          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
-        },
-        {
-          "id": "148171",
-          "name": "Bromley (Ampulin) National Park (CYPAL) and Bromley (Kaanichi) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/bromley"
-        },
-        {
-          "id": "148239",
-          "name": "Wuthathi (Shelburne Bay) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/wuthathi"
-        }
-      ]
-    },
-    {
-      "title": "QPWS Rangers will be Partially Closing infrastructure to oil timber at Tongue Point look out Monday 3rd of February",
-      "alert_id": "24882",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24882",
-      "description": "Tongue Point look outs &amp; Betties beach Boardwalk will be partially closed for routine maintenance and Oilling.",
-      "details": "<p>Tongue Point look outs &amp; Betties beach Boardwalk will be partially closed for routine maintenance and Oilling.</p> <p>Toilet Facilites will remain open. One viewing deck will remain open while the other is shut for Oilling. Rangers will only close half of betties beach walk allowing for access to the beach. Please follow all signage and barricades.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-24",
-      "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-07",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     },
@@ -3198,34 +3134,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park",
-      "alert_id": "24906",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24906",
-      "description": "Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park are temporarily closed until Friday 7 February 2025 when conditions will be reviewed. Intense heavy rain has led to significant stream rises and flooding in the Townsville area. Further monsoonal rainfall is predicted in the coming days with associated stream rises and flooding expected to continue. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.",
-      "details": "<p>Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park are temporarily closed until Friday 7 February 2025 when conditions will be reviewed. Intense heavy rain has led to significant stream rises and flooding in the Townsville area. Further monsoonal rainfall is predicted in the coming days with associated stream rises and flooding expected to continue. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-02",
-      "start_effective_date": "2025-02-02",
-      "end_date": "2025-02-07",
-      "parks": [
-        {
-          "id": "148311",
-          "name": "Townsville Town Common Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/townsville"
-        },
-        {
-          "id": "148997",
-          "name": "Cape Pallarenda Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
-        },
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Dalrymple National Park",
       "alert_id": "24907",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24907",
@@ -3358,24 +3266,6 @@
           "id": "148408",
           "name": "Bladensburg National Park",
           "url": "https://parks.desi.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to severe weather: Blackbraes National Park",
-      "alert_id": "24916",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24916",
-      "description": "The Bureau of Meteorology have issued weather and flood warnings for Northern and Central Queensland locations. Due to heavy to locally intense rain that can lead to dangerous and life-threatening flash flooding, Blackbraes National Park is temporarily closed until further notice.",
-      "details": "<p>The Bureau of Meteorology have issued weather and flood warnings for Northern and Central Queensland locations. Due to heavy to locally intense rain that can lead to dangerous and life-threatening flash flooding, Blackbraes National Park is temporarily closed until further notice.</p> <p>The temporary closures applies to all visitor facilities including camping areas and vehicle tracks at Blackbraes National Park.</p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-03",
-      "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-07",
-      "parks": [
-        {
-          "id": "148604",
-          "name": "Blackbraes National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blackbraes"
         }
       ]
     },
