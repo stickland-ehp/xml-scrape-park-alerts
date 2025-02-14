@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2025-02-13 10:09:10"
+    "alerts_count": 177,
+    "script_run_time": "2025-02-14 10:08:44"
   },
   "alerts": [
     {
@@ -2405,9 +2405,9 @@
       "alert_id": "24808",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24808",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) along the Carnarvon Great Walk during March and possibly June, as part of the fire management program for Carnarvon National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) along the Carnarvon Great Walk during March and possibly June, as part of the fire management program for Carnarvon National Park.</p> <p>During these months, the Carnarvon Great Walk will be closed to public access.</p> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation while visiting Carnarvon National Park during these times.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) along the Carnarvon Great Walk during March and possibly June, as part of the fire management program for Carnarvon National Park.</p> <p>During the planned burn the following area will be closed to public access:&nbsp;</p> <ul> <li> <p>Carnarvon Great Walk (from Big Bend camping area to end point near Boolimba Bluff).</p> </li> </ul> <p>All of Carnarvon National Park&#39;s other walking tracks in the Carnarvon Gorge and Mount Moffatt sections will remain open.&nbsp;</p> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation while visiting Carnarvon National Park during these times.</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-01-24",
+      "start_date": "2025-02-14",
       "start_effective_date": "2024-12-20",
       "end_date": "2025-06-30",
       "parks": [
@@ -2817,9 +2817,9 @@
       "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.",
       "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.</p> <p>This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location.</p> <p>The Swamp walk will reopen when water levels subside.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-10",
+      "start_date": "2025-02-14",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-14",
+      "end_date": "2025-02-17",
       "parks": [
         {
           "id": "149501",
@@ -2847,15 +2847,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Cardwell Forest Drive and day-use areas, Cardwell State Forest",
+      "title": "Temporary change to access: Cardwell Forest Drive, Cardwell State Forest",
       "alert_id": "24892",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24892",
-      "description": "The Cardwell Forest Drive and day-use areas are temporarily closed.",
-      "details": "<p>The Cardwell Forest Drive and day-use areas are temporarily closed.</p> <p>Recent heavy rain has led to localised flooding in the Cardwell State Forest area. &nbsp;Further monsoonal rainfall is predicted in the coming days with associated stream rises with flooding expected to continue.</p> <p>The closure includes the day-use areas at Five Mile Creek, Attie Creek, Deadhorse creek and Spa Pool.</p> <p>Cardwell lookout will remain open.</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Remember, if it&rsquo;s flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to recent heavy rainfall road access to Cardwell Forest Drive and day-use areas is only possible from the Cardwell township end (Southern access).",
+      "details": "<p>Due to recent heavy rainfall road access to Cardwell Forest Drive and day-use areas is only possible from the Cardwell township end (Southern access).</p> <p>The Ellerbeck Road end (Northern access) is temporarily closed until further notice.</p> <p>&nbsp;</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Remember, if it&rsquo;s flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-05",
+      "start_date": "2025-02-14",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-14",
+      "end_date": "2025-02-21",
       "parks": [
         {
           "id": "150212",
@@ -3029,15 +3029,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Edmund Kennedy day-use area and beach access road, Girramay National Park",
+      "title": "Temporary walking track closure: Wreck Creek walk, Edmund Kennedy, Girramay National Park",
       "alert_id": "24904",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24904",
-      "description": "The Edmund Kennedy Section of Girramay National Park is temporarily closed until further notice.",
-      "details": "<p>The Edmund Kennedy Section of Girramay National Park is temporarily closed until further notice.</p> <p>Recent heavy rain has led to localised flooding in the Girramay National Park area. &nbsp;Further monsoonal rainfall is predicted in the coming days with associated stream rises with flooding expected to continue.</p> <p>The closure includes all visitor facilitiies, day-use areas, walking tracks and beach access road. These areas will remain closed until declared safe for reopening.</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Remember, if it&rsquo;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Wreck Creek walk, Edmund Kennedy is temporarily closed until further notice due to recent heavy rainfall.",
+      "details": "<p>Wreck Creek walk, Edmund Kennedy is temporarily closed until further notice due to recent heavy rainfall.</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-05",
+      "start_date": "2025-02-14",
       "start_effective_date": "2025-01-31",
-      "end_date": "2025-02-14",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "148127",
@@ -3093,15 +3093,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Smithfield Mountain Bike Park, Smithfield Conservation Park",
+      "title": "Wet weather precautions: Smithfield Mountain Bike Park, Smithfield Conservation Park",
       "alert_id": "24908",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24908",
-      "description": "Due to recent weather events resulting in heavy rain, the Smithfield Mountain Bike Park is currently closed.",
-      "details": "<p>Due to recent weather events resulting in heavy rain, the Smithfield Mountain Bike Park is currently closed.</p> <p>Please do not ride tracks while wet as it damages the surface and creates further issues.</p> <p>Please see the Cairns Mountain Bike Club website or Facebook page for updates.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-10",
+      "description": "Due to wet weather and the high likelihood of trees falling over tracks, riders are cautioned to take extreme care while riding at Smithfield Mountain Bike Park.",
+      "details": "<p>Due to wet weather and the high likelihood of trees falling over tracks, riders are cautioned to take extreme care while riding at Smithfield Mountain Bike Park.</p> <p>Be aware that it is probable further trees will fall and become hazards on tracks.</p> <p>Riders should take care at creek crossings as some areas of track have sustained washouts from the rain.&nbsp;</p> <p>Please refer to the &lsquo;Cairns Mountain Bike Club&rsquo; website and social media pages for updates and alerts, and avoid the park after heavy rainfall.</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-14",
       "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-14",
+      "end_date": "2025-02-21",
       "parks": [
         {
           "id": "148424",
@@ -3354,24 +3354,6 @@
       ]
     },
     {
-      "title": "Temporary road closure: Black Mountain Road, Kuranda and Mowbray National Parks",
-      "alert_id": "24931",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24931",
-      "description": "Due to persistent rainfall causing many trees to fall and block the road, Black Mountain Road (north of Quaids road) is unpassable and is closed to all vehicle traffic until further notice.",
-      "details": "<p>Due to persistent rainfall causing many trees to fall and block the road, Black Mountain Road (north of Quaids road) is unpassable and is closed to all vehicle traffic until further notice.</p> <p>Rangers are working towards clearing fallen trees to reopen the road when possible.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-11",
-      "start_effective_date": "2025-02-07",
-      "end_date": "2025-02-13",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Paluma Range National Park",
       "alert_id": "24932",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24932",
@@ -3550,6 +3532,96 @@
           "id": "148908",
           "name": "Burleigh Head National Park",
           "url": "https://parks.desi.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - D'Aguilar National Park - Bellbird Grove Area",
+      "alert_id": "24943",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24943",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a small planned (training) burn in DAguilar National Park in the Bellbird Grove / Ross Road Park Area on Friday, February 14 to train new staff in fire management. As a result, smoke may be seen in The Gap and Upper Kedron areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a small planned (training) burn in DAguilar National Park in the Bellbird Grove / Ross Road Park Area on Friday, February 14 to train new staff in fire management. As a result, smoke may be seen in The Gap and Upper Kedron areas.</p> <p>The following areas are restricted to the public during lighting operations and potentially the following days;&nbsp; Marshalls Break adjacent to Bellbird Grove Day Use Area. There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to train new staff in the skills associated with conducting planned burns and responding to wildfires. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-14",
+      "start_effective_date": "2025-02-14",
+      "end_date": "2025-02-14",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Flood warning - Bluebush Drive",
+      "alert_id": "24944",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24944",
+      "description": "Lochern NP, the eastern section of Bluebush Drive is temporarily closed until Friday 14th March 2025 due to flooding of the river channels after recent rainfall.",
+      "details": "<p>Lochern NP, the eastern section of Bluebush Drive is temporarily closed until Friday 14th March 2025 due to flooding of the river channels after recent rainfall.</p> <p>The western section of Bluebush Drive is still open, and accessible from the ranger base, or the southern end of Waterloo Road.</p> <p>The Broadwater camping area is open.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-14",
+      "start_effective_date": "2025-02-14",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure of all Water-Based Activities at Enoggera Reservoir",
+      "alert_id": "24945",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24945",
+      "description": "Enoggera Reservoir is currently closed to all water-based activities, including swimming and the use of paddle craft until further notice. This temporary closure is due to significant rainfall within the catchment area resulting in the flow of water over the spillway and potentially impacting water quality.",
+      "details": "<p>Enoggera Reservoir is currently closed to all water-based activities, including swimming and the use of paddle craft until further notice. This temporary closure is due to significant rainfall within the catchment area resulting in the flow of water over the spillway and potentially impacting water quality.</p> <p>This closure is implemented for your safety. We ask that you please follow all posted signs and instructions provided by our rangers. We appreciate your patience and understanding during this necessary closure period. Thank you.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-14",
+      "start_effective_date": "2025-02-14",
+      "end_date": "2025-02-17",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Buckland Tableland section of Carnarvon National Park",
+      "alert_id": "24946",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24946",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 17 February 2025 to 24 February 2025, as part of the fire management program for Carnarvon National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 17 February 2025 to 24 February 2025, as part of the fire management program for Carnarvon National Park.</p> <p>Smoke may be seen from the vicinity of Buckland Tableland. &nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-02-14",
+      "start_effective_date": "2025-02-17",
+      "end_date": "2025-02-24",
+      "parks": [
+        {
+          "id": "150195",
+          "name": "Carnarvon Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
+        }
+      ]
+    },
+    {
+      "title": "Temporary change to creek access: Five Mile Creek day-use area, Cardwell State Forest",
+      "alert_id": "24947",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24947",
+      "description": "Due to damage from recent heavy rainfall the platform and main access ladder to Five Mile Creek is closed until further notice.",
+      "details": "<p>Due to damage from recent heavy rainfall the platform and main access ladder to Five Mile Creek is closed until further notice.</p> <p>Access to the creek is possible from the walking track via steps at the&nbsp;lower section.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from workers and rangers.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-14",
+      "start_effective_date": "2025-02-14",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "150212",
+          "name": "Cardwell State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
         }
       ]
     }
