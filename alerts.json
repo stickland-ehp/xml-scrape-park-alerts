@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2025-02-16 10:07:44"
+    "alerts_count": 173,
+    "script_run_time": "2025-02-17 10:09:39"
   },
   "alerts": [
     {
@@ -3096,12 +3096,12 @@
       "title": "Bladensburg National Park closed due to flooding",
       "alert_id": "24915",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24915",
-      "description": "Bladensburg National Park is closed due to wet weather conditions and flooding until Monday 17 February 2025 inclusive when conditions will be reviewed.",
-      "details": "<p>Bladensburg National Park is closed due to wet weather conditions and flooding until Monday 17 February 2025 inclusive when conditions will be reviewed.</p> <p>Read more on your safety while visiting our Park here <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>Don&#39;t walk, drive or ride through floodwaters.&nbsp; Remember, if it&#39;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Bladensburg National Park is closed due to wet weather conditions and flooding until Monday 24 February 2025 inclusive when conditions will be reviewed.",
+      "details": "<p>Bladensburg National Park is closed due to wet weather conditions and flooding until Monday 24 February 2025 inclusive when conditions will be reviewed.</p> <p>Read more on your safety while visiting our Park here <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au)</a></p> <p>Don&#39;t walk, drive or ride through floodwaters.&nbsp; Remember, if it&#39;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-03",
+      "start_date": "2025-02-17",
       "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-17",
+      "end_date": "2025-02-24",
       "parks": [
         {
           "id": "148408",
@@ -3125,6 +3125,24 @@
           "id": "148295",
           "name": "Eungella National Park",
           "url": "https://parks.desi.qld.gov.au/parks/eungella"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to trail maintenance: Wangetti Trail, Macalister Range National Park",
+      "alert_id": "24920",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24920",
+      "description": "The Wangetti Trail in Macalister Range National Park is temporarily closed due to recent heavy rain and localised flooding impacts. It will reopen when safe to use.",
+      "details": "<p>The Wangetti Trail in Macalister Range National Park is temporarily closed due to recent heavy rain and localised flooding impacts. It will reopen when safe to use.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-17",
+      "start_effective_date": "2025-02-04",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     },
@@ -3468,6 +3486,60 @@
           "id": "150212",
           "name": "Cardwell State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn, DAguilar National Park",
+      "alert_id": "24948",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24948",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park (Enoggera Reservoir area,) on Tuesday February 18 to Friday February 21, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke will be seen in The Gap, Brookfield, Camp Mountain Upper Kedron, Ferny Grove, Keperra and Mount Nebo areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park (Enoggera Reservoir area,) on Tuesday February 18 to Friday February 21, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke will be seen in The Gap, Brookfield, Camp Mountain Upper Kedron, Ferny Grove, Keperra and Mount Nebo areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Holmans Break, 69 Break, McDonalds Loop, E-Break, the southern section of Reservoir Break and South Boundary Road between Holmans Break and the Payne Road gate. There will also be an increase on the amount of fire-fighting vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-02-17",
+      "start_effective_date": "2025-02-18",
+      "end_date": "2025-02-22",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Roadworks: C Break within Mt Mee Section, D'Aguilar National Park",
+      "alert_id": "24949",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24949",
+      "description": "Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking maintenance road works within the Mt Mee section of D'Aguilar National Park. C Break will be closed between Lovedays Road and Neurum Creek Road over this period.",
+      "details": "<p>Queensland Parks and Wildlife Service &amp; Partnerships (QPWS&amp;P) will be undertaking maintenance road works within the Mt Mee section of D'Aguilar National Park. C Break will be closed between Lovedays Road and Neurum Creek Road over this period.</p> <p>For your safety please proceed with caution along all park access roads while heavy plant are in use.</p> <p>Please observe all signage, barriers and directions from local rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Other",
+      "start_date": "2025-02-17",
+      "start_effective_date": "2025-02-17",
+      "end_date": "2025-02-21",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Linderman Island Walking track Closure",
+      "alert_id": "24950",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24950",
+      "description": "Walking track is closed due to land slide and potential unstable slope above the access road from the boat ramp.",
+      "details": "<p>Walking track is closed due to land slide and potential unstable slope above the access road from the boat ramp.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-17",
+      "start_effective_date": "2025-02-17",
+      "end_date": "2025-03-28",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     }
