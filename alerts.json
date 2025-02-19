@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2025-02-18 10:08:56"
+    "alerts_count": 177,
+    "script_run_time": "2025-02-19 10:08:57"
   },
   "alerts": [
     {
@@ -544,9 +544,9 @@
       "description": "Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.",
       "details": "<p>Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.</p> <p>Monitor park alerts for current information on closures.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-12-06",
+      "start_date": "2025-02-19",
       "start_effective_date": "2023-12-11",
-      "end_date": "2025-02-28",
+      "end_date": "2025-06-30",
       "parks": [
         {
           "id": "148231",
@@ -2841,11 +2841,11 @@
       "alert_id": "24900",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24900",
       "description": "Abergowrie State Forest (Broadwater) is temporarily closed.",
-      "details": "<p>Abergowrie State Forest (Broadwater) is temporarily closed.</p> <p>Recent heavy rain has led to significant stream rises and localised flooding in the Broadwater and Abergowrie areas.&nbsp;</p> <p>Please monitor this park alert for up-to-date details.&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Abergowrie State Forest (Broadwater) is temporarily closed.</p> <p>The closure is due to impacts of recent heavy rainfall and localised flooding in the Broadwater and Abergowrie areas.&nbsp;</p> <p>Please monitor this park alert for up-to-date details.&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-13",
+      "start_date": "2025-02-19",
       "start_effective_date": "2025-01-31",
-      "end_date": "2025-02-20",
+      "end_date": "2025-03-20",
       "parks": [
         {
           "id": "150260",
@@ -3581,6 +3581,42 @@
           "id": "149481",
           "name": "Rinyirru (Lakefield) National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
+        }
+      ]
+    },
+    {
+      "title": "Smoke from planned burn - Blackdown Tableland",
+      "alert_id": "24956",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24956",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Blackdown Tableland National Park starting Wednesday 19th February 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and should close windows and doors and keep medications close by if suffering from a respiratory illness.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Blackdown Tableland National Park starting Wednesday 19th February 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.<br /> Fire is important in many of Queensland&rsquo;s natural ecosystems to maintain the diversity of native plants and animals. Fire plays a vital role in renewing these ecosystems through releasing nutrients, encouraging seed germination and providing ideal conditions for growth.</p> <p>Only a portion of the forest is burnt at any one time, this helps create a mosaic pattern that reduces the spread of bushfire and provides for variation in habitats for wildlife.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-19",
+      "start_effective_date": "2025-02-19",
+      "end_date": "2025-02-24",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Walk with caution: Douglas Track, Barron Gorge National Park",
+      "alert_id": "24957",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24957",
+      "description": "Due to continued wet weather conditions, a short section of the Douglas Track between Stoney Creek trailhead and Red Bluff has been damaged, refer to map  intersections 1 and 2.",
+      "details": "<p>Due to continued wet weather conditions, a short section of the Douglas Track between Stoney Creek trailhead and Red Bluff has been damaged, refer to map  intersections 1 and 2.</p> <p>The walking track remains open with caution with barricades in&nbsp; place. Walkers will be required to detour slightly off the track to avoid the hazard.</p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0034/159199/barron-gorge-map.pdf\">Barron Gorge National Park map</a></p> <p>Your safety is our concern, but your responsibility.</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-19",
+      "start_effective_date": "2025-02-19",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148548",
+          "name": "Barron Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
         }
       ]
     }
