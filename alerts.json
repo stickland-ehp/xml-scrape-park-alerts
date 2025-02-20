@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 177,
-    "script_run_time": "2025-02-19 10:08:57"
+    "script_run_time": "2025-02-20 10:09:09"
   },
   "alerts": [
     {
@@ -1370,6 +1370,24 @@
       ]
     },
     {
+      "title": "Severe Weather Impacts - Advisory Notice - Albert River circuit",
+      "alert_id": "24556",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24556",
+      "description": "As a result of severe weather impacts, there are multiple fallen trees on the Albert River circuit. The majority of the fallen trees are between the second turn-off on the Border track and Echo Point. QPWS advise visitors to allow additional time and take extra caution when walking the Albert River circuit.",
+      "details": "<p>As a result of severe weather impacts, there are multiple fallen trees on the Albert River circuit. The majority of the fallen trees are between the second turn-off on the Border track and Echo Point. QPWS advise visitors to allow additional time and take extra caution when walking the Albert River circuit.</p> <p>QPWS rangers are managing the situation and have damage repair activities in progress.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Other",
+      "start_date": "2025-02-20",
+      "start_effective_date": "2024-10-01",
+      "end_date": "2025-03-28",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
       "title": "Seasonal seabird closures, Barnard Island Group National Park",
       "alert_id": "24560",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24560",
@@ -2719,38 +2737,20 @@
       ]
     },
     {
-      "title": "Temporary closure: Murray Falls camping area and day-use area, Girramay National Park",
+      "title": "Temporary walking track and lookout closure: Yalgay Ginja Bulumi walk, Murray Falls, Girramay National Park",
       "alert_id": "24886",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24886",
-      "description": "Murray Falls section of Girramay National Park is temporarily closed due to recent heavy rain that has led to localised flooding in the area.",
-      "details": "<p>Murray Falls section of Girramay National Park is temporarily closed due to recent heavy rain that has led to localised flooding in the area.</p> <p>The closure includes all visitor facilities, camping areas and walking tracks. The park is anticipated to reopen on Friday 21 February 2025, subject to weather conditions.&nbsp;</p> <p>Please monitor this park alert for up-to-date details.&nbsp;</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if it&rsquo;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to damage sustained in a recent severe weather event the Yalgay Ginja Bulumi walking track to top viewing platform at Murray Falls is temporarily closed.",
+      "details": "<p>Due to damage sustained in a recent severe weather event the Yalgay Ginja Bulumi walking track to top viewing platform at Murray Falls is temporarily closed.</p> <p>The river boardwalk remains open including lookouts.</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.<br /> <br /> Please monitor park alerts on the department&#39;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-13",
+      "start_date": "2025-02-20",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-20",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "148127",
           "name": "Girramay National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girramay"
-        }
-      ]
-    },
-    {
-      "title": "Temporary change to access: Cardwell Forest Drive, Cardwell State Forest",
-      "alert_id": "24892",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24892",
-      "description": "Due to recent heavy rainfall road access to Cardwell Forest Drive and day-use areas is only possible from the Cardwell township end (Southern access).",
-      "details": "<p>Due to recent heavy rainfall road access to Cardwell Forest Drive and day-use areas is only possible from the Cardwell township end (Southern access).</p> <p>The Ellerbeck Road end (Northern access) is temporarily closed until further notice.</p> <p>&nbsp;</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Remember, if it&rsquo;s flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-14",
-      "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-21",
-      "parks": [
-        {
-          "id": "150212",
-          "name": "Cardwell State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
         }
       ]
     },
@@ -2855,16 +2855,21 @@
       ]
     },
     {
-      "title": "Temporary closure: Wallaman Falls section, Girringun National Park",
+      "title": "Temporary walking tracks, day-use and camping areas closure: Wallaman Falls section, Girringun National Park",
       "alert_id": "24901",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24901",
-      "description": "The Wallaman Falls section of Girringun National Park is currently closed due to a recent severe weather event .",
-      "details": "<p>The Wallaman Falls section of Girringun National Park is currently closed due to a recent severe weather event .</p> <p>This closure includes Wallaman Falls camping area and Wallaman Falls lookout.</p> <p>Please monitor this park alert for up-to-date details.&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "The Wallaman Falls section of Girringun National Park is closed until further notice due to impacts of a recent severe weather event including landslides on Wallaman Falls Road.",
+      "details": "<p>The Wallaman Falls section of Girringun National Park is closed until further notice due to impacts of a recent severe weather event including landslides on Wallaman Falls Road.</p> <p>The closure includes:</p> <ul> <li>All walking tracks</li> <li>Wallaman Falls camping area</li> <li>Wallaman Falls lookout and day-use area.</li> </ul> <p>These areas will remain closed until declared safe for reopening.</p> <p>Please monitor this park alert for up-to-date details.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-13",
+      "start_date": "2025-02-20",
       "start_effective_date": "2025-01-31",
-      "end_date": "2025-02-20",
+      "end_date": "2025-03-20",
       "parks": [
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
         {
           "id": "149453",
           "name": "Wallaman Falls, Girringun National Park",
@@ -3006,24 +3011,6 @@
       ]
     },
     {
-      "title": "Planned Burn Within Wuthara Island National Park (CYPAL)",
-      "alert_id": "24912",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24912",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn on 11/02/25 to 19/02/25, as part of the annual hazard reduction and conservation management program for parks and forests. Smoke may be seen in the vicinity of Wuthara Island National Park (CYPAL) and may impact anchorages surrounding the island as well as the designated camping area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn on 11/02/25 to 19/02/25, as part of the annual hazard reduction and conservation management program for parks and forests. Smoke may be seen in the vicinity of Wuthara Island National Park (CYPAL) and may impact anchorages surrounding the island as well as the designated camping area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Wuthura Island Bush Camping Area</li> </ul> <p>&nbsp;</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\">Park Alerts</a> regularly for updates on current park conditions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-04",
-      "start_effective_date": "2025-02-11",
-      "end_date": "2025-02-19",
-      "parks": [
-        {
-          "id": "148709",
-          "name": "Wuthara Island National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/wuthara-cypal"
-        }
-      ]
-    },
-    {
       "title": "Yellow Pinch lookout closed for maintenance",
       "alert_id": "24913",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24913",
@@ -3056,24 +3043,6 @@
           "id": "148408",
           "name": "Bladensburg National Park",
           "url": "https://parks.desi.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to severe weather: Finch Hatton Gorge in Eungella National Park",
-      "alert_id": "24918",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24918",
-      "description": "Due to ongoing impacts from severe weather events occurring in Northern and Central Queensland, and locally heavy rainfall, Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.",
-      "details": "<p>Due to ongoing impacts from severe weather events occurring in Northern and Central Queensland, and locally heavy rainfall, Finch Hatton Gorge in Eungella National Park is temporarily closed until further notice.</p> <p>The temporary closure includes all visitor facilities and walking tracks at Finch Hatton Gorge in Eungella National Park.</p> <p>For your safety, please observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-12",
-      "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-19",
-      "parks": [
-        {
-          "id": "148295",
-          "name": "Eungella National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/eungella"
         }
       ]
     },
@@ -3132,67 +3101,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to weather impacts: Mia Mia State Forest, Crediton State Forest and Forest Reserve, Homevale National Park and Cathu State Forest",
-      "alert_id": "24925",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24925",
-      "description": "Due to impacts from severe weather events impacting northern and central Queensland, the protected areas listed below are temporarily closed until further notice.",
-      "details": "<p>Due to impacts from severe weather events impacting northern and central Queensland, the protected areas listed below are temporarily closed until further notice.</p> <p>The temporary closure applies to:</p> <ul> <li>Mia Mia State Forest</li> <li>Crediton State Forest and Forest Reserve</li> <li>Homevale National Park</li> <li>Cathu State Forest</li> <li>Macartney State Forest.</li> </ul> <p>The temporary closure takes in all visitor facilities including camping areas, day-use areas, walking tracks and vehicle access tracks.</p> <p>For your safety, observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-12",
-      "start_effective_date": "2025-02-05",
-      "end_date": "2025-02-19",
-      "parks": [
-        {
-          "id": "148203",
-          "name": "Homevale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/homevale"
-        },
-        {
-          "id": "322645",
-          "name": "Macartney State Forest",
-          "url": ""
-        },
-        {
-          "id": "148027",
-          "name": "Cathu State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/cathu"
-        },
-        {
-          "id": "322275",
-          "name": "Crediton Forest Reserve",
-          "url": ""
-        },
-        {
-          "id": "148215",
-          "name": "Crediton State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/crediton"
-        },
-        {
-          "id": "148291",
-          "name": "Mia Mia State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/mia-mia"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to severe weather impacts: Cape Palmerston National Park",
-      "alert_id": "24926",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24926",
-      "description": "Due to impacts from severe weather events impacting northern and central Queensland, Cape Palmerston National Park is temporarily closed until further notice.",
-      "details": "<p>Due to impacts from severe weather events impacting northern and central Queensland, Cape Palmerston National Park is temporarily closed until further notice.</p> <p>The temporary closure takes in all visitor facilities including camping areas, day-use areas and vehicle tracks.</p> <p>For your safety, observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-12",
-      "start_effective_date": "2025-02-05",
-      "end_date": "2025-02-19",
-      "parks": [
-        {
-          "id": "148832",
-          "name": "Cape Palmerston National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-palmerston"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to flooding: Blencoe Falls camping, Girringun National Park",
       "alert_id": "24928",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24928",
@@ -3221,15 +3129,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Paluma Range National Park",
+      "title": "Temporary closure: Mount Spec section, Paluma Range National Park",
       "alert_id": "24932",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24932",
-      "description": "Paluma Range National Park is currently closed due to flooding and associated damage from a severe weather event.",
-      "details": "<p>Paluma Range National Park is currently closed due to flooding and associated damage from a severe weather event.</p> <p>This closure includes:</p> <ul> <li>All camping areas</li> <li>All day-use areas</li> <li>All walking tracks.</li> </ul> <p>Please monitor this park alert for up-to-date details.&nbsp;</p>",
+      "description": "The Mount Spec section of Paluma Range National Park is currently closed due to impacts of a recent severe weather event.",
+      "details": "<p>The Mount Spec section of Paluma Range National Park is currently closed due to impacts of a recent severe weather event.</p> <p>This closure includes:</p> <p><strong>Camping areas</strong></p> <ul> <li>Big Crystal Creek camping area</li> <li>Mount Spec remote bush camping north of Paluma</li> <li>Mount Halifax remote bush camping south of Paluma</li> </ul> <p><strong>Day-use areas</strong></p> <ul> <li>Big Crystal Creek day-use area (including Paradise Waterhole and Rockslides)</li> <li>Little Crystal Creek day-use area</li> <li>McClellands lookout day-use area</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Rockslides walking track</li> <li>McClellands lookout walking track</li> <li>Witts lookout walking track</li> <li>Cloudy Creek walking track</li> <li>Andr&eacute;e&nbsp;Griffin walking track</li> <li>H track</li> <li>Birthday Creek Falls walking track.</li> </ul> <p>Please monitor this park alert for up-to-date details.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-13",
+      "start_date": "2025-02-20",
       "start_effective_date": "2025-02-07",
-      "end_date": "2025-02-20",
+      "end_date": "2025-03-20",
       "parks": [
         {
           "id": "148452",
@@ -3617,6 +3525,78 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Closure due to flooding",
+      "alert_id": "24958",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24958",
+      "description": "Lochern National Park is temporarily closed due to flooding until Friday 28th of February 2025 when conditions will be reviewed.",
+      "details": "<p>Lochern National Park is temporarily closed due to flooding until Friday 28th of February 2025 when conditions will be reviewed.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-20",
+      "start_effective_date": "2025-02-20",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Jourama Falls section, Paluma Range National Park",
+      "alert_id": "24959",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24959",
+      "description": "The Jourama Falls section of the Paluma Range National Park is currently closed due to impacts of a recent severe weather event.",
+      "details": "<p>The Jourama Falls section of the Paluma Range National Park is currently closed due to impacts of a recent severe weather event.</p> <p>The closure includes the following:</p> <ul> <li>Jourama Falls camping area</li> <li>Jourama Falls day-use area</li> <li>Jourama Falls lookout walking track<br /> &nbsp;</li> </ul> <p>Please monitor this park alert for up-to-date details.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-20",
+      "start_effective_date": "2025-02-20",
+      "end_date": "2025-03-20",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure Mee-bor-rum circuit Mount French section - Moogerah Peaks National Park",
+      "alert_id": "24960",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24960",
+      "description": "The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Mee-bor-rum circuit walking track in Moogerah Peaks National Park from Monday 24 February 2025 until Friday 14 March 2025 (weather permitting). This walking track will be closed during for the duration of the works. All permits are suspended for the duration of the closure. Please observe all signage, barriers and directions from rangers and do not enter closed areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service will be undertaking maintenance works along the Mee-bor-rum circuit walking track in Moogerah Peaks National Park from Monday 24 February 2025 until Friday 14 March 2025 (weather permitting). This walking track will be closed during for the duration of the works. All permits are suspended for the duration of the closure. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-20",
+      "start_effective_date": "2025-02-24",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "149021",
+          "name": "Moogerah Peaks National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure Mount Edwards summit trail - Moogerah Peaks National Park",
+      "alert_id": "24961",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24961",
+      "description": "Seqwater will be undertaking civil works at Moogerah Dam which will prevent access to the Mount Edwards summit trail in Moogerah Peaks National Park from 20 February 2025 until 28 May 2025 (weather permitting). This summit trail will be closed on weekdays for the duration of the works. All permits are suspended for the duration of the closure. Please observe all signage, barriers and directions from rangers and do not enter closed areas.",
+      "details": "<p>Seqwater will be undertaking civil works at Moogerah Dam which will prevent access to the Mount Edwards summit trail in Moogerah Peaks National Park from 20 February 2025 until 28 May 2025 (weather permitting). This summit trail will be closed on weekdays for the duration of the works. All permits are suspended for the duration of the closure. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-20",
+      "start_effective_date": "2025-02-20",
+      "end_date": "2025-05-28",
+      "parks": [
+        {
+          "id": "149021",
+          "name": "Moogerah Peaks National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
         }
       ]
     }
