@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 177,
-    "script_run_time": "2025-02-20 10:09:09"
+    "alerts_count": 182,
+    "script_run_time": "2025-02-21 10:08:57"
   },
   "alerts": [
     {
@@ -2755,24 +2755,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Dalrymple Gap walking track",
-      "alert_id": "24893",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24893",
-      "description": "Due to recent heavy rainfall, Dalrymple Gap walking track within Girringun National Park is closed until further notice.",
-      "details": "<p>Due to recent heavy rainfall, Dalrymple Gap walking track within Girringun National Park is closed until further notice.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-31",
-      "start_effective_date": "2025-01-28",
-      "end_date": "2025-02-28",
-      "parks": [
-        {
-          "id": "148768",
-          "name": "Dalrymple Gap walking track, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
-        }
-      ]
-    },
-    {
       "title": "Planned burn - Tewantin National Park, Ringtail section",
       "alert_id": "24896",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24896",
@@ -2825,9 +2807,9 @@
       "description": "Swamp Bay walking track and camping area in Conway National Park is temporarily closed until further notice. Damage caused by wind and flooding rain has made the area unsafe.",
       "details": "<p>Swamp Bay walking track and camping area in Conway National Park is temporarily closed until further notice. Damage caused by wind and flooding rain has made the area unsafe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-13",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-02-06",
-      "end_date": "2025-02-21",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "147975",
@@ -2907,9 +2889,9 @@
       "description": "Wreck Creek walk, Edmund Kennedy is temporarily closed until further notice due to recent heavy rainfall.",
       "details": "<p>Wreck Creek walk, Edmund Kennedy is temporarily closed until further notice due to recent heavy rainfall.</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-14",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-01-31",
-      "end_date": "2025-02-28",
+      "end_date": "2025-03-28",
       "parks": [
         {
           "id": "148127",
@@ -2922,12 +2904,12 @@
       "title": "Temporary closure: Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park",
       "alert_id": "24906",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24906",
-      "description": "Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park are temporarily closed until Friday 21 February 2025 when conditions will be reviewed. Intense heavy rain has led to significant stream rises and flooding in the Townsville area. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.",
-      "details": "<p>Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park are temporarily closed until Friday 21 February 2025 when conditions will be reviewed. Intense heavy rain has led to significant stream rises and flooding in the Townsville area. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas. Remember, if its flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Most visitor facilities at Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park remain closed until Friday 28 February 2025 when conditions will be reviewed, with the following exceptions:",
+      "details": "<p>Most visitor facilities at Cape Pallarenda Conservation Park, Townsville Town Common Conservation Park and Bowling Green Bay National Park remain closed until Friday 28 February 2025 when conditions will be reviewed, with the following exceptions:</p> <ul> <li>Bowling Green Bay National Park: Alligator Creek day use area is open, with walking track access to the lookout only (all other walks remain closed, including the boardwalk).</li> <li>Townsville Town Common Conservation Park: Freshwater parking area and the Freshwater trail are partially re-open (all other walking tracks remain closed).</li> </ul> <p>Intense heavy rain has led to significant stream rises and flooding in the Townsville area. For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Remember, if it&rsquo;s flooded, forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-13",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-02-02",
-      "end_date": "2025-02-21",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "148311",
@@ -2953,9 +2935,9 @@
       "description": "Due to wet weather and the high likelihood of trees falling over tracks, riders are cautioned to take extreme care while riding at Smithfield Mountain Bike Park.",
       "details": "<p>Due to wet weather and the high likelihood of trees falling over tracks, riders are cautioned to take extreme care while riding at Smithfield Mountain Bike Park.</p> <p>Be aware that it is probable further trees will fall and become hazards on tracks.</p> <p>Riders should take care at creek crossings as some areas of track have sustained washouts from the rain.&nbsp;</p> <p>Please refer to the &lsquo;Cairns Mountain Bike Club&rsquo; website and social media pages for updates and alerts, and avoid the park after heavy rainfall.</p>",
       "category": "Announcement",
-      "start_date": "2025-02-14",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-02-03",
-      "end_date": "2025-02-21",
+      "end_date": "2025-02-28",
       "parks": [
         {
           "id": "148424",
@@ -3129,13 +3111,13 @@
       ]
     },
     {
-      "title": "Temporary closure: Mount Spec section, Paluma Range National Park",
+      "title": "Visitor facilities update: Mount Spec section, Paluma Range National Park",
       "alert_id": "24932",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24932",
-      "description": "The Mount Spec section of Paluma Range National Park is currently closed due to impacts of a recent severe weather event.",
-      "details": "<p>The Mount Spec section of Paluma Range National Park is currently closed due to impacts of a recent severe weather event.</p> <p>This closure includes:</p> <p><strong>Camping areas</strong></p> <ul> <li>Big Crystal Creek camping area</li> <li>Mount Spec remote bush camping north of Paluma</li> <li>Mount Halifax remote bush camping south of Paluma</li> </ul> <p><strong>Day-use areas</strong></p> <ul> <li>Big Crystal Creek day-use area (including Paradise Waterhole and Rockslides)</li> <li>Little Crystal Creek day-use area</li> <li>McClellands lookout day-use area</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Rockslides walking track</li> <li>McClellands lookout walking track</li> <li>Witts lookout walking track</li> <li>Cloudy Creek walking track</li> <li>Andr&eacute;e&nbsp;Griffin walking track</li> <li>H track</li> <li>Birthday Creek Falls walking track.</li> </ul> <p>Please monitor this park alert for up-to-date details.&nbsp;</p>",
+      "description": "Please see below updates for Mount Spec section of Paluma Range National Park.",
+      "details": "<p>Please see below updates for Mount Spec section of Paluma Range National Park.</p> <h3>The below facilities are currently closed due to impacts of a recent severe weather event:</h3> <p>&nbsp;</p> <p><strong>Camping areas</strong></p> <ul> <li>Big Crystal Creek camping area (anticipated reopening date Tuesday 25 February 2025)</li> <li>Mount Spec remote bush camping north of Paluma</li> <li>Mount Halifax remote bush camping south of Paluma</li> </ul> <p><strong>Day-use areas</strong></p> <ul> <li>Little Crystal Creek day-use area</li> <li>McClellands lookout day-use area</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>McClellands lookout walking track</li> <li>Witts lookout walking track</li> <li>Cloudy Creek walking track</li> <li>Andr&eacute;e&nbsp;Griffin walking track</li> <li>H track</li> <li>Birthday Creek Falls walking track.</li> </ul> <h3>&nbsp;</h3> <h3><strong>The below visitor facilities are now open:</strong></h3> <ul> <li>Big Crystal Creek day-use area (including Paradise Waterhole and Rockslides)</li> <li>Rockslides walking track.</li> </ul> <p>&nbsp;</p> <p>Prior to travel, visitors are advised to check local road conditions and closures at:</p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads</a> or call 13 19 40</li> <li><a href=\"https://www.townsville.qld.gov.au/\">Townsville City&nbsp;Council</a>.</li> </ul> <p>Please monitor this park alert for up-to-date details.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-20",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-02-07",
       "end_date": "2025-03-20",
       "parks": [
@@ -3315,11 +3297,11 @@
       "alert_id": "24947",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24947",
       "description": "Due to damage from recent heavy rainfall the platform and main access ladder to Five Mile Creek is closed until further notice.",
-      "details": "<p>Due to damage from recent heavy rainfall the platform and main access ladder to Five Mile Creek is closed until further notice.</p> <p>Access to the creek is possible from the walking track via steps at the&nbsp;lower section.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from workers and rangers.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>Due to damage from recent heavy rainfall the platform and main access ladder to Five Mile Creek is closed until further notice.</p> <p>Access to the creek is possible from the walking track via steps at the&nbsp;lower section.</p> <p>Please observe all signage, barriers and directions from workers and rangers.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-14",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-02-14",
-      "end_date": "2025-02-28",
+      "end_date": "2025-03-28",
       "parks": [
         {
           "id": "150212",
@@ -3335,9 +3317,9 @@
       "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park (Enoggera Reservoir area,) on Tuesday February 18 to Friday February 21, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke will be seen in The Gap, Brookfield, Camp Mountain Upper Kedron, Ferny Grove, Keperra and Mount Nebo areas.",
       "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park (Enoggera Reservoir area,) on Tuesday February 18 to Friday February 21, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke will be seen in The Gap, Brookfield, Camp Mountain Upper Kedron, Ferny Grove, Keperra and Mount Nebo areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Holmans Break, 69 Break, McDonalds Loop, E-Break, the southern section of Reservoir Break and South Boundary Road between Holmans Break and the Payne Road gate. There will also be an increase on the amount of fire-fighting vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-02-17",
+      "start_date": "2025-02-21",
       "start_effective_date": "2025-02-18",
-      "end_date": "2025-02-22",
+      "end_date": "2025-02-24",
       "parks": [
         {
           "id": "148259",
@@ -3597,6 +3579,129 @@
           "id": "149021",
           "name": "Moogerah Peaks National Park",
           "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Tully Gorge camping and day-use area, Tully Gorge National Park",
+      "alert_id": "24962",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24962",
+      "description": "Tully Gorge camping and day-use area is temporarily closed as the access road requires repairs from recent heavy rainfall event.",
+      "details": "<p>Tully Gorge camping and day-use area is temporarily closed as the access road requires repairs from recent heavy rainfall event.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-21",
+      "start_effective_date": "2025-02-21",
+      "end_date": "2025-02-27",
+      "parks": [
+        {
+          "id": "147987",
+          "name": "Tully section, Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully"
+        },
+        {
+          "id": "148460",
+          "name": "Tully Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Park Alert - Kgari Planned Burn Season 2025",
+      "alert_id": "24963",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24963",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will be conducting planned burns within the Kgari (Fraser Island) section from 26th February 2024  August 31st 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will be conducting planned burns within the Kgari (Fraser Island) section from 26th February 2024  August 31st 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of these burns is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.&nbsp; This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>As a result, smoke may be seen island-wide, including areas within Kingfisher Bay Resort Village, Dilli Village, Eurong resort &amp; township, Dundubara, Orchid Beach township and Waddy Point.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. Visitors and residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>For more information, please call Eurong office of QPWS on (07) 4127 9128, Dundubara office of QPWS on (07) 4127 9138 or Waddy Point office of QPWS on (07) 14279190.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-21",
+      "start_effective_date": "2025-02-26",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Wet season closure: Dalrymple Gap Walking Track, Girringun National Park",
+      "alert_id": "24964",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24964",
+      "description": "The Dalrymple Gap walking track is closed for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.",
+      "details": "<p>The Dalrymple Gap walking track is closed for the wet season on Sunday 1 December 2024. It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>It is anticipated to reopen on Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-21",
+      "start_effective_date": "2025-02-21",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "148768",
+          "name": "Dalrymple Gap walking track, Girringun National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
+        }
+      ]
+    },
+    {
+      "title": "Upper Stony - Day-use area BBQ's",
+      "alert_id": "24965",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24965",
+      "description": "Due to ongoing vandalism and subsequent maintenance issues, Upper Stony Day-use BBQ's 1 &amp; 2 will be out of order until further notice. BBQ 3 is still available for use.",
+      "details": "<p>Due to ongoing vandalism and subsequent maintenance issues, Upper Stony Day-use BBQ's 1 &amp; 2 will be out of order until further notice. BBQ 3 is still available for use.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-02-21",
+      "start_effective_date": "2025-02-21",
+      "end_date": "2025-03-28",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Wet season safety information: significant stream rises at swimming locations within Paluma Range National Park",
+      "alert_id": "24966",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24966",
+      "description": "During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park.",
+      "details": "<p>During the North Queensland wet season, local heavy rainfall may cause significant stream rises at Jourama Falls, Little Crystal Creek, Rockslides waterhole and Paradise waterhole in Paluma Range National Park.</p> <p>During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</p> <p>Read more on your <a href=\"https://parks.desi.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.<br /> &nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-21",
+      "start_effective_date": "2025-02-21",
+      "end_date": "2025-04-30",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn Bauple State Forest",
+      "alert_id": "24967",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24967",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 24 February to 28 February 2025 as part of the fire management program for Bauple State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 24 February to 28 February 2025 as part of the fire management program for Bauple State Forest.</p> <p>Please take caution while driving on Deveron Rd.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-02-21",
+      "start_effective_date": "2025-02-24",
+      "end_date": "2025-02-28",
+      "parks": [
+        {
+          "id": "322351",
+          "name": "Bauple State Forest",
+          "url": ""
         }
       ]
     }
