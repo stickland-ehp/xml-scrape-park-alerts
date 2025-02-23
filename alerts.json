@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 178,
-    "script_run_time": "2025-02-22 10:07:41"
+    "alerts_count": 177,
+    "script_run_time": "2025-02-23 10:07:40"
   },
   "alerts": [
     {
@@ -2947,34 +2947,6 @@
       ]
     },
     {
-      "title": "Visitor facilities open with caution following extreme weather.",
-      "alert_id": "24911",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24911",
-      "description": "Camping areas and walking tracks on Orpheus Island, Hinchinbrook Island and Goold Island National Parks are open with caution following extreme rain and wind associated with an intense tropical rain depression. South Zoe Bay boat-based camping area remains closed until the site can be cleaned up by Rangers.",
-      "details": "<p>Camping areas and walking tracks on Orpheus Island, Hinchinbrook Island and Goold Island National Parks are open with caution following extreme rain and wind associated with an intense tropical rain depression. South Zoe Bay boat-based camping area remains closed until the site can be cleaned up by Rangers.</p> <p>If visiting the camping areas and walking tracks on these islands, expect changed conditions and proceed with caution.&nbsp;</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-02-11",
-      "start_effective_date": "2025-02-11",
-      "end_date": "2025-02-22",
-      "parks": [
-        {
-          "id": "148806",
-          "name": "Orpheus Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/orpheus-island"
-        },
-        {
-          "id": "148307",
-          "name": "Goold Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/goold-island"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
       "title": "Bladensburg National Park closed due to flooding",
       "alert_id": "24915",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24915",
@@ -3393,15 +3365,15 @@
       ]
     },
     {
-      "title": "Smoke from planned burn - Blackdown Tableland",
+      "title": "Smoke from planned burn - Blackdown Tableland and Gudda Gumoo (Rainbow Falls) Closure",
       "alert_id": "24956",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24956",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Blackdown Tableland National Park starting Wednesday 19th February 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and should close windows and doors and keep medications close by if suffering from a respiratory illness.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Blackdown Tableland National Park starting Wednesday 19th February 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.<br /> Fire is important in many of Queensland&rsquo;s natural ecosystems to maintain the diversity of native plants and animals. Fire plays a vital role in renewing these ecosystems through releasing nutrients, encouraging seed germination and providing ideal conditions for growth.</p> <p>Only a portion of the forest is burnt at any one time, this helps create a mosaic pattern that reduces the spread of bushfire and provides for variation in habitats for wildlife.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Blackdown Tableland National Park starting Wednesday 19th February 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area and Gudda Gumoo (Rainbow Falls) will be closed. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and should close windows and doors and keep medications close by if suffering from a respiratory illness.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations within Blackdown Tableland National Park starting Wednesday 19th February 2025 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the area and Gudda Gumoo (Rainbow Falls) will be closed. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.<br /> Fire is important in many of Queensland&rsquo;s natural ecosystems to maintain the diversity of native plants and animals. Fire plays a vital role in renewing these ecosystems through releasing nutrients, encouraging seed germination and providing ideal conditions for growth.</p> <p>Only a portion of the forest is burnt at any one time, this helps create a mosaic pattern that reduces the spread of bushfire and provides for variation in habitats for wildlife.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-02-19",
+      "start_date": "2025-02-23",
       "start_effective_date": "2025-02-19",
-      "end_date": "2025-02-24",
+      "end_date": "2025-02-26",
       "parks": [
         {
           "id": "150224",
