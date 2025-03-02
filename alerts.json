@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2025-03-01 10:07:55"
+    "alerts_count": 172,
+    "script_run_time": "2025-03-02 10:07:53"
   },
   "alerts": [
     {
@@ -3486,6 +3486,47 @@
           "id": "148247",
           "name": "Mon Repos Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Eastern Beach short walks (Wabby East and Kirrar Sandblow) are temporarily CLOSED.",
+      "alert_id": "24992",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24992",
+      "description": "Due to damage from Tropical Cyclone Alfred, Eastern Beach short walks on Kgari (Fraser Island) are temporarily closed until further notice. Damaging winds have caused fallen trees and is hazardous to visitors.",
+      "details": "<p>Due to damage from Tropical Cyclone Alfred, Eastern Beach short walks on Kgari (Fraser Island) are temporarily closed until further notice. Damaging winds have caused fallen trees and is hazardous to visitors.</p> <p>Closed areas include:</p> <ul> <li>Wabby East short walks</li> <li>Kirrar Sandblow short walks</li> </ul> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-02",
+      "start_effective_date": "2025-03-02",
+      "end_date": "2025-03-09",
+      "parks": [
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Ocean Beach camping area and Northern Access Track closure",
+      "alert_id": "24993",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24993",
+      "description": "Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, the Ocean Beach camping area and the Northern Access Track within the Bribie Island Recreation Area is CLOSED. The Australian Bureau of Meteorology has issued a Coastal Hazard Warning, with conditions expected to worsen. Beach conditions are expected to deteriorate, with erosion, washouts, fallen trees, exposed coffee rock, and debris making some areas unsafe. Beach driving may also be dangerousavoid unnecessary travel and, if you must drive, plan to do so at low tide when safe. DANGEROUS BEACH DRIVING CONDITIONS INCLUDE:  Large, unpredictable swells and rough surf  Extreme beach erosion, submerged hazards, and dangerous tides  Strong winds causing tree falls and unstable dunes  Flooding risks in low-lying areas During this severe weather event, if you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.  Check Park Alerts regularly for updates on current park conditions.  Tune in to local ABC radio stations for weather updates.  Check road conditions.  Check weather reports(external link).",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, the Ocean Beach camping area and the Northern Access Track within the Bribie Island Recreation Area is CLOSED. The Australian Bureau of Meteorology has issued a Coastal Hazard Warning, with conditions expected to worsen. Beach conditions are expected to deteriorate, with erosion, washouts, fallen trees, exposed coffee rock, and debris making some areas unsafe. Beach driving may also be dangerousavoid unnecessary travel and, if you must drive, plan to do so at low tide when safe. DANGEROUS BEACH DRIVING CONDITIONS INCLUDE:  Large, unpredictable swells and rough surf  Extreme beach erosion, submerged hazards, and dangerous tides  Strong winds causing tree falls and unstable dunes  Flooding risks in low-lying areas During this severe weather event, if you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.  Check Park Alerts regularly for updates on current park conditions.  Tune in to local ABC radio stations for weather updates.  Check road conditions.  Check weather reports(external link).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-02",
+      "start_effective_date": "2025-03-02",
+      "end_date": "2025-03-06",
+      "parks": [
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
         }
       ]
     }
