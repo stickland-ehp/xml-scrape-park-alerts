@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 187,
-    "script_run_time": "2025-03-03 10:09:54"
+    "alerts_count": 195,
+    "script_run_time": "2025-03-04 10:09:39"
   },
   "alerts": [
     {
@@ -2173,12 +2173,12 @@
       "title": "Burrum Coast National Park Kinkuna section - Campground and access roads closed",
       "alert_id": "24786",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24786",
-      "description": "As a result of flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.",
-      "details": "<p>As a result of flooded roads, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation and will review on Thursday 6 March.&nbsp; Further wet weather may impact access.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Closure&nbsp;includes:</p> <p>-&nbsp; Kinkuna bush camping area</p> <p>-&nbsp; Palm beach road</p> <p>- Southern access road</p> <p>-&nbsp; all other access to Kinkuna</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "As a result of flooded roads and potential rainfall from Cyclone Alfred, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.",
+      "details": "<p>As a result of flooded roads and potential rainfall from Cyclone Alfred, Kinkuna section of Burrum Coast National Park is temporarily closed until the access roads are declared safe.</p> <p>QPWS Rangers are monitoring the situation and will review on Thursday 13 March.&nbsp; Further wet weather may impact access.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Closure&nbsp;includes:</p> <p>-&nbsp; Kinkuna bush camping area</p> <p>-&nbsp; Palm beach road</p> <p>- Southern access road</p> <p>- all other access to Kinkuna</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-18",
+      "start_date": "2025-03-04",
       "start_effective_date": "2024-12-16",
-      "end_date": "2025-03-06",
+      "end_date": "2025-03-13",
       "parks": [
         {
           "id": "148436",
@@ -2356,42 +2356,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Upcoming temporary camping area closures for planned burning activities: Apudthama National Park (CYPAL)",
-      "alert_id": "24835",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24835",
-      "description": "Visitors are advised that Queensland Parks and Wildlife Service will be conducting planned burning activities throughout Apudthama National Park (CYPAL) from Monday 21 July to Friday 25 July 2025 (dates inclusive).",
-      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service will be conducting planned burning activities throughout Apudthama National Park (CYPAL) from Monday 21 July to Friday 25 July 2025 (dates inclusive).</p> <p>During this period the following camping areas will be closed:</p> <ul> <li>Eliot Falls camping area</li> <li>North Jardine River camping area</li> <li>South Jardine River camping area</li> <li>Ussher Point camping area.</li> </ul> <p>The following day-use areas will remain open:</p> <ul> <li>Eliot Falls day-use area</li> <li>Fruit Bat Falls day-use area.</li> </ul> <p>Heavy amounts of smoke may be present during this time and it is&nbsp;recommend that anyone with respiratory issues stays away from the area during this time.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-01-17",
-      "start_effective_date": "2025-07-21",
-      "end_date": "2025-07-25",
-      "parks": [
-        {
-          "id": "148892",
-          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
-        }
-      ]
-    },
-    {
-      "title": "Upcoming temporary camping area closures for planned burning activities: Apudthama National Park (CYPAL)",
-      "alert_id": "24836",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24836",
-      "description": "Visitors are advised that Queensland Parks and Wildlife Service will be conducting planned burning activities throughout Apudthama National Park (CYPAL) from Monday 16 June to Friday 20 June 2025 (dates inclusive).",
-      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service will be conducting planned burning activities throughout Apudthama National Park (CYPAL) from Monday 16 June to Friday 20 June 2025 (dates inclusive).</p> <p>During this period the following camping areas will be closed:</p> <ul> <li>Eliot Falls camping area</li> <li>North Jardine River camping area</li> <li>South Jardine River camping area</li> <li>Ussher Point camping area.</li> </ul> <p>The following day-use areas will remain open:</p> <ul> <li>Eliot Falls day-use area</li> <li>Fruit Bat Falls day-use area.</li> </ul> <p>Heavy amounts of smoke may be present during this time and it is&nbsp;recommend that anyone with respiratory issues stays away from the area during this time.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-01-17",
-      "start_effective_date": "2025-06-16",
-      "end_date": "2025-06-20",
-      "parks": [
-        {
-          "id": "148892",
-          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
         }
       ]
     },
@@ -3306,24 +3270,6 @@
       ]
     },
     {
-      "title": "Planned Burn - Daisy Hill Conservation Park",
-      "alert_id": "24983",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24983",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Daisy Hill Conservation Park from Thursday 27th of February until Monday 3rd of March as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke may be seen in Shailer Park, Daisy Hill, Springwood and Rochdale South.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Daisy Hill Conservation Park from Thursday 27th of February until Monday 3rd of March as part of the annual hazard reduction/conservation management program for parks and forests. As a result smoke may be seen in Shailer Park, Daisy Hill, Springwood and Rochdale South.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-02-27",
-      "start_effective_date": "2025-02-27",
-      "end_date": "2025-03-03",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "Tropical cyclone warning/watch",
       "alert_id": "24984",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24984",
@@ -3383,13 +3329,13 @@
       ]
     },
     {
-      "title": "Severe weather alert: Coastal Hazard Warning and Qld Tropical Cyclone Watch for South Stradbroke Island Conservation Park with large tides and ocean swell affecting beach driving",
+      "title": "Severe weather alert: South Stradbroke Island Conservation Park is closed until 11 March",
       "alert_id": "24987",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24987",
-      "description": "South Stradbroke Island Conservation Park is expecting very large high tides and large ocean swell with sections of beach likely to be impassable at high tide.",
-      "details": "<p>South Stradbroke Island Conservation Park is expecting very large high tides and large ocean swell with sections of beach likely to be impassable at high tide.</p> <p>The Australian Bureau of Meteorology has issued a Coastal Hazard Warning and QLD Topical Cyclone Watch for this area, with conditions expected to worsen. Beach conditions are expected to deteriorate, with erosion, washouts, fallen trees, exposed coffee rock and debris making some areas unsafe.&nbsp; Beach driving may also be dangerous - avoid unnecessary travel and, if you must drive, plan to do so at low tide when safe.</p> <p>Remember, driving over vegetated dunes is prohibited. On-the-spot fines will be issued for anyone caught damaging the dunes.</p> <p><strong>Be prepared.&nbsp; Stay updated on warnings, road conditions, and weather forecasts.&nbsp; Follow all signage, barriers, and ranger instructions and do not enter closed areas.</strong></p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Tune in to local ABC radio stations for weather updates.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2025-03-03",
+      "description": "Consistent with the Disaster Management Response associated with Tropical Cyclone Alfred, South Stradbroke Island Conservation park is closed until 11 March 2025.",
+      "details": "<p>Consistent with the Disaster Management Response associated with Tropical Cyclone Alfred, South Stradbroke Island Conservation park is closed until 11 March 2025.</p> <p>The Australian Bureau of Meteorology has issued a Coastal Hazard Warning and QLD Tropical Cyclone Watch for this area, with conditions expected to worsen. South Stradbroke Island could be significantly impacted by storm surge, and it will get harder to reach the mainland.</p> <p><strong>Be prepared.&nbsp; Stay updated on warnings, road conditions, and weather forecasts.&nbsp; Follow all signage, barriers, and ranger instructions and do not enter closed areas.</strong></p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Tune in to local ABC radio stations for weather updates.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
       "start_effective_date": "2025-02-28",
       "end_date": "2025-03-11",
       "parks": [
@@ -3423,11 +3369,11 @@
       "alert_id": "24989",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24989",
       "description": "Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, all campgrounds within Great Sandy National Parkincluding K'gari (Fraser Island), Cooloola, and Inskip Peninsulahave closures applied. As a result, camping permits for these areas are unavailable until further notice.",
-      "details": "<p>Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, all campgrounds within Great Sandy National Parkincluding K'gari (Fraser Island), Cooloola, and Inskip Peninsulahave closures applied. As a result, camping permits for these areas are unavailable until further notice.</p> <p>The Australian Bureau of Meteorology has issued a Coastal Hazard Warning, with conditions expected to worsen. Beach conditions are expected to deteriorate, with erosion, washouts, fallen trees, exposed coffee rock, and debris making some areas unsafe. Beach driving may also be dangerous&mdash;avoid unnecessary travel and, if you must drive, plan to do so at low tide when safe.</p> <p><strong>CLOSURES APPLY TO PURCHASING OF CAMPING PERMITS UNTIL FURTHER NOTICE:</strong><br /> &bull; All campgrounds on K&rsquo;gari, Cooloola, and Inskip Peninsula, including Great Walks.</p> <p><strong>DANGEROUS BEACH DRIVING CONDITIONS INCLUDE:</strong><br /> &bull; Large, unpredictable swells and rough surf<br /> &bull; Extreme beach erosion, submerged hazards, and dangerous tides<br /> &bull; Strong winds causing tree falls and unstable dunes<br /> &bull; Flooding risks in low-lying areas</p> <p>During this severe weather event, if you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact <a href=\"mailto:qpws@des.qld.gov.au\"><strong>qpws@des.qld.gov.au</strong></a> for assistance.</p> <p><strong>Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.</strong></p> <ul> <li>Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\" target=\"_blank\">Park Alerts</a> regularly for updates on current park conditions.&nbsp;</li> <li>Tune in to local ABC radio stations for weather updates.&nbsp;</li> <li>Check <a href=\"https://qldtraffic.qld.gov.au/\" target=\"_blank\">road conditions.</a>&nbsp;</li> <li>Check <a href=\"http://www.bom.gov.au/qld/warnings/\" target=\"_blank\">weather reports</a>.&nbsp;</li> </ul> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, all campgrounds within Great Sandy National Parkincluding K'gari (Fraser Island), Cooloola, and Inskip Peninsulahave closures applied. As a result, camping permits for these areas are unavailable until further notice.</p> <p>The Australian Bureau of Meteorology has issued a Coastal Hazard Warning, with conditions expected to worsen. Beach conditions are expected to deteriorate, with erosion, washouts, fallen trees, exposed coffee rock, and debris making some areas unsafe. Beach driving may also be dangerous&mdash;avoid unnecessary travel and, if you must drive, plan to do so at low tide when safe.</p> <p><strong>CAMPING AREAS WITHIN THE GREATSANDY NATIONAL PARK ARE CLOSED:</strong><br /> &bull; All campgrounds on K&rsquo;gari, Cooloola, and Inskip Peninsula, including Great Walks.</p> <p><strong>DANGEROUS BEACH DRIVING CONDITIONS INCLUDE:</strong><br /> &bull; Large, unpredictable swells and rough surf<br /> &bull; Extreme beach erosion, submerged hazards, and dangerous tides<br /> &bull; Strong winds causing tree falls and unstable dunes<br /> &bull; Flooding risks in low-lying areas</p> <p>During this severe weather event please contact QPWS if you require assistance with a refund - <a href=\"mailto:qpws@des.qld.gov.au\" target=\"_blank\"><strong>qpws@des.qld.gov.au</strong></a></p> <p><strong>Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.</strong></p> <ul> <li>Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\" target=\"_blank\">Park Alerts</a> regularly for updates on current park conditions.&nbsp;</li> <li>Tune in to local ABC radio stations for weather updates.&nbsp;</li> <li>Check <a href=\"https://qldtraffic.qld.gov.au/\" target=\"_blank\">road conditions.</a>&nbsp;</li> <li>Check <a href=\"http://www.bom.gov.au/qld/warnings/\" target=\"_blank\">weather reports</a>.&nbsp;</li> </ul> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-28",
+      "start_date": "2025-03-04",
       "start_effective_date": "2025-02-28",
-      "end_date": "2025-03-07",
+      "end_date": "2025-03-11",
       "parks": [
         {
           "id": "149409",
@@ -3457,52 +3403,6 @@
       ]
     },
     {
-      "title": "Severe weather alert: Tropical Cyclone Alfred",
-      "alert_id": "24990",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24990",
-      "description": "The Bureau of Meteorology has issued a Tropical Cyclone Information Bulletin for TC Alfred which may affect Keppel Bay Islands National Park and Curtis Island.",
-      "details": "<p>The Bureau of Meteorology has issued a Tropical Cyclone Information Bulletin for TC Alfred which may affect Keppel Bay Islands National Park and Curtis Island.</p> <p>Camping areas at Keppel Bay Islands and Curtis Island National Parks are closed 28 February - 3 March for public safety pending TC Alfred.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-28",
-      "start_effective_date": "2025-02-28",
-      "end_date": "2025-03-03",
-      "parks": [
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
-        },
-        {
-          "id": "149417",
-          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
-          "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
-        }
-      ]
-    },
-    {
-      "title": "Cancellation of Nightly Turtle Encounter Tours",
-      "alert_id": "24991",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24991",
-      "description": "Due to a Coastal Hazard Warning for ABNORMALLY HIGH TIDES and DAMAGING SURF associated with Cyclone Alfred impacting access to, and along the beach, the NIGHTLY TURTLE ENCOUNTER TOURS have been cancelled from Saturday the 1st March including to Monday the 3rd of March.",
-      "details": "<p>Due to a Coastal Hazard Warning for ABNORMALLY HIGH TIDES and DAMAGING SURF associated with Cyclone Alfred impacting access to, and along the beach, the NIGHTLY TURTLE ENCOUNTER TOURS have been cancelled from Saturday the 1st March including to Monday the 3rd of March.</p> <p>The decision to resume the Nightly Turtle Encounter Tours will be determined on Monday 3rd March.</p>",
-      "category": "Announcement",
-      "start_date": "2025-02-28",
-      "start_effective_date": "2025-03-01",
-      "end_date": "2025-03-03",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
-        }
-      ]
-    },
-    {
       "title": "Eastern Beach short walks (Wabby East and Kirrar Sandblow) are temporarily CLOSED.",
       "alert_id": "24992",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24992",
@@ -3526,13 +3426,13 @@
       ]
     },
     {
-      "title": "Severe weather alert: Closures across Bribie Island National Park and Recreation Area",
+      "title": "Severe weather alert: Bribie Island National Park and Recreation Area - CLOSED",
       "alert_id": "24993",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24993",
       "description": "Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, the Bribie Island National Park and Recreation Area is CLOSED.",
       "details": "<p>Due to Tropical Cyclone Alfred bringing large swells, extreme high tides, and strong winds, the Bribie Island National Park and Recreation Area is CLOSED.</p> <p><strong>Closures apply to :</strong></p> <ul> <li><strong>All camping areas</strong></li> <li><strong>Woorim access at Ocean Beach</strong></li> <li><strong>White Patch entry</strong></li> <li><strong>Northern Access Track.</strong></li> </ul> <p>The Australian Bureau of Meteorology has issued a Coastal Hazard Warning, with conditions expected to worsen. Beach conditions are expected to deteriorate, with erosion, washouts, fallen trees, exposed coffee rock, and debris making some areas unsafe.&nbsp;</p> <p>If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact <a href=\"mailto:qpws@des.qld.gov.au\" target=\"_blank\"><strong>qpws@des.qld.gov.au</strong></a> for assistance.</p> <p><strong>Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.&nbsp;Tune in to local ABC radio stations for weather updates.&nbsp;</strong><br /> <br /> &nbsp;</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-03",
+      "start_date": "2025-03-04",
       "start_effective_date": "2025-03-02",
       "end_date": "2025-03-11",
       "parks": [
@@ -3695,24 +3595,6 @@
       ]
     },
     {
-      "title": "Planned burn - Bunya Mountains National Park",
-      "alert_id": "25001",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25001",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Bunya Mountains National Park commencing Tuesday 4th March as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Bunya Mountains National Park commencing Tuesday 4th March as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>Aerial ignition via helicopter may be observed.</p> <p>All camping areas and visitor facilities will remain open to the public, weather permitting.</p> <p>Smoke may be seen in the vicinity of the Bunya Mountains area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2025-03-03",
-      "start_effective_date": "2025-03-04",
-      "end_date": "2025-03-05",
-      "parks": [
-        {
-          "id": "149017",
-          "name": "Bunya Mountains National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bunya-mountains"
-        }
-      ]
-    },
-    {
       "title": "Inskip Peninsula campsites Temporarily CLOSED Due to Severe Weather Damage",
       "alert_id": "25002",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25002",
@@ -3735,9 +3617,9 @@
       "alert_id": "25003",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25003",
       "description": "Current severe weather conditions are expected to bring heavy rainfall, high damaging winds causing treefall, and excessive high tides, creating dangerous conditions across the region.",
-      "details": "<p>Current severe weather conditions are expected to bring heavy rainfall, high damaging winds causing treefall, and excessive high tides, creating dangerous conditions across the region.</p> <p><strong>Current severe weather</strong> conditions are expected to bring heavy rainfall, high damaging winds causing treefall, and excessive high tides, creating dangerous conditions across the region.</p> <p>Flooding is occurring in the <strong>Upper Noosa River</strong>. The river is <strong>closed</strong> to all water travel upstream of Fig Tree Point due to unsafe conditions, including fast-flowing floodwaters and submerged hazards in &quot;The Narrows&quot; section of the Noosa River.</p> <p>The <strong>Cooloola Great Walk </strong>is<strong> closed</strong> due to severe weather conditions, including high damaging winds, treefall risks, and hazardous track conditions. Sections of the track may be blocked or unstable, posing a risk to walkers. Do not attempt to enter or access the walk until further notice. Authorities will assess the area once conditions improve to determine when it is safe to reopen.</p> <p>The following areas are temporarily <strong>CLOSED</strong> until further notice:&nbsp;</p> <ul> <li><strong>Cooloola Great Walk</strong></li> <li><strong>Cooloola Wilderness Trail and campsites</strong></li> <li><strong>Upper Noosa River upstream from Fig Tree Point</strong></li> <li><strong>Fig Tree Point camping area</strong></li> <li><strong>Harrys Hut camping area and day-use area</strong></li> <li><strong>Harrys Hut Road</strong></li> <li><strong>Neebs Waterhole camping area</strong></li> <li><strong>Upper Noosa River campsites 1 &ndash; 15</strong></li> <li><strong>Wandi Waterhole camping area</strong></li> <li><strong>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments</strong></li> </ul> <p>All permits for closed areas are suspended during this closure.&nbsp; If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services.&nbsp;Please contact QPWS if you require assistance with a refund <a href=\"mailto:qpws@des.qld.gov.au\"><strong>qpws@des.qld.gov.au</strong></a></p> <p><strong>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. &nbsp;</strong></p> <p><strong>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p><strong>Follow all signage, barriers, and ranger instructions, and do not enter closed areas.</strong></p> <p><strong>Be prepared. Stay updated on warnings, road conditions, and weather forecasts:</strong></p> <ul> <li>Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\">Park Alerts</a> regularly for updates on current park conditions.</li> <li>Check <a href=\"https://qldtraffic.qld.gov.au/\">road conditions.</a>&nbsp;</li> <li>Check <a href=\"http://www.bom.gov.au/qld/warnings/\">weather reports</a>.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "details": "<p>Current severe weather conditions are expected to bring heavy rainfall, high damaging winds causing treefall, and excessive high tides, creating dangerous conditions across the region.</p> <p>Flooding is occurring in the <strong>Upper Noosa River</strong>. The river is <strong>closed</strong> to all water travel upstream of Fig Tree Point due to unsafe conditions, including fast-flowing floodwaters and submerged hazards in &quot;The Narrows&quot; section of the Noosa River.</p> <p>The <strong>Cooloola Great Walk </strong>is<strong> closed</strong> due to severe weather conditions, including high damaging winds, treefall risks, and hazardous track conditions. Sections of the track may be blocked or unstable, posing a risk to walkers. Do not attempt to enter or access the walk until further notice. Authorities will assess the area once conditions improve to determine when it is safe to reopen.</p> <p>The following areas are temporarily <strong>CLOSED</strong> until further notice:&nbsp;</p> <ul> <li><strong>Cooloola Great Walk</strong></li> <li><strong>Cooloola Wilderness Trail and campsites</strong></li> <li><strong>Upper Noosa River upstream from Fig Tree Point</strong></li> <li><strong>Fig Tree Point camping area</strong></li> <li><strong>Harrys Hut camping area and day-use area</strong></li> <li><strong>Harrys Hut Road</strong></li> <li><strong>Neebs Waterhole camping area</strong></li> <li><strong>Upper Noosa River campsites 1 &ndash; 15</strong></li> <li><strong>Wandi Waterhole camping area</strong></li> <li><strong>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments</strong></li> </ul> <p>During this severe weather event, please contact QPWS if you require assistance with a refund <a href=\"mailto:qpws@des.qld.gov.au\"><strong>qpws@des.qld.gov.au</strong></a></p> <p><strong>Rangers will continue to monitor water levels and conditions in the Noosa River and&nbsp;will reopen when declared safe. &nbsp;</strong></p> <p><strong>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p><strong>Follow all signage, barriers, and ranger instructions, and do not enter closed areas.</strong></p> <p><strong>Be prepared. Stay updated on warnings, road conditions, and weather forecasts:</strong></p> <ul> <li>Check <a href=\"https://parks.des.qld.gov.au/park-alerts/\">Park Alerts</a> regularly for updates on current park conditions.</li> <li>Check <a href=\"https://qldtraffic.qld.gov.au/\">road conditions.</a>&nbsp;</li> <li>Check <a href=\"http://www.bom.gov.au/qld/warnings/\">weather reports</a>.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-03",
+      "start_date": "2025-03-04",
       "start_effective_date": "2025-03-03",
       "end_date": "2025-03-11",
       "parks": [
@@ -4344,9 +4226,9 @@
       "description": "Visitors should continue to monitor weather warnings and conditions before planning to visit any Queensland national park or forest, including camping areas.",
       "details": "<p>Visitors should continue to monitor weather warnings and conditions before planning to visit any Queensland national park or forest, including camping areas.</p> <p>Check&nbsp;<a href=\"http://www.bom.gov.au/cyclone/index.shtml\">Bureau of Meteorology</a>&nbsp;for updated information on Tropical Cycone Alfred.<br /> <br /> Tropical Cyclone Alfred is expected to generate strong winds, heavy rainfall and flooding.&nbsp;Check the essential steps to prepare for this weather event on&nbsp;<a href=\"https://www.getready.qld.gov.au/\">Get Ready</a>&nbsp;Queensland.<br /> <br /> <strong>Be prepared and if it&#39;s flooded forget it. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and Ranger instructions, and do not enter any closed areas.</strong></p> <p>Check&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts/\" target=\"_blank\">Park Alerts</a>&nbsp;regularly for updates on current park conditions.&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2025-03-03",
+      "start_date": "2025-03-04",
       "start_effective_date": "2025-03-03",
-      "end_date": "2025-03-07",
+      "end_date": "2025-03-10",
       "parks": [
         {
           "id": "149369",
@@ -4422,6 +4304,293 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
+      "title": "Conondale Range Great Walk and walkers camps closed due to Tropical Cyclone Alfred",
+      "alert_id": "25008",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25008",
+      "description": "Due to the current Tropical Cyclone Alfred forecast to produce high wind and intense rainfall, there is potential for flash flooding, fallen trees and other hazards, Conondale Range Great Walk is closed until declared safe.",
+      "details": "<p>Due to the current Tropical Cyclone Alfred forecast to produce high wind and intense rainfall, there is potential for flash flooding, fallen trees and other hazards, Conondale Range Great Walk is closed until declared safe.</p> <p>Closed areas include:&nbsp;</p> <ul> <li>Conondale Range&nbsp;Great Walk</li> <li>Wongai walkers camp</li> <li>Tallowwood walkers camp</li> <li>Summer Falls walkers camp</li> </ul> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-06",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/imbil"
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conondale"
+        },
+        {
+          "id": "152865",
+          "name": "Conondale Range Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather warning - Temporary walking track and remote bush camp site closures.",
+      "alert_id": "25009",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25009",
+      "description": "Due to the safety risks associated with cyclone Alfred, temporary walking track and remote area camping site closures will be in place until the areas are assessed and declared safe by the rangers.",
+      "details": "<p>Due to the safety risks associated with cyclone Alfred, temporary walking track and remote area camping site closures will be in place until the areas are assessed and declared safe by the rangers.</p> <p>All the longer walking tracks within Lamington National Park will remain temporarily <strong>closed</strong> until declared safe.</p> <p>The shorter walking tracks listed below are currently <strong>open</strong> for visitors.&nbsp;</p> <p><strong>Binna Burra section:</strong></p> <ul> <li>Rainforest circuit</li> <li>Caves track</li> <li>Gwongoorool Pool track</li> <li>Tullawallal circuit</li> </ul> <p><strong>Green Mountains section (O&#39;Reilly&#39;s):</strong></p> <ul> <li>Rainforest return</li> <li>Centenary track&nbsp;</li> <li>Python Rock track</li> <li>Mornas Falls track</li> </ul> <p>The Gold Coast Hinterland Great Walks will remain <strong>closed</strong> until declared safe.</p> <p>All remote area bush camping sites will remain <strong>closed</strong> until declared safe.</p> <p>Please be advised, further walking tracks may be closed within Lamington National Park over the coming days as the cyclone (Alfred) moves closer to land.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.<br /> &nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather alert. Temporary closure Mount Barney National park.",
+      "alert_id": "25010",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25010",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, the Mount Barney National Park is temporarily CLOSED. Closures apply to : All camping and day use areas, all walking tracks and summit routes. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD. If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Please monitor Queensland Traffic for updated information regarding road and traffic conditions. Stay up to date with weather forecasts, conditions and warnings. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Your safety is our concern but your responsibility.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, the Mount Barney National Park is temporarily CLOSED. Closures apply to : All camping and day use areas, all walking tracks and summit routes. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD. If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Please monitor Queensland Traffic for updated information regarding road and traffic conditions. Stay up to date with weather forecasts, conditions and warnings. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Your safety is our concern but your responsibility.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather alert. Temporary closure Moogerah Peaks National Park.",
+      "alert_id": "25011",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25011",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, the Moogerah Peaks National Park is temporarily CLOSED. Closures apply to : All camping and day use areas, all walking tracks and summit routes. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD. If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Please monitor Queensland Traffic for updated information regarding road and traffic conditions. Stay up to date with weather forecasts, conditions and warnings. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Your safety is our concern but your responsibility.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, the Moogerah Peaks National Park is temporarily CLOSED. Closures apply to : All camping and day use areas, all walking tracks and summit routes. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD. If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Please monitor Queensland Traffic for updated information regarding road and traffic conditions. Stay up to date with weather forecasts, conditions and warnings. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Your safety is our concern but your responsibility.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "149021",
+          "name": "Moogerah Peaks National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather warning - Temporary walking track and remote bush camp site closures.",
+      "alert_id": "25012",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25012",
+      "description": "Due to the safety risks associated with cyclone Alfred, temporary walking track and remote area camping site closures will be in place until the areas are assessed and declared safe by the rangers.",
+      "details": "<p>Due to the safety risks associated with cyclone Alfred, temporary walking track and remote area camping site closures will be in place until the areas are assessed and declared safe by the rangers.</p> <p>The shorter walking tracks within Springbrook National Park will remain open while the longer tracks will remain temporarily closed until declared safe.</p> <p><strong>Areas that will remain open include:</strong></p> <ul> <li>Gwongorella picnic area, including PB western lookout;</li> <li>Natural Bridge circuit, including glow worm cave;</li> <li>Goomoolahra picnic area, including lookouts;</li> <li>Settlement DUA; and</li> <li>Settlement Camping Area</li> <li>Mount Cougal - Cascades track</li> </ul> <p>Lookouts that will remain open:</p> <ul> <li>Canyon lookout on the Twin Falls circuit</li> <li>Western lookout on the Purling Brook Falls circuit</li> </ul> <p><strong>Closed areas include:</strong></p> <ul> <li>Best of All walking track and lookout</li> <li>Purling Brook circuit &nbsp;</li> <li>Twin Falls circuit&nbsp;</li> <li>Warrie circuit</li> <li>Warringa Pool track&nbsp;</li> <li>Gold Coast Hinterland Great Walks track&nbsp;</li> <li>Woonoongoora Walkers&#39; camp</li> </ul> <p>Please be advised, further walking areas may be closed within Springbrook National Park over the coming days as the cyclone (Alfred) moves closer to land.</p> <p>Observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.<br /> &nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather Alert - D'Aguilar National Park Temporary closure",
+      "alert_id": "25013",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25013",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, D'Aguilar National Park is temporarily CLOSED. Closures apply to : All camping, day use areas, roads and walking tracks. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD. If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, D'Aguilar National Park is temporarily CLOSED. Closures apply to : All camping, day use areas, roads and walking tracks. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD. If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather Alert -Bunyaville, Samford, and Moggill Conservation Parks Temporary closure",
+      "alert_id": "25014",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25014",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Bunyaville, Samford, and Moggill Conservation Park are temporarily CLOSED. Closures apply to: All day use areas, roads, mountain bike trails, shared trails and walking tracks. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Bunyaville, Samford, and Moggill Conservation Park are temporarily CLOSED. Closures apply to: All day use areas, roads, mountain bike trails, shared trails and walking tracks. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-05",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148263",
+          "name": "Moggill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/moggill"
+        },
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/samford"
+        },
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather Alert - Daisy Hill Conservation Park Temporary closure",
+      "alert_id": "25015",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25015",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Daisy Hill Conservation Park is temporarily CLOSED.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Daisy Hill Conservation Park is temporarily CLOSED.</p> <p>Closures apply to all day use areas, Mountain Bike tracks and roads within the park. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD.</p> <p>Tropical Cyclone Alfred is expected to generate strong winds, heavy rainfall and flooding. Check the essential steps to prepare for this weather event on&nbsp;<a href=\"https://www.getready.qld.gov.au/\">Get Ready</a>&nbsp;Queensland.</p> <p>If you have an existing booking, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-05",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned construction works - closure to visitor facilities",
+      "alert_id": "25017",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25017",
+      "description": "Visitor facilities at the headland section of Joseph Banks Conservation Park will be undergoing construction and maintenance as part of an interpretive capital works project working with Traditional Owners groups Gooreng Gooreng, Gurang, Taribelang Bunda and Bailai.",
+      "details": "<p>Visitor facilities at the headland section of Joseph Banks Conservation Park will be undergoing construction and maintenance as part of an interpretive capital works project working with Traditional Owners groups Gooreng Gooreng, Gurang, Taribelang Bunda and Bailai.</p> <p>Works are expected to commence from the <strong>end of March and continue to November 2025</strong>.</p> <p>Throughout this period, the following areas will be<strong> closed </strong>to the public:</p> <ul> <li><em>the headland carpark at the end of Sir Raphael Cilento Drive</em></li> <li><em>the Round Hill headland tracks</em></li> <li><em>the Wave and Bustard Bay lookouts</em></li> <li><em>the Round Hill Creek track section from Endevour St junction&nbsp;to the headland carpark</em></li> </ul> <p>The following areas will remain <strong>open</strong> to the public:</p> <ul> <li><em>Maritime memorial walk and carpark</em></li> <li><em>The Round Hill Creek track from the Cook Monument to Endeavour St junction</em></li> </ul> <p>Thank you for your patience while we improve the park&#39;s facilities for you and other park visitors.&nbsp;</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-11-30",
+      "parks": [
+        {
+          "id": "148388",
+          "name": "Joseph Banks Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/joseph-banks"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather Alert - Plunkett Conservation Park and Wickham National Park Temporary closure",
+      "alert_id": "25018",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25018",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Plunkett Conservation Park and Wickham National Park are temporarily CLOSED.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Plunkett Conservation Park and Wickham National Park are temporarily CLOSED.</p> <p>Closures apply to all trails and roads within the parks. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD.</p> <p>Tropical Cyclone Alfred is expected to generate strong winds, heavy rainfall and flooding. Check the essential steps to prepare for this weather event on&nbsp;<a href=\"https://www.getready.qld.gov.au/\">Get Ready</a>&nbsp;Queensland.</p> <p>If you have an existing booking, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-05",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "149381",
+          "name": "Plunkett Conservation Park and Wickham National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/plunkett-wickham"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather Alert - Carbrook Wetlands Conservation Park Temporary closure",
+      "alert_id": "25019",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25019",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Carbrook Wetlands Conservation Park is temporarily CLOSED.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Carbrook Wetlands Conservation Park is temporarily CLOSED.</p> <p>Closures apply to all roads and areas within the park. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD.</p> <p>Tropical Cyclone Alfred is expected to generate strong winds, heavy rainfall and flooding. Check the essential steps to prepare for this weather event on&nbsp;<a href=\"https://www.getready.qld.gov.au/\">Get Ready</a>&nbsp;Queensland.</p> <p>If you have an existing booking, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-05",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "322906",
+          "name": "Carbrook Wetlands Conservation Park 2",
+          "url": ""
+        },
+        {
+          "id": "322931",
+          "name": "Carbrook Wetlands Conservation Park 1",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather Alert - Buccan Conservation Park Temporary closure",
+      "alert_id": "25020",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25020",
+      "description": "Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Daisy Hill Conservation Park is temporarily CLOSED.",
+      "details": "<p>Due to Tropical Cyclone Alfred bringing strong winds and substantial rainfall, Daisy Hill Conservation Park is temporarily CLOSED.</p> <p>Closures apply to all areas and roads within the park. The Australian Bureau of Meteorology has issued a Tropical Cyclone warning for southeast QLD.</p> <p>Tropical Cyclone Alfred is expected to generate strong winds, heavy rainfall and flooding. Check the essential steps to prepare for this weather event on&nbsp;<a href=\"https://www.getready.qld.gov.au/\">Get Ready</a>&nbsp;Queensland.</p> <p>If you have an existing booking, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-05",
+      "end_date": "2025-03-14",
+      "parks": [
+        {
+          "id": "322922",
+          "name": "Buccan Conservation Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned works for The Tombs rock art site",
+      "alert_id": "25021",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25021",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10-17 March 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10-17 March 2025 (weather permitting).</p> <p>The following areas at The Tombs rock art site are closed&nbsp;for the duration of the&nbsp;maintenance&nbsp;program.</p> <ul> <li>The Tombs rock art site.</li> <li>Walking track from&nbsp;the Sandstone day use area.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-10",
+      "end_date": "2025-03-17",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Kookaburra Cave",
+      "alert_id": "25022",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25022",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10 March 2025-7 April 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10 March 2025-7 April 2025 (weather permitting).</p> <p>The following area is closed for the duration of the maintenance program.&nbsp;&nbsp;</p> <ul> <li> <p>Kookaburra Cave.</p> </li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-04",
+      "start_effective_date": "2025-03-10",
+      "end_date": "2025-04-07",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
         }
       ]
     }
