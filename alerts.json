@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 205,
-    "script_run_time": "2025-03-07 10:09:18"
+    "alerts_count": 202,
+    "script_run_time": "2025-03-08 10:07:53"
   },
   "alerts": [
     {
@@ -2270,24 +2270,6 @@
       ]
     },
     {
-      "title": "Planned works for part of Queen Mary Falls walking track - Main Range National Park",
-      "alert_id": "24827",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24827",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting capital works on a section of track at Queen Mary Falls - Main Range National Park (weather permitting)",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting capital works on a section of track at Queen Mary Falls - Main Range National Park (weather permitting)</p> <p>The Queen Mary Falls Circuit steps and track are being upgraded to address erosion and stability, improve access and enhance visitor experiences.&nbsp; Works include the realignment of the walking track and installation of new steps, handrails and signs.</p> <p>During construction:</p> <ul> <li>Queen Mary Falls Circuit track and the western side of Queen Mary Falls day use area&nbsp;will be temporarily closed.</li> <li>Access to the foot of the falls, Cliff lookout and Queen Mary Falls lookout will remain open via the Cliff Circuit track.</li> <li>Barbecue, picnic table and toilet facilities at Queen Mary Falls day use area will remain open.</li> </ul> <p>We apologise for any inconvenience and appreciate your cooperation during construction.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-08",
-      "start_effective_date": "2025-02-03",
-      "end_date": "2025-03-07",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Jindalba day-use area and walking tracks, Cape Tribulation section, Daintree National Park (CYPAL)",
       "alert_id": "24831",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24831",
@@ -2662,34 +2644,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Goldfield trail and Mulgrave River camping area, Wooroonooran National Park",
-      "alert_id": "24935",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24935",
-      "description": "Due to continued wet weather events and recent tree fall, the Goldfield trail and Mulgrave River camping area are temporarily closed up to and including Friday 7 March 2025.",
-      "details": "<p>Due to continued wet weather events and recent tree fall, the Goldfield trail and Mulgrave River camping area are temporarily closed up to and including Friday 7 March 2025.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-11",
-      "start_effective_date": "2025-02-11",
-      "end_date": "2025-03-07",
-      "parks": [
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
-        }
-      ]
-    },
-    {
       "title": "Doeblien Drive beach access is temporarily closed",
       "alert_id": "24938",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24938",
@@ -3007,24 +2961,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn, DAguilar National Park",
-      "alert_id": "24969",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24969",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Tuesday, February 25 to Friday, March 7, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Mount Glorious, Banks Creek, England Creek and Highvale areas.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Tuesday, February 25 to Friday, March 7, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Mount Glorious, Banks Creek, England Creek and Highvale areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Westridge Outlook, Westridge Break and Joyners Ridge Road There will also be an increase on the amount of QPWS vehicles on these roads as well as Mount Nebo Road whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-03-01",
-      "start_effective_date": "2025-02-25",
-      "end_date": "2025-03-07",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
         }
       ]
     },
