@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 202,
-    "script_run_time": "2025-03-08 10:07:53"
+    "alerts_count": 205,
+    "script_run_time": "2025-03-09 10:07:01"
   },
   "alerts": [
     {
@@ -5007,6 +5007,70 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Park Closure",
+      "alert_id": "25046",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25046",
+      "description": "Full site closure due to severe weather conditions, caused by ex-Tropical Cyclone &quot;Alfred&quot;. Weather conditions will be closely monitored and any updates, including changes to facility access, will be updated on this park alert. We appreciate your understanding and cooperation in prioritising the safety of all.",
+      "details": "<p>Full site closure due to severe weather conditions, caused by ex-Tropical Cyclone &quot;Alfred&quot;. Weather conditions will be closely monitored and any updates, including changes to facility access, will be updated on this park alert. We appreciate your understanding and cooperation in prioritising the safety of all.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-09",
+      "start_effective_date": "2025-03-09",
+      "end_date": "2025-03-11",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        },
+        {
+          "id": "148540",
+          "name": "David Fleay Wildlife Park",
+          "url": "https://parks.desi.qld.gov.au/parks/david-fleay"
+        }
+      ]
+    },
+    {
+      "title": "K'gari (Fraser Island Recreation Area) Inland roads and facilities are CLOSED",
+      "alert_id": "25047",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25047",
+      "description": "Due to extensive damage associated with severe weather caused by Tropical Cyclone Alfred, all inland roads and facilities are temporarily closed until further notice. Bypass roads (Yidney Rocks, Poyungan Rocks, Indian Head, Middle Rocks and Hook Point Inland) remain open. For safety reasons, please avoid the area and follow all official directions. Updates will be provided as conditions are assessed. Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.  Check Park Alerts regularly for updates on current park conditions.  Tune in to local ABC radio stations for weather updates.  Check road conditions.  Check weather report",
+      "details": "<p>Due to extensive damage associated with severe weather caused by Tropical Cyclone Alfred, all inland roads and facilities are temporarily closed until further notice. Bypass roads (Yidney Rocks, Poyungan Rocks, Indian Head, Middle Rocks and Hook Point Inland) remain open. For safety reasons, please avoid the area and follow all official directions. Updates will be provided as conditions are assessed. Be prepared. Stay updated on warnings, road conditions, and weather forecasts. Follow all signage, barriers, and ranger instructions, and do not enter closed areas.  Check Park Alerts regularly for updates on current park conditions.  Tune in to local ABC radio stations for weather updates.  Check road conditions.  Check weather report</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-09",
+      "start_effective_date": "2025-03-09",
+      "end_date": "2025-03-11",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari (formerly Fraser Island) Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Turtle Encounter Tours Cancelled Sunday 9 March 2025",
+      "alert_id": "25048",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25048",
+      "description": "Due to a Severe Thunderstorm warning and conditions on the coast, Turtle Encounter tours are cancelled for Sunday 9 March 2025.",
+      "details": "<p>Due to a Severe Thunderstorm warning and conditions on the coast, Turtle Encounter tours are cancelled for Sunday 9 March 2025.</p> <ul> <li>Any visitors booked in for tours on Sunday 9/03/2025 will receive&nbsp;an&nbsp;email from the booking office with details for refunds or options to rebook if opportunity is available.</li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-09",
+      "start_effective_date": "2025-03-09",
+      "end_date": "2025-03-09",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
         }
       ]
     }
