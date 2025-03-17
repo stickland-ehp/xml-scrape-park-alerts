@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 181,
-    "script_run_time": "2025-03-16 10:08:03"
+    "alerts_count": 192,
+    "script_run_time": "2025-03-17 10:10:05"
   },
   "alerts": [
     {
@@ -1650,15 +1650,15 @@
       ]
     },
     {
-      "title": "Wet season closure: Palmer Goldfield Resources Reserve",
+      "title": "Extension to wet season closure: Palmer Goldfield Resources Reserve",
       "alert_id": "24680",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24680",
-      "description": "Palmer Goldfield Resources Reserve is closed for the wet season.",
-      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season.</p> <p>It is anticipated to reopen Tuesday 1 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "description": "The wet season closure for the Palmer Goldfield Resources Reserve has been extended due to continued wet weather.",
+      "details": "<p>The wet season closure for the Palmer Goldfield Resources Reserve has been extended due to continued wet weather.</p> <p>It is anticipated to reopen Friday 11 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-19",
+      "start_date": "2025-03-17",
       "start_effective_date": "2024-11-15",
-      "end_date": "2025-03-31",
+      "end_date": "2025-04-10",
       "parks": [
         {
           "id": "149489",
@@ -2563,14 +2563,32 @@
       "description": "Due to wet weather, the following walking tracks in Chillagoe Mungana Caves National Park are closed for the the wet season:",
       "details": "<p>Due to wet weather, the following walking tracks in Chillagoe Mungana Caves National Park are closed for the the wet season:</p> <ul> <li>Donna Cave car park to Balancing Rock car park walking track</li> <li>Balancing Rock car park to Royal Arch car park</li> </ul> <p>The Balancing Rock walking track and all cave tours are open as normal.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-12",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-02-12",
-      "end_date": "2025-03-21",
+      "end_date": "2025-04-03",
       "parks": [
         {
           "id": "148876",
           "name": "Chillagoe-Mungana Caves National Park",
           "url": "https://parks.desi.qld.gov.au/parks/chillagoe-caves"
+        }
+      ]
+    },
+    {
+      "title": "Post flood assessment - Bluebush Drive",
+      "alert_id": "24944",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24944",
+      "description": "Lochern NP, the eastern section of Bluebush Drive is temporarily closed until Friday 3rd April 2025 due to water/muddy conditions in the channels after recent flooding.",
+      "details": "<p>Lochern NP, the eastern section of Bluebush Drive is temporarily closed until Friday 3rd April 2025 due to water/muddy conditions in the channels after recent flooding.</p> <p>The western section of Bluebush Drive is still open, and accessible from the ranger base, or the southern end of Waterloo Road.</p> <p>The Broadwater camping area is open.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Announcement",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-02-20",
+      "end_date": "2025-04-03",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lochern"
         }
       ]
     },
@@ -3111,15 +3129,15 @@
       ]
     },
     {
-      "title": "Severe Weather Damage - some Gold Coast protected areas closed",
+      "title": "Severe Weather Damage - Lamington National Park",
       "alert_id": "25025",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25025",
-      "description": "As a result of damage from Tropical Cyclone Alfred, the protected areas listed above are currently closed.",
-      "details": "<p>As a result of damage from Tropical Cyclone Alfred, the protected areas listed above are currently closed.</p> <p>This includes all picnic and day-use areas, walking tracks, and camping areas.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "As a result of damage from Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.",
+      "details": "<p>As a result of damage from Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p><strong>Closed areas:</strong></p> <ul> <li>Binna Burra section <ul> <li>Araucaria lookout track</li> <li>Caves track</li> <li>Coomera circuit</li> <li>Daves Creek circuit</li> <li>Gwongoorool track</li> <li>Illinbah circuit</li> <li>Lower Bellbird track</li> <li>Mount Hobwee circuit</li> <li>Ships Stern circuit</li> <li>Wagawn track</li> </ul> </li> <li>Border track</li> <li>Bush camps and remote bush camps</li> <li>Gold Coast Hinterland Great Walk</li> <li>Green Mountains section <ul> <li>Albert River circuit</li> <li>Box Forest circuit</li> <li>Toolona Creek circuit</li> <li>West Canungra Creek circuit</li> </ul> </li> <li>Remote bushwalks</li> </ul> <p><strong>Alternative (open) facilities are available at:</strong></p> <ul> <li>Binna Burra section <ul> <li>Rainforest circuit</li> <li>Trailhead facilities (note: toilets currently closed&nbsp;due to damage to toilet block)</li> <li>Tullawallal circuit&nbsp;</li> </ul> </li> <li>Green Mountains section&nbsp; <ul> <li>Centenary track</li> <li>Morans Falls track&nbsp;</li> <li>Python Rock track&nbsp;</li> <li>Rainforest return&nbsp;</li> <li>Trailhead facilities (note: toilets currently closed due to&nbsp;no water)</li> </ul> </li> </ul> <p>Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/162025/lamington-binna-burra-map.pdf\">Binna Burra section map</a> and <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160825/lamington-green-mts-map.pdf\">Green Mountains section map</a> for more information on locations.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-14",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-03-14",
-      "end_date": "2025-03-19",
+      "end_date": "2025-03-21",
       "parks": [
         {
           "id": "156492",
@@ -3130,11 +3148,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        },
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
         }
       ]
     },
@@ -3266,9 +3279,9 @@
       "alert_id": "25047",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25047",
       "description": "Due to damage from Tropical Cyclone Alfred, the following camping areas and roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:",
-      "details": "<p>Due to damage from Tropical Cyclone Alfred, the following camping areas and roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:</p> <p><strong>Closed Camping areas</strong>:</p> <ul> <li>Beach camping 2 (One Tree only)</li> <li>Great Walks campgrounds</li> </ul> <p><strong>Closed roads</strong>:</p> <ul> <li>Central Link Road&nbsp;</li> <li>Cornwells Road</li> <li>Lake Wabby Road</li> <li>Bogimbah Road</li> <li>Southern Lakes Drive (from Central Station to Dilli Village)&nbsp;</li> </ul> <p>Damaging winds and heavy rainfall have caused fallen trees, flooding, landslides, washouts and other hazards.</p> <p><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">Cancel</a> and request a refund online for your existing camping or vehicle access booking/s.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "details": "<p>Due to damage from Tropical Cyclone Alfred, the following camping areas and roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:</p> <p><strong>Closed Camping areas</strong>:</p> <ul> <li>Great Walks campgrounds</li> </ul> <p><strong>Closed roads</strong>:</p> <ul> <li>Central Link Road&nbsp;</li> <li>Cornwells Road</li> <li>Lake Wabby Road</li> <li>Bogimbah Road</li> <li>Southern Lakes Drive (from Central Station to Dilli Village)&nbsp;</li> </ul> <p>Damaging winds and heavy rainfall have caused fallen trees, flooding, landslides, washouts and other hazards.</p> <p><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">Cancel</a> and request a refund online for your existing camping or vehicle access booking/s.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-12",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-03-10",
       "end_date": "2025-03-18",
       "parks": [
@@ -3304,9 +3317,9 @@
       "description": "Access to Mt Beerwah is temporarily closed from Monday 10 March 2025 following very high rainfall. This closure is a precautionary measure following high rainfall events. The risk of large rock fall above the summit route is much higher after heavy rain.",
       "details": "<p>Access to Mt Beerwah is temporarily closed from Monday 10 March 2025 following very high rainfall. This closure is a precautionary measure following high rainfall events. The risk of large rock fall above the summit route is much higher after heavy rain.</p> <p>The mountain area&nbsp;will be closed for a minimum of 7 days.&nbsp;&nbsp;During this time, Queensland Parks and Wildlife Service will assess the route for any rock fall. If no rock falls are observed, the route will be re-opened.</p> <p>There are signs informing visitors of the closure at the site and barriers in place at the picnic area.&nbsp;&nbsp;</p> <p>For your safety, please do not enter the closed area.&nbsp;&nbsp;Visitors found entering the closed area may be issued with an on-the-spot fine.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-10",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-03-10",
-      "end_date": "2025-03-17",
+      "end_date": "2025-03-18",
       "parks": [
         {
           "id": "150189",
@@ -3376,9 +3389,9 @@
       "description": "Hoppy Lark's access track is temporarily closed due to water over the road.",
       "details": "<p>Hoppy Lark's access track is temporarily closed due to water over the road.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-12",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-03-11",
-      "end_date": "2025-03-20",
+      "end_date": "2025-03-27",
       "parks": [
         {
           "id": "148436",
@@ -3446,9 +3459,9 @@
       "alert_id": "25064",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25064",
       "description": "As a result of damage from Tropical Cyclone Alfred, some areas in Tamborine National Park are closed until declared safe.",
-      "details": "<p>As a result of damage from Tropical Cyclone Alfred, some areas in Tamborine National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls section - track to rock pools&nbsp;</li> <li>Joalah section - Lower creek circuit</li> <li>The Knoll section - Sandy Creek circuit</li> <li>Palm Grove section - all walking tracks</li> </ul> <p>Alternative (open) facilities are available at:</p> <ul> <li>Cedar Creek Falls section - day use area and track to lookout</li> <li>Joalah section - Curtis Falls walking track</li> <li>MacDonald - Rainforest circuit</li> <li>The Knoll section - day use area and lookout</li> <li>Witches Falls section - day use area and walking tracks</li> </ul> <p>Please refer to the Tamborine National Park locality map and walking tracks map for more information on locations.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>As a result of damage from Tropical Cyclone Alfred, some areas in Tamborine National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls section - track to rock pools&nbsp;</li> <li>Joalah section - Lower creek circuit</li> <li>The Knoll section - Sandy Creek circuit</li> <li>Palm Grove section - all walking tracks</li> </ul> <p>Alternative (open) facilities are available at:</p> <ul> <li>Cedar Creek Falls section - day use area and track to lookout</li> <li>Joalah section - Curtis Falls walking track</li> <li>MacDonald - Rainforest circuit</li> <li>The Knoll section - day use area and lookout</li> <li>Witches Falls section - day use area and walking tracks</li> </ul> <p>Please refer to the Tamborine National Park locality map and walking tracks map for more information on locations.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-13",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-03-15",
       "end_date": "2025-03-21",
       "parks": [
@@ -3502,9 +3515,9 @@
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.</p> <p>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected.</p> <p>Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water.</p> <p>The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-14",
+      "start_date": "2025-03-17",
       "start_effective_date": "2025-03-14",
-      "end_date": "2025-03-18",
+      "end_date": "2025-03-19",
       "parks": [
         {
           "id": "148468",
@@ -3659,6 +3672,191 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to high water levels: Swamp walk, Eubenangee Swamp National Park",
+      "alert_id": "25078",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25078",
+      "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.",
+      "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice. This is due to high water levels in the swamp and the presence of estuarine crocodiles at this location. The Swamp walk will reopen when water levels subside.</p>",
+      "category": "Announcement",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-17",
+      "end_date": "2025-03-21",
+      "parks": [
+        {
+          "id": "149501",
+          "name": "Eubenangee Swamp National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eubenangee-swamp"
+        }
+      ]
+    },
+    {
+      "title": "Carpark closure - Hazardous tree works - Noosa National Park",
+      "alert_id": "25079",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25079",
+      "description": "Maintenance, including removal of hazardous trees, is planned for the carpark area in Noosa National Park, Headland section (Park Road). Vegetation works are planned from Tuesday 25 March to Wednesday 26 March, pending favourable weather conditions.",
+      "details": "<p>Maintenance, including removal of hazardous trees, is planned for the carpark area in Noosa National Park, Headland section (Park Road). Vegetation works are planned from Tuesday 25 March to Wednesday 26 March, pending favourable weather conditions.</p> <p>The following area will be temporarily closed for the duration of this works.</p> <ul> <li><em>Noosa National Park carpark - Park Road entrance.</em></li> </ul> <p><strong>All walking tracks and day-use area will remain open.</strong></p> <p>Alternative parking in Hasting Street and Noosa Junction carparks are recommended if visiting the national park.&nbsp;</p> <p><strong>No vehicle access will be permitted in the carpark from 5am to 12pm - Wednesday 26 March, 2025.</strong></p> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance as large machinery may be operating in the area.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-20",
+      "end_date": "2025-03-27",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: mountain bike park, Smithfield Conservation Park",
+      "alert_id": "25080",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25080",
+      "description": "Due to recent weather events resulting in heavy rain, the Smithfield Conservation Park mountain bike park is currently closed.",
+      "details": "<p>Due to recent weather events resulting in heavy rain, the Smithfield Conservation Park mountain bike park is currently closed.</p> <p>Please do not ride tracks while wet as it damages the surface and creates further issues.</p> <p>Please see the Cairns Mountain Bike Club website or Facebook page for updates.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-17",
+      "end_date": "2025-03-21",
+      "parks": [
+        {
+          "id": "148424",
+          "name": "Smithfield Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/smithfield"
+        }
+      ]
+    },
+    {
+      "title": "Currawinya National Park- closure due to pest management control program",
+      "alert_id": "25081",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25081",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 24th March to Sunday 30th march. All control activities are conducted in accordance with the Currawinya Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 24th March to Sunday 30th march. All control activities are conducted in accordance with the Currawinya Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.</p> <p>Currawinya National Park will be closed to public access for the duration of the pest management program.</p> <p>Closed areas include:<br /> &bull;&nbsp;&nbsp; &nbsp;All camping and day-use areas<br /> &bull;&nbsp;&nbsp; &nbsp;All vehicle and walking tracks<br /> &nbsp;<br /> The Hungerford- Eulo Road will remain open to traffic.<br /> For further details please contact the Currawinya office on (07) 4655 4001</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-24",
+      "end_date": "2025-03-30",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Lake Bindegolly National Park- closure due to pest management control program",
+      "alert_id": "25082",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25082",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 24th March to Sunday 30th March. All control activities are conducted in accordance with the Lake Bindegolly Pest Animal Control plan and helps to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 24th March to Sunday 30th March. All control activities are conducted in accordance with the Lake Bindegolly Pest Animal Control plan and helps to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.</p> <p>Lake Bindegolly National Park will be closed to public access for the duration of the pest management program.</p> <p>Closed areas include:</p> <ul> <li>All vehicle and walking tracks</li> <li>All day-use areas</li> </ul> <p>&nbsp;</p> <p>For further information please contact the Currawinya office on (07) 4655 4001</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-24",
+      "end_date": "2025-03-30",
+      "parks": [
+        {
+          "id": "148761",
+          "name": "Lake Bindegolly National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lake-bindegolly"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather damage - Nerang National Park",
+      "alert_id": "25083",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25083",
+      "description": "Visitors to Nerang National Park may encounter fallen trees as a result of Tropical Cyclone Alfred and should proceed with caution.",
+      "details": "<p>Visitors to Nerang National Park may encounter fallen trees as a result of Tropical Cyclone Alfred and should proceed with caution.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-17",
+      "end_date": "2025-03-21",
+      "parks": [
+        {
+          "id": "147971",
+          "name": "Nerang National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/nerang"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather damage - Springbrook National Park",
+      "alert_id": "25084",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25084",
+      "description": "As a result of damage from Tropical Cyclone Alfred, some areas in Springbrook National Park are closed until declared safe.",
+      "details": "<p>As a result of damage from Tropical Cyclone Alfred, some areas in Springbrook National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Closed areas:</p> <ul> <li>Gold Coast Hinterland Great Walk including Woonoongoora walkers camp</li> <li>Goomoolahra picnic area, walking tracks and lookouts</li> <li>Purling Brook Falls circuit (except&nbsp;access to the western lookout)</li> <li>The Settlement picnic area</li> <li>Twin Falls circuit</li> <li>Warrie circuit</li> <li>Warringa Pool track</li> </ul> <p>Alternative (open) facilities are available at:</p> <ul> <li>Best of All&nbsp;lookout track</li> <li>Canyon lookout</li> <li>Gaurieimabah (place of stories - information centre)</li> <li>Gwongorella picnic area</li> <li>Mount Cougal&nbsp;day use area and Cascades track</li> <li>Natural Bridge&nbsp;day use area and circuit&nbsp;</li> <li>Purling Brook Falls circuit from Gwongorella picnic area to the western lookout only</li> <li>The Settlement camping area</li> </ul> <p>Please refer to the Springbrook National Park <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0027/161649/springbrook-park-map.pdf\">locality map</a> and <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0014/162320/springbrook-inset-maps.pdf\">walking tracks map</a> for more information on locations.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-17",
+      "end_date": "2025-03-21",
+      "parks": [
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Tongue point Oiling",
+      "alert_id": "25085",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25085",
+      "description": "Hill Inlet Lookout Oiling &amp; Bettys beach board walk Oiling QPWS Rangers will be Oiling these Facilites in the park, one Deck will remain open at all times &amp; half of betties beach board will be done at a time allowing for access to the beach. Toilets will remain open.",
+      "details": "<p>Hill Inlet Lookout Oiling &amp; Bettys beach board walk Oiling QPWS Rangers will be Oiling these Facilites in the park, one Deck will remain open at all times &amp; half of betties beach board will be done at a time allowing for access to the beach. Toilets will remain open.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-04-01",
+      "end_date": "2025-04-04",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to recent heavy rainfall: Paradise Waterhole (Big Crystal Creek)",
+      "alert_id": "25086",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25086",
+      "description": "Due to recent heavy localised rainfall, Paradise Waterhole (Big Crystal Creek) within the Mount Spec section of Paluma Range National Park is closed for swimming until further notice.",
+      "details": "<p>Due to recent heavy localised rainfall, Paradise Waterhole (Big Crystal Creek) within the Mount Spec section of Paluma Range National Park is closed for swimming until further notice.</p> <ul> <li>Conditions are unsafe for entering the water.</li> <li>Please follow all directions displayed on signage.</li> </ul>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-17",
+      "end_date": "2025-03-21",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "David Fleay Wildlife Park - Park Closure",
+      "alert_id": "25087",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25087",
+      "description": "David Fleay Wildlife Park remains closed to visitors while our rangers continue with cyclone recovery works including clearing of fallen debris and hazards. Staff are working hard so we can safely re-open and welcome back visitors as soon as possible. We appreciate your understanding and cooperation during this period.",
+      "details": "<p>David Fleay Wildlife Park remains closed to visitors while our rangers continue with cyclone recovery works including clearing of fallen debris and hazards. Staff are working hard so we can safely re-open and welcome back visitors as soon as possible. We appreciate your understanding and cooperation during this period.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-17",
+      "start_effective_date": "2025-03-18",
+      "end_date": "2025-03-18",
+      "parks": [
+        {
+          "id": "148540",
+          "name": "David Fleay Wildlife Park",
+          "url": "https://parks.desi.qld.gov.au/parks/david-fleay"
         }
       ]
     }
