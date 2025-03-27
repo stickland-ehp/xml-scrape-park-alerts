@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 200,
-    "script_run_time": "2025-03-26 10:09:52"
+    "alerts_count": 202,
+    "script_run_time": "2025-03-27 10:09:41"
   },
   "alerts": [
     {
@@ -293,24 +293,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Cornwells Road, No Heavy Traffic",
-      "alert_id": "22236",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/22236",
-      "description": "Cornwells Road, between Wabby Scenic Road and Northern Road/Pile Valley Road will be closed to buses and heavy vehicle traffic from 31 July 2022 until further notice due to maintenance and repairs.",
-      "details": "<p>Cornwells Road, between Wabby Scenic Road and Northern Road/Pile Valley Road will be closed to buses and heavy vehicle traffic from 31 July 2022 until further notice due to maintenance and repairs.</p> <p>Please observes all traffic control and directional signage in place.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2024-06-27",
-      "start_effective_date": "2022-08-31",
-      "end_date": "2025-06-26",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
         }
       ]
     },
@@ -1740,15 +1722,15 @@
       ]
     },
     {
-      "title": "Wet season closure update: Princess Hills camping area, Princess Hills section, Girringun National Park",
+      "title": "Wet season closure extension: Princess Hills camping area, Princess Hills section, Girringun National Park",
       "alert_id": "24694",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24694",
-      "description": "Princess Hills section of Girringun National Park is currently closed for the wet season.",
-      "details": "<p>Princess Hills section of Girringun National Park is currently closed for the wet season.</p> <p>This area has received higher than average rainfall, which has impacted the planned reopening dates. Please see below:</p> <p><strong>Campsite 1 -&nbsp;</strong>anticipated to reopen<strong>&nbsp;</strong>on Tuesday 1 April 2025.</p> <p><strong>Campsite 2 -&nbsp;</strong>anticipated to reopen<strong>&nbsp;</strong>on Wednesday 16 April 2025, due to boggy road conditions preventing access.</p> <p>Rangers continue to monitor conditions closely and will open earlier if possible, or extend the closure if rainfall continues to affect access to the area.</p> <p>Please monitor this Park alert for up to date information</p>",
+      "description": "The Princess Hills section of Girringun National Park is currently closed for the wet season.",
+      "details": "<p>The Princess Hills section of Girringun National Park is currently closed for the wet season.</p> <p>Higher than average rainfall has fallen across the area, the anticipated reopen date to Monday 7 April, subject to road and weather conditions.</p> <p>Rangers continue to monitor conditions closely and will open earlier if possible, or extend the closure if rainfall continues to affect access to the area.</p> <p>Please monitor this Park alert for up to date information</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-14",
+      "start_date": "2025-03-27",
       "start_effective_date": "2024-11-19",
-      "end_date": "2025-03-31",
+      "end_date": "2025-04-06",
       "parks": [
         {
           "id": "148123",
@@ -2032,9 +2014,9 @@
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout the Barron River including Stoney Creek and Surprise Creek in Barron Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout the Barron River including Stoney Creek and Surprise Creek in Barron Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.</p> <p>At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> </ul> <p>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
       "category": "Announcement",
-      "start_date": "2024-12-09",
+      "start_date": "2025-03-27",
       "start_effective_date": "2024-12-09",
-      "end_date": "2025-03-31",
+      "end_date": "2025-04-30",
       "parks": [
         {
           "id": "148548",
@@ -2807,9 +2789,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have undertaken safety assessments and repairs following Tropical Cyclone Alfred.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have undertaken safety assessments and repairs following Tropical Cyclone Alfred.</p> <h3><strong>Several facilities within Minjerribah Recreation Area, Naree Budjong Djara and Teerk Roo Ra (Peel Island) National Parks are now considered safe and will be reopened to visitors from Saturday 22nd March 2025.</strong></h3> <h3><strong>Reopened facilities include:</strong></h3> <ul> <li> <h3>Flinders Beach camping area&nbsp;<strong>(partial opening with reduced capacity);</strong></h3> </li> <li> <h3>Blaksley camping area on Minjerribah (North Stradbroke Island);</h3> </li> <li> <h3>Horseshoe Bay and Platypus Bay camping areas on Teerk Roo Ra (Peel Island);</h3> </li> <li> <h3>Flinders Beach for day-use access;</h3> </li> <li> <h3>Main Beach for day-use access only <strong>(no camping)</strong>; and</h3> </li> <li> <h3>All walking tracks within Naree Budjong Djara National Park.</h3> </li> </ul> <p>&nbsp;</p> <h3><strong>Due to ongoing safety and access issues, the following facilities will remain CLOSED until further notice:</strong></h3> <ul> <li> <h3>All Main Beach camping areas within the Minjerribah Recreation Area.</h3> </li> </ul> <p>&nbsp;</p> <p>Severe erosion has occurred along the exposed beaches making traversing challenging. Motorists using Flinders Beach and Main Beach are advised to use caution and travel at a reduced speed to avoid hazards such as steep sand dunes, hidden banks, fallen trees and large debris.&nbsp;</p> <h3><strong>Beach travel is prohibited one hour either side of high tide on Flinders and Main Beach.&nbsp; However,&nbsp;due to conditions we recommend not travelling three hours either side of high tide as this may be unsafe.</strong></h3> <p>&nbsp;</p> <p>Driving over vegetated dunes is not permitted despite beach and track conditions. Fines apply for anyone driving or parking on vegetated dunes.</p> <p>The extreme tides have deposited large amounts of rubbish and potential hazardous material.&nbsp; For your safety, please avoid any material and prevent children from playing near it.</p> <p>Erosion of the dunes along exposed beaches has created steep, unstable sand dunes which can collapse without warning.</p> <p>For your safety:</p> <ul> <li>Never climb or dig into sand dunes;</li> <li>Avoid standing, sitting or parking near the base of the dunes; and</li> <li>Supervise children closely and DO NOT allow them to play on or near dunes.</li> </ul> <p><strong>Observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p>For camping bookings on Teerk Roo Ra (Peel Island) and at Blaksley camping area, please visit <a href=\"http://www.qld.gov.au/Camping\">www.qld.gov.au/Camping</a>&nbsp;&nbsp;</p> <p>For enquiries and camping bookings at Main Beach and Flinders Beach, please visit Minjerribah Camping on&nbsp;<a href=\"https://minjerribahcamping.com.au/\">www.minjerribahcamping.com.au</a>&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-03-21",
+      "start_date": "2025-03-27",
       "start_effective_date": "2025-03-03",
-      "end_date": "2025-03-28",
+      "end_date": "2025-04-04",
       "parks": [
         {
           "id": "148552",
@@ -3186,15 +3168,15 @@
       ]
     },
     {
-      "title": "Gheebulum Kunungai (Moreton Island) National Park partial reopening following Tropical Cyclone Alfred",
+      "title": "Gheebulum Kunungai (Moreton Island) National Park reopening following Tropical Cyclone Alfred",
       "alert_id": "25070",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25070",
       "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have undertaken safety assessments and repairs following Tropical Cyclone Alfred.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have undertaken safety assessments and repairs following Tropical Cyclone Alfred.</p> <h3><strong>Several facilities within Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area are now considered safe and will be reopened to visitors from Saturday 22nd March 2025.</strong></h3> <h3><strong>Due to ongoing safety issues and wet, boggy conditions, the following tracks and facilities will remain CLOSED until further notice:</strong></h3> <p><strong>Camping areas closed:</strong></p> <ul> <li>Comboyuro Point camping area; and</li> <li>North-east camping zone.</li> </ul> <p><strong>Roads closed:</strong></p> <ul> <li>Blue Lagoon day use area vehicle access track; and</li> <li>Tailor Bight Road.</li> </ul> <p>Blue Lagoon is accessible via the Blue Lagoon camping area.&nbsp;</p> <p>Severe erosion has occurred along the exposed beaches making traversing challenging. Motorists are advised to use caution and travel at a reduced speed to avoid hazards such as steep sand dunes, hidden banks, fallen trees and large debris.&nbsp;</p> <p><strong>Beach travel is recommended two hours either side of low tide. Beach travel three hours either side of high tide should be avoided.</strong></p> <p>Driving over vegetated dunes is not permitted despite beach and track conditions. Fines apply for anyone driving or parking on vegetated dunes.</p> <p>The extreme tides have deposited large amounts of rubbish and potential hazardous material.&nbsp; For your safety, please avoid any material and prevent children from playing near it.</p> <p>Erosion of the dunes along Eastern Beach has created steep, unstable sand dunes which can collapse without warning.&nbsp;For your safety:</p> <ul> <li>Never climb or dig into sand dunes;</li> <li>Avoid standing, sitting or parking near the base of the dunes; and</li> <li>Supervise children closely and DO NOT allow them to play on or near dunes.</li> </ul> <p><strong>Observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p>To book camping or a vehicle access permit, visit Mulgumpin Camping at <a href=\"https://www.mulgumpincamping.net.au/\">mulgumpincamping.net.au</a></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have undertaken safety assessments and repairs following Tropical Cyclone Alfred.</p> <h3><strong>Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area are open with all camping areas opened to visitors.</strong></h3> <h3><strong>Due to ongoing safety issues and wet, boggy conditions, the following roads will remain CLOSED until further notice:</strong></h3> <p><strong>Roads closed:</strong></p> <ul> <li>Blue Lagoon day use area vehicle access track; and</li> <li>Tailor Bight Road.</li> </ul> <p>Blue Lagoon is accessible via the Blue Lagoon camping area.&nbsp;</p> <p>Severe erosion has occurred along the exposed beaches making traversing challenging. Motorists are advised to use caution and travel at a reduced speed to avoid hazards such as steep sand dunes, hidden banks, fallen trees and large debris.&nbsp;</p> <p><strong>Beach travel is recommended two hours either side of low tide. Beach travel three hours either side of high tide should be avoided.</strong></p> <p>Driving over vegetated dunes is not permitted despite beach and track conditions. Fines apply for anyone driving or parking on vegetated dunes.</p> <p>The extreme tides have deposited large amounts of rubbish and potential hazardous material.&nbsp; For your safety, please avoid any material and prevent children from playing near it.</p> <p>Erosion of the dunes along Eastern Beach has created steep, unstable sand dunes which can collapse without warning.&nbsp;For your safety:</p> <ul> <li>Never climb or dig into sand dunes;</li> <li>Avoid standing, sitting or parking near the base of the dunes; and</li> <li>Supervise children closely and DO NOT allow them to play on or near dunes.</li> </ul> <p><strong>Observe all signage, barriers and directions from rangers and do not enter closed areas.</strong></p> <p>To book camping or a vehicle access permit, visit Mulgumpin Camping at <a href=\"https://www.mulgumpincamping.net.au/\">mulgumpincamping.net.au</a></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-03-26",
+      "start_date": "2025-03-27",
       "start_effective_date": "2025-03-14",
-      "end_date": "2025-03-27",
+      "end_date": "2025-04-04",
       "parks": [
         {
           "id": "148757",
@@ -3377,9 +3359,9 @@
       "description": "Due to recent heavy localised rainfall, Paradise Waterhole (Big Crystal Creek) within the Mount Spec section of Paluma Range National Park is closed for swimming until further notice.",
       "details": "<p>Due to recent heavy localised rainfall, Paradise Waterhole (Big Crystal Creek) within the Mount Spec section of Paluma Range National Park is closed for swimming until further notice.</p> <ul> <li>Conditions are unsafe for entering the water.</li> <li>Please follow all directions displayed on signage.</li> </ul>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-25",
+      "start_date": "2025-03-27",
       "start_effective_date": "2025-03-17",
-      "end_date": "2025-03-28",
+      "end_date": "2025-04-02",
       "parks": [
         {
           "id": "148452",
@@ -3561,24 +3543,6 @@
       ]
     },
     {
-      "title": "Planned burn for West Branch camping area",
-      "alert_id": "25100",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25100",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Friday 21 to Wednesday 26 March, as part of the fire management program for Mount Moffatt section.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Friday 21 to Wednesday 26 March, as part of the fire management program for Mount Moffatt section.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of West Branch camping area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn, West Branch camping area is <strong>closed to public access.</strong></p> <p>All other camping areas remain open.</p> <p>Smoke may be seen in the vicinity of the area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-03-20",
-      "start_effective_date": "2025-03-20",
-      "end_date": "2025-03-26",
-      "parks": [
-        {
-          "id": "151343",
-          "name": "Mount Moffatt, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Atherton Mountain Bike Park, Baldy Mountain Forest Reserve",
       "alert_id": "25101",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25101",
@@ -3597,43 +3561,15 @@
       ]
     },
     {
-      "title": "Temporary walking track, day-use and camping areas closure: Goldsborough Valley section, Wooroonooran National Park",
-      "alert_id": "25102",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25102",
-      "description": "The Goldsborough Valley section of Wooroonooran National Park is currently closed due to wet weather and potential flooding.",
-      "details": "<p>The Goldsborough Valley section of Wooroonooran National Park is currently closed due to wet weather and potential flooding.</p> <p><strong>This closure includes:</strong></p> <ul> <li>Goldsborough Valley camping and day-use area&nbsp;</li> <li>Goldsborough Valley&nbsp;Bora Ground camping area</li> <li>Mulgrave River (Goldfield trail)&nbsp;camping area</li> <li>Goldfield trail.</li> </ul> <p>This section of park is anticipated to reopen on Thursday 27 March 2025.</p> <p>Monitor park alerts for up to date information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-20",
-      "start_effective_date": "2025-03-20",
-      "end_date": "2025-03-26",
-      "parks": [
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
       "title": "K'gari (Fraser Island Recreation Area) Road CLOSURES",
       "alert_id": "25103",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25103",
       "description": "Due to damage from Ex Tropical Cyclone Alfred, the following roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:",
-      "details": "<p>Due to damage from Ex Tropical Cyclone Alfred, the following roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:</p> <ul> <li>Cornwells Road</li> <li>Lake Wabby West Road</li> <li>Southern Lakes Drive (from Lake Birrabeen to Dilli Village)</li> </ul> <p>Damaging winds and heavy rainfall have caused fallen trees, flooding, landslides, washouts and other hazards.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">Cancel</a>&nbsp;and request a refund online for your existing camping or vehicle access booking/s.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Due to damage from Ex Tropical Cyclone Alfred, the following roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:</p> <ul> <li>Cornwells Road between Lake Wabby Lookout intersection and Pile Valley Road intersection (No through access between Eastern Beach and Kingfisher Bay)</li> <li>Lake Wabby Scenic Road between Lake Wabby Lookout and Pile Valley Road</li> </ul> <p>The following detours are in place:</p> <ul> <li>Access between Eastern Beach and Kingfisher Bay or Central Station is only via Eurong on the Eurong-Wangoolba Road&nbsp;to Pile Valley Road</li> <li>Southern Lakes Drive &ndash; access between Dilli Village and Lake Boomanjin is via Dillinghams Road</li> </ul> <p>Damaging winds and heavy rainfall have caused fallen trees, flooding, landslides, washouts and other hazards.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">Cancel</a>&nbsp;and request a refund online for your existing camping or vehicle access booking/s.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-21",
+      "start_date": "2025-03-27",
       "start_effective_date": "2025-03-21",
-      "end_date": "2025-04-04",
+      "end_date": "2025-04-11",
       "parks": [
         {
           "id": "148007",
@@ -3999,15 +3935,15 @@
       ]
     },
     {
-      "title": "Flood warning",
+      "title": "Park closure",
       "alert_id": "25124",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25124",
-      "description": "Visitors to the park are advised there is a risk of flooding at Charlevue Creek and due to the deteriorated condition of the road through the park, the park and all facilities may be closed if wet weather persists.",
-      "details": "<p>Visitors to the park are advised there is a risk of flooding at Charlevue Creek and due to the deteriorated condition of the road through the park, the park and all facilities may be closed if wet weather persists.</p> <p>Please continue to monitor park alerts and reconsider non-essential travel.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2025-03-26",
-      "start_effective_date": "2025-03-26",
-      "end_date": "2025-04-04",
+      "description": "Blackdown Tableland National Park is closed until further notice, due to wet weather.",
+      "details": "<p>Blackdown Tableland National Park is closed until further notice, due to wet weather.</p> <p>Campers with affected camping bookings, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online for your existing camping booking.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-27",
+      "start_effective_date": "2025-03-27",
+      "end_date": "2025-04-01",
       "parks": [
         {
           "id": "150224",
@@ -4041,6 +3977,111 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Access to Amamoor State Forest - Cedar Grove and Amamoor Creek Camping Areas",
+      "alert_id": "25126",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25126",
+      "description": "There has been some heavy rainfall over the past week in the Amamoor Creek catchment. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
+      "details": "<p>There has been some heavy rainfall over the past week in the Amamoor Creek catchment. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a></p>",
+      "category": "Announcement",
+      "start_date": "2025-03-27",
+      "start_effective_date": "2025-03-27",
+      "end_date": "2025-04-01",
+      "parks": [
+        {
+          "id": "148275",
+          "name": "Amamoor State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/amamoor"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure - Carnarvon Gorge walking tracks",
+      "alert_id": "25127",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25127",
+      "description": "Heavy rainfall and elevated creek levels have caused localised flooding of Carnarvon Creek crossings along the main Gorge track. There is potential for continued rainfall and further flooding over the next few days.",
+      "details": "<p>Heavy rainfall and elevated creek levels have caused localised flooding of Carnarvon Creek crossings along the main Gorge track. There is potential for continued rainfall and further flooding over the next few days.</p> <p>The main gorge walking track and all side tracks are closed, including:</p> <ul> <li>Amphitheatre</li> <li>Art Gallery</li> <li>Big Bend</li> <li>Boolimba Bluff</li> <li>Boowinda Gorge</li> <li>Cathedral Cave</li> <li>Moss Garden</li> <li>Nature Trail</li> <li>Ward&#39;s Canyon</li> </ul> <p>Mickey Creek and The Rock Pool remain open at this stage, however visitors should review Park Alerts prior to setting out for their journey, as conditions may change.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-27",
+      "start_effective_date": "2025-03-27",
+      "end_date": "2025-03-28",
+      "parks": [
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
+        },
+        {
+          "id": "150195",
+          "name": "Carnarvon Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
+        }
+      ]
+    },
+    {
+      "title": "Upper Noosa River CLOSED due to flooding",
+      "alert_id": "25128",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25128",
+      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.",
+      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>All permits, including commercial tours, for closed areas are <strong>suspended</strong> for the duration of the closure.</p> <p>All permits for closed areas are suspended during this closure. &nbsp;If you have an existing booking or have already commenced your stay, refunds will be processed via the online booking services.&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">Cancel</a>&nbsp;and request a refund online for your existing camping bookings. Alternatively, please contact&nbsp;<a href=\"mailto:qpws@des.qld.gov.au\"><strong>qpws@des.qld.gov.au</strong></a>&nbsp;for assistance.</p> <p>Rangers will continue to monitor water levels and conditions in the Upper Noosa River and&nbsp;will reopen when declared safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-27",
+      "start_effective_date": "2025-03-27",
+      "end_date": "2025-04-03",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Mountain Bike Trail Closure",
+      "alert_id": "25130",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25130",
+      "description": "As a result of recent accumulated rainfall and the current forecast, all mountain bike trails within Bunyaville and Samford Conservation Parks Mountain are temporarily closed to avoid unnecessary trail damage.",
+      "details": "<p>As a result of recent accumulated rainfall and the current forecast, all mountain bike trails within Bunyaville and Samford Conservation Parks Mountain are temporarily closed to avoid unnecessary trail damage.</p> <p>Trails will to re-open once conditions are deemed suitable.&nbsp;Mountain bike riders&nbsp;should stay alert, slow down and proceed with caution in nearby areas&nbsp;due to possible trail changes caused by wet weather.</p> <p>Please monitor&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-27",
+      "start_effective_date": "2025-03-27",
+      "end_date": "2025-04-01",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
+        },
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/samford"
+        }
+      ]
+    },
+    {
+      "title": "All Daisy Hill Conservation Park Mountain Bike Trails are temporarily CLOSED",
+      "alert_id": "25131",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25131",
+      "description": "Daisy Hill Conservation Park mountain bike trails are CLOSED due to trails being sodden, and trail surfaces being soft and prone to damage by riding.",
+      "details": "<p>Daisy Hill Conservation Park mountain bike trails are CLOSED due to trails being sodden, and trail surfaces being soft and prone to damage by riding.</p> <p>Further rain is forecast over the next fews days, further compromising trail conditions, and rider safety</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-27",
+      "start_effective_date": "2025-03-27",
+      "end_date": "2025-03-31",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
         }
       ]
     }
