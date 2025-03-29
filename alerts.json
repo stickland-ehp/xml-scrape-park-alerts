@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 204,
-    "script_run_time": "2025-03-28 10:09:31"
+    "alerts_count": 201,
+    "script_run_time": "2025-03-29 10:07:57"
   },
   "alerts": [
     {
@@ -2534,24 +2534,6 @@
       ]
     },
     {
-      "title": "Mount Oldfield walking track temporarily closed",
-      "alert_id": "24950",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24950",
-      "description": "Mount Oldfield walking track is temporarily closed due to severe weather damage that is preventing access to the trailhead.",
-      "details": "<p>Mount Oldfield walking track is temporarily closed due to severe weather damage that is preventing access to the trailhead.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-02-18",
-      "start_effective_date": "2025-02-17",
-      "end_date": "2025-03-28",
-      "parks": [
-        {
-          "id": "149521",
-          "name": "Lindeman Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lindeman-islands"
-        }
-      ]
-    },
-    {
       "title": "Closure due to flooding",
       "alert_id": "24958",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24958",
@@ -2806,24 +2788,6 @@
       ]
     },
     {
-      "title": "Temporary closure Mount Barney National Park. - Impacts from Cyclone Alfred.",
-      "alert_id": "25010",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25010",
-      "description": "Due to damage from Tropical Cyclone Alfred bringing strong winds and substantial rainfall, the Mount Barney National Park is temporarily CLOSED. Closures apply to : All camping and day use areas, all walking tracks and summit routes. If you have an existing booking, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Stay up to date with weather forecasts, conditions and warnings. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Your safety is our concern but your responsibility.",
-      "details": "<p>Due to damage from Tropical Cyclone Alfred bringing strong winds and substantial rainfall, the Mount Barney National Park is temporarily CLOSED. Closures apply to : All camping and day use areas, all walking tracks and summit routes. If you have an existing booking, refunds will be processed via the online booking services. Please contact qpws@des.qld.gov.au for assistance. Stay up to date with weather forecasts, conditions and warnings. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Your safety is our concern but your responsibility.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-19",
-      "start_effective_date": "2025-03-04",
-      "end_date": "2025-03-28",
-      "parks": [
-        {
-          "id": "148528",
-          "name": "Mount Barney National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-barney"
-        }
-      ]
-    },
-    {
       "title": "Severe Weather Alert - D'Aguilar National Park Temporary closure",
       "alert_id": "25013",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25013",
@@ -2897,29 +2861,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.desi.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Severe weather damage - sections of Main Range National Park",
-      "alert_id": "25034",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25034",
-      "description": "As a result of severe weather damage, some areas of Main Range National Park are closed until 28 March or until declared safe.",
-      "details": "<p>As a result of severe weather damage, some areas of Main Range National Park are closed until 28 March or until declared safe.</p> <p>QPWS Rangers are managing the situation and damage repair activities are in progress.</p> <p><strong>Closed areas:</strong></p> <ul> <li>Dalrymple circuit</li> <li>Cascades circuit</li> </ul> <ul> </ul> <p>All other walking tracks and camping areas are now open including the Scenic Rim Trail and walker&#39;s camps.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-25",
-      "start_effective_date": "2025-03-05",
-      "end_date": "2025-03-28",
-      "parks": [
-        {
-          "id": "205144",
-          "name": "Scenic Rim Trail, Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/scenic-rim-trail"
-        },
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/main-range"
         }
       ]
     },
@@ -3195,24 +3136,6 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Severe weather damage Glass House Mountains Conservation Park",
-      "alert_id": "25073",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25073",
-      "description": "As a result of severe weather damage, Glass House Mountains Conservation Park is closed until declared safe.",
-      "details": "<p>As a result of severe weather damage, Glass House Mountains Conservation Park is closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-14",
-      "start_effective_date": "2025-03-14",
-      "end_date": "2025-03-28",
-      "parks": [
-        {
-          "id": "322689",
-          "name": "Glass House Mountains Conservation Park",
-          "url": ""
         }
       ]
     },
@@ -3584,24 +3507,6 @@
       ]
     },
     {
-      "title": "Smoke Alert",
-      "alert_id": "25106",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25106",
-      "description": "Mt Archer National Park will be closed to allow for planned burning as part of ongoing bushfire hazard reduction.",
-      "details": "<p>Mt Archer National Park will be closed to allow for planned burning as part of ongoing bushfire hazard reduction.</p> <p>Zamia walking track is closed from the Grass tree intersection down to First Turkey during the burn. Please obey signage.</p> <p>Facilities will reopen when the event is completed.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-03-22",
-      "start_effective_date": "2025-03-24",
-      "end_date": "2025-03-28",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
       "title": "Planned upcoming closures: various camping areas, Danbulla National Park and State Forest",
       "alert_id": "25107",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25107",
@@ -3912,29 +3817,6 @@
       ]
     },
     {
-      "title": "Temporary closure - Carnarvon Gorge walking tracks",
-      "alert_id": "25127",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25127",
-      "description": "Heavy rainfall and elevated creek levels have caused localised flooding of Carnarvon Creek crossings along the main Gorge track. There is potential for continued rainfall and further flooding over the next few days.",
-      "details": "<p>Heavy rainfall and elevated creek levels have caused localised flooding of Carnarvon Creek crossings along the main Gorge track. There is potential for continued rainfall and further flooding over the next few days.</p> <p>The main gorge walking track and all side tracks are closed, including:</p> <ul> <li>Amphitheatre</li> <li>Art Gallery</li> <li>Big Bend</li> <li>Boolimba Bluff</li> <li>Boowinda Gorge</li> <li>Cathedral Cave</li> <li>Moss Garden</li> <li>Nature Trail</li> <li>Ward&#39;s Canyon</li> </ul> <p>Mickey Creek and The Rock Pool remain open at this stage, however visitors should review Park Alerts prior to setting out for their journey, as conditions may change.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-27",
-      "start_effective_date": "2025-03-27",
-      "end_date": "2025-03-28",
-      "parks": [
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
-        },
-        {
-          "id": "150195",
-          "name": "Carnarvon Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
-        }
-      ]
-    },
-    {
       "title": "Upper Noosa River CLOSED due to flooding",
       "alert_id": "25128",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25128",
@@ -4096,6 +3978,24 @@
       ]
     },
     {
+      "title": "Mt Beerwah summit route and mountain area temporarily closed",
+      "alert_id": "25135",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25135",
+      "description": "Access to Mt Beerwah is temporarily closed from Friday 28th of March 2025 following very high rainfall. This closure is a precautionary measure following high rainfall events. The risk of large rock fall above the summit route is much higher after heavy rain.",
+      "details": "<p>Access to Mt Beerwah is temporarily closed from Friday 28th of March 2025 following very high rainfall. This closure is a precautionary measure following high rainfall events. The risk of large rock fall above the summit route is much higher after heavy rain.</p> <p>The mountain area&nbsp;will be closed for a minimum of 7 days. During this time, Queensland Parks and Wildlife Service will assess the route for any rock fall. If no rock falls are observed, the route will be re-opened.</p> <p>There are signs informing visitors of the closure at the site and barriers in place at the picnic area.&nbsp;&nbsp;</p> <p>For your safety, please do not enter the closed area.&nbsp;&nbsp;Visitors found entering the closed area may be issued with an on-the-spot fine.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-29",
+      "start_effective_date": "2025-03-29",
+      "end_date": "2025-04-05",
+      "parks": [
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure due to minor flooding - Amamoor State Forest and Woondum National Park.",
       "alert_id": "25136",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25136",
@@ -4133,6 +4033,42 @@
           "id": "148223",
           "name": "Byfield National Park, Conservation Park and State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather closure - Ewen Maddock mountain bike trail",
+      "alert_id": "25138",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25138",
+      "description": "Due to heavy rainfall, the Ewen Maddock mountain bike trail at 'Ferny Forest' is temporarily closed.",
+      "details": "<p>Due to heavy rainfall, the Ewen Maddock mountain bike trail at 'Ferny Forest' is temporarily closed.</p> <p>This closure is both for the safety of the trail users and to minimise damage to the trail itself.</p> <p>QPWS Rangers are monitoring the situation and will reopen the trail once conditions improve</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-03-29",
+      "start_effective_date": "2025-03-29",
+      "end_date": "2025-04-05",
+      "parks": [
+        {
+          "id": "149493",
+          "name": "Beerburrum and Beerwah State Forests",
+          "url": "https://parks.desi.qld.gov.au/parks/beerburrum-beerwah"
+        }
+      ]
+    },
+    {
+      "title": "Exposed sand cliff and dune landslide danger",
+      "alert_id": "25139",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25139",
+      "description": "Exposed sand cliffs and dunes along Teewah Beach, Rainbow Beach and Double Island Point are unstable and can collapse without warning.",
+      "details": "<p>Exposed sand cliffs and dunes along Teewah Beach, Rainbow Beach and Double Island Point are unstable and can collapse without warning.</p> <p>Falling boulders and landslides are common and can cause serious injury or death.</p> <p>&nbsp;&nbsp; &bull; NEVER climb or dig into sand cliffs.</p> <p>&nbsp;&nbsp; &bull; Avoid standing, sitting or parking near the base of the sand cliffs.</p> <p>&nbsp;&nbsp; &bull; Supervise children at all times</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "category": "Announcement",
+      "start_date": "2025-03-29",
+      "start_effective_date": "2025-03-28",
+      "end_date": "2026-03-28",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
         }
       ]
     }
