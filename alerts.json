@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 194,
-    "script_run_time": "2025-04-14 10:10:47"
+    "alerts_count": 193,
+    "script_run_time": "2025-04-15 10:09:58"
   },
   "alerts": [
     {
@@ -631,24 +631,6 @@
           "id": "148484",
           "name": "Mount Lewis National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-lewis"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure: Manjal Jimalji (Devils Thumb) walking track, Daintree National Park",
-      "alert_id": "23656",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23656",
-      "description": "The Manjal Jimalji (Devils Thumb) walking track is closed for the wet season.",
-      "details": "<p>The Manjal Jimalji (Devils Thumb) walking track is closed for the wet season.</p> <p>During this period a track realignment and maintenance will be carried out on the lower section of the track.</p> <p>The track is anticipated to reopen on Tuesday 15 April 2025, subject to track and weather conditions.</p> <p>Please monitor this park alert for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-11",
-      "start_effective_date": "2024-11-27",
-      "end_date": "2025-04-14",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
         }
       ]
     },
@@ -1472,11 +1454,11 @@
       "alert_id": "24680",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24680",
       "description": "The wet season closure for the Palmer Goldfield Resources Reserve has been extended due to continued wet weather.",
-      "details": "<p>The wet season closure for the Palmer Goldfield Resources Reserve has been extended due to continued wet weather.</p> <p>It is anticipated to reopen Friday 18 April 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>The wet season closure for the Palmer Goldfield Resources Reserve has been extended due to continued wet weather.</p> <p>It is anticipated to reopen Thursday 1 May 2025, subject to road and weather conditions.</p> <p>For visitors with an existing camping booking up until and including Wednesday 30 April 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-07",
+      "start_date": "2025-04-15",
       "start_effective_date": "2024-11-15",
-      "end_date": "2025-04-17",
+      "end_date": "2025-04-30",
       "parks": [
         {
           "id": "149489",
@@ -2819,24 +2801,6 @@
       ]
     },
     {
-      "title": "Partial opening with caution: Bowling Green Bay National Park",
-      "alert_id": "25095",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25095",
-      "description": "Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.",
-      "details": "<p>Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.</p> <p><strong>Open areas</strong></p> <ul> <li>Cape Cleveland section including Cocoa Creek camping area; Salmon Creek camping area and Cape Cleveland remote bush camp.</li> </ul> <p><strong>Closed areas</strong></p> <p>Due to the impacts of prolonged heavy rainfall the following areas in Bowling Green Bay National Park <strong>remain closed for your safety:</strong></p> <ul> <li><strong>Mount Elliot section (Alligator Creek)</strong>, which includes Alligator Creek day-use area; Alligator Creek walk; Alligator Creek lookout; Cockatoo Creek trail,&nbsp;Alligator Falls trails, Cockatoo Creek camping area, Alligator Falls camping area and Mount Elliot remote bush camp.</li> <li><strong>Bowling Green Bay section</strong>, Barratta Creek camping area</li> </ul> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Rangers are monitoring conditions and closed areas will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bowling Green Bay National Park on the department&rsquo;s website for updated information.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-04-11",
-      "start_effective_date": "2025-03-19",
-      "end_date": "2025-04-15",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
       "title": "Severe weather damage - Parklands Conservation Park",
       "alert_id": "25096",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25096",
@@ -3043,9 +3007,9 @@
       "description": "As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-03",
+      "start_date": "2025-04-15",
       "start_effective_date": "2025-03-25",
-      "end_date": "2025-04-18",
+      "end_date": "2025-05-02",
       "parks": [
         {
           "id": "149497",
@@ -3341,11 +3305,11 @@
       "alert_id": "25151",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25151",
       "description": "The recent heavy rainfall and flooding has impacted the caves and walking tracks at Chillagoe-Mungana National Park. Please see below for further details:",
-      "details": "<p>The recent heavy rainfall and flooding has impacted the caves and walking tracks at Chillagoe-Mungana National Park. Please see below for further details:</p> <h3>The following visitor facilities are closed (anticipated to reopen on Thursday 17 April 2025, subject to weather conditions):</h3> <p><strong>Ranger-guided cave tours</strong></p> <ul> <li>Donna Cave</li> <li>Royal Arch Cave</li> </ul> <ul> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Balancing Rock car park to Royal Arch car park (Royal Arch track)</li> <li>Donna Cave car park to Balancing Rock car park walking track&nbsp;</li> </ul> <h3>The following visitor facilities are&nbsp;open:</h3> <p><strong>Ranger guided cave tours</strong></p> <ul> <li>Trezkinn cave - 9am, 11am and 1.30pm daily.</li> </ul> <p><strong>Self-guided cave tours</strong></p> <ul> <li>The Archways</li> <li>Pompeii Cave</li> <li>Bauhinia Cave</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Balancing Rock walking track</li> <li>Chillagoe Smelters</li> </ul> <p>For any questions, enquiries or bookings please phone The Hub on (07) 4094 7111.</p>",
+      "details": "<p>The recent heavy rainfall and flooding has impacted the caves and walking tracks at Chillagoe-Mungana National Park. Please see below for further details:</p> <h3>The following visitor facilities are closed (anticipated to reopen on Friday 25 April 2025, subject to weather conditions):</h3> <p><strong>Ranger-guided cave tours</strong></p> <ul> <li>Donna Cave</li> </ul> <ul> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Balancing Rock car park to Royal Arch car park (Royal Arch track)</li> </ul> <h3>The following visitor facilities are&nbsp;open:</h3> <p><strong>Ranger guided cave tours</strong></p> <ul> <li>Trezkinn cave&nbsp;</li> <li>Royal Arch Cave</li> </ul> <p><strong>Self-guided cave tours</strong></p> <ul> <li>The Archways</li> <li>Pompeii Cave</li> <li>Bauhinia Cave</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Balancing Rock walking track</li> <li>Donna Cave car park to Balancing Rock car park walking track</li> <li>Chillagoe Smelters</li> </ul> <p>For any questions, enquiries or bookings please phone The Hub on (07) 4094 7111.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-01",
+      "start_date": "2025-04-15",
       "start_effective_date": "2025-04-01",
-      "end_date": "2025-04-17",
+      "end_date": "2025-04-24",
       "parks": [
         {
           "id": "148876",
@@ -3845,24 +3809,6 @@
       ]
     },
     {
-      "title": "Wet weather access Mount Moffatt, Carnarvon National Park",
-      "alert_id": "25193",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25193",
-      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li>The High Country Drive (including Rotary Shelter Shed Campground, Top Shelter Shed and Mahogany Forest).</li> <li>The Top Moffatt access road (including the Top Moffatt Campground).</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-11",
-      "start_effective_date": "2025-04-11",
-      "end_date": "2025-04-14",
-      "parks": [
-        {
-          "id": "151343",
-          "name": "Mount Moffatt, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-mount-moffatt"
-        }
-      ]
-    },
-    {
       "title": "Pest management control program Powrunna State Forest",
       "alert_id": "25194",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25194",
@@ -3918,6 +3864,42 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Eli Creek Exposed Sand Dunes",
+      "alert_id": "25198",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25198",
+      "description": "Exposed sand dunes and sand cliffs at Eli creek are unstable and collapse without warning, causing serious injury or death.",
+      "details": "<p>Exposed sand dunes and sand cliffs at Eli creek are unstable and collapse without warning, causing serious injury or death.</p> <p><strong>Access to the sand cliffs is prohibited.</strong></p> <p><strong>For your safety and to avoid injury:</strong></p> <ul> <li>Never climb or dig into sand dunes or sand cliffs.</li> <li>Do not dig deep holes that may collapse.&nbsp;</li> <li>Do not jump, slide or dive into the creek.</li> <li>Supervise children within arm&rsquo;s reach at all times.</li> </ul> <p><strong>&nbsp;</strong></p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-04-15",
+      "start_effective_date": "2025-04-14",
+      "end_date": "2025-04-28",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Partial opening with caution: Bowling Green Bay National Park",
+      "alert_id": "25199",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25199",
+      "description": "Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.",
+      "details": "<p>Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.</p> <p><strong>Open areas</strong></p> <ul> <li>Cape Cleveland section including Cocoa Creek camping area; Salmon Creek camping area and Cape Cleveland remote bush camp.</li> </ul> <p><strong>Closed areas</strong></p> <p>Due to the impacts of prolonged heavy rainfall the following areas in Bowling Green Bay National Park remain closed for your safety.</p> <ul> <li>Mount Elliot section (Alligator Creek), which includes Alligator Creek day-use area; Alligator Creek walk; Alligator Creek lookout; Cockatoo Creek trail;&nbsp;&nbsp;Alligator Falls trail;&nbsp;Cockatoo Creek camping area;&nbsp;&nbsp;Alligator Falls camping area and Mount Elliot remote bush camp.</li> <li>Bowling Green Bay section, Barratta Creek camping area</li> </ul> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Rangers are monitoring conditions and closed areas will reopen when conditions are considered safe.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bowling Green Bay National Park on the department&rsquo;s website for updated information.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2025-04-15",
+      "start_effective_date": "2025-04-15",
+      "end_date": "2025-04-17",
+      "parks": [
+        {
+          "id": "149433",
+          "name": "Bowling Green Bay National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
         }
       ]
     }
