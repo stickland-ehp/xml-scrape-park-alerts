@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 193,
-    "script_run_time": "2025-04-17 10:10:02"
+    "alerts_count": 188,
+    "script_run_time": "2025-04-18 10:09:27"
   },
   "alerts": [
     {
@@ -1898,24 +1898,6 @@
       ]
     },
     {
-      "title": "Wet season closure: Noah Beach camping area, Cape Tribulation, Daintree National Park (CYPAL)",
-      "alert_id": "24787",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24787",
-      "description": "Noah Beach camping area is closed for the wet season. It is anticipated to reopen Friday 18 April 2025, subject to weather and road conditions.",
-      "details": "<p>Noah Beach camping area is closed for the wet season. It is anticipated to reopen Friday 18 April 2025, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-12-20",
-      "start_effective_date": "2024-12-20",
-      "end_date": "2025-04-17",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Range View Camp and Dawes Range road temporarily closed - Bulburin National Park",
       "alert_id": "24799",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24799",
@@ -3070,24 +3052,6 @@
       ]
     },
     {
-      "title": "Wangetti Trail : Temporary closure - Macalister Range National Park",
-      "alert_id": "25134",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25134",
-      "description": "Wangetti Trail closure due to weather impacts",
-      "details": "<p>Wangetti Trail closure due to weather impacts</p> <p>Wangetti Trail maintenance is currently being undertaken by a works contractor.</p> <p>The Trail will reopen when works are complete and conditions are considered safe.</p> <p>Please observe any signage, barriers and directions from rangers or trail contractors. Do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-14",
-      "start_effective_date": "2025-03-28",
-      "end_date": "2025-04-17",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
       "title": "Exposed sand cliff and dune landslide danger",
       "alert_id": "25139",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25139",
@@ -3356,24 +3320,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Road closures throughout Lockyer National Park",
-      "alert_id": "25163",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25163",
-      "description": "Following TC Alfred and continued heavy rainfall, road closures throughout Lockyer National Park remain in place while rangers conduct maintenance and repairs.",
-      "details": "<p>Following TC Alfred and continued heavy rainfall, road closures throughout Lockyer National Park remain in place while rangers conduct maintenance and repairs.</p> <p>Closures are primarily in the northern section of the Park, in the vicinity of Redbank Gully Rd,</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-03",
-      "start_effective_date": "2025-04-03",
-      "end_date": "2025-04-17",
-      "parks": [
-        {
-          "id": "148287",
-          "name": "Lockyer National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lockyer"
         }
       ]
     },
@@ -3714,24 +3660,6 @@
       ]
     },
     {
-      "title": "Pest management control program Powrunna State Forest",
-      "alert_id": "25194",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25194",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Powrunna State Forest from 12-17 April 2025 (weather permitting) as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Powrunna State Forest from 12-17 April 2025 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with the Powrunna State Forest pest management plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp;</p> <p>As a result, the Powrunna State Forest is temporarily closed for the duration of the pest management program.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-11",
-      "start_effective_date": "2025-04-12",
-      "end_date": "2025-04-17",
-      "parks": [
-        {
-          "id": "322436",
-          "name": "Powrunna State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Magnetic Island walking trail network: Changes to Route 2",
       "alert_id": "25195",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25195",
@@ -3846,29 +3774,6 @@
           "id": "151379",
           "name": "Thorsborne Trail, Hinchinbrook Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "25202",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25202",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.</p> <p>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected.</p> <p>Water levels can change rapidly in Josephine Creek.</p> <p>For your safety, do not enter the water.</p> <p>The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-16",
-      "start_effective_date": "2025-04-16",
-      "end_date": "2025-04-17",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
         }
       ]
     },
