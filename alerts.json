@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 188,
-    "script_run_time": "2025-04-18 10:09:27"
+    "alerts_count": 187,
+    "script_run_time": "2025-04-19 10:08:36"
   },
   "alerts": [
     {
@@ -2016,24 +2016,6 @@
       ]
     },
     {
-      "title": "Harvesting operations - Yarraman State Forest",
-      "alert_id": "24851",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24851",
-      "description": "HQ Plantations will be harvesting commercial Araucaria (Hoop Pine) in Yarraman State Forest until 18 April (weather permitting).",
-      "details": "<p>HQ Plantations will be harvesting commercial Araucaria (Hoop Pine) in Yarraman State Forest until 18 April (weather permitting).</p> <p>Rogers day-use area will be closed for the duration of this harvesting.</p> <p>For further information, please contact <a href=\"https://www.hqplantations.com.au/contact\">HQPlantations</a> at <a href=\"mailto:information@hqplantations.com.au\">information@hqplantations.com.au</a> or phone <a href=\"tel:+61748374100\">+61 7 4837 4100</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-31",
-      "start_effective_date": "2025-01-16",
-      "end_date": "2025-04-18",
-      "parks": [
-        {
-          "id": "148095",
-          "name": "Yarraman State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/yarraman"
-        }
-      ]
-    },
-    {
       "title": "Thorsborne Trail changing to hiking seasons model",
       "alert_id": "24856",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24856",
@@ -2725,24 +2707,6 @@
           "id": "150189",
           "name": "Glass House Mountains National Park",
           "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Bladensburg National Park",
-      "alert_id": "25093",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25093",
-      "description": "As a result of high rainfall across the park and more rain forecasted, Bladensburg National Park is closed to all park visitors.",
-      "details": "<p>As a result of high rainfall across the park and more rain forecasted, Bladensburg National Park is closed to all park visitors.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>&nbsp;All parts of Bladensburg National Park</li> </ul> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-01",
-      "start_effective_date": "2025-03-18",
-      "end_date": "2025-04-18",
-      "parks": [
-        {
-          "id": "148408",
-          "name": "Bladensburg National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bladensburg"
         }
       ]
     },
@@ -3602,6 +3566,29 @@
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Very large high tides and severe weather erosion",
+      "alert_id": "25188",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25188",
+      "description": "Visitors to Cooloola and Inskip Recreation Areas over the upcoming Easter holiday and ANZAC long weekend period, be aware of the following safety hazards:",
+      "details": "<p>Visitors to Cooloola and Inskip Recreation Areas over the upcoming Easter holiday and ANZAC long weekend period, be aware of the following safety hazards:</p> <ul> <li>Following recent severe weather events, sections of sand dunes and sand cliffs along Teewah Beach have sustained erosion and landslides, making the beach impassable in sections. Driving on Teewah Beach within 2 hours either side of high tide should be avoided.</li> <li>Exposed beaches in Cooloola and Inskip Recreation Areas are expecting very large high tides over the Easter holiday and ANZAC long weekend period 5-27 April 2025. Driving on Teewah Beach within 2 hours either side of high tide should be avoided.</li> <li>The combination of large swells and high tides is likely to cause beach erosion. Beach conditions are expected to continually change and may deteriorate making some sections of the beach unsuitable for driving. Beach hazards such as sand depressions, washouts, fallen trees, exposed coffee rock and debris including logs may occur as a result.</li> <li>Beach access points and campsite access may sustain some erosion creating steep drop-offs. Drivers should slow down, stop and check access conditions before deciding if it is safe to traverse. Campers along exposed beach areas are urged to ensure camps are set up well above the high tide level and in designated beach camping areas.</li> <li>Following recent severe weather events, a section of the Double Island Point Lighthouse walking track is temporarily closed from &#39;Pages Hut&#39;&nbsp;to the Lighthouse, due to severe erosion. An alternative route is in place, please refer to the map displayed on the closure signs, and follow the route indicated.</li> </ul> <p>Observe all signage, barriers and directions from rangers.</p> <p>Your safety is our concern, but your responsibility.</p> <p>&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2025-04-19",
+      "start_effective_date": "2025-04-05",
+      "end_date": "2025-04-27",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
         }
       ]
     },
