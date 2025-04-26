@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 195,
-    "script_run_time": "2025-04-25 10:10:06"
+    "alerts_count": 190,
+    "script_run_time": "2025-04-26 10:08:20"
   },
   "alerts": [
     {
@@ -3134,60 +3134,6 @@
       ]
     },
     {
-      "title": "Anzac Day Closure",
-      "alert_id": "25156",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25156",
-      "description": "Walkabout Creek Discovery Centre's Visitor Centre and Caf will be closed for Anzac Day.",
-      "details": "<p>Walkabout Creek Discovery Centre's Visitor Centre and Caf will be closed for Anzac Day.</p> <p>The closure impacts the wildlife centre and caf&eacute;. The day-use areas remain accessible to the public, except where further restrictions are indicated through signage and park alerts. Thank you for your understanding. Business operations will resume as normal from the 26th of April, 2025.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-22",
-      "start_effective_date": "2025-04-25",
-      "end_date": "2025-04-25",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure of Red Cedar Day Use Area Toilet Facilities",
-      "alert_id": "25159",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25159",
-      "description": "Red Cedar Day Use Area toilet facilities are currently closed awaiting rectification works being undertaken. Closest toilet facilities are Maiala Day Use area at Mt Glorious or Billies Bay at lake Wivenhoe.",
-      "details": "<p>Red Cedar Day Use Area toilet facilities are currently closed awaiting rectification works being undertaken. Closest toilet facilities are Maiala Day Use area at Mt Glorious or Billies Bay at lake Wivenhoe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-02",
-      "start_effective_date": "2025-04-02",
-      "end_date": "2025-04-25",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Anzac Day Closure",
-      "alert_id": "25165",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25165",
-      "description": "David Fleay Wildlife Park will be closed for Anzac Day",
-      "details": "<p>David Fleay Wildlife Park will be closed for Anzac Day</p> <p>David Fleay Wildlife Park and its cafe will be closed to the public on Friday 25 April 2025 for Anzac Day. David Fleay Wildlife Park and its cafe will reopen to the public on Saturday 26 April 2025.&nbsp;&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-03",
-      "start_effective_date": "2025-04-25",
-      "end_date": "2025-04-25",
-      "parks": [
-        {
-          "id": "148540",
-          "name": "David Fleay Wildlife Park",
-          "url": "https://parks.desi.qld.gov.au/parks/david-fleay"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track and camping area closure: Goldfield trail, Wooroonooran National Park",
       "alert_id": "25167",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25167",
@@ -3317,24 +3263,6 @@
       "start_date": "2025-04-04",
       "start_effective_date": "2025-04-11",
       "end_date": "2025-11-30",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Temporary construction works: Dubuji Boardwalk, Cape Tribulation section, Daintree National Park (CYPAL)",
-      "alert_id": "25175",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25175",
-      "description": "Construction works will be undertaken on the Dubuji Boardwalk from 7 April to 25 April 2025 (dates inclusive). The boardwalk will remain open to the public, please see below for access information during this time:",
-      "details": "<p>Construction works will be undertaken on the Dubuji Boardwalk from 7 April to 25 April 2025 (dates inclusive). The boardwalk will remain open to the public, please see below for access information during this time:</p> <ul> <li>From 7 April to 10 April &ndash; all boardwalk access points will be accessible.</li> <li>From 11 April to 30 November - The main boardwalk access will be closed to the public however the boardwalk can be accessed via a link from Myall Beach track and completed as a return walk (see separate park alert for further information on this).</li> </ul>",
-      "category": "Announcement",
-      "start_date": "2025-04-04",
-      "start_effective_date": "2025-04-07",
-      "end_date": "2025-04-25",
       "parks": [
         {
           "id": "148131",
@@ -3652,24 +3580,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Sky Window Lookout, Eungella National Park",
-      "alert_id": "25207",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25207",
-      "description": "Visitors are advised that the Sky Window Lookout situated along the Sky Window circuit will be temporarily closed while maintenance repairs are undertaken on the viewing platform.",
-      "details": "<p>Visitors are advised that the Sky Window Lookout situated along the Sky Window circuit will be temporarily closed while maintenance repairs are undertaken on the viewing platform.</p> <p>The remainder of the Sky Window Circuit will remain open to the public, including the Range View lookout.&nbsp;</p> <p>For your safety, obey on-site closure signs and directions from Rangers and do not enter any closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-22",
-      "start_effective_date": "2025-04-22",
-      "end_date": "2025-04-25",
-      "parks": [
-        {
-          "id": "148295",
-          "name": "Eungella National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to flooding impacts: Bladensburg National Park",
       "alert_id": "25208",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25208",
@@ -3774,24 +3684,6 @@
           "id": "148388",
           "name": "Joseph Banks Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/joseph-banks"
-        }
-      ]
-    },
-    {
-      "title": "Good Night Scrub - Planned Burn",
-      "alert_id": "25214",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25214",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Good Night Scrub National Park from 23rd of April 2025  25th of April 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Good Night Scrub National Park from 23rd of April 2025  25th of April 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.&nbsp; This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>As a result, smoke may be seen in the vicinity of Good Night Scrub NP including Coringa, Wateranga, Morganville, St Anges and Doughboy areas.&nbsp;</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. Visitors and residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-04-23",
-      "start_effective_date": "2025-04-23",
-      "end_date": "2025-04-25",
-      "parks": [
-        {
-          "id": "149437",
-          "name": "Good Night Scrub National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/good-night-scrub"
         }
       ]
     },
@@ -3936,6 +3828,29 @@
           "id": "148864",
           "name": "Carnarvon Gorge, Carnarvon National Park",
           "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Kondalilla Falls section closed due to damage from flash flooding",
+      "alert_id": "25223",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25223",
+      "description": "All footbridges at Picnic Creek and Kondalilla Falls circuits severely damaged by recent flash flooding event",
+      "details": "<p>All footbridges at Picnic Creek and Kondalilla Falls circuits severely damaged by recent flash flooding event</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-04-26",
+      "start_effective_date": "2025-04-26",
+      "end_date": "2025-05-09",
+      "parks": [
+        {
+          "id": "148243",
+          "name": "Kondalilla National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kondalilla"
+        },
+        {
+          "id": "152831",
+          "name": "Sunshine Coast Hinterland Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-sunshine-coast"
         }
       ]
     }
