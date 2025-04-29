@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 194,
-    "script_run_time": "2025-04-28 11:01:22"
+    "alerts_count": 192,
+    "script_run_time": "2025-04-29 10:10:27"
   },
   "alerts": [
     {
@@ -1614,49 +1614,6 @@
       ]
     },
     {
-      "title": "Wet season safety information - significant stream rises: Wooroonooran National Park",
-      "alert_id": "24731",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24731",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Wooroonooran National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Wooroonooran National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.</p> <p>At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.&nbsp;</p> <p>Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> <li>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</li> </ul>",
-      "category": "Announcement",
-      "start_date": "2025-03-31",
-      "start_effective_date": "2025-03-31",
-      "end_date": "2025-04-28",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "148428",
-          "name": "Bartle Frere trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bartle-frere"
-        },
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        },
-        {
-          "id": "151396",
-          "name": "Palmerston (Doongan), Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-palmerston"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closure: Wheel of Fire walking track, Finch Hatton Gorge, Eungella National Park",
       "alert_id": "24733",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24733",
@@ -1671,42 +1628,6 @@
           "id": "148295",
           "name": "Eungella National Park",
           "url": "https://parks.desi.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information - significant stream rises: Cardwell Forest Drive and Five Mile day-use area",
-      "alert_id": "24739",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24739",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2025-03-25",
-      "start_effective_date": "2024-12-03",
-      "end_date": "2025-04-28",
-      "parks": [
-        {
-          "id": "150212",
-          "name": "Cardwell State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information: significant stream rises, Murray Falls, Girramay National Park",
-      "alert_id": "24741",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24741",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2025-03-25",
-      "start_effective_date": "2024-12-03",
-      "end_date": "2025-04-28",
-      "parks": [
-        {
-          "id": "148127",
-          "name": "Girramay National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girramay"
         }
       ]
     },
@@ -1730,57 +1651,6 @@
           "id": "148757",
           "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information - significant stream rises: Tully Gorge National Park",
-      "alert_id": "24743",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24743",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Tully Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises throughout Tully Gorge National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.</p> <p>At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>.</li> <li><a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">If its flooded forget it</a>.</li> <li>Keep clear of soft road edges to avoid getting bogged.</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</li> <li>Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</li> </ul>",
-      "category": "Announcement",
-      "start_date": "2025-03-31",
-      "start_effective_date": "2025-03-31",
-      "end_date": "2025-04-28",
-      "parks": [
-        {
-          "id": "147987",
-          "name": "Tully section, Tully Gorge National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tully"
-        },
-        {
-          "id": "148460",
-          "name": "Tully Gorge National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tully-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Wet season safety information: significant stream rises at Stony Creek swimming hole, Wallaman Falls, Girringun National Park",
-      "alert_id": "24745",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24745",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park. During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water. Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</p> <p>Prior to travel, visitors are advised to check local road conditions at:</p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads&nbsp;</a>&nbsp;or call 13 19 40</li> <li><a href=\"https://disaster.hinchinbrook.qld.gov.au/\">Hinchinbrook Shire Council</a>&nbsp;emergency management dashboard.</li> </ul> <p><br /> Read more on your <a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care\">safety during extreme weather events</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2025-03-28",
-      "start_effective_date": "2024-12-03",
-      "end_date": "2025-04-28",
-      "parks": [
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wallaman"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     },
@@ -1888,12 +1758,12 @@
       "title": "Temporary closure due to wet conditions: White Mountains National Park",
       "alert_id": "24823",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24823",
-      "description": "White Mountains National Park is temporarily closed due to wet conditions until Friday 2 May 2025 when conditions will be reviewed.",
-      "details": "<p>White Mountains National Park is temporarily closed due to wet conditions until Friday 2 May 2025 when conditions will be reviewed.</p> <p>For your safety, follow any on-site signs and directions from Rangers and do not enter closed areas.</p> <p>Campers with existing camping bookings during this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "White Mountains National Park is temporarily closed due to wet conditions until Friday 30 May 2025 when conditions will be reviewed.",
+      "details": "<p>White Mountains National Park is temporarily closed due to wet conditions until Friday 30 May 2025 when conditions will be reviewed.</p> <p>For your safety, follow any on-site signs and directions from Rangers and do not enter closed areas.</p> <p>Campers with existing camping bookings during this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-02",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-01-06",
-      "end_date": "2025-05-02",
+      "end_date": "2025-05-30",
       "parks": [
         {
           "id": "148796",
@@ -2001,10 +1871,10 @@
       "title": "Pest control program at Teewah Beach camping area, Freshwater camping area, and Kings Bore Loop",
       "alert_id": "24870",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24870",
-      "description": "QPWS rangers and contractors will be conducting a feral animal control program from 28 April through to 02 May 2025 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.",
-      "details": "<p>QPWS rangers and contractors will be conducting a feral animal control program from 28 April through to 02 May 2025 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.</p> <p>For visitor safety,&nbsp;<strong>Teewah Beach and Freshwater</strong>&nbsp;<strong>camping areas </strong>will be <strong>temporarily closed from</strong> <strong>11:00am on</strong> <strong>Monday 28 April and will reopen at 2:00pm Friday 02 May 2025.</strong></p> <p>The Kings Bore Loop, including the<strong> Eastern Firebreak, Western Firebreak, Pettigrews Road, and Kings Bore Road&nbsp;</strong>will also be <strong>temporarily closed from</strong> <strong>11:00am on</strong> <strong>Monday 28 April and will reopen at 2:00pm Friday 02 May 2025.</strong></p> <p>For visitors with camping and vehicle permits for closed sites, you will need to modify or cancel your booking and apply for a refund via your online account at&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers, and do not enter closed areas.</p>",
+      "description": "QPWS rangers and contractors will be conducting a feral animal control program from 28 April through to Thursday 01 May 2025 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.",
+      "details": "<p>QPWS rangers and contractors will be conducting a feral animal control program from 28 April through to Thursday 01 May 2025 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.</p> <p>For visitor safety,&nbsp;<strong>Teewah Beach and Freshwater</strong>&nbsp;<strong>camping areas </strong>will be <strong>temporarily closed from</strong> <strong>11:00am on</strong> <strong>Monday 28 April and will reopen at 2:00pm Thursday 01 May 2025.</strong></p> <p>The Kings Bore Loop, including the<strong> Eastern Firebreak, Western Firebreak, Pettigrews Road, and Kings Bore Road&nbsp;</strong>will also be <strong>temporarily closed from</strong> <strong>11:00am on</strong> <strong>Monday 28 April and will reopen at 2:00pm Thursday 01 May 2025.</strong></p> <p>For visitors with camping and vehicle permits for closed sites, you will need to modify or cancel your booking and apply for a refund via your online account at&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers, and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-28",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-04-28",
       "end_date": "2025-05-01",
       "parks": [
@@ -2109,9 +1979,9 @@
       "description": "Due to ongoing rain impacting northern and central Queensland and associated wet conditions, Blackbraes National Park is temporarily closed until further notice.",
       "details": "<p>Due to ongoing rain impacting northern and central Queensland and associated wet conditions, Blackbraes National Park is temporarily closed until further notice.</p> <p>The temporary closure takes in all visitor facilities including camping areas (Emu Swamp and Moonstone camping areas) and vehicle access tracks.</p> <p>For your safety, observe all signs, barriers and directions from Rangers and do not enter closed areas. Remember, if it&#39;s flooded, forget it.</p> <p>Campers with existing camping bookings during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-02",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-02-10",
-      "end_date": "2025-05-02",
+      "end_date": "2025-05-30",
       "parks": [
         {
           "id": "148604",
@@ -2388,13 +2258,13 @@
       ]
     },
     {
-      "title": "Planned works for Kookaburra Cave",
+      "title": "Planned works for Kookaburra Cave and walks departing Sandstone day-use area",
       "alert_id": "25022",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25022",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10 March 2025-7 April 2025 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10 March 2025-7 April 2025 (weather permitting).</p> <p>The following area is closed for the duration of the maintenance program.&nbsp;&nbsp;</p> <ul> <li> <p>Kookaburra Cave.</p> </li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10 March up to and including 2 June 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Mount Moffatt, Carnarvon National Park from 10 March up to and including 2 June 2025 (weather permitting).</p> <p>The following areas are closed for the duration of the maintenance program.&nbsp;&nbsp;</p> <ul> <li> <p>Kookaburra Cave,</p> </li> <li> <p>Sandstone day-use area,&nbsp;and the</p> </li> <li> <p>Maranoa River circuit walk including The Chimneys,&nbsp;The Tombs and The Looking Glass.</p> </li> </ul> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-12",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-03-10",
       "end_date": "2025-06-02",
       "parks": [
@@ -3083,29 +2953,6 @@
       ]
     },
     {
-      "title": "Severe Weather Alert Carbrook Wetlands Conservation Park Temporary Closure",
-      "alert_id": "25154",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25154",
-      "description": "Due to Ex-Tropical Cyclone Alfred brining strong winds and substantial rainfall, Carbrook Conservation Park is temporarily closed. There are multiple trees down and hazardous trees in the park. Rangers are currently working on having these trees removed.",
-      "details": "<p>Due to Ex-Tropical Cyclone Alfred brining strong winds and substantial rainfall, Carbrook Conservation Park is temporarily closed. There are multiple trees down and hazardous trees in the park. Rangers are currently working on having these trees removed.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-11",
-      "start_effective_date": "2025-04-11",
-      "end_date": "2025-04-28",
-      "parks": [
-        {
-          "id": "322906",
-          "name": "Carbrook Wetlands Conservation Park 2",
-          "url": ""
-        },
-        {
-          "id": "322931",
-          "name": "Carbrook Wetlands Conservation Park 1",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track and camping area closure: Goldfield trail, Wooroonooran National Park",
       "alert_id": "25167",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25167",
@@ -3322,9 +3169,9 @@
       "description": "As a result of the recent extended wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
       "details": "<p>As a result of the recent extended wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-17",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-04-10",
-      "end_date": "2025-04-30",
+      "end_date": "2025-05-16",
       "parks": [
         {
           "id": "148199",
@@ -3417,9 +3264,9 @@
       "description": "Due to a recent crocodile sighting in Alligator Creek visitors are advised to always Be Crocwise in Croc Country to reduce your risk.",
       "details": "<p>Due to a recent crocodile sighting in Alligator Creek visitors are advised to always Be Crocwise in Croc Country to reduce your risk.</p> <p>Crocodiles can be found in all waterways including rivers, creeks, beaches, oceans and waterholes in <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise/where-is-croc-country\"><strong>Croc Country</strong></a>, and are highly mobile at any time, especially after heavy rain and floods.</p> <p>Being <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\"><strong>Crocwise</strong></a> starts with three simple steps:</p> <ul> <li>Keep out of the water.</li> <li>Stay more than 5 metres away from the water&rsquo;s edge.</li> <li>Keep a sturdy object between yourself and the water.</li> </ul> <p>Find out more about how you can reduce your risk and stay safe when enjoying the great outdoors. <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\"><strong>Be Crocwise.</strong></a></p> <p>Report all <a href=\"https://environment.desi.qld.gov.au/wildlife/animals/living-with/crocodiles/sightings\">crocodile sightings</a> as soon as possible.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Other",
-      "start_date": "2025-04-16",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-04-15",
-      "end_date": "2025-05-02",
+      "end_date": "2025-05-16",
       "parks": [
         {
           "id": "149433",
@@ -3453,9 +3300,9 @@
       "description": "Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.",
       "details": "<p>Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.</p> <p><strong>Open areas</strong></p> <ul> <li>Cape Cleveland section including Cocoa Creek camping area; Salmon Creek camping area and Cape Cleveland remote bush camp.</li> </ul> <p><strong>Partially open areas</strong></p> <p>Some areas of Mount Elliot section (Alligator Creek) are&nbsp;<strong>partially open with caution</strong>.</p> <ul> <li>Alligator Creek day-use area; Alligator Creek walk; Alligator Creek lookout; Cockatoo Creek trail and Cockatoo Creek camping area.</li> </ul> <p>Due to a recent crocodile sighting in Alligator Creek, visitors are advised to always <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Be Crocwise in Croc Country</a> to reduce your risk.&nbsp;</p> <p><strong>Closed areas</strong></p> <p>Due to the impacts of prolonged heavy rainfall the following areas in Bowling Green Bay National Park <strong>remain closed for your safety</strong>.</p> <ul> <li>Mount Elliot section (upper reaches of Alligator Creek): Alligator Falls trail;&nbsp;Alligator Falls camping area and Mount Elliot remote bush camp.</li> <li>Bowling Green Bay section: Barratta Creek camping area.</li> </ul> <p>Rangers are monitoring conditions and closed areas will reopen when conditions are considered safe.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bowling Green Bay National Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-04-16",
+      "start_date": "2025-04-29",
       "start_effective_date": "2025-04-15",
-      "end_date": "2025-05-02",
+      "end_date": "2025-05-16",
       "parks": [
         {
           "id": "149433",
@@ -3908,6 +3755,78 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Figtree Campsite Closed due to Amenities Maintenance",
+      "alert_id": "25231",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25231",
+      "description": "Figtree campsite within Cooloola National Park will be closed for amenities maintenance. Works are scheduled to commence on 29 April and are expected to be completed by 2 May.",
+      "details": "<p>Figtree campsite within Cooloola National Park will be closed for amenities maintenance. Works are scheduled to commence on 29 April and are expected to be completed by 2 May.</p> <p>The following area will be closed during the maintenance</p> <ul> <li>Figtree Campsite</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-04-29",
+      "start_effective_date": "2025-04-29",
+      "end_date": "2025-05-02",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Coominglah State Forest",
+      "alert_id": "25232",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25232",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 April 2025 to 01 May 2025, as part of the fire management program for Coominglah State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 April 2025 to 01 May 2025, as part of the fire management program for Coominglah State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Hurdle Gully Road and Coles Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Hurdle Gully Road and Hurdle Gully Lookout. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Announcement",
+      "start_date": "2025-04-29",
+      "start_effective_date": "2025-04-30",
+      "end_date": "2025-05-01",
+      "parks": [
+        {
+          "id": "148319",
+          "name": "Coominglah State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/coominglah"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Kroombit Tops National Park",
+      "alert_id": "25233",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25233",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 5th May 2025 to 30th June 2025, as part of the fire management program for Kroombit Tops National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 5th May 2025 to 30th June 2025, as part of the fire management program for Kroombit Tops National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Tableland Rd and the Razorback Track. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Please note: Kroombit Tops National Park is currently fully closed until the 17th May 2025 due to pest control activities, which may be running concurrently with the plan burn program.</p> <p>During the planned burns, these areas may be temporarily closed to public access outside of the current full park closure:</p> <ul> <li>&nbsp;Tableland Road</li> <li>Razorback Track</li> </ul> <p>Smoke may be seen in the vicinity of Tableland Road &amp; The Razorback Track. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-04-29",
+      "start_effective_date": "2025-05-05",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Mount Scoria Conservation Park",
+      "alert_id": "25234",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25234",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 7th May 2025 to the 16th of May 2025, as part of the fire management program for Mount Scoria Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 7th May 2025 to the 16th of May 2025, as part of the fire management program for Mount Scoria Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Mount Scoria Conservation Park and Thangool/Lookerbie Rd. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Thangool/Lookerbie Road &amp; Mount Scoria Day use area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-04-29",
+      "start_effective_date": "2025-05-05",
+      "end_date": "2025-05-16",
+      "parks": [
+        {
+          "id": "148588",
+          "name": "Mount Scoria Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-scoria"
         }
       ]
     }
