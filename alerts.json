@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 188,
-    "script_run_time": "2025-05-01 10:09:40"
+    "alerts_count": 187,
+    "script_run_time": "2025-05-02 10:09:51"
   },
   "alerts": [
     {
@@ -630,6 +630,24 @@
       ]
     },
     {
+      "title": "Temporary closure: Madigan Road and Gillies lookout, Danbulla National Park",
+      "alert_id": "23745",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/23745",
+      "description": "Due to heavy rain at the beginning of 2024, the road leading to Gillies lookout (Madigan Road) has become unsafe to traverse. This road is closed until further notice for public safety and to protect from degradation and erosion.",
+      "details": "<p>Due to heavy rain at the beginning of 2024, the road leading to Gillies lookout (Madigan Road) has become unsafe to traverse. This road is closed until further notice for public safety and to protect from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-02",
+      "start_effective_date": "2024-01-30",
+      "end_date": "2025-05-31",
+      "parks": [
+        {
+          "id": "148055",
+          "name": "Danbulla National Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/danbulla"
+        }
+      ]
+    },
+    {
       "title": "Cooloola Wilderness Trail - No pedestrian access across Kin Kin Creek",
       "alert_id": "23753",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23753",
@@ -730,24 +748,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to flooding: Keatings Lagoon Conservation Park",
-      "alert_id": "23914",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/23914",
-      "description": "Keatings Lagoon Conservation Park, including the walking track and day-use area, is currently closed due to flooding.",
-      "details": "<p>Keatings Lagoon Conservation Park, including the walking track and day-use area, is currently closed due to flooding.</p> <p>The&nbsp;park will re-open to visitors when it is safe.</p> <p>Please monitor this park alert for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-29",
-      "start_effective_date": "2025-01-29",
-      "end_date": "2025-05-01",
-      "parks": [
-        {
-          "id": "148844",
-          "name": "Keatings Lagoon Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/keatings-lagoon"
-        }
-      ]
-    },
-    {
       "title": "Portable toilets are mandatory for Pelican Bay and Dorrigo South camping areas",
       "alert_id": "23923",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23923",
@@ -780,24 +780,6 @@
           "id": "148215",
           "name": "Crediton State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/crediton"
-        }
-      ]
-    },
-    {
-      "title": "On water signage in Great Sandy Marine Park",
-      "alert_id": "24066",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24066",
-      "description": "Great Sandy Marine Park users are advised not to rely on the presence of signage to inform them of their location within the various zones of the marine park. Marine Park zones are defined solely by GPS boundary locations, and users must refer to Schedule 1 and 2 of the Marine Parks (Great Sandy) Zoning Plan 2024 for precise boundary descriptions. There are reliable digital platforms which provide all-round coverage and information of all the zones and designated areas for users. eg. Electronic chart systems used on GPS chart plotters, electronic chart Apps used for navigation on smart devices, including Marine SQ App and the QLD Fisheries 2.0 App. Legacy advisory signs installed since 2006 are progressively phased out and updating of the Great Sandy Marine Park printed and web materials will continue to occur progressively.",
-      "details": "<p>Great Sandy Marine Park users are advised not to rely on the presence of signage to inform them of their location within the various zones of the marine park. Marine Park zones are defined solely by GPS boundary locations, and users must refer to Schedule 1 and 2 of the Marine Parks (Great Sandy) Zoning Plan 2024 for precise boundary descriptions. There are reliable digital platforms which provide all-round coverage and information of all the zones and designated areas for users. eg. Electronic chart systems used on GPS chart plotters, electronic chart Apps used for navigation on smart devices, including Marine SQ App and the QLD Fisheries 2.0 App. Legacy advisory signs installed since 2006 are progressively phased out and updating of the Great Sandy Marine Park printed and web materials will continue to occur progressively.</p> <p>Information on the marine park can be found at <a href=\"https://parks.desi.qld.gov.au/parks/great-sandy-marine/maps-resources\">Maps and Resoures | Great Sandy Marine Park | Parks and forests&nbsp;| Department of Environment, Science and Innovation, Queensland Government (desi.qld.gov.au)</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2024-05-22",
-      "start_effective_date": "2024-05-21",
-      "end_date": "2025-05-01",
-      "parks": [
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
         }
       ]
     },
@@ -1020,24 +1002,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Seasonal Shorebird Closure Areas",
-      "alert_id": "24369",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24369",
-      "description": "The Seasonal Shorebird Closure Areas at Moon Point, Maaroom, Boonooroo, and Cooloola are in place each year from: (a) 1st March to 30th April; and (b) 1st September to 31st October. Unauthorised entry and domestic animals are prohibited during these times. The area is closed to minimise the harm or distress to shorebirds caused, directly or indirectly, by human activity.",
-      "details": "<p>The Seasonal Shorebird Closure Areas at Moon Point, Maaroom, Boonooroo, and Cooloola are in place each year from: (a) 1st March to 30th April; and (b) 1st September to 31st October. Unauthorised entry and domestic animals are prohibited during these times. The area is closed to minimise the harm or distress to shorebirds caused, directly or indirectly, by human activity.</p> <p>Penalties, including on-the-spot fines apply.</p> <p>More Information on the locations of these areas can be found at www.qld.gov.au/GSMPzoning .&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2024-08-08",
-      "start_effective_date": "2024-08-12",
-      "end_date": "2025-05-01",
-      "parks": [
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
         }
       ]
     },
@@ -1791,29 +1755,6 @@
       ]
     },
     {
-      "title": "Pest control program at Teewah Beach camping area, Freshwater camping area, and Kings Bore Loop",
-      "alert_id": "24870",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24870",
-      "description": "QPWS rangers and contractors will be conducting a feral animal control program from 28 April through to Thursday 01 May 2025 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.",
-      "details": "<p>QPWS rangers and contractors will be conducting a feral animal control program from 28 April through to Thursday 01 May 2025 within the Teewah Beach and Freshwater camping areas. Firearms, poisons or traps may be in use.</p> <p>For visitor safety,&nbsp;<strong>Teewah Beach and Freshwater</strong>&nbsp;<strong>camping areas </strong>will be <strong>temporarily closed from</strong> <strong>11:00am on</strong> <strong>Monday 28 April and will reopen at 2:00pm Thursday 01 May 2025.</strong></p> <p>The Kings Bore Loop, including the<strong> Eastern Firebreak, Western Firebreak, Pettigrews Road, and Kings Bore Road&nbsp;</strong>will also be <strong>temporarily closed from</strong> <strong>11:00am on</strong> <strong>Monday 28 April and will reopen at 2:00pm Thursday 01 May 2025.</strong></p> <p>For visitors with camping and vehicle permits for closed sites, you will need to modify or cancel your booking and apply for a refund via your online account at&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers, and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-29",
-      "start_effective_date": "2025-04-28",
-      "end_date": "2025-05-01",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Broadwater, Abergowrie State Forest",
       "alert_id": "24900",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24900",
@@ -2359,9 +2300,9 @@
       "description": "As a result of the recent severe weather conditions some trails have had some impacts but are still open for use. Visitors and riders are advised to use caution when using these trails.",
       "details": "<p>As a result of the recent severe weather conditions some trails have had some impacts but are still open for use. Visitors and riders are advised to use caution when using these trails.</p> <p>Repairs to these trails will be carried out in the coming months.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p>",
       "category": "Announcement",
-      "start_date": "2025-04-22",
+      "start_date": "2025-05-02",
       "start_effective_date": "2025-03-19",
-      "end_date": "2025-05-02",
+      "end_date": "2025-05-16",
       "parks": [
         {
           "id": "148035",
@@ -2681,24 +2622,6 @@
       ]
     },
     {
-      "title": "Planned maintenance works - Mt Tinbeerwah lookout - Tewantin National Park",
-      "alert_id": "25145",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25145",
-      "description": "Planned maintenance works for Mt Tinbeerwah lookout facility will take place from Wednesday 9 April to Friday 2 May 2025. The lookout facility will be closed to all public access during this construction period. The walking track, carpark and toilet facilities will remain open.",
-      "details": "<p>Planned maintenance works for Mt Tinbeerwah lookout facility will take place from Wednesday 9 April to Friday 2 May 2025. The lookout facility will be closed to all public access during this construction period. The walking track, carpark and toilet facilities will remain open.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-22",
-      "start_effective_date": "2025-04-07",
-      "end_date": "2025-05-02",
-      "parks": [
-        {
-          "id": "148107",
-          "name": "Tewantin National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tewantin"
-        }
-      ]
-    },
-    {
       "title": "Jabiru Great Walk Access Track and Jabiru Hikers Camp Closure",
       "alert_id": "25146",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25146",
@@ -2722,15 +2645,33 @@
       ]
     },
     {
-      "title": "Upcoming temporary closure for roadworks: visitor facilities, Blackdown Tableland National Park",
+      "title": "Temporary closure: Musgravea track, Djiru National Park",
+      "alert_id": "25147",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25147",
+      "description": "The Musgravea track in Dijru National Park is temporarily closed. This closure is due to a severely damaged causeway from recent and ongoing weather events, making it extremely dangerous for visitors to use safely. Queensland Parks and Wildlife Service will assess and conduct remedial works when water levels recede.",
+      "details": "<p>The Musgravea track in Dijru National Park is temporarily closed. This closure is due to a severely damaged causeway from recent and ongoing weather events, making it extremely dangerous for visitors to use safely. Queensland Parks and Wildlife Service will assess and conduct remedial works when water levels recede.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-02",
+      "start_effective_date": "2025-04-01",
+      "end_date": "2025-06-02",
+      "parks": [
+        {
+          "id": "147950",
+          "name": "Djiru National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/djiru"
+        }
+      ]
+    },
+    {
+      "title": "Roadworks closure",
       "alert_id": "25148",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25148",
       "description": "Visitors are advised that Queensland Parks and Wildlife Service (QPWS) will be undertaking necessary roadworks in Blackdown Tableland National Park.",
-      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service (QPWS) will be undertaking necessary roadworks in Blackdown Tableland National Park.</p> <p>The roadworks will begin at the national park boundary and move through to Munall camping area. For safety reasons, and due to the narrow, winding access road, it will be unsafe for visitor vehicles to be in the vicinity of the roadworks. Consequently, access to the visitor facilities within Blackdown Tableland National Park will be unavailable during this period.</p> <p>The roadworks are expected to begin after the Easter and Anzac Day 2025 holiday periods. <strong>Exact start date and length of closure will be communicated once it is known.</strong></p> <p>QPWS apologises for any inconvenience this temporary closure may provide, and we thank you for your support. Improved road infrastructure at Blackdown Tableland National Park will allow for an enhanced visitor experience.</p>",
-      "category": "Announcement",
-      "start_date": "2025-04-01",
-      "start_effective_date": "2025-04-01",
-      "end_date": "2025-05-30",
+      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service (QPWS) will be undertaking necessary roadworks in Blackdown Tableland National Park.</p> <p>The roadworks will begin at the national park boundary and move through to Munall camping area. For safety reasons, and due to the narrow, winding access road, it will be unsafe for visitor vehicles to be in the vicinity of the roadworks. Consequently, access to Blackdown Tableland National Park will be unavailable during this period.</p> <p>The roadworks are expected to begin 12 May and continue to 18 July, 2025.</p> <p>QPWS apologises for any inconvenience this temporary closure may provide, and we thank you for your support. Improved road infrastructure at Blackdown Tableland National Park will allow for an enhanced visitor experience.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-01",
+      "start_effective_date": "2025-05-01",
+      "end_date": "2025-07-18",
       "parks": [
         {
           "id": "150224",
@@ -3187,9 +3128,9 @@
       "description": "Local heavy rainfall at Crediton State Forest has caused a significant stream rise of Broken River at The Diggings camping area. The rock causeway across Hazelwood Road at The Diggings is experiencing elevated water levels and potential altered underlying substrate.",
       "details": "<p>Local heavy rainfall at Crediton State Forest has caused a significant stream rise of Broken River at The Diggings camping area. The rock causeway across Hazelwood Road at The Diggings is experiencing elevated water levels and potential altered underlying substrate.</p> <p>A recent incident has occurred that resulted in a vehicle stranding on the causeway.&nbsp;Please remember <a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">if it is flooded forget it.</a></p> <p><strong>Available road access to The Diggings camping area </strong>(refer to:&nbsp;<a href=\"https://parks.desi.qld.gov.au/parks/crediton#park-maps\">Crediton State Forest interactive map</a>)</p> <p><strong>From the North: via The Diggings Road and Hazelwood Road North</strong></p> <ul> <li>The western side of The Diggings day use and camping area is accessible via Hazelwood Road North.</li> </ul> <p><strong>From the South: via Eungella Dam Road, &nbsp;Hazelwood Road South and the Hazelwood Quary</strong></p> <ul> <li>The eastern side of The Diggings camping area is accessible via Hazelwood Road South and the Hazelwood Quary.</li> </ul> <p>Please be aware the road from the south is trafficable by high clearance 4WD only,&nbsp; and will add additional travel time to your journey.</p> <p>Alternative camping options are available at the Mackay Regional Council, <a href=\"https://www.mackayisaac.com/crediton-hall-campground\">Crediton Hall campground</a> located on the Crediton Loop Road.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Crediton State Forest on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Announcement",
-      "start_date": "2025-04-28",
+      "start_date": "2025-05-01",
       "start_effective_date": "2025-04-17",
-      "end_date": "2025-05-02",
+      "end_date": "2025-05-09",
       "parks": [
         {
           "id": "148215",
@@ -3421,9 +3362,9 @@
       "description": "Footbridge on the Kondalilla Falls Lower Circuit severely damaged by recent flash flooding event",
       "details": "<p>Footbridge on the Kondalilla Falls Lower Circuit severely damaged by recent flash flooding event</p> <p>Sections of Kondalilla National Park remain open:</p> <ul> <li>Picnic Creek Circuit</li> <li>Kondalilla Falls Lookout</li> <li>Kondalilla Falls Rock Pools</li> <li>Access to Flat Rock and the Sunshine Coast Hinterland Great Walk!</li> </ul> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-01",
+      "start_date": "2025-05-02",
       "start_effective_date": "2025-04-26",
-      "end_date": "2025-05-09",
+      "end_date": "2025-08-09",
       "parks": [
         {
           "id": "148243",
@@ -3492,13 +3433,13 @@
       ]
     },
     {
-      "title": "Enoggera Reservoir - Temporarily closed to paddle craft",
+      "title": "Enoggera Reservoir - Reopens to paddle craft",
       "alert_id": "25228",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25228",
-      "description": "Enoggera Reservoir is temporarily closed to all on water-based activities including paddle craft. This is due to the recent significant rainfall into the catchment and resulting water flowing over the spillway",
-      "details": "<p>Enoggera Reservoir is temporarily closed to all on water-based activities including paddle craft. This is due to the recent significant rainfall into the catchment and resulting water flowing over the spillway</p> <p>Please adhere to all saftey signage and directions provided from Rangers.<br /> Thank you for your patience during this necessary closure.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-28",
+      "description": "Enoggera Reservoir will reopen to paddle craft from Saturday 3rd of May 2025",
+      "details": "<p>Enoggera Reservoir will reopen to paddle craft from Saturday 3rd of May 2025</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-02",
       "start_effective_date": "2025-04-28",
       "end_date": "2025-05-05",
       "parks": [
@@ -3531,35 +3472,17 @@
       "title": "Planned Burn  Block 8",
       "alert_id": "25230",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25230",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within a remote section of Cooloola Recreation Area from Tuesday 29 April to Friday 02 May 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within a remote section of Cooloola Recreation Area from Tuesday 29 April to Friday 02 May 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Cooloola Way, Rainbow Beach Road, and in the townships of Rainbow Beach, Cooloola Cove and Tin Can Bay areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas or exclusion zones.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within a remote section of Cooloola Recreation Area from Monday 05 May to Thursday 08 May 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result of the planned burn, Neebs Waterhole camping area will be closed during this time.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within a remote section of Cooloola Recreation Area from Monday 05 May to Thursday 08 May 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result of the planned burn, Neebs Waterhole camping area will be closed during this time.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Cooloola Way, Rainbow Beach Road, and in the townships of Rainbow Beach, Cooloola Cove and Tin Can Bay areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas or exclusion zones.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-04-28",
-      "start_effective_date": "2025-04-29",
-      "end_date": "2025-05-02",
+      "start_date": "2025-05-02",
+      "start_effective_date": "2025-05-05",
+      "end_date": "2025-05-08",
       "parks": [
         {
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Coominglah State Forest",
-      "alert_id": "25232",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25232",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 April 2025 to 01 May 2025, as part of the fire management program for Coominglah State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 30 April 2025 to 01 May 2025, as part of the fire management program for Coominglah State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Hurdle Gully Road and Coles Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Hurdle Gully Road and Hurdle Gully Lookout. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "category": "Announcement",
-      "start_date": "2025-04-29",
-      "start_effective_date": "2025-04-30",
-      "end_date": "2025-05-01",
-      "parks": [
-        {
-          "id": "148319",
-          "name": "Coominglah State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/coominglah"
         }
       ]
     },
@@ -3654,24 +3577,6 @@
       ]
     },
     {
-      "title": "Planned burn",
-      "alert_id": "25238",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25238",
-      "description": "QPWS will be conducting a planned burn within the park. The burn will be complete by the afternoon.",
-      "details": "<p>QPWS will be conducting a planned burn within the park. The burn will be complete by the afternoon.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-04-30",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-05-01",
-      "parks": [
-        {
-          "id": "322932",
-          "name": "Limestone Creek Conservation Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Brampton Island National Park",
       "alert_id": "25239",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25239",
@@ -3704,6 +3609,24 @@
           "id": "148572",
           "name": "Mount Coolum National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-coolum"
+        }
+      ]
+    },
+    {
+      "title": "Planned road maintenance: Cape Hillsborough National Park",
+      "alert_id": "25241",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25241",
+      "description": "Queensland Parks &amp; Wildlife Service wish to advise scheduled road maintenance will be undertaken along Smalleys Beach Road, Hidden Valley Road and the Diversity Boardwalk carpark within Cape Hillsborough National Park, between 6 - 9 May 2025.",
+      "details": "<p>Queensland Parks &amp; Wildlife Service wish to advise scheduled road maintenance will be undertaken along Smalleys Beach Road, Hidden Valley Road and the Diversity Boardwalk carpark within Cape Hillsborough National Park, between 6 - 9 May 2025.</p> <p>Access will be restricted during this time. For your safety please proceed with caution along all park access roads and heed all safety signage and access advice.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-01",
+      "start_effective_date": "2025-05-06",
+      "end_date": "2025-05-09",
+      "parks": [
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
         }
       ]
     },
@@ -3760,6 +3683,60 @@
           "id": "148179",
           "name": "Kirrama National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kirrama"
+        }
+      ]
+    },
+    {
+      "title": "Whitehaven Day use &amp; South End look out Oilling",
+      "alert_id": "25248",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25248",
+      "description": "QPWS Rangers Will be Oiling timber at Whitehaven beach Day use area &amp; South End look out. Some infrastructure will be closed while Olling is in progress. The toilets will remain open weather permitting, please observe any barriers, signage and follow Rangers directions. If you have any Questions, please call 0460 349 640 Thank you for your cooperation",
+      "details": "<p>QPWS Rangers Will be Oiling timber at Whitehaven beach Day use area &amp; South End look out. Some infrastructure will be closed while Olling is in progress. The toilets will remain open weather permitting, please observe any barriers, signage and follow Rangers directions. If you have any Questions, please call 0460 349 640 Thank you for your cooperation</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-02",
+      "start_effective_date": "2025-05-07",
+      "end_date": "2025-05-09",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn on Curtis Island",
+      "alert_id": "25249",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25249",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) on Curtis Island from Friday 9th May 2025 to Monday 12th May 2025",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) on Curtis Island from Friday 9th May 2025 to Monday 12th May 2025</p> <p>Fire will be ignited with an aircraft.</p> <p>Firefighters and machinery may be working along roadsides on the Northern side of Graham Creek.</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen North of Graham Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-05-02",
+      "start_effective_date": "2025-05-09",
+      "end_date": "2025-05-12",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Turtle Street Campground Closed",
+      "alert_id": "25250",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25250",
+      "description": "Turtle Street campground is closed due to high tides and beach erosion following the recent weather events. High tides and wave action have undermined beach access ramps, therefore campground is closed until repairs are carried out.",
+      "details": "<p>Turtle Street campground is closed due to high tides and beach erosion following the recent weather events. High tides and wave action have undermined beach access ramps, therefore campground is closed until repairs are carried out.</p> <p>Alternative camping is available at Joey Lees campground.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.</p> <p>Refunds can be applied for via your online account at qld.gov.au/camping.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-02",
+      "start_effective_date": "2025-05-02",
+      "end_date": "2025-06-02",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
         }
       ]
     }
