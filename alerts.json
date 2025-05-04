@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2025-05-03 10:08:32"
+    "alerts_count": 184,
+    "script_run_time": "2025-05-04 10:08:39"
   },
   "alerts": [
     {
@@ -3601,6 +3601,24 @@
           "id": "148179",
           "name": "Kirrama National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kirrama"
+        }
+      ]
+    },
+    {
+      "title": "Construction works: Eliot Falls boardwalk, Apudthama National Park (CYPAL)",
+      "alert_id": "25246",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25246",
+      "description": "From Sunday 1 June to Monday 30 June 2025 (dates inclusive), construction works will be undertaken along Eliot Falls boardwalk.",
+      "details": "<p>From Sunday 1 June to Monday 30 June 2025 (dates inclusive), construction works will be undertaken along Eliot Falls boardwalk.</p> <p>During this period sections of the boardwalk will be closed and detours will be in place to allow access to Eliot Falls and Twin Falls.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-04",
+      "start_effective_date": "2025-06-01",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "148892",
+          "name": "Jardine River National Park, Heathlands Resources Reserve and Jardine River Resources Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/jardine-river"
         }
       ]
     },
