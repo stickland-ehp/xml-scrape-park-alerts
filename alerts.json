@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 191,
-    "script_run_time": "2025-05-07 10:10:14"
+    "alerts_count": 201,
+    "script_run_time": "2025-05-08 10:10:33"
   },
   "alerts": [
     {
@@ -2453,6 +2453,47 @@
       ]
     },
     {
+      "title": "Wet weather access closure - Mariala and Hell Hole Gorge National Parks",
+      "alert_id": "25116",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25116",
+      "description": "As a result of wet weather, Mariala National Park and Hell Hole Gorge National Park are closed until declared safe.",
+      "details": "<p>As a result of wet weather, Mariala National Park and Hell Hole Gorge National Park are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-03-25",
+      "end_date": "2025-05-30",
+      "parks": [
+        {
+          "id": "148788",
+          "name": "Hell Hole Gorge National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hell-hole-gorge"
+        },
+        {
+          "id": "148039",
+          "name": "Mariala National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mariala"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather accessCulgoa Floodplain National Park",
+      "alert_id": "25117",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25117",
+      "description": "As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.",
+      "details": "<p>As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-03-25",
+      "end_date": "2025-05-23",
+      "parks": [
+        {
+          "id": "149497",
+          "name": "Culgoa Floodplain National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/culgoa-floodplain"
+        }
+      ]
+    },
+    {
       "title": "Notice of extended baiting program for feral pigs and foxes on Conway National Park, Dryander National Park, Dryander State Forest and Dryander Forest Reserve",
       "alert_id": "25119",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25119",
@@ -2761,9 +2802,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) are continuing to undertake repairs to Main Beach camping area following Ex-Tropical Cyclone Alfred.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) are continuing to undertake repairs to Main Beach camping area following Ex-Tropical Cyclone Alfred.</p> <p><strong>The Main Beach camping area will be partially re-opened from Saturday 12 April 2025.&nbsp; There will be reduced capacity which may have an impact on existing bookings.</strong></p> <p>Main Beach camping area capacity will be reduced for a period of time to allow for the sand to recover, before safe access can be reinstated to the affected sites.</p> <p>Observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>For enquiries and camping bookings at Main Beach, please visit Minjerribah Camping on <a href=\"https://urldefense.com/v3/__http:/www.minjerribahcamping.com.au__;!!PUY2jUP3Fp7oEg!GizJVMCT9kvod2xOBHdl0XGXPT6SivysQErXT56WrZsrhMgoL0hl1r29LwFIelTs406zJv3dRWaWKwxiu6OW7igPTr7tOH-K8dJ3d0Qz4O8m581sshc$\">www.minjerribahcamping.com.au</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-04-16",
+      "start_date": "2025-05-08",
       "start_effective_date": "2025-04-04",
-      "end_date": "2025-05-09",
+      "end_date": "2025-08-09",
       "parks": [
         {
           "id": "148315",
@@ -3387,24 +3428,6 @@
       ]
     },
     {
-      "title": "Planned burn - Bulburin National Park",
-      "alert_id": "25235",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25235",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn (weather permitting) between 30 April 2025 and 7 May 2025 as part of the QPWS fire program for Bulburin National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn (weather permitting) between 30 April 2025 and 7 May 2025 as part of the QPWS fire program for Bulburin National Park.</p> <p>Smoke may be seen in the vicinity of Miriam Vale, Many Peaks and Buliyan. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-04-30",
-      "start_effective_date": "2025-04-30",
-      "end_date": "2025-05-07",
-      "parks": [
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bulburin"
-        }
-      ]
-    },
-    {
       "title": "Cassowary safety message: Murray Falls section, Girramay National Park",
       "alert_id": "25237",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25237",
@@ -3652,9 +3675,9 @@
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.</p> <p>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected.</p> <p>Water levels can change rapidly in Josephine Creek.</p> <p>For your safety, do not enter the water.</p> <p>The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
       "category": "Other",
-      "start_date": "2025-05-06",
+      "start_date": "2025-05-08",
       "start_effective_date": "2025-05-06",
-      "end_date": "2025-05-07",
+      "end_date": "2025-05-11",
       "parks": [
         {
           "id": "154596",
@@ -3718,6 +3741,24 @@
       ]
     },
     {
+      "title": "Severe Weather damage Charlie Moreland Camping area.",
+      "alert_id": "25256",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25256",
+      "description": "As a result of severe weather damage, Charlie Moreland Camping Area in Imbil State Forest is closed until declared safe.",
+      "details": "<p>As a result of severe weather damage, Charlie Moreland Camping Area in Imbil State Forest is closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>&nbsp;</p> <p>Closed areas: Charlie Moreland Camping Area</p> <p>&middot;&nbsp;All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-07",
+      "end_date": "2025-06-04",
+      "parks": [
+        {
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/imbil"
+        }
+      ]
+    },
+    {
       "title": "Bunyaville Track &amp; Tree Discovery Track Closures",
       "alert_id": "25257",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25257",
@@ -3732,6 +3773,24 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
+      "title": "Severe Weather damage Booloumba 4 Camping area.",
+      "alert_id": "25258",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25258",
+      "description": "As a result of severe weather damage, Booloumba 4 Camping Area in Conondale National Park is closed until declared safe.",
+      "details": "<p>As a result of severe weather damage, Booloumba 4 Camping Area in Conondale National Park is closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>&nbsp;</p> <p>Closed areas:&nbsp; Booloumba 4 Camping Area</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-07",
+      "end_date": "2025-05-20",
+      "parks": [
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conondale"
         }
       ]
     },
@@ -3824,6 +3883,152 @@
           "id": "149405",
           "name": "Mount Etna Caves National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program Barakula State Forest, Western Creek State Forest, Boondandilla State Forest and Yelarbon State Forest.",
+      "alert_id": "25263",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25263",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Barakula State Forest, Western Creek State Forest, Boondandilla State Forest and Yelarbon State Forest from 16th May to 23rd May 2025 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Barakula State Forest, Western Creek State Forest, Boondandilla State Forest and Yelarbon State Forest from 16th May to 23rd May 2025 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with the approved pest management plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp;</p> <p>As a result the following areas are temporarily closed for the duration of the pest management program:</p> <ul> <li>Dogwood Creek camping area</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-16",
+      "end_date": "2025-05-23",
+      "parks": [
+        {
+          "id": "322415",
+          "name": "Yelarbon State Forest",
+          "url": ""
+        },
+        {
+          "id": "322423",
+          "name": "Boondandilla State Forest",
+          "url": ""
+        },
+        {
+          "id": "322348",
+          "name": "Western Creek State Forest",
+          "url": ""
+        },
+        {
+          "id": "148143",
+          "name": "Barakula State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/barakula"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn  Woody Island (Tooliwah)",
+      "alert_id": "25264",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25264",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July 2025, as part of the fire management program for Woody Island (Tooliwah) located in the Great Sandy Marine Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July 2025, as part of the fire management program for Woody Island (Tooliwah) located in the Great Sandy Marine Park.</p> <p>During the planned burn the following areas will be closed to public access:</p> <ul> <li>Jeffries Beach camping area</li> <li>Middle Bluff precinct including: <ul> <li>gas shed</li> <li>lighthouse</li> <li>walking track</li> </ul> </li> </ul> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Navigate vessels with additional caution if visibility is affected and be aware of firefighters working in the area.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor park alerts on the department&#39;s website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-09",
+      "end_date": "2025-07-31",
+      "parks": [
+        {
+          "id": "149461",
+          "name": "Great Sandy Marine Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
+        },
+        {
+          "id": "149369",
+          "name": "Woody Island (Tooliewah) and Little Woody Island (Walangoora), Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-woody"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn  Stewart Island",
+      "alert_id": "25265",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25265",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July, as part of the fire management program for Stewart Island located in the Sandy Straits.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July, as part of the fire management program for Stewart Island located in the Sandy Straits.</p> <p>During the planned burn the following area will be closed to public access:</p> <ul> <li>&nbsp;Stewart Island (excluding freehold land).</li> </ul> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Navigate vessels with additional caution if visibility is affected and be aware of firefighters working in the area.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-09",
+      "end_date": "2025-07-31",
+      "parks": [
+        {
+          "id": "149461",
+          "name": "Great Sandy Marine Park",
+          "url": "https://parks.desi.qld.gov.au/parks/great-sandy-marine"
+        }
+      ]
+    },
+    {
+      "title": "Pest Management Operations Mt Tibrogargan Section",
+      "alert_id": "25266",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25266",
+      "description": "Pest management operations are being undertaken on the 9th of May 2025 around Mt Tibrogargan and Mt Tibberoowuccum.",
+      "details": "<p>Pest management operations are being undertaken on the 9th of May 2025 around Mt Tibrogargan and Mt Tibberoowuccum.</p> <p>Firearms may be in use during pest management control operation</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-08",
+      "end_date": "2025-05-09",
+      "parks": [
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Hazardous Tree Removal Daisy Hill Conservation Park.",
+      "alert_id": "25268",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25268",
+      "description": "Contractors will be felling a large dead tree in the Daisy Hill Conservation Park. During this time, the Ring Road will be closed to all vehicles. The Daisy Hill Koala Centre will be closed.",
+      "details": "<p>Contractors will be felling a large dead tree in the Daisy Hill Conservation Park. During this time, the Ring Road will be closed to all vehicles. The Daisy Hill Koala Centre will be closed.</p> <p>Vistors can use carpark 8 to access the Daisy Hill Day Use Area .&nbsp; &nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-12",
+      "end_date": "2025-05-12",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve",
+      "alert_id": "25269",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25269",
+      "description": "From Monday 12 May 2025 to Friday 13 June 2025 (dates inclusive), Cyclone Jasper recovery maintenance works will be undertaken at Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve.",
+      "details": "<p>From Monday 12 May 2025 to Friday 13 June 2025 (dates inclusive), Cyclone Jasper recovery maintenance works will be undertaken at Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve.</p> <p>During this period, machinery will be operating within the affected areas. Visitors are reminded to observe all signage, barriers and directions from contractors and rangers.</p> <p>Please see below for further details of works:</p> <ul> <li><strong>Trail 12&nbsp;</strong>&ndash;<strong>&nbsp;</strong>will be closed from Monday 12 May 2025 to Monday 2 June 2025 (dates inclusive)</li> <li><strong>Car park</strong> &ndash; will be partially closed from Monday 2 June 2025 to Friday 13 June 2025 (dates inclusive) with reduced parking for this period.</li> </ul> <p>Timeframes are weather depended. Please monitor this park alert for up-to-date information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-12",
+      "end_date": "2025-06-13",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Ka Ka Mundi section, Carnarvon National Park",
+      "alert_id": "25270",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25270",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Sunday 11 May to Friday 16 May 2025, as part of the fire management program for Ka Ka Mundi section, Carnarvon National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Sunday 11 May to Friday 16 May 2025, as part of the fire management program for Ka Ka Mundi section, Carnarvon National Park.</p> <p>Firefighters and machinery may be working in the vicinity. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn&nbsp;Bunbuncundoo Springs camping area is <strong>closed to public access.</strong>&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-05-08",
+      "start_effective_date": "2025-05-11",
+      "end_date": "2025-05-16",
+      "parks": [
+        {
+          "id": "150244",
+          "name": "Ka Ka Mundi, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-ka-ka-mundi"
         }
       ]
     }
