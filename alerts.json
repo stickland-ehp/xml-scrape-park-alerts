@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 205,
-    "script_run_time": "2025-05-12 10:10:54"
+    "alerts_count": 207,
+    "script_run_time": "2025-05-13 10:10:28"
   },
   "alerts": [
     {
@@ -496,8 +496,8 @@
       "parks": [
         {
           "id": "148231",
-          "name": "Mangkalba (Cedar Bay), Ngalba Bulal National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mangkalba"
+          "name": "Ngalba-bulal National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/ngalba-bulal"
         }
       ]
     },
@@ -1093,13 +1093,13 @@
       ]
     },
     {
-      "title": "Big Bend camping area closed due to works underway",
+      "title": "Big Bend camping area open - repairs complete",
       "alert_id": "24553",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24553",
-      "description": "Big Bend camping area (including the Great Walk site) is closed due to unplanned structural repairs needing to be undertaken on the toilet block.",
-      "details": "<p>Big Bend camping area (including the Great Walk site) is closed due to unplanned structural repairs needing to be undertaken on the toilet block.</p> <p>This Park Alert applies to the Big Bend camping area only. All other sites and walking tracks including Cathedral Cave and Boowinda Gorge remain open.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-03-26",
+      "description": "Following recent structural repairs to the toilet block, Big Bend camping area (including the Great Walk site), is now open.",
+      "details": "<p>Following recent structural repairs to the toilet block, Big Bend camping area (including the Great Walk site), is now open.</p> <p>Visit&nbsp;<a href=\"https://book.parks.qld.gov.au/camping\">https://book.parks.qld.gov.au/camping</a>&nbsp;for bookings.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-13",
       "start_effective_date": "2024-09-29",
       "end_date": "2025-05-20",
       "parks": [
@@ -1390,11 +1390,11 @@
       "alert_id": "24694",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24694",
       "description": "Due to higher than average rainfall across the area, the wet season closure for Princess Hills section of Girringun National Park including Princess Hills camping area has been extended.",
-      "details": "<p>Due to higher than average rainfall across the area, the wet season closure for Princess Hills section of Girringun National Park including Princess Hills camping area has been extended.</p> <p>Please see below for anticipated reopening dates for the&nbsp; camp sites (subject to road and weather conditions).</p> <h3><strong>Princess Hills camp site 1 </strong></h3> <p>Closed up until and including Tuesday 13 May 2025.</p> <p>For visitors with an existing camping booking up until and including Tuesday 13 May 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <h3><strong>Princess Hills camp site 2 </strong></h3> <p>Closed up until and including Tuesday 27 May 2025.</p> <p>For visitors with an existing camping booking up until and including Tuesday 27 May 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Rangers will continue to monitor conditions closely and will open earlier if possible, or extend the closure if rainfall continues to affect access to the area.</p> <p>Please monitor this park alert for up to date information.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "details": "<p>Due to higher than average rainfall across the area, the wet season closure for Princess Hills section of Girringun National Park including Princess Hills camping area has been extended.</p> <p>Please see below for anticipated reopening dates for the&nbsp; camp sites (subject to road and weather conditions).</p> <h3><strong>Princess Hills camp site 1 </strong></h3> <p>Closed up until and including Sunday 18 May 2025.</p> <h3><strong>Princess Hills camp site 2 </strong></h3> <p>Closed up until and including Tuesday 27 May 2025.</p> <p>For visitors with an existing camping booking up until and including Tuesday 27 May 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Rangers will continue to monitor conditions closely and will open earlier if possible, or extend the closure if rainfall continues to affect access to the area.</p> <p>Please monitor this park alert for up to date information.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-01",
+      "start_date": "2025-05-13",
       "start_effective_date": "2024-11-19",
-      "end_date": "2025-05-14",
+      "end_date": "2025-05-18",
       "parks": [
         {
           "id": "148123",
@@ -2246,9 +2246,9 @@
       "description": "As a result of the recent severe weather conditions some trails have had some impacts but are still open for use. Visitors and riders are advised to use caution when using these trails.",
       "details": "<p>As a result of the recent severe weather conditions some trails have had some impacts but are still open for use. Visitors and riders are advised to use caution when using these trails.</p> <p>Repairs to these trails will be carried out in the coming months.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p>",
       "category": "Announcement",
-      "start_date": "2025-05-02",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-03-19",
-      "end_date": "2025-05-16",
+      "end_date": "2025-06-27",
       "parks": [
         {
           "id": "148035",
@@ -2262,11 +2262,11 @@
       "alert_id": "25103",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25103",
       "description": "Due to damage from Ex Tropical Cyclone Alfred, the following roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:",
-      "details": "<p>Due to damage from Ex Tropical Cyclone Alfred, the following roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:</p> <ul> <li>Cornwells Road between Lake Wabby Lookout intersection and Pile Valley Road intersection (No through access between Eastern Beach and Kingfisher Bay)</li> <li>Lake Garawongera Scenic Road&nbsp;to intersection of Bogimbah Road&nbsp;</li> </ul> <p>The following detours are also in place:</p> <ul> <li>Access between Eastern Beach and Kingfisher Bay or Central Station is only via Eurong on the Eurong-Wanggoolba Road&nbsp;to Pile Valley Road</li> <li>Access to Lake Garawongera via Happy Valley Road</li> </ul> <p>Damaging winds and heavy rainfall have caused fallen trees, flooding, landslides, washouts and other hazards.</p> <p>Motorists should exercise caution at all times, and plan to travel at low tide, if safe to do so.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Due to damage from Ex Tropical Cyclone Alfred, the following roads on Kgari (Fraser Island Recreation Area) are temporarily CLOSED until further notice:</p> <ul> <li>Pile Valley intersection and the Northen Road Intersection are closed until further notice due to bridge damage. No through access between the Eastern Beach and Kingfisher Bay Resort via Cornwells Road.</li> <li>Lake Garawongera Scenic Road&nbsp;to intersection of Bogimbah Road&nbsp;</li> </ul> <p>The following detours are also in place:</p> <ul> <li>Access between Eastern Beach and Kingfisher Bay or Central Station is only via Eurong on the Eurong-Wanggoolba Road&nbsp;to Pile Valley Road</li> <li>Access to Lake Garawongera via Happy Valley Road</li> </ul> <p>Damaging winds and heavy rainfall have caused fallen trees, flooding, landslides, washouts and other hazards.</p> <p>Motorists should exercise caution at all times, and plan to travel at low tide, if safe to do so.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-01",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-03-21",
-      "end_date": "2025-05-16",
+      "end_date": "2025-05-30",
       "parks": [
         {
           "id": "148007",
@@ -2528,9 +2528,9 @@
       "description": "Please be advised that Jabiru Great Walk access track and Jabiru hikers camp will be closed due to track damage and water inundation from 31 March 2025 until further notice.",
       "details": "<p>Please be advised that Jabiru Great Walk access track and Jabiru hikers camp will be closed due to track damage and water inundation from 31 March 2025 until further notice.</p> <p>Access to the Great Walk north via Dilli Village will remain open.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-01",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-03-31",
-      "end_date": "2025-05-27",
+      "end_date": "2025-06-30",
       "parks": [
         {
           "id": "148007",
@@ -2563,13 +2563,13 @@
       ]
     },
     {
-      "title": "Upcoming temporary closure for roadworks from Monday 12 May: Blackdown Tableland National Park",
+      "title": "Temporary closure for roadworks from Monday 12 May: Blackdown Tableland National Park",
       "alert_id": "25148",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25148",
-      "description": "Visitors are advised that Queensland Parks and Wildlife Service (QPWS) will be undertaking necessary roadworks in Blackdown Tableland National Park from Monday 12 May to Friday 1 August 2025.",
-      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service (QPWS) will be undertaking necessary roadworks in Blackdown Tableland National Park from Monday 12 May to Friday 1 August 2025.</p> <p>The roadworks will begin at the national park boundary and move through to Munall camping area. For safety reasons, and due to the narrow, winding access road, it will be unsafe for visitor vehicles to be in the vicinity of the roadworks. Consequently, access to Blackdown Tableland National Park will not be available from <strong>Monday 12 May 2025 to Friday 1 August 2025.</strong></p> <p>QPWS apologises for any inconvenience this temporary closure may provide, and we thank you for your support. Improved road infrastructure at Blackdown Tableland National Park will allow for an enhanced visitor experience and we look forward to welcoming visitors back to the national park once it is safe to do so and the roadworks are complete.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-07",
+      "description": "Visitors are advised that Queensland Parks and Wildlife Service (QPWS) are undertaking necessary roadworks in Blackdown Tableland National Park from Monday 12 May to Friday 1 August 2025.",
+      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service (QPWS) are undertaking necessary roadworks in Blackdown Tableland National Park from Monday 12 May to Friday 1 August 2025.</p> <p>The roadworks will begin at the national park boundary and move through to Munall camping area. For safety reasons, and due to the narrow, winding access road, it will be unsafe for visitor vehicles to be in the vicinity of the roadworks. Consequently, access to Blackdown Tableland National Park will not be available from <strong>Monday 12 May 2025 to Friday 1 August 2025.</strong></p> <p>QPWS apologises for any inconvenience this temporary closure may provide, and we thank you for your support.</p> <p>Improved road infrastructure at Blackdown Tableland National Park will allow for an enhanced visitor experience and we look forward to welcoming visitors back to the national park once it is safe to do so and the roadworks are complete.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-05-01",
       "end_date": "2025-07-31",
       "parks": [
@@ -2586,10 +2586,10 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/25150",
       "description": "Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.",
       "details": "<p>Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.</p> <p><strong>Open areas:</strong></p> <ul> <li>Freshwater Lagoon Road</li> <li>Payet&rsquo;s Tower; Pandanus viewing area; Freshwater bird hide and Jacana bird hide</li> <li>Freshwater trail from Freshwater car park to Cape Pallarenda Road trailhead.</li> </ul> <p><strong>Closed areas:</strong></p> <p>All other mountain bike and hiking trails in Townsville Town Common Conservation Park remain closed until damage repair works are completed and conditions are considered safe.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Townsville Town Common Conservation Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-05-07",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-04-01",
-      "end_date": "2025-05-16",
+      "end_date": "2025-05-31",
       "parks": [
         {
           "id": "148311",
@@ -2613,6 +2613,24 @@
           "id": "148564",
           "name": "Munga-Thirri National Park",
           "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Red Cedar Day Use Area Toilet Facilities",
+      "alert_id": "25159",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25159",
+      "description": "Red Cedar Day Use Area toilet facilities are currently closed awaiting rectification works being undertaken. Closest toilet facilities are Maiala Day Use area at Mt Glorious or Billies Bay at lake Wivenhoe.",
+      "details": "<p>Red Cedar Day Use Area toilet facilities are currently closed awaiting rectification works being undertaken. Closest toilet facilities are Maiala Day Use area at Mt Glorious or Billies Bay at lake Wivenhoe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-04-02",
+      "end_date": "2025-05-19",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -2943,12 +2961,12 @@
       "title": "Partial opening with caution: Bowling Green Bay National Park",
       "alert_id": "25199",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25199",
-      "description": "Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.",
-      "details": "<p>Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit conditions on the unsealed roads.</p> <p><strong>Open areas</strong></p> <ul> <li>Cape Cleveland section including Cocoa Creek camping area; Salmon Creek camping area and Cape Cleveland remote bush camp.</li> </ul> <p><strong>Partially open areas</strong></p> <p>Some areas of Mount Elliot section (Alligator Creek) are&nbsp;<strong>partially open with caution</strong>.</p> <ul> <li>Alligator Creek day-use area; Alligator Creek walk; Alligator Creek lookout; Cockatoo Creek trail and Cockatoo Creek camping area.</li> </ul> <p>Due to a recent crocodile sighting in Alligator Creek, visitors are advised to always <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Be Crocwise in Croc Country</a> to reduce your risk.&nbsp;</p> <p><strong>Closed areas</strong></p> <p>Due to the impacts of prolonged heavy rainfall the following areas in Bowling Green Bay National Park <strong>remain closed for your safety</strong>.</p> <ul> <li>Mount Elliot section (upper reaches of Alligator Creek): Alligator Falls trail;&nbsp;Alligator Falls camping area and Mount Elliot remote bush camp.</li> <li>Bowling Green Bay section: Barratta Creek camping area.</li> </ul> <p>Rangers are monitoring conditions and closed areas will reopen when conditions are considered safe.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bowling Green Bay National Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-04-29",
+      "description": "Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from severe weather events and drive to suit conditions on the unsealed roads.",
+      "details": "<p>Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from severe weather events and drive to suit conditions on the unsealed roads.</p> <p><strong>Open areas</strong></p> <ul> <li>Cape Cleveland section including Cocoa Creek camping area; Salmon Creek camping area and Cape Cleveland remote bush camp.</li> </ul> <p><strong>Partially open areas</strong></p> <p>Some areas of Mount Elliot section (Alligator Creek) are&nbsp;<strong>partially open with caution</strong>.</p> <ul> <li>Alligator Creek day-use area; Alligator Creek walk; Alligator Creek lookout; Cockatoo Creek trail and Cockatoo Creek camping area.</li> </ul> <p>Due to a recent crocodile sighting in Alligator Creek, visitors are advised to always <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Be Crocwise in Croc Country</a> to reduce your risk.&nbsp;</p> <p><strong>Closed areas</strong></p> <p>Due to the impacts of prolonged heavy rainfall the following areas in Bowling Green Bay National Park <strong>remain closed for your safety</strong>.</p> <ul> <li>Mount Elliot section (upper reaches of Alligator Creek): Alligator Falls trail;&nbsp;Alligator Falls camping area and Mount Elliot remote bush camp.</li> <li>Bowling Green Bay section: Barratta Creek camping area.</li> </ul> <p>Rangers are monitoring conditions and closed areas will reopen when conditions are considered safe.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bowling Green Bay National Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-04-15",
-      "end_date": "2025-05-16",
+      "end_date": "2025-05-31",
       "parks": [
         {
           "id": "149433",
@@ -3484,24 +3502,6 @@
       ]
     },
     {
-      "title": "Planned burn on Curtis Island",
-      "alert_id": "25249",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25249",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) on Curtis Island from Friday 9th May 2025 to Monday 12th May 2025",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) on Curtis Island from Friday 9th May 2025 to Monday 12th May 2025</p> <p>Fire will be ignited with an aircraft.</p> <p>Firefighters and machinery may be working along roadsides on the Northern side of Graham Creek.</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen North of Graham Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-05-02",
-      "start_effective_date": "2025-05-09",
-      "end_date": "2025-05-12",
-      "parks": [
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
       "title": "Turtle Street Campground Closed",
       "alert_id": "25250",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25250",
@@ -3526,9 +3526,9 @@
       "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.",
       "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.</p> <p>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected.</p> <p>Water levels can change rapidly in Josephine Creek.</p> <p>For your safety, do not enter the water.</p> <p>The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
       "category": "Other",
-      "start_date": "2025-05-12",
+      "start_date": "2025-05-13",
       "start_effective_date": "2025-05-06",
-      "end_date": "2025-05-13",
+      "end_date": "2025-05-14",
       "parks": [
         {
           "id": "154596",
@@ -3794,42 +3794,6 @@
       ]
     },
     {
-      "title": "Planned Burn",
-      "alert_id": "25267",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25267",
-      "description": "QPWS&amp;P will be conducting planned burning at Goodedulla NP from Friday the 9th - Monday 12th May.",
-      "details": "<p>QPWS&amp;P will be conducting planned burning at Goodedulla NP from Friday the 9th - Monday 12th May.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-09",
-      "end_date": "2025-05-12",
-      "parks": [
-        {
-          "id": "148396",
-          "name": "Goodedulla National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/goodedulla"
-        }
-      ]
-    },
-    {
-      "title": "Hazardous Tree Removal Daisy Hill Conservation Park.",
-      "alert_id": "25268",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25268",
-      "description": "Contractors will be felling a large dead tree in the Daisy Hill Conservation Park. During this time, the Ring Road will be closed to all vehicles. The Daisy Hill Koala Centre will be closed.",
-      "details": "<p>Contractors will be felling a large dead tree in the Daisy Hill Conservation Park. During this time, the Ring Road will be closed to all vehicles. The Daisy Hill Koala Centre will be closed.</p> <p>Vistors can use carpark 8 to access the Daisy Hill Day Use Area .&nbsp; &nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-08",
-      "start_effective_date": "2025-05-12",
-      "end_date": "2025-05-12",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure: Atherton Forest Mountain Bike Park, Baldy Mountain Forest Reserve",
       "alert_id": "25269",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25269",
@@ -3890,24 +3854,6 @@
           "id": "149013",
           "name": "Blencoe Falls, Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
-        }
-      ]
-    },
-    {
-      "title": "Northern Beach Access",
-      "alert_id": "25272",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25272",
-      "description": "Please note the Northern Access to Nine Mile Beach is closed due to heavy erosion. It is anticipated the access will be closed to Monday, 12th May while remedial work is conducted.",
-      "details": "<p>Please note the Northern Access to Nine Mile Beach is closed due to heavy erosion. It is anticipated the access will be closed to Monday, 12th May while remedial work is conducted.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-09",
-      "end_date": "2025-05-12",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/byfield"
         }
       ]
     },
@@ -4043,29 +3989,6 @@
       ]
     },
     {
-      "title": "Large tides and ocean swell affecting beach driving",
-      "alert_id": "25280",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25280",
-      "description": "Kgari (Fraser Island) is expecting very large high tides and large ocean swell with sections of beach likely to be impassable at high tide.",
-      "details": "<p>Kgari (Fraser Island) is expecting very large high tides and large ocean swell with sections of beach likely to be impassable at high tide.</p> <p>Motorists driving on open beaches are advised to plan ahead by checking tide times and only travel around <strong>lowest </strong>expected low tides.</p> <p>Beach hazards including sand depressions, washouts, fallen trees, exposed coffee rock and debris including logs may be present.</p> <p>Remember, driving over vegetated dunes is prohibited. On-the-spot fines will be issued for anyone caught damaging the dunes.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-09",
-      "end_date": "2025-05-12",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Planned burn south of Mitchell Springs - Salvator Rosa section, Carnarvon National Park",
       "alert_id": "25281",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25281",
@@ -4111,6 +4034,124 @@
       "start_date": "2025-05-12",
       "start_effective_date": "2025-05-12",
       "end_date": "2025-05-16",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burns: Bowling Green Bay National Park",
+      "alert_id": "25284",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25284",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Wednesday 14 May 2025 until Monday 30 June 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Wednesday 14 May 2025 until Monday 30 June 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.</p> <p>Rangers will be conducting low intensity burns throughout Cape Cleveland section and Mount Elliot section of the national park. For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Mount Elliot remote bush camp and Cape Cleveland remote bush camp are closed through out the period of the planned burns.</p> <p>Smoke may be seen in the vicinity of the Bowling Green Bay National Park from Bruce Highway, Alligator Road and Cape Cleveland Road.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-05-14",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "149433",
+          "name": "Bowling Green Bay National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
+        }
+      ]
+    },
+    {
+      "title": "Daisy Hill Mountain Bike Trails Closed",
+      "alert_id": "25285",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25285",
+      "description": "Daisy Hill Mountain Bikes Trails are currently closed due recent rain events and current predicted rain fall. The trails are soft and sodden and not suitable for riding.",
+      "details": "<p>Daisy Hill Mountain Bikes Trails are currently closed due recent rain events and current predicted rain fall. The trails are soft and sodden and not suitable for riding.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-05-13",
+      "end_date": "2025-06-02",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Park Closure - Deongwar State Forest",
+      "alert_id": "25286",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25286",
+      "description": "Deongwar State Forest will be closed temporarily for the day of the 16/05/25 for pest management activities. The park will be reopened after 5:00pm on the 16/05/25 once activities are completed.",
+      "details": "<p>Deongwar State Forest will be closed temporarily for the day of the 16/05/25 for pest management activities. The park will be reopened after 5:00pm on the 16/05/25 once activities are completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-05-16",
+      "end_date": "2025-05-16",
+      "parks": [
+        {
+          "id": "322682",
+          "name": "Deongwar State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Hann Tableland National Park, Kuranda West Forest Reserve and Kuranda National Park",
+      "alert_id": "25287",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25287",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Hann Tableland National Park, Kuranda West Forest Reserve and Kuranda National Park from Thursday 15 May to Friday 13 June 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Hann Tableland National Park, Kuranda West Forest Reserve and Kuranda National Park from Thursday 15 May to Friday 13 June 2025 (dates inclusive).</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-05-15",
+      "end_date": "2025-06-13",
+      "parks": [
+        {
+          "id": "322285",
+          "name": "Kuranda West Forest Reserve",
+          "url": ""
+        },
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        },
+        {
+          "id": "322892",
+          "name": "Hann Tableland National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: Cape Pallarenda Conservation Park walking tracks and mountain bike trail",
+      "alert_id": "25288",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25288",
+      "description": "The walking tracks and mountain bike trail at Cape Pallarenda Conservation Park has sustained significant damage and erosion due to prolonged heavy rainfall from severe weather events.",
+      "details": "<p>The walking tracks and mountain bike trail at Cape Pallarenda Conservation Park has sustained significant damage and erosion due to prolonged heavy rainfall from severe weather events.</p> <p><strong>For your safety, access remains closed to:</strong></p> <ul> <li>The Forts walk and the Graves circuit walk</li> <li>Shelly Cove trail</li> </ul> <p>Please observe all signage, barriers, access warnings and directions from Rangers and <strong>do not enter closed areas</strong>. QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>We appreciate your patience and understanding with the temporary partial closure.</p> <p>The Cape Pallarenda day-use area is open, with road access available from 6.30am to 6.30pm daily.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> for Cape Pallarenda Conservation Park on the department&rsquo;s website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-05-13",
+      "end_date": "2025-05-31",
+      "parks": [
+        {
+          "id": "148997",
+          "name": "Cape Pallarenda Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cape-pallarenda"
+        }
+      ]
+    },
+    {
+      "title": "Road Closure: Peggs and Chambers Rd, Mount Mee Section, D'Aguilar National Park",
+      "alert_id": "25290",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25290",
+      "description": "Queensland Parks &amp; Wildlife Service wish to advise scheduled road maintenance will be undertaken along Peggs Road and Chambers Road.",
+      "details": "<p>Queensland Parks &amp; Wildlife Service wish to advise scheduled road maintenance will be undertaken along Peggs Road and Chambers Road.</p> <p>Access to the Gantry Day Use Area and the northern end of the park is to occur via Byron Creek Rd, Diana&#39;s Bath Road and A-Break. Caution: A-Break is a relatively steep break requiring a high clearance 4wd to traverse.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-13",
+      "start_effective_date": "2025-05-13",
+      "end_date": "2025-05-30",
       "parks": [
         {
           "id": "148259",
