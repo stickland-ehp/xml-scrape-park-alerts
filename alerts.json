@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 213,
-    "script_run_time": "2025-05-14 10:10:19"
+    "alerts_count": 216,
+    "script_run_time": "2025-05-15 10:10:30"
   },
   "alerts": [
     {
@@ -1845,12 +1845,12 @@
       "title": "Temporary closure due to flooding: Lochern National Park",
       "alert_id": "24958",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24958",
-      "description": "Lochern National Park is temporarily closed until further notice due to impacts from recent flooding events. Rangers are conducting assessments and will monitor the situation. The national park will reopen when it is considered safe to do so.",
-      "details": "<p>Lochern National Park is temporarily closed until further notice due to impacts from recent flooding events. Rangers are conducting assessments and will monitor the situation. The national park will reopen when it is considered safe to do so.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-24",
+      "description": "Lochern National Park is temporarily closed until further notice due to impacts from recent flooding events. Rangers are conducting assessments and will monitor the situation. The national park will reopen 16 May 2025 when it is considered safe to do so.",
+      "details": "<p>Lochern National Park is temporarily closed until further notice due to impacts from recent flooding events. Rangers are conducting assessments and will monitor the situation. The national park will reopen 16 May 2025 when it is considered safe to do so.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2025-05-15",
       "start_effective_date": "2025-02-20",
-      "end_date": "2025-05-30",
+      "end_date": "2025-05-15",
       "parks": [
         {
           "id": "148251",
@@ -2105,24 +2105,6 @@
           "id": "148400",
           "name": "Bellthorpe National Park",
           "url": "https://parks.desi.qld.gov.au/parks/bellthorpe"
-        }
-      ]
-    },
-    {
-      "title": "Hoppy Lark's access road temporarily closed - Burrum Coast National Park",
-      "alert_id": "25059",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25059",
-      "description": "Hoppy Lark's access track is temporarily closed due to water over the road.",
-      "details": "<p>Hoppy Lark's access track is temporarily closed due to water over the road.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-30",
-      "start_effective_date": "2025-03-11",
-      "end_date": "2025-05-14",
-      "parks": [
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/burrum-coast"
         }
       ]
     },
@@ -2599,24 +2581,6 @@
       ]
     },
     {
-      "title": "Munga-Thirri National Park - closed due to widespread flooding until further notice",
-      "alert_id": "25153",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25153",
-      "description": "Munga-Thirri National Park including the QAA Line and all other tracks are closed for public safety until further notice due to a large rain event across the north western Outback, which has resulted in impassable terrain.",
-      "details": "<p>Munga-Thirri National Park including the QAA Line and all other tracks are closed for public safety until further notice due to a large rain event across the north western Outback, which has resulted in impassable terrain.</p> <p>Munga-Thirri Nation&shy;al Park recently received falls of rain in excess of 350mm and expected floodwaters will further impact access to the national park.</p> <p>Rangers are monitoring the situation and will re-open the National Park once it is safe to do so.&nbsp;</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Remember, <a href=\"https://www.getready.qld.gov.au/FloodedForgetIt\">if it&rsquo;s flooded, forget it</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-17",
-      "start_effective_date": "2025-04-01",
-      "end_date": "2025-05-31",
-      "parks": [
-        {
-          "id": "148564",
-          "name": "Munga-Thirri National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure of Red Cedar Day Use Area Toilet Facilities",
       "alert_id": "25159",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25159",
@@ -2631,34 +2595,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Temporary walking track and camping area closure: Goldfield trail, Wooroonooran National Park",
-      "alert_id": "25167",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25167",
-      "description": "The Goldfield Trail and Mulgrave River (Goldfield Trail) camping area in Wooroonooran National Park is closed from Monday 7 April to Wednesday 14 May 2025 (dates inclusive).",
-      "details": "<p>The Goldfield Trail and Mulgrave River (Goldfield Trail) camping area in Wooroonooran National Park is closed from Monday 7 April to Wednesday 14 May 2025 (dates inclusive).</p> <p>During this closure contractors will undertake road works and conduct repairs to the track, causeway and landslip.&nbsp;</p> <p>For visitors with an existing camping booking during this period, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Visitors are reminded to follow and obey all directions from contractors and rangers, and observe all safety signage.</p> <p>Please monitor this park alert for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-28",
-      "start_effective_date": "2025-04-07",
-      "end_date": "2025-05-14",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
         }
       ]
     },
@@ -3520,24 +3456,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "25251",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25251",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.</p> <p>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected.</p> <p>Water levels can change rapidly in Josephine Creek.</p> <p>For your safety, do not enter the water.</p> <p>The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2025-05-13",
-      "start_effective_date": "2025-05-06",
-      "end_date": "2025-05-14",
-      "parks": [
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Old Coen Road walking track temporary closure",
       "alert_id": "25252",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25252",
@@ -4143,6 +4061,24 @@
       ]
     },
     {
+      "title": "Pest Managment activities",
+      "alert_id": "25289",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25289",
+      "description": "QPWS will be deploying 1080 baits across Kroombit Tops National Park as part of an ongoing Pest management program.",
+      "details": "<p>QPWS will be deploying 1080 baits across Kroombit Tops National Park as part of an ongoing Pest management program.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-20",
+      "end_date": "2025-06-20",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
       "title": "Road Closure: Peggs and Chambers Rd, Mount Mee Section, D'Aguilar National Park",
       "alert_id": "25290",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25290",
@@ -4290,6 +4226,119 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: between Turtle Creek and Oak Beach township, Macalister Range National Park",
+      "alert_id": "25299",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25299",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Friday 16 May 2025, as part of the fire management program for Macalister Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Friday 16 May 2025, as part of the fire management program for Macalister Range National Park.</p> <p>QPWS <strong>r</strong>angers and machinery may be working along roadsides in the vicinity of Turtle Creek and Oak Beach township. For your safety and the safety of authorities, please slow down and observe all directions and signs.&nbsp;</p> <p>Visitors are advised that smoke may be seen in the vicinity of Turtle Creek and Oak Beach township and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>&nbsp;Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"http://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-16",
+      "end_date": "2025-05-18",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Orpheus Island National Park",
+      "alert_id": "25300",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25300",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires.</p> <p>QPWS will be conducting a planned burn in Orpheus Island National Park (NP) between Wednesday the 21st and Monday the 26th of May, weather permitting. The operation will be undertaken in the grasslands by a team of QPWS rangers in conjunction with other agencies.<strong> </strong></p> <p>As a result of the planned burn, smoke may be seen in nearby areas of Forrest Beach, Lucinda and the Bruce Highway.</p> <p>If visiting Orpheus Island NP, observe all signs, barriers, and directions from QPWS Rangers and other staff and never enter closed areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a>.</p> <p>You can stay updated with local QPWS fire activities by visiting <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> or by following <a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a> on X (formerly known as Twitter).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-21",
+      "end_date": "2025-05-26",
+      "parks": [
+        {
+          "id": "148806",
+          "name": "Orpheus Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/orpheus-island"
+        }
+      ]
+    },
+    {
+      "title": "Park Closure 26-30 May, 2025 - Sandy Point, Byfield National Park",
+      "alert_id": "25302",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25302",
+      "description": "Byfield National Park, Sandy Point section will be closed due to approved Pest Management activities taking place in the area, live firearms may be in use during this time.",
+      "details": "<p>Byfield National Park, Sandy Point section will be closed due to approved Pest Management activities taking place in the area, live firearms may be in use during this time.</p> <p>Visitor access to Sandy Point will be opened again by 4:00pm on Friday 30th May 2025.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-26",
+      "end_date": "2025-05-30",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Weed Management activities Byfield and Capricorn Coast National Parks, 20-23 May 2025",
+      "alert_id": "25303",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25303",
+      "description": "Approved weed management activities will be undertaken in the Sandy Point section of Byfield National Park and across various sites of the Capricorn Coast National Park.",
+      "details": "<p>Approved weed management activities will be undertaken in the Sandy Point section of Byfield National Park and across various sites of the Capricorn Coast National Park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-20",
+      "end_date": "2025-05-23",
+      "parks": [
+        {
+          "id": "148977",
+          "name": "Capricorn Coast National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/capricorn-coast"
+        },
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Marine surveillance and low flying aerial surveillance",
+      "alert_id": "25306",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25306",
+      "description": "The Queensland Parks and Wildlife Service will be conducting marine vessel surveillance and low flying aerial surveillance during the months of May to June 2025 at Inskip Peninsula Recreation Area.",
+      "details": "<p>The Queensland Parks and Wildlife Service will be conducting marine vessel surveillance and low flying aerial surveillance during the months of May to June 2025 at Inskip Peninsula Recreation Area.</p> <p>The aerial surveillance is a critical activity in a geotechnical assessment of the area.</p> <p>Observe all signage, barriers and directions from rangers and contractors.</p> <p>Your safety is our concern but your responsibility.</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-01",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
+      "title": "Closed due to wet conditions: Munga-Thirri National Park",
+      "alert_id": "25307",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25307",
+      "description": "Munga-Thirri National Park, including the QAA Line and all other tracks, is closed for public safety until further notice. Wet conditions have resulted in the desert terrain becoming impassible including salt lakes and claypans.",
+      "details": "<p>Munga-Thirri National Park, including the QAA Line and all other tracks, is closed for public safety until further notice. Wet conditions have resulted in the desert terrain becoming impassible including salt lakes and claypans.</p> <p>The Mulligan and Diamantina river catchments, including Munga-Thirri Nation&shy;al Park, received falls between 150 and 350mm of rain in March.&nbsp; Munga-Thirri National Park may be inaccessible longer than expected due to the Eyre Creek crossing being impassible, this will impact access to the national park.</p> <p>QPWS Rangers are monitoring the situation and will re-open the National Park once it is safe to do so.&nbsp;</p> <p>Campers with an existing camping booking during this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-15",
+      "start_effective_date": "2025-05-15",
+      "end_date": "2025-06-21",
+      "parks": [
+        {
+          "id": "148564",
+          "name": "Munga-Thirri National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
         }
       ]
     }
