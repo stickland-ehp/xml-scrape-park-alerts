@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 216,
-    "script_run_time": "2025-05-15 10:10:30"
+    "alerts_count": 217,
+    "script_run_time": "2025-05-16 10:10:02"
   },
   "alerts": [
     {
@@ -1372,11 +1372,11 @@
       "alert_id": "24693",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24693",
       "description": "The wet season closure for Halifax Bay Wetlands National Park has been extended.",
-      "details": "<p>The wet season closure for Halifax Bay Wetlands National Park has been extended.</p> <p>It is anticipated to reopen on Saturday 31 May 2025, subject to road and weather conditions.</p> <p>For visitors with an existing camping booking up until and including Friday 30 May 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>The wet season closure for Halifax Bay Wetlands National Park has been extended.</p> <p>It is anticipated to reopen on Wednesday 4 June 2025, subject to road and weather conditions.</p> <p>For visitors with an existing camping booking up until and including Tuesday 3 June 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-16",
+      "start_date": "2025-05-16",
       "start_effective_date": "2025-03-25",
-      "end_date": "2025-05-30",
+      "end_date": "2025-06-03",
       "parks": [
         {
           "id": "148512",
@@ -1392,9 +1392,9 @@
       "description": "Due to higher than average rainfall across the area, the wet season closure for Princess Hills section of Girringun National Park including Princess Hills camping area has been extended.",
       "details": "<p>Due to higher than average rainfall across the area, the wet season closure for Princess Hills section of Girringun National Park including Princess Hills camping area has been extended.</p> <p>Please see below for anticipated reopening dates for the&nbsp; camp sites (subject to road and weather conditions).</p> <h3><strong>Princess Hills camp site 1 </strong></h3> <p>Closed up until and including Sunday 18 May 2025.</p> <h3><strong>Princess Hills camp site 2 </strong></h3> <p>Closed up until and including Tuesday 27 May 2025.</p> <p>For visitors with an existing camping booking up until and including Tuesday 27 May 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Rangers will continue to monitor conditions closely and will open earlier if possible, or extend the closure if rainfall continues to affect access to the area.</p> <p>Please monitor this park alert for up to date information.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-13",
+      "start_date": "2025-05-16",
       "start_effective_date": "2024-11-19",
-      "end_date": "2025-05-18",
+      "end_date": "2025-05-27",
       "parks": [
         {
           "id": "148123",
@@ -1755,34 +1755,6 @@
       ]
     },
     {
-      "title": "Visitor facilities update and temporary camping area closure: Blencoe Falls section, Girringun National Park.",
-      "alert_id": "24928",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24928",
-      "description": "Due to damage sustained from a recent significant wet weather event,",
-      "details": "<p>Due to damage sustained from a recent significant wet weather event,</p> <p>the following visitor facilities are <strong>closed </strong>until further notice:</p> <ul> <li> <p>Blencoe Falls camping area</p> </li> <li> <p>Jabali walk.</p> </li> </ul> <p>These areas will remain closed until declared safe.</p> <p>The following day-use areas are now <strong>open</strong>, please use caution along access roads due to washouts and potholes:</p> <ul> <li> <p>Blencoe Falls Lookout</p> </li> <li> <p>Herbert River Gorge lookout.</p> </li> </ul> <p>For visitors with an existing camping booking up until and including Thursday 15 May 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor&nbsp;this park alert for up-to-date details.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-01",
-      "start_effective_date": "2025-02-06",
-      "end_date": "2025-05-15",
-      "parks": [
-        {
-          "id": "148179",
-          "name": "Kirrama National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kirrama"
-        },
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blencoe-falls"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
       "title": "Visitor facilities update: Mount Spec section, Paluma Range National Park",
       "alert_id": "24932",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24932",
@@ -1838,24 +1810,6 @@
           "id": "148159",
           "name": "Sundown National Park",
           "url": "https://parks.desi.qld.gov.au/parks/sundown"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to flooding: Lochern National Park",
-      "alert_id": "24958",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24958",
-      "description": "Lochern National Park is temporarily closed until further notice due to impacts from recent flooding events. Rangers are conducting assessments and will monitor the situation. The national park will reopen 16 May 2025 when it is considered safe to do so.",
-      "details": "<p>Lochern National Park is temporarily closed until further notice due to impacts from recent flooding events. Rangers are conducting assessments and will monitor the situation. The national park will reopen 16 May 2025 when it is considered safe to do so.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-05-15",
-      "start_effective_date": "2025-02-20",
-      "end_date": "2025-05-15",
-      "parks": [
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lochern"
         }
       ]
     },
@@ -2036,9 +1990,9 @@
       "alert_id": "25025",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25025",
       "description": "As a result of damage from Ex-Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.",
-      "details": "<p>As a result of damage from Ex-Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage assessment and repair activities in progress.</p> <p><strong>CLOSED Areas:</strong></p> <ul> <li>All remote bush camps, including remote &#39;off-track&#39; bushwalks</li> </ul> <p><strong>Binna Burra section</strong></p> <ul> <li>Caves track</li> <li>Illinbah circuit</li> <li>Lower Bellbird track</li> <li>Ship&nbsp;Stern circuit</li> <li>Araucaria track</li> <li>Mount Hobwee circuit</li> <li>Wagawn track</li> <li><strong>Green Mountains section</strong> <ul> <li>Albert River circuit</li> <li>Toolona Creek circuit</li> </ul> </li> </ul> <p><strong>Alternative (OPEN) facilities are available at:</strong></p> <p>&bull;&nbsp;&nbsp; &nbsp;Gold Coast Hinterland Great Walk - (The Lower Bellbird and Caves track are currently closed as a result of Ex-Tropical Cyclone Alfred, so visitors will be required to find an alternate route to access the section between Rankins paddock and Nerang - Murwillumbah Rd).</p> <p>Binna Burra section</p> <ul> <li>Upper Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest circuit</li> <li>Tullawallal circuit</li> <li>Gwongoorool track</li> <li>Daves Creek circuit</li> <li>Coomera circuit (from the northern junction of the Border track and Coomera circuit to the Coomera Falls lookout&nbsp;only - once vistiors reach the Coomera Falls lookout, please return via the same track)&nbsp;</li> <li>Border track (between Binna Burra and Green Mountains/O&#39;Reillys)</li> </ul> <p>Green Mountains section&nbsp;</p> <ul> <li>Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest return track</li> <li>Centenary track</li> <li>Morans Falls track&nbsp;</li> <li>Python Rock track&nbsp;</li> <li>Box Forest circuit</li> <li>West Canungra Creek circuit (from the northern junction of the the Border track and West Canungra Creek circuit to Blue Pool (Yerralahla) only - once visitors reach Blue Pool (Yerralahla), please return via the same track)</li> <li>Border track (between Green Mountains/O&#39;Reillys and Binna Burra)</li> </ul> <p>Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/162025/lamington-binna-burra-map.pdf\">Binna Burra section map</a> and <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160825/lamington-green-mts-map.pdf\">Green Mountains section map</a> for more information on locations.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>As a result of damage from Ex-Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage assessment and repair activities in progress.</p> <p><strong>CLOSED Areas:</strong></p> <p><strong>Remote Bush camp sites (including on and off track)</strong></p> <ul> <li>Illinbah&nbsp;</li> <li>Darlington</li> <li>Lost world - Creek and Saddle</li> <li>Stinson</li> <li>Point Lookout</li> <li>Running Creek</li> </ul> <p><strong>Binna Burra section</strong></p> <ul> <li>Caves track</li> <li>Illinbah circuit</li> <li>Lower Bellbird track</li> <li>Ship&nbsp;Stern circuit</li> <li>Araucaria track</li> <li>Mount Hobwee circuit</li> <li>Wagawn track</li> <li><strong>Green Mountains section</strong> <ul> <li>Toolona Creek circuit</li> </ul> </li> </ul> <p><strong>Alternative (OPEN) facilities are available at:</strong></p> <p>&bull;&nbsp;&nbsp; &nbsp;Gold Coast Hinterland Great Walk - (The Lower Bellbird and Caves track are currently closed as a result of Ex-Tropical Cyclone Alfred, so visitors will be required to find an alternate route to access the section between Rankins paddock and Nerang - Murwillumbah Rd).</p> <p><strong>Remote Bush camp sites (including on and off track)</strong></p> <ul> <li>Mount Bithongabel</li> <li>Echo Point&nbsp;</li> <li>Rat-a-tat</li> </ul> <p><strong>Binna Burra section</strong></p> <ul> <li>Upper Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest circuit</li> <li>Tullawallal circuit</li> <li>Gwongoorool track</li> <li>Daves Creek circuit</li> <li>Coomera circuit (from the northern junction of the Border track and Coomera circuit to the Coomera Falls lookout&nbsp;only - once visitors reach the Coomera Falls lookout, please return via the same track)&nbsp;</li> <li>Upper Ballanjui Falls (please return via the same track)</li> <li>Border track (between Binna Burra and Green Mountains/O&#39;Reilly&#39;s)</li> </ul> <p><strong>Green Mountains section&nbsp;</strong></p> <ul> <li>Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest return track</li> <li>Centenary track</li> <li>Morans Falls track&nbsp;</li> <li>Python Rock track&nbsp;</li> <li>Box Forest circuit</li> <li>West Canungra Creek circuit (from the northern junction of&nbsp;the Border track and West Canungra Creek circuit to Blue Pool (Yerralahla) only - once visitors reach Blue Pool (Yerralahla), please return via the same track)</li> <li>Albert River circuit (from the southern&nbsp;junction (second&nbsp;turn-off)&nbsp;to Echo Point only - once you reach Echo Point, please return via the same track)</li> <li>Border track (between Green Mountains/O&#39;Reilly&#39;s and Binna Burra)</li> </ul> <p>Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/162025/lamington-binna-burra-map.pdf\">Binna Burra section map</a> and <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160825/lamington-green-mts-map.pdf\">Green Mountains section map</a> for more information on locations.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-17",
+      "start_date": "2025-05-16",
       "start_effective_date": "2025-03-14",
       "end_date": "2025-05-23",
       "parks": [
@@ -2259,6 +2213,29 @@
           "id": "152843",
           "name": "K'gari (formerly Fraser Island) Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "South Zoe Bay toilet replacement",
+      "alert_id": "25104",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25104",
+      "description": "The toilet at South Zoe Bay has been removed and replaced with two new, double pedestal toilet blocks.",
+      "details": "<p>The toilet at South Zoe Bay has been removed and replaced with two new, double pedestal toilet blocks.</p> <p>The works are complete but materials remain onsite in the boat-based campsite; these will be removed by barge overnight from 20-21 May.</p> <p>Machinery to transport materials onto the barge will be creating noise overnight from 20-21 May. Thorsborne Trail hikers staying at South Zoe Bay camping area during this night are encouraged to camp in the forest campsites to reduce impact from the noise. The barge will leave the camping area by 4:30am on 21 May.</p> <p>QPWS apologises for the inconvenience.</p> <p>Please observe all safety signs/barriers and follow workers&rsquo; directions.</p> <p>For more information about the Thorsborne Trail enhancement project visit <a href=\"https://parks.desi.qld.gov.au/parks/hinchinbrook/about/thorsborne-trail-enhancement-project\">qld.gov.au/ThorsborneTrailProject</a></p>",
+      "category": "Announcement",
+      "start_date": "2025-05-16",
+      "start_effective_date": "2025-04-09",
+      "end_date": "2025-05-21",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
         }
       ]
     },
@@ -3423,10 +3400,10 @@
       "title": "Aerial pest management activities: Halifax Bay Wetlands National Park",
       "alert_id": "25247",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25247",
-      "description": "Aerial pest management activities will be undertaken in Halifax Bay Wetlands National Park from Monday 2 June 2025 to Tuesday 3 June 2025 (dates inclusive).",
-      "details": "<p>Aerial pest management activities will be undertaken in Halifax Bay Wetlands National Park from Monday 2 June 2025 to Tuesday 3 June 2025 (dates inclusive).</p> <p>Hinchinbrook Shire Council is leading these activities and targeting feral pigs within the national park and surrounding areas. For further information please visit the Hinchinbrook Shire Council <a href=\"https://www.hinchinbrook.qld.gov.au/\">website</a>.&nbsp;</p> <p>These operations help to conserve the natural and cultural values of the park.</p> <p>Please observe all signage, barriers and directions from council and do not enter closed areas.</p>",
+      "description": "Aerial pest management activities will be undertaken in Halifax Bay Wetlands National Park from Monday 2 June 2025 to Tuesday 3 June 2025 (dates inclusive). During this period, the park will be closed for wet season.",
+      "details": "<p>Aerial pest management activities will be undertaken in Halifax Bay Wetlands National Park from Monday 2 June 2025 to Tuesday 3 June 2025 (dates inclusive). During this period, the park will be closed for wet season.</p> <p>Hinchinbrook Shire Council is leading these activities and targeting feral pigs within the national park and surrounding areas. For further information please visit the Hinchinbrook Shire Council <a href=\"https://www.hinchinbrook.qld.gov.au/\">website</a>.&nbsp;</p> <p>These operations help to conserve the natural and cultural values of the park.</p> <p>Please observe all signage, barriers and directions from council and do not enter closed areas.</p>",
       "category": "Announcement",
-      "start_date": "2025-05-14",
+      "start_date": "2025-05-16",
       "start_effective_date": "2025-06-02",
       "end_date": "2025-06-03",
       "parks": [
@@ -3997,24 +3974,6 @@
       ]
     },
     {
-      "title": "Temporary Park Closure - Deongwar State Forest",
-      "alert_id": "25286",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25286",
-      "description": "Deongwar State Forest will be closed temporarily for the day of the 16/05/25 for pest management activities. The park will be reopened after 5:00pm on the 16/05/25 once activities are completed.",
-      "details": "<p>Deongwar State Forest will be closed temporarily for the day of the 16/05/25 for pest management activities. The park will be reopened after 5:00pm on the 16/05/25 once activities are completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-13",
-      "start_effective_date": "2025-05-16",
-      "end_date": "2025-05-16",
-      "parks": [
-        {
-          "id": "322682",
-          "name": "Deongwar State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Hann Tableland National Park, Kuranda West Forest Reserve and Kuranda National Park",
       "alert_id": "25287",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25287",
@@ -4266,6 +4225,24 @@
       ]
     },
     {
+      "title": "Prescribed burn scheduled for George's Point",
+      "alert_id": "25301",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25301",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a prescribed burn (weather permitting) at George's Point, Dryander National Park on Tuesday 20 May 2025, as part of our fire management and conservation program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a prescribed burn (weather permitting) at George's Point, Dryander National Park on Tuesday 20 May 2025, as part of our fire management and conservation program.</p> <p>Prescribed burns reduce the volume of fuels in forests and create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any subsequent bushfires and provide favourable conditions for native woodland regeneration.</p> <p>Smoke may be seen coming from the area on the day of the burn and on days following. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from Rangers.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-05-16",
+      "start_effective_date": "2025-05-20",
+      "end_date": "2025-05-27",
+      "parks": [
+        {
+          "id": "148187",
+          "name": "Dryander National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/dryander"
+        }
+      ]
+    },
+    {
       "title": "Park Closure 26-30 May, 2025 - Sandy Point, Byfield National Park",
       "alert_id": "25302",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25302",
@@ -4339,6 +4316,47 @@
           "id": "148564",
           "name": "Munga-Thirri National Park",
           "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
+        }
+      ]
+    },
+    {
+      "title": "Planned Works for Mon Repos car park",
+      "alert_id": "25308",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25308",
+      "description": "Queensland Parks and Wildlife Service will be conducting a planned upgrade to the Turtle Centre car park at Mon Repos Conservation Park from May 2025 to September 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned upgrade to the Turtle Centre car park at Mon Repos Conservation Park from May 2025 to September 2025 (weather permitting).</p> <p>The Mon Repos car park redevelopment will improve visitor access to the centre, and will include additional car parking, pedestrian paths and a realignment of the Turtle trail.</p> <p><strong>During construction the following areas will have changed conditions:</strong></p> <ul> <li><strong>Rookery Road</strong></li> <li><strong>Turtle Centre car park</strong></li> <li><strong>Turtle trail section adjacent to car park area</strong></li> </ul> <p>Please note:</p> <p>&bull; you may experience increased dust and prolonged noise during your visit</p> <p>&bull; pedestrians and Turtle trail users should be aware of additional traffic on site including heavy machinery</p> <p>&bull; traffic diversions may be in place. Please follow directions from traffic</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Other",
+      "start_date": "2025-05-16",
+      "start_effective_date": "2025-05-26",
+      "end_date": "2025-09-30",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Mulligan Falls toilet replacement",
+      "alert_id": "25309",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25309",
+      "description": "The toilet at Mulligan Falls is being removed and replaced with a new, double pedestal toilet block. New toilets have already been completed at Little Ramsay and South Zoe Bay camping areas.",
+      "details": "<p>The toilet at Mulligan Falls is being removed and replaced with a new, double pedestal toilet block. New toilets have already been completed at Little Ramsay and South Zoe Bay camping areas.</p> <p>Works will be occurring at Mulligan Falls camping area from <strong>26 May to mid-June 2025</strong>.</p> <p>The camping area and falls will remain open throughout for Thorsborne Trail hikers.</p> <p>Workers will be staying on-site in the guided hiking group campsite.</p> <p>Construction noise, including power tools and generators may be expected during the day.</p> <p>A temporary toilet may be in place for use during the construction period.</p> <p>Construction materials will be transported by helicopter between the mainland and Mulligan Falls during some mornings (7am-12pm) throughout this period.</p> <p>Thorsborne Trail hikers staying at Mulligan Falls on the mornings when heli-lifting is occurring may be given safety directives by construction workers during each helicopter drop-off and may need to wait until the helicopter is away from the site before being able to access the toilet or commence their hike for the day.</p> <p>It is anticipated that this should not exceed a 10 to 15-minute wait.</p> <p>QPWS apologises for the inconvenience and appreciates your patience in supporting this important upgrade. &nbsp;</p> <p>For more information about the Thorsborne Trail enhancement project visit <a href=\"https://parks.desi.qld.gov.au/parks/hinchinbrook/about/thorsborne-trail-enhancement-project\">qld.gov.au/ThorsborneTrailProject</a></p>",
+      "category": "Announcement",
+      "start_date": "2025-05-16",
+      "start_effective_date": "2025-05-26",
+      "end_date": "2025-06-12",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
         }
       ]
     }
