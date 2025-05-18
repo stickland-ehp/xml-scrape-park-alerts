@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 206,
-    "script_run_time": "2025-05-17 10:08:39"
+    "alerts_count": 204,
+    "script_run_time": "2025-05-18 10:08:48"
   },
   "alerts": [
     {
@@ -3682,42 +3682,6 @@
           "id": "149417",
           "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
           "url": "https://parks.desi.qld.gov.au/parks/keppel-bay-islands"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Undara Volcanic National Park",
-      "alert_id": "25278",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25278",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations (weather permitting), from Thursday 15 May to Saturday 17 May 2025 (dates inclusive), as part of the annual hazard reduction/conservation management program for Undara Volcanic National Park.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations (weather permitting), from Thursday 15 May to Saturday 17 May 2025 (dates inclusive), as part of the annual hazard reduction/conservation management program for Undara Volcanic National Park.</p> <p>During this period, smoke may be seen in the vicinity of the park but all visitor facilities will remain open.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call Undara office of QPWS on (07) 40971485.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-15",
-      "end_date": "2025-05-17",
-      "parks": [
-        {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/undara-volcanic"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Bulleringa National Park",
-      "alert_id": "25279",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25279",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations (weather permitting), from Thursday 15 May to Saturday 17 May 2025 (dates inclusive), as part of the annual hazard reduction/conservation management program for Bulleringa National Park.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations (weather permitting), from Thursday 15 May to Saturday 17 May 2025 (dates inclusive), as part of the annual hazard reduction/conservation management program for Bulleringa National Park.</p> <p>During this period, smoke may be seen in the vicinity of the park.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural regeneration.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call Undara office of QPWS on (07) 40971485.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-15",
-      "end_date": "2025-05-17",
-      "parks": [
-        {
-          "id": "148492",
-          "name": "Bulleringa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bulleringa"
         }
       ]
     },
