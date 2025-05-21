@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 210,
-    "script_run_time": "2025-05-20 10:10:21"
+    "alerts_count": 209,
+    "script_run_time": "2025-05-21 10:10:24"
   },
   "alerts": [
     {
@@ -1089,29 +1089,6 @@
           "id": "148055",
           "name": "Danbulla National Park and State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/danbulla"
-        }
-      ]
-    },
-    {
-      "title": "Big Bend camping area open - repairs complete",
-      "alert_id": "24553",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24553",
-      "description": "Following recent structural repairs to the toilet block, Big Bend camping area (including the Great Walk site), is now open.",
-      "details": "<p>Following recent structural repairs to the toilet block, Big Bend camping area (including the Great Walk site), is now open.</p> <p>Visit&nbsp;<a href=\"https://book.parks.qld.gov.au/camping\">https://book.parks.qld.gov.au/camping</a>&nbsp;for bookings.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-13",
-      "start_effective_date": "2024-09-29",
-      "end_date": "2025-05-20",
-      "parks": [
-        {
-          "id": "150195",
-          "name": "Carnarvon Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-great-walk"
-        },
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-gorge"
         }
       ]
     },
@@ -2674,9 +2651,9 @@
       "description": "As a result of wet weather, Nuga Nuga National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Nuga Nuga National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-28",
+      "start_date": "2025-05-21",
       "start_effective_date": "2025-04-08",
-      "end_date": "2025-05-30",
+      "end_date": "2025-06-30",
       "parks": [
         {
           "id": "148155",
@@ -3084,24 +3061,6 @@
       ]
     },
     {
-      "title": "Park closed due to wet conditions",
-      "alert_id": "25225",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25225",
-      "description": "Due to flooding and wet and boggy conditions all camping areas and park roads are closed within Currawinya National Park",
-      "details": "<p>Due to flooding and wet and boggy conditions all camping areas and park roads are closed within Currawinya National Park</p> <p>Rangers ask that you please obey road closure signs that are in place.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-28",
-      "start_effective_date": "2025-04-28",
-      "end_date": "2025-05-20",
-      "parks": [
-        {
-          "id": "148323",
-          "name": "Currawinya National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
-        }
-      ]
-    },
-    {
       "title": "Pest management control program for West Cooroy Conservation Park",
       "alert_id": "25229",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25229",
@@ -3413,24 +3372,6 @@
           "id": "152875",
           "name": "Whitsunday Ngaro Sea Trail",
           "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        }
-      ]
-    },
-    {
-      "title": "Mt Etna Caves Closure 12-20 May 2025",
-      "alert_id": "25262",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25262",
-      "description": "Mount Etna Caves National Park will be closed to the public while QPWS&amp;P will be undertaking pest management and invasive weed activities.",
-      "details": "<p>Mount Etna Caves National Park will be closed to the public while QPWS&amp;P will be undertaking pest management and invasive weed activities.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-07",
-      "start_effective_date": "2025-05-12",
-      "end_date": "2025-05-20",
-      "parks": [
-        {
-          "id": "149405",
-          "name": "Mount Etna Caves National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-etna-caves"
         }
       ]
     },
@@ -4241,6 +4182,42 @@
           "id": "322999",
           "name": "Expedition (Limited Depth) National Park",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned works 27/05/2025- Enogerra Reservoir Swimming Area",
+      "alert_id": "25324",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25324",
+      "description": "Swimming area, kayak Launch, link track, and beach area at Enoggera Reservoir will be closed to the public for the day due to maintenance works. Machinery will be operating in the area, making it unsafe for visitors.",
+      "details": "<p>Swimming area, kayak Launch, link track, and beach area at Enoggera Reservoir will be closed to the public for the day due to maintenance works. Machinery will be operating in the area, making it unsafe for visitors.</p> <p>Access to the reservior is restricted during this period however the walking trails, visitor centre, and caf&eacute; will remain open.</p> <p>For everyone&rsquo;s safety, please follow all safety barriers, signage, and directions provided by Rangers.<br /> <br /> We appreciate your understanding and cooperation during this time.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-21",
+      "start_effective_date": "2025-05-27",
+      "end_date": "2025-05-27",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Road Closure: L Traverse",
+      "alert_id": "25326",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25326",
+      "description": "Queensland Parks &amp; Wildlife Service wish to advise scheduled road maintenance will be undertaken along L Traverse.",
+      "details": "<p>Queensland Parks &amp; Wildlife Service wish to advise scheduled road maintenance will be undertaken along L Traverse.</p> <p>Access to Rocky Hole and Neurum Creek Campground is via Neurum Creek Road at the Gantry Day Use Area.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-05-21",
+      "start_effective_date": "2025-05-21",
+      "end_date": "2025-05-23",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
         }
       ]
     }
