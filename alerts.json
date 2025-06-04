@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 207,
-    "script_run_time": "2025-06-03 10:10:56"
+    "alerts_count": 209,
+    "script_run_time": "2025-06-04 10:10:23"
   },
   "alerts": [
     {
@@ -715,42 +715,6 @@
       ]
     },
     {
-      "title": "Northern Forests scenic drive CLOSED, detour in place",
-      "alert_id": "24128",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24129",
-      "description": "The Northern Scenic Drive between the junction of Bullock link Road and Northern Road, and Woralie Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.",
-      "details": "<p>The Northern Scenic Drive between the junction of Bullock link Road and Northern Road, and Woralie Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.</p> <p>A detour is in place via Bullock link Road and Woralie Road. The bridge and section of road will open to vehicles when the issue is rectified.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2024-06-05",
-      "start_effective_date": "2025-06-04",
-      "end_date": "2025-06-03",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Northern Forests walking track CLOSED",
-      "alert_id": "24129",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24130",
-      "description": "Please be advised that due to fire and weather events the Northern Forests walking track will be CLOSED until further notice.",
-      "details": "<p>Please be advised that due to fire and weather events the Northern Forests walking track will be CLOSED until further notice.</p> <p>Queensland Parks and Wildlife Service are conducting hazard assessments to plan remedial works.</p> <p>An alternative walk of similar distance (one way) is the Lake Bowarrady circuit, access via&nbsp;Dundubara Campground.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2024-06-05",
-      "start_effective_date": "2024-06-04",
-      "end_date": "2025-06-03",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Poison canisters washing up on Southeast Queensland beaches",
       "alert_id": "24236",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24236",
@@ -1186,15 +1150,15 @@
       ]
     },
     {
-      "title": "Wet season update: Halifax Bay Wetlands National Park",
+      "title": "Temporary camping area and access track closure: Halifax Bay Wetlands National Park",
       "alert_id": "24693",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24693",
-      "description": "Halifax Bay Wetlands National Park is anticipated to partially reopen on Wednesday 4 June 2025, subject to road and weather conditions. Due to wet and boggy conditions some visitor facilities will remain closed until declared safe to reopen. See below for details:",
-      "details": "<p>Halifax Bay Wetlands National Park is anticipated to partially reopen on Wednesday 4 June 2025, subject to road and weather conditions. Due to wet and boggy conditions some visitor facilities will remain closed until declared safe to reopen. See below for details:</p> <p>Visitor facilities that will remain closed (anticipated to reopen Friday 27 June 2025):</p> <ul> <li>Access track from cattle grid north to Halifax camping area 1</li> <li>Halifax Bay camping area 1</li> </ul> <p>For visitors with an existing camping booking up until and including Thursday 26 June 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Halifax Bay camping area 2 remains closed until further notice.</p> <p>Please monitor park alerts for updated information.</p>",
+      "description": "Due to wet and boggy conditions the following visitor facilities within Halifax Bay Wetlands National Park are closed and are anticipated to reopen Friday 27 June 2025, subject to weather and road conditions:",
+      "details": "<p>Due to wet and boggy conditions the following visitor facilities within Halifax Bay Wetlands National Park are closed and are anticipated to reopen Friday 27 June 2025, subject to weather and road conditions:</p> <ul> <li>Access track from cattle grid north to Halifax camping area 1</li> <li>Halifax Bay camping area 1</li> </ul> <p>For visitors with an existing camping booking up until and including Thursday 26 June 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Halifax Bay camping area 2 remains closed until further notice.</p> <p>Please monitor park alerts for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-28",
+      "start_date": "2025-06-04",
       "start_effective_date": "2025-03-25",
-      "end_date": "2025-06-04",
+      "end_date": "2025-06-26",
       "parks": [
         {
           "id": "148512",
@@ -1638,9 +1602,9 @@
       "description": "Due to ongoing vandalism and subsequent maintenance issues, Upper Stony Day-use BBQ's 1 &amp; 2 will be out of order until further notice. BBQ 3 is still available for use.",
       "details": "<p>Due to ongoing vandalism and subsequent maintenance issues, Upper Stony Day-use BBQ's 1 &amp; 2 will be out of order until further notice. BBQ 3 is still available for use.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-14",
+      "start_date": "2025-06-04",
       "start_effective_date": "2025-02-21",
-      "end_date": "2025-06-06",
+      "end_date": "2025-06-20",
       "parks": [
         {
           "id": "148223",
@@ -2041,24 +2005,6 @@
           "id": "148107",
           "name": "Tewantin National Park",
           "url": "https://parks.desi.qld.gov.au/parks/tewantin"
-        }
-      ]
-    },
-    {
-      "title": "Changes to Capricorn Cay National Park camping bookings for 2026",
-      "alert_id": "25142",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25142",
-      "description": "QPWS is changing to a Booking Season model to book camping permits for the Capricornia Cays in 2026. Camping permits for all Capricornia Cay islands will be released to the public on set days and times advised in advance giving customers ample time and equal opportunity to obtain permits. The first camping permit release for 2026 will be Tuesday 3 June 2025.",
-      "details": "<p>QPWS is changing to a Booking Season model to book camping permits for the Capricornia Cays in 2026. Camping permits for all Capricornia Cay islands will be released to the public on set days and times advised in advance giving customers ample time and equal opportunity to obtain permits. The first camping permit release for 2026 will be Tuesday 3 June 2025.</p> <p>For more information visit&nbsp;https://parks.desi.qld.gov.au/parks/capricornia-cays/about/camping-booking-seasons&nbsp;</p> <p>Capricornia Cay National Park has camping areas on North West, Lady Musgrave and Mast Head Islands that are open for seasonal camping.&nbsp;All Capricornia Cay National Park camping areas are extremely popular especially during peak periods and school holidays.&nbsp;</p> <p>The Queensland National Park Booking Service has changed to a new platform for camping permits. To improve the visitor experience for making camping bookings in this new system, QPWS is making changes to the way the Capricornia Cays National Park camping areas can be booked. This means that bookings will not be able to be made 12 months in advance.&nbsp;</p> <p>Standard annual seasonal closure periods for all Capricornia Cay Island camping areas will remain the same.</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-19",
-      "start_effective_date": "2025-03-31",
-      "end_date": "2025-06-03",
-      "parks": [
-        {
-          "id": "149473",
-          "name": "Capricornia Cays National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/capricornia-cays"
         }
       ]
     },
@@ -2817,24 +2763,6 @@
       ]
     },
     {
-      "title": "Aerial pest management activities: Halifax Bay Wetlands National Park",
-      "alert_id": "25247",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25247",
-      "description": "Aerial pest management activities will be undertaken in Halifax Bay Wetlands National Park from Monday 2 June 2025 to Tuesday 3 June 2025 (dates inclusive). During this period, the park will be closed for wet season.",
-      "details": "<p>Aerial pest management activities will be undertaken in Halifax Bay Wetlands National Park from Monday 2 June 2025 to Tuesday 3 June 2025 (dates inclusive). During this period, the park will be closed for wet season.</p> <p>Hinchinbrook Shire Council is leading these activities and targeting feral pigs within the national park and surrounding areas. For further information please visit the Hinchinbrook Shire Council <a href=\"https://www.hinchinbrook.qld.gov.au/\">website</a>.&nbsp;</p> <p>These operations help to conserve the natural and cultural values of the park.</p> <p>Please observe all signage, barriers and directions from council and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-16",
-      "start_effective_date": "2025-06-02",
-      "end_date": "2025-06-03",
-      "parks": [
-        {
-          "id": "148512",
-          "name": "Halifax Bay Wetlands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
-        }
-      ]
-    },
-    {
       "title": "Old Coen Road walking track temporary closure",
       "alert_id": "25252",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25252",
@@ -3332,15 +3260,15 @@
       ]
     },
     {
-      "title": "TEMPORARY CLOSURE until 7th June 2025 9mile Beach Northern Access Track",
+      "title": "TEMPORARY CLOSURE until 9th June 2025 9mile Beach Northern Access Track",
       "alert_id": "25311",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25311",
-      "description": "A closure of 9 Mile Beach Northern Access track will remain in place until 7th June, 2025 to allow for repair works to occur for damage incurred to the track palleting from recent a weather event.",
-      "details": "<p>A closure of 9 Mile Beach Northern Access track will remain in place until 7th June, 2025 to allow for repair works to occur for damage incurred to the track palleting from recent a weather event.</p> <p>&nbsp;For 9 Mile Beach access please utilise the Southern Access track located approximately 300m from the top of Big Sandy.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "description": "A closure of 9 Mile Beach Northern Access track will remain in place until 9th June, 2025 to allow for repair works to occur for damage incurred to the track palleting from recent a weather event.",
+      "details": "<p>A closure of 9 Mile Beach Northern Access track will remain in place until 9th June, 2025 to allow for repair works to occur for damage incurred to the track palleting from recent a weather event.</p> <p>&nbsp;For 9 Mile Beach access please utilise the Southern Access track located approximately 300m from the top of Big Sandy.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-23",
+      "start_date": "2025-06-04",
       "start_effective_date": "2025-05-21",
-      "end_date": "2025-06-07",
+      "end_date": "2025-06-09",
       "parks": [
         {
           "id": "148223",
@@ -3833,10 +3761,10 @@
       "title": "Planned burning activities: Mount Fox, Girringun National Park",
       "alert_id": "25363",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25363",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within the Mount Fox Crater ring road from Monday 2 June to Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Halifax Bay Wetlands National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within the Mount Fox Crater ring road from Monday 2 June to Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Halifax Bay Wetlands National Park.</p> <p>During the planned burns, Mount Fox will remain open but smoke may be seen&nbsp;at times&nbsp;during this period. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please contact the Ingham office Ph 07 4777 2822 for further information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within the Mount Fox Crater ring road from Monday 2 June to Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Girringun National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within the Mount Fox Crater ring road from Monday 2 June to Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Girringun National Park.</p> <p>During the planned burns, Mount Fox will remain open but smoke may be seen&nbsp;at times&nbsp;during this period. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please contact the Ingham office Ph 07 4777 2822 for further information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-06-03",
+      "start_date": "2025-06-04",
       "start_effective_date": "2025-06-02",
       "end_date": "2025-09-30",
       "parks": [
@@ -3889,15 +3817,15 @@
       ]
     },
     {
-      "title": "Daisy Hill Mountain Bike Trails Closed",
+      "title": "Temporary Mountain Bike Trail closure",
       "alert_id": "25366",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25366",
-      "description": "Daisy Hill Maintain Bike Trails are closed due to current predicted rainfall. Recent rain events have made the trails prone to be sodden and wet.",
-      "details": "<p>Daisy Hill Maintain Bike Trails are closed due to current predicted rainfall. Recent rain events have made the trails prone to be sodden and wet.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Visitors are advised that &quot;Jim's Trail&quot; within Daisy Hill Conservation Park will remain closed until 6/6/25 due to wet weather and track conditions.",
+      "details": "<p>Visitors are advised that &quot;Jim's Trail&quot; within Daisy Hill Conservation Park will remain closed until 6/6/25 due to wet weather and track conditions.</p> <p>All other trails and firebreaks in Daisy Hill Conservation Park are open for use.&nbsp; Conditions will be reassessed on 6/6/25.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-30",
-      "start_effective_date": "2025-05-30",
-      "end_date": "2025-06-04",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-04",
+      "end_date": "2025-06-06",
       "parks": [
         {
           "id": "148560",
@@ -4151,10 +4079,10 @@
       "title": "Park Closure due to pest management control program",
       "alert_id": "25379",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25379",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 24th March to Sunday 30th March. All control activities are conducted in accordance with the Currawinya and Lake Bindegolly Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use. Currawinya and Lake Bindegolly National Park will be closed to public access for the duration of the pest management program. Closed areas include:  All camping and day-use areas  All vehicle and walking tracks The Hungerford- Eulo Road will remain open to traffic.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 24th March to Sunday 30th March. All control activities are conducted in accordance with the Currawinya and Lake Bindegolly Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use. Currawinya and Lake Bindegolly National Park will be closed to public access for the duration of the pest management program. Closed areas include:  All camping and day-use areas  All vehicle and walking tracks The Hungerford- Eulo Road will remain open to traffic.</p> <p>For further details please contact the Currawinya office on (07) 4655 4001<br /> Please observe all signage, barriers and directions from rangers and do not enter closed areas.<br /> Facilities will reopen when the event is completed.<br /> Please monitor park alerts on the department&#39;s website for updated information.<br /> Refunds can be applied for via your online account at qld.gov.au/camping.</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 10th June to Monday 16th June. All control activities are conducted in accordance with the Currawinya and Lake Bindegolly Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use. Currawinya and Lake Bindegolly National Park will be closed to public access for the duration of the pest management program. Closed areas include:  All camping and day-use areas  All vehicle and walking tracks The Hungerford- Eulo Road will remain open to traffic.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Monday 10th June to Monday 16th June. All control activities are conducted in accordance with the Currawinya and Lake Bindegolly Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use. Currawinya and Lake Bindegolly National Park will be closed to public access for the duration of the pest management program. Closed areas include:  All camping and day-use areas  All vehicle and walking tracks The Hungerford- Eulo Road will remain open to traffic.</p> <p>For further details please contact the Currawinya office on (07) 4655 4001<br /> Please observe all signage, barriers and directions from rangers and do not enter closed areas.<br /> Facilities will reopen when the event is completed.<br /> Please monitor park alerts on the department&#39;s website for updated information.<br /> Refunds can be applied for via your online account at qld.gov.au/camping.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-03",
+      "start_date": "2025-06-04",
       "start_effective_date": "2025-06-10",
       "end_date": "2025-06-16",
       "parks": [
@@ -4167,6 +4095,119 @@
           "id": "148323",
           "name": "Currawinya National Park",
           "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Planned maintenance to Freshwater Road",
+      "alert_id": "25380",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25380",
+      "description": "Pending favourable weather conditions, planned maintenance to Freshwater Road will commence from 03 June 2025 and is expected to be completed by 17 June 2025.",
+      "details": "<p>Pending favourable weather conditions, planned maintenance to Freshwater Road will commence from 03 June 2025 and is expected to be completed by 17 June 2025.</p> <p>Freshwater Road will remain partially open during the work, allowing access to Teewah Beach. Minor delays may be encountered during this time.</p> <p>Be aware of road workers and heavy machinery on the road. Drive with caution and reduce speed.</p> <p>Observe all signage, barriers and directions from traffic controllers and rangers, and do not enter closed areas.</p> <p>Your safety is our concern but your responsibility.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-03",
+      "end_date": "2025-06-17",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities and camping area closure: Paluma Range National Park and Clemant State Forest",
+      "alert_id": "25381",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25381",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Thursday 5 June 2025 to Friday 20 June 2025, as part of the fire management program for Paluma Range National Park and Clemant State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) from Thursday 5 June 2025 to Friday 20 June 2025, as part of the fire management program for Paluma Range National Park and Clemant State Forest.</p> <p>During fire operations, firefighters and machinery will be working within and adjacent to the National Park and State Forest in the area described as &ndash; west of the Bruce Highway, between Rollingstone Creek via Rollingstone and Pine Creek via Bluewater.</p> <p>During this time Mount Halifax remote camping, south of Paluma, is closed.</p> <p>For your safety and the safety of firefighters, this area including all walking tracks and bush camping areas, is closed to public during the prescribed period. Please do not enter this area during this time and obey all directions from firefighting personnel.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-05",
+      "end_date": "2025-06-20",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        },
+        {
+          "id": "322391",
+          "name": "Clemant State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Ellis Beach and Oak Beach",
+      "alert_id": "25382",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25382",
+      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burns (weather permitting) on Thursday 5 June, as part of the fire management program for Macalister Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burns (weather permitting) on Thursday 5 June, as part of the fire management program for Macalister Range National Park.</p> <p>QPWS Rangers may be working along roadsides in the vicinity of Ellis Beach. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Visitors are advised that smoke may be seen in the vicinity of Ellis beach and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities.To find out more, visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire mangement</a> webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-04",
+      "end_date": "2025-06-08",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Aerial baiting for Wild Dogs and Foxes",
+      "alert_id": "25385",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25385",
+      "description": "Aerial baiting using 1080 to control wild dogs and foxes will take place on strategic boundaries of Girraween National Park on the 25th - 26th June. The baiting will be undertaken by Southern Downs Regional Council and is part of a larger Council wide strategic baiting program to reduce the impact of wild dogs on agricultural industry in the region. Members of the public are advised that 1080 baits are toxic to domestic animals.",
+      "details": "<p>Aerial baiting using 1080 to control wild dogs and foxes will take place on strategic boundaries of Girraween National Park on the 25th - 26th June. The baiting will be undertaken by Southern Downs Regional Council and is part of a larger Council wide strategic baiting program to reduce the impact of wild dogs on agricultural industry in the region. Members of the public are advised that 1080 baits are toxic to domestic animals.</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-18",
+      "end_date": "2025-06-27",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/girraween"
+        }
+      ]
+    },
+    {
+      "title": "Aerial baiting for Wild Dogs and Foxes in Sundown National Park",
+      "alert_id": "25386",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25386",
+      "description": "Aerial baiting using 1080 to control wild dogs and foxes will take place on strategic boundaries of Sundown National Park on the 25th - 26th June. The baiting will be undertaken by Southern Downs Regional Council and is part of a larger Council wide strategic baiting program to reduce the impact of wild dogs on agricultural industry in the region. Members of the public are advised that 1080 baits are toxic to domestic animals.",
+      "details": "<p>Aerial baiting using 1080 to control wild dogs and foxes will take place on strategic boundaries of Sundown National Park on the 25th - 26th June. The baiting will be undertaken by Southern Downs Regional Council and is part of a larger Council wide strategic baiting program to reduce the impact of wild dogs on agricultural industry in the region. Members of the public are advised that 1080 baits are toxic to domestic animals.</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-18",
+      "end_date": "2025-06-27",
+      "parks": [
+        {
+          "id": "148159",
+          "name": "Sundown National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/sundown"
+        }
+      ]
+    },
+    {
+      "title": "Tangalooma Bypass Road closure - Gheebulum Kunungai National Park (Moreton Island)",
+      "alert_id": "25387",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25387",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that a small section of the Tangalooma Bypass Road will be temporarily closed for road works from Monday 9th June through to Thursday 12th June 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) wish to advise that a small section of the Tangalooma Bypass Road will be temporarily closed for road works from Monday 9th June through to Thursday 12th June 2025.</p> <p>Traffic control will be in place with short delays expected. Vehicles needing to use this route will be escorted through the Tangalooma Island Resort to bypass the closed road section.</p> <p>Motorists are requested to show patience and follow all road closure signage and traffic controller directions.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-04",
+      "start_effective_date": "2025-06-04",
+      "end_date": "2025-06-13",
+      "parks": [
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
         }
       ]
     }
