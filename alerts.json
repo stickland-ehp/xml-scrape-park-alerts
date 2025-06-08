@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 203,
-    "script_run_time": "2025-06-07 10:08:45"
+    "alerts_count": 199,
+    "script_run_time": "2025-06-08 10:08:44"
   },
   "alerts": [
     {
@@ -2191,24 +2191,6 @@
       ]
     },
     {
-      "title": "Feral animal control program involving ground shooting: St Bees Island, South Cumberland Islands National Park",
-      "alert_id": "25185",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25185",
-      "description": "A feral animal control program involving ground shooting will be conducted at St Bees Island, South Cumberland Islands National Park from Monday 19th May to Saturday 7th June 2025 (dates inclusive). Turtle Bay campground will be closed for the duration of the operation and a maritime exclusion zone around St Bees Island extends 200m seaward of the highwater mark. Access to St Bees Island will be closed for the entirety of the operation. All Vessels and visitors must remain well clear of the area.",
-      "details": "<p>A feral animal control program involving ground shooting will be conducted at St Bees Island, South Cumberland Islands National Park from Monday 19th May to Saturday 7th June 2025 (dates inclusive). Turtle Bay campground will be closed for the duration of the operation and a maritime exclusion zone around St Bees Island extends 200m seaward of the highwater mark. Access to St Bees Island will be closed for the entirety of the operation. All Vessels and visitors must remain well clear of the area.</p> <p><a href=\"https://www.publications.qld.gov.au/dataset/6e59a733-a90d-4cdd-a242-fc315fbca6d1/resource/9ac68b5b-b0d2-4a76-9b92-b435c8125b16/download/advice-mackay-feral-animal-control-st-bees-island.pdf\">Maritime Exclusion Zone - St Bees Island</a></p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-10",
-      "start_effective_date": "2025-05-19",
-      "end_date": "2025-06-07",
-      "parks": [
-        {
-          "id": "151351",
-          "name": "South Cumberland Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/south-cumberland-islands"
-        }
-      ]
-    },
-    {
       "title": "Magnetic Island walking trail network: Changes to Route 2",
       "alert_id": "25195",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25195",
@@ -3517,24 +3499,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Endeavour River National Park",
-      "alert_id": "25365",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25365",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Endeavour River National Park from Friday May 30 to Saturday 7 June 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Endeavour River National Park from Friday May 30 to Saturday 7 June 2025 (dates inclusive).</p> <p>As a result of the planned burn, smoke may be seen in the nearby areas.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind. These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-29",
-      "start_effective_date": "2025-05-30",
-      "end_date": "2025-06-07",
-      "parks": [
-        {
-          "id": "148705",
-          "name": "Endeavour River National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/endeavour-river"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary boardwalk closure: Baral Marrjanga track, Mossman Gorge, Daintree National Park (CYPAL)",
       "alert_id": "25368",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25368",
@@ -3659,24 +3623,6 @@
           "id": "149481",
           "name": "Rinyirru (Lakefield) National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn activities: Biniirr National Park (CYPAL)",
-      "alert_id": "25374",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25374",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Biniir National Park (CYPAL) from 3 June to 7 June 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in Biniir National Park (CYPAL) from 3 June to 7 June 2025.</p> <p>As a result of the planned burn, smoke may be seen in the nearby areas.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind. These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>Please monitor park alerts for current information.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-02",
-      "start_effective_date": "2025-06-03",
-      "end_date": "2025-06-07",
-      "parks": [
-        {
-          "id": "322660",
-          "name": "Biniirr National Park (CYPAL)",
-          "url": ""
         }
       ]
     },
@@ -4013,24 +3959,6 @@
           "id": "148508",
           "name": "Expedition National Park",
           "url": "https://parks.desi.qld.gov.au/parks/expedition"
-        }
-      ]
-    },
-    {
-      "title": "Major Event - Kokoda Challenge Bellbird Grove",
-      "alert_id": "25396",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25396",
-      "description": "Major Event - Kokoda Challenge Bellbird Grove - includes multi-use tracks",
-      "details": "<p>Major Event - Kokoda Challenge Bellbird Grove - includes multi-use tracks</p> <p>Disruption to Bellbird Grove due to major event up to Enoggera Reserve</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-06",
-      "start_effective_date": "2025-06-07",
-      "end_date": "2025-06-07",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
         }
       ]
     },
