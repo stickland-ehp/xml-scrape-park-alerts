@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 199,
-    "script_run_time": "2025-06-08 10:08:44"
+    "alerts_count": 203,
+    "script_run_time": "2025-06-09 10:10:53"
   },
   "alerts": [
     {
@@ -1591,6 +1591,24 @@
       ]
     },
     {
+      "title": "Limited access due to impacts from ex Tropical Cyclone Alfred",
+      "alert_id": "24997",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/24997",
+      "description": "Access to the Ex-HMAS Brisbane Conservation Park is limited to bookings through commercial dive operators. No access to public mooring.",
+      "details": "<p>Access to the Ex-HMAS Brisbane Conservation Park is limited to bookings through commercial dive operators. No access to public mooring.</p> <p>Access to the Ex-HMAS Brisbane Conservation Park is currently only available through bookings with authorised commercial dive operators (SunReef and Scuba World).</p> <p>Bookings for the public mooring will remain closed until further notice.</p> <p>Due to impacts from Tropical Cyclone Alfred, remediation works are being undertaken on the Ex-HMAS Brisbane dive site to ensure the safety of divers visiting the site.&nbsp;</p> <p>Please monitor this park alert for up-to-date details.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings<strong>(external link)</strong></a>.</p>",
+      "category": "Other",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-03-04",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "149465",
+          "name": "Ex-HMAS Brisbane Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/ex-hmas-brisbane"
+        }
+      ]
+    },
+    {
       "title": "Severe Weather Damage - M.V. Natone camping area",
       "alert_id": "25002",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25002",
@@ -1818,24 +1836,6 @@
           "id": "148055",
           "name": "Danbulla National Park and State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/danbulla"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to heavy rain impacts: Idalia National Park",
-      "alert_id": "25110",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25110",
-      "description": "Idalia National Park is temporarily closed until further notice due to severe road damage. The closure will remain in place until remediation works are completed, and the national park road is safe to open to visitors",
-      "details": "<p>Idalia National Park is temporarily closed until further notice due to severe road damage. The closure will remain in place until remediation works are completed, and the national park road is safe to open to visitors</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\"> </a>and request a refund online.&nbsp;</p> <p>For your safety, observe closure signs, barriers and directions from Rangers and do not enter any closed areas.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-28",
-      "start_effective_date": "2025-03-24",
-      "end_date": "2025-06-08",
-      "parks": [
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/idalia"
         }
       ]
     },
@@ -3499,24 +3499,6 @@
       ]
     },
     {
-      "title": "Upcoming temporary boardwalk closure: Baral Marrjanga track, Mossman Gorge, Daintree National Park (CYPAL)",
-      "alert_id": "25368",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25368",
-      "description": "The elevated boardwalk on the Baral Marrjanja track at Mossman Gorge, Daintree National Park (CYPAL) will be temporarily closed for essential maintenance works, from 6am Monday 10 June to 5pm Tuesday 11 June 2025.",
-      "details": "<p>The elevated boardwalk on the Baral Marrjanja track at Mossman Gorge, Daintree National Park (CYPAL) will be temporarily closed for essential maintenance works, from 6am Monday 10 June to 5pm Tuesday 11 June 2025.</p> <p>Lower river track will remain open for visitors to access the lookouts, beach, Rex Creek bridge track and the Rainforest circuit track. Please note wheelchair access will not be possible during this time.</p> <p>Please adhere to all safety signs and directions from rangers and do not enter the work area.</p> <p>We appreciate your understanding as we undertake these important works to maintain safe and enjoyable access to the area.</p> <p>For updates, please monitor park alerts or contact the&nbsp;<a href=\"https://parks.desi.qld.gov.au/parks/daintree/attractions/mossman-gorge-centre\">Mossman Gorge Centre</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-30",
-      "start_effective_date": "2025-06-10",
-      "end_date": "2025-06-11",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Open with caution: Munga-Thirri National Park",
       "alert_id": "25369",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25369",
@@ -3728,24 +3710,6 @@
           "id": "322391",
           "name": "Clemant State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Ellis Beach and Oak Beach",
-      "alert_id": "25382",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25382",
-      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burns (weather permitting) on Thursday 5 June, as part of the fire management program for Macalister Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burns (weather permitting) on Thursday 5 June, as part of the fire management program for Macalister Range National Park.</p> <p>QPWS Rangers may be working along roadsides in the vicinity of Ellis Beach. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Visitors are advised that smoke may be seen in the vicinity of Ellis beach and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities.To find out more, visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire mangement</a> webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-04",
-      "start_effective_date": "2025-06-04",
-      "end_date": "2025-06-08",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
         }
       ]
     },
@@ -3999,20 +3963,138 @@
       ]
     },
     {
-      "title": "Temporary Closure : Twin Falls and Warrie Circuit - Springbrook National Park",
-      "alert_id": "25399",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25399",
-      "description": "Due to a current incident at Springbrook National Park, Twin Falls and Warrie Circuit are temporarily closed",
-      "details": "<p>Due to a current incident at Springbrook National Park, Twin Falls and Warrie Circuit are temporarily closed</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-06-07",
-      "start_effective_date": "2025-06-07",
-      "end_date": "2025-06-08",
+      "title": "Aerial feral animal control activities: Annan River (Yuku Baja Muliku) National Park",
+      "alert_id": "25400",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25400",
+      "description": "Queensland Parks and Wildlife Service, together with Yuku Baja Muliku rangers will be conducting aerial feral animal control activities in Annan River (Yuku Baja Muliku) National Park from Sunday 15 June 2025 to Tuesday 17 June 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service, together with Yuku Baja Muliku rangers will be conducting aerial feral animal control activities in Annan River (Yuku Baja Muliku) National Park from Sunday 15 June 2025 to Tuesday 17 June 2025 (dates inclusive).</p> <p>During this time, people may hear helicopters and firearms being discharged.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-15",
+      "end_date": "2025-06-17",
       "parks": [
         {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
+          "id": "148372",
+          "name": "Annan River (Yuku Baja-Muliku) National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/annan-river"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn on Minjerribah (North Stradbroke Island)",
+      "alert_id": "25401",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25401",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) rangers will conduct a planned burn between 10/06/2025 and 17/06/2025, weather permitting, as part of the annual fire management program for Naree Budjong Djara National Park and Minjerribah Recreation Area.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) rangers will conduct a planned burn between 10/06/2025 and 17/06/2025, weather permitting, as part of the annual fire management program for Naree Budjong Djara National Park and Minjerribah Recreation Area.</p> <p><strong>During the planned burn, Main Beach camping area will be temporarily closed.</strong></p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Alfred Martin Way. For your safety and the safety of firefighters, please observe all signs, barriers, and directions from rangers and do not enter closed areas.</p> <p>Smoke may be seen across Minjerribah (North Stradbroke Island), including Point Lookout, Main Beach (Minjerribah) and nearby areas such as the Southern Bay Islands. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-09",
+      "end_date": "2025-06-17",
+      "parks": [
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/minjerribah"
+        },
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/naree-budjong-djara"
+        }
+      ]
+    },
+    {
+      "title": "Daisy Hill Ring Road Maintenance",
+      "alert_id": "25403",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25403",
+      "description": "Maintenance work is scheduled for the Daisy Hill Ring Road from the 11 June 2025 - 19 June 2025. Contractors will be operating heavy plant and equipment during this time to resurface the road. The Ring Road will be closed from 16-19 June 2025 to all vehicles. Pedestrians can utilise the majority of the Ring Road to access the Daisy Hill Day-use area. However, a section of the Ring Road will be closed to all visitors.",
+      "details": "<p>Maintenance work is scheduled for the Daisy Hill Ring Road from the 11 June 2025 - 19 June 2025. Contractors will be operating heavy plant and equipment during this time to resurface the road. The Ring Road will be closed from 16-19 June 2025 to all vehicles. Pedestrians can utilise the majority of the Ring Road to access the Daisy Hill Day-use area. However, a section of the Ring Road will be closed to all visitors.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-11",
+      "end_date": "2025-06-19",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of camping area due to flood impacts",
+      "alert_id": "25404",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25404",
+      "description": "Little Boomerang camping area and the return loop of the Mulga drive are temporarily closed until further notice due to impacts from recent heavy rainfall and flooding. The Desert Drive, River Drive, and the Mulga Drive (as far as Sawyers Lookout and Creek) are now open for day visitors. All roads are still 4WD only.",
+      "details": "<p>Little Boomerang camping area and the return loop of the Mulga drive are temporarily closed until further notice due to impacts from recent heavy rainfall and flooding. The Desert Drive, River Drive, and the Mulga Drive (as far as Sawyers Lookout and Creek) are now open for day visitors. All roads are still 4WD only.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-09",
+      "end_date": "2025-07-04",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Townsville Town Common Conservation Park",
+      "alert_id": "25405",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25405",
+      "description": "Maintenance work is scheduled for Townsville Town Common Conservation Park Freshwater Road from the 17 June 2025 - 20 June 2025. Freshwater Road will be closed from 17-20 June 2025 to all vehicles.",
+      "details": "<p>Maintenance work is scheduled for Townsville Town Common Conservation Park Freshwater Road from the 17 June 2025 - 20 June 2025. Freshwater Road will be closed from 17-20 June 2025 to all vehicles.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>For your safety please&nbsp;observe all signage, barriers and directions from rangers and do not enter closed</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-17",
+      "end_date": "2025-06-20",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/townsville"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Tamborine National Park",
+      "alert_id": "25406",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25406",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 10 to Thursday 12 June 2025, as part of the fire management program for Tamborine National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 10 to Thursday 12 June 2025, as part of the fire management program for Tamborine National Park.</p> <p>During the planned burn all internal fire breaks in the Cedar Creek / Courbould section of the park will be closed.</p> <p>Note: Cedar Creek Falls is not affected by this closure.</p> <p>Smoke may be seen in the vicinity of Cedar Creek, Tamborine (Village) and Tamborine Mountain. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-09",
+      "end_date": "2025-06-12",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Wooroonooran National Park, Mount Peter",
+      "alert_id": "25407",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25407",
+      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burns (weather permitting) from Tuesday 10 June 2025 to Sunday 31 August 2025, as part of the fire management program for Wooroonooran National Park.",
+      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burns (weather permitting) from Tuesday 10 June 2025 to Sunday 31 August 2025, as part of the fire management program for Wooroonooran National Park.</p> <p>QPWS Rangers may be working along roadsides and throughout the community of Pyramid Estate.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs.&nbsp;</p> <p>Visitors are advised that smoke may be seen in the vicinity of Gordonale, Edmonton, Goldsborough and the Atherton Tablelands. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-09",
+      "start_effective_date": "2025-06-09",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "322701",
+          "name": "Mount Peter Conservation Park",
+          "url": ""
         }
       ]
     }
