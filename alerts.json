@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 205,
-    "script_run_time": "2025-06-15 10:08:53"
+    "alerts_count": 206,
+    "script_run_time": "2025-06-16 10:11:08"
   },
   "alerts": [
     {
@@ -2209,29 +2209,6 @@
       ]
     },
     {
-      "title": "Little Ramsay Bay tidal creek crossing change",
-      "alert_id": "25201",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25201",
-      "description": "Following heavy rain during the wet season, the tidal creek immediately south of Little Ramsay Bay camping area has changed depth.",
-      "details": "<p>Following heavy rain during the wet season, the tidal creek immediately south of Little Ramsay Bay camping area has changed depth.</p> <p>The tide needed to cross this creek is now temporarily altered; it is recommended to cross the creek immediately south of Little Ramsay Bay camping area at 2.2m tide or below. Wind and weather can affect the crossing height of this creek in the coming weeks as the sand banks change.</p> <p>Cross tidal creeks when water is below knee height. Check tide times and heights in advance to see how this change may affect your hike, and to avoid crossing tidal creeks when the tide is high.</p> <p>Be Crocwise when crossing tidal creeks on the Thorsborne Trail.</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-12",
-      "start_effective_date": "2025-04-15",
-      "end_date": "2025-06-15",
-      "parks": [
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
-        },
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
       "title": "Partial opening with caution: Bladensburg National Park",
       "alert_id": "25208",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25208",
@@ -3581,29 +3558,6 @@
       ]
     },
     {
-      "title": "Planned Burn - Orchid Beach Waste Transfer Station",
-      "alert_id": "25391",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25391",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a prescribed burn between 8 June 2025 and 15 June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a prescribed burn between 8 June 2025 and 15 June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Orchid Beach Township, Waddy Point Camping areas and beach camping zone 8 (Marloo, Ocean Lake, Duling).<br /> Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-06",
-      "start_effective_date": "2025-06-08",
-      "end_date": "2025-06-15",
-      "parks": [
-        {
-          "id": "152843",
-          "name": "K'gari (formerly Fraser Island) Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn - Dundubara Southwest",
       "alert_id": "25392",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25392",
@@ -3630,12 +3584,12 @@
       "title": "Planned Burn - Eurong Area",
       "alert_id": "25394",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25394",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a prescribed burn between 10 June 2025 to 17 June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a prescribed burn between 10 June 2025 to 17 June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Eurong including beach camping zones 1 (Govi, Wongai) &amp; 2 (One Tree Rocks, Cornwells and Gabala) and a section of the Great Walk from Eurong Township to Central Station.<br /> <br /> Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a prescribed burn between 10 June 2025 to 25 June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a prescribed burn between 10 June 2025 to 25 June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Eurong including beach camping zones 1 (Govi, Wongai) &amp; 2 (One Tree Rocks, Cornwells and Gabala) and a section of the Great Walk from Eurong Township to Central Station.<br /> <br /> Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-06-06",
+      "start_date": "2025-06-16",
       "start_effective_date": "2025-06-10",
-      "end_date": "2025-06-17",
+      "end_date": "2025-06-25",
       "parks": [
         {
           "id": "148007",
@@ -3850,24 +3804,6 @@
       ]
     },
     {
-      "title": "Planned Burn in Palmview Conservation Park",
-      "alert_id": "25413",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25413",
-      "description": "Queensland Parks and Wildlife Service are conducting a planned burn (weather permitting) from Thursday 12 to Sunday 15 June 2025, as part of the fire management program for Palmview Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service are conducting a planned burn (weather permitting) from Thursday 12 to Sunday 15 June 2025, as part of the fire management program for Palmview Conservation Park.</p> <p>During the planned burn, the entirety of the park is closed to public access.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Pignata Rd and Laxton Rd. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of the park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Permit and agreement holders are not permitted to enter closed areas.</p> <p>The park will be reopened once an inspection has been carried out and the area is declared safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-06-10",
-      "start_effective_date": "2025-06-12",
-      "end_date": "2025-06-15",
-      "parks": [
-        {
-          "id": "322952",
-          "name": "Palmview Conservation Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Road maintenance - Heavy Machinery",
       "alert_id": "25415",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25415",
@@ -3994,13 +3930,13 @@
       ]
     },
     {
-      "title": "Prescribed Burn 0 Platypus Bay Road to Ocean Lake",
+      "title": "Prescribed Burn - Platypus Bay Road to Ocean Lake",
       "alert_id": "25425",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25425",
       "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 13th  20th June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 13th  20th June 2025 as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Orchid Beach, Ocean Lake, Waddy Point Campgrounds, and beach camping zone 8 (Ocean Lake, Marloo &amp; Duling).</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Other",
-      "start_date": "2025-06-12",
+      "start_date": "2025-06-16",
       "start_effective_date": "2025-06-13",
       "end_date": "2025-06-20",
       "parks": [
@@ -4066,48 +4002,20 @@
       ]
     },
     {
-      "title": "Temporary walking track closure for planned burning activities: Robsons Track, Gadgarra National Park",
-      "alert_id": "25430",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25430",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial burning operations along Gillies Highway in Gadgarra National Park from Monday the 16 June to Wednesday 18 June 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial burning operations along Gillies Highway in Gadgarra National Park from Monday the 16 June to Wednesday 18 June 2025 (dates inclusive).</p> <p>During this period Robson&rsquo;s track from the Gillies lookout to the Gillies Highway will be temporarily closed.</p> <p>Please adhere to all safety signage and instructions from rangers and do not enter this area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "title": "Planned burn, DAguilar National Park",
+      "alert_id": "25432",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25432",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Monday, June 16 to Friday, June 20, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Camp Mountain, Upper Kedron, Ferny Grove, The Gap and Enoggera Reservoir areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Monday, June 16 to Friday, June 20, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Camp Mountain, Upper Kedron, Ferny Grove, The Gap and Enoggera Reservoir areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Leos Break, Leos Link, Dam Break and Pump Shed Break. There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-06-13",
+      "start_date": "2025-06-16",
       "start_effective_date": "2025-06-16",
-      "end_date": "2025-06-18",
+      "end_date": "2025-06-20",
       "parks": [
         {
-          "id": "322678",
-          "name": "Gadgarra National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Goldsborough valley section and Mount Massie, Wooroonooran National Park, Gillies Highway, Little Mulgrave National Park",
-      "alert_id": "25431",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25431",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial burning operations in the following locations from Monday 16 June to Wednesday 18 June 2025 (dates inclusive):",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial burning operations in the following locations from Monday 16 June to Wednesday 18 June 2025 (dates inclusive):</p> <ul> <li>Goldsborough Valley section, Wooroonooran National Park</li> <li>Mount Massie, Wooroonooran National Park</li> <li>Gillies Highway, Little Mulgrave National Park.</li> </ul> <p>This burn is being carried out for fuel hazard reduction and conservation management purposes.</p> <p>Visitor facilities in Goldsborough Valley section, Wooroonooran National Park will not be impacted and will remain open, however smoke may be seen in the vicinity.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-13",
-      "start_effective_date": "2025-06-16",
-      "end_date": "2025-06-18",
-      "parks": [
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -4126,6 +4034,96 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Barakula State Forest",
+      "alert_id": "25434",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25434",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Barakula State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Barakula State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Barakula State Forest and Dogwood Creek camping area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>Smoke may be seen in the vicinity of Barakula State Forest. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-16",
+      "start_effective_date": "2025-06-16",
+      "end_date": "2025-06-27",
+      "parks": [
+        {
+          "id": "148143",
+          "name": "Barakula State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/barakula"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Expedition National Park",
+      "alert_id": "25435",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25435",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Expedition NP",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Expedition NP</p> <p>During the planned burn Starkvale camping area will remain open. Access from the east along Glenhaughton Road only. The Oil Bore Road access from the north will be closed.&nbsp;</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the battery tower in Expedition NP.&nbsp;For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>Smoke may be seen in the vicinity of the battery tower in Expedition National Park.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-16",
+      "start_effective_date": "2025-06-16",
+      "end_date": "2025-06-27",
+      "parks": [
+        {
+          "id": "148508",
+          "name": "Expedition National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/expedition"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn  Cooloola Recreation Area Noosa North Shore Block K",
+      "alert_id": "25436",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25436",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn on 17 June till the 24 June, as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn on 17 June till the 24 June, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Firefighters and machinery will be operating along the roadside of Beach Road, Noosa North Shore, as part of a planned burn.</p> <p>During the burn, traffic control will be present and effective on:<br /> &bull; Beach Road, Noosa North Shore</p> <p>For your safety and the safety of firefighters, please observe all signage, barriers, and directions from Rangers, and never enter closed areas.</p> <p>Smoke may be seen in the vicinity of Noosa North Shore, Teewah Village and Teewah Beach. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-16",
+      "start_effective_date": "2025-06-17",
+      "end_date": "2025-06-24",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Munga Thirri National Park-Eyre Creek",
+      "alert_id": "25438",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25438",
+      "description": "Birdsville Rangers would like to advise Munga Thirri National Park visitors that the Eyre creek is in flood. Visitors are advised to check river heights and conditions, prior to embarking on your journey.",
+      "details": "<p>Birdsville Rangers would like to advise Munga Thirri National Park visitors that the Eyre creek is in flood. Visitors are advised to check river heights and conditions, prior to embarking on your journey.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-16",
+      "start_effective_date": "2025-06-16",
+      "end_date": "2025-06-30",
+      "parks": [
+        {
+          "id": "148564",
+          "name": "Munga-Thirri National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/munga-thirri"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn on South Stradbroke Island",
+      "alert_id": "25440",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25440",
+      "description": "Queensland Parks and Wildlife Service (QPWS) rangers will conduct a planned burn between 16/06/2025 and 20/06/2025, weather permitting, as part of the annual fire management program for South Stradbroke Island Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) rangers will conduct a planned burn between 16/06/2025 and 20/06/2025, weather permitting, as part of the annual fire management program for South Stradbroke Island Conservation Park.</p> <p>For your safety and the safety of firefighters, please observe all signs, barriers, and directions from rangers and do not enter closed areas. As a result of the planned burn, smoke may be seen across South Stradbroke Island including Tipplers Precinct, Couran Precinct and Currigee Precinct. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. If visiting South Stradbroke Island, observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-06-16",
+      "start_effective_date": "2025-06-16",
+      "end_date": "2025-06-20",
+      "parks": [
+        {
+          "id": "151400",
+          "name": "South Stradbroke Island Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/south-stradbroke-island"
         }
       ]
     }
