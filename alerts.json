@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 187,
-    "script_run_time": "2025-06-23 10:11:29"
+    "alerts_count": 191,
+    "script_run_time": "2025-06-24 10:10:58"
   },
   "alerts": [
     {
@@ -874,11 +874,11 @@
       "alert_id": "24514",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
       "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.",
-      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.</p>",
+      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.</p> <p>Visitors are asked to be respectful of the limited space and of other campers.</p>",
       "category": "Announcement",
-      "start_date": "2025-01-07",
+      "start_date": "2025-06-24",
       "start_effective_date": "2024-09-17",
-      "end_date": "2025-06-30",
+      "end_date": "2025-08-30",
       "parks": [
         {
           "id": "148055",
@@ -1000,11 +1000,11 @@
       "alert_id": "24617",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24617",
       "description": "Errk Oykangand National Park (CYPAL) is closed for the wet season.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season.</p> <p>It is anticipated to reopen Tuesday 1 July 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season.</p> <p>It is anticipated to reopen 31 August 2025, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-01",
+      "start_date": "2025-06-24",
       "start_effective_date": "2024-11-01",
-      "end_date": "2025-06-30",
+      "end_date": "2025-08-30",
       "parks": [
         {
           "id": "148949",
@@ -1672,9 +1672,9 @@
       "description": "As a result of the recent severe weather conditions some trails have had some impacts but are still open for use. Visitors and riders are advised to use caution when using these trails.",
       "details": "<p>As a result of the recent severe weather conditions some trails have had some impacts but are still open for use. Visitors and riders are advised to use caution when using these trails.</p> <p>Repairs to these trails will be carried out in the coming months.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p>",
       "category": "Announcement",
-      "start_date": "2025-05-13",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-03-19",
-      "end_date": "2025-06-27",
+      "end_date": "2025-08-31",
       "parks": [
         {
           "id": "148035",
@@ -1857,11 +1857,11 @@
       "alert_id": "25150",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25150",
       "description": "Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.",
-      "details": "<p>Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.</p> <p><strong>Open areas:</strong></p> <ul> <li>Freshwater Lagoon Road</li> <li>Payet&rsquo;s Tower; Pandanus viewing area; Freshwater bird hide and Jacana bird hide</li> <li>Freshwater trail and Lagoon trail&nbsp;to Cape Pallarenda Road trailhead</li> <li>Wetlands walk.</li> </ul> <p><strong>Closed areas:</strong></p> <p>All other mountain bike and hiking trails in Townsville Town Common Conservation Park remain closed until damage repair works are completed and conditions are considered safe.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Townsville Town Common Conservation Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.</p> <p><strong>Open areas:</strong></p> <ul> <li>Freshwater Lagoon Road</li> <li>Payet&rsquo;s Tower; Pandanus viewing area; Freshwater bird hide and Jacana bird hide</li> <li>Freshwater trail and Lagoon trail&nbsp;to Cape Pallarenda Road trailhead</li> <li>Wetlands walk and Forest walk</li> <li>Many Peaks walking track</li> </ul> <p><strong>Closed areas:</strong></p> <p>The following trails remain closed until damage repair works are completed and conditions are considered safe.</p> <ul> <li>Shelly Beach trail</li> <li>Smedleys trail</li> <li>Under the Radar trail</li> </ul> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Townsville Town Common Conservation Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-28",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-04-01",
-      "end_date": "2025-06-28",
+      "end_date": "2025-07-23",
       "parks": [
         {
           "id": "148311",
@@ -2053,15 +2053,15 @@
       ]
     },
     {
-      "title": "Partial opening with caution: Bowling Green Bay National Park",
+      "title": "Open with caution: Bowling Green Bay National Park",
       "alert_id": "25199",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25199",
-      "description": "Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from severe weather events and drive to suit conditions on the unsealed roads.",
-      "details": "<p>Some areas in Bowling Green Bay National Park are now open with caution. Stay alert for potential hazards from severe weather events and drive to suit conditions on the unsealed roads.</p> <p><strong>Open areas</strong></p> <ul> <li>Cape Cleveland section including Cocoa Creek camping area,&nbsp;Salmon Creek camping area and Barratta Creek camping area.</li> </ul> <p><strong>Partially open areas</strong></p> <p>Some areas of Mount Elliot section (Alligator Creek) are&nbsp;<strong>open with caution</strong>.</p> <ul> <li>Alligator Creek day-use area; Alligator Creek walk; Alligator Creek lookout; Cockatoo Creek trail and Cockatoo Creek camping area.</li> </ul> <p><strong>Closed areas</strong></p> <p>Due to the impacts of prolonged heavy rainfall the following areas in Bowling Green Bay National Park <strong>remain closed.</strong></p> <ul> <li>Mount Elliot section (upper reaches of Alligator Creek): Alligator Falls trail;&nbsp;Alligator Falls camping area and Mount Elliot remote bush camp.</li> <li>Bowling Green Bay section: Barratta Creek camping area.</li> </ul> <p>Rangers are monitoring conditions and closed areas will reopen when conditions are considered safe.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bowling Green Bay National Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-28",
+      "description": "All visitor sites, walking tracks and camping areas in Bowling Green Bay National Park are now open.",
+      "details": "<p>All visitor sites, walking tracks and camping areas in Bowling Green Bay National Park are now open.</p> <p>Caution is required on the Alligator Falls trail as the walking track may be overgrown in places. Visitors hiking the trail must stay alert for potential hazards such as rocks and logs, and exercise caution when traversing the numerous creek crossings (refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0029/283259/cockatoo-creek-alligator-falls-walking-trails-map.pdf\">Cockatoo Creek and Alligator Falls walking trails map</a>).</p> <p>For your safety, obey all onsite access warnings and safety signage.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Other",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-04-15",
-      "end_date": "2025-06-28",
+      "end_date": "2025-07-23",
       "parks": [
         {
           "id": "149433",
@@ -2535,15 +2535,15 @@
       ]
     },
     {
-      "title": "Planned burns: Bowling Green Bay National Park",
+      "title": "Planned burning activities: Cape Cleveland section, Bowling Green Bay National Park",
       "alert_id": "25284",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25284",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Wednesday 14 May 2025 until Monday 30 June 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Wednesday 14 May 2025 until Monday 30 June 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.</p> <p>Rangers will be conducting low intensity burns throughout Cape Cleveland section and Mount Elliot section of the national park. For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Mount Elliot remote bush camp, Cape Cleveland remote bush camp, Alligator Falls camping area and Alligator Falls trail are closed through out the period of the planned burns.</p> <p>Smoke may be seen in the vicinity of the Bowling Green Bay National Park from Bruce Highway, Alligator Road and Cape Cleveland Road.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 23 June 2025 until Monday 30 June 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 23 June 2025 until Monday 30 June 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.</p> <p>QPWS Rangers will be conducting low intensity burns in the Cape Cleveland section of the national park adjacent to the Australian Institute of Marine Science site.</p> <p>All visitor sites will remain open during the planned burning activities. Smoke may be seen in the vicinity of Cape Cleveland Road.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological heath, biodiversity and conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-05-28",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-05-14",
-      "end_date": "2025-06-30",
+      "end_date": "2025-07-01",
       "parks": [
         {
           "id": "149433",
@@ -2587,9 +2587,9 @@
       "description": "The walking tracks and mountain bike trail at Cape Pallarenda Conservation Park have sustained significant damage and erosion due to prolonged heavy rainfall from severe weather events.",
       "details": "<p>The walking tracks and mountain bike trail at Cape Pallarenda Conservation Park have sustained significant damage and erosion due to prolonged heavy rainfall from severe weather events.</p> <p><strong>For your safety, access remains closed to:</strong></p> <ul> <li>The Forts walk and the Graves circuit walk</li> <li>Shelly Cove trail</li> </ul> <p>Please observe all signage, barriers, access warnings and directions from Rangers and <strong>do not enter closed areas</strong>. QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>We appreciate your patience and understanding with the temporary closures.</p> <p>The Cape Pallarenda day-use area is open, with road access available from 6.30am to 6.30pm daily.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> for Cape Pallarenda Conservation Park on the department&rsquo;s website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-28",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-05-13",
-      "end_date": "2025-06-28",
+      "end_date": "2025-07-23",
       "parks": [
         {
           "id": "148997",
@@ -2756,12 +2756,12 @@
       "title": "Planned burn for Parklands Conservation Park",
       "alert_id": "25340",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25340",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Parklands Conservation Park between Tuesday 27 May and Friday 27 June, 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Bli Bli and Nambour areas.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Parklands Conservation Park between Tuesday 27 May and Friday 27 June, 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Bli Bli and Nambour areas.</p> <p>If visiting <strong>Parklands Conservation Park</strong> observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Some sections of mountain bike trails and fire management trails will be closed during the burn period and reopened when safe.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communi-ties, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors</li> <li>Keep respiratory medication close by</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website:</p> <p>https://www.qld.gov.au/environment/management/monitoring/air</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).<br /> &nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Parklands Conservation Park between Tuesday 27 May and Friday 31 July, 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Bli Bli and Nambour areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Parklands Conservation Park between Tuesday 27 May and Friday 31 July, 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Bli Bli and Nambour areas.</p> <p>If visiting <strong>Parklands Conservation Park</strong> observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Some sections of mountain bike trails and fire management trails will be closed during the burn period and reopened when safe.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communi-ties, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors</li> <li>Keep respiratory medication close by</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website:</p> <p>https://www.qld.gov.au/environment/management/monitoring/air</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).<br /> &nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-10",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-05-26",
-      "end_date": "2025-06-27",
+      "end_date": "2025-07-31",
       "parks": [
         {
           "id": "148035",
@@ -2774,12 +2774,12 @@
       "title": "Planned burn for Noosa National Park - Headland section",
       "alert_id": "25341",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25341",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Headland section, Noosa National Park between Tuesday 27 May and Friday 27 June, 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Sunshine Beach, Noosa Junction, Sunshine Beach Road and Viewland Drive, Noosa.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Headland section, Noosa National Park between Tuesday 27 May and Friday 27 June, 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Sunshine Beach, Noosa Junction, Sunshine Beach Road and Viewland Drive, Noosa.</p> <p>If visiting <strong>Noosa National Park </strong>observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.<br /> If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: https://www.qld.gov.au/environment/management/monitoring/air.&nbsp;</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).<br /> &nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Headland section, Noosa National Park between Tuesday 27 May and Thursday 31 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Sunshine Beach, Noosa Junction, Sunshine Beach Road and Viewland Drive, Noosa.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Headland section, Noosa National Park between Tuesday 27 May and Thursday 31 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Sunshine Beach, Noosa Junction, Sunshine Beach Road and Viewland Drive, Noosa.</p> <p>If visiting <strong>Noosa National Park </strong>observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.<br /> If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: https://www.qld.gov.au/environment/management/monitoring/air.&nbsp;</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).<br /> &nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-10",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-05-27",
-      "end_date": "2025-06-27",
+      "end_date": "2025-07-31",
       "parks": [
         {
           "id": "147955",
@@ -2843,15 +2843,15 @@
       ]
     },
     {
-      "title": "Temporary road closure and no access to camping area from 16 June 2025, Cathu Cauley Road: Cathu State Forest",
+      "title": "UPDATE Temporary road closure and no access to camping area from 16 June 2025, Cathu Cauley Road: Cathu State Forest",
       "alert_id": "25355",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25355",
-      "description": "Visitors are advised that due to necessary roadworks on Cathu Cauley Road in Cathu State Forest, a temporary road closure will be in place from Monday 16 June to Friday 27 June 2025 (dates inclusive).",
-      "details": "<p>Visitors are advised that due to necessary roadworks on Cathu Cauley Road in Cathu State Forest, a temporary road closure will be in place from Monday 16 June to Friday 27 June 2025 (dates inclusive).</p> <p>This temporary closure of a section of Cathu Cauley Road will mean there will be <strong>no access to Jaxut camping area during this time</strong>.</p> <p>Campers with an existing camping booking during the closure period of <strong>Monday 16 June to Friday 27 June</strong>, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a> and request a refund online.&nbsp;</p> <p>For your safety, follow any closed signs and directions from Rangers, and do not enter closed areas.</p> <p>Queensland Parks and Wildlife Service apologises for the inconvenience this temporary road closure may cause and we thank you for your support. We look forward to welcoming visitors back to Jaxut camping area at the completion of the roadworks.</p>",
+      "description": "Visitors are advised that due to necessary roadworks on Cathu Cauley Road in Cathu State Forest, a temporary road closure will be in place from Monday 16 June to Monday 7 July 2025 (dates inclusive).",
+      "details": "<p>Visitors are advised that due to necessary roadworks on Cathu Cauley Road in Cathu State Forest, a temporary road closure will be in place from Monday 16 June to Monday 7 July 2025 (dates inclusive).</p> <p>This temporary closure of a section of Cathu Cauley Road will mean there will be <strong>no access to Jaxut camping area during this time</strong>.</p> <p>Campers with an existing camping booking during the closure period of <strong>Monday 16 June to Monday 7 July 2025</strong>, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a> and request a refund online.&nbsp;</p> <p>For your safety, follow any closed signs and directions from Rangers, and do not enter closed areas.</p> <p>Queensland Parks and Wildlife Service apologises for the inconvenience this temporary road closure may cause and we thank you for your support. We look forward to welcoming visitors back to Jaxut camping area at the completion of the roadworks.</p>",
       "category": "Announcement",
-      "start_date": "2025-05-29",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-05-29",
-      "end_date": "2025-06-27",
+      "end_date": "2025-07-07",
       "parks": [
         {
           "id": "148027",
@@ -3300,9 +3300,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Barakula State Forest.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Barakula State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Barakula State Forest and Dogwood Creek camping area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>Smoke may be seen in the vicinity of Barakula State Forest. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Announcement",
-      "start_date": "2025-06-16",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-06-16",
-      "end_date": "2025-06-27",
+      "end_date": "2025-07-11",
       "parks": [
         {
           "id": "148143",
@@ -3316,9 +3316,9 @@
       "alert_id": "25435",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25435",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn until Friday 27 June 2025, as part of the fire management program for Expedition National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn until Friday 27 June 2025, as part of the fire management program for Expedition National Park.</p> <p>Firefighters and machinery may be working along roadsides.&nbsp;For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>During the planned burn these areas are <strong>closed to public access:</strong>&nbsp;</p> <ul> <li>Bedourie section.</li> <li>Expedition Repeater tower.</li> <li>West of Tin Hut Road.</li> </ul> <p>The following areas will remain <strong>open to public access</strong>:</p> <ul> <li>Starkvale camping area.</li> <li>Lonesome and Beilba sections including all visitor areas.</li> </ul> <p>Smoke may be seen in the vicinity and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn until Friday 27 June 2025, as part of the fire management program for Expedition National Park.</p> <p>Firefighters and machinery may be working along roadsides.&nbsp;For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>During the planned burn these areas are <strong>closed to public access:</strong>&nbsp;</p> <ul> <li>Bedourie section.</li> </ul> <p>The following areas will remain <strong>open to public access</strong>:</p> <ul> <li>Starkvale camping area.</li> <li>Lonesome and Beilba sections including all visitor areas.</li> </ul> <p>Smoke may be seen in the vicinity and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-17",
+      "start_date": "2025-06-24",
       "start_effective_date": "2025-06-16",
       "end_date": "2025-06-27",
       "parks": [
@@ -3462,24 +3462,6 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.desi.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Nerang National Park",
-      "alert_id": "25448",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25448",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 19 June 2025, as part of the fire management program for Nerang National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 19 June 2025, as part of the fire management program for Nerang National Park.</p> <p>During the planned burn these areas are <strong>closed to public access</strong>:</p> <ul> <li>Petes mountain bike trail</li> <li>Matilda Road and Coolibah Drive entries</li> <li>Matilda Break between Matilda Road and emergency marker NG22</li> <li>Coolibah Break between Coolibah Drive and emergency marker NG23</li> <li>North Street Break between emergency marker NG22 to NG23</li> <li>The area bound by these breaks and the eastern boundary of the park.</li> </ul> <p>Please see the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/156040/nerang-park-map.pdf\">Nerang National Park map</a> for information on emergency marker locations.</p> <p>Smoke may be seen in the vicinity of Nerang and Gaven. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-06-18",
-      "start_effective_date": "2025-06-18",
-      "end_date": "2025-06-23",
-      "parks": [
-        {
-          "id": "147971",
-          "name": "Nerang National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/nerang"
         }
       ]
     },
@@ -3772,6 +3754,121 @@
           "id": "148896",
           "name": "Venman Bushland National Park",
           "url": "https://parks.desi.qld.gov.au/parks/venman-bushland"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Rogers Park, Yarraman State Forest",
+      "alert_id": "25464",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25464",
+      "description": "Rogers Day Use area is closed.",
+      "details": "<p>Rogers Day Use area is closed.</p> <p>Rogers Day Use area facilities at Yarraman State Forest is closed due to the toilet facilities being significantly damaged from vandalism.</p> <p>Access to other areas in Yarraman State Forest remains open.&nbsp;</p> <p>Alternative location for visiting include Emu Creek at Benarkin State Forest and Bunya Mountains National Park.</p> <p>Apologies for any inconvenience.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-24",
+      "start_effective_date": "2025-06-23",
+      "end_date": "2025-12-23",
+      "parks": [
+        {
+          "id": "148095",
+          "name": "Yarraman State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/yarraman"
+        }
+      ]
+    },
+    {
+      "title": "Tri-Activ8 Trail Run Event",
+      "alert_id": "25465",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25465",
+      "description": "Tri-ActiV8 will be hosting the Eungella Trail Run through Crediton State Forest, Saturday 28 June 2025, from 0700 to 1100. Park visitors are to expect increased traffic during the event. When travelling in the area, please be mindful of event competitors and obey all traffic management signage.",
+      "details": "<p>Tri-ActiV8 will be hosting the Eungella Trail Run through Crediton State Forest, Saturday 28 June 2025, from 0700 to 1100. Park visitors are to expect increased traffic during the event. When travelling in the area, please be mindful of event competitors and obey all traffic management signage.</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-24",
+      "start_effective_date": "2025-06-28",
+      "end_date": "2025-06-28",
+      "parks": [
+        {
+          "id": "148215",
+          "name": "Crediton State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/crediton"
+        }
+      ]
+    },
+    {
+      "title": "Range Road Closure - Mount Mee Section, D'Aguilar National Park",
+      "alert_id": "25466",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25466",
+      "description": "Range Road south of Byron Creek Rd to Lacey's Creek Rd has been closed due to a combination of recent road works and rainfall. This has caused unsafe conditions for vehicles to traverse along this road. QPWS apologises for any inconveniences caused by this closure.",
+      "details": "<p>Range Road south of Byron Creek Rd to Lacey's Creek Rd has been closed due to a combination of recent road works and rainfall. This has caused unsafe conditions for vehicles to traverse along this road. QPWS apologises for any inconveniences caused by this closure.</p> <p>Please note Jacky Centre Road will remain open during this closure although there will be no through access to Range Rd.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-24",
+      "start_effective_date": "2025-06-24",
+      "end_date": "2025-06-27",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "K'gari Great Walk",
+      "alert_id": "25467",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25467",
+      "description": "Please be advised of the following closures and conditions.",
+      "details": "<p>Please be advised of the following closures and conditions.</p> <ul> <li><strong>Markwells Break</strong> Great Walk access track from the Eastern Beach will be closed due to track damage and water inundation. Access between Lake Boomanjin and Eurong township will remain open.</li> <li><strong>Jabiru</strong> Great Walk access track and <strong>Jabiru</strong> hikers camp will be closed due to track damage and water inundation. The walking track from Dilli Village north will remain open.</li> <li><strong>Lake Boomanjin</strong> and <strong>Lake Garawongera</strong> areas have short sections of water inundation. Walkers are advised to plan ahead.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Your safety is our concern, but your responsibility.</p> <p>&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-06-24",
+      "start_effective_date": "2025-07-01",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Daintree National Park (CYPAL), Mount Lewis National Park, Mount Windsor National Park, Mowbray National Park and Ngalba-Bulal National Park (CYPAL)",
+      "alert_id": "25468",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25468",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial planned burning activities in Daintree National Park (CYPAL), Mount Lewis National Park, Mount Windsor National Park, Mowbray National Park and Ngalba-Bulal National Park (CYPAL) on Wednesday 25 June 2025. Aircraft will be operating in the area during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial planned burning activities in Daintree National Park (CYPAL), Mount Lewis National Park, Mount Windsor National Park, Mowbray National Park and Ngalba-Bulal National Park (CYPAL) on Wednesday 25 June 2025. Aircraft will be operating in the area during this period.</p> <p>The sections included in this planned burning activity are:</p> <ul> <li>Daintree National Park (CYPAL) - Daintree west, Creb Track area (burning will occur away from the road corridor and will not affect any road users).&nbsp;Visitor facilities within Daintree National Park (CYPAL) will remain open.</li> <li>Mt Lewis National Park - Windmill Creek</li> <li>Mowbray National Park - Mowbray Falls</li> </ul> <p>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.</p> <p>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-24",
+      "start_effective_date": "2025-06-25",
+      "end_date": "2025-06-28",
+      "parks": [
+        {
+          "id": "148231",
+          "name": "Ngalba-bulal National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/ngalba-bulal"
+        },
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        },
+        {
+          "id": "322776",
+          "name": "Mount Windsor National Park",
+          "url": ""
+        },
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        },
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-lewis"
         }
       ]
     }
