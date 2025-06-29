@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2025-06-28 10:09:03"
+    "alerts_count": 168,
+    "script_run_time": "2025-06-29 10:09:40"
   },
   "alerts": [
     {
@@ -3314,24 +3314,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Ellis Beach to Wangetti section, Macalister Range National Park",
-      "alert_id": "25461",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25461",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial planned burning operations on Wednesday 25 June 2025 within the Ellis Beach to Wangetti section of Macalister Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial planned burning operations on Wednesday 25 June 2025 within the Ellis Beach to Wangetti section of Macalister Range National Park.</p> <p>No visitor facilities will be impacted but smoke may be seen in this area.</p> <p>This burn is being carried out for fuel hazard reduction and conservation management purposes.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-23",
-      "start_effective_date": "2025-06-25",
-      "end_date": "2025-06-28",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Rogers Park, Yarraman State Forest",
       "alert_id": "25464",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25464",
@@ -3346,24 +3328,6 @@
           "id": "148095",
           "name": "Yarraman State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/yarraman"
-        }
-      ]
-    },
-    {
-      "title": "Tri-Activ8 Trail Run Event",
-      "alert_id": "25465",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25465",
-      "description": "Tri-ActiV8 will be hosting the Eungella Trail Run through Crediton State Forest, Saturday 28 June 2025, from 0700 to 1100. Park visitors are to expect increased traffic during the event. When travelling in the area, please be mindful of event competitors and obey all traffic management signage.",
-      "details": "<p>Tri-ActiV8 will be hosting the Eungella Trail Run through Crediton State Forest, Saturday 28 June 2025, from 0700 to 1100. Park visitors are to expect increased traffic during the event. When travelling in the area, please be mindful of event competitors and obey all traffic management signage.</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-24",
-      "start_effective_date": "2025-06-28",
-      "end_date": "2025-06-28",
-      "parks": [
-        {
-          "id": "148215",
-          "name": "Crediton State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/crediton"
         }
       ]
     },
@@ -3387,44 +3351,6 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Daintree National Park (CYPAL), Mount Lewis National Park, Mount Windsor National Park, Mowbray National Park and Ngalba-Bulal National Park (CYPAL)",
-      "alert_id": "25468",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25468",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial planned burning activities in Daintree National Park (CYPAL), Mount Lewis National Park, Mount Windsor National Park, Mowbray National Park and Ngalba-Bulal National Park (CYPAL) on Wednesday 25 June 2025. Aircraft will be operating in the area during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial planned burning activities in Daintree National Park (CYPAL), Mount Lewis National Park, Mount Windsor National Park, Mowbray National Park and Ngalba-Bulal National Park (CYPAL) on Wednesday 25 June 2025. Aircraft will be operating in the area during this period.</p> <p>The sections included in this planned burning activity are:</p> <ul> <li>Daintree National Park (CYPAL) - Daintree west, Creb Track area (burning will occur away from the road corridor and will not affect any road users).&nbsp;Visitor facilities within Daintree National Park (CYPAL) will remain open.</li> <li>Mt Lewis National Park - Windmill Creek</li> <li>Mowbray National Park - Mowbray Falls</li> </ul> <p>Most fire activity is expected to self-extinguish each evening, however some fire may remain active and smoke visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.</p> <p>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-24",
-      "start_effective_date": "2025-06-25",
-      "end_date": "2025-06-28",
-      "parks": [
-        {
-          "id": "148231",
-          "name": "Ngalba-bulal National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/ngalba-bulal"
-        },
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
-        },
-        {
-          "id": "322776",
-          "name": "Mount Windsor National Park",
-          "url": ""
-        },
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        },
-        {
-          "id": "148484",
-          "name": "Mount Lewis National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-lewis"
         }
       ]
     },
