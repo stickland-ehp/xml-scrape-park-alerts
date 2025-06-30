@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2025-06-29 10:09:40"
+    "alerts_count": 170,
+    "script_run_time": "2025-06-30 10:11:02"
   },
   "alerts": [
     {
@@ -303,9 +303,9 @@
       "description": "Jardine River National Park and areas of Heathlands Resources Reserve and Jardine Resources Reserve are now Apudthama National Park (CYPAL). Queensland Parks and Wildlife Service and Apudthama National Park (CYPAL) Traditional Owners jointly manage this national park (CYPAL).",
       "details": "<p>Jardine River National Park and areas of Heathlands Resources Reserve and Jardine Resources Reserve are now Apudthama National Park (CYPAL). Queensland Parks and Wildlife Service and Apudthama National Park (CYPAL) Traditional Owners jointly manage this national park (CYPAL).</p> <p>These web pages are in the process of being updated with the new name and the joint management arrangements with the area&#39;s Traditional Owners.</p>",
       "category": "Announcement",
-      "start_date": "2025-06-25",
+      "start_date": "2025-06-30",
       "start_effective_date": "2022-09-09",
-      "end_date": "2025-06-30",
+      "end_date": "2025-07-04",
       "parks": [
         {
           "id": "148892",
@@ -516,11 +516,11 @@
       "alert_id": "23646",
       "url": "https://parks.desi.qld.gov.au/park-alerts/23646",
       "description": "Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.",
-      "details": "<p>Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.</p> <p>These roads are closed to all motorised vehicles until further notice until damage can be repaired.</p> <p><strong>Please note:</strong>&nbsp;Koombooloomba Conservation Park camping area and Koombooloomba bush camping area both remain open and can be accessed&nbsp;via Tully Falls Road.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p>See map:&nbsp;https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf</p>",
+      "details": "<p>Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.</p> <p>These roads are closed to all motorised vehicles until further notice until damage can be repaired.</p> <p><strong>Please note:</strong>&nbsp;Koombooloomba Conservation Park camping area and Koombooloomba bush camping area both remain open and can be accessed&nbsp;via Tully Falls Road.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf\">See map</a>:&nbsp;https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-12",
+      "start_date": "2025-06-30",
       "start_effective_date": "2024-01-08",
-      "end_date": "2025-06-30",
+      "end_date": "2025-07-07",
       "parks": [
         {
           "id": "148802",
@@ -1086,14 +1086,14 @@
       ]
     },
     {
-      "title": "All camping areas except for Midway Waterhole camping area now open: Rinyirru (Lakefield) National Park (CYPAL)",
+      "title": "All camping areas are now open: Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "24687",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24687",
-      "description": "All camping areas in Rinyirru (Lakefield) National Park (CYPAL) except for Midway Waterhole camping area, are now open. Midway Waterhole camping area will remain closed until further notice.",
-      "details": "<p>All camping areas in Rinyirru (Lakefield) National Park (CYPAL) except for Midway Waterhole camping area, are now open. Midway Waterhole camping area will remain closed until further notice.</p> <p>Please see information below for camping area status (open/closed).</p> <p><strong>The following camping areas south of Lakefield ranger base are open:</strong></p> <ul> <li>Kalpowar Crossing</li> <li>Mick Fienn Waterhole</li> <li>Dingo Waterhole</li> <li>Old Faithful Waterhole</li> <li>Kennedy Bend</li> <li>Twelve Mile Lagoon</li> <li>Six Mile Waterhole</li> <li>Old Laura Homestead</li> <li>Horseshoe Lagoon</li> <li>Welcome Waterhole</li> </ul> <p><strong>The following camping areas north of Lakefield ranger base are open:</strong></p> <ul> <li>Sweetwater Lake</li> <li>Annie River</li> <li>Five Mile Creek</li> <li>Seven Mile</li> <li>Saltwater Crossing</li> <li>Bizant River</li> <li>Brown Creek</li> <li>Basin Hole</li> <li>Top Whiphandle Waterhole</li> <li>Bottom Whiphandle Waterhole</li> <li>Orange Plain Waterhole</li> <li>Hann Crossing</li> <li>Hanushs Waterhole</li> <li>Melaleuca Waterhole</li> </ul> <p><strong>The following camping area will remain closed until further notice due to damaged access road:</strong></p> <ul> <li>Midway Waterhole</li> </ul> <p><strong>For Lakefield Road conditions please visit&nbsp;<a href=\"https://www.cook.qld.gov.au/services/roads/road-conditions-closures/\">Cook Shire Council&nbsp;webpage</a>.&nbsp;</strong></p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-06-27",
-      "start_effective_date": "2024-12-01",
+      "description": "All camping areas in Rinyirru (Lakefield) National Park (CYPAL) are now open.",
+      "details": "<p>All camping areas in Rinyirru (Lakefield) National Park (CYPAL) are now open.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "category": "Park or facility opening",
+      "start_date": "2025-06-30",
+      "start_effective_date": "2025-06-30",
       "end_date": "2025-07-15",
       "parks": [
         {
@@ -1459,9 +1459,9 @@
       "description": "Access to the Ex-HMAS Brisbane Conservation Park is limited to bookings through commercial dive operators. No access to public mooring.",
       "details": "<p>Access to the Ex-HMAS Brisbane Conservation Park is limited to bookings through commercial dive operators. No access to public mooring.</p> <p>Access to the Ex-HMAS Brisbane Conservation Park is currently only available through bookings with authorised commercial dive operators (SunReef and Scuba World).</p> <p>Bookings for the public mooring will remain closed until further notice.</p> <p>Due to impacts from Tropical Cyclone Alfred, remediation works are being undertaken on the Ex-HMAS Brisbane dive site to ensure the safety of divers visiting the site.&nbsp;</p> <p>Please monitor this park alert for up-to-date details.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings<strong>(external link)</strong></a>.</p>",
       "category": "Other",
-      "start_date": "2025-06-09",
+      "start_date": "2025-06-30",
       "start_effective_date": "2025-03-04",
-      "end_date": "2025-06-30",
+      "end_date": "2025-09-30",
       "parks": [
         {
           "id": "149465",
@@ -1928,9 +1928,9 @@
       "description": "As a result of wet weather, Nuga Nuga National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Nuga Nuga National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-21",
+      "start_date": "2025-06-30",
       "start_effective_date": "2025-04-08",
-      "end_date": "2025-06-30",
+      "end_date": "2025-07-14",
       "parks": [
         {
           "id": "148155",
@@ -2730,15 +2730,15 @@
       ]
     },
     {
-      "title": "Wet weather access Hell Hole Gorge National Park",
+      "title": "Hell Hole Gorge National Park partially open - following flood damage",
       "alert_id": "25346",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25346",
-      "description": "As a result of wet weather, the access road to Hell Hole Gorge National Park is closed until declared safe.",
-      "details": "<p>As a result of wet weather, the access road to Hell Hole Gorge National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Some areas in Hell Hole Gorge National Park are now open. Stay alert for hazards and drive to suit the conditions.",
+      "details": "<p>Some areas in Hell Hole Gorge National Park are now open. Stay alert for hazards and drive to suit the conditions.</p> <p><strong>Open areas:&nbsp;</strong></p> <ul> <li> <p>Powell Creek camping area.</p> </li> <li> <p>All access roads.</p> </li> </ul> <p>The following areas remain closed until declared safe/works completed:&nbsp;</p> <ul> <li> <p>&nbsp;Hell Hole Waterhole walking track.</p> </li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-27",
+      "start_date": "2025-06-30",
       "start_effective_date": "2025-06-01",
-      "end_date": "2025-06-29",
+      "end_date": "2025-07-30",
       "parks": [
         {
           "id": "148788",
@@ -2770,9 +2770,9 @@
       "alert_id": "25358",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25358",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Monday 14 July 2025 (dates inclusive) in the following parks, as part of the fire management program.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Monday 14 July 2025 (dates inclusive) in the following parks, as part of the fire management program.</p> <ul> <li>Cape Melville National Park&nbsp; (CYPAL) (closed for wet season during this period)</li> <li>Rinyirru (Lakefield) National Park (CYPAL) (partially closed for wet season during this period)</li> <li>Lama Lama National Park (CYPAL)</li> </ul> <p>Visitor facilities in the open sections of the parks above will not be impacted by these planned burns, but smoke may be seen in the surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Monday 14 July 2025 (dates inclusive) in the following parks, as part of the fire management program.</p> <ul> <li>Cape Melville National Park&nbsp; (CYPAL) (closed for wet season during this period)</li> <li>Rinyirru (Lakefield) National Park (CYPAL)</li> <li>Lama Lama National Park (CYPAL)</li> </ul> <p>Visitor facilities in the open sections of the parks above will not be impacted by these planned burns, but smoke may be seen in the surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-06-20",
+      "start_date": "2025-06-30",
       "start_effective_date": "2025-06-01",
       "end_date": "2025-07-14",
       "parks": [
@@ -3072,9 +3072,9 @@
       "alert_id": "25420",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25420",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden West Forest Reserve, Dinden National Park and Davies Creek National Park from Friday 13 June 2025 to Tuesday 15 July 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden West Forest Reserve, Dinden National Park and Davies Creek National Park from Friday 13 June 2025 to Tuesday 15 July 2025 (dates inclusive).</p> <p>During this period camping areas, day-use areas, walking tracks and roads will remain open, except for&nbsp;<strong>Davies Creek Mountain Bike Park</strong> which will be closed from 25 to 27 June 2025 (dates inclusive) (see separate park alert for further details).</p> <p>Visitors are advised that smoke may be seen in the vicinity of these areas&nbsp;at times throughout this period.</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden West Forest Reserve, Dinden National Park and Davies Creek National Park from Friday 13 June 2025 to Tuesday 15 July 2025 (dates inclusive).</p> <p>During this period camping areas, day-use areas, walking tracks and roads will remain open.</p> <p>Visitors are advised that smoke may be seen in the vicinity of these areas&nbsp;at times throughout this period.</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-06-23",
+      "start_date": "2025-06-30",
       "start_effective_date": "2025-06-13",
       "end_date": "2025-07-15",
       "parks": [
@@ -3410,6 +3410,47 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Season",
+      "alert_id": "25477",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25477",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Snapper Island, Hope Islands National Park (CYPAL) from July to August as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Snapper Island, Hope Islands National Park (CYPAL) from July to August as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Before any planned burn is undertaken, local stakeholders and booked campers&nbsp;will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-30",
+      "start_effective_date": "2025-07-01",
+      "end_date": "2025-08-01",
+      "parks": [
+        {
+          "id": "148368",
+          "name": "Snapper Island, Hope Islands National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/hope-snapper"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Oyala Thumotang National Park (CYPAL) and KULLA (McIlwraith Range) National Park (CYPAL)",
+      "alert_id": "25478",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25478",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial incendiary and ground burning operations in Oyala Thumotang National Park (CYPAL) and KULLA (McIlwraith Range) National Park (CYPAL) from Tuesday 1 July 2025 to Friday 11 July 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial incendiary and ground burning operations in Oyala Thumotang National Park (CYPAL) and KULLA (McIlwraith Range) National Park (CYPAL) from Tuesday 1 July 2025 to Friday 11 July 2025.</p> <p>Visitors are advised that smoke may be present in the area during this time.</p> <p>Please exercise caution when driving through the park, and follow all signage and directions from park authorities.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-06-30",
+      "start_effective_date": "2025-07-01",
+      "end_date": "2025-07-11",
+      "parks": [
+        {
+          "id": "148933",
+          "name": "Oyala Thumotang National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/oyala-thumotang"
+        },
+        {
+          "id": "151355",
+          "name": "KULLA (McIlwraith Range) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/kulla-mcilwraith-range"
         }
       ]
     }
