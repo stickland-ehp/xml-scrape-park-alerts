@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 161,
-    "script_run_time": "2025-07-03 10:10:57"
+    "script_run_time": "2025-07-04 10:10:38"
   },
   "alerts": [
     {
@@ -285,9 +285,9 @@
       "description": "Jardine River National Park and areas of Heathlands Resources Reserve and Jardine Resources Reserve are now Apudthama National Park (CYPAL). Queensland Parks and Wildlife Service and Apudthama National Park (CYPAL) Traditional Owners jointly manage this national park (CYPAL).",
       "details": "<p>Jardine River National Park and areas of Heathlands Resources Reserve and Jardine Resources Reserve are now Apudthama National Park (CYPAL). Queensland Parks and Wildlife Service and Apudthama National Park (CYPAL) Traditional Owners jointly manage this national park (CYPAL).</p> <p>These web pages are in the process of being updated with the new name and the joint management arrangements with the area&#39;s Traditional Owners.</p>",
       "category": "Announcement",
-      "start_date": "2025-06-30",
+      "start_date": "2025-07-04",
       "start_effective_date": "2022-09-09",
-      "end_date": "2025-07-04",
+      "end_date": "2025-07-18",
       "parks": [
         {
           "id": "148892",
@@ -892,8 +892,8 @@
       "url": "https://parks.desi.qld.gov.au/park-alerts/24685",
       "description": "Cape Melville National Park (CYPAL) is closed for the wet season up until and including Friday 4 July 2025. The park will reopen on Saturday 5 July 2025.",
       "details": "<p>Cape Melville National Park (CYPAL) is closed for the wet season up until and including Friday 4 July 2025. The park will reopen on Saturday 5 July 2025.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-03",
+      "category": "Announcement",
+      "start_date": "2025-07-04",
       "start_effective_date": "2024-12-01",
       "end_date": "2025-07-19",
       "parks": [
@@ -1490,15 +1490,15 @@
       ]
     },
     {
-      "title": "Temporary track closure: Musgravea track, Djiru National Park",
+      "title": "Track reopen: Musgravea track, Djiru National Park",
       "alert_id": "25147",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25147",
-      "description": "The Musgravea track in Dijru National Park is temporarily closed. This closure is due to a severely damaged causeway from recent weather events, making it extremely dangerous for visitors to use safely.",
-      "details": "<p>The Musgravea track in Dijru National Park is temporarily closed. This closure is due to a severely damaged causeway from recent weather events, making it extremely dangerous for visitors to use safely.</p> <p>Queensland Parks and Wildlife Service will assess and conduct remedial works when water levels recede.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-06-25",
+      "description": "The Musgravea track in Dijru National Park is now open. Queensland Parks and Wildlife Service has completed remedial works.",
+      "details": "<p>The Musgravea track in Dijru National Park is now open. Queensland Parks and Wildlife Service has completed remedial works.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2025-07-04",
       "start_effective_date": "2025-04-01",
-      "end_date": "2025-07-30",
+      "end_date": "2025-07-11",
       "parks": [
         {
           "id": "147950",
@@ -2365,12 +2365,12 @@
       "title": "Planned burning activities: Cape Melville National Park (CYPAL), Rinyirru (Lakefield) National Park (CYPAL) and Lama Lama National Park (CYPAL)",
       "alert_id": "25358",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25358",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Monday 14 July 2025 (dates inclusive) in the following parks, as part of the fire management program.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Monday 14 July 2025 (dates inclusive) in the following parks, as part of the fire management program.</p> <ul> <li>Cape Melville National Park&nbsp; (CYPAL) (closed for wet season during this period)</li> <li>Rinyirru (Lakefield) National Park (CYPAL)</li> <li>Lama Lama National Park (CYPAL)</li> </ul> <p>Visitor facilities in the open sections of the parks above will not be impacted by these planned burns, but smoke may be seen in the surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Wednesday 30 July 2025 (dates inclusive) in the following parks, as part of the fire management program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Wednesday 30 July 2025 (dates inclusive) in the following parks, as part of the fire management program.</p> <ul> <li>Cape Melville National Park&nbsp; (CYPAL)</li> <li>Rinyirru (Lakefield) National Park (CYPAL)</li> <li>Lama Lama National Park (CYPAL)</li> </ul> <p>Visitor facilities in the open sections of the parks above will not be impacted by these planned burns, but smoke may be seen in the surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-06-30",
+      "start_date": "2025-07-04",
       "start_effective_date": "2025-06-01",
-      "end_date": "2025-07-14",
+      "end_date": "2025-07-30",
       "parks": [
         {
           "id": "148235",
@@ -2559,13 +2559,13 @@
       ]
     },
     {
-      "title": "Temporary closure of camping area due to flood impacts",
+      "title": "Temporary closure: Little Boomerang camping area, Welford National Park",
       "alert_id": "25404",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25404",
-      "description": "Little Boomerang camping area and the return loop of the Mulga Drive are temporarily closed until further notice due to impacts from recent heavy rainfall and flooding. The Desert Drive, River Drive, and the Mulga Drive (as far as Sawyers Lookout and Creek) are now open for day visitors. All roads are still 4WD only.",
-      "details": "<p>Little Boomerang camping area and the return loop of the Mulga Drive are temporarily closed until further notice due to impacts from recent heavy rainfall and flooding. The Desert Drive, River Drive, and the Mulga Drive (as far as Sawyers Lookout and Creek) are now open for day visitors. All roads are still 4WD only.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Little Boomerang camping area and the return loop road of the Mulga Drive are temporarily closed until further notice due to impacts from recent heavy rainfall and flooding.",
+      "details": "<p>Little Boomerang camping area and the return loop road of the Mulga Drive are temporarily closed until further notice due to impacts from recent heavy rainfall and flooding.</p> <p>The Desert Drive, River Drive and the Mulga Drive (as far as Sawyers Lookout and Creek) are now open for day visitors. All roads remain 4WD access only.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online at&nbsp;<a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-03",
+      "start_date": "2025-07-04",
       "start_effective_date": "2025-06-09",
       "end_date": "2025-07-13",
       "parks": [
@@ -2664,33 +2664,15 @@
       ]
     },
     {
-      "title": "Planned burning activities and temporary walking track closure: Hartleys Falls walking track and section of track from Quaids Road to Hartley Falls walking track, Macalister Range National Park",
-      "alert_id": "25428",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25428",
-      "description": "Queensland Parks and Wildlife Service are conducting planned burning activities on Thursday the 3 July 2025 in the Hartleys Falls area.",
-      "details": "<p>Queensland Parks and Wildlife Service are conducting planned burning activities on Thursday the 3 July 2025 in the Hartleys Falls area.</p> <p>The Hartleys Falls walking track and section of track from Quaids Road to Hartley Falls walking track will be temporarily closed&nbsp;on 3 July 2025 and will reopen on Saturday 5 July 2025.</p> <p>The fire is for hazard reduction and conservation purposes.</p> <p>Please adhere to all instructions by rangers and track closure signage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-07-01",
-      "start_effective_date": "2025-07-03",
-      "end_date": "2025-07-05",
-      "parks": [
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
-        }
-      ]
-    },
-    {
       "title": "Planned burn, DAguilar National Park",
       "alert_id": "25432",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25432",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Monday, June 16 to Friday, July 4, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Camp Mountain, Upper Kedron, Ferny Grove, The Gap and Enoggera Reservoir areas.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Monday, June 16 to Friday, July 4, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Camp Mountain, Upper Kedron, Ferny Grove, The Gap and Enoggera Reservoir areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Leos Break, Leos Link, Dam Break, Pump Shed Break and Marshalls Break. There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Monday, June 16 to Monday, July 7, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Camp Mountain, Upper Kedron, Ferny Grove, The Gap and Enoggera Reservoir areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park from Monday, June 16 to Monday, July 7, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Nebo, Camp Mountain, Upper Kedron, Ferny Grove, The Gap and Enoggera Reservoir areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days; Leos Break, Leos Link, Dam Break, Pump Shed Break and Marshalls Break. There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility. For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-06-27",
+      "start_date": "2025-07-04",
       "start_effective_date": "2025-06-16",
-      "end_date": "2025-07-04",
+      "end_date": "2025-07-07",
       "parks": [
         {
           "id": "148259",
@@ -3033,33 +3015,15 @@
       ]
     },
     {
-      "title": "Severe Weather damage Conondale National Park",
-      "alert_id": "25480",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25480",
-      "description": "As a result of severe weather damage, some areas in Conondale National Park are closed until declared safe.",
-      "details": "<p>As a result of severe weather damage, some areas in Conondale National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Closed areas:</p> <ul> <li>Booloumba Creek Road from Booloumba 4 camping area to Sunday Creek Road.</li> <li>Funnels hut Road.</li> <li>Booloumba falls carpark and Day Use Area.</li> <li>Peters Creek Carpark.</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-01",
-      "start_effective_date": "2025-07-01",
-      "end_date": "2025-07-03",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Macalister Range National Park",
       "alert_id": "25481",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25481",
       "description": "Queensland Parks and Wildlife Service are conducting planned burning activities on Wednesday 2 July 2025, within the Oak Beach to Red Cliff Point section of Macalister Range National Park. This burn is being carried out for fuel hazard reduction and conservation management purposes. Aerial operations are being conducted and smoke may be seen in this area.",
       "details": "<p>Queensland Parks and Wildlife Service are conducting planned burning activities on Wednesday 2 July 2025, within the Oak Beach to Red Cliff Point section of Macalister Range National Park. This burn is being carried out for fuel hazard reduction and conservation management purposes. Aerial operations are being conducted and smoke may be seen in this area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-07-01",
+      "start_date": "2025-07-04",
       "start_effective_date": "2025-07-02",
-      "end_date": "2025-07-05",
+      "end_date": "2025-07-06",
       "parks": [
         {
           "id": "149397",
@@ -3111,24 +3075,6 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
-      "title": "High Winds Warning",
-      "alert_id": "25484",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25484",
-      "description": "High Winds Warning is currently in effect for Walkabout Creek and surrounding areas. These conditions are expected to persist until 03/07/2025 For your safety, we recommend avoiding heavily wooded areas as falling branches may pose a risk. Stay clear of open spaces where loose debris could become hazardous.",
-      "details": "<p>High Winds Warning is currently in effect for Walkabout Creek and surrounding areas. These conditions are expected to persist until 03/07/2025 For your safety, we recommend avoiding heavily wooded areas as falling branches may pose a risk. Stay clear of open spaces where loose debris could become hazardous.</p> <p>Outdoor activities like cycling, hiking, or picnicking are recommended to be postponed during this time.</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-02",
-      "start_effective_date": "2025-07-02",
-      "end_date": "2025-07-03",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     },
@@ -3249,6 +3195,65 @@
           "id": "148705",
           "name": "Endeavour River National Park",
           "url": "https://parks.desi.qld.gov.au/parks/endeavour-river"
+        }
+      ]
+    },
+    {
+      "title": "Cornwells Road partially closed, Kgari Recreation Area",
+      "alert_id": "25490",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25490",
+      "description": "Access between Eastern Beach and Kingfisher Bay via Cornwells Road remains closed due to damage caused by Tropical Cyclone Alfred. Recommended access between Eastern Beach and Kingfisher Bay or Central Station is via Eurong resort on Eurong-Wanggoolba Road to Pile Valley Road. Stay alert for hazards and drive to suit the conditions.",
+      "details": "<p>Access between Eastern Beach and Kingfisher Bay via Cornwells Road remains closed due to damage caused by Tropical Cyclone Alfred. Recommended access between Eastern Beach and Kingfisher Bay or Central Station is via Eurong resort on Eurong-Wanggoolba Road to Pile Valley Road. Stay alert for hazards and drive to suit the conditions.</p> <p><strong>The following areas remain closed until declared safe and works completed:</strong></p> <ul> <li>Cornwells Road between Northern Road intersection and Pile Valley Road intersection (No through access between Eastern Beach and Kingfisher Bay)</li> </ul> <p><strong>Partially open areas:</strong></p> <ul> <li>Access to Northern Road and Valley of the Giants via Cornwells Road from Eastern Beach</li> </ul> <p><strong>Open areas:</strong></p> <ul> <li>Lake Wabby Road</li> <li>Lake Garawongera Scenic Road</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter areas that remain closed.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-04",
+      "start_effective_date": "2025-07-04",
+      "end_date": "2025-10-03",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Safety advice - Emu in Park",
+      "alert_id": "25491",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25491",
+      "description": "An emu living in Parklands Conservation Park is active at this time of year, particularly towards visitors and horses.",
+      "details": "<p>An emu living in Parklands Conservation Park is active at this time of year, particularly towards visitors and horses.</p> <p>QPWS recommends horse-riders consider riding at alternative locations during the months of May to September, and that visitors use caution when visiting the Park.</p> <p>For your safety please be alert for nearby wildlife.</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-04",
+      "start_effective_date": "2025-07-04",
+      "end_date": "2025-09-30",
+      "parks": [
+        {
+          "id": "148035",
+          "name": "Parklands Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/parklands"
+        }
+      ]
+    },
+    {
+      "title": "Road access advice: Emu Swamp and Moonstone campings areas, Blackbraes National Park",
+      "alert_id": "25492",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25492",
+      "description": "Due to recent rainfall the access road to Emu Swamp camping area remains boggy in places.",
+      "details": "<p>Due to recent rainfall the access road to Emu Swamp camping area remains boggy in places.</p> <p>Access to Emu Swamp camping area is available for high clearance 4WD vehicles only and not suitable for large camper trailers or caravans.</p> <p>Road works are in progress on the Kennedy Developmental Road which may impact access to Moonstone camping area for short periods.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-04",
+      "start_effective_date": "2025-07-04",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackbraes"
         }
       ]
     }
