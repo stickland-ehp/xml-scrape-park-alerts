@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2025-07-05 10:09:04"
+    "alerts_count": 156,
+    "script_run_time": "2025-07-06 10:09:39"
   },
   "alerts": [
     {
@@ -937,29 +937,6 @@
           "id": "148512",
           "name": "Halifax Bay Wetlands National Park",
           "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure extension: Wairuna section, Girringun National Park",
-      "alert_id": "24695",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24695",
-      "description": "The wet season closure for Wairuna section of Girringun National Park has been extended and will reopen on Saturday 5 July 2025.",
-      "details": "<p>The wet season closure for Wairuna section of Girringun National Park has been extended and will reopen on Saturday 5 July 2025.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-02",
-      "start_effective_date": "2024-11-19",
-      "end_date": "2025-07-05",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun-wairuna"
         }
       ]
     },
