@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2025-07-11 10:10:38"
+    "alerts_count": 162,
+    "script_run_time": "2025-07-12 10:09:12"
   },
   "alerts": [
     {
@@ -1408,24 +1408,6 @@
       ]
     },
     {
-      "title": "Track reopen: Musgravea track, Djiru National Park",
-      "alert_id": "25147",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25147",
-      "description": "The Musgravea track in Dijru National Park is now open. Queensland Parks and Wildlife Service has completed remedial works.",
-      "details": "<p>The Musgravea track in Dijru National Park is now open. Queensland Parks and Wildlife Service has completed remedial works.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-07-04",
-      "start_effective_date": "2025-04-01",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "147950",
-          "name": "Djiru National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/djiru"
-        }
-      ]
-    },
-    {
       "title": "UPDATE Temporary closure for roadworks from Monday 12 May: Blackdown Tableland National Park",
       "alert_id": "25148",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25148",
@@ -2510,24 +2492,6 @@
       ]
     },
     {
-      "title": "Road maintenance - Heavy Machinery",
-      "alert_id": "25415",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25415",
-      "description": "Scheduled roads maintenance to fire breaks/roads within Nerang National Park is currently underway. All park users are advised to be aware of heavy machinery carrying out works within Nerang National Park. Caution needs to be taken when approaching machinery being operated on fire breaks and roads. Machinery operators have restricted/limited vision of walkers, runners and MTB riders approaching, especially from behind. If you come across operating machinery, please wait until the driver/operator has seen you or otherwise take a detour off the road if safe to do so giving the machinery a wide berth of at least 5 metres.",
-      "details": "<p>Scheduled roads maintenance to fire breaks/roads within Nerang National Park is currently underway. All park users are advised to be aware of heavy machinery carrying out works within Nerang National Park. Caution needs to be taken when approaching machinery being operated on fire breaks and roads. Machinery operators have restricted/limited vision of walkers, runners and MTB riders approaching, especially from behind. If you come across operating machinery, please wait until the driver/operator has seen you or otherwise take a detour off the road if safe to do so giving the machinery a wide berth of at least 5 metres.</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-01",
-      "start_effective_date": "2025-07-01",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "147971",
-          "name": "Nerang National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/nerang"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Dinden West Forest Reserve, Dinden National Park and Davies Creek National Park",
       "alert_id": "25420",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25420",
@@ -2542,24 +2506,6 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Barakula State Forest",
-      "alert_id": "25434",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25434",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Barakula State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 16th June to 27th June 2025, as part of the fire management program for Barakula State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Barakula State Forest and Dogwood Creek camping area. For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>Smoke may be seen in the vicinity of Barakula State Forest. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-24",
-      "start_effective_date": "2025-06-16",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "148143",
-          "name": "Barakula State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/barakula"
         }
       ]
     },
@@ -2596,29 +2542,6 @@
           "id": "148896",
           "name": "Venman Bushland National Park",
           "url": "https://parks.desi.qld.gov.au/parks/venman-bushland"
-        }
-      ]
-    },
-    {
-      "title": "Partial track closure - Purling Brook Falls circuit.",
-      "alert_id": "25447",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25447",
-      "description": "Pending favourable weather conditions, planned maintenance of the John Stacey suspension bridge on the Purling Brook Falls circuit will be conducted between Thursday the 19th of June 2025 and Friday the 11th of July 2025.",
-      "details": "<p>Pending favourable weather conditions, planned maintenance of the John Stacey suspension bridge on the Purling Brook Falls circuit will be conducted between Thursday the 19th of June 2025 and Friday the 11th of July 2025.</p> <p>As a result of the maintenance works, the eastern side of the Purling Brook Falls circuit will be temporarily closed from the beginning of the walking track at the top of Purling Brook Falls to the base of the falls.</p> <p>Access to Purling Brook Falls and the Warringa Pool track is via the western side of the Purling Brook Falls circuit. Queensland Parks and Wildlife Services ask that park visitors return via the same track.</p> <p>Observe all signage, barriers, and directions from rangers, and do not enter the closed area.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter the closed areas.<br /> &nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-03",
-      "start_effective_date": "2025-06-19",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
         }
       ]
     },
@@ -2779,29 +2702,6 @@
       ]
     },
     {
-      "title": "Planned burn for Western Creek State Forest",
-      "alert_id": "25473",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25473",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 26 June to Friday 11 July 2025, as part of the fire management program for Western Creek State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 26 June to Friday 11 July 2025, as part of the fire management program for Western Creek State Forest.</p> <p>Firefighters and machinery may be working along roadsides. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-03",
-      "start_effective_date": "2025-06-26",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "322443",
-          "name": "Bringalily State Forest",
-          "url": ""
-        },
-        {
-          "id": "322348",
-          "name": "Western Creek State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Severe weather damage and shoreline retrogression - M.V. Natone camping area",
       "alert_id": "25475",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25475",
@@ -2838,29 +2738,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Oyala Thumotang National Park (CYPAL) and KULLA (McIlwraith Range) National Park (CYPAL)",
-      "alert_id": "25478",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25478",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial incendiary and ground burning operations in Oyala Thumotang National Park (CYPAL) and KULLA (McIlwraith Range) National Park (CYPAL) from Tuesday 1 July 2025 to Friday 11 July 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial incendiary and ground burning operations in Oyala Thumotang National Park (CYPAL) and KULLA (McIlwraith Range) National Park (CYPAL) from Tuesday 1 July 2025 to Friday 11 July 2025.</p> <p>Visitors are advised that smoke may be present in the area during this time.</p> <p>Please exercise caution when driving through the park, and follow all signage and directions from park authorities.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-30",
-      "start_effective_date": "2025-07-01",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "148933",
-          "name": "Oyala Thumotang National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/oyala-thumotang"
-        },
-        {
-          "id": "151355",
-          "name": "KULLA (McIlwraith Range) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/kulla-mcilwraith-range"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Horsetailer Waterhole camping area, Oyala Thumotang National Park (CYPAL)",
       "alert_id": "25479",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25479",
@@ -2875,24 +2752,6 @@
           "id": "148933",
           "name": "Oyala Thumotang National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/oyala-thumotang"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Mount Yarrabah, Grey Peaks National Park",
-      "alert_id": "25482",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25482",
-      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burning activities from Thursday 3 to Friday 11 July 2025 (dates inclusive) and fire may continue to be seen in the area over the following days. This planned burn is part of the fire management program for Grey Peaks Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burning activities from Thursday 3 to Friday 11 July 2025 (dates inclusive) and fire may continue to be seen in the area over the following days. This planned burn is part of the fire management program for Grey Peaks Range National Park.</p> <p>QPWS Rangers may be working along roadsides in the area of Mount Yarrabah. For your safety and the safety of authorities, please slow down and observe all directions and signage.</p> <p>Visitors are advised that smoke may be seen in the areas of Yarrabah and Cairns, persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management | Parks and forests | Department of the Environment, Tourism, Science and Innovation</a> webpage.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-08",
-      "start_effective_date": "2025-07-03",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "148448",
-          "name": "Grey Peaks National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/grey-peaks"
         }
       ]
     },
@@ -3076,47 +2935,6 @@
       ]
     },
     {
-      "title": "Planned Burn - Kings Bore South",
-      "alert_id": "25494",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25494",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Kings Bore South Area from Tuesday 8 to Friday 11 July 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Kings Bore South Area from Tuesday 8 to Friday 11 July 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and maintain a healthy forest environment.</p> <p>A section of the Cooloola Great Walk between Dutgee and Littoria Walking Camps will be temporarily closed, and detours via the Western firebreak will be in place. Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas or exclusion zones.</p> <p>Smoke may be seen in the vicinity of the Cooloola Great Walk. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-08",
-      "start_effective_date": "2025-07-08",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - Noosa National Park, East Weyba section",
-      "alert_id": "25495",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25495",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in East Weyba section, Noosa National Park between Tuesday 8 July and Wednesday 9 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Sunshine Beach, Sunrise Beach and David Low Way, Noosa.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in East Weyba section, Noosa National Park between Tuesday 8 July and Wednesday 9 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Sunshine Beach, Sunrise Beach and David Low Way, Noosa.</p> <p>If visiting&nbsp;<strong>Noosa National Park&nbsp;</strong>observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage - qld.gov.au/QPWSFire</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: https://www.qld.gov.au/environment/management/monitoring/air</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-07",
-      "start_effective_date": "2025-07-08",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Walu Wugirriga (Mount Alexandra lookout) in Cape Tribulation section of Daintree National Park (CYPAL)",
       "alert_id": "25496",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25496",
@@ -3131,47 +2949,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Ravenshoe Forest Reserve 1",
-      "alert_id": "25497",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25497",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) from Tuesday 8 July to Friday 11 July 2025 (dates inclusive), as part of the fire management program for Ravenshoe Forest Reserve 1.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) from Tuesday 8 July to Friday 11 July 2025 (dates inclusive), as part of the fire management program for Ravenshoe Forest Reserve 1.</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Mount Ronald Road, Mount Pandanus Road and Arthur Baillie Road. For your safety and the safety of authorities, please slow down, observe all directions and signs and do not entre the burn area.</p> <p>Smoke may be seen in the vicinity of Mount Ronald Road and nearby Tully Falls National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-07",
-      "start_effective_date": "2025-07-08",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "148600",
-          "name": "Tully Falls National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
-        },
-        {
-          "id": "322282",
-          "name": "Ravenshoe Forest Reserve 1",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Wondai State Forest North",
-      "alert_id": "25499",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25499",
-      "description": "Queensland Parks and Wildlife Service will conduct a planned burn in Wondai State Forest North between 8th July to 11th July 2025 weather permitting as part of the fire management program for Wondai State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service will conduct a planned burn in Wondai State Forest North between 8th July to 11th July 2025 weather permitting as part of the fire management program for Wondai State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vincinity of Wondai State Forest. For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;</p> <p>During the planned burn Wondai State Forest North is closed to public access.&nbsp;</p> <p>Smoke may be seen in the vincinity of Cherbourg, Wondai, Murgon and Bunya Highway near Wondai. Persons with respiritory or other health problems should seek medical advice on mitigation the effects of smoke inhalation.&nbsp;</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-08",
-      "start_effective_date": "2025-07-08",
-      "end_date": "2025-07-11",
-      "parks": [
-        {
-          "id": "322446",
-          "name": "Wondai State Forest",
-          "url": ""
         }
       ]
     },
