@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2025-07-12 10:09:12"
+    "alerts_count": 163,
+    "script_run_time": "2025-07-13 10:09:29"
   },
   "alerts": [
     {
@@ -2974,12 +2974,12 @@
       "title": "Planned burn - Littabella National Park",
       "alert_id": "25501",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25501",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn from Wednesday 9 July 2025 to Sunday 13 July 2025, as part of the fire management program for Littabella National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn from Wednesday 9 July 2025 to Sunday 13 July 2025, as part of the fire management program for Littabella National Park.</p> <p>Smoke may be seen in the vicinity of Watalgan, Rosedale and Winfield. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p><br /> Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn from Wednesday 9 July 2025 to Friday 18 July 2025, as part of the fire management program for Littabella National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn from Wednesday 9 July 2025 to Friday 18 July 2025, as part of the fire management program for Littabella National Park.</p> <p>Smoke may be seen in the vicinity of Watalgan, Rosedale and Winfield. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p><br /> Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-07-08",
+      "start_date": "2025-07-13",
       "start_effective_date": "2025-07-09",
-      "end_date": "2025-07-13",
+      "end_date": "2025-07-18",
       "parks": [
         {
           "id": "322935",
@@ -3272,6 +3272,29 @@
           "id": "148231",
           "name": "Ngalba-bulal National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/ngalba-bulal"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Happy Valley North",
+      "alert_id": "25518",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25518",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 15th and 27th July 2025, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Butchulla Aboriginal Corporation (BAC) rangers will conduct a prescribed burn between 15th and 27th July 2025, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of Yidney Rocks, Happy Valley township, Eli Creek, Guluri and Eli camping zones. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>QPWS Rangers and machinery may be working along the Happy Valley to Moon Point Road. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-13",
+      "start_effective_date": "2025-07-15",
+      "end_date": "2025-07-27",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     }
