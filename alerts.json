@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2025-07-13 10:09:29"
+    "alerts_count": 174,
+    "script_run_time": "2025-07-14 10:11:38"
   },
   "alerts": [
     {
@@ -749,9 +749,9 @@
       "description": "Girraween National Park is undergoing a $7.7M upgrade to its visitor facilities with construction expected to take place from October 2024 to July 2025 (weather permitting). As a result, the Girraween National Park Visitor Information Centre and adjacent car park will be closed temporarily.",
       "details": "<p>Girraween National Park is undergoing a $7.7M upgrade to its visitor facilities with construction expected to take place from October 2024 to July 2025 (weather permitting). As a result, the Girraween National Park Visitor Information Centre and adjacent car park will be closed temporarily.</p> <p>The upgrade includes a new amenities block, a new visitor centre building and more car parking to meet increased visitor demand. The existing visitor centre will be refurbished into an office for the local rangers.</p> <p>During construction:<br /> &bull; The visitor centre and adjacent car park will be TEMPORARILY CLOSED.<br /> &bull; Visitors can park in the day-use area and camping areas.<br /> &bull; Trailhead and orientation signs are available in the day-use area.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-07",
+      "start_date": "2025-07-14",
       "start_effective_date": "2024-10-11",
-      "end_date": "2025-07-18",
+      "end_date": "2025-08-10",
       "parks": [
         {
           "id": "148087",
@@ -2528,24 +2528,6 @@
       ]
     },
     {
-      "title": "Firebreaks closed Venman Bushland National Park",
-      "alert_id": "25442",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25442",
-      "description": "Contractors are installing underground powerlines adjacent to Venman Bushland National Park from 26 June 2025 to 14 July 2025. The construction work has temporally impacted accessibility to use two firebreaks within Venman Bushland National Park.",
-      "details": "<p>Contractors are installing underground powerlines adjacent to Venman Bushland National Park from 26 June 2025 to 14 July 2025. The construction work has temporally impacted accessibility to use two firebreaks within Venman Bushland National Park.</p> <p>The following Firebreaks at Venman Bushland National Park will be closed for the duration of this work.</p> <ol> <li>Northern Firebreak&nbsp;</li> <li>Northern Link Firebreak&nbsp; (closed between Gravellia&nbsp;and Northern Firebreak)</li> </ol> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-06-26",
-      "start_effective_date": "2025-06-26",
-      "end_date": "2025-07-13",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/venman-bushland"
-        }
-      ]
-    },
-    {
       "title": "Reduced campsites due to erosion",
       "alert_id": "25451",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25451",
@@ -2935,6 +2917,29 @@
       ]
     },
     {
+      "title": "Planned Burn - Kings Bore South",
+      "alert_id": "25494",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25494",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Kings Bore South Area from Tuesday 15 to Friday 18 July 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn operation within the Kings Bore South Area from Tuesday 15 to Friday 18 July 2025, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and maintain a healthy forest environment.</p> <p>A section of the Cooloola Great Walk between Dutgee and Littoria Walking Camps will be temporarily closed, and detours via the Western firebreak will be in place. Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas or exclusion zones.</p> <p>Smoke may be seen in the vicinity of the Cooloola Great Walk. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-15",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure: Walu Wugirriga (Mount Alexandra lookout) in Cape Tribulation section of Daintree National Park (CYPAL)",
       "alert_id": "25496",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25496",
@@ -3095,6 +3100,24 @@
           "id": "148784",
           "name": "Kroombit Tops National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
+      "title": "Walking Track Maintenance- Bunya Track",
+      "alert_id": "25508",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25508",
+      "description": "QPWS&amp;P will be undertaking maintenance works on the Bunyaville Track in Bunyaville Conservation Park. This will result in a closure to the eastern half of the track from the day use area to the Western Carpark Road.",
+      "details": "<p>QPWS&amp;P will be undertaking maintenance works on the Bunyaville Track in Bunyaville Conservation Park. This will result in a closure to the eastern half of the track from the day use area to the Western Carpark Road.</p> <p>The other half of the circuit including the Tree Discovery Track will remain open. QPWS&amp;P apologises for any inconveniences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-14",
+      "end_date": "2025-07-14",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
         }
       ]
     },
@@ -3295,6 +3318,186 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn Marys Creek State Forest",
+      "alert_id": "25519",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25519",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn from Monday 14 July 2025 to Friday 18 July 2025, as part of the fire management program for Marys Creek State Forest.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn from Monday 14 July 2025 to Friday 18 July 2025, as part of the fire management program for Marys Creek State Forest.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-14",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "322588",
+          "name": "Marys Creek State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Magentic Island National Park",
+      "alert_id": "25520",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25520",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires.</p> <p>QPWS will conduct a planned burn in the National Park behind Arcadia and Nelly Bay between Tuesday the 15th and Friday the 18th of July 2025, weather permitting. QPWS will be working with other agencies including Horseshoe Bay Rural Fire Service and Queensland Fire Department to achieve this planned burn which will involve a combination of ground and aerial ignitions. &nbsp;&nbsp;</p> <p>As a result of the planned burn, smoke may be seen in areas adjacent to the burn including; Nelly Bay, Arcadia, and Sooning Street, Aracadia Road and Magnetic Island Road.</p> <p>To ensure public safety, the <strong>Forts Junction - Nelly - Arcadia Track (Route 4)</strong> <strong>will be closed from 7:00am Tuesday the 15th of July to 5:00pm Friday the 18th of July.</strong> <strong>There will be no access from Mandalay Avenue in Nelly Bay, Endeavour Road in Arcadia, or from the Forts Junction on Horseshoe Bay Road.</strong></p> <p>Visitors to Magnetic Island National Park should observe all signs, barriers, and directions from QPWS Rangers and other fire authority staff. Do not enter closed areas for your own saftey.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-15",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "4WD access only : Little Boomerang camping area",
+      "alert_id": "25521",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25521",
+      "description": "Conditions in Little Boomerang Camping Area in Welford National Park are only suitable for high clearance 4WD vehicles. During the March 2025 flood event, river sand was deposited across the camping area making the roads and camp sites soft and loose in places.",
+      "details": "<p>Conditions in Little Boomerang Camping Area in Welford National Park are only suitable for high clearance 4WD vehicles. During the March 2025 flood event, river sand was deposited across the camping area making the roads and camp sites soft and loose in places.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-15",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Return loop of the Mulga Drive",
+      "alert_id": "25523",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25523",
+      "description": "The return loop of the Mulga Drive on Welford National Park is closed due to damage in the March 2025 flood event. Access is still open to Sawyer's Lookout and Sawyer's Creek. Please be aware that traffic may approach in either direction along the Mulga Drive.",
+      "details": "<p>The return loop of the Mulga Drive on Welford National Park is closed due to damage in the March 2025 flood event. Access is still open to Sawyer's Lookout and Sawyer's Creek. Please be aware that traffic may approach in either direction along the Mulga Drive.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-14",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Wooroi section, Tewantin National Park",
+      "alert_id": "25524",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25524",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in Wooroi section, Tewantin National Park between Tuesday 15 July and Wednesday 16 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Gyndier Drive, Sunrise Road and Tewantin.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in Wooroi section, Tewantin National Park between Tuesday 15 July and Wednesday 16 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Gyndier Drive, Sunrise Road and Tewantin.</p> <p>If visiting&nbsp;<strong>Tewantin National Park, Wooroi section&nbsp;</strong>observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage - qld.gov.au/QPWSFire</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: https://www.qld.gov.au/environment/management/monitoring/air</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-15",
+      "end_date": "2025-07-16",
+      "parks": [
+        {
+          "id": "148107",
+          "name": "Tewantin National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tewantin"
+        }
+      ]
+    },
+    {
+      "title": "Water safety advice: Cardwell Spa Pool day-use area, Cardwell Forest Drive, Cardwell State Forest",
+      "alert_id": "25525",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25525",
+      "description": "For your safety, do not enter the water at Spa Pool day-use area. Dry season conditions have caused the creek to become unsafe for entering. Entering the stagnant or slow moving water could cause health concerns.",
+      "details": "<p>For your safety, do not enter the water at Spa Pool day-use area. Dry season conditions have caused the creek to become unsafe for entering. Entering the stagnant or slow moving water could cause health concerns.</p> <p>Visitors are advised not to enter the water until futher notice.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-14",
+      "end_date": "2025-12-01",
+      "parks": [
+        {
+          "id": "150212",
+          "name": "Cardwell State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cardwell-state-forest"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - East Weyba section, Noosa National Park",
+      "alert_id": "25526",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25526",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in East Weyba section, Noosa National Park between Wednesday 16 July and Thursday 17 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Peregian, Lake Weyba, Marcus Beach and Woodland Drive.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in East Weyba section, Noosa National Park between Wednesday 16 July and Thursday 17 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Peregian, Lake Weyba, Marcus Beach and Woodland Drive.</p> <p>If visiting&nbsp;<strong>Noosa National Park - East Weyba section&nbsp;</strong>observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage - qld.gov.au/QPWSFire</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: https://www.qld.gov.au/environment/management/monitoring/air</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-16",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "147955",
+          "name": "Noosa National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Access tracks Bladensburg National Park",
+      "alert_id": "25528",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25528",
+      "description": "Main access track to the Homestead including Shearing shed and Scrammy Drive on Bladensburg National Park is closed due to emergency roadworks on the Mistake Creek causeway and approaches from Tuesday 15 July 2025 to Friday 18 July 2025.",
+      "details": "<p>Main access track to the Homestead including Shearing shed and Scrammy Drive on Bladensburg National Park is closed due to emergency roadworks on the Mistake Creek causeway and approaches from Tuesday 15 July 2025 to Friday 18 July 2025.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-14",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "148408",
+          "name": "Bladensburg National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bladensburg"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - 15-17 July 2025",
+      "alert_id": "25529",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25529",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from Tuesday 15th July 2025 to Thursday 17th July 2025, as part of the fire management program for Blackdown Tableland National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from Tuesday 15th July 2025 to Thursday 17th July 2025, as part of the fire management program for Blackdown Tableland National Park.</p> <p>During the planned burn Blackdown Tableland National Park will remain closed to public access.&nbsp;</p> <p>Smoke may be seen from the neighbouring areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a> webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-14",
+      "end_date": "2025-07-18",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - 17-21 July 2025",
+      "alert_id": "25530",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25530",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns on Thursday, 17 July. The operation is expected to continue for several days, with weather conditions indicating high relative humidity and good fuel moisture recovery each night.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns on Thursday, 17 July. The operation is expected to continue for several days, with weather conditions indicating high relative humidity and good fuel moisture recovery each night.</p> <p>Forecasts also predict a high chance of showers over the coming days.</p> <p>These planned burns are part of QPWS&rsquo;s ongoing commitment to reducing bushfire risks and promoting ecological health. Nearby residents and travellers should be aware of the possibility of smoke in the area and take necessary precautions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-07-14",
+      "start_effective_date": "2025-07-16",
+      "end_date": "2025-07-23",
+      "parks": [
+        {
+          "id": "148520",
+          "name": "Mount Archer National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
         }
       ]
     }
