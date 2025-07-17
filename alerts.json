@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2025-07-16 10:11:07"
+    "alerts_count": 179,
+    "script_run_time": "2025-07-17 10:11:24"
   },
   "alerts": [
     {
@@ -1813,15 +1813,15 @@
       ]
     },
     {
-      "title": "Old Coen Road walking track temporary closure",
+      "title": "Temporary closure: Old Coen Road walking track, Kutini-Payamu (Iron Range) National Park (CYPAL)",
       "alert_id": "25252",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25252",
       "description": "The Old Coen Road walking track is closed as the Claudie River is currently too deep to safely cross. Depths will be regularly checked and the walking track re-opened once considered safe.",
       "details": "<p>The Old Coen Road walking track is closed as the Claudie River is currently too deep to safely cross. Depths will be regularly checked and the walking track re-opened once considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-17",
+      "start_date": "2025-07-17",
       "start_effective_date": "2025-05-06",
-      "end_date": "2025-07-18",
+      "end_date": "2025-08-15",
       "parks": [
         {
           "id": "149037",
@@ -2840,6 +2840,29 @@
       ]
     },
     {
+      "title": "Planned burning activities: Ravenshoe Forest Reserve 1",
+      "alert_id": "25497",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25497",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Roland Road from Tuesday 22 July to Friday 25 July 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Roland Road from Tuesday 22 July to Friday 25 July 2025 (dates inclusive).</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Mount Ronald Road, Mount Pandanus Road and Arthur Baillie Road. For your safety and the safety of authorities, please slow down, observe all directions and signs and do not entre the burn area.</p> <p>Smoke may be seen in the vicinity of Mount Ronald Road and nearby Tully Falls National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-17",
+      "start_effective_date": "2025-07-22",
+      "end_date": "2025-07-25",
+      "parks": [
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
+        },
+        {
+          "id": "322282",
+          "name": "Ravenshoe Forest Reserve 1",
+          "url": ""
+        }
+      ]
+    },
+    {
       "title": "Planned burning activities: Carmoo area in Mount Mackay National Park",
       "alert_id": "25500",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25500",
@@ -3189,24 +3212,6 @@
       ]
     },
     {
-      "title": "Planned burn - Wooroi section, Tewantin National Park",
-      "alert_id": "25524",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25524",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in Wooroi section, Tewantin National Park between Tuesday 15 July and Wednesday 16 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Gyndier Drive, Sunrise Road and Tewantin.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS, Noosa Council and QFD will conduct a planned burn in Wooroi section, Tewantin National Park between Tuesday 15 July and Wednesday 16 July 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Gyndier Drive, Sunrise Road and Tewantin.</p> <p>If visiting&nbsp;<strong>Tewantin National Park, Wooroi section&nbsp;</strong>observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage - qld.gov.au/QPWSFire</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: https://www.qld.gov.au/environment/management/monitoring/air</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following Qld Park Alerts on X (formerly known as Twitter).</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-14",
-      "start_effective_date": "2025-07-15",
-      "end_date": "2025-07-16",
-      "parks": [
-        {
-          "id": "148107",
-          "name": "Tewantin National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tewantin"
-        }
-      ]
-    },
-    {
       "title": "Water safety advice: Cardwell Spa Pool day-use area, Cardwell Forest Drive, Cardwell State Forest",
       "alert_id": "25525",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25525",
@@ -3246,12 +3251,12 @@
       "title": "Temporary closure : Access tracks Bladensburg National Park",
       "alert_id": "25528",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25528",
-      "description": "Main access track to the Homestead including Shearing shed and Scrammy Drive on Bladensburg National Park is closed due to emergency roadworks on the Mistake Creek causeway and approaches from Tuesday 15 July 2025 to Friday 18 July 2025.",
-      "details": "<p>Main access track to the Homestead including Shearing shed and Scrammy Drive on Bladensburg National Park is closed due to emergency roadworks on the Mistake Creek causeway and approaches from Tuesday 15 July 2025 to Friday 18 July 2025.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "description": "Main access track to the Homestead including Shearing shed and Scrammy Drive on Bladensburg National Park is closed due to emergency roadworks on the Mistake Creek causeway and approaches from Tuesday 15 July 2025 to Saturday 19 July 2025.",
+      "details": "<p>Main access track to the Homestead including Shearing shed and Scrammy Drive on Bladensburg National Park is closed due to emergency roadworks on the Mistake Creek causeway and approaches from Tuesday 15 July 2025 to Saturday 19 July 2025.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-14",
+      "start_date": "2025-07-17",
       "start_effective_date": "2025-07-14",
-      "end_date": "2025-07-18",
+      "end_date": "2025-07-19",
       "parks": [
         {
           "id": "148408",
@@ -3483,6 +3488,111 @@
       "start_date": "2025-07-16",
       "start_effective_date": "2025-10-01",
       "end_date": "2026-04-01",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Hill Inlet lookouts walking track planned maintenance (Tongue Point)",
+      "alert_id": "25542",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25542",
+      "description": "QPWS advises that contractors will be undertaking planned maintenance works along the Hill Inlet lookouts track (Tongue Point) from 21 July 2025 to the 12 September 2025. The maintenance works will include precast rock installation and track resurfacing to harden the walking track and prevent future erosion. The walking track, lookouts and other visitor facilities will remain open with temporary track divisions in place to maintain access, however minor delays may be experienced.",
+      "details": "<p>QPWS advises that contractors will be undertaking planned maintenance works along the Hill Inlet lookouts track (Tongue Point) from 21 July 2025 to the 12 September 2025. The maintenance works will include precast rock installation and track resurfacing to harden the walking track and prevent future erosion. The walking track, lookouts and other visitor facilities will remain open with temporary track divisions in place to maintain access, however minor delays may be experienced.</p> <p>Visitors are advised to exercise caution as heavy machinery will be operating along the track.</p> <p>Please observe all signage, barriers and directions from rangers or contractors and do not enter closed areas.</p> <p>For further information, please contact QPWS on (07) 4962 5205.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-17",
+      "start_effective_date": "2025-07-21",
+      "end_date": "2025-09-12",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Molle Islands National Park",
+      "alert_id": "25543",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25543",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on North Molle Island. The burn will be conducted from Monday 21st July 2025 to Friday 25th July 2025 as part of the fire management program for Molle Islands National Park. Smoke may be seen in the vicinity of Molle Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. During the planned burn these areas are closed to public access: Cockatoo Beach Campground, Nth Molle Island Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please obey all fire restrictions. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on North Molle Island. The burn will be conducted from Monday 21st July 2025 to Friday 25th July 2025 as part of the fire management program for Molle Islands National Park. Smoke may be seen in the vicinity of Molle Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. During the planned burn these areas are closed to public access: Cockatoo Beach Campground, Nth Molle Island Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please obey all fire restrictions. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-17",
+      "start_effective_date": "2025-07-21",
+      "end_date": "2025-07-25",
+      "parks": [
+        {
+          "id": "152875",
+          "name": "Whitsunday Ngaro Sea Trail",
+          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
+        },
+        {
+          "id": "148941",
+          "name": "Molle Islands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/molle-islands"
+        }
+      ]
+    },
+    {
+      "title": "Planned burns : Pinnacles National Park",
+      "alert_id": "25544",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25544",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Pinnacles National Park from 21 July to 31 August 2025 as part of the annual hazard reduction and conservation management program for parks and forests. Planned burns are vital in promoting ecological heath, biodiversity and conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires. Before any planned burn is undertaken, local stakeholders, and nearby communities will be informed. Check Park Alerts for up-to-date information about QPWS planned burns. Smoke will be seen from the Hervey Range Road in the vicinity of Rangewood and Rupertswood, and from the southwestern suburbs of Townsville. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Pinnacles National Park from 21 July to 31 August 2025 as part of the annual hazard reduction and conservation management program for parks and forests. Planned burns are vital in promoting ecological heath, biodiversity and conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires. Before any planned burn is undertaken, local stakeholders, and nearby communities will be informed. Check Park Alerts for up-to-date information about QPWS planned burns. Smoke will be seen from the Hervey Range Road in the vicinity of Rangewood and Rupertswood, and from the southwestern suburbs of Townsville. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Other",
+      "start_date": "2025-07-17",
+      "start_effective_date": "2025-07-21",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "322674",
+          "name": "Pinnacles National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Double Island Point access closures, 7 - 10 August",
+      "alert_id": "25545",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25545",
+      "description": "Southern (Teewah Beach) side vehicle and walking track access to Double Island Point Lighthouse temporarily closed.",
+      "details": "<p>Southern (Teewah Beach) side vehicle and walking track access to Double Island Point Lighthouse temporarily closed.</p> <p>Road and walking track access to the Double Island Point lighthouse from Teewah Beach (including the coastal route section of the Cooloola Great Walk) will be closed from Thursday <strong>7 August 2025 until Sunday 10 August 2025</strong> (inclusive) to allow for the safe removal of building material.</p> <p>The tidal dependant walking track from the Wide Bay (northern) side of Double Island Point will not be affected during the closure allowing access to the Lighthouse. (There will be no access to Teewah Beach from the northern side during the closure)</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-17",
+      "start_effective_date": "2025-08-07",
+      "end_date": "2025-08-10",
+      "parks": [
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn in Hinchinbrook Island National Park",
+      "alert_id": "25546",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25546",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Hinchinbrook Island National Park from 23rd of July to 7th August as part of the annual hazard reduction and conservation management program for parks and forests. The Thorsborne Trail and camping areas will remain open during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Hinchinbrook Island National Park from 23rd of July to 7th August as part of the annual hazard reduction and conservation management program for parks and forests. The Thorsborne Trail and camping areas will remain open during this period.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>Before any planned burn is undertaken, local stakeholders, nearby communities and booked campers&nbsp;will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please call the QPWS Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-17",
+      "start_effective_date": "2025-07-23",
+      "end_date": "2025-08-07",
       "parks": [
         {
           "id": "151379",
