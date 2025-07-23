@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2025-07-22 10:11:02"
+    "alerts_count": 166,
+    "script_run_time": "2025-07-23 10:11:11"
   },
   "alerts": [
     {
@@ -3341,6 +3341,24 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.desi.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Possession Island National Park",
+      "alert_id": "25558",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25558",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on 4/08/2025 to 9/08/2025, as part of the fire management program for Possession Island National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on 4/08/2025 to 9/08/2025, as part of the fire management program for Possession Island National Park.</p> <p>During the planned burn Possession Island National Park is <strong>closed to public access.</strong></p> <p>Smoke may be seen in the vicinity of Possession Island. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-07-22",
+      "start_effective_date": "2025-08-04",
+      "end_date": "2025-08-09",
+      "parks": [
+        {
+          "id": "149401",
+          "name": "Possession Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/possession-island"
         }
       ]
     }
