@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 166,
-    "script_run_time": "2025-07-23 10:11:11"
+    "alerts_count": 165,
+    "script_run_time": "2025-07-24 10:11:25"
   },
   "alerts": [
     {
@@ -1036,24 +1036,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Broadwater, Abergowrie State Forest",
-      "alert_id": "24900",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24900",
-      "description": "For public safety, Canoe Creek bridge on Broadwater Forest Road is closed until further notice.",
-      "details": "<p>For public safety, Canoe Creek bridge on Broadwater Forest Road is closed until further notice.</p> <p>Recent weather events have made the bridge unsafe, and engineers have deemed the bridge closed to all traffic. Access to Broadwater, Abergowrie State Forest is not possible during this time.</p> <p>&nbsp;The closure includes the following:</p> <ul> <li>Broadwater camping area</li> <li>Broadwater day-use area</li> <li>Creek walk</li> <li>Rainforest walk.</li> </ul> <p>&nbsp;Please monitor this park alert for up-to-date details.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-06-06",
-      "start_effective_date": "2025-01-31",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "150260",
-          "name": "Broadwater, Abergowrie State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/broadwater-abergowrie"
-        }
-      ]
-    },
-    {
       "title": "Visitor facilities update: Mount Spec section, Paluma Range National Park",
       "alert_id": "24932",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24932",
@@ -1372,15 +1354,15 @@
       ]
     },
     {
-      "title": "Partial opening with caution: Townsville Town Common Conservation Park",
+      "title": "Visitor facilities update: Townsville Town Common Conservation Park",
       "alert_id": "25150",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25150",
-      "description": "Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.",
-      "details": "<p>Some areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from recent severe weather events and drive to suit road access conditions.</p> <p><strong>Open areas:</strong></p> <ul> <li>Freshwater Lagoon Road</li> <li>Payet&rsquo;s Tower; Pandanus viewing area; Freshwater bird hide and Jacana bird hide</li> <li>Freshwater trail and Lagoon trail&nbsp;to Cape Pallarenda Road trailhead</li> <li>Wetlands walk and Forest walk</li> <li>Many Peaks walking track</li> </ul> <p><strong>Closed areas:</strong></p> <p>The following trails remain closed until damage repair works are completed and conditions are considered safe.</p> <ul> <li>Shelly Beach trail</li> <li>Smedleys trail</li> <li>Under the Radar trail</li> </ul> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Townsville Town Common Conservation Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Most areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from the severe weather events and drive to suit the road access conditions.",
+      "details": "<p>Most areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from the severe weather events and drive to suit the road access conditions.</p> <p><strong>Open areas:</strong></p> <ul> <li>Freshwater Lagoon Road</li> <li>Payet&rsquo;s Tower; Pandanus viewing area; Freshwater bird hide and Jacana bird hide</li> <li>Freshwater trail and Lagoon trail&nbsp;to Cape Pallarenda Road trailhead</li> <li>Wetlands walk and Forest walk</li> <li>Many Peaks walking track</li> <li>Shelly Beach trail</li> <li>Under the Radar trail</li> </ul> <p><strong>Closed areas:</strong></p> <p>The following trail remains closed until damage repair works are completed and conditions are considered safe.</p> <ul> <li>Smedleys trail</li> </ul> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Townsville Town Common Conservation Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-21",
+      "start_date": "2025-07-24",
       "start_effective_date": "2025-04-01",
-      "end_date": "2025-08-01",
+      "end_date": "2025-08-22",
       "parks": [
         {
           "id": "148311",
@@ -1532,24 +1514,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Open with caution: Bowling Green Bay National Park",
-      "alert_id": "25199",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25199",
-      "description": "All visitor sites, walking tracks and camping areas in Bowling Green Bay National Park are now open.",
-      "details": "<p>All visitor sites, walking tracks and camping areas in Bowling Green Bay National Park are now open.</p> <p>Caution is required on the Alligator Falls trail as the walking track may be overgrown in places. Visitors hiking the trail must stay alert for potential hazards such as rocks and logs, and exercise caution when traversing the numerous creek crossings (refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0029/283259/cockatoo-creek-alligator-falls-walking-trails-map.pdf\">Cockatoo Creek and Alligator Falls walking trails map</a>).</p> <p>For your safety, obey all onsite access warnings and safety signage.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Other",
-      "start_date": "2025-06-24",
-      "start_effective_date": "2025-04-15",
-      "end_date": "2025-07-23",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
         }
       ]
     },
@@ -1819,9 +1783,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July 2025, as part of the fire management program for Woody Island (Tooliwah) located in the Great Sandy Marine Park.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July 2025, as part of the fire management program for Woody Island (Tooliwah) located in the Great Sandy Marine Park.</p> <p>During the planned burn the following areas will be closed to public access:</p> <ul> <li>Jeffries Beach camping area</li> <li>Middle Bluff precinct including: <ul> <li>gas shed</li> <li>lighthouse</li> <li>walking track</li> </ul> </li> </ul> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Navigate vessels with additional caution if visibility is affected and be aware of firefighters working in the area.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor park alerts on the department&#39;s website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-05-08",
+      "start_date": "2025-07-24",
       "start_effective_date": "2025-05-09",
-      "end_date": "2025-07-31",
+      "end_date": "2025-08-31",
       "parks": [
         {
           "id": "149461",
@@ -1842,9 +1806,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July, as part of the fire management program for Stewart Island located in the Sandy Straits.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) between May and July, as part of the fire management program for Stewart Island located in the Sandy Straits.</p> <p>During the planned burn the following area will be closed to public access:</p> <ul> <li>&nbsp;Stewart Island (excluding freehold land).</li> </ul> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Navigate vessels with additional caution if visibility is affected and be aware of firefighters working in the area.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-05-08",
+      "start_date": "2025-07-24",
       "start_effective_date": "2025-05-09",
-      "end_date": "2025-07-31",
+      "end_date": "2025-08-31",
       "parks": [
         {
           "id": "149461",
@@ -1959,15 +1923,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Cape Pallarenda Conservation Park walking tracks and mountain bike trail",
+      "title": "Visitor facilities update: Cape Pallarenda Conservation Park",
       "alert_id": "25288",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25288",
-      "description": "The walking tracks and mountain bike trail at Cape Pallarenda Conservation Park have sustained significant damage and erosion due to prolonged heavy rainfall from severe weather events.",
-      "details": "<p>The walking tracks and mountain bike trail at Cape Pallarenda Conservation Park have sustained significant damage and erosion due to prolonged heavy rainfall from severe weather events.</p> <p><strong>For your safety, access remains closed to:</strong></p> <ul> <li>The Forts walk and the Graves circuit walk</li> <li>Shelly Cove trail</li> </ul> <p>Please observe all signage, barriers, access warnings and directions from Rangers and <strong>do not enter closed areas</strong>. QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>We appreciate your patience and understanding with the temporary closures.</p> <p>The Cape Pallarenda day-use area is open, with road access available from 6.30am to 6.30pm daily.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> for Cape Pallarenda Conservation Park on the department&rsquo;s website for updated information.</p>",
+      "description": "The Shelly Cove trail in Cape Pallarenda Conservation Park is now open with caution. Visitors are reminded to exercise caution when riding or walking the trial as there are sections of loose stones and wash outs.",
+      "details": "<p>The Shelly Cove trail in Cape Pallarenda Conservation Park is now open with caution. Visitors are reminded to exercise caution when riding or walking the trial as there are sections of loose stones and wash outs.</p> <p><strong>Closed areas:</strong></p> <p>Due to erosion and landslips&nbsp;<strong>access remains</strong> <strong>closed </strong>to the following walking tracks:</p> <ul> <li>Forts walk</li> <li>Graves circuit</li> </ul> <p>For your safety, please observe all signage, barriers and directions from Rangers. <strong>Do not enter closed areas</strong>.</p> <p>QPWS Rangers have damage repair activities in progress.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> for Cape Pallarenda Conservation Park on the department&rsquo;s website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-21",
+      "start_date": "2025-07-24",
       "start_effective_date": "2025-05-13",
-      "end_date": "2025-08-01",
+      "end_date": "2025-08-22",
       "parks": [
         {
           "id": "148997",
@@ -2945,24 +2909,6 @@
       ]
     },
     {
-      "title": "Planned Burn - 17-21 July 2025",
-      "alert_id": "25530",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25530",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns on Thursday, 17 July. The operation is expected to continue for several days, with weather conditions indicating high relative humidity and good fuel moisture recovery each night.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns on Thursday, 17 July. The operation is expected to continue for several days, with weather conditions indicating high relative humidity and good fuel moisture recovery each night.</p> <p>Forecasts also predict a high chance of showers over the coming days.</p> <p>These planned burns are part of QPWS&rsquo;s ongoing commitment to reducing bushfire risks and promoting ecological health. Nearby residents and travellers should be aware of the possibility of smoke in the area and take necessary precautions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-07-14",
-      "start_effective_date": "2025-07-16",
-      "end_date": "2025-07-23",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
       "title": "Burtons Well camping area",
       "alert_id": "25531",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25531",
@@ -3286,24 +3232,6 @@
       ]
     },
     {
-      "title": "Enoggera Reservoir Temporary Closed to All Water-Based Activities - Wednesday 23/07/25",
-      "alert_id": "25554",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25554",
-      "description": "The swimming area and kayak launch at Enoggera Reservoir will be inaccessible on Wednesday, 23 July 2025, from 8:00 am to 4:00 pm due to planned maintenance works to reinstate the buoy line.",
-      "details": "<p>The swimming area and kayak launch at Enoggera Reservoir will be inaccessible on Wednesday, 23 July 2025, from 8:00 am to 4:00 pm due to planned maintenance works to reinstate the buoy line.</p> <p>Please adhere to all signage and instructions from Rangers.<br /> Thank you for your cooperation.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-21",
-      "start_effective_date": "2025-07-23",
-      "end_date": "2025-07-23",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.desi.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Bunyaville Dam Wall and Mountain Bike Track 7",
       "alert_id": "25555",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25555",
@@ -3345,6 +3273,29 @@
       ]
     },
     {
+      "title": "Snapper Island camping area temporary closure",
+      "alert_id": "25557",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25557",
+      "description": "Rangers will be undertaking works to relocate the camping area from 21-30 August.",
+      "details": "<p>Rangers will be undertaking works to relocate the camping area from 21-30 August.</p> <p>Due to erosion impacts, the Snapper Island camping area is being relocated further back from the beach. The new site (directly behind the existing site) will open upon completion of the works on 30 August.</p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-24",
+      "start_effective_date": "2025-08-21",
+      "end_date": "2025-08-30",
+      "parks": [
+        {
+          "id": "148368",
+          "name": "Snapper Island, Hope Islands National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/hope-snapper"
+        },
+        {
+          "id": "148404",
+          "name": "Hope Islands National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/hope-islands"
+        }
+      ]
+    },
+    {
       "title": "Planned burn for Possession Island National Park",
       "alert_id": "25558",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25558",
@@ -3359,6 +3310,47 @@
           "id": "149401",
           "name": "Possession Island National Park",
           "url": "https://parks.desi.qld.gov.au/parks/possession-island"
+        }
+      ]
+    },
+    {
+      "title": "Update to Broadwater day-use area access: Abergowrie State Forest",
+      "alert_id": "25559",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25559",
+      "description": "Broadwater day-use area will re-open to walk-in visitors only from Monday 28 July 2025. Visitors will only be able to access Broadwater day-use area via a 500m walk, crossing Broadwater Creek via the Queensland Parks and Wildlife Service (QPWS) car park at the end of Copleys Road.",
+      "details": "<p>Broadwater day-use area will re-open to walk-in visitors only from Monday 28 July 2025. Visitors will only be able to access Broadwater day-use area via a 500m walk, crossing Broadwater Creek via the Queensland Parks and Wildlife Service (QPWS) car park at the end of Copleys Road.</p> <p>From Monday 28 July 2025 the below visitor facilities will be<strong> open to walk-in access only </strong>and will be maintained by QPWS Rangers on a periodic basis due to ongoing access constraints:</p> <ul> <li>Broadwater Creek and swimming areas</li> <li>Rainforest walk</li> <li>Creek walk</li> <li>Day-use area facilities including toilets</li> </ul> <p>The below facilities <strong>remain closed:</strong></p> <ul> <li>Camping area</li> <li>Vehicle access</li> <li>Canoe Creek bridge</li> </ul> <p>Visitors can access the Copleys Road car park by following QPWS signage from the Abergowrie and Copleys Road intersection.</p> <p>QPWS is striving to re-open Broadwater to full capacity following significant flooding as soon as possible, however, day-use area walk-in use is likely to continue to until at least Friday 26 September 2025.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-24",
+      "start_effective_date": "2025-07-28",
+      "end_date": "2025-09-30",
+      "parks": [
+        {
+          "id": "150260",
+          "name": "Broadwater, Abergowrie State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/broadwater-abergowrie"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "25560",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25560",
+      "description": "Works will be occurring at Mulligan Falls camping area from 4-13 August 2025.",
+      "details": "<p>Works will be occurring at Mulligan Falls camping area from 4-13 August 2025.</p> <ul> <li>Construction materials will be transported by helicopter from the mainland to Mulligan Falls throughout the day on 4 and 5 August. While not planned, it is possible there may be heli-lifting occurring on other days during this period of the works.</li> <li>Other minor works may occur at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</li> </ul> <p>The camping area and falls will remain open throughout for Thorsborne Trail hikers, however some of the individual camp nodes may be closed.</p> <p>Construction noise, including chainsaws and small machinery, may be expected during the day. Works will be carried out during the day to minimise disturbance to campers. Consider timing your hike to arrive at Mulligan Falls from mid-afternoon.</p> <p>Thorsborne Trail hikers arriving/staying at Mulligan Falls when heli-lifting is occurring may be given safety directives by Rangers during each helicopter drop-off and may need to wait until the helicopter is away from the site before being able to access into/out of the camping area and the toilet. It is anticipated that this should not exceed a 10 to 15-minute wait.</p> <p>QPWS apologises for the inconvenience and appreciates your patience in supporting this important upgrade. &nbsp;</p> <p>For more information about the Thorsborne Trail enhancement project visit <a href=\"https://parks.desi.qld.gov.au/parks/hinchinbrook/about/thorsborne-trail-enhancement-project\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-24",
+      "start_effective_date": "2025-08-04",
+      "end_date": "2025-08-13",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
         }
       ]
     }
