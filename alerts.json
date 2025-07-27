@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2025-07-26 10:09:31"
+    "alerts_count": 167,
+    "script_run_time": "2025-07-27 10:09:47"
   },
   "alerts": [
     {
@@ -3131,29 +3131,6 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure during event: Southern access road and car park, Dalrymple Gap walking track, Girringun National Park",
-      "alert_id": "25556",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25556",
-      "description": "The southern access road and car park of the Dalrymple Gap walking track (Broadwater end) will be closed for the Toyota Forest Rally event on Saturday 26 July 2025.",
-      "details": "<p>The southern access road and car park of the Dalrymple Gap walking track (Broadwater end) will be closed for the Toyota Forest Rally event on Saturday 26 July 2025.</p> <p>The entire Dalrymple Gap walking track will remain open during this time.<strong> However, access will only be possible via the northern access point at Dalrymple Gap Road (Cardwell end). Walkers must start and finish at this location.</strong></p> <p>This temporary closure will allow for the running of the event which will use part of the southern access road.</p> <p>Please adhere to all Council Road closure signage during this time.&nbsp;&nbsp;&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-21",
-      "start_effective_date": "2025-07-26",
-      "end_date": "2025-07-26",
-      "parks": [
-        {
-          "id": "148768",
-          "name": "Dalrymple Gap walking track, Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dalrymple-gap"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girringun"
         }
       ]
     },
