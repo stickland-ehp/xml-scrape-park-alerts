@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2025-07-27 10:09:47"
+    "alerts_count": 168,
+    "script_run_time": "2025-07-28 10:11:43"
   },
   "alerts": [
     {
@@ -631,9 +631,9 @@
       "description": "The Woralie Road Dump Ezy will be closed until further notice.",
       "details": "<p>The Woralie Road Dump Ezy will be closed until further notice.</p> <p>Other dump sitesd are located at Orchid Beach, Dundubara, Cornwells&#39; Road (Eastern Beach) entrance and Hook Point Road 11km Exit.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-02-27",
+      "start_date": "2025-07-28",
       "start_effective_date": "2023-07-13",
-      "end_date": "2025-08-05",
+      "end_date": "2026-07-27",
       "parks": [
         {
           "id": "148007",
@@ -770,24 +770,6 @@
           "id": "148067",
           "name": "Rungulla National Park",
           "url": "https://parks.desi.qld.gov.au/parks/rungulla"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure update: Canyon Resources Reserve",
-      "alert_id": "24612",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24612",
-      "description": "Canyon Resources Reserve is closed due to an extended wet season and significant rainfall event.",
-      "details": "<p>Canyon Resources Reserve is closed due to an extended wet season and significant rainfall event.</p> <p>This park will reopen on Monday 28 July 2025, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-25",
-      "start_effective_date": "2025-03-31",
-      "end_date": "2025-07-27",
-      "parks": [
-        {
-          "id": "149509",
-          "name": "Canyon Resources Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/canyon-resources"
         }
       ]
     },
@@ -1981,11 +1963,11 @@
       "alert_id": "25310",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25310",
       "description": "Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road and Beefwood Hut road has changed, and detour signs are in place.",
-      "details": "<p>Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road and Beefwood Hut road has changed, and detour signs are in place.</p> <p>Beefwood Hut road access 500m South on Hungerford Road.</p> <p>Boorara road access 5km North at Ranger Base.</p> <p>For more information cantact the Currawinya Office on 07 46554001.</p>",
+      "details": "<p>Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road and Beefwood Hut road has changed, and detour signs are in place.</p> <p>Beefwood Hut road access 500m South on Hungerford Road.</p> <p>Boorara road access 5km North at Ranger Base.</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-20",
+      "start_date": "2025-07-28",
       "start_effective_date": "2025-05-19",
-      "end_date": "2025-07-31",
+      "end_date": "2025-10-31",
       "parks": [
         {
           "id": "148323",
@@ -3217,34 +3199,6 @@
       ]
     },
     {
-      "title": "Temporary closure : Welford, Lochern and Idalia National Parks",
-      "alert_id": "25561",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25561",
-      "description": "The Bureau of Meteorology is predicting wet weather to affect Welford, Lochern and Idalia National Parks over the next few days. Road conditions do not allow for wet weather driving so these national parks will be closed until conditions can be reviewed.",
-      "details": "<p>The Bureau of Meteorology is predicting wet weather to affect Welford, Lochern and Idalia National Parks over the next few days. Road conditions do not allow for wet weather driving so these national parks will be closed until conditions can be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-25",
-      "start_effective_date": "2025-07-26",
-      "end_date": "2025-07-27",
-      "parks": [
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/idalia"
-        },
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/lochern"
-        },
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/welford"
-        }
-      ]
-    },
-    {
       "title": "Sarawak West Toilet block relocation, 11- 29 August 2025",
       "alert_id": "25562",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25562",
@@ -3320,9 +3274,9 @@
       "description": "Queensland Parks and Wildlife Service will be undertaking planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve in Atherton on 29 July 2025 (dates inclusive).",
       "details": "<p>Queensland Parks and Wildlife Service will be undertaking planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve in Atherton on 29 July 2025 (dates inclusive).</p> <p>&nbsp;<strong>For public safety the Atherton Forest Mountain Bike Park and Baldy-Yabi circuit walk will be closed on 29 and 30 July 2025.</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-07-25",
-      "start_effective_date": "2025-07-25",
-      "end_date": "2025-07-31",
+      "start_date": "2025-07-28",
+      "start_effective_date": "2025-07-29",
+      "end_date": "2025-07-30",
       "parks": [
         {
           "id": "148818",
@@ -3353,10 +3307,10 @@
       "title": "Planned burning activities: Ravenshoe Forest Reserve 1",
       "alert_id": "25567",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25567",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Roland Road from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Roland Road from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Mount Ronald Road, Mount Pandanus Road and Arthur Baillie Road. For your safety and the safety of authorities, please slow down, observe all directions and signs and do not entre the burn area.</p> <p>Smoke may be seen in the vicinity of Mount Ronald Road and nearby Tully Falls National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Ronald Road from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Ronald Road from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Mount Ronald Road, Mount Pandanus Road and Arthur Baillie Road. For your safety and the safety of authorities, please slow down, observe all directions and signs and do not entre the burn area.</p> <p>Smoke may be seen in the vicinity of Mount Ronald Road and nearby Tully Falls National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-07-25",
+      "start_date": "2025-07-28",
       "start_effective_date": "2025-07-29",
       "end_date": "2025-08-01",
       "parks": [
@@ -3387,6 +3341,60 @@
           "id": "322337",
           "name": "Ravenshoe State Forest 3",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Closed due to wet conditions",
+      "alert_id": "25569",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25569",
+      "description": "Due to recent rainfall all Currawinya National Park roads and camping areas are closed.",
+      "details": "<p>Due to recent rainfall all Currawinya National Park roads and camping areas are closed.</p> <p>Road closed signs are in place and Rangers will open roads as they become accessible.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-28",
+      "start_effective_date": "2025-07-28",
+      "end_date": "2025-08-04",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn - Cordalba State Forest - Bike tracks",
+      "alert_id": "25570",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25570",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) Tuesday 29 July 2025, as part of the fire management program for Cordalba State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) Tuesday 29 July 2025, as part of the fire management program for Cordalba State Forest.</p> <p>During the planned burn the following areas will be closed to public access:</p> <ul> <li>All Cordalba State Forest bike tracks and associated areas</li> <li>Cordalba State Forest bush camping</li> </ul> <p>Smoke may be seen in the vicinity, and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-07-28",
+      "start_effective_date": "2025-07-28",
+      "end_date": "2025-08-08",
+      "parks": [
+        {
+          "id": "148195",
+          "name": "Cordalba State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/cordalba"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure: Baral Marrjanga track (Mossman Gorge elevated boardwalk)",
+      "alert_id": "25571",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25571",
+      "description": "The elevated boardwalk on the Baral Marrjanga track at Mossman Gorge, Daintree National Park (CYPAL) will be temporarily closed for essential maintenance works, from 6am to 5pm Wednesday 6 August 2025.",
+      "details": "<p>The elevated boardwalk on the Baral Marrjanga track at Mossman Gorge, Daintree National Park (CYPAL) will be temporarily closed for essential maintenance works, from 6am to 5pm Wednesday 6 August 2025.</p> <p>Lower river track will remain open for visitors to access the lookouts, beach, Rex Creek bridge track and the Rainforest circuit track.</p> <p>Please note wheelchair access will not be possible during this time.</p> <p>Please adhere to all safety signs and directions from rangers and do not enter the work area.</p> <p>We appreciate your understanding as we undertake these important works to maintain safe and enjoyable access to the area.</p> <p>For updates, please monitor park alerts or contact the Mossman Gorge Centre.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-28",
+      "start_effective_date": "2025-08-06",
+      "end_date": "2025-08-06",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/daintree"
         }
       ]
     }
