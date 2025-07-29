@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 168,
-    "script_run_time": "2025-07-28 10:11:43"
+    "alerts_count": 172,
+    "script_run_time": "2025-07-29 10:11:27"
   },
   "alerts": [
     {
@@ -744,9 +744,9 @@
       "description": "Damage caused by arson has resulted in destruction of toilet facilities, which are now closed.",
       "details": "<p>Damage caused by arson has resulted in destruction of toilet facilities, which are now closed.</p> <p>Temporary portable toilets have been installed, however there is no disabled access to these temporary facilities. The nearest disabled toilet is at Mapleton National Park day-use-area, within a 5 minute drive.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-03-11",
+      "start_date": "2025-07-29",
       "start_effective_date": "2024-10-14",
-      "end_date": "2025-07-31",
+      "end_date": "2025-12-05",
       "parks": [
         {
           "id": "148929",
@@ -1013,13 +1013,13 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Jourama Falls lookout walk, Paluma Range National Park",
+      "title": "Update to Jourama Falls lookout walking track closure, Paluma National Park",
       "alert_id": "24959",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24959",
-      "description": "The Jourama Falls lookout walking tack within Paluma Range National Park, is closed until further notice due to severe damage from recent flooding.",
-      "details": "<p>The Jourama Falls lookout walking tack within Paluma Range National Park, is closed until further notice due to severe damage from recent flooding.</p> <p>The closed area is extremely dangerous as the flooding has caused unstable landlides and boulders, fallen trees with hanging brances and loose rock material with underlying drainage causing a quicksand affect.</p> <p>Please adhere to all signage and do not enter the closed area.</p> <p>Please monitor this park alert for up-to-date details.</p>",
+      "description": "The Jourama Falls lookout walking track is currently closed, however a temporary track has been established allowing this walking track to reopen on Thursday 31 July 2025.",
+      "details": "<p>The Jourama Falls lookout walking track is currently closed, however a temporary track has been established allowing this walking track to reopen on Thursday 31 July 2025.</p> <p>The temporary walking track has been established to provide access to the Jourama Falls lookout and the upper sections of the Waterview Creek gorge below the falls. The temporary track crosses a landslide that occurred during the February 2025 monsoon rain event.</p> <p><strong>Due to the unstable nature of the landslide and boulders, some areas of the landslide are closed to the public for safety.&nbsp; Please follow all directional and safety signage&nbsp;and&nbsp;any directions from rangers.</strong></p> <p>Please monitor this park alert for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-29",
+      "start_date": "2025-07-29",
       "start_effective_date": "2025-04-08",
       "end_date": "2025-08-30",
       "parks": [
@@ -1393,9 +1393,9 @@
       "description": "The Cascades and Dalrymple circuit walking tracks in the Goomburra section of Main Range National Park are temporarily closed due to flood damage.",
       "details": "<p>The Cascades and Dalrymple circuit walking tracks in the Goomburra section of Main Range National Park are temporarily closed due to flood damage.</p> <p>Rangers are managing the situation and have damage repair activities in progress.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-27",
+      "start_date": "2025-07-29",
       "start_effective_date": "2025-04-04",
-      "end_date": "2025-07-30",
+      "end_date": "2025-09-30",
       "parks": [
         {
           "id": "148480",
@@ -2799,6 +2799,24 @@
       ]
     },
     {
+      "title": "Planned site rehabilitation and maintenance closures",
+      "alert_id": "25527",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25527",
+      "description": "Planned site rehabilitation, maintenance and hazardous tree works in the Inskip Peninsula Recreation Area will commence Tuesday 12 August 2025 until Saturday 07 March 2026. As a result, the following camping areas will be closed during this period:",
+      "details": "<p>Planned site rehabilitation, maintenance and hazardous tree works in the Inskip Peninsula Recreation Area will commence Tuesday 12 August 2025 until Saturday 07 March 2026. As a result, the following camping areas will be closed during this period:</p> <ul> <li><strong>Dorrigo South</strong> (12-21 August 2025 inclusive) and (24 February - 07 March 2026 inclusive)</li> <li><strong>S.S. Dorrigo</strong> (01-11 September 2025 inclusive) and (03 &ndash; 13 February 2026 inclusive)</li> <li><strong>M.V. Beagle</strong> (12-21 August 2025 inclusive) and (24 February - 07 March 2026 inclusive)</li> <li><strong>M.V. Sarawak</strong> (17 &ndash; 27 November 2025 inclusive) and (27- 30 January 2026 inclusive)</li> <li><strong>Sarawak West</strong> (27 October &ndash; 06 November 2025 inclusive) and (27- 30 January 2026 inclusive)</li> <li><strong>Pelican Bay</strong> (27 October - 06 November 2025 inclusive)</li> </ul> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>All permits for closed areas are suspended for the duration of the closure. Alternate camping areas are available at Inskip Peninsula camping area for the duration of the closures.</p> <p>Apply for a camping permit refund online at <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a>. Log into your account and cancel your booking to receive an automatic refund or request to change your booking to another camping area at Inskip.&nbsp;</p> <p>QPWS thanks you for your support and cooperation.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-29",
+      "start_effective_date": "2025-08-12",
+      "end_date": "2026-03-07",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.desi.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
       "title": "Burtons Well camping area",
       "alert_id": "25531",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25531",
@@ -2823,9 +2841,9 @@
       "description": "Pending favourable weather conditions, planned maintenance will be conducted on Red Hill and Tagablum fire management trail between Tuesday the 15th of July and Friday the 1st of August 2025.",
       "details": "<p>Pending favourable weather conditions, planned maintenance will be conducted on Red Hill and Tagablum fire management trail between Tuesday the 15th of July and Friday the 1st of August 2025.</p> <p>&nbsp;</p> <p>Heavy machinery is in operation on the fire management trails while the maintenance works are being completed.</p> <p>As a result, both breaks will be temporarily closed during weekdays, however open on weekends for the duration of the closure.&nbsp;</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed area.</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-15",
+      "start_date": "2025-07-29",
       "start_effective_date": "2025-07-15",
-      "end_date": "2025-08-01",
+      "end_date": "2025-08-06",
       "parks": [
         {
           "id": "148516",
@@ -2838,12 +2856,12 @@
       "title": "Planned Burn Wrattens National Park.",
       "alert_id": "25537",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25537",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16 July until to 1 August 2025, as part of the fire management program for Wratten's National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16 July until to 1 August 2025, as part of the fire management program for Wratten's National Park.</p> <p>Firefighters will be working along the roadside in the vicinity of Wrattens Kandanga and Coolamon Road to A Flat.&nbsp;</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs. &nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16 July until to 30 September 2025, as part of the fire management program for Wratten's National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16 July until to 30 September 2025, as part of the fire management program for Wratten's National Park.</p> <p>Firefighters will be working along the roadside in the vicinity of Wrattens Kandanga and Coolamon Road to A Flat.&nbsp;</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs. &nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-07-16",
+      "start_date": "2025-07-29",
       "start_effective_date": "2025-07-16",
-      "end_date": "2025-08-01",
+      "end_date": "2025-09-30",
       "parks": [
         {
           "id": "322707",
@@ -3221,9 +3239,9 @@
       "alert_id": "25563",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25563",
       "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Mount Norman Road.</li> <li>Mount Norman day-use area.</li> <li>All walks departing Mount Norman day-use area.</li> </ul> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are managing the situation</p> <p>Closed areas:</p> <ul> <li>Mount Norman Road between Mount Norman day-use area and Pyramids Road.<br /> &nbsp;</li> </ul> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park&#39;s page on the department&#39;s website for alternative nearby park attractions and experiences.</p> <p>The road will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-25",
+      "start_date": "2025-07-29",
       "start_effective_date": "2025-07-25",
       "end_date": "2025-08-08",
       "parks": [
@@ -3395,6 +3413,60 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Idalia National Park wet weather",
+      "alert_id": "25572",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25572",
+      "description": "Due to recent rainfall making roads boggy Idalia National Park is temporarily closed until Saturday 2 August 2025 when conditions will be reviewed.",
+      "details": "<p>Due to recent rainfall making roads boggy Idalia National Park is temporarily closed until Saturday 2 August 2025 when conditions will be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-29",
+      "start_effective_date": "2025-07-29",
+      "end_date": "2025-08-02",
+      "parks": [
+        {
+          "id": "148031",
+          "name": "Idalia National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/idalia"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: Jumrum Creek walk, Jumrum Creek Conservation Park",
+      "alert_id": "25573",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25573",
+      "description": "The Jumrum Creek walk is partially closed for planned repair works on Wednesday 30 July and Thursday 31 July 2025.",
+      "details": "<p>The Jumrum Creek walk is partially closed for planned repair works on Wednesday 30 July and Thursday 31 July 2025.</p> <p>The walk will remain open from Barang Street entrance (Kuranda Township side) to Jumrum Creek. However, the remainder of the walk will be closed to public access from Jumrum Creek to Barron Falls Road access.&nbsp;</p> <p>Please use caution and obey directions from Rangers.</p> <p>Please obey track signage and barricades. &nbsp;</p> <p>Your safety is our concern, but your responsibility.<br /> &nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-07-29",
+      "start_effective_date": "2025-07-30",
+      "end_date": "2025-07-31",
+      "parks": [
+        {
+          "id": "148352",
+          "name": "Jumrum Creek Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/jumrum-creek"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Brooyar State Forest",
+      "alert_id": "25574",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25574",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 29 July to 4 August 2025, as part of the fire management program for Brooyar State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 29 July to 4 August 2025, as part of the fire management program for Brooyar State Forest.</p> <p>Access to Point Pure, Greens Lane and Eagles Nest Lookouts and Climbing Areas will still be available.&nbsp;&nbsp;</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Firefighters will be working along the Brooyar Forest Drive and Peterson Road. &nbsp;Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs. &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-29",
+      "start_effective_date": "2025-07-29",
+      "end_date": "2025-08-04",
+      "parks": [
+        {
+          "id": "148063",
+          "name": "Brooyar State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/brooyar"
         }
       ]
     }
