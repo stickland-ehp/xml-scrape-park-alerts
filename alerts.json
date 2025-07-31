@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2025-07-30 10:12:01"
+    "alerts_count": 171,
+    "script_run_time": "2025-07-31 10:11:15"
   },
   "alerts": [
     {
@@ -643,24 +643,6 @@
       ]
     },
     {
-      "title": "Temporary track closure - Good Night Scrub National Park",
-      "alert_id": "24400",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24400",
-      "description": "Due to erosion, Pine Gully, Bowden Creek, Manderson No 2 and One Tree Hill Tracks are temporarily closed to ensure visitor safety.",
-      "details": "<p>Due to erosion, Pine Gully, Bowden Creek, Manderson No 2 and One Tree Hill Tracks are temporarily closed to ensure visitor safety.</p> <p>Visitors will still be able to access through the National Park via Back Creek Road, Gayndah Road, Rangers Road, Manderson No 1 Road and Goodnight Road.&nbsp;&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-04-22",
-      "start_effective_date": "2024-08-14",
-      "end_date": "2025-07-30",
-      "parks": [
-        {
-          "id": "149437",
-          "name": "Good Night Scrub National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/good-night-scrub"
-        }
-      ]
-    },
-    {
       "title": "Camping area water supply update: Goldsborough Valley section, Wooroonooran National Park",
       "alert_id": "24502",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24502",
@@ -1013,13 +995,13 @@
       ]
     },
     {
-      "title": "Update to Jourama Falls lookout walking track closure, Paluma National Park",
+      "title": "Jourama Falls lookout walking track update, Paluma Range National Park",
       "alert_id": "24959",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24959",
-      "description": "The Jourama Falls lookout walking track is currently closed, however a temporary track has been established allowing this walking track to reopen on Thursday 31 July 2025.",
-      "details": "<p>The Jourama Falls lookout walking track is currently closed, however a temporary track has been established allowing this walking track to reopen on Thursday 31 July 2025.</p> <p>The temporary walking track has been established to provide access to the Jourama Falls lookout and the upper sections of the Waterview Creek gorge below the falls. The temporary track crosses a landslide that occurred during the February 2025 monsoon rain event.</p> <p><strong>Due to the unstable nature of the landslide and boulders, some areas of the landslide are closed to the public for safety.&nbsp; Please follow all directional and safety signage&nbsp;and&nbsp;any directions from rangers.</strong></p> <p>Please monitor this park alert for current information.</p>",
+      "description": "The Jourama Falls lookout walking track is now open. A temporary walking track has been established to provide access to the Jourama Falls lookout and the upper sections of the Waterview Creek gorge below the falls. The temporary track crosses a landslide that occurred during the February 2025 monsoon rain event.",
+      "details": "<p>The Jourama Falls lookout walking track is now open. A temporary walking track has been established to provide access to the Jourama Falls lookout and the upper sections of the Waterview Creek gorge below the falls. The temporary track crosses a landslide that occurred during the February 2025 monsoon rain event.</p> <p><strong>Due to the unstable nature of the landslide and boulders, some areas of the landslide remain closed to the public for safety.&nbsp; Please follow all directional and safety signage&nbsp;and&nbsp;any directions from rangers.</strong></p> <p>Please monitor this park alert for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-29",
+      "start_date": "2025-07-31",
       "start_effective_date": "2025-04-08",
       "end_date": "2025-08-30",
       "parks": [
@@ -2049,48 +2031,20 @@
       ]
     },
     {
-      "title": "Hell Hole Gorge National Park partially open - following flood damage",
+      "title": "Hell Hole Waterhole walking track - closed following flood damage",
       "alert_id": "25346",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25346",
-      "description": "Some areas in Hell Hole Gorge National Park are now open. Stay alert for hazards and drive to suit the conditions.",
-      "details": "<p>Some areas in Hell Hole Gorge National Park are now open. Stay alert for hazards and drive to suit the conditions.</p> <p><strong>Open areas:&nbsp;</strong></p> <ul> <li> <p>Powell Creek camping area.</p> </li> <li> <p>All access roads.</p> </li> </ul> <p>The following areas remain closed until declared safe/works completed:&nbsp;</p> <ul> <li> <p>&nbsp;Hell Hole Waterhole walking track.</p> </li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "As a result of severe weather damage, some areas in Hell Hole Gorge National Park are closed until declared safe.",
+      "details": "<p>As a result of severe weather damage, some areas in Hell Hole Gorge National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>&nbsp;Hell Hole Waterhole walking track.</p> </li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-30",
+      "start_date": "2025-07-31",
       "start_effective_date": "2025-06-01",
-      "end_date": "2025-07-30",
+      "end_date": "2025-08-31",
       "parks": [
         {
           "id": "148788",
           "name": "Hell Hole Gorge National Park",
           "url": "https://parks.desi.qld.gov.au/parks/hell-hole-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Cape Melville National Park (CYPAL), Rinyirru (Lakefield) National Park (CYPAL) and Lama Lama National Park (CYPAL)",
-      "alert_id": "25358",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25358",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Wednesday 30 July 2025 (dates inclusive) in the following parks, as part of the fire management program.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 1 June to Wednesday 30 July 2025 (dates inclusive) in the following parks, as part of the fire management program.</p> <ul> <li>Cape Melville National Park&nbsp; (CYPAL)</li> <li>Rinyirru (Lakefield) National Park (CYPAL)</li> <li>Lama Lama National Park (CYPAL)</li> </ul> <p>Visitor facilities in the open sections of the parks above will not be impacted by these planned burns, but smoke may be seen in the surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-04",
-      "start_effective_date": "2025-06-01",
-      "end_date": "2025-07-30",
-      "parks": [
-        {
-          "id": "148235",
-          "name": "Lama Lama National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/lama-lama"
-        },
-        {
-          "id": "149481",
-          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/rinyirru-lakefield"
-        },
-        {
-          "id": "148725",
-          "name": "Cape Melville National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-melville"
         }
       ]
     },
@@ -2871,29 +2825,6 @@
       ]
     },
     {
-      "title": "Prescribed Burn - Snout Point to Coolooloi",
-      "alert_id": "25538",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25538",
-      "description": "Queensland Parks and Wildlife Service (QPWS) Rangers will conduct a prescribed burn between 16th to 30th of July 2025 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) Rangers will conduct a prescribed burn between 16th to 30th of July 2025 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of nearby areas of the southern barge landing zone, Dilli Village, Coolooloi, Garry&rsquo;s Anchorage and Ungowa Campgrounds.&nbsp;</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>During the prescribed burn, a section of the Great Walk from Hook Point to Dilli Village will be closed to the public, this includes Jabiru hiker&rsquo;s camp.&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-16",
-      "start_effective_date": "2025-07-16",
-      "end_date": "2025-07-30",
-      "parks": [
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Challenging seasonal hiking conditions",
       "alert_id": "25540",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25540",
@@ -3286,24 +3217,6 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning: Atherton Forest Mountain Bike Park and Baldy-Yabi Circuit walk, Herberton State Forest and Baldy Mountain Forest Reserve",
-      "alert_id": "25565",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25565",
-      "description": "Queensland Parks and Wildlife Service will be undertaking planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve in Atherton on 29 July 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve in Atherton on 29 July 2025 (dates inclusive).</p> <p>&nbsp;<strong>For public safety the Atherton Forest Mountain Bike Park and Baldy-Yabi circuit walk will be closed on 29 and 30 July 2025.</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-07-28",
-      "start_effective_date": "2025-07-29",
-      "end_date": "2025-07-30",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: between Moomin Road and Herberton: Herberton State Forest and Baldy Mountain Forest Reserve",
       "alert_id": "25566",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25566",
@@ -3485,6 +3398,47 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn",
+      "alert_id": "25578",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25578",
+      "description": "With the current closure of Joseph Banks Conservation Park for the upgrade works, QPWS staff will be undertaking a planned burn while conditions are favourable.",
+      "details": "<p>With the current closure of Joseph Banks Conservation Park for the upgrade works, QPWS staff will be undertaking a planned burn while conditions are favourable.</p> <p>Smoke will be visible from Seventeen Seventy</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-07-31",
+      "start_effective_date": "2025-07-31",
+      "end_date": "2025-08-01",
+      "parks": [
+        {
+          "id": "148388",
+          "name": "Joseph Banks Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/joseph-banks"
+        }
+      ]
+    },
+    {
+      "title": "Public notice: firearms operations being undertaken",
+      "alert_id": "25582",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25582",
+      "description": "Queensland Parks and Wildlife Service will be undertaking firearms operations within the Goldsborough Valley section of Wooroonooran National Park on Friday 1 August 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service will be undertaking firearms operations within the Goldsborough Valley section of Wooroonooran National Park on Friday 1 August 2025.</p> <p>Firearms may be heard between 10am and 2pm with park visitors within the Goldsborough Valley camping and day-use areas being notified in person prior to commencement.</p> <p>Please follow all signs and directions from Rangers.</p>",
+      "category": "Announcement",
+      "start_date": "2025-07-31",
+      "start_effective_date": "2025-08-01",
+      "end_date": "2025-08-01",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
         }
       ]
     }
