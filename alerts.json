@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2025-08-01 10:11:35"
+    "alerts_count": 165,
+    "script_run_time": "2025-08-02 10:09:35"
   },
   "alerts": [
     {
@@ -792,24 +792,6 @@
       ]
     },
     {
-      "title": "Cape Melville National Park (CYPAL) now open",
-      "alert_id": "24685",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24685",
-      "description": "Cape Melville National Park (CYPAL) is now open, including all camping areas.",
-      "details": "<p>Cape Melville National Park (CYPAL) is now open, including all camping areas.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-07",
-      "start_effective_date": "2024-12-01",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148725",
-          "name": "Cape Melville National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-melville"
-        }
-      ]
-    },
-    {
       "title": "Temporary camping area and access track closure: Halifax Bay Wetlands National Park",
       "alert_id": "24693",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24693",
@@ -1199,29 +1181,6 @@
           "id": "148055",
           "name": "Danbulla National Park and State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/danbulla"
-        }
-      ]
-    },
-    {
-      "title": "Large trees down on Conondale Range Great Walk",
-      "alert_id": "25113",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25113",
-      "description": "As a result of recent rain events and strong winds, some areas along the Conondale Range Great Walk have large trees and debris down across the track.",
-      "details": "<p>As a result of recent rain events and strong winds, some areas along the Conondale Range Great Walk have large trees and debris down across the track.</p> <p>Some sections of track may be obstructed and difficult to find. Navigational and route finding skills may be required.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-27",
-      "start_effective_date": "2025-03-24",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "152865",
-          "name": "Conondale Range Great Walk",
-          "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
-        },
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/conondale"
         }
       ]
     },
@@ -2320,24 +2279,6 @@
       ]
     },
     {
-      "title": "Planned Burn Season",
-      "alert_id": "25477",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25477",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Snapper Island, Hope Islands National Park (CYPAL) from July to August as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Snapper Island, Hope Islands National Park (CYPAL) from July to August as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Before any planned burn is undertaken, local stakeholders and booked campers&nbsp;will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-30",
-      "start_effective_date": "2025-07-01",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148368",
-          "name": "Snapper Island, Hope Islands National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/hope-snapper"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Horsetailer Waterhole camping area, Oyala Thumotang National Park (CYPAL)",
       "alert_id": "25479",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25479",
@@ -2458,24 +2399,6 @@
       ]
     },
     {
-      "title": "Road access advice: Emu Swamp and Moonstone camping areas, Blackbraes National Park",
-      "alert_id": "25492",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25492",
-      "description": "Due to recent rainfall the access road to Emu Swamp camping area is boggy in places.",
-      "details": "<p>Due to recent rainfall the access road to Emu Swamp camping area is boggy in places.</p> <p>Access to Emu Swamp camping area is available for high clearance 4WD vehicles only and not suitable for large camper trailers or caravans.</p> <p>Road works are in progress on the Kennedy Developmental Road which may impact access to Moonstone camping area for short periods.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-16",
-      "start_effective_date": "2025-07-04",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148604",
-          "name": "Blackbraes National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blackbraes"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Oak Hills in the vicinity of Wairuna Section, Girringun National Park",
       "alert_id": "25502",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25502",
@@ -2564,24 +2487,6 @@
           "id": "148892",
           "name": "Apudthama National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/apudthama"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure - Pest management control program 27 July-1 August",
-      "alert_id": "25510",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25510",
-      "description": "Byfield National Park, and Byfield Conservation Park including 9-mile beach will be temporarily closed from 6pm Sunday 27 July until 3pm Friday 01 August 2025, to allow for pest management control, including use of firearms by QPWS rangers.",
-      "details": "<p>Byfield National Park, and Byfield Conservation Park including 9-mile beach will be temporarily closed from 6pm Sunday 27 July until 3pm Friday 01 August 2025, to allow for pest management control, including use of firearms by QPWS rangers.</p> <p>For safety reasons, public access will not be permitted during this period. The National Park and Conservation Park will be closed to the public (i.e. campers and day visitors) whilst control activities are underway. Entry into the Restricted Access Area indicated on the map is prohibited during this period.&nbsp;</p> <p>Sandy Point section of the National Park and State Forest areas including Water Park Creek, Red Rock and Upper Stoney will remain available to public use during this time.&nbsp;</p> <p>Should you require any further information, Queensland Parks and Wildlife Service &amp; Partnerships of the Department of Environment, Tourism, Science and Innovation on telephone on (07) 4936 0570.&nbsp;</p> <h2><strong>Your safety is our concern, but your responsibility.&nbsp;</strong></h2>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-10",
-      "start_effective_date": "2025-07-24",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.desi.qld.gov.au/parks/byfield"
         }
       ]
     },
@@ -2871,24 +2776,6 @@
       ]
     },
     {
-      "title": "Planned burn : Dryander National Park",
-      "alert_id": "25548",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25548",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Double Bay section of Dryander National Park between Monday 21 July and Friday 1 August 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Double Bay section of Dryander National Park between Monday 21 July and Friday 1 August 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas</p> <p>If visiting&nbsp;<strong>Dryander National Park</strong>&nbsp;observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.&nbsp;</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.<br /> If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a>&nbsp;webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a> .&nbsp;</p> <p>You can stay updated with local QPWS fire activities by visiting&nbsp;<a href=\"https://parks.des.qld.gov.au/park-alerts\">Park Alerts</a>&nbsp;or by following&nbsp;<a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a> on X (formerly known as Twitter).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Other",
-      "start_date": "2025-07-18",
-      "start_effective_date": "2025-07-21",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148187",
-          "name": "Dryander National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/dryander"
-        }
-      ]
-    },
-    {
       "title": "Planned works for mountain bike trails- Wooroi Section, Tewantin NP",
       "alert_id": "25550",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25550",
@@ -3122,47 +3009,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Ravenshoe Forest Reserve 1",
-      "alert_id": "25567",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25567",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Ronald Road from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along the western side of Mount Ronald Road from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Mount Ronald Road, Mount Pandanus Road and Arthur Baillie Road. For your safety and the safety of authorities, please slow down, observe all directions and signs and do not entre the burn area.</p> <p>Smoke may be seen in the vicinity of Mount Ronald Road and nearby Tully Falls National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-28",
-      "start_effective_date": "2025-07-29",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148600",
-          "name": "Tully Falls National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
-        },
-        {
-          "id": "322282",
-          "name": "Ravenshoe Forest Reserve 1",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Ravenshoe State Forest 3",
-      "alert_id": "25568",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25568",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along Corduroy Creek in Ravenshoe State Forest 3 from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) along Corduroy Creek in Ravenshoe State Forest 3 from Tuesday 29 July to Friday 1 August 2025 (dates inclusive).</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Stringy access, Cupitt break and Mays break. For your safety and the safety of authorities, please slow down, observe all directions and signs and do not entre the burn area.</p> <p>Smoke may be seen in the area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-25",
-      "start_effective_date": "2025-07-29",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "322337",
-          "name": "Ravenshoe State Forest 3",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Closed due to wet conditions",
       "alert_id": "25569",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25569",
@@ -3307,24 +3153,6 @@
       ]
     },
     {
-      "title": "Planned Burn",
-      "alert_id": "25578",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25578",
-      "description": "With the current closure of Joseph Banks Conservation Park for the upgrade works, QPWS staff will be undertaking a planned burn while conditions are favourable.",
-      "details": "<p>With the current closure of Joseph Banks Conservation Park for the upgrade works, QPWS staff will be undertaking a planned burn while conditions are favourable.</p> <p>Smoke will be visible from Seventeen Seventy</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-07-31",
-      "start_effective_date": "2025-07-31",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148388",
-          "name": "Joseph Banks Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/joseph-banks"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Blackdown Tableland National Park: Munall Campground to Gudda Gumoo (Rainbow Falls)",
       "alert_id": "25579",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25579",
@@ -3357,29 +3185,6 @@
           "id": "149485",
           "name": "Cape Hillsborough National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
-        }
-      ]
-    },
-    {
-      "title": "Public notice: firearms operations being undertaken",
-      "alert_id": "25582",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25582",
-      "description": "Queensland Parks and Wildlife Service will be undertaking firearms operations within the Goldsborough Valley section of Wooroonooran National Park on Friday 1 August 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking firearms operations within the Goldsborough Valley section of Wooroonooran National Park on Friday 1 August 2025.</p> <p>Firearms may be heard between 10am and 2pm with park visitors within the Goldsborough Valley camping and day-use areas being notified in person prior to commencement.</p> <p>Please follow all signs and directions from Rangers.</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-31",
-      "start_effective_date": "2025-08-01",
-      "end_date": "2025-08-01",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
         }
       ]
     },
