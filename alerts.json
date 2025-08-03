@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2025-08-02 10:09:35"
+    "alerts_count": 164,
+    "script_run_time": "2025-08-03 10:09:44"
   },
   "alerts": [
     {
@@ -3063,24 +3063,6 @@
       ]
     },
     {
-      "title": "Temporary closure : Idalia National Park wet weather",
-      "alert_id": "25572",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25572",
-      "description": "Due to recent rainfall making roads boggy Idalia National Park is temporarily closed until Saturday 2 August 2025 when conditions will be reviewed.",
-      "details": "<p>Due to recent rainfall making roads boggy Idalia National Park is temporarily closed until Saturday 2 August 2025 when conditions will be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-29",
-      "start_effective_date": "2025-07-29",
-      "end_date": "2025-08-02",
-      "parks": [
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/idalia"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn Brooyar State Forest",
       "alert_id": "25574",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25574",
@@ -3095,24 +3077,6 @@
           "id": "148063",
           "name": "Brooyar State Forest",
           "url": "https://parks.desi.qld.gov.au/parks/brooyar"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure during event: Walshs Pyramid walking track and carpark, Wooroonooran National Park",
-      "alert_id": "25575",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25575",
-      "description": "The Walshs Pyramid walking track and carpark will be closed for the Great Pyramid Race event on Saturday 2 August 2025. Facilities will reopen for normal use on Sunday 3 August 2025.",
-      "details": "<p>The Walshs Pyramid walking track and carpark will be closed for the Great Pyramid Race event on Saturday 2 August 2025. Facilities will reopen for normal use on Sunday 3 August 2025.</p> <p>Please obey signage and event marshal&rsquo;s directions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-30",
-      "start_effective_date": "2025-08-02",
-      "end_date": "2025-08-02",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
         }
       ]
     },
@@ -3316,6 +3280,29 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather warning for damaging winds in Main Range National Park",
+      "alert_id": "25590",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25590",
+      "description": "The Bureau of Meteorology has issued a severe weather warning for parts of Main Range National Park, especially the Queen Mary Falls section. DAMAGING WINDS averaging 60 km/h with peak gusts in excess of 90 km/h are predicted this afternoon and evening.",
+      "details": "<p>The Bureau of Meteorology has issued a severe weather warning for parts of Main Range National Park, especially the Queen Mary Falls section. DAMAGING WINDS averaging 60 km/h with peak gusts in excess of 90 km/h are predicted this afternoon and evening.</p> <p>Queensland Fire and Emergency Services advises that people should:<br /> &nbsp;&nbsp; &nbsp;&bull; Move your car under cover or away from trees.<br /> &nbsp;&nbsp; &nbsp;&bull; Secure loose outdoor items.<br /> &nbsp;&nbsp; &nbsp;&bull; Seek shelter, preferably indoors and never under trees.<br /> &nbsp;&nbsp; &nbsp;&bull; Beware of fallen trees and powerlines.<br /> &nbsp;&nbsp; &nbsp;&bull; For emergency assistance contact the SES on 132 500.</p> <p>For further updates please visit http://www.bom.gov.au/.<br /> &nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-03",
+      "start_effective_date": "2025-08-03",
+      "end_date": "2025-08-04",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/main-range"
+        },
+        {
+          "id": "205144",
+          "name": "Scenic Rim Trail, Main Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/scenic-rim-trail"
         }
       ]
     }
