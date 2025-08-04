@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2025-08-03 10:09:44"
+    "alerts_count": 169,
+    "script_run_time": "2025-08-04 10:13:40"
   },
   "alerts": [
     {
@@ -1522,6 +1522,24 @@
           "id": "148892",
           "name": "Apudthama National Park (CYPAL)",
           "url": "https://parks.desi.qld.gov.au/parks/apudthama"
+        }
+      ]
+    },
+    {
+      "title": "No Tank Water- Archer Camp Ground",
+      "alert_id": "25219",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25219",
+      "description": "Due to damage to the water tank at Archer Campground caused by ex-tropical cyclone Alfred, there is no water available for general use. This has not impacted the toilet facilities. We apologise for any inconvenience caused. QPWS &amp;P are endeavouring to have this issue rectified by September.",
+      "details": "<p>Due to damage to the water tank at Archer Campground caused by ex-tropical cyclone Alfred, there is no water available for general use. This has not impacted the toilet facilities. We apologise for any inconvenience caused. QPWS &amp;P are endeavouring to have this issue rectified by September.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-04",
+      "start_effective_date": "2025-04-24",
+      "end_date": "2025-09-16",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -3303,6 +3321,83 @@
           "id": "205144",
           "name": "Scenic Rim Trail, Main Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/scenic-rim-trail"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning operations: firefighting crews and vehicles on along Red Road, Koombooloomba National Park",
+      "alert_id": "25591",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25591",
+      "description": "As part of the annual hazard reduction/ conservation management program, Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn within Koombooloomba National Park and Koombooloomba South Forest Reserve along Red Road on Tuesday 5 and Wednesday 6 August 2025.",
+      "details": "<p>As part of the annual hazard reduction/ conservation management program, Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn within Koombooloomba National Park and Koombooloomba South Forest Reserve along Red Road on Tuesday 5 and Wednesday 6 August 2025.</p> <p>Drivers should be aware of the smoke hazard and drive to conditions.</p> <p>Visitors are requested not to enter the fire ground area and to follow all directions from fire personnel and warning signage during the planned burning operations.</p> <p>Access to Koombooloomba Dam and Koombooloomba Conservation Park camping area via Tully Falls Road remains open.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-04",
+      "start_effective_date": "2025-08-05",
+      "end_date": "2025-08-06",
+      "parks": [
+        {
+          "id": "322382",
+          "name": "Koombooloomba South Forest Reserve",
+          "url": ""
+        },
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/koombooloomba"
+        }
+      ]
+    },
+    {
+      "title": "D'Aguilar National Park Track Maintenance",
+      "alert_id": "25592",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25592",
+      "description": "Turrbal Circuit Track Maintenance in the Bellbird Grove Area",
+      "details": "<p>Turrbal Circuit Track Maintenance in the Bellbird Grove Area</p> <p>QPWS will be conducting planned track maintenace from Monday, August 4 to Friday, August 8 on the Turrbal Circuit in the Bellbird Grove area. As such there will be equipment working on the walking track and the walking track may be temporarily closed for portions of the day.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-04",
+      "start_effective_date": "2025-08-04",
+      "end_date": "2025-08-08",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Smaford Conservation Park Track Maintenance",
+      "alert_id": "25593",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25593",
+      "description": "Crebra Circuit Track Maintenance in the Ironbark Gully Area",
+      "details": "<p>Crebra Circuit Track Maintenance in the Ironbark Gully Area</p> <p>QPWS will be conducting planned track maintenace from Monday, August 4 to Friday, August 8 on the Crebra Circuit in the Ironbark Gully area. As such there will be equipment working on the walking track and the walking track may be temporarily closed for portions of the day.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-04",
+      "start_effective_date": "2025-08-04",
+      "end_date": "2025-08-08",
+      "parks": [
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/samford"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn within Kalpowar State Forest",
+      "alert_id": "25594",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25594",
+      "description": "HQPlantations will be conducting planned burns on from the 4th of August 2025 until the 15th of August 2025, as part of the annual hazard reduction and conservation management program for parks and forests.",
+      "details": "<p>HQPlantations will be conducting planned burns on from the 4th of August 2025 until the 15th of August 2025, as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>&nbsp;</p> <p>Smoke may be seen in the vicinity of Barimoon Road and the Kalpowar camping area . Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Observe all signage, barriers and directions from rangers and HQP staff, and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For further information, please contact <a href=\"https://www.hqplantations.com.au/contact\">HQPlantations</a> at <a href=\"mailto:information@hqplantations.com.au\">information@hqplantations.com.au</a> or phone <a href=\"tel:+61748374100\">+61 7 4837 4100</a>.</p>",
+      "category": "Other",
+      "start_date": "2025-08-04",
+      "start_effective_date": "2025-08-04",
+      "end_date": "2025-08-15",
+      "parks": [
+        {
+          "id": "148255",
+          "name": "Kalpowar State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/kalpowar"
         }
       ]
     }
