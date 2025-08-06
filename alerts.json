@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 176,
-    "script_run_time": "2025-08-05 10:11:49"
+    "alerts_count": 180,
+    "script_run_time": "2025-08-06 10:12:10"
   },
   "alerts": [
     {
@@ -981,9 +981,9 @@
       "alert_id": "24932",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24932",
       "description": "Please see below updates for Mount Spec section of Paluma Range National Park.",
-      "details": "<p>Please see below updates for Mount Spec section of Paluma Range National Park.</p> <h3>The below facilities are currently closed due to impacts of a recent severe weather event:</h3> <p><strong>Camping areas</strong></p> <ul> <li>Mount Spec remote bush camping north of Paluma</li> </ul> <p>For visitors with an existing camping booking up until and including Saturday 30 August 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p><strong>Day-use areas</strong></p> <ul> <li>Little Crystal Creek day-use area</li> <li>McClellands lookout day-use area</li> <li>Rockslides waterhole.</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>McClellands lookout walking track</li> <li>Rockslides walking track</li> <li>Witts lookout walking track</li> <li>Cloudy Creek walking track</li> <li>Andr&eacute;e&nbsp;Griffin walking track</li> <li>H track</li> <li>Birthday Creek Falls walking track.</li> </ul> <h3>The below facilities are now open:</h3> <ul> <li>Big Crystal Creek camping area</li> <li>Big Crystal Creek day-use area &nbsp;(including&nbsp;Paradise Waterhole).</li> <li>Mount Halifax remote bush camping south of Paluma</li> </ul> <p><strong>Prior to travel, visitors are advised to check local road conditions and closures at:</strong></p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads</a> or call 13 19 40</li> <li><a href=\"https://www.townsville.qld.gov.au/\">Townsville City&nbsp;Council</a>.</li> </ul> <p>Please monitor this park alert for up-to-date details.</p>",
+      "details": "<p>Please see below updates for Mount Spec section of Paluma Range National Park.</p> <h3>The below facilities are currently closed due to impacts of a severe weather event earlier this year:</h3> <p><strong>Camping areas</strong></p> <ul> <li>Mount Spec remote bush camping north of Paluma</li> </ul> <p>For visitors with an existing camping booking up until and including Saturday 30 August 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p><strong>Day-use areas</strong></p> <ul> <li>Little Crystal Creek day-use area</li> <li>Rockslides waterhole.</li> </ul> <p><strong>Walking tracks</strong></p> <ul> <li>Rockslides walking track</li> </ul> <h3>The below facilities are now open:</h3> <ul> <li>Big Crystal Creek camping area</li> <li>Big Crystal Creek day-use area &nbsp;(including&nbsp;Paradise Waterhole).</li> <li>Mount Halifax remote bush camping south of Paluma</li> <li>McClellands lookout walking track and day-use area</li> <li>Witts lookout walking track</li> <li>Cloudy Creek walking track</li> <li>Andr&eacute;e&nbsp;Griffin walking track</li> <li>H track</li> <li>Birthday Creek Falls walking track</li> </ul> <p><strong>Prior to travel, visitors are advised to check local road conditions and closures at:</strong></p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads</a> or call 13 19 40</li> <li><a href=\"https://www.townsville.qld.gov.au/\">Townsville City&nbsp;Council</a>.</li> </ul> <p>Please monitor this park alert for up-to-date details.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-07",
+      "start_date": "2025-08-06",
       "start_effective_date": "2025-02-07",
       "end_date": "2025-08-30",
       "parks": [
@@ -1278,9 +1278,9 @@
       "description": "Most areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from the severe weather events and drive to suit the road access conditions.",
       "details": "<p>Most areas in Townsville Town Common Conservation Park are now open with caution. Stay alert for potential hazards from the severe weather events and drive to suit the road access conditions.</p> <p><strong>Open areas:</strong></p> <ul> <li>Freshwater Lagoon Road</li> <li>Payet&rsquo;s Tower; Pandanus viewing area; Freshwater bird hide and Jacana bird hide</li> <li>Freshwater trail and Lagoon trail&nbsp;to Cape Pallarenda Road trailhead</li> <li>Wetlands walk and Forest walk</li> <li>Many Peaks walking track</li> <li>Shelly Beach trail</li> <li>Under the Radar trail</li> </ul> <p><strong>Closed areas:</strong></p> <p>The following trail remains closed until damage repair works are completed and conditions are considered safe.</p> <ul> <li>Smedleys trail</li> </ul> <p>For your safety, please observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Townsville Town Common Conservation Park on the department&rsquo;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-24",
+      "start_date": "2025-08-06",
       "start_effective_date": "2025-04-01",
-      "end_date": "2025-08-22",
+      "end_date": "2025-08-29",
       "parks": [
         {
           "id": "148311",
@@ -3089,24 +3089,6 @@
       ]
     },
     {
-      "title": "Boardwalk Closure - 5th August, 2025",
-      "alert_id": "25580",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25580",
-      "description": "The Biodiversity Boardwalk and Visitor Car Park within Cape Hillsborough National Park will be closed Tuesday, 5 August 2025, while trail maintenance is undertaken by traditional owners, The Yuwi People and their Land &amp; Sea Ranger team with the support of Queensland Parks &amp; Wildlife Rangers.",
-      "details": "<p>The Biodiversity Boardwalk and Visitor Car Park within Cape Hillsborough National Park will be closed Tuesday, 5 August 2025, while trail maintenance is undertaken by traditional owners, The Yuwi People and their Land &amp; Sea Ranger team with the support of Queensland Parks &amp; Wildlife Rangers.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-01",
-      "start_effective_date": "2025-08-01",
-      "end_date": "2025-08-05",
-      "parks": [
-        {
-          "id": "149485",
-          "name": "Cape Hillsborough National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/cape-hillsborough"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closure for planned burning activities: Robsons Track, Gadgarra National Park",
       "alert_id": "25583",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25583",
@@ -3505,6 +3487,24 @@
       ]
     },
     {
+      "title": "Road and Camping Area Closure",
+      "alert_id": "25609",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25609",
+      "description": "Due to recent rainfall Beefwood Hut Road, Werewilka Creek Circuit and Caiwarro Camping Area are closed.",
+      "details": "<p>Due to recent rainfall Beefwood Hut Road, Werewilka Creek Circuit and Caiwarro Camping Area are closed.</p> <p>Road Closed signs are in place and Rangers will open roads as they become accessible.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-06",
+      "start_effective_date": "2025-08-05",
+      "end_date": "2025-08-19",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
       "title": "Planned Burn - Kings Bore South",
       "alert_id": "25610",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25610",
@@ -3524,6 +3524,88 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Carmoo section of Mount Mackay National Park",
+      "alert_id": "25611",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25611",
+      "description": "Mount Mackay National Park is closed to public access around Carmoo at Tully Mission Beach Road due to planned burning activities from 5 August to 31 August 2025 (dates inclusive). Smoke and fire may be seen in the area.",
+      "details": "<p>Mount Mackay National Park is closed to public access around Carmoo at Tully Mission Beach Road due to planned burning activities from 5 August to 31 August 2025 (dates inclusive). Smoke and fire may be seen in the area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-06",
+      "start_effective_date": "2025-08-06",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "322781",
+          "name": "Mount Mackay National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Goldsborough Valley access road, Wooroonooran National Park",
+      "alert_id": "25612",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25612",
+      "description": "Queensland Parks and Wildlife Service and Traditional Owners will be conducting a small planned burn from Wednesday 6 August until Thursday 7 August 2025 (dates inclusive). Fire will be seen along the entry road to the camping area near Arnolds Bridge.",
+      "details": "<p>Queensland Parks and Wildlife Service and Traditional Owners will be conducting a small planned burn from Wednesday 6 August until Thursday 7 August 2025 (dates inclusive). Fire will be seen along the entry road to the camping area near Arnolds Bridge.</p> <p>Smoke has the potential to impact the road and limit driver visibility. Drive slowly, obey all signs and instructions from Rangers.</p> <p>The camping and day-use area remain open for use.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-06",
+      "start_effective_date": "2025-08-06",
+      "end_date": "2025-08-07",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "151367",
+          "name": "Goldfield trail, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Hartleys Falls walking track, Macalister Range National Park",
+      "alert_id": "25613",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25613",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn in the Hartleys Creek area as part of the fire management program for Macalister Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn in the Hartleys Creek area as part of the fire management program for Macalister Range National Park.</p> <p><strong>During the burn the walking track to Hartley&rsquo;s Falls will be closed to public access on Thursday 7 August and Friday 8 August (dates inclusive). </strong></p> <p>Smoke may be seen in the vicinity of Wangetti Beach. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-06",
+      "start_effective_date": "2025-08-07",
+      "end_date": "2025-08-08",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Culgoa Floodplain National Park",
+      "alert_id": "25614",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25614",
+      "description": "As a result of wet weather Culgoa Floodplain National Park is closed until declared safe.",
+      "details": "<p>As a result of wet weather Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation. All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-06",
+      "start_effective_date": "2025-08-06",
+      "end_date": "2025-09-01",
+      "parks": [
+        {
+          "id": "149497",
+          "name": "Culgoa Floodplain National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/culgoa-floodplain"
         }
       ]
     }
