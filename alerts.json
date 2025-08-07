@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 180,
-    "script_run_time": "2025-08-06 10:12:10"
+    "alerts_count": 179,
+    "script_run_time": "2025-08-07 10:11:25"
   },
   "alerts": [
     {
@@ -2607,24 +2607,6 @@
       ]
     },
     {
-      "title": "Fire management trail maintenance - Tagablum and Red Hill break",
-      "alert_id": "25534",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25534",
-      "description": "Pending favourable weather conditions, planned maintenance will be conducted on Red Hill and Tagablum fire management trail between Tuesday the 15th of July and Friday the 1st of August 2025.",
-      "details": "<p>Pending favourable weather conditions, planned maintenance will be conducted on Red Hill and Tagablum fire management trail between Tuesday the 15th of July and Friday the 1st of August 2025.</p> <p>&nbsp;</p> <p>Heavy machinery is in operation on the fire management trails while the maintenance works are being completed.</p> <p>As a result, both breaks will be temporarily closed during weekdays, however open on weekends for the duration of the closure.&nbsp;</p> <p>Observe all signage, barriers and directions from rangers, and do not enter closed area.</p> <p>&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-29",
-      "start_effective_date": "2025-07-15",
-      "end_date": "2025-08-06",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn Wrattens National Park.",
       "alert_id": "25537",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25537",
@@ -3017,24 +2999,6 @@
       ]
     },
     {
-      "title": "Temporary Closure: Baral Marrjanga track (Mossman Gorge elevated boardwalk)",
-      "alert_id": "25571",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25571",
-      "description": "The elevated boardwalk on the Baral Marrjanga track at Mossman Gorge, Daintree National Park (CYPAL) will be temporarily closed for essential maintenance works, from 6am to 5pm Wednesday 6 August 2025.",
-      "details": "<p>The elevated boardwalk on the Baral Marrjanga track at Mossman Gorge, Daintree National Park (CYPAL) will be temporarily closed for essential maintenance works, from 6am to 5pm Wednesday 6 August 2025.</p> <p>Lower river track will remain open for visitors to access the lookouts, beach, Rex Creek bridge track and the Rainforest circuit track.</p> <p>Please note wheelchair access will not be possible during this time.</p> <p>Please adhere to all safety signs and directions from rangers and do not enter the work area.</p> <p>We appreciate your understanding as we undertake these important works to maintain safe and enjoyable access to the area.</p> <p>For updates, please monitor park alerts or contact the Mossman Gorge Centre.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-28",
-      "start_effective_date": "2025-08-06",
-      "end_date": "2025-08-06",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Scientific area closed to the public",
       "alert_id": "25576",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25576",
@@ -3166,24 +3130,6 @@
       ]
     },
     {
-      "title": "Temporary closure for planned burning activities: areas west of Old Kaban Road, The Bluff State Forest",
-      "alert_id": "25587",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25587",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning activities within The Bluff State Forest on 5 August 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning activities within The Bluff State Forest on 5 August 2025.</p> <p><strong>For public safety areas of the state forest west of Old Kaban Road will be closed during this time.</strong></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-08-01",
-      "start_effective_date": "2025-08-05",
-      "end_date": "2025-08-06",
-      "parks": [
-        {
-          "id": "322353",
-          "name": "The Bluff State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Cunninghams Gap section, Main Range National Park - The Crest car park closed due to planned works",
       "alert_id": "25588",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25588",
@@ -3198,47 +3144,6 @@
           "id": "148480",
           "name": "Main Range National Park",
           "url": "https://parks.desi.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
-      "title": "Temporary partial closure: Din Din Barron Falls boardwalk, Barron Gorge National Park",
-      "alert_id": "25589",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25589",
-      "description": "The Din Din Barron Falls boardwalk will be partially closed on the 5 and 6 August 2025 (dates inclusive), due to Queensland Rail performing scheduled works. The top viewing platform will remain open and is only accessible via the Barron Falls carpark.",
-      "details": "<p>The Din Din Barron Falls boardwalk will be partially closed on the 5 and 6 August 2025 (dates inclusive), due to Queensland Rail performing scheduled works. The top viewing platform will remain open and is only accessible via the Barron Falls carpark.</p> <p>For your safety, please adhere to all signs and directions from rangers and contractors and do not enter work areas.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-01",
-      "start_effective_date": "2025-08-05",
-      "end_date": "2025-08-06",
-      "parks": [
-        {
-          "id": "148548",
-          "name": "Barron Gorge National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/barron-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning operations: firefighting crews and vehicles on along Red Road, Koombooloomba National Park",
-      "alert_id": "25591",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25591",
-      "description": "As part of the annual hazard reduction/ conservation management program, Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn within Koombooloomba National Park and Koombooloomba South Forest Reserve along Red Road on Tuesday 5 and Wednesday 6 August 2025.",
-      "details": "<p>As part of the annual hazard reduction/ conservation management program, Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn within Koombooloomba National Park and Koombooloomba South Forest Reserve along Red Road on Tuesday 5 and Wednesday 6 August 2025.</p> <p>Drivers should be aware of the smoke hazard and drive to conditions.</p> <p>Visitors are requested not to enter the fire ground area and to follow all directions from fire personnel and warning signage during the planned burning operations.</p> <p>Access to Koombooloomba Dam and Koombooloomba Conservation Park camping area via Tully Falls Road remains open.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-08-04",
-      "start_effective_date": "2025-08-05",
-      "end_date": "2025-08-06",
-      "parks": [
-        {
-          "id": "322382",
-          "name": "Koombooloomba South Forest Reserve",
-          "url": ""
-        },
-        {
-          "id": "148802",
-          "name": "Koombooloomba National Park and Conservation Park",
-          "url": "https://parks.desi.qld.gov.au/parks/koombooloomba"
         }
       ]
     },
@@ -3606,6 +3511,93 @@
           "id": "149497",
           "name": "Culgoa Floodplain National Park",
           "url": "https://parks.desi.qld.gov.au/parks/culgoa-floodplain"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Paluma Range National Park",
+      "alert_id": "25615",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25615",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burns (weather permitting) from 13 August to 27 August 2025 (dates inclusive), as part of the fire management program for Paluma Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burns (weather permitting) from 13 August to 27 August 2025 (dates inclusive), as part of the fire management program for Paluma Range National Park.</p> <p>Rangers and machinery may be working along roadsides in the vicinity of the Bruce Highway, south of Rollingstone, and the &lsquo;beach track&rsquo;, Clemant. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p><strong>Paluma Range National Park east of the Bruce Highway to the Queensland Rail railway line, between ex-Rollingstone Ranch and Station Creek will be closed to the public during this period.</strong></p> <p>Smoke may be seen in the vicinity of the Bruce Highway via Clemant. For your health and safety, please take the necessary precautions. Your safety is our concern, but your responsibility.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-07",
+      "start_effective_date": "2025-08-13",
+      "end_date": "2025-08-27",
+      "parks": [
+        {
+          "id": "322391",
+          "name": "Clemant State Forest",
+          "url": ""
+        },
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Mitchell Springs cattle yard site",
+      "alert_id": "25616",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25616",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting scheduled maintenance at Mitchell Springs cattle yard from 7th August to 31 October 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting scheduled maintenance at Mitchell Springs cattle yard from 7th August to 31 October 2025 (weather permitting).</p> <p>Mitchell Springs cattle yard will be closed for the duration of the maintenance program.</p> <ul> <li>Mitchel Springs will remain open.&nbsp;</li> </ul> <p>Comercial tour operators and other permit holders are not permitted to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-07",
+      "start_effective_date": "2025-08-07",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "151359",
+          "name": "Salvator Rosa, Carnarvon National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/carnarvon-salvator-rosa"
+        }
+      ]
+    },
+    {
+      "title": "Russel Island Closure 12-20 August 2025",
+      "alert_id": "25617",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25617",
+      "description": "Russel Island Closure 12-20th August 2025",
+      "details": "<p>Russel Island Closure 12-20th August 2025</p> <p>Russel Island will be undergoing campground refurbishment from 12th to the 20th August 2025.&nbsp;&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-07",
+      "start_effective_date": "2025-08-12",
+      "end_date": "2025-08-20",
+      "parks": [
+        {
+          "id": "148749",
+          "name": "Frankland Group National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/frankland-group"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Lochern, Idalia and Welford National Parks due to wet weather",
+      "alert_id": "25618",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25618",
+      "description": "The Bureau of Meteorology is predicting wet weather to affect Welford, Lochern and Idalia National Parks over the next few days. As road conditions do not allow for wet weather driving these national parks will be closed until Monday 11 August 2025 when conditions will be reviewed.",
+      "details": "<p>The Bureau of Meteorology is predicting wet weather to affect Welford, Lochern and Idalia National Parks over the next few days. As road conditions do not allow for wet weather driving these national parks will be closed until Monday 11 August 2025 when conditions will be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-07",
+      "start_effective_date": "2025-08-08",
+      "end_date": "2025-08-11",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/welford"
+        },
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/lochern"
+        },
+        {
+          "id": "148031",
+          "name": "Idalia National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/idalia"
         }
       ]
     }
