@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 179,
-    "script_run_time": "2025-08-07 10:11:25"
+    "alerts_count": 178,
+    "script_run_time": "2025-08-08 10:11:20"
   },
   "alerts": [
     {
@@ -1254,24 +1254,6 @@
       ]
     },
     {
-      "title": "UPDATE Temporary closure for roadworks from Monday 12 May: Blackdown Tableland National Park",
-      "alert_id": "25148",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25148",
-      "description": "Visitors are advised that Queensland Parks and Wildlife Service (QPWS) are undertaking necessary roadworks in Blackdown Tableland National Park from Monday 12 May to Thursday 7 August (reopening Friday 8 August) 2025.",
-      "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service (QPWS) are undertaking necessary roadworks in Blackdown Tableland National Park from Monday 12 May to Thursday 7 August (reopening Friday 8 August) 2025.</p> <p>The roadworks will begin at the national park boundary and move through to Munall camping area. For safety reasons, and due to the narrow, winding access road, it will be unsafe for visitor vehicles to be in the vicinity of the roadworks. Consequently, access to Blackdown Tableland National Park will not be available from <strong>Monday 12 May 2025 to Thursday 7 August 2025.</strong></p> <p>QPWS apologises for any inconvenience this temporary closure may provide, and we thank you for your support.</p> <p>Improved road infrastructure at Blackdown Tableland National Park will allow for an enhanced visitor experience and we look forward to welcoming visitors back to the national park once it is safe to do so and the roadworks are complete.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-09",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-08-07",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
       "title": "Visitor facilities update: Townsville Town Common Conservation Park",
       "alert_id": "25150",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25150",
@@ -1370,9 +1352,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) are continuing to undertake repairs to Main Beach camping area following Ex-Tropical Cyclone Alfred.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) are continuing to undertake repairs to Main Beach camping area following Ex-Tropical Cyclone Alfred.</p> <p><strong>The Main Beach camping area will be partially re-opened from Saturday 12 April 2025.&nbsp; There will be reduced capacity which may have an impact on existing bookings.</strong></p> <p>Main Beach camping area capacity will be reduced for a period of time to allow for the sand to recover, before safe access can be reinstated to the affected sites.</p> <p>Observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>For enquiries and camping bookings at Main Beach, please visit Minjerribah Camping on <a href=\"https://urldefense.com/v3/__http:/www.minjerribahcamping.com.au__;!!PUY2jUP3Fp7oEg!GizJVMCT9kvod2xOBHdl0XGXPT6SivysQErXT56WrZsrhMgoL0hl1r29LwFIelTs406zJv3dRWaWKwxiu6OW7igPTr7tOH-K8dJ3d0Qz4O8m581sshc$\">www.minjerribahcamping.com.au</a>.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-05-08",
+      "start_date": "2025-08-08",
       "start_effective_date": "2025-04-04",
-      "end_date": "2025-08-09",
+      "end_date": "2025-09-09",
       "parks": [
         {
           "id": "148315",
@@ -2802,34 +2784,6 @@
       ]
     },
     {
-      "title": "Feral animal control program involving ground shooting: Hook Island, Whitsunday Islands National Park",
-      "alert_id": "25553",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25553",
-      "description": "A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Monday 4th August to Thursday 7th August 2025 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.",
-      "details": "<p>A feral animal control program involving ground shooting will be conducted at southern Hook Island, Whitsunday Islands National Park from Monday 4th August to Thursday 7th August 2025 (dates inclusive). Curlew Beach campground will be closed for the duration of the operation and a maritime exclusion zone around southern Hook Island extends 200m seaward of the highwater mark. Access to the Ngaro Cultural Site, Nara Inlet will be closed between 8am and 3pm each day of the operation. Visitors may hear shooting on these dates and must remain well clear of the area.</p> <p><a href=\"https://www.publications.qld.gov.au/dataset/7e50bf4d-4bf7-4d0e-861c-8dd3756317ec/resource/e3d4b0d9-ab84-49e6-ae39-9bd4c5d15515/download/advice-feral-animal-control-hook-island-aug-18-july-25.pdf\">Maritime Exclusion Zone - Hook Island</a></p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-22",
-      "start_effective_date": "2025-08-04",
-      "end_date": "2025-08-07",
-      "parks": [
-        {
-          "id": "152875",
-          "name": "Whitsunday Ngaro Sea Trail",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.desi.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
       "title": "Bunyaville Dam Wall and Mountain Bike Track 7",
       "alert_id": "25555",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25555",
@@ -3049,24 +3003,6 @@
           "id": "150224",
           "name": "Blackdown Tableland National Park",
           "url": "https://parks.desi.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
-      "title": "Temporary walking track closure for planned burning activities: Robsons Track, Gadgarra National Park",
-      "alert_id": "25583",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25583",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial burning operations along Gillies Highway in Gadgarra National Park from Tuesday 5 August to Thursday 7 August 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial burning operations along Gillies Highway in Gadgarra National Park from Tuesday 5 August to Thursday 7 August 2025 (dates inclusive).</p> <p>During this period Robson&rsquo;s track from the Gillies lookout to the Gillies Highway will be temporarily closed.</p> <p>Please adhere to all safety signage and instructions from rangers and do not enter this area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-08-01",
-      "start_effective_date": "2025-08-05",
-      "end_date": "2025-08-07",
-      "parks": [
-        {
-          "id": "322678",
-          "name": "Gadgarra National Park",
-          "url": ""
         }
       ]
     },
@@ -3356,6 +3292,24 @@
       ]
     },
     {
+      "title": "Planned burns: Bowling Green Bay National Park",
+      "alert_id": "25606",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25606",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Tuesday 12 August 2025 until Sunday 31 August 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Tuesday 12 August 2025 until Sunday 31 August 2025, as part of the fire management and conservation program for Bowling Green Bay National Park.</p> <p>Rangers will be conducting low intensity burns at Cape Cleveland and Jerona sections of the national park. For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Smoke may be seen in the vicinity of Bowling Green Bay National Park from the Bruce Highway, Jerona and Cape Cleveland Roads.Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visting the park.</p> <p>Please monitor park alerts on the department website for updated information.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-08",
+      "start_effective_date": "2025-08-08",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "149433",
+          "name": "Bowling Green Bay National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bowling-green-bay"
+        }
+      ]
+    },
+    {
       "title": "Planned burn Kings Conservation Park",
       "alert_id": "25607",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25607",
@@ -3447,34 +3401,6 @@
           "id": "322781",
           "name": "Mount Mackay National Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Goldsborough Valley access road, Wooroonooran National Park",
-      "alert_id": "25612",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25612",
-      "description": "Queensland Parks and Wildlife Service and Traditional Owners will be conducting a small planned burn from Wednesday 6 August until Thursday 7 August 2025 (dates inclusive). Fire will be seen along the entry road to the camping area near Arnolds Bridge.",
-      "details": "<p>Queensland Parks and Wildlife Service and Traditional Owners will be conducting a small planned burn from Wednesday 6 August until Thursday 7 August 2025 (dates inclusive). Fire will be seen along the entry road to the camping area near Arnolds Bridge.</p> <p>Smoke has the potential to impact the road and limit driver visibility. Drive slowly, obey all signs and instructions from Rangers.</p> <p>The camping and day-use area remain open for use.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-08-06",
-      "start_effective_date": "2025-08-06",
-      "end_date": "2025-08-07",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldfield"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-goldsborough-valley"
         }
       ]
     },
@@ -3598,6 +3524,42 @@
           "id": "148031",
           "name": "Idalia National Park",
           "url": "https://parks.desi.qld.gov.au/parks/idalia"
+        }
+      ]
+    },
+    {
+      "title": "BBQ temporarily out of service, Henrietta Creek camping area, Wooroonooran National Park",
+      "alert_id": "25619",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25619",
+      "description": "The Henrietta Creek camping area BBQ is temporarily out of service. Repairs have been arranged, however the repair date is unknown at this point.",
+      "details": "<p>The Henrietta Creek camping area BBQ is temporarily out of service. Repairs have been arranged, however the repair date is unknown at this point.</p> <p>This park alert will be removed when the BBQ has been repaired.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-08",
+      "start_effective_date": "2025-08-08",
+      "end_date": "2025-09-05",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: Jungaljungal walking track, Danbulla National Park and State Forest",
+      "alert_id": "25620",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25620",
+      "description": "The Jungaljungal walking track will be partially closed to the public from the 11 August to 14 August 2025 (dates inclusive). This is to allow contractors to undertake repairs to sections of the track following damage from ex-Tropical Cyclone Jasper.",
+      "details": "<p>The Jungaljungal walking track will be partially closed to the public from the 11 August to 14 August 2025 (dates inclusive). This is to allow contractors to undertake repairs to sections of the track following damage from ex-Tropical Cyclone Jasper.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-08",
+      "start_effective_date": "2025-08-11",
+      "end_date": "2025-08-14",
+      "parks": [
+        {
+          "id": "148055",
+          "name": "Danbulla National Park and State Forest",
+          "url": "https://parks.desi.qld.gov.au/parks/danbulla"
         }
       ]
     }
