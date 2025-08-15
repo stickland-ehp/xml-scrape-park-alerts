@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 176,
-    "script_run_time": "2025-08-14 10:11:03"
+    "alerts_count": 183,
+    "script_run_time": "2025-08-15 10:10:32"
   },
   "alerts": [
     {
@@ -2869,10 +2869,10 @@
       "title": "Temporary closure : Bluebush Drive Lochern National Park",
       "alert_id": "25584",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25584",
-      "description": "The Bluebush Drive on Lochern National Park remains closed due to flood damage and wet conditions after major rainfalls and flooding of the Thomson River. The track closure will remain in place up to and including Tuesday 30 September 2025 when conditions will be reviewed. Broadwater Waterhole camping area and the visitor information centre at Lochern National Park are open.",
-      "details": "<p>The Bluebush Drive on Lochern National Park remains closed due to flood damage and wet conditions after major rainfalls and flooding of the Thomson River. The track closure will remain in place up to and including Tuesday 30 September 2025 when conditions will be reviewed. Broadwater Waterhole camping area and the visitor information centre at Lochern National Park are open.</p> <p>Read more on your safety while visiting our Park here&nbsp;<a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland</a></p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "The eastern section of Bluebush Drive is temporarily closed until Tuesday 30th September 2025 inclusive due to track damage after a major flood event. The western section of Bluebush Drive is open to 4wd only, starting from the Ranger base and returning to Tonkoro Road via Waterloo Road. Broadwater Waterhole camping area and the visitor information centre at Lochern National Park are open.",
+      "details": "<p>The eastern section of Bluebush Drive is temporarily closed until Tuesday 30th September 2025 inclusive due to track damage after a major flood event. The western section of Bluebush Drive is open to 4wd only, starting from the Ranger base and returning to Tonkoro Road via Waterloo Road. Broadwater Waterhole camping area and the visitor information centre at Lochern National Park are open.</p> <p>Read more on your safety while visiting our Park here&nbsp;<a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland</a></p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-01",
+      "start_date": "2025-08-15",
       "start_effective_date": "2025-08-01",
       "end_date": "2025-09-30",
       "parks": [
@@ -2970,6 +2970,29 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Snout Point to Coolooloi",
+      "alert_id": "25599",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25599",
+      "description": "Queensland Parks and Wildlife Service (QPWS) Rangers will conduct a prescribed aerial burn between 15th and 20th August 2025 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) Rangers will conduct a prescribed aerial burn between 15th and 20th August 2025 as part of the annual hazard reduction/conservation management program for parks and forests. These burns are being undertaken to help protect life and property in the event of a wildfire.</p> <p>Smoke may be seen in the vicinity of nearby areas of the southern barge landing zone, Dilli Village, Coolooloi, Garry&rsquo;s Anchorage and Ungowa Campgrounds.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>During the prescribed burn, a section of the Great Walk from Hook Point to Dilli Village will be closed to the public, this includes Jabiru hiker&rsquo;s camp.</p> <p>Your safety is our concern, but your responsibility.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-15",
+      "end_date": "2025-08-20",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -3162,10 +3185,10 @@
       "title": "Temporary closure: Welford National Park due to wet weather",
       "alert_id": "25621",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25621",
-      "description": "The Bureau of Meteorology is predicting wet weather to affect Welford and Lochern National Parks over the next few days. As road conditions do not allow for wet weather driving these national parks will be closed until Monday 14 August 2025 inclusive when conditions will be reviewed.",
-      "details": "<p>The Bureau of Meteorology is predicting wet weather to affect Welford and Lochern National Parks over the next few days. As road conditions do not allow for wet weather driving these national parks will be closed until Monday 14 August 2025 inclusive when conditions will be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "description": "Welford National Park is closed due to wet conditions. As the access road does not allow for wet weather driving the national park will be closed until Monday 18 August 2025 (inclusive) when conditions will be reviewed.",
+      "details": "<p>Welford National Park is closed due to wet conditions. As the access road does not allow for wet weather driving the national park will be closed until Monday 18 August 2025 (inclusive) when conditions will be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-14",
+      "start_date": "2025-08-15",
       "start_effective_date": "2025-08-11",
       "end_date": "2025-08-18",
       "parks": [
@@ -3227,24 +3250,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "25625",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25625",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice.</p> <p>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected.</p> <p>Water levels can change rapidly in Josephine Creek.</p> <p>For your safety, do not enter the water.</p> <p>The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2025-08-13",
-      "start_effective_date": "2025-08-13",
-      "end_date": "2025-08-14",
-      "parks": [
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
         }
       ]
     },
@@ -3340,24 +3345,6 @@
           "id": "148035",
           "name": "Parklands Conservation Park",
           "url": "https://parks.desi.qld.gov.au/parks/parklands"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn in Beerburrum section, Glass House Mountains National Park.",
-      "alert_id": "25631",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25631",
-      "description": "Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) on 14 August 2025, as part of the fire management program for Glass House Mountains National Park - Beerburrum Section.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned burn (weather permitting) on 14 August 2025, as part of the fire management program for Glass House Mountains National Park - Beerburrum Section.</p> <p>QPWS Rangers may be working along roadsides and tracks in the vicinity of Caves Road, Soldier Settlers trail and Trachyte track. For your safety and the safety of authorities, please observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Caves Road, Soldier Settlers trail and Trachyte track.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-08-14",
-      "start_effective_date": "2025-08-14",
-      "end_date": "2025-08-14",
-      "parks": [
-        {
-          "id": "150189",
-          "name": "Glass House Mountains National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/glass-house-mountains"
         }
       ]
     },
@@ -3505,6 +3492,29 @@
       ]
     },
     {
+      "title": "Planned burn for Conondale National Park",
+      "alert_id": "25638",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25638",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 19 August 2025 -22 August 2025, as part of the fire management program for Conondale National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 19 August 2025 -22 August 2025, as part of the fire management program for Conondale National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Sunday Creek Road and the Conondale Great Walk. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Summer Falls Walkers Camp</li> <li>Conondale Great Walk from Sunday Creek Road to Summer Falls Walkers Camp.</li> <li>Conondale Great Walk from Summer Falls to Mt Allan turn off on Sunday Creek Road.</li> </ul> <p>&middot;</p> <p>Smoke may be seen in the vicinity of Sunday Creek Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-19",
+      "end_date": "2025-08-22",
+      "parks": [
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conondale"
+        },
+        {
+          "id": "152865",
+          "name": "Conondale Range Great Walk",
+          "url": "https://parks.desi.qld.gov.au/parks/great-walks-conondale-range"
+        }
+      ]
+    },
+    {
       "title": "Planned works for Mount French section - Mee-bor-rum circuit closed",
       "alert_id": "25639",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25639",
@@ -3519,6 +3529,147 @@
           "id": "149021",
           "name": "Moogerah Peaks National Park",
           "url": "https://parks.desi.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "BBQ temporarily out of service, Josephine Falls day-use area, Wooroonooran National Park",
+      "alert_id": "25640",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25640",
+      "description": "The BBQ at Josephine Falls day-use area is currently out of service. Queensland Parks and Wildlife Service are currently working to fix the problem and apologise for any inconvenience. This alert will be removed when the BBQ has been fixed.",
+      "details": "<p>The BBQ at Josephine Falls day-use area is currently out of service. Queensland Parks and Wildlife Service are currently working to fix the problem and apologise for any inconvenience. This alert will be removed when the BBQ has been fixed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-15",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "D'Aguilar National Park - Camp Mountain Access Road Closure",
+      "alert_id": "25641",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25641",
+      "description": "Camp Mountain Access Road Closure",
+      "details": "<p>Camp Mountain Access Road Closure</p> <p>The bitumen access road to the Camp Mountain Day Use Area will remain closed from 15 August 2025 to&nbsp; 01 September 2025. The Queensland Parks and Wildlife Service will be completing works to improve safety in the area.&nbsp;&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-15",
+      "end_date": "2025-08-31",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - D'Aguilar National Park, Lacey's Creek Area",
+      "alert_id": "25642",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25642",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Lacey's Creek on Monday 18th August through to Thursday 21 August weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Lacey's Creek on Monday 18th August through to Thursday 21 August weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>&nbsp;As a result, smoke may be seen in the Mt Mee, Ocean View, Mt Pleasant, Dayboro, , Laceys Creek, and Mt Glorious area.&nbsp;</p> <p>There will be a closure on Range Road south of Kluvers Lookout to the bottom of the Winder/ entrance to park from Lacey&#39;s Creek.</p> <p><br /> The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Safety is our concern but your responsibility.</p> <p>For more information, please call The Gap office of QPWS on 07 3164 3600.<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-18",
+      "end_date": "2025-08-21",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure at Mount Walsh (Waterfall Creek section) due to planned burn",
+      "alert_id": "25643",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25643",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 19 August 2025 -24 August 2025, as part of the fire management program for Waterfall Creek Section part of Mount Walsh National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 19 August 2025 -24 August 2025, as part of the fire management program for Waterfall Creek Section part of Mount Walsh National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Utopia Road and Rock Pool walking track. For your safety and the safety of firefighters, please do not enter.&nbsp;</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Waterfall Creek section part of Mount Walsh National Park.</li> <li>Rock Pool Walking track&nbsp;</li> <li>Park Boundary at gate will be closed to public, no&nbsp;access to carpark&nbsp;</li> </ul> <p>Smoke may be seen in the vicinity of Utopia Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-19",
+      "end_date": "2025-08-24",
+      "parks": [
+        {
+          "id": "148488",
+          "name": "Mount Walsh National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-walsh"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Millstream Falls National Park",
+      "alert_id": "25644",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25644",
+      "description": "As part of the annual hazard reduction and conservation management program, Queensland Parks and Wildlife Service will conduct a planned burn within Millstream Falls National Park, south of the Millstream River on 18 August 2025. The day-use area will remain open, however the view from the lookout may be impacted by smoke.",
+      "details": "<p>As part of the annual hazard reduction and conservation management program, Queensland Parks and Wildlife Service will conduct a planned burn within Millstream Falls National Park, south of the Millstream River on 18 August 2025. The day-use area will remain open, however the view from the lookout may be impacted by smoke.</p> <p>Visitors are reminded to follow directions from fire staff if required and safety signage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-18",
+      "end_date": "2025-08-20",
+      "parks": [
+        {
+          "id": "322337",
+          "name": "Ravenshoe State Forest 3",
+          "url": ""
+        },
+        {
+          "id": "149457",
+          "name": "Millstream Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/millstream-falls"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Mount Ronald Road area, Ravenshoe Forest Reserve 1",
+      "alert_id": "25645",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25645",
+      "description": "As part of the annual hazard reduction and conservation management program Queensland Parks &amp; Wildlife Service will conduct a planned burn within the Ravenshoe Forest Reserve 1 commencing along Mount Ronald Road from 18 to 22 August 2025.",
+      "details": "<p>As part of the annual hazard reduction and conservation management program Queensland Parks &amp; Wildlife Service will conduct a planned burn within the Ravenshoe Forest Reserve 1 commencing along Mount Ronald Road from 18 to 22 August 2025.</p> <p>Visitors are reminded not to enter the fire ground area and follow directions from fire staff and safety signage during the planned burn operations.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-18",
+      "end_date": "2025-08-22",
+      "parks": [
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
+        },
+        {
+          "id": "322282",
+          "name": "Ravenshoe Forest Reserve 1",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Racecourse Road and Corduroy Creek areas, Ravenshoe State Forest 3",
+      "alert_id": "25646",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25646",
+      "description": "As part of the annual hazard reduction and conservation management program, Queensland Parks and Wildlife Service will conduct a planned burn within Ravenshoe State Forest 3 along Corduroy Creek from 18 to 22 August 2025.",
+      "details": "<p>As part of the annual hazard reduction and conservation management program, Queensland Parks and Wildlife Service will conduct a planned burn within Ravenshoe State Forest 3 along Corduroy Creek from 18 to 22 August 2025.</p> <p>Visitors are reminded not to enter the fire ground area and follow directions from fire staff and safety signage during the planned burn operations.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-15",
+      "start_effective_date": "2025-08-18",
+      "end_date": "2025-08-22",
+      "parks": [
+        {
+          "id": "322337",
+          "name": "Ravenshoe State Forest 3",
+          "url": ""
         }
       ]
     }
