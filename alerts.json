@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 179,
-    "script_run_time": "2025-08-18 10:11:07"
+    "alerts_count": 184,
+    "script_run_time": "2025-08-19 10:10:17"
   },
   "alerts": [
     {
@@ -684,15 +684,15 @@
       ]
     },
     {
-      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Downfall Creek, Kauri Creek and Fong On Bay camping areas, Danbulla National Park.",
+      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Downfall Creek, Kauri Creek and Fong On Bay camping areas, Danbulla National Park",
       "alert_id": "24514",
       "url": "https://parks.desi.qld.gov.au/park-alerts/24514",
       "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.",
       "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong On Bay camping areas and space usually available for camping is currently underwater.</p> <p>Visitors are asked to be respectful of the limited space and of other campers.</p>",
       "category": "Announcement",
-      "start_date": "2025-06-24",
+      "start_date": "2025-08-19",
       "start_effective_date": "2024-09-17",
-      "end_date": "2025-08-30",
+      "end_date": "2025-11-30",
       "parks": [
         {
           "id": "148055",
@@ -788,24 +788,6 @@
           "id": "148572",
           "name": "Mount Coolum National Park",
           "url": "https://parks.desi.qld.gov.au/parks/mount-coolum"
-        }
-      ]
-    },
-    {
-      "title": "Temporary camping area and access track closure: Halifax Bay Wetlands National Park",
-      "alert_id": "24693",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/24693",
-      "description": "Due to wet and boggy conditions, the following visitor facilities within Halifax Bay Wetlands National Park are closed and are anticipated to reopen Saturday 23 August 2025, subject to weather and road conditions:",
-      "details": "<p>Due to wet and boggy conditions, the following visitor facilities within Halifax Bay Wetlands National Park are closed and are anticipated to reopen Saturday 23 August 2025, subject to weather and road conditions:</p> <ul> <li>Access track from cattle grid north to Halifax camping area 1</li> <li>Halifax Bay camping area 1</li> </ul> <p>For visitors with an existing camping booking up until and including Friday 22 August 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Halifax Bay camping area 2 remains closed until further notice.</p> <p>Please monitor park alerts for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-05",
-      "start_effective_date": "2025-03-25",
-      "end_date": "2025-08-22",
-      "parks": [
-        {
-          "id": "148512",
-          "name": "Halifax Bay Wetlands National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
         }
       ]
     },
@@ -1490,13 +1472,13 @@
       ]
     },
     {
-      "title": "Upcoming temporary closure: Captain Billy Landing camping area, Apudthama National Park (CYPAL)",
+      "title": "Temporary closure: Captain Billy Landing camping area, Apudthama National Park (CYPAL)",
       "alert_id": "25215",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25215",
       "description": "Captain Billy Landing camping area will be temporarily closed from Sunday 17 August to Thursday 21 August 2025 (dates inclusive) for a beach clean-up event.",
       "details": "<p>Captain Billy Landing camping area will be temporarily closed from Sunday 17 August to Thursday 21 August 2025 (dates inclusive) for a beach clean-up event.</p> <p>For visitors with an existing camp booking during this period, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-23",
+      "start_date": "2025-08-18",
       "start_effective_date": "2025-08-17",
       "end_date": "2025-08-21",
       "parks": [
@@ -2003,12 +1985,12 @@
       "title": "Temporary closure: Mossman Gorge elevated boardwalk lookout, Daintree National Park (CYPAL)",
       "alert_id": "25388",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25388",
-      "description": "The Mossman Gorge elevated boardwalk lookout is temporarily closed due to damage to the lookout, expected reopen Tuesday 19 August 2025.",
-      "details": "<p>The Mossman Gorge elevated boardwalk lookout is temporarily closed due to damage to the lookout, expected reopen Tuesday 19 August 2025.</p> <p>The remainder of the elevated boardwalk will remain open for visitors to access the park.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p>",
+      "description": "The Mossman Gorge elevated boardwalk lookout is temporarily closed due to damage to the lookout.",
+      "details": "<p>The Mossman Gorge elevated boardwalk lookout is temporarily closed due to damage to the lookout.</p> <p>The remainder of the elevated boardwalk will remain open for visitors to access the park.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-17",
+      "start_date": "2025-08-19",
       "start_effective_date": "2025-06-05",
-      "end_date": "2025-08-19",
+      "end_date": "2025-10-20",
       "parks": [
         {
           "id": "148131",
@@ -2702,29 +2684,6 @@
       ]
     },
     {
-      "title": "Snapper Island camping area temporary closure",
-      "alert_id": "25557",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25557",
-      "description": "Rangers will be undertaking works to relocate the camping area from 21-30 August.",
-      "details": "<p>Rangers will be undertaking works to relocate the camping area from 21-30 August.</p> <p>Due to erosion impacts, the Snapper Island camping area is being relocated further back from the beach. The new site (directly behind the existing site) will open upon completion of the works on 30 August.</p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-07-24",
-      "start_effective_date": "2025-08-21",
-      "end_date": "2025-08-30",
-      "parks": [
-        {
-          "id": "148368",
-          "name": "Snapper Island, Hope Islands National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/hope-snapper"
-        },
-        {
-          "id": "148404",
-          "name": "Hope Islands National Park (CYPAL)",
-          "url": "https://parks.desi.qld.gov.au/parks/hope-islands"
-        }
-      ]
-    },
-    {
       "title": "Update to Broadwater day-use area access: Abergowrie State Forest",
       "alert_id": "25559",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25559",
@@ -2934,9 +2893,9 @@
       "description": "Due to recent rainfall and wet conditions Currawinya National Park roads and Camping areas are closed.",
       "details": "<p>Due to recent rainfall and wet conditions Currawinya National Park roads and Camping areas are closed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-11",
+      "start_date": "2025-08-19",
       "start_effective_date": "2025-08-05",
-      "end_date": "2025-08-20",
+      "end_date": "2025-08-27",
       "parks": [
         {
           "id": "148323",
@@ -3037,24 +2996,6 @@
           "id": "148749",
           "name": "Frankland Group National Park",
           "url": "https://parks.desi.qld.gov.au/parks/frankland-group"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Welford National Park due to wet weather",
-      "alert_id": "25621",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25621",
-      "description": "Welford National Park is closed due to wet conditions. As the access road does not allow for wet weather driving the national park will be closed until Monday 18 August 2025 (inclusive) when conditions will be reviewed.",
-      "details": "<p>Welford National Park is closed due to wet conditions. As the access road does not allow for wet weather driving the national park will be closed until Monday 18 August 2025 (inclusive) when conditions will be reviewed.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-15",
-      "start_effective_date": "2025-08-11",
-      "end_date": "2025-08-18",
-      "parks": [
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/welford"
         }
       ]
     },
@@ -3172,13 +3113,13 @@
       ]
     },
     {
-      "title": "Planned burning activities and facility closures: Blencoe Falls section, Girringun National Park and Kirrama National Park",
+      "title": "Planned burning activities: Blencoe Falls section, Girringun National Park and Kirrama National Park",
       "alert_id": "25632",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25632",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within the vicinity of the Blencoe Falls section of Girringun National Park and Kirrama National Park, from Thursday 14 August to Saturday 20 September 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within the vicinity of the Blencoe Falls section of Girringun National Park and Kirrama National Park, from Thursday 14 August to Saturday 20 September 2025 (dates inclusive).</p> <p><strong>As part of these activities the following facilities will be closed to all visitors from Friday 15 August 2025 to Sunday 17 August 2025 (dates inclusive).</strong></p> <ul> <li><strong><strong>Blanket Creek walkers&rsquo; camping area</strong></strong></li> <li><strong>Juwun and Jambul walks</strong></li> </ul> <p>Blencoe Falls camping area and day-use area will remain <strong>open</strong>, however smoke may be seen at times during this period.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>For additional information please contact Princess Hills QPWS on: 07 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-08-14",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within the vicinity of the Blencoe Falls section of Girringun National Park and Kirrama National Park, from Thursday 14 August to Saturday 20 September 2025 (dates inclusive).</p> <p>Blencoe Falls camping area and day-use area will remain <strong>open</strong>, however smoke may be seen at times during this period.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>For additional information please contact Princess Hills QPWS on: 07 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-19",
       "start_effective_date": "2025-08-14",
       "end_date": "2025-09-20",
       "parks": [
@@ -3518,20 +3459,20 @@
       ]
     },
     {
-      "title": "Planned burn for Wondai State Forest",
-      "alert_id": "25650",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25650",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Monday 18 August 2025 as part of the fire management program for Wondai State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Monday 18 August 2025 as part of the fire management program for Wondai State Forest.</p> <p>Smoke may be seen in the vicinity of the Rifle Range area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "title": "Planned burning activities in the Atherton area: sections of Herberton Range State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "25651",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25651",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking planned burning activities in the Atherton are within sections of Herberton Range State Forest and Baldy Mountain Forest Reserve throughout August and September 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking planned burning activities in the Atherton are within sections of Herberton Range State Forest and Baldy Mountain Forest Reserve throughout August and September 2025.</p> <p>&nbsp;For public safety park users must remain on formed walking tracks and roads only.</p> <p>Smoke will be present at times throughout this period.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-08-18",
-      "start_effective_date": "2025-08-18",
-      "end_date": "2025-08-18",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-19",
+      "end_date": "2025-09-14",
       "parks": [
         {
-          "id": "322446",
-          "name": "Wondai State Forest",
-          "url": ""
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -3568,6 +3509,150 @@
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.desi.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Boardwalk Access to Mon Repos Beach temporarily closed.",
+      "alert_id": "25655",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25655",
+      "description": "The Mon Repos beach access boardwalk, from the council carpark at the end of Mon Repos Road, will be temporarily closed for maintenance on Wednesday 20th and Thursday 21st August 2025.",
+      "details": "<p>The Mon Repos beach access boardwalk, from the council carpark at the end of Mon Repos Road, will be temporarily closed for maintenance on Wednesday 20th and Thursday 21st August 2025.</p> <p>Non-friable asbestos support pillars are being sealed in line with the asbestos management plan for Mon Repos Conservation Park.</p> <p>Alternative access onto Mon Repos beach is via the Turtle Centre boardwalks within Mon Repos Conservation Park.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-20",
+      "end_date": "2025-08-21",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: sections of Herberton Range State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "25656",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25656",
+      "description": "All state and council lands around Herberton, between Moomin Road and E Hill Road including Moomin Water Reserve and the walk to Stuart Head will be closed for planned burn operations from Wednesday 20 August and Friday 22 August 2025 (dates inclusive).",
+      "details": "<p>All state and council lands around Herberton, between Moomin Road and E Hill Road including Moomin Water Reserve and the walk to Stuart Head will be closed for planned burn operations from Wednesday 20 August and Friday 22 August 2025 (dates inclusive).</p> <p><strong>All walking tracks and fire trails in the area will be closed for public safety.</strong></p> <p>Please follow directional signage and directions from fire personnel.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-19",
+      "end_date": "2025-08-22",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Eastern Beach - Increased dingo activity and interactions",
+      "alert_id": "25657",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25657",
+      "description": "Increased dingo activity and interactions with people in the vicinity of Eli Creek is currently being monitored by rangers on K'gari.",
+      "details": "<p>Increased dingo activity and interactions with people in the vicinity of Eli Creek is currently being monitored by rangers on K'gari.</p> <p>It is important to:</p> <ul> <li>Always stay within arm&rsquo;s reach&nbsp;of children and young teenagers.</li> <li>Always walk in groups and carry a dingo safety stick.</li> <li>Camp in fenced areas where possible.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Never feed dingoes.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email&nbsp;<a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a>, tell the nearest QPWS ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location, vehicle registration, dingo ear tag colour, number and which ear and gender if available.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please be alert for nearby wildlife.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-19",
+      "end_date": "2025-09-19",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Temporary camping area and access track closure: Halifax Bay Wetlands National Park",
+      "alert_id": "25659",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25659",
+      "description": "Due to wet and boggy conditions, the following visitor facilities within Halifax Bay Wetlands National Park are closed and are anticipated to reopen Saturday 6 September 2025, subject to weather and road conditions:",
+      "details": "<p>Due to wet and boggy conditions, the following visitor facilities within Halifax Bay Wetlands National Park are closed and are anticipated to reopen Saturday 6 September 2025, subject to weather and road conditions:</p> <ul> <li>Access track from cattle grid north to Halifax camping area 1</li> <li>Halifax Bay camping area 1</li> </ul> <p>For visitors with an existing camping booking up until and including Friday 5 September 2025, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Halifax Bay camping area 2 remains closed until further notice.</p> <p>Please monitor park alerts for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-03-25",
+      "end_date": "2025-09-05",
+      "parks": [
+        {
+          "id": "148512",
+          "name": "Halifax Bay Wetlands National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/halifax-bay"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: day-use area toilet block, Mount Hypipamee National Park",
+      "alert_id": "25660",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25660",
+      "description": "The toilet block (including both female and male toilets) at Mount Hypipamee day-use area will be temporarily closed for repairs from the 19 August to 21 August 2025. The day-use area and walking tracks remain open.",
+      "details": "<p>The toilet block (including both female and male toilets) at Mount Hypipamee day-use area will be temporarily closed for repairs from the 19 August to 21 August 2025. The day-use area and walking tracks remain open.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-19",
+      "end_date": "2025-08-21",
+      "parks": [
+        {
+          "id": "148701",
+          "name": "Mount Hypipamee National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-hypipamee"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure for planned burning activities: Hartleys Falls track, Macalister Range National Park",
+      "alert_id": "25661",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25661",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn in the Hartleys Creek area as part of the fire management program for Macalister Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn in the Hartleys Creek area as part of the fire management program for Macalister Range National Park.</p> <p><strong>During the burn the walking track to Hartley&rsquo;s Falls will be closed to public access on Wednesday 20 August and Thursday 21 August 2025.</strong></p> <p>Smoke may be seen in the vicinity of Wangetti Beach. People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-20",
+      "end_date": "2025-08-21",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Trezkinn Cave, Chillagoe  Mungana Caves National Park",
+      "alert_id": "25662",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25662",
+      "description": "The Trezkinn guided cave tour will not be operating on Friday 29 August 2025.",
+      "details": "<p>The Trezkinn guided cave tour will not be operating on Friday 29 August 2025.</p> <p>The Donna Cave and Royal Arch caves will be unaffected by the closure and tours will commence at the advertised times. &nbsp;</p> <p>The Trezkinn Cave tours will recommence on Saturday 30 August 2025.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-29",
+      "end_date": "2025-08-29",
+      "parks": [
+        {
+          "id": "148876",
+          "name": "Chillagoe-Mungana Caves National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/chillagoe-caves"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Kuranda National Park",
+      "alert_id": "25663",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25663",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn in Kuranda National Park on Thursday 21 August 2025 as part of the fire management program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn in Kuranda National Park on Thursday 21 August 2025 as part of the fire management program.</p> <p>Smoke may be seen on the hillslopes to the west of Smithfield.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-19",
+      "start_effective_date": "2025-08-21",
+      "end_date": "2025-08-22",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
         }
       ]
     }
