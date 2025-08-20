@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 184,
-    "script_run_time": "2025-08-19 10:10:17"
+    "alerts_count": 185,
+    "script_run_time": "2025-08-20 10:10:04"
   },
   "alerts": [
     {
@@ -1844,12 +1844,12 @@
       "title": "Temporary closure: Bough Shed Waterhole camping area, Bladensburg National Park",
       "alert_id": "25343",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25343",
-      "description": "Due to significant flood-related damage caused by the recent western Queensland flood event Bough Shed Waterhole camping area is closed for visitor safety.",
-      "details": "<p>Due to significant flood-related damage caused by the recent western Queensland flood event Bough Shed Waterhole camping area is closed for visitor safety.</p> <p>Damage repair works are extensive, and the camping area will be closed until remediation and the restoration works are complete.</p> <p>Campers with an existing camping booking affected by this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>We appreciate your patience and understanding with this closure.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bladensburg National Park on the departments website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to significant flood-related damage caused by the western Queensland flood event Bough Shed Waterhole camping area is closed for visitor safety.",
+      "details": "<p>Due to significant flood-related damage caused by the western Queensland flood event Bough Shed Waterhole camping area is closed for visitor safety.</p> <p>Damage repair works are extensive, and the camping area will be closed until the remediation and restoration works are complete.</p> <p>Campers with an existing camping booking affected by this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>We appreciate your patience and understanding with this closure.</p> <p>Monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> for Bladensburg National Park on the departments website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-05-27",
+      "start_date": "2025-08-20",
       "start_effective_date": "2025-05-27",
-      "end_date": "2025-09-01",
+      "end_date": "2025-11-30",
       "parks": [
         {
           "id": "148408",
@@ -2774,13 +2774,13 @@
       ]
     },
     {
-      "title": "Temporary closure : Bluebush Drive Lochern National Park",
+      "title": "Lochern NP Bluebush Drive east section temporary closure",
       "alert_id": "25584",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25584",
       "description": "The eastern section of Bluebush Drive is temporarily closed until Tuesday 30th September 2025 inclusive due to track damage after a major flood event. The western section of Bluebush Drive is open to 4wd only, starting from the Ranger base and returning to Tonkoro Road via Waterloo Road. Broadwater Waterhole camping area and the visitor information centre at Lochern National Park are open.",
       "details": "<p>The eastern section of Bluebush Drive is temporarily closed until Tuesday 30th September 2025 inclusive due to track damage after a major flood event. The western section of Bluebush Drive is open to 4wd only, starting from the Ranger base and returning to Tonkoro Road via Waterloo Road. Broadwater Waterhole camping area and the visitor information centre at Lochern National Park are open.</p> <p>Read more on your safety while visiting our Park here&nbsp;<a href=\"https://parks.des.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">Safety during extreme weather | Parks and forests | Department of Environment and Science, Queensland</a></p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-15",
+      "start_date": "2025-08-20",
       "start_effective_date": "2025-08-01",
       "end_date": "2025-09-30",
       "parks": [
@@ -3032,24 +3032,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Girraween Visitor Precinct closure during official event",
-      "alert_id": "25626",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25626",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be holding an official event at the new Girraween Visitor Precinct in Girraween National Park on 19 August 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be holding an official event at the new Girraween Visitor Precinct in Girraween National Park on 19 August 2025.</p> <p>The following areas will be closed to the public for the duration of the event:</p> <ul> <li>Girraween visitor information building; and</li> <li>main carpark.</li> </ul> <p>Alternative information and carparking will be available in Bald Rock Creek day-use area.</p> <p>&nbsp;</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-13",
-      "start_effective_date": "2025-08-18",
-      "end_date": "2025-08-19",
-      "parks": [
-        {
-          "id": "148087",
-          "name": "Girraween National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/girraween"
         }
       ]
     },
@@ -3495,6 +3477,24 @@
       ]
     },
     {
+      "title": "Fort Lytton National Park closure",
+      "alert_id": "25653",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25653",
+      "description": "Fort Lytton National Park will be closed Friday 22nd August to Wednesday 27th August, including Sunday 24th August. We apologise for any inconvenience.",
+      "details": "<p>Fort Lytton National Park will be closed Friday 22nd August to Wednesday 27th August, including Sunday 24th August. We apologise for any inconvenience.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-20",
+      "start_effective_date": "2025-08-22",
+      "end_date": "2025-08-27",
+      "parks": [
+        {
+          "id": "148592",
+          "name": "Fort Lytton National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/fort-lytton"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure : The Desert Drive on Welford National Park is closed due to wet road conditions",
       "alert_id": "25654",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25654",
@@ -3653,6 +3653,24 @@
           "id": "148814",
           "name": "Kuranda National Park and Mowbray National Park",
           "url": "https://parks.desi.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Track closures",
+      "alert_id": "25664",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25664",
+      "description": "The Scenic circuit is closed and Barkers creek circuit access from Dandabah are closed due to construction. Barkers creek lookout can still be accessed from Paradise",
+      "details": "<p>The Scenic circuit is closed and Barkers creek circuit access from Dandabah are closed due to construction. Barkers creek lookout can still be accessed from Paradise</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-20",
+      "start_effective_date": "2025-08-20",
+      "end_date": "2025-11-30",
+      "parks": [
+        {
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/bunya-mountains"
         }
       ]
     }
