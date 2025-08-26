@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2025-08-25 10:11:19"
+    "alerts_count": 181,
+    "script_run_time": "2025-08-26 10:10:01"
   },
   "alerts": [
     {
@@ -3079,24 +3079,6 @@
       ]
     },
     {
-      "title": "Planned Burn - D'Aguilar National Park, Lacey's Creek Area",
-      "alert_id": "25642",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25642",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Lacey's Creek on Monday 18th August through to Thursday 21 August weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in DAguilar National Park near Lacey's Creek on Monday 18th August through to Thursday 21 August weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>&nbsp;As a result, smoke may be seen in the Mt Mee, Ocean View, Mt Pleasant, Dayboro, , Laceys Creek, and Mt Glorious area.&nbsp;</p> <p>There will be a closure on Range Road south of the Winder through to the Northbrook Parkway.</p> <p><br /> The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Safety is our concern but your responsibility.</p> <p>For more information, please call The Gap office of QPWS on 07 3164 3600.<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-08-20",
-      "start_effective_date": "2025-08-18",
-      "end_date": "2025-08-25",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities in the Atherton area: sections of Herberton Range State Forest and Baldy Mountain Forest Reserve",
       "alert_id": "25651",
       "url": "https://parks.desi.qld.gov.au/park-alerts/25651",
@@ -3111,24 +3093,6 @@
           "id": "148818",
           "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
           "url": "https://parks.desi.qld.gov.au/parks/herberton-range"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Mount Yarrabah, Grey Peaks National Park",
-      "alert_id": "25652",
-      "url": "https://parks.desi.qld.gov.au/park-alerts/25652",
-      "description": "Queensland Parks and Wildlife (QPWS) will be continuing planned burns from Wednesday 20 August 2025, as part of the fire management program for Grey Peaks National Park. This will form part of many planned burns in the area in 2025.",
-      "details": "<p>Queensland Parks and Wildlife (QPWS) will be continuing planned burns from Wednesday 20 August 2025, as part of the fire management program for Grey Peaks National Park. This will form part of many planned burns in the area in 2025.</p> <p>QPWS rangers may be working along roadsides in the vicinity of Mount Yarrabah. For your safety and the safety of rangers, please slow down and observe all directions and signs.&nbsp;</p> <p>Visitors are advised that smoke may be seen in the vicinity of Yarrabah and Cairns, persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-08-18",
-      "start_effective_date": "2025-08-20",
-      "end_date": "2025-08-25",
-      "parks": [
-        {
-          "id": "148448",
-          "name": "Grey Peaks National Park",
-          "url": "https://parks.desi.qld.gov.au/parks/grey-peaks"
         }
       ]
     },
@@ -3399,6 +3363,257 @@
           "id": "322791",
           "name": "Cape Moreton Conservation Park",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning operations: Kahlpahlim Rock circuit, Dinden National Park",
+      "alert_id": "25677",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25677",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in Dinden National Park on the ridge trail of Kahlpahlim Rock from Wednesday 27 August to Thursday 28 August 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in Dinden National Park on the ridge trail of Kahlpahlim Rock from Wednesday 27 August to Thursday 28 August 2025 (dates inclusive).</p> <p>Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests.&nbsp;Facilities closed include:</p> <ul> <li>Kahlpahlim Rock trail</li> <li>Ridge trail</li> </ul> <p>All other facilities in Dinden National Park remain open including camping areas and walking tracks, however smoke may be seen in the vicinity of Turtle Rock circuit trail, Davies Creek Falls circuit and Upper Davies Creek camping area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-27",
+      "end_date": "2025-08-28",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Aerial incendiary operations: Oyala Thumotang National Park and KULLA National Park (CYPAL)",
+      "alert_id": "25678",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25678",
+      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting aerial incendiary operations on Oyala Thumotang and KULLA National Park (CYPAL) from Wednesday 27 August to Thursday 28 August 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting aerial incendiary operations on Oyala Thumotang and KULLA National Park (CYPAL) from Wednesday 27 August to Thursday 28 August 2025 (dates inclusive).</p> <p>Visitors are advised that smoke may be present in the area during this time.</p> <p>Please exercise caution when driving through the park, and follow all signage and directions from park authorities.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-27",
+      "end_date": "2025-08-28",
+      "parks": [
+        {
+          "id": "151355",
+          "name": "KULLA (McIlwraith Range) National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/kulla-mcilwraith-range"
+        },
+        {
+          "id": "148933",
+          "name": "Oyala Thumotang National Park (CYPAL)",
+          "url": "https://parks.desi.qld.gov.au/parks/oyala-thumotang"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burns Townsville Town Common Conservation Park from Monday 1 of September to Tuesday 30 September",
+      "alert_id": "25679",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25679",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 1 September 2025 until Tuesday 30 of September, as part of the annual fire management program for Townsville Town Common Conservation Park",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 1 September 2025 until Tuesday 30 of September, as part of the annual fire management program for Townsville Town Common Conservation Park</p> <p>Ranger will be conducting low intensity burns throught the parks.For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Smoke may be seen in the vicinity of the conservation parks plus Cape Pallarenda Road and Ingham Road. Persons with respiratoru or other health problems should seek medical advice on mitigating the effects of smoke.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-09-01",
+      "end_date": "2025-09-30",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/townsville"
+        }
+      ]
+    },
+    {
+      "title": "Heli-lifting to Mulligan Falls camping area",
+      "alert_id": "25680",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25680",
+      "description": "QPWS will be heli-lifting materials into Mulligan Falls camping area throughout the day on Wednesday 3 September.",
+      "details": "<p>QPWS will be heli-lifting materials into Mulligan Falls camping area throughout the day on Wednesday 3 September.</p> <p>Thorsborne Trail hikers arriving/staying at Mulligan Falls when heli-lifting is occurring may be given safety directives by Rangers during each helicopter drop-off and may need to wait until the helicopter is away from the site before being able to access into/out of the camping area and the toilet. It is anticipated that this should not exceed a few minutes&rsquo; wait.</p> <p>QPWS apologises for any inconvenience caused and appreciates your patience in supporting this important upgrade. &nbsp;</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-09-03",
+      "end_date": "2025-09-03",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Conondale National Park and Yabba State Forest.",
+      "alert_id": "25681",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25681",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 26 August to 3 September 2025, as part of the fire management program for Conondale National Park and Yabba State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 26 August to 3 September 2025, as part of the fire management program for Conondale National Park and Yabba State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of&nbsp; Sunday Creek Road and Bella Creek Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Summer Falls Walkers Camp.</li> <li>Conondale great walk from Sunday Creek Rd to Summer Falls.</li> <li>All walking trails within the vacinity of Summer Falls.</li> </ul> <p>&nbsp;</p> <p>Smoke may be seen in the vicinity of Sunday Creek Road, Bella Creek Rd, Charlie Moreland camping, Booloumba Creek camping areas, Booloumba view and Booloumba falls. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-27",
+      "end_date": "2025-09-03",
+      "parks": [
+        {
+          "id": "322372",
+          "name": "Yabba State Forest",
+          "url": ""
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn Hinchinbrook Island National Park",
+      "alert_id": "25682",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25682",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 4 to 19 September 2025, as part of the fire management program for Hinchinbrook Island National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 4 to 19 September 2025, as part of the fire management program for Hinchinbrook Island National Park.</p> <p>The planned burn will be carried out using aerial ignition on sections of the island west of the Thorsborne Trail. Visitor experience, including the Thorsborne Trail and camping areas will not be impacted on Hinchinbrook Island.</p> <p>The burn will take place on Thursday the 4th of September, subject to weather and operational conditions the burn may be rescheduled on a suitable day between Thursday the 4th and Friday the 19th of September.</p> <p>As a result of the planned burn, smoke may be seen in nearby areas of Lucinda, Cardwell and the Bruce Highway.</p> <p>If visiting Hinchinbrook Island NP, observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.desi.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-09-04",
+      "end_date": "2025-09-19",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Caution: Smoke alert and fire fighter crews and fire vehicles on along Mount Ronald Road, Arthur Baillie Road and Turner Road.",
+      "alert_id": "25683",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25683",
+      "description": "As part of the annual hazard reduction/conservation management program Queensland Parks &amp; Wildlife Service (QPWS) will conduct a planned burn within Ravenshoe Forest Reserve 1 and Tully Falls National Park from Wednesday 27 August to Friday 29 August 2025 (dates inclusive).",
+      "details": "<p>As part of the annual hazard reduction/conservation management program Queensland Parks &amp; Wildlife Service (QPWS) will conduct a planned burn within Ravenshoe Forest Reserve 1 and Tully Falls National Park from Wednesday 27 August to Friday 29 August 2025 (dates inclusive).</p> <p>Fire fighter crews and fire vehicles will be operating along Mount Ronald Road, Arthur Baillie Road and Turner Road.</p> <p>Users / visitors are requested not to enter the fire ground area and to follow direction from fire personnel / warning signage during the planned burn operations.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-27",
+      "end_date": "2025-08-28",
+      "parks": [
+        {
+          "id": "322282",
+          "name": "Ravenshoe Forest Reserve 1",
+          "url": ""
+        },
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
+        }
+      ]
+    },
+    {
+      "title": "Caution: Smoke alert and fire fighter crews and fire vehicles on along Red Road, Koombooloomba National Park",
+      "alert_id": "25684",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25684",
+      "description": "As part of the annual hazard reduction/conservation management program Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities within Koombooloomba National Park and Koombooloomba South Forest Reserve along Red Road from Thursday 28 August 2025.",
+      "details": "<p>As part of the annual hazard reduction/conservation management program Queensland Parks and Wildlife Service (QPWS) will conduct planned burning activities within Koombooloomba National Park and Koombooloomba South Forest Reserve along Red Road from Thursday 28 August 2025.</p> <p>Access via Tully Falls Road to Koombooloomba Dam, Koombooloomba Conservation Park camping area and day-use area and Koombooloomba National Park bush camping area all remain open but smoke may be seen in the vacinity..</p> <p>Users / visitors are requested not to enter the fire ground area and follow direction from fire personnel / warning signage during the planned burn operations</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-28",
+      "end_date": "2025-08-29",
+      "parks": [
+        {
+          "id": "322382",
+          "name": "Koombooloomba South Forest Reserve",
+          "url": ""
+        },
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.desi.qld.gov.au/parks/koombooloomba"
+        },
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/tully-falls"
+        }
+      ]
+    },
+    {
+      "title": "Zamia Walk Closure",
+      "alert_id": "25685",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25685",
+      "description": "The Zamia Walking Track will be temporarily closed until further notice as a bushfire has entered the park.",
+      "details": "<p>The Zamia Walking Track will be temporarily closed until further notice as a bushfire has entered the park.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-26",
+      "end_date": "2025-08-29",
+      "parks": [
+        {
+          "id": "148520",
+          "name": "Mount Archer National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/mount-archer"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Gillies Range, Little Mulgrave National Park and Gadgarra National Park",
+      "alert_id": "25686",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25686",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burn operations on the Gillies Highway in Little Mulgrave National Park and Gadgarra National Park from Wednesday 27 August to Friday 29 August 2025 (dates inclusive):",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burn operations on the Gillies Highway in Little Mulgrave National Park and Gadgarra National Park from Wednesday 27 August to Friday 29 August 2025 (dates inclusive):</p> <p>Visitors are advised that smoke may be present in the area during this time. Please slow down when driving and follow all signage and directions from park authorities.</p> <p>This burn is being carried out for fuel hazard reduction and conservation management purposes.</p> <p>The Gillies lookout and Robson track will not be impacted and will remain open at this time, however smoke may be seen in the vicinity.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-27",
+      "end_date": "2025-08-29",
+      "parks": [
+        {
+          "id": "322678",
+          "name": "Gadgarra National Park",
+          "url": ""
+        },
+        {
+          "id": "322677",
+          "name": "Little Mulgrave National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "D'Aguilar National Park - Planned Burn Scrubby Knob",
+      "alert_id": "25687",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25687",
+      "description": "Planned Burn in the Laceys Creek / Kobble Creek Area",
+      "details": "<p>Planned Burn in the Laceys Creek / Kobble Creek Area</p> <p>QPWS will conduct a planned burn in D&rsquo;Aguilar National Park in the Laceys Creek and Kobble Creek Areas between Wednesday August 27 to Wednesday 3 September 2025, weather permitting.</p> <p>As a result of the planned burn, smoke may be seen in the nearby Laceys Creek, Dayboro, Armstrong Creek, Kobble Creek and Samsonvale areas.</p> <p>The following breaks will be closed for the duration of the burn - Baxter Creek Break, Samsonvale Break, North Outcrop Break, Option B Break</p> <p>If visiting D&rsquo;Aguilar National Park observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>For futher information you can contact the Queensland Parks and Wildlife Service on&nbsp;07 3164 3600</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-27",
+      "end_date": "2025-09-03",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Eubenangee Swamp National Park",
+      "alert_id": "25688",
+      "url": "https://parks.desi.qld.gov.au/park-alerts/25688",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations in Eubenangee Swamp National Park from Thursday 28 August until Friday 29 August 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations in Eubenangee Swamp National Park from Thursday 28 August until Friday 29 August 2025 (weather permitting).</p> <p>The park and all facilities including Swamp walk will remain open, but visitors should be aware that there may be smoke in the vicinity.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-08-26",
+      "start_effective_date": "2025-08-28",
+      "end_date": "2025-08-29",
+      "parks": [
+        {
+          "id": "149501",
+          "name": "Eubenangee Swamp National Park",
+          "url": "https://parks.desi.qld.gov.au/parks/eubenangee-swamp"
         }
       ]
     }
