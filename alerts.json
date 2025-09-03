@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2025-09-02 10:10:29"
+    "alerts_count": 156,
+    "script_run_time": "2025-09-03 10:09:23"
   },
   "alerts": [
     {
@@ -2415,6 +2415,24 @@
       ]
     },
     {
+      "title": "D'Aguilar National Park - Camp Mountain Access Road Closure",
+      "alert_id": "25641",
+      "url": "https://parks.qld.gov.au/park-alerts/25641",
+      "description": "Camp Mountain Access Road Closure",
+      "details": "<p>Camp Mountain Access Road Closure</p> <p>The bitumen access road to the Camp Mountain Day Use Area will remain closed from 15 August 2025 to&nbsp; 19 September 2025. The Queensland Parks and Wildlife Service will be completing works to improve safety in the area.&nbsp;&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-03",
+      "start_effective_date": "2025-08-15",
+      "end_date": "2025-09-19",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
       "title": "Eastern Beach - Increased dingo activity and interactions",
       "alert_id": "25657",
       "url": "https://parks.qld.gov.au/park-alerts/25657",
@@ -2519,24 +2537,6 @@
           "id": "148247",
           "name": "Mon Repos Conservation Park",
           "url": "https://parks.qld.gov.au/parks/mon-repos"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Presho State Forest",
-      "alert_id": "25671",
-      "url": "https://parks.qld.gov.au/park-alerts/25671",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 26 August to Tuesday 2 September 2025, as part of the fire management program for Presho State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 26 August to Tuesday 2 September 2025, as part of the fire management program for Presho State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-08-22",
-      "start_effective_date": "2025-08-26",
-      "end_date": "2025-09-02",
-      "parks": [
-        {
-          "id": "322352",
-          "name": "Presho State Forest",
-          "url": ""
         }
       ]
     },
@@ -2668,34 +2668,16 @@
       "alert_id": "25687",
       "url": "https://parks.qld.gov.au/park-alerts/25687",
       "description": "Planned Burn in the Laceys Creek / Kobble Creek Area",
-      "details": "<p>Planned Burn in the Laceys Creek / Kobble Creek Area</p> <p>QPWS will conduct a planned burn in D&rsquo;Aguilar National Park in the Laceys Creek and Kobble Creek Areas between Wednesday August 27 to Wednesday 3 September 2025, weather permitting.</p> <p>As a result of the planned burn, smoke may be seen in the nearby Laceys Creek, Dayboro, Armstrong Creek, Kobble Creek and Samsonvale areas.</p> <p>The following breaks will be closed for the duration of the burn - Baxter Creek Break, Samsonvale Break, North Outcrop Break, Option B Break</p> <p>If visiting D&rsquo;Aguilar National Park observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>For futher information you can contact the Queensland Parks and Wildlife Service on&nbsp;07 3164 3600</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Planned Burn in the Laceys Creek / Kobble Creek Area</p> <p>QPWS will conduct a planned burn in D&rsquo;Aguilar National Park in the Laceys Creek and Kobble Creek Areas between Thursday Septembe 4 to Wednesday 10 September 2025, weather permitting.</p> <p>As a result of the planned burn, smoke may be seen in the nearby Laceys Creek, Dayboro, Armstrong Creek, Kobble Creek and Samsonvale areas.</p> <p>The following breaks will be closed for the duration of the burn - Baxter Creek Break, Samsonvale Break, North Outcrop Break, Option B Break</p> <p>If visiting D&rsquo;Aguilar National Park observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>These burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>They are also vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a></p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.des.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>For futher information you can contact the Queensland Parks and Wildlife Service on&nbsp;07 3164 3600</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-08-26",
-      "start_effective_date": "2025-08-27",
-      "end_date": "2025-09-03",
+      "start_date": "2025-09-03",
+      "start_effective_date": "2025-09-04",
+      "end_date": "2025-09-10",
       "parks": [
         {
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Temporary walking track closures for planned burning activities: Mount Baldy and Yabi walking trails, Herberton State Forest and Baldy Mountain Forest Reserve",
-      "alert_id": "25691",
-      "url": "https://parks.qld.gov.au/park-alerts/25691",
-      "description": "Queensland Parks and Wildlife Service will be undertaking planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve from Thursday 28 August to Tuesday 2 September 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve from Thursday 28 August to Tuesday 2 September 2025.</p> <p>Aerial burns will be undertaken at the beginning of the period followed by ground burning activities alongside Tablelands Regional Council at the trailheads and along the trails in this area.</p> <p>For public safety, Mount Baldy and Yabi walking trails will be temporarily closed during this period.</p> <p>Visitors are required to adhere to all signage and closures and are advised that smoke will be present at times throughout this period.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-01",
-      "start_effective_date": "2025-08-28",
-      "end_date": "2025-09-02",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -3063,6 +3045,60 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Jimna State Forest.",
+      "alert_id": "25718",
+      "url": "https://parks.qld.gov.au/park-alerts/25718",
+      "description": "HQP (Forestry) will be conducting a planned burn (weather permitting) from Thursday 4 September to Friday 5 September, as part of the fire management program for Jimna State Forest.",
+      "details": "<p>HQP (Forestry) will be conducting a planned burn (weather permitting) from Thursday 4 September to Friday 5 September, as part of the fire management program for Jimna State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Peach Trees Access Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Eugenia Walking Trail.</li> </ul> <p>&middot;Smoke may be seen in the vicinity of Peach Trees Access Road and Peach Trees Camping Area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-03",
+      "start_effective_date": "2025-09-04",
+      "end_date": "2025-09-08",
+      "parks": [
+        {
+          "id": "148015",
+          "name": "Jimna State Forest",
+          "url": "https://parks.qld.gov.au/parks/jimna"
+        }
+      ]
+    },
+    {
+      "title": "Shorebird Seasonal Closure at Cooloola",
+      "alert_id": "25719",
+      "url": "https://parks.qld.gov.au/park-alerts/25719",
+      "description": "Seasonal Shorebird closure area at Cooloola",
+      "details": "<p>Seasonal Shorebird closure area at Cooloola</p> <p>No public access to this area during this period and no domestic animals.</p> <p>The SSC04 Cooloola closure area can be found on the Marine Parks app.&nbsp; <a href=\"https://parks.qld.gov.au/parks/great-sandy-marine/management-and-zoning/app-and-maps\">Using the marine parks app and maps | Parks and forests | Department of the Environment, Tourism, Science and Innovation</a></p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-09-03",
+      "start_effective_date": "2025-09-01",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "149461",
+          "name": "Great Sandy Marine Park",
+          "url": "https://parks.qld.gov.au/parks/great-sandy-marine"
+        }
+      ]
+    },
+    {
+      "title": "Flood damage to Byra Road access to Culgoa Floodplain National Park.",
+      "alert_id": "25720",
+      "url": "https://parks.qld.gov.au/park-alerts/25720",
+      "description": "As a result of severe weather damage access to Culgoa Plains National Park via Byra Road closed.",
+      "details": "<p>As a result of severe weather damage access to Culgoa Plains National Park via Byra Road closed.</p> <p>Balonne Shire Council has closed Byra Road for repair works following flooding. Consequently there is no access to Culgoa Floodplains National Park and the park will remain closed until it is declared safe.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-03",
+      "start_effective_date": "2025-09-03",
+      "end_date": "2025-09-21",
+      "parks": [
+        {
+          "id": "149497",
+          "name": "Culgoa Floodplain National Park",
+          "url": "https://parks.qld.gov.au/parks/culgoa-floodplain"
         }
       ]
     }
