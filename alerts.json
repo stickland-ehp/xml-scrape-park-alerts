@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 143,
-    "script_run_time": "2025-09-07 10:07:49"
+    "alerts_count": 148,
+    "script_run_time": "2025-09-08 10:09:58"
   },
   "alerts": [
     {
@@ -1170,9 +1170,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) are continuing to undertake repairs to Main Beach camping area following Ex-Tropical Cyclone Alfred.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) are continuing to undertake repairs to Main Beach camping area following Ex-Tropical Cyclone Alfred.</p> <p><strong>The Main Beach camping area will be partially re-opened from Saturday 12 April 2025.&nbsp; There will be reduced capacity which may have an impact on existing bookings.</strong></p> <p>Main Beach camping area capacity will be reduced for a period of time to allow for the sand to recover, before safe access can be reinstated to the affected sites.</p> <p>Observe all signage, barriers and directions from Rangers and do not enter closed areas.</p> <p>For enquiries and camping bookings at Main Beach, please visit Minjerribah Camping on <a href=\"https://urldefense.com/v3/__http:/www.minjerribahcamping.com.au__;!!PUY2jUP3Fp7oEg!GizJVMCT9kvod2xOBHdl0XGXPT6SivysQErXT56WrZsrhMgoL0hl1r29LwFIelTs406zJv3dRWaWKwxiu6OW7igPTr7tOH-K8dJ3d0Qz4O8m581sshc$\">www.minjerribahcamping.com.au</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-08-08",
+      "start_date": "2025-09-08",
       "start_effective_date": "2025-04-04",
-      "end_date": "2025-09-09",
+      "end_date": "2025-12-09",
       "parks": [
         {
           "id": "148315",
@@ -1485,10 +1485,10 @@
       "title": "Changed Road Conditions and Closures",
       "alert_id": "25310",
       "url": "https://parks.qld.gov.au/park-alerts/25310",
-      "description": "Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road and Beefwood Hut road has changed, and detour signs are in place.",
-      "details": "<p>Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road and Beefwood Hut road has changed, and detour signs are in place.</p> <p>Beefwood Hut road access 500m South on Hungerford Road.</p> <p>Boorara road access 5km North at Ranger Base.</p> <p>&nbsp;</p>",
+      "description": "Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road has changed, and detour signs are in place.",
+      "details": "<p>Due to water over the road from the Western Queensland flooding the Lakes road is closed. There is no access to Lake Numalla and Lake Wyara. Access to Boorara road has changed, and detour signs are in place.</p> <p>Boorara road access 5km North at Ranger Base.</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-28",
+      "start_date": "2025-09-08",
       "start_effective_date": "2025-05-19",
       "end_date": "2025-10-31",
       "parks": [
@@ -2156,15 +2156,15 @@
       ]
     },
     {
-      "title": "Sarawak West Toilet block relocation, 11 August - 12 September 2025",
+      "title": "Sarawak West toilet block relocation",
       "alert_id": "25562",
       "url": "https://parks.qld.gov.au/park-alerts/25562",
-      "description": "Construction noise and activity may affect camping experience.",
-      "details": "<p>Construction noise and activity may affect camping experience.</p> <p>Due to steady shorline retrogression, the Sarawak West #2 toilet block will be relocated to an area within the same campground from Monday 11 August until Friday 12 September 2025. Camping areas within close proximity to the relocation site will be closed off during the works and camp bookings will be effected during this time.</p> <p>Construction noise and heavy machinery operation will be present during the relocation.&nbsp;</p> <p>Alternative camping areas at Inskip point are suggested for the duration of the works.&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Due to steady shoreline retrogression, the Sarawak West #2 toilet block will be relocated to an area within the same campground from Monday 11 August until Friday 19 September 2025.",
+      "details": "<p>Due to steady shoreline retrogression, the Sarawak West #2 toilet block will be relocated to an area within the same campground from Monday 11 August until Friday 19 September 2025.</p> <p>Camping areas within close proximity to the relocation site will be closed off during the works and camp bookings will be affected during this time.</p> <p>Construction noise and heavy machinery operation will be present during the relocation.&nbsp;</p> <p>Alternative camping areas at Inskip point are suggested for the duration of the works.&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-27",
+      "start_date": "2025-09-08",
       "start_effective_date": "2025-08-11",
-      "end_date": "2025-09-12",
+      "end_date": "2025-09-19",
       "parks": [
         {
           "id": "149409",
@@ -2447,24 +2447,6 @@
           "id": "148247",
           "name": "Mon Repos Conservation Park",
           "url": "https://parks.qld.gov.au/parks/mon-repos"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn : Dryander National Park",
-      "alert_id": "25673",
-      "url": "https://parks.qld.gov.au/park-alerts/25673",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Double Bay and Georges Point section of Dryander National Park between Tuesday 26 August and Friday 7 September 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Double Bay and Georges Point section of Dryander National Park between Tuesday 26 August and Friday 7 September 2025, weather permitting. As a result of the planned burn, smoke may be seen in nearby areas</p> <p>If visiting Dryander National Park observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.<br /> If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire Management webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website:&nbsp;<a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">Air quality | Environment, land and water | Queensland Government</a></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-08-25",
-      "start_effective_date": "2025-08-26",
-      "end_date": "2025-09-07",
-      "parks": [
-        {
-          "id": "148187",
-          "name": "Dryander National Park",
-          "url": "https://parks.qld.gov.au/parks/dryander"
         }
       ]
     },
@@ -2850,6 +2832,114 @@
           "id": "148512",
           "name": "Halifax Bay Wetlands National Park",
           "url": "https://parks.qld.gov.au/parks/halifax-bay"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for maintenance: Little Millstream Falls walking track, Millstream Falls National Park",
+      "alert_id": "25727",
+      "url": "https://parks.qld.gov.au/park-alerts/25727",
+      "description": "Little Millstream Falls walking track will be closed for repair works from 7:00am Wednesday 10 September 2025 to 12:00pm Wednesday 17 September 2025.",
+      "details": "<p>Little Millstream Falls walking track will be closed for repair works from 7:00am Wednesday 10 September 2025 to 12:00pm Wednesday 17 September 2025.</p> <ul> <li>Please follow signs and barricades and do not enter the work area as machinery will be operating.&nbsp;</li> <li>The car park will remain open for walkers wanting access the Bally Knob trail.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-08",
+      "start_effective_date": "2025-09-10",
+      "end_date": "2025-09-17",
+      "parks": [
+        {
+          "id": "149457",
+          "name": "Millstream Falls National Park",
+          "url": "https://parks.qld.gov.au/parks/millstream-falls"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Passchendaele State Forest",
+      "alert_id": "25728",
+      "url": "https://parks.qld.gov.au/park-alerts/25728",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 8 September 2025 to 12 September 2025, as part of the fire management program for Passchendaele State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 8 September 2025 to 12 September 2025, as part of the fire management program for Passchendaele State Forest.</p> <p>Smoke may be seen in the vicinity. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-09-08",
+      "start_effective_date": "2025-09-08",
+      "end_date": "2025-09-12",
+      "parks": [
+        {
+          "id": "322473",
+          "name": "Passchendaele State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Nerang National Park",
+      "alert_id": "25729",
+      "url": "https://parks.qld.gov.au/park-alerts/25729",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 9 September 2025, as part of the fire management program for Nerang National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 9 September 2025, as part of the fire management program for Nerang National Park.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Centre Road between emergency markers NG5 and NG14</li> <li>Crane Break between NG14 and Crane Crescent</li> <li>Nerang Break between NG5 and NG6</li> <li>Nathan Break from NG6, through NG7 and around to NG13</li> <li>The area bound by these breaks.</li> </ul> <p>Please see the <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0016/156040/nerang-park-map.pdf\">Nerang National Park map</a> for information on emergency marker locations.</p> <p>Smoke may be seen in the vicinity of Nerang and Mount Nathan. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-08",
+      "start_effective_date": "2025-09-08",
+      "end_date": "2025-09-12",
+      "parks": [
+        {
+          "id": "147971",
+          "name": "Nerang National Park",
+          "url": "https://parks.qld.gov.au/parks/nerang"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: Davies Creek Mountain Bike Park within Dinden State Forest and Dinden West Forest Reserve",
+      "alert_id": "25730",
+      "url": "https://parks.qld.gov.au/park-alerts/25730",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in Dinden State Forest and Dinden West Forest Reserve in the Davies Creek Mountain Bike Park from Monday 8 September to Friday 12 September 2025 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in Dinden State Forest and Dinden West Forest Reserve in the Davies Creek Mountain Bike Park from Monday 8 September to Friday 12 September 2025 (dates inclusive).</p> <p>Camping areas remain open but smoke may be seen from Lower Davies Creek camping area.&nbsp;</p> <p>Planned burning is part of the annual hazard reduction/ conservation management strategic program for parks and forests.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-08",
+      "start_effective_date": "2025-09-08",
+      "end_date": "2025-09-12",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn for Daisy Hill Conservation Park",
+      "alert_id": "25731",
+      "url": "https://parks.qld.gov.au/park-alerts/25731",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Tuesday 9 September 2025, as part of the fire management program for Daisy Hill Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Tuesday 9 September 2025, as part of the fire management program for Daisy Hill Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Dasiy Hill Ring Road, Centre Road,&nbsp; Buhot Creek Break, and Old Hut Break. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access untill 16 September 2025.</p> <p>Apiary Break, Hub Trail,&nbsp; Wattle Trail, Old Hut Break, Rifle Range Break, Centre Road, Tree Discovery Trail and Creek Break. A section of the Ring Ring will be closed to all pedestrians and cyclist. The following Mountain Bike Trails will also be closed; Jims Trail, Chipline, Bronze Wing, Possum Box, and Jumping Ant.</p> <p>Smoke may be seen in the vicinity of Daisy Hill Ring Road,&nbsp; Dasiy Hill Day Use Area, Carparks and other visitor facilities. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-08",
+      "start_effective_date": "2025-09-09",
+      "end_date": "2025-09-16",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Walking Track Closures for Planned Burning Activities: Mount Baldy and Yabi Walking Trails, Herberton State Forest Reserve",
+      "alert_id": "25732",
+      "url": "https://parks.qld.gov.au/park-alerts/25732",
+      "description": "Queensland Parks and Wildlife Service will be undertaking planned burning activities along Mount Baldy and Yabi Walking Trails from Wednesday 10th September 2025 to Thursday 11th September 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service will be undertaking planned burning activities along Mount Baldy and Yabi Walking Trails from Wednesday 10th September 2025 to Thursday 11th September 2025.</p> <p>For public safety, Mount Baldy and Yabi Walking Trails will be temporarily closed during this period.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Visitors are advised that smoke will be present in the area at times throughout this period.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-08",
+      "start_effective_date": "2025-09-10",
+      "end_date": "2025-09-11",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     }
