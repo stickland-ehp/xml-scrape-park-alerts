@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 161,
-    "script_run_time": "2025-09-11 10:09:26"
+    "alerts_count": 164,
+    "script_run_time": "2025-09-12 10:09:28"
   },
   "alerts": [
     {
@@ -2308,9 +2308,9 @@
       "description": "The BBQ at Josephine Falls day-use area is currently out of service. Queensland Parks and Wildlife Service are currently working to fix the problem and apologise for any inconvenience. This alert will be removed when the BBQ has been fixed.",
       "details": "<p>The BBQ at Josephine Falls day-use area is currently out of service. Queensland Parks and Wildlife Service are currently working to fix the problem and apologise for any inconvenience. This alert will be removed when the BBQ has been fixed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-09-02",
+      "start_date": "2025-09-12",
       "start_effective_date": "2025-08-15",
-      "end_date": "2025-09-14",
+      "end_date": "2025-10-14",
       "parks": [
         {
           "id": "148468",
@@ -2403,9 +2403,9 @@
       "description": "Due to damage caused by recent rainfall, a section of the Southern Lakes Road between Lake Birrabeen and Lake Boomanjin is temporarily closed until further notice.",
       "details": "<p>Due to damage caused by recent rainfall, a section of the Southern Lakes Road between Lake Birrabeen and Lake Boomanjin is temporarily closed until further notice.</p> <p>Stay alert for hazards and drive to suit the conditions.</p> <p>This closed section will reopen after remedial works and safety audits are completed.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter areas that remain closed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-22",
+      "start_date": "2025-09-12",
       "start_effective_date": "2025-08-22",
-      "end_date": "2025-09-12",
+      "end_date": "2025-10-13",
       "parks": [
         {
           "id": "148007",
@@ -2860,9 +2860,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 9 September 2025, as part of the fire management program for Nerang National Park.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 9 September 2025, as part of the fire management program for Nerang National Park.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Centre Road between emergency markers NG5 and NG14</li> <li>Crane Break between NG14 and Crane Crescent</li> <li>Nerang Break between NG5 and NG6</li> <li>Nathan Break from NG6, through NG7 and around to NG13</li> <li>The area bound by these breaks.</li> </ul> <p>Please see the <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0016/156040/nerang-park-map.pdf\">Nerang National Park map</a> for information on emergency marker locations.</p> <p>Smoke may be seen in the vicinity of Nerang and Mount Nathan. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-09-08",
+      "start_date": "2025-09-12",
       "start_effective_date": "2025-09-08",
-      "end_date": "2025-09-12",
+      "end_date": "2025-09-15",
       "parks": [
         {
           "id": "147971",
@@ -2886,42 +2886,6 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn for Daisy Hill Conservation Park",
-      "alert_id": "25731",
-      "url": "https://parks.qld.gov.au/park-alerts/25731",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Tuesday 9 September 2025, as part of the fire management program for Daisy Hill Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Tuesday 9 September 2025, as part of the fire management program for Daisy Hill Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Dasiy Hill Ring Road, Centre Road,&nbsp; Buhot Creek Break, and Old Hut Break. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access untill 16 September 2025.</p> <p>Apiary Break, Hub Trail,&nbsp; Wattle Trail, Old Hut Break, Rifle Range Break, Centre Road, Tree Discovery Trail and Creek Break. A section of the Ring Ring will be closed to all pedestrians and cyclist. The following Mountain Bike Trails will also be closed; Jims Trail, Chipline, Bronze Wing, Possum Box, and Jumping Ant.</p> <p>Smoke may be seen in the vicinity of Daisy Hill Ring Road,&nbsp; Dasiy Hill Day Use Area, Carparks and other visitor facilities. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-08",
-      "start_effective_date": "2025-09-09",
-      "end_date": "2025-09-16",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Walking Track Closures for Planned Burning Activities: Mount Baldy and Yabi Walking Trails, Herberton State Forest Reserve",
-      "alert_id": "25732",
-      "url": "https://parks.qld.gov.au/park-alerts/25732",
-      "description": "Queensland Parks and Wildlife Service will be undertaking planned burning activities along Mount Baldy and Yabi Walking Trails from Wednesday 10th September 2025 to Thursday 11th September 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking planned burning activities along Mount Baldy and Yabi Walking Trails from Wednesday 10th September 2025 to Thursday 11th September 2025.</p> <p>For public safety, Mount Baldy and Yabi Walking Trails will be temporarily closed during this period.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Visitors are advised that smoke will be present in the area at times throughout this period.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-08",
-      "start_effective_date": "2025-09-10",
-      "end_date": "2025-09-11",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -3050,9 +3014,9 @@
       "description": "Due to current bushfire, several walking tracks and visitor lookout areas are temporarily closed in Undara National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. These areas may remain closed for a period after the bushfire to ensure the areas is safe.",
       "details": "<p>Due to current bushfire, several walking tracks and visitor lookout areas are temporarily closed in Undara National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. These areas may remain closed for a period after the bushfire to ensure the areas is safe.</p> <p><strong>Closed areas:</strong></p> <ul> <li>&nbsp;<strong>Atkinsons and Rosella Plains lookout trials&nbsp;</strong></li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire Managment webpage.&nbsp;</p> <p><strong>To report any bushfires, call Triple Zero (000)</strong></p> <p>Facilities will reopen when conditions are considered sfae.</p> <p>Please obey all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on teh departments webpage for updated information.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-09-10",
+      "start_date": "2025-09-12",
       "start_effective_date": "2025-09-10",
-      "end_date": "2025-09-13",
+      "end_date": "2025-09-16",
       "parks": [
         {
           "id": "148965",
@@ -3210,20 +3174,110 @@
       ]
     },
     {
-      "title": "Bushfire alert for Undara Volcanic National Park",
-      "alert_id": "25748",
-      "url": "https://parks.qld.gov.au/park-alerts/25748",
-      "description": "Due to current bushfire on Undara Volcanic National Park, some areas may be temporarily impacted.",
-      "details": "<p>Due to current bushfire on Undara Volcanic National Park, some areas may be temporarily impacted.</p> <p>Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may be impacted for a period after the bushfire to ensure the area is safe.</p> <p>Impacts may include heavy smoke and temporary local road closures.</p> <p>Public safety is the highset consideration and visitors are advised to please observe all signage and directions from Rangers and fire crews.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "title": "Upcoming temporary closure for roadworks: Blackdown Tableland National Park",
+      "alert_id": "25749",
+      "url": "https://parks.qld.gov.au/park-alerts/25749",
+      "description": "Visitors are advised that due to roadworks, Blackdown Tableland National Park will be closed from Tuesday 7 October to Wednesday 8 October 2025. The national park will reopen on Thursday 9 October 2025.",
+      "details": "<p>Visitors are advised that due to roadworks, Blackdown Tableland National Park will be closed from Tuesday 7 October to Wednesday 8 October 2025. The national park will reopen on Thursday 9 October 2025.</p> <p>The temporary closure is for visitor safety and due to heavy machinery operating on narrow, winding sections of road.&nbsp;</p> <p>Due to the roadworks and closure of the national park, access to all visitor facilities including Munall camping area and all walking tracks and lookouts will not be possible during the temporary closure.</p> <p>We apologise for any inconvenience this temporary 2-day closure may cause and look forward to welcoming visitors back to the national park when the roadworks are complete.</p>",
       "category": "Announcement",
-      "start_date": "2025-09-11",
-      "start_effective_date": "2025-09-11",
-      "end_date": "2025-09-15",
+      "start_date": "2025-09-12",
+      "start_effective_date": "2025-09-12",
+      "end_date": "2025-10-09",
       "parks": [
         {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.qld.gov.au/parks/undara-volcanic"
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Hunters Gorge campground temporary closure",
+      "alert_id": "25750",
+      "url": "https://parks.qld.gov.au/park-alerts/25750",
+      "description": "Hunters Gorge campground temporary closure due to unsafe conditions. Rangers are closely monitoring the situation and the campground will be re-opened once safe to do so. Please do not enter the area.",
+      "details": "<p>Hunters Gorge campground temporary closure due to unsafe conditions. Rangers are closely monitoring the situation and the campground will be re-opened once safe to do so. Please do not enter the area.</p> <p>Campers with an existing camping booking affected by this closure, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-12",
+      "start_effective_date": "2025-09-09",
+      "end_date": "2025-09-25",
+      "parks": [
+        {
+          "id": "148360",
+          "name": "Diamantina National Park",
+          "url": "https://parks.qld.gov.au/parks/diamantina"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Daisy Hill Jims Trail",
+      "alert_id": "25751",
+      "url": "https://parks.qld.gov.au/park-alerts/25751",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Daisy Hill Conservation Park on Jims Trail from 12 September 2025 to 19 September 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance at Daisy Hill Conservation Park on Jims Trail from 12 September 2025 to 19 September 2025.</p> <p>The following area Jims Trail is closed for the duration of the maintenance program.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-12",
+      "start_effective_date": "2025-09-12",
+      "end_date": "2025-09-19",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban for Canyon Resources Reserve",
+      "alert_id": "25752",
+      "url": "https://parks.qld.gov.au/park-alerts/25752",
+      "description": "The Queensland Fire Department (QFD) has declared a Local Fire Ban for the entire Etheridge Shire Region which includes Canyon Resources Reserve within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
+      "details": "<p>The Queensland Fire Department (QFD) has declared a Local Fire Ban for the entire Etheridge Shire Region which includes Canyon Resources Reserve within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, fires <strong>must not be</strong> lit anywhere in the areas listed above.&nbsp;</p> <p>The following are<strong> not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.&nbsp;</li> <li>Appliances using wood, timber or solid manufcatured fuels (e.e. Oz-pigs, kettle barbeques and&nbsp;similar appliances); and</li> <li>use of QPWS supplied fire-rings</li> </ul> <p>Gas and electric barbeques including gas and spirit stoves, <strong>are permitted </strong>to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels,&nbsp;</li> <li>are not left unattended;and</li> <li>are suitable contained.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-09-12",
+      "start_effective_date": "2025-09-12",
+      "end_date": "2025-11-24",
+      "parks": [
+        {
+          "id": "149509",
+          "name": "Canyon Resources Reserve",
+          "url": "https://parks.qld.gov.au/parks/canyon-resources"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Daisy Hill Conservation Park",
+      "alert_id": "25753",
+      "url": "https://parks.qld.gov.au/park-alerts/25753",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Monday 15 September 2025, as part of the fire management program for Daisy Hill Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Monday 15 September 2025, as part of the fire management program for Daisy Hill Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Quarry Road.&nbsp; For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <p>Dennis fire break, Whoa Boy fire break, Charcoal fire break, Kimberly Link fire break, Chatswood fire break, section of Barking Dog Break fire break and&nbsp; Quarry Road. Flying Cloud and Jim Finch Mountain Bike Trail.</p> <p>Smoke may be seen in the vicinity of Dasiy Hill Conservation Park Day Use Areas, Ring Road, Carparks and Koala Centre. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-12",
+      "start_effective_date": "2025-09-15",
+      "end_date": "2025-09-19",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Apudthama National Park (CYPAL)",
+      "alert_id": "25754",
+      "url": "https://parks.qld.gov.au/park-alerts/25754",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) in Apudthama National Park (CYPAL) on 17 September 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) in Apudthama National Park (CYPAL) on 17 September 2025.</p> <p>Visitor facilities at Fruit Bat Falls and Eliot Falls will remain open, but smoke may be seen at times during this period. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities.</p> <p>For further information contact the Atambaya (Heathlands) Ranger Base on (07) 40 603 241.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-09-12",
+      "start_effective_date": "2025-09-17",
+      "end_date": "2025-09-29",
+      "parks": [
+        {
+          "id": "148892",
+          "name": "Apudthama National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/apudthama"
         }
       ]
     }
