@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2025-09-13 10:07:45"
+    "alerts_count": 157,
+    "script_run_time": "2025-09-14 10:07:35"
   },
   "alerts": [
     {
@@ -2492,24 +2492,6 @@
       ]
     },
     {
-      "title": "Pest management control, 8  12 September, 2025 - Sandy Point closure",
-      "alert_id": "25693",
-      "url": "https://parks.qld.gov.au/park-alerts/25693",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Byfield National Park  Sandy Point section including the adjacent intertidal zone within the Great Barrier Reef Coast Marine Park will be closed from 1am Monday 8th September 2025 to 4pm Friday 12th September 2025 (weather permitting) as part of the conservation management program for the park. Firearms may be used during this time.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Byfield National Park  Sandy Point section including the adjacent intertidal zone within the Great Barrier Reef Coast Marine Park will be closed from 1am Monday 8th September 2025 to 4pm Friday 12th September 2025 (weather permitting) as part of the conservation management program for the park. Firearms may be used during this time.</p> <p>Visitor access to Sandy Point will be reopened by 4pm Friday 12th September, 2025.&nbsp;</p> <p>All control activities will be in accordance with the approved pest management plan and will help to protect native wildlife from the harmful effects of introduced animals.&nbsp;&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>All other areas of Byfield National Park and will remain open, including Nine-mile beach.&nbsp;</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-28",
-      "start_effective_date": "2025-09-06",
-      "end_date": "2025-09-13",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Turtle St, Camp Nodes, Closure site 7 and 8",
       "alert_id": "25694",
       "url": "https://parks.qld.gov.au/park-alerts/25694",
@@ -2854,24 +2836,6 @@
       ]
     },
     {
-      "title": "Temporary closure for event: Bump Track, Mowbray National Park",
-      "alert_id": "25736",
-      "url": "https://parks.qld.gov.au/park-alerts/25736",
-      "description": "The Bump Track at Mowbray National Park will be closed to all visitors from 8am to 2pm Saturday 13 September 2025 due to the exclusive use for the Gran Fondo Event.",
-      "details": "<p>The Bump Track at Mowbray National Park will be closed to all visitors from 8am to 2pm Saturday 13 September 2025 due to the exclusive use for the Gran Fondo Event.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-09",
-      "start_effective_date": "2025-09-13",
-      "end_date": "2025-09-13",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
       "title": "Park closed due to wet conditions",
       "alert_id": "25737",
       "url": "https://parks.qld.gov.au/park-alerts/25737",
@@ -2909,29 +2873,6 @@
           "id": "156492",
           "name": "Gold Coast Hinterland Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Mount Massie, Goldsborough Valley Section, Wooroonooran National Park",
-      "alert_id": "25739",
-      "url": "https://parks.qld.gov.au/park-alerts/25739",
-      "description": "Queensland Parks and Wildlife Service will be conducting hazard reduction burn operations on the Western foothills of Mount Massie within the Goldsborough Valley Section of Wooroonooran National Park from Thursday 11 September to Saturday 13 September 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting hazard reduction burn operations on the Western foothills of Mount Massie within the Goldsborough Valley Section of Wooroonooran National Park from Thursday 11 September to Saturday 13 September 2025 (dates inclusive).</p> <p>Please be aware that smoke has the potential to impact the sections of Gillies Range Road and limit driver visibility. Drive slowly, obey all signs and instructions from Rangers.</p> <p>Visitor facilities in Goldsborough Valley Section of Wooroonooran National Park will not be impacted and will remain open, however smoke may be seen in the vicinity.Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-09-10",
-      "start_effective_date": "2025-09-11",
-      "end_date": "2025-09-13",
-      "parks": [
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
         }
       ]
     },
