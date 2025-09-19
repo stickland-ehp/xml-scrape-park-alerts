@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2025-09-18 10:09:42"
+    "alerts_count": 159,
+    "script_run_time": "2025-09-19 10:10:14"
   },
   "alerts": [
     {
@@ -2123,12 +2123,12 @@
       "title": "Update to Broadwater day-use area access: Abergowrie State Forest",
       "alert_id": "25559",
       "url": "https://parks.qld.gov.au/park-alerts/25559",
-      "description": "Broadwater day-use area will re-open to walk-in visitors only from Monday 28 July 2025. Visitors will only be able to access Broadwater day-use area via a 500m walk, crossing Broadwater Creek via the Queensland Parks and Wildlife Service (QPWS) car park at the end of Copleys Road.",
-      "details": "<p>Broadwater day-use area will re-open to walk-in visitors only from Monday 28 July 2025. Visitors will only be able to access Broadwater day-use area via a 500m walk, crossing Broadwater Creek via the Queensland Parks and Wildlife Service (QPWS) car park at the end of Copleys Road.</p> <p>From Monday 28 July 2025 the below visitor facilities will be<strong> open to walk-in access only </strong>and will be maintained by QPWS Rangers on a periodic basis due to ongoing access constraints:</p> <ul> <li>Broadwater Creek and swimming areas</li> <li>Rainforest walk</li> <li>Creek walk</li> <li>Day-use area facilities including toilets</li> </ul> <p>The below facilities <strong>remain closed:</strong></p> <ul> <li>Camping area</li> <li>Vehicle access</li> <li>Canoe Creek bridge</li> </ul> <p>Visitors can access the Copleys Road car park by following QPWS signage from the Abergowrie and Copleys Road intersection.</p> <p>QPWS is striving to re-open Broadwater to full capacity following significant flooding as soon as possible, however, day-use area walk-in use is likely to continue to until at least Friday 26 September 2025.</p>",
+      "description": "Broadwater day-use area is open to walk-in visitors only. Visitors will only be able to access Broadwater day-use area via a 500m walk, crossing Broadwater Creek via the Queensland Parks and Wildlife Service (QPWS) car park at the end of Copleys Road.",
+      "details": "<p>Broadwater day-use area is open to walk-in visitors only. Visitors will only be able to access Broadwater day-use area via a 500m walk, crossing Broadwater Creek via the Queensland Parks and Wildlife Service (QPWS) car park at the end of Copleys Road.</p> <p><strong>The below visitor facilities are open to walk-in access only&nbsp;and will be maintained by QPWS Rangers on a periodic basis due to ongoing access constraints:</strong></p> <ul> <li>Broadwater Creek and swimming areas</li> <li>Rainforest walk</li> <li>Creek walk</li> <li>Day-use area facilities including toilets</li> </ul> <p><strong>The below facilities&nbsp;remain closed:</strong></p> <ul> <li>Camping area</li> <li>Vehicle access</li> <li>Canoe Creek bridge</li> </ul> <p>Visitors can access the Copleys Road car park by following QPWS signage from the Abergowrie and Copleys Road intersection.</p> <p>QPWS is striving to re-open Broadwater to full capacity following significant flooding as soon as possible, however, day-use area walk-in use only is likely to continue to until at least <strong>10 April 2026 (date inclusive)</strong><strong>.</strong></p> <p><strong>For visitors with an existing camping booking up to and including Friday 10 April 2026, please <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking?_gl=1*1s0hum7*_ga*NjUwMzgzMzM0LjE3Mzg3OTg2MTQ.*_ga_BR00J7031B*czE3NTgxNzI2NDEkbzMkZzEkdDE3NTgxNzI4NjgkajU5JGwwJGgw\">cancel</a> and request a refund online.</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-24",
+      "start_date": "2025-09-19",
       "start_effective_date": "2025-07-28",
-      "end_date": "2025-09-30",
+      "end_date": "2026-04-10",
       "parks": [
         {
           "id": "150260",
@@ -2349,9 +2349,9 @@
       "description": "Increased dingo activity and interactions with people in the vicinity of Eli Creek is currently being monitored by rangers on K'gari.",
       "details": "<p>Increased dingo activity and interactions with people in the vicinity of Eli Creek is currently being monitored by rangers on K'gari.</p> <p>It is important to:</p> <ul> <li>Always stay within arm&rsquo;s reach&nbsp;of children and young teenagers.</li> <li>Always walk in groups and carry a dingo safety stick.</li> <li>Camp in fenced areas where possible.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Never feed dingoes.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email&nbsp;<a href=\"mailto:dingo.ranger@des.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a>, tell the nearest QPWS ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location, vehicle registration, dingo ear tag colour, number and which ear and gender if available.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please be alert for nearby wildlife.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Announcement",
-      "start_date": "2025-08-19",
+      "start_date": "2025-09-19",
       "start_effective_date": "2025-08-19",
-      "end_date": "2025-09-19",
+      "end_date": "2025-10-10",
       "parks": [
         {
           "id": "148007",
@@ -3170,6 +3170,24 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.qld.gov.au/parks/mount-archer"
+        }
+      ]
+    },
+    {
+      "title": "Planned works - Mt Norman Road, Girraween National Park",
+      "alert_id": "25767",
+      "url": "https://parks.qld.gov.au/park-alerts/25767",
+      "description": "Southern Downs Regional Council (SDRC) will be conducting planned maintenance at Girraween National Park from 22 September to 6 October (weather permitting).",
+      "details": "<p>Southern Downs Regional Council (SDRC) will be conducting planned maintenance at Girraween National Park from 22 September to 6 October (weather permitting).</p> <p>The following areas will be closed for the duration of the maintenance program:</p> <ul> <li>Mt Norman road from the Mt Norman day-use area to Pyramids Road.</li> </ul> <p>The Mt Norman day-use area will be open and can be accessed via Mt Norman road, Wallangarra.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-19",
+      "start_effective_date": "2025-09-22",
+      "end_date": "2025-10-06",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.qld.gov.au/parks/girraween"
         }
       ]
     }
