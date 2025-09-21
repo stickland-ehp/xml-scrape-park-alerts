@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 148,
-    "script_run_time": "2025-09-20 10:08:06"
+    "alerts_count": 146,
+    "script_run_time": "2025-09-21 10:07:54"
   },
   "alerts": [
     {
@@ -2228,44 +2228,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Blencoe Falls section, Girringun National Park and Kirrama National Park",
-      "alert_id": "25632",
-      "url": "https://parks.qld.gov.au/park-alerts/25632",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within the vicinity of the Blencoe Falls section of Girringun National Park and Kirrama National Park, from Thursday 14 August to Saturday 20 September 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within the vicinity of the Blencoe Falls section of Girringun National Park and Kirrama National Park, from Thursday 14 August to Saturday 20 September 2025 (dates inclusive).</p> <p>Blencoe Falls camping area and day-use area will remain <strong>open</strong>, however smoke may be seen at times during this period.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>For additional information please contact Princess Hills QPWS on: 07 4097 1448.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-08-19",
-      "start_effective_date": "2025-08-14",
-      "end_date": "2025-09-20",
-      "parks": [
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/blencoe-falls"
-        },
-        {
-          "id": "151383",
-          "name": "Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
-        },
-        {
-          "id": "158157",
-          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
-        },
-        {
-          "id": "148179",
-          "name": "Kirrama National Park",
-          "url": "https://parks.qld.gov.au/parks/kirrama"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
       "title": "BBQ temporarily out of service, Josephine Falls day-use area, Wooroonooran National Park",
       "alert_id": "25640",
       "url": "https://parks.qld.gov.au/park-alerts/25640",
@@ -2949,24 +2911,6 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/barron-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Feral Pig Control - 19 September 2025",
-      "alert_id": "25765",
-      "url": "https://parks.qld.gov.au/park-alerts/25765",
-      "description": "QPWS&amp;P will be undertaking pest management duties on the back of the recent park closure due to bushfires.",
-      "details": "<p>QPWS&amp;P will be undertaking pest management duties on the back of the recent park closure due to bushfires.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-18",
-      "start_effective_date": "2025-09-18",
-      "end_date": "2025-09-20",
-      "parks": [
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-archer"
         }
       ]
     },
