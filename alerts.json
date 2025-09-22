@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 146,
-    "script_run_time": "2025-09-21 10:07:54"
+    "alerts_count": 144,
+    "script_run_time": "2025-09-22 10:11:00"
   },
   "alerts": [
     {
@@ -1506,9 +1506,9 @@
       "description": "As a result of severe weather damage, some areas in Hell Hole Gorge National Park are closed until declared safe.",
       "details": "<p>As a result of severe weather damage, some areas in Hell Hole Gorge National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>&nbsp;Hell Hole Waterhole walking track.</p> </li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-08-27",
+      "start_date": "2025-09-22",
       "start_effective_date": "2025-06-01",
-      "end_date": "2025-09-30",
+      "end_date": "2025-10-30",
       "parks": [
         {
           "id": "148788",
@@ -2418,24 +2418,6 @@
       ]
     },
     {
-      "title": "Planned burning activities with visitor access restrictions: vicinity of the Bruce Highway, south of Rollingstone, and extending to Leichhardt Creek, Clemant, Paluma Range National Park",
-      "alert_id": "25702",
-      "url": "https://parks.qld.gov.au/park-alerts/25702",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Monday 1 September to Sunday 21 September 2025 (dates inclusive), as part of the fire management program for Paluma Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Monday 1 September to Sunday 21 September 2025 (dates inclusive), as part of the fire management program for Paluma Range National Park.</p> <p>During this period QPWS Rangers and machinery will be working along roadsides in the vicinity of the Bruce Highway, south of Rollingstone, and extending to Leichhardt Creek, Clemant.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas will be closed to public access:</p> <ul> <li>Paluma Range National Park - North of Toomulla Township - Bruce Highway to the Queensland Rail railway line, from the National Park boundary 3.5km south of Rollingstone to Toomulla Beach Rd</li> <li>Paluma Range National Park - South of Toomulla Township - Queensland Rail railway line to high voltage transmission line, between Saltwater Creek and Leichhardt Creek.&nbsp;</li> </ul> <p>Smoke may be seen in the vicinity of the Bruce Highway at Clemant. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities.</p> <p>To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management webpage</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-05",
-      "start_effective_date": "2025-09-01",
-      "end_date": "2025-09-21",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Shorebird Seasonal Closure",
       "alert_id": "25703",
       "url": "https://parks.qld.gov.au/park-alerts/25703",
@@ -2514,24 +2496,6 @@
           "id": "149461",
           "name": "Great Sandy Marine Park",
           "url": "https://parks.qld.gov.au/parks/great-sandy-marine"
-        }
-      ]
-    },
-    {
-      "title": "Flood damage to Byra Road access to Culgoa Floodplain National Park.",
-      "alert_id": "25720",
-      "url": "https://parks.qld.gov.au/park-alerts/25720",
-      "description": "As a result of severe weather damage access to Culgoa Plains National Park via Byra Road closed.",
-      "details": "<p>As a result of severe weather damage access to Culgoa Plains National Park via Byra Road closed.</p> <p>Balonne Shire Council has closed Byra Road for repair works following flooding. Consequently there is no access to Culgoa Floodplains National Park and the park will remain closed until it is declared safe.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-03",
-      "start_effective_date": "2025-09-03",
-      "end_date": "2025-09-21",
-      "parks": [
-        {
-          "id": "149497",
-          "name": "Culgoa Floodplain National Park",
-          "url": "https://parks.qld.gov.au/parks/culgoa-floodplain"
         }
       ]
     },
@@ -2659,49 +2623,6 @@
       ]
     },
     {
-      "title": "Local fire ban: Etheridge Shire Council area",
-      "alert_id": "25747",
-      "url": "https://parks.qld.gov.au/park-alerts/25747",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Etheridge Shire Council, which includes the following parks and forests within this local government area: Canyon Resource Reserve, Undara Volcanic National Park, Mount Rosey Resource Reserve, Tagalaka National Park, Rungulla National Park and Rungulla Resource Reserve.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Etheridge Shire Council, which includes the following parks and forests within this local government area: Canyon Resource Reserve, Undara Volcanic National Park, Mount Rosey Resource Reserve, Tagalaka National Park, Rungulla National Park and Rungulla Resource Reserve.</p> <p>Check current&nbsp;<a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans &amp; Restrictions</a> declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in these parks and forests.&nbsp;</p> <p>The following are&nbsp;<strong>not permitted</strong>:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS-supplied fire fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves,&nbsp;<strong>are permitted</strong>&nbsp;to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-09-11",
-      "start_effective_date": "2025-09-11",
-      "end_date": "2025-09-24",
-      "parks": [
-        {
-          "id": "322268",
-          "name": "Rungulla Resources Reserve",
-          "url": ""
-        },
-        {
-          "id": "148067",
-          "name": "Rungulla National Park",
-          "url": "https://parks.qld.gov.au/parks/rungulla"
-        },
-        {
-          "id": "405267",
-          "name": "Tagalaka National Park",
-          "url": "https://parks.qld.gov.au/parks/tagalaka"
-        },
-        {
-          "id": "322844",
-          "name": "Mount Rosey Resources Reserve",
-          "url": ""
-        },
-        {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.qld.gov.au/parks/undara-volcanic"
-        },
-        {
-          "id": "149509",
-          "name": "Canyon Resources Reserve",
-          "url": "https://parks.qld.gov.au/parks/canyon-resources"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary closure for roadworks: Blackdown Tableland National Park",
       "alert_id": "25749",
       "url": "https://parks.qld.gov.au/park-alerts/25749",
@@ -2795,12 +2716,12 @@
       "title": "Temporary closure: Walters Waterhole trailhead and track, Walters Waterhole camping area and Djilgarrin trailhead and track, Tully Falls National Park",
       "alert_id": "25756",
       "url": "https://parks.qld.gov.au/park-alerts/25756",
-      "description": "Walters Waterhole trailhead and track, Walters Waterhole camping area and Djilgarrin trailhead and track are temporarily closed for track maintenance from 17 September to 24 September 2025 (dates inclusive). Please do not enter the closed areas as machinery will be in operation.",
-      "details": "<p>Walters Waterhole trailhead and track, Walters Waterhole camping area and Djilgarrin trailhead and track are temporarily closed for track maintenance from 17 September to 24 September 2025 (dates inclusive). Please do not enter the closed areas as machinery will be in operation.</p>",
+      "description": "Walters Waterhole trailhead and track, Walters Waterhole camping area and Djilgarrin trailhead and track are temporarily closed for track maintenance from Wednesday 17 September to Friday 24 October 2025 (dates inclusive).",
+      "details": "<p>Walters Waterhole trailhead and track, Walters Waterhole camping area and Djilgarrin trailhead and track are temporarily closed for track maintenance from Wednesday 17 September to Friday 24 October 2025 (dates inclusive).</p> <p>Please do not enter the closed areas as machinery will be in operation.</p> <p>For visitors with an existing camping booking up to and including Friday 24 October 2025, please <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking?_gl=1*1s0hum7*_ga*NjUwMzgzMzM0LjE3Mzg3OTg2MTQ.*_ga_BR00J7031B*czE3NTgxNzI2NDEkbzMkZzEkdDE3NTgxNzI4NjgkajU5JGwwJGgw\" target=\"_blank\">cancel</a> and request a refund online.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-09-17",
+      "start_date": "2025-09-22",
       "start_effective_date": "2025-09-17",
-      "end_date": "2025-09-24",
+      "end_date": "2025-10-24",
       "parks": [
         {
           "id": "148840",
@@ -2811,29 +2732,6 @@
           "id": "148600",
           "name": "Tully Falls National Park",
           "url": "https://parks.qld.gov.au/parks/tully-falls"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "25757",
-      "url": "https://parks.qld.gov.au/park-alerts/25757",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2025-09-17",
-      "start_effective_date": "2025-09-15",
-      "end_date": "2025-09-21",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
         }
       ]
     },
@@ -2929,6 +2827,42 @@
           "id": "148087",
           "name": "Girraween National Park",
           "url": "https://parks.qld.gov.au/parks/girraween"
+        }
+      ]
+    },
+    {
+      "title": "Park Closure due to wet weather",
+      "alert_id": "25769",
+      "url": "https://parks.qld.gov.au/park-alerts/25769",
+      "description": "Due to recent rainfall Currawinya Campgrounds and tracks are closed.",
+      "details": "<p>Due to recent rainfall Currawinya Campgrounds and tracks are closed.</p> <p>Signage is in place and Rangers will reassess road conditions on Wednesday.</p> <p>Please obey signage in place</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-09-22",
+      "start_effective_date": "2025-09-22",
+      "end_date": "2025-09-24",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Spicers Gaps section, Main Range National Park",
+      "alert_id": "25770",
+      "url": "https://parks.qld.gov.au/park-alerts/25770",
+      "description": "Due to current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:</p> <ul> <li> <p>Governors Chair lookout and walking track</p> </li> <li> <p>Spicers Gap camping area</p> </li> </ul> <ul> <li> <p>Spicers/Double Top remote camping zone</p> </li> </ul> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-22",
+      "start_effective_date": "2025-09-22",
+      "end_date": "2025-09-24",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     }
