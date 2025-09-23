@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 144,
-    "script_run_time": "2025-09-22 10:11:00"
+    "script_run_time": "2025-09-23 10:09:27"
   },
   "alerts": [
     {
@@ -691,11 +691,11 @@
       "alert_id": "24611",
       "url": "https://parks.qld.gov.au/park-alerts/24611",
       "description": "The wet season closure for Rungulla National Park has been extended due to access road damage .",
-      "details": "<p>The wet season closure for Rungulla National Park has been extended due to access road damage .</p> <p>The park is anticipated to reopen on Saturday 27 September 2025, subject to road and weather conditions.</p> <p>For visitors with an exisiting camping booking up to and including Friday 26 September 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>The wet season closure for Rungulla National Park has been extended due to access road damage .</p> <p>The park is anticipated to reopen on Wednesday 1 April 2026, subject to road and weather conditions.</p> <p>For visitors with an exisiting camping booking up to and including Tuesday 31 March 2026, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-10",
+      "start_date": "2025-09-23",
       "start_effective_date": "2025-03-31",
-      "end_date": "2025-09-26",
+      "end_date": "2026-03-31",
       "parks": [
         {
           "id": "148067",
@@ -2695,24 +2695,6 @@
       ]
     },
     {
-      "title": "Planned burn - Eumundi Conservation Park",
-      "alert_id": "25755",
-      "url": "https://parks.qld.gov.au/park-alerts/25755",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns between Tuesday 16 September to Monday 22 September 2025 as part of the annual prescribed burn program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns between Tuesday 16 September to Monday 22 September 2025 as part of the annual prescribed burn program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Eumundi and North Arm.&nbsp;</p> <p>Persons with respirator or other health problems should seek medical advice on mitagating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-15",
-      "start_effective_date": "2025-09-16",
-      "end_date": "2025-09-22",
-      "parks": [
-        {
-          "id": "152861",
-          "name": "Eumundi Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/eumundi-conservation-park"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Walters Waterhole trailhead and track, Walters Waterhole camping area and Djilgarrin trailhead and track, Tully Falls National Park",
       "alert_id": "25756",
       "url": "https://parks.qld.gov.au/park-alerts/25756",
@@ -2863,6 +2845,24 @@
           "id": "148480",
           "name": "Main Range National Park",
           "url": "https://parks.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Samford Conservation Park - Ironbark Gully Area",
+      "alert_id": "25772",
+      "url": "https://parks.qld.gov.au/park-alerts/25772",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 24 September 2025 until deemed safe, as part of the fire management program for Samford Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 24 September 2025 until deemed safe, as part of the fire management program for Samford Conservation Park.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>The Iron Bark Gully Day Use Area</li> <li>IBG Break</li> <li>Three Ways Rd,</li> <li>Geigers Rd</li> <li>IBG East Break</li> <li>Parts of Samford Rd Break</li> <li>Parts of School Outer Break</li> </ul> <p>Mountain Bike Tracks:&nbsp;</p> <ul> <li>Track 1 - Pipeline</li> <li>Track 2 - Water Tank</li> <li>Track 3 - Fitness Trail</li> </ul> <p>Smoke may be seen in the vicinity of Samford, Ferny Grove, Ferny Hills, Arana Hills Camp Mountain, Draper, Bunya, Upper Kedron . Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-09-23",
+      "start_effective_date": "2025-09-24",
+      "end_date": "2025-09-29",
+      "parks": [
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/samford"
         }
       ]
     }
