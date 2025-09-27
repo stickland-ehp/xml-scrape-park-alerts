@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 147,
-    "script_run_time": "2025-09-26 10:09:36"
+    "alerts_count": 146,
+    "script_run_time": "2025-09-27 10:08:24"
   },
   "alerts": [
     {
@@ -2773,24 +2773,6 @@
           "id": "148087",
           "name": "Girraween National Park",
           "url": "https://parks.qld.gov.au/parks/girraween"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Spicers Gaps section, Main Range National Park",
-      "alert_id": "25770",
-      "url": "https://parks.qld.gov.au/park-alerts/25770",
-      "description": "Due to current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:</p> <ul> <li> <p>Governors Chair lookout and walking track</p> </li> <li> <p>Spicers/Double Top remote camping zone</p> </li> <li> <p>Spicers Peak access track&nbsp;</p> </li> </ul> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-25",
-      "start_effective_date": "2025-09-22",
-      "end_date": "2025-09-26",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
