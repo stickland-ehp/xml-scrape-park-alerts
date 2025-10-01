@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2025-09-30 10:09:40"
+    "alerts_count": 153,
+    "script_run_time": "2025-10-01 10:09:50"
   },
   "alerts": [
     {
@@ -275,24 +275,6 @@
           "id": "148420",
           "name": "Hinchinbrook Island National Park",
           "url": "https://parks.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
-      "title": "Cathu State Forest Access via Cathu Cauley Road",
-      "alert_id": "22951",
-      "url": "https://parks.qld.gov.au/park-alerts/22951",
-      "description": "Visitors are advised that Cathu Cauley Road, the access road to Cathu State Forest is currently in poor condition due to erosion caused by heavy rain.",
-      "details": "<p>Visitors are advised that Cathu Cauley Road, the access road to Cathu State Forest is currently in poor condition due to erosion caused by heavy rain.</p> <p>The road is open to high clearance 4wd vehicles only. Please proceed with caution.&nbsp;</p>",
-      "category": "Other",
-      "start_date": "2025-04-11",
-      "start_effective_date": "2023-05-15",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148027",
-          "name": "Cathu State Forest",
-          "url": "https://parks.qld.gov.au/parks/cathu"
         }
       ]
     },
@@ -657,9 +639,9 @@
       "description": "Due to loss of structural integrity of a section of boardwalk, Queensland Parks and Wildlife Service (QPWS) will be conducting maintenance repairs at Imbil State Forest from 1 July 2025 to 31 December 2025.",
       "details": "<p>Due to loss of structural integrity of a section of boardwalk, Queensland Parks and Wildlife Service (QPWS) will be conducting maintenance repairs at Imbil State Forest from 1 July 2025 to 31 December 2025.</p> <p>The following areas at Fig Tree walk are closed until repairs can be completed:</p> <ul> <li>Part of&nbsp;the bitumen walking track from the second section of boardwalk to the third section of boardwalk</li> <li>The entire third section of boardwalk</li> </ul> <p>The remaining section of walking track is open and can be walked by returning along the same track. The loop is closed.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-01-28",
+      "start_date": "2025-10-01",
       "start_effective_date": "2025-01-06",
-      "end_date": "2025-09-30",
+      "end_date": "2025-12-31",
       "parks": [
         {
           "id": "147991",
@@ -701,24 +683,6 @@
           "id": "148067",
           "name": "Rungulla National Park",
           "url": "https://parks.qld.gov.au/parks/rungulla"
-        }
-      ]
-    },
-    {
-      "title": "High clearance 4WD vehicle access only: Errk Oykangand National Park (CYPAL)",
-      "alert_id": "24617",
-      "url": "https://parks.qld.gov.au/park-alerts/24617",
-      "description": "Errk Oykangand National Park (CYPAL) is open for high clearance 4WD vehicles only. Visitors are advised to take care at Shelfo crossing.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) is open for high clearance 4WD vehicles only. Visitors are advised to take care at Shelfo crossing.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-09-01",
-      "start_effective_date": "2025-09-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148949",
-          "name": "Errk Oykangand National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/errk-oykangand"
         }
       ]
     },
@@ -922,24 +886,6 @@
           "id": "147991",
           "name": "Imbil State Forest",
           "url": "https://parks.qld.gov.au/parks/imbil"
-        }
-      ]
-    },
-    {
-      "title": "Limited access due to impacts from ex Tropical Cyclone Alfred",
-      "alert_id": "24997",
-      "url": "https://parks.qld.gov.au/park-alerts/24997",
-      "description": "Access to the Ex-HMAS Brisbane Conservation Park is limited to bookings through commercial dive operators. No access to public mooring.",
-      "details": "<p>Access to the Ex-HMAS Brisbane Conservation Park is limited to bookings through commercial dive operators. No access to public mooring.</p> <p>Access to the Ex-HMAS Brisbane Conservation Park is currently only available through bookings with authorised commercial dive operators (SunReef and Scuba World).</p> <p>Bookings for the public mooring will remain closed until further notice.</p> <p>Due to impacts from Tropical Cyclone Alfred, remediation works are being undertaken on the Ex-HMAS Brisbane dive site to ensure the safety of divers visiting the site.&nbsp;</p> <p>Please monitor this park alert for up-to-date details.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings<strong>(external link)</strong></a>.</p>",
-      "category": "Other",
-      "start_date": "2025-06-30",
-      "start_effective_date": "2025-03-04",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "149465",
-          "name": "Ex-HMAS Brisbane Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/ex-hmas-brisbane"
         }
       ]
     },
@@ -1218,24 +1164,6 @@
       ]
     },
     {
-      "title": "No Tank Water- Archer Camp Ground",
-      "alert_id": "25219",
-      "url": "https://parks.qld.gov.au/park-alerts/25219",
-      "description": "Due to damage to the water tank at Archer Campground caused by ex-tropical cyclone Alfred, there is no water available for general use. This has not impacted the toilet facilities. We apologise for any inconvenience caused. QPWS &amp;P are endeavouring to have this issue rectified by the end of September.",
-      "details": "<p>Due to damage to the water tank at Archer Campground caused by ex-tropical cyclone Alfred, there is no water available for general use. This has not impacted the toilet facilities. We apologise for any inconvenience caused. QPWS &amp;P are endeavouring to have this issue rectified by the end of September.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-15",
-      "start_effective_date": "2025-04-24",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Closure - Wards Canyon walk",
       "alert_id": "25222",
       "url": "https://parks.qld.gov.au/park-alerts/25222",
@@ -1328,83 +1256,6 @@
       ]
     },
     {
-      "title": "Planned Burn Season",
-      "alert_id": "25273",
-      "url": "https://parks.qld.gov.au/park-alerts/25273",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Magnetic Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Magnetic Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>Before any planned burn is undertaken, local stakeholders, and nearby communities will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please call the QPWS Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148961",
-          "name": "Magnetic Island National Park",
-          "url": "https://parks.qld.gov.au/parks/magnetic-island"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Season",
-      "alert_id": "25274",
-      "url": "https://parks.qld.gov.au/park-alerts/25274",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Hinchinbrook Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Hinchinbrook Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>Before any planned burn is undertaken, local stakeholders, nearby communities and booked campers will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please call the QPWS Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Season",
-      "alert_id": "25275",
-      "url": "https://parks.qld.gov.au/park-alerts/25275",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Orpheus Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Orpheus Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>Before any planned burn is undertaken, local stakeholders, nearby communities and booked campers&nbsp;will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please call the QPWS Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148806",
-          "name": "Orpheus Island National Park",
-          "url": "https://parks.qld.gov.au/parks/orpheus-island"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Season",
-      "alert_id": "25276",
-      "url": "https://parks.qld.gov.au/park-alerts/25276",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Goold Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burn operations on Goold Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind.</p> <p>Before any planned burn is undertaken, local stakeholders, nearby communities and booked campers&nbsp;will be informed. Check Park Alerts for up to date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>For more information, please call the QPWS Magnetic Island office on (07) 4778 5378.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-12",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148307",
-          "name": "Goold Island National Park",
-          "url": "https://parks.qld.gov.au/parks/goold-island"
-        }
-      ]
-    },
-    {
       "title": "New waste transfer stations for Great Sandy National Park, Cooloola Recreation Area",
       "alert_id": "25291",
       "url": "https://parks.qld.gov.au/park-alerts/25291",
@@ -1424,42 +1275,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Season: Fitzroy Island National Park",
-      "alert_id": "25294",
-      "url": "https://parks.qld.gov.au/park-alerts/25294",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct Planned Burn Operations on Fitzroy Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct Planned Burn Operations on Fitzroy Island National Park from May to September as part of the annual hazard reduction and conservation management program for parks and forests.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly dependent on weather conditions, typically requiring mild and stable weather conditions within a limited window of opportunity. As a result, these operations may be scheduled and carried out with little advance notice.&nbsp;</p> <p>Before any planned burn is undertaken local stakeholders and communities will be informed. Please be aware that some park facilities such as walking tracks may be closed to safely conduct the planned burn program. Check Park Alerts for up-to-date information about QPWS planned burns.</p> <p>Smoke may be seen coming from the island at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions.</p> <p>Please observe all signage, barriers, and directions from Rangers.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-14",
-      "start_effective_date": "2025-05-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148741",
-          "name": "Fitzroy Island National Park",
-          "url": "https://parks.qld.gov.au/parks/fitzroy-island"
-        }
-      ]
-    },
-    {
-      "title": "Planned Works for Mon Repos car park",
-      "alert_id": "25308",
-      "url": "https://parks.qld.gov.au/park-alerts/25308",
-      "description": "Queensland Parks and Wildlife Service will be conducting a planned upgrade to the Turtle Centre car park at Mon Repos Conservation Park from May 2025 to September 2025 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting a planned upgrade to the Turtle Centre car park at Mon Repos Conservation Park from May 2025 to September 2025 (weather permitting).</p> <p>The Mon Repos car park redevelopment will improve visitor access to the centre, and will include additional car parking, pedestrian paths and a realignment of the Turtle trail.</p> <p><strong>During construction the following areas will have changed conditions:</strong></p> <ul> <li><strong>Rookery Road</strong></li> <li><strong>Turtle Centre car park</strong></li> <li><strong>Turtle trail section adjacent to car park area</strong></li> </ul> <p>Please note:</p> <p>&bull; you may experience increased dust and prolonged noise during your visit</p> <p>&bull; pedestrians and Turtle trail users should be aware of additional traffic on site including heavy machinery</p> <p>&bull; traffic diversions may be in place. Please follow directions from traffic</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2025-05-16",
-      "start_effective_date": "2025-05-26",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mon-repos"
         }
       ]
     },
@@ -1546,29 +1361,6 @@
       ]
     },
     {
-      "title": "Planned burning activities: Mount Fox, Girringun National Park",
-      "alert_id": "25363",
-      "url": "https://parks.qld.gov.au/park-alerts/25363",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within the Mount Fox Crater ring road from Monday 2 June to Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Girringun National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within the Mount Fox Crater ring road from Monday 2 June to Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Girringun National Park.</p> <p>During the planned burns, Mount Fox will remain open but smoke may be seen&nbsp;at times&nbsp;during this period. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please contact the Ingham office Ph 07 4777 2822 for further information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-04",
-      "start_effective_date": "2025-06-02",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "150228",
-          "name": "Mount Fox, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-mount-fox"
-        }
-      ]
-    },
-    {
       "title": "Planned burning activities: Halifax Bay Wetlands National Park",
       "alert_id": "25364",
       "url": "https://parks.qld.gov.au/park-alerts/25364",
@@ -1583,24 +1375,6 @@
           "id": "148512",
           "name": "Halifax Bay Wetlands National Park",
           "url": "https://parks.qld.gov.au/parks/halifax-bay"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Danbulla National Park",
-      "alert_id": "25370",
-      "url": "https://parks.qld.gov.au/park-alerts/25370",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) in Danbulla National Park, western section, Barrabadeen to Tinaroo Creek, from Monday 9 June to Tuesday 30 September 2025 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) in Danbulla National Park, western section, Barrabadeen to Tinaroo Creek, from Monday 9 June to Tuesday 30 September 2025 (dates inclusive).</p> <p>Visitor facilities will remain open but smoke may be seen&nbsp;at times&nbsp;during this period. &nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management </a>webpage.</p> <p>Please contact the Tinaroo office on 07 4095 8459 for further information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-06-02",
-      "start_effective_date": "2025-06-09",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148055",
-          "name": "Danbulla National Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/danbulla"
         }
       ]
     },
@@ -1637,24 +1411,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - Tewantin National Park, Ringtail section",
-      "alert_id": "25437",
-      "url": "https://parks.qld.gov.au/park-alerts/25437",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct planned burns between Friday 1 August to Tuesday 30 September 2025 as part of the annual prescribed burn program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct planned burns between Friday 1 August to Tuesday 30 September 2025 as part of the annual prescribed burn program for parks and forests.</p> <p>The aim of this burn is to reduce the threat of severe wildfires in periods of very high fire danger and help protect life, property and maintain a healthy forest environment.</p> <p>Smoke may be seen in the vicinity of Cooroibah, Ringtail Creek, Cootharaba and Tewantin.&nbsp;</p> <p>Persons with respirator or other health problems should seek medical advice on mitagating the effects of smoke inhalation. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>During the planned burns the areas will be closed to public access.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-29",
-      "start_effective_date": "2025-08-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148107",
-          "name": "Tewantin National Park",
-          "url": "https://parks.qld.gov.au/parks/tewantin"
         }
       ]
     },
@@ -1897,62 +1653,6 @@
       ]
     },
     {
-      "title": "Safety advice - Emu in Park",
-      "alert_id": "25491",
-      "url": "https://parks.qld.gov.au/park-alerts/25491",
-      "description": "An emu living in Parklands Conservation Park is active at this time of year, particularly towards visitors and horses.",
-      "details": "<p>An emu living in Parklands Conservation Park is active at this time of year, particularly towards visitors and horses.</p> <p>QPWS recommends horse-riders consider riding at alternative locations during the months of May to September, and that visitors use caution when visiting the Park.</p> <p>For your safety please be alert for nearby wildlife.</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-04",
-      "start_effective_date": "2025-07-04",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148035",
-          "name": "Parklands Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/parklands"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: Oak Hills in the vicinity of Wairuna Section, Girringun National Park",
-      "alert_id": "25502",
-      "url": "https://parks.qld.gov.au/park-alerts/25502",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within Oak Hills in the vicinity of Wairuna section of Girringun National Park between Monday 7 July and Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Girringun National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities (weather permitting) within Oak Hills in the vicinity of Wairuna section of Girringun National Park between Monday 7 July and Tuesday 30 September 2025 (dates inclusive), as part of the fire management program for Girringun National Park.</p> <p>Visitors are advised that smoke may been seen from Wallaman Falls during this time.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please contact the Ingham office Ph 07 4777 2822 for further information.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-08",
-      "start_effective_date": "2025-07-07",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "151383",
-          "name": "Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
-        },
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
-        },
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wallaman"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary camping area closure for planned burn: Ussher Point camping area, Apudthama National Park (CYPAL)",
       "alert_id": "25514",
       "url": "https://parks.qld.gov.au/park-alerts/25514",
@@ -1967,24 +1667,6 @@
           "id": "148892",
           "name": "Apudthama National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/apudthama"
-        }
-      ]
-    },
-    {
-      "title": "4WD access only : Little Boomerang camping area",
-      "alert_id": "25521",
-      "url": "https://parks.qld.gov.au/park-alerts/25521",
-      "description": "Conditions in Little Boomerang Camping Area in Welford National Park are only suitable for high clearance 4WD vehicles. During the March 2025 flood event, river sand was deposited across the camping area making the roads and camp sites soft and loose in places.",
-      "details": "<p>Conditions in Little Boomerang Camping Area in Welford National Park are only suitable for high clearance 4WD vehicles. During the March 2025 flood event, river sand was deposited across the camping area making the roads and camp sites soft and loose in places.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-08-28",
-      "start_effective_date": "2025-07-15",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.qld.gov.au/parks/welford"
         }
       ]
     },
@@ -2039,24 +1721,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Wrattens National Park.",
-      "alert_id": "25537",
-      "url": "https://parks.qld.gov.au/park-alerts/25537",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16 July until to 30 September 2025, as part of the fire management program for Wratten's National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 16 July until to 30 September 2025, as part of the fire management program for Wratten's National Park.</p> <p>Firefighters will be working along the roadside in the vicinity of Wrattens Kandanga and Coolamon Road to A Flat.&nbsp;</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs. &nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-07-29",
-      "start_effective_date": "2025-07-16",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "322707",
-          "name": "Wrattens National Park",
-          "url": ""
         }
       ]
     },
@@ -2359,24 +2023,6 @@
       ]
     },
     {
-      "title": "Planned Burns Townsville Town Common Conservation Park from Monday 1 of September to Tuesday 30 September",
-      "alert_id": "25679",
-      "url": "https://parks.qld.gov.au/park-alerts/25679",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 1 September 2025 until Tuesday 30 of September, as part of the annual fire management program for Townsville Town Common Conservation Park",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 1 September 2025 until Tuesday 30 of September, as part of the annual fire management program for Townsville Town Common Conservation Park</p> <p>Ranger will be conducting low intensity burns throught the parks.For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Smoke may be seen in the vicinity of the conservation parks plus Cape Pallarenda Road and Ingham Road. Persons with respiratoru or other health problems should seek medical advice on mitigating the effects of smoke.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-08-26",
-      "start_effective_date": "2025-09-01",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148311",
-          "name": "Townsville Town Common Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/townsville"
-        }
-      ]
-    },
-    {
       "title": "Turtle St, Camp Nodes, Closure site 7 and 8",
       "alert_id": "25694",
       "url": "https://parks.qld.gov.au/park-alerts/25694",
@@ -2540,12 +2186,27 @@
       "alert_id": "25744",
       "url": "https://parks.qld.gov.au/park-alerts/25744",
       "description": "A fire prohibition is active from 12/09/2025 until further notice due to the current weather forecast and increased risk of bushfire.",
-      "details": "<p>A fire prohibition is active from 12/09/2025 until further notice due to the current weather forecast and increased risk of bushfire.</p> <p>Fires must not be lit anywhere in:</p> <ul> <li>White Mountains National Park</li> <li>Porcupine Gorge National Park</li> <li>Moorinya National Park</li> <li>Dalrymple National Park.</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the requirements below are permitted.</p> <p>The appliance:</p> <ul> <li>Must use gas or manufactured fuel (eg, briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</li> <li>Must be used only for cooking and/or heating.</li> <li>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</li> <li>Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</li> <li>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> </ul> <p>Appliances that are not fully self-contained, such as a brazier, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p><strong>To report any bushfires, call Triple Zero (000).</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "details": "<p>A fire prohibition is active from 12/09/2025 until further notice due to the current weather forecast and increased risk of bushfire.</p> <p>Fires must not be lit anywhere in:</p> <ul> <li>Forest Den NP</li> <li>Boodjamulla NP (AL) all sections&nbsp;</li> <li>White Mountains National Park</li> <li>Porcupine Gorge National Park</li> <li>Moorinya National Park</li> <li>Dalrymple National Park.</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the requirements below are permitted.</p> <p>The appliance:</p> <ul> <li>Must use gas or manufactured fuel (eg, briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</li> <li>Must be used only for cooking and/or heating.</li> <li>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</li> <li>Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</li> <li>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> </ul> <p>Appliances that are not fully self-contained, such as a brazier, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p><strong>To report any bushfires, call Triple Zero (000).</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-09-11",
+      "start_date": "2025-10-01",
       "start_effective_date": "2025-09-11",
-      "end_date": "2025-10-03",
+      "end_date": "2025-10-17",
       "parks": [
+        {
+          "id": "148456",
+          "name": "Forest Den National Park",
+          "url": "https://parks.qld.gov.au/parks/forest-den"
+        },
+        {
+          "id": "150272",
+          "name": "Lawn Hill Gorge, Boodjamulla National Park (Aboriginal Land)",
+          "url": "https://parks.qld.gov.au/parks/boodjamulla-lawn-hill"
+        },
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.qld.gov.au/parks/blackbraes"
+        },
         {
           "id": "148207",
           "name": "Moorrinya National Park",
@@ -2773,24 +2434,6 @@
           "id": "149037",
           "name": "Kutini-Payamu (Iron Range) National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/kutini-payamu"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Samford Conservation Park - Ironbark Gully Area",
-      "alert_id": "25772",
-      "url": "https://parks.qld.gov.au/park-alerts/25772",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 24 September 2025 until deemed safe, as part of the fire management program for Samford Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 24 September 2025 until deemed safe, as part of the fire management program for Samford Conservation Park.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>The Iron Bark Gully Day Use Area</li> <li>IBG Break</li> <li>Three Ways Rd,</li> <li>Geigers Rd</li> <li>IBG East Break</li> <li>Parts of Samford Rd Break</li> <li>Parts of School Outer Break</li> </ul> <p>Mountain Bike Tracks:&nbsp;</p> <ul> <li>Track 1 - Pipeline</li> <li>Track 2 - Water Tank</li> <li>Track 3 - Fitness Trail</li> </ul> <p>Smoke may be seen in the vicinity of Samford, Ferny Grove, Ferny Hills, Arana Hills Camp Mountain, Draper, Bunya, Upper Kedron . Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-26",
-      "start_effective_date": "2025-09-24",
-      "end_date": "2025-09-30",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/samford"
         }
       ]
     },
@@ -3354,6 +2997,54 @@
       ]
     },
     {
+      "title": "Fire prohibition in place across protected areas in Moreton Bay",
+      "alert_id": "25800",
+      "url": "https://parks.qld.gov.au/park-alerts/25800",
+      "description": "A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.",
+      "details": "<p>A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p><strong>Open fires must not be lit anywhere in:&nbsp;</strong></p> <ul> <li>Bribie Island Recreation Area</li> <li>Gheebulum Kunungai National Park</li> <li>Moreton Island Recreation Area</li> <li>Naree Budjong Djara National Park</li> <li>Minjerribah Recreation Area</li> <li>Teerk Roo Ra National Park</li> <li>South Stradbroke Island Conservation Park</li> <li>Southern Moreton Bay Islands NP</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "148552",
+          "name": "Teerk Roo Ra National Park",
+          "url": "https://parks.qld.gov.au/parks/teerk-roo-ra"
+        },
+        {
+          "id": "150256",
+          "name": "Southern Moreton Bay Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/southern-moreton-bay"
+        },
+        {
+          "id": "151400",
+          "name": "South Stradbroke Island Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/south-stradbroke-island"
+        },
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.qld.gov.au/parks/naree-budjong-djara"
+        },
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/minjerribah"
+        },
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        },
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
       "title": "Delaneys Creek Conservation Park-Bushfire Closure",
       "alert_id": "25801",
       "url": "https://parks.qld.gov.au/park-alerts/25801",
@@ -3368,6 +3059,197 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban - Gold Coast and Scenic Rim",
+      "alert_id": "25802",
+      "url": "https://parks.qld.gov.au/park-alerts/25802",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Gold Coast City and Scenic Rim Regional Council areas which includes sections of the above parks and forests within these local government areas.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Gold Coast City and Scenic Rim Regional Council areas which includes sections of the above parks and forests within these local government areas.</p> <p>Check current <a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans &amp; Restrictions</a> declared by QFD.</p> <p>Until further notice, <strong>open fires must not be lit</strong> anywhere in the parks listed above.</p> <p>The following are <strong>not permitted</strong>:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, <strong>are permitted</strong> to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please obey all fire restrictions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.qld.gov.au/parks/burleigh-head"
+        },
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.qld.gov.au/parks/lamington"
+        },
+        {
+          "id": "147971",
+          "name": "Nerang National Park",
+          "url": "https://parks.qld.gov.au/parks/nerang"
+        },
+        {
+          "id": "148340",
+          "name": "Pine Ridge Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/pine-ridge"
+        },
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
+        },
+        {
+          "id": "148356",
+          "name": "Tallebudgera Creek and David Fleay conservation parks",
+          "url": "https://parks.qld.gov.au/parks/tallebudgera"
+        },
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban Daisy Hill Conservation Park and Venman Bushland National Park",
+      "alert_id": "25803",
+      "url": "https://parks.qld.gov.au/park-alerts/25803",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Logan City Council and Redland City Council which includes sections of the above parks and forests within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Logan City Council and Redland City Council which includes sections of the above parks and forests within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>Daisy Hill Conservation Park</li> <li>Venman Bushland National Park</li> </ul> <p>The following are <strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, <strong>are permitted</strong> to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "148896",
+          "name": "Venman Bushland National Park",
+          "url": "https://parks.qld.gov.au/parks/venman-bushland"
+        },
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Local fire ban, national parks in the Lower Burdekin area",
+      "alert_id": "25805",
+      "url": "https://parks.qld.gov.au/park-alerts/25805",
+      "description": "A fire prohibition is active from 01/10/2025 until further notice due to the current weather forecast and increased risk of bushfire.",
+      "details": "<p>A fire prohibition is active from 01/10/2025 until further notice due to the current weather forecast and increased risk of bushfire.</p> <p>Fires must not be lit anywhere in:</p> <ul> <li>Bowling Green Bay National Park.</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the requirements below are permitted.</p> <p>The appliance:</p> <ul> <li>Must use gas or manufactured fuel (eg, briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</li> <li>Must be used only for cooking and/or heating.</li> <li>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</li> <li>Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</li> <li>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> </ul> <p>Appliances that are not fully self-contained, such as a brazier, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p><strong>To report any bushfires, call Triple Zero (000).</strong></p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-01",
+      "end_date": "2025-10-17",
+      "parks": [
+        {
+          "id": "149433",
+          "name": "Bowling Green Bay National Park",
+          "url": "https://parks.qld.gov.au/parks/bowling-green-bay"
+        }
+      ]
+    },
+    {
+      "title": "FIRE BAN",
+      "alert_id": "25806",
+      "url": "https://parks.qld.gov.au/park-alerts/25806",
+      "description": "Queensland Fire and Emergency have declared a Local FIRE Ban for the 24-hour period covering Thursday 2nd October. The ban comes into effect form 00:00hrs to 23:59hrs.",
+      "details": "<p>Queensland Fire and Emergency have declared a Local FIRE Ban for the 24-hour period covering Thursday 2nd October. The ban comes into effect form 00:00hrs to 23:59hrs.</p> <h2>THE LIGHTING OF FIRES IS PROHIBITED.</h2> <p>All open fires are prohibited within the National Park including all camping and day use areas.</p> <p>This ban is for the Gladstone LGA as well as surrounding LGA&#39;s.&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-03",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.qld.gov.au/parks/eurimbula"
+        },
+        {
+          "id": "148279",
+          "name": "Deepwater National Park",
+          "url": "https://parks.qld.gov.au/parks/deepwater"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Barakula State Forest",
+      "alert_id": "25807",
+      "url": "https://parks.qld.gov.au/park-alerts/25807",
+      "description": "Due to the current bushfire, Barakula State Forest is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to the current bushfire, Barakula State Forest is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-01",
+      "end_date": "2025-10-06",
+      "parks": [
+        {
+          "id": "148143",
+          "name": "Barakula State Forest",
+          "url": "https://parks.qld.gov.au/parks/barakula"
+        }
+      ]
+    },
+    {
+      "title": "Carnarvon Great Walk (Overnight hike) - Closure",
+      "alert_id": "25808",
+      "url": "https://parks.qld.gov.au/park-alerts/25808",
+      "description": "Carnarvon Great Walk Seasonal Closure",
+      "details": "<p>Carnarvon Great Walk Seasonal Closure</p> <p>The Carnarvon Great Walk (Overnight walk) will be closed from the 7th of October to the 1st of March as per its annual seasonal closure for the Summer months due to elevated fire risk, increase in average daily temperatures and changes in other weather conditions (such as storms and heavy rainfall).<br /> <br /> Carnarvon Gorge day walks and Big Bend campsite remain open (pending changing weather or fire conditions).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-07",
+      "end_date": "2026-03-01",
+      "parks": [
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Fire prohibition in place across protected areas in Great Sandy protected areas",
+      "alert_id": "25809",
+      "url": "https://parks.qld.gov.au/park-alerts/25809",
+      "description": "A fire prohibition will be active in Great Sandy protected areas from 12.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.",
+      "details": "<p>A fire prohibition will be active in Great Sandy protected areas from 12.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p>Open fires must not be lit anywhere in:</p> <ul> <li>Fraser Island&nbsp;Recreation Area;</li> <li>Inskip Peninsula Recreation Area;</li> <li>Cooloola Recreation Area (includes&nbsp;Poverty Point camping area).</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\" target=\"_blank\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-01",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
+        },
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
         }
       ]
     }
