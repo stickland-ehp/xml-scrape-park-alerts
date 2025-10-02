@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 153,
-    "script_run_time": "2025-10-01 10:09:50"
+    "alerts_count": 160,
+    "script_run_time": "2025-10-02 10:09:04"
   },
   "alerts": [
     {
@@ -374,7 +374,7 @@
       "category": "Park or facility closure",
       "start_date": "2025-07-07",
       "start_effective_date": "2024-01-08",
-      "end_date": "2025-12-01",
+      "end_date": "2025-10-30",
       "parks": [
         {
           "id": "148802",
@@ -2230,24 +2230,6 @@
       ]
     },
     {
-      "title": "Local fire ban, Blackbraes national park",
-      "alert_id": "25745",
-      "url": "https://parks.qld.gov.au/park-alerts/25745",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Etheridge Shire Council, which includes sections of Blackbraes National Park.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Etheridge Shire Council, which includes sections of Blackbraes National Park.</p> <p>Check current Fire Bans and Restrictions declared by QFD.</p> <p><a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans &amp; Restrictions | Queensland Fire Department</a></p> <p>Until further notice, open fires must not be lit anywhere in Blackbraes National Park.</p> <p>The following are <strong>not permitted</strong>:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS-supplied fire fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, <strong>are permitted</strong> to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-11",
-      "start_effective_date": "2025-09-11",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148604",
-          "name": "Blackbraes National Park",
-          "url": "https://parks.qld.gov.au/parks/blackbraes"
-        }
-      ]
-    },
-    {
       "title": "Limited parking at Cedar Creek",
       "alert_id": "25746",
       "url": "https://parks.qld.gov.au/park-alerts/25746",
@@ -2269,10 +2251,10 @@
       "title": "Upcoming temporary closure for roadworks: Blackdown Tableland National Park",
       "alert_id": "25749",
       "url": "https://parks.qld.gov.au/park-alerts/25749",
-      "description": "Visitors are advised that due to roadworks, Blackdown Tableland National Park will be closed from Tuesday 7 October to Wednesday 8 October 2025. The national park will reopen on Thursday 9 October 2025.",
-      "details": "<p>Visitors are advised that due to roadworks, Blackdown Tableland National Park will be closed from Tuesday 7 October to Wednesday 8 October 2025. The national park will reopen on Thursday 9 October 2025.</p> <p>The temporary closure is for visitor safety and due to heavy machinery operating on narrow, winding sections of road.&nbsp;</p> <p>Due to the roadworks and closure of the national park, access to all visitor facilities including Munall camping area and all walking tracks and lookouts will not be possible during the temporary closure.</p> <p>We apologise for any inconvenience this temporary 2-day closure may cause and look forward to welcoming visitors back to the national park when the roadworks are complete.</p>",
+      "description": "Visitors are advised that due to roadworks, Blackdown Tableland National Park will be closed from 3pm Monday 6 October to 8am Thursday 9 October 2025.",
+      "details": "<p>Visitors are advised that due to roadworks, Blackdown Tableland National Park will be closed from 3pm Monday 6 October to 8am Thursday 9 October 2025.</p> <p>The temporary closure is for visitor safety and due to heavy machinery operating on narrow, winding sections of road.&nbsp;</p> <p>Due to the roadworks and closure of the national park, access to all visitor facilities including Munall camping area and all walking tracks and lookouts will not be possible during the temporary closure.</p> <p>We apologise for any inconvenience this temporary closure may cause and look forward to welcoming visitors back to the national park when the roadworks are complete.</p>",
       "category": "Announcement",
-      "start_date": "2025-09-12",
+      "start_date": "2025-10-02",
       "start_effective_date": "2025-09-12",
       "end_date": "2025-10-09",
       "parks": [
@@ -2743,24 +2725,6 @@
       ]
     },
     {
-      "title": "Conway National Park - Saltwater Creek planned burn",
-      "alert_id": "25792",
-      "url": "https://parks.qld.gov.au/park-alerts/25792",
-      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned burn operations within Conway National Park, Saltwater Creek section; weather permitting, as part of the annual hazard reduction and conservation management program for parks and forests. As a result, smoke may be seen within the local vicinity and beyond. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. For more information, please call QPWS&amp;P on 13QGOV (13 74 68).",
-      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned burn operations within Conway National Park, Saltwater Creek section; weather permitting, as part of the annual hazard reduction and conservation management program for parks and forests. As a result, smoke may be seen within the local vicinity and beyond. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. For more information, please call QPWS&amp;P on 13QGOV (13 74 68).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-30",
-      "start_effective_date": "2025-10-08",
-      "end_date": "2025-10-24",
-      "parks": [
-        {
-          "id": "147975",
-          "name": "Conway National Park and Conway Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/conway"
-        }
-      ]
-    },
-    {
       "title": "Local Fire Ban for Lockyer Valley, Somerset, Scenic Rim, Toowoomba, Southern Downs and Western Downs",
       "alert_id": "25793",
       "url": "https://parks.qld.gov.au/park-alerts/25793",
@@ -3139,6 +3103,24 @@
       ]
     },
     {
+      "title": "Nesting Catfish around Swimming Area",
+      "alert_id": "25804",
+      "url": "https://parks.qld.gov.au/park-alerts/25804",
+      "description": "Seasonal nesting of Eel-tailed Catfish is currently occurring at Enoggera Dam. These fish may become aggressive in shallow water including the designated swimming area. Please exercise caution and follow signage when engaging in any in-water activities.",
+      "details": "<p>Seasonal nesting of Eel-tailed Catfish is currently occurring at Enoggera Dam. These fish may become aggressive in shallow water including the designated swimming area. Please exercise caution and follow signage when engaging in any in-water activities.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-01",
+      "end_date": "2026-02-28",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
       "title": "Local fire ban, national parks in the Lower Burdekin area",
       "alert_id": "25805",
       "url": "https://parks.qld.gov.au/park-alerts/25805",
@@ -3219,10 +3201,10 @@
       "title": "Fire prohibition in place across protected areas in Great Sandy protected areas",
       "alert_id": "25809",
       "url": "https://parks.qld.gov.au/park-alerts/25809",
-      "description": "A fire prohibition will be active in Great Sandy protected areas from 12.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.",
-      "details": "<p>A fire prohibition will be active in Great Sandy protected areas from 12.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p>Open fires must not be lit anywhere in:</p> <ul> <li>Fraser Island&nbsp;Recreation Area;</li> <li>Inskip Peninsula Recreation Area;</li> <li>Cooloola Recreation Area (includes&nbsp;Poverty Point camping area).</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\" target=\"_blank\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "A fire prohibition will be active in Great Sandy protected areas from 00.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.",
+      "details": "<p>A fire prohibition will be active in Great Sandy protected areas from 00.01am Thursday 2 October through to 11.59pm Tuesday 7 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p>Open fires must not be lit anywhere in:</p> <ul> <li>Fraser Island&nbsp;Recreation Area;</li> <li>Inskip Peninsula Recreation Area;</li> <li>Cooloola Recreation Area (includes&nbsp;Poverty Point camping area).</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\" target=\"_blank\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-10-01",
+      "start_date": "2025-10-02",
       "start_effective_date": "2025-10-02",
       "end_date": "2025-10-07",
       "parks": [
@@ -3250,6 +3232,215 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban - Bundaberg and Gladstone Regional Council areas",
+      "alert_id": "25810",
+      "url": "https://parks.qld.gov.au/park-alerts/25810",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Burrum Coast National Park</p> <p>- Bulburin National Park</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-03",
+      "parks": [
+        {
+          "id": "148151",
+          "name": "Bulburin National Park",
+          "url": "https://parks.qld.gov.au/parks/bulburin"
+        },
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban - North Burnett and Gladstone Regional Council areas",
+      "alert_id": "25811",
+      "url": "https://parks.qld.gov.au/park-alerts/25811",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Kroombit Tops National Park</p> <p>- Auburn River National Park</p> <p>- Kalpowar State Forest</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-03",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
+        },
+        {
+          "id": "148255",
+          "name": "Kalpowar State Forest",
+          "url": "https://parks.qld.gov.au/parks/kalpowar"
+        },
+        {
+          "id": "148476",
+          "name": "Auburn River National Park",
+          "url": "https://parks.qld.gov.au/parks/auburn-river"
+        }
+      ]
+    },
+    {
+      "title": "Ex-HMAS Brisbane Public Mooring",
+      "alert_id": "25812",
+      "url": "https://parks.qld.gov.au/park-alerts/25812",
+      "description": "Ex-HMAS Brisbane Public Mooring closed post severe weather event (cyclone Alfred). Public access to ex-HMAS Brisbane remains closed.",
+      "details": "<p>Ex-HMAS Brisbane Public Mooring closed post severe weather event (cyclone Alfred). Public access to ex-HMAS Brisbane remains closed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "149465",
+          "name": "Ex-HMAS Brisbane Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/ex-hmas-brisbane"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for planned burning activities: sections of Herberton Range State Forest, Herberton Range National Park and Baldy Mountain Forest Reserve.",
+      "alert_id": "25813",
+      "url": "https://parks.qld.gov.au/park-alerts/25813",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial planned burn activities in the area east of Herberton on Friday 3 October 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial planned burn activities in the area east of Herberton on Friday 3 October 2025.</p> <p>The Herberton sections of Herberton Range State Forest, Herberton Range National Park and Baldy Mountain Forest Reserve will be closed for public safety.</p> <p><strong>All walking trails and fire trails&nbsp;between E Hill Road, Wondecla and Moomin Road, Moomin will be closed for public safety.</strong></p> <p>Please follow directional signage and directions from fire personnel.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-03",
+      "end_date": "2025-10-04",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closures for planned burning activities: Mount Baldy and Yabi walking trails, Herberton State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "25814",
+      "url": "https://parks.qld.gov.au/park-alerts/25814",
+      "description": "Queensland Parks and Wildlife Service will be undertaking aerial planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve on Friday 3 October 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service will be undertaking aerial planned burning activities in sections of Herberton State Forest and Baldy Mountain Forest Reserve on Friday 3 October 2025.</p> <p><strong>For public safety, Mount Baldy and Yabi walking trails will be temporarily closed during this period.</strong></p> <p>Visitors are required to adhere to all signage and closures and are advised that smoke will be present at times in the vicinity of Atherton, throughout this period.<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-03",
+      "end_date": "2025-10-04",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Local fire ban: Charters Towers and Flinders local government areas",
+      "alert_id": "25815",
+      "url": "https://parks.qld.gov.au/park-alerts/25815",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban from Friday 3 October 2025, for Charters Towers Regional and Flinders Shire Council local government areas, which includes sections of the above national and conservation parks within these local government areas.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban from Friday 3 October 2025, for Charters Towers Regional and Flinders Shire Council local government areas, which includes sections of the above national and conservation parks within these local government areas.</p> <p>Check current <a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans and Restrictions</a> declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>those areas listed above.</li> </ul> <p>The following are <strong>not permitted</strong>:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, <strong>are permitted</strong> to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-10",
+      "parks": [
+        {
+          "id": "148856",
+          "name": "Porcupine Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/porcupine-gorge"
+        },
+        {
+          "id": "148207",
+          "name": "Moorrinya National Park",
+          "url": "https://parks.qld.gov.au/parks/moorrinya"
+        },
+        {
+          "id": "148796",
+          "name": "White Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/white-mountains"
+        },
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.qld.gov.au/parks/blackbraes"
+        },
+        {
+          "id": "148412",
+          "name": "White Blow Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/white-blow"
+        },
+        {
+          "id": "148103",
+          "name": "Dalrymple National Park",
+          "url": "https://parks.qld.gov.au/parks/dalrymple"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Restriction",
+      "alert_id": "25816",
+      "url": "https://parks.qld.gov.au/park-alerts/25816",
+      "description": "Queensland Parks and Wildlife Service are implementing a Local Fire Restriction for Blackdown Tableland National Park due to increasing dry weather conditions and associated impacts.",
+      "details": "<p>Queensland Parks and Wildlife Service are implementing a Local Fire Restriction for Blackdown Tableland National Park due to increasing dry weather conditions and associated impacts.</p> <p>The Local Fire Restriction applies from today, Thursday 2 October 2025 until Tuesday 7 October 2025.&nbsp;</p> <p>The following are not permitted:&nbsp;</p> <ul> <li> <p>Open campfires and fires in braziers, drums and other open containers&nbsp;</p> </li> </ul> <ul> <li> <p>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances)&nbsp;</p> </li> </ul> <ul> <li> <p>Use of QPWS-supplied fire-rings.&nbsp;</p> </li> </ul> <p> &nbsp;</p> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:&nbsp;</p> <ul> <li> <p>Do not have the potential to generate airborne embers or ignite nearby ground fuels&nbsp;</p> </li> </ul> <ul> <li> <p>Are not left unattended&nbsp;</p> </li> </ul> <ul> <li> <p>Are suitably contained.&nbsp;</p> </li> </ul> <p>For your safety please obey all fire restrictions. Failure to adhere by restrictions will result in Penalty Infringement Notice being issued&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Restriction",
+      "alert_id": "25817",
+      "url": "https://parks.qld.gov.au/park-alerts/25817",
+      "description": "Queensland Parks and Wildlife Service are implementing Local Fire Restrictions due to increasing dry weather conditions and associated impacts.",
+      "details": "<p>Queensland Parks and Wildlife Service are implementing Local Fire Restrictions due to increasing dry weather conditions and associated impacts.</p> <p>The Local Fire Restriction applies from today, Thursday 2 October 2025 until Tuesday 7 October 2025.&nbsp;</p> <p>The following are not permitted:&nbsp;</p> <ul> <li> <p>Open campfires and fires in braziers, drums and other open containers&nbsp;</p> </li> </ul> <ul> <li> <p>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances)&nbsp;</p> </li> </ul> <ul> <li> <p>Use of QPWS-supplied fire-rings.&nbsp;</p> </li> </ul> <p> &nbsp;</p> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:&nbsp;</p> <ul> <li> <p>Do not have the potential to generate airborne embers or ignite nearby ground fuels&nbsp;</p> </li> </ul> <ul> <li> <p>Are not left unattended&nbsp;</p> </li> </ul> <ul> <li> <p>Are suitably contained.&nbsp;</p> </li> </ul> <p>For your safety please obey all fire restrictions. Failure to adhere by restrictions will result in Penalty Infringement Notice being issued.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-02",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "148832",
+          "name": "Cape Palmerston National Park",
+          "url": "https://parks.qld.gov.au/parks/cape-palmerston"
+        },
+        {
+          "id": "149485",
+          "name": "Cape Hillsborough National Park",
+          "url": "https://parks.qld.gov.au/parks/cape-hillsborough"
+        },
+        {
+          "id": "148291",
+          "name": "Mia Mia State Forest",
+          "url": "https://parks.qld.gov.au/parks/mia-mia"
+        },
+        {
+          "id": "148027",
+          "name": "Cathu State Forest",
+          "url": "https://parks.qld.gov.au/parks/cathu"
+        },
+        {
+          "id": "148215",
+          "name": "Crediton State Forest",
+          "url": "https://parks.qld.gov.au/parks/crediton"
+        },
+        {
+          "id": "148295",
+          "name": "Eungella National Park",
+          "url": "https://parks.qld.gov.au/parks/eungella"
         }
       ]
     }
