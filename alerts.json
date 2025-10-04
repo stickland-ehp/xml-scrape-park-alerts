@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 159,
-    "script_run_time": "2025-10-03 10:09:50"
+    "alerts_count": 153,
+    "script_run_time": "2025-10-04 10:08:29"
   },
   "alerts": [
     {
@@ -2307,47 +2307,6 @@
       ]
     },
     {
-      "title": "Oceanview track open",
-      "alert_id": "25760",
-      "url": "https://parks.qld.gov.au/park-alerts/25760",
-      "description": "The Oceanview track in Burleigh Head National Park has reopened following a bushfire.",
-      "details": "<p>The Oceanview track in Burleigh Head National Park has reopened following a bushfire.</p> <p>However, please note that as a result of the bushfire,&nbsp;and in accordance with the Oceanview track closure policy, reduced closure thresholds are in place and the track may need to close again at short notice if these rainfall triggers are exceeded due to the high rockfall risk.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-09-25",
-      "start_effective_date": "2025-09-17",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.qld.gov.au/parks/burleigh-head"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Binna Burra section of Gold Coast Hinterland Great Walk",
-      "alert_id": "25761",
-      "url": "https://parks.qld.gov.au/park-alerts/25761",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 16 September 2025 and continuing through September, as part of the fire management program for Lamington National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 16 September 2025 and continuing through September, as part of the fire management program for Lamington National Park.</p> <p>Firefighters and machinery will be working from between Turtle and Egg Rocks and along a section of the Gold Coast Hinterland Great Walk towards the Numinbah Correctional Centre.</p> <p>The Gold Coast Hinterland Great Walk remains open with caution, however walkers are requested to stop at the signs as directed and speak to a ranger onsite for directions before progressing through the area.</p> <p>Smoke may be seen in the vicinity of Binna Burra, Beechmont and Numinbah Valley. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-09-17",
-      "start_effective_date": "2025-09-17",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148271",
-          "name": "Lamington National Park",
-          "url": "https://parks.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
       "title": "Temporary day-use area and camp site closures for crocodile safety: Catfish Waterhole day-use area and Hann Crossing camping area, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "25762",
       "url": "https://parks.qld.gov.au/park-alerts/25762",
@@ -2366,33 +2325,15 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: McDonald track, Barron Gorge National Park",
-      "alert_id": "25764",
-      "url": "https://parks.qld.gov.au/park-alerts/25764",
-      "description": "Powerlink will be undertaking an overhead earth wire replacement project in Barron Gorge National Park from Tuesday 23 September to Friday 3 October 2025 (dates inclusive).",
-      "details": "<p>Powerlink will be undertaking an overhead earth wire replacement project in Barron Gorge National Park from Tuesday 23 September to Friday 3 October 2025 (dates inclusive).</p> <p>These significant works will include heavy machinery use, vehicle traffic and helicopter operations.</p> <p>For public safety, McDonald track will be closed during this period:</p> <p>Douglas track will be open from Wednesday 1 October 2025.</p> <p>Please adhere to closure notices and barricading and check park alerts regularly for updates.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-30",
-      "start_effective_date": "2025-09-23",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148548",
-          "name": "Barron Gorge National Park",
-          "url": "https://parks.qld.gov.au/parks/barron-gorge"
-        }
-      ]
-    },
-    {
       "title": "Planned works - Mt Norman Road, Girraween National Park",
       "alert_id": "25767",
       "url": "https://parks.qld.gov.au/park-alerts/25767",
-      "description": "Southern Downs Regional Council (SDRC) will be conducting planned maintenance at Girraween National Park from 22 September to 6 October (weather permitting).",
-      "details": "<p>Southern Downs Regional Council (SDRC) will be conducting planned maintenance at Girraween National Park from 22 September to 6 October (weather permitting).</p> <p>The following areas will be closed for the duration of the maintenance program:</p> <ul> <li>Mt Norman road from the Mt Norman day-use area to Pyramids Road.</li> </ul> <p>The Mt Norman day-use area will be open and can be accessed via Mt Norman road, Wallangarra.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Southern Downs Regional Council (SDRC) will be conducting planned maintenance at Girraween National Park from 22 September to 10 October (weather permitting).",
+      "details": "<p>Southern Downs Regional Council (SDRC) will be conducting planned maintenance at Girraween National Park from 22 September to 10 October (weather permitting).</p> <p>The following areas will be closed between 22 September - 3 October, and 7 October - 10 October for a road maintenance program:</p> <ul> <li>Mt Norman road from the Mt Norman day-use area to Pyramids Road.</li> </ul> <p>The Mt Norman day-use area will be open and can be accessed via Mt Norman road, Wallangarra.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-09-19",
+      "start_date": "2025-10-04",
       "start_effective_date": "2025-09-22",
-      "end_date": "2025-10-06",
+      "end_date": "2025-10-10",
       "parks": [
         {
           "id": "148087",
@@ -2462,24 +2403,6 @@
           "id": "148420",
           "name": "Hinchinbrook Island National Park",
           "url": "https://parks.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
-      "title": "Temporary partial closure: Heritage and Forest walking trails, Wongabel State Forest",
-      "alert_id": "25777",
-      "url": "https://parks.qld.gov.au/park-alerts/25777",
-      "description": "Wongabel State Forest walking trails will be partially closed from Thursday 25 September 2025 to Friday 3 October 2025 (dates inclusive), due to maintenance works to fix damage sustained from ex-Tropical Cyclone Jasper.",
-      "details": "<p>Wongabel State Forest walking trails will be partially closed from Thursday 25 September 2025 to Friday 3 October 2025 (dates inclusive), due to maintenance works to fix damage sustained from ex-Tropical Cyclone Jasper.</p> <p>Partially closed walking trails include:</p> <ul> <li>Forest walk</li> <li>Heritage walk.</li> </ul> <p>Throughout the works period, contractors will progressively work along the trails, closing and reopening sections. Please note, it will not be possible to walk these trails as a circuit, you will need to return the way you came.&nbsp;</p> <p>Please adhere to all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-09-30",
-      "start_effective_date": "2025-09-25",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148283",
-          "name": "Wongabel State Forest",
-          "url": "https://parks.qld.gov.au/parks/wongabel"
         }
       ]
     },
@@ -2685,24 +2608,6 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/barron-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activity: Black Mountain Road, Kuranda National Park and Mowbray National Park",
-      "alert_id": "25791",
-      "url": "https://parks.qld.gov.au/park-alerts/25791",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burning activity in Kuranda National Park and Mowbray National Park along Black Mountain Road on Thursday 2 October 2025. Smoke and fire crews may be seen on Black Mountain Road.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burning activity in Kuranda National Park and Mowbray National Park along Black Mountain Road on Thursday 2 October 2025. Smoke and fire crews may be seen on Black Mountain Road.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities.</p>",
-      "category": "Announcement",
-      "start_date": "2025-09-29",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
         }
       ]
     },
@@ -3063,29 +2968,6 @@
       ]
     },
     {
-      "title": "FIRE BAN",
-      "alert_id": "25806",
-      "url": "https://parks.qld.gov.au/park-alerts/25806",
-      "description": "Queensland Fire and Emergency have declared a Local FIRE Ban for the 24-hour period covering Thursday 2nd October. The ban comes into effect form 00:00hrs to 23:59hrs.",
-      "details": "<p>Queensland Fire and Emergency have declared a Local FIRE Ban for the 24-hour period covering Thursday 2nd October. The ban comes into effect form 00:00hrs to 23:59hrs.</p> <h2>THE LIGHTING OF FIRES IS PROHIBITED.</h2> <p>All open fires are prohibited within the National Park including all camping and day use areas.</p> <p>This ban is for the Gladstone LGA as well as surrounding LGA&#39;s.&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-01",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        },
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
-        }
-      ]
-    },
-    {
       "title": "Bushfire alert for Barakula State Forest",
       "alert_id": "25807",
       "url": "https://parks.qld.gov.au/park-alerts/25807",
@@ -3156,57 +3038,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban - Bundaberg and Gladstone Regional Council areas",
-      "alert_id": "25810",
-      "url": "https://parks.qld.gov.au/park-alerts/25810",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Burrum Coast National Park</p> <p>- Bulburin National Park</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-02",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.qld.gov.au/parks/bulburin"
-        },
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban - North Burnett and Gladstone Regional Council areas",
-      "alert_id": "25811",
-      "url": "https://parks.qld.gov.au/park-alerts/25811",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Kroombit Tops National Park</p> <p>- Auburn River National Park</p> <p>- Kalpowar State Forest</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-02",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-03",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
-        },
-        {
-          "id": "148255",
-          "name": "Kalpowar State Forest",
-          "url": "https://parks.qld.gov.au/parks/kalpowar"
-        },
-        {
-          "id": "148476",
-          "name": "Auburn River National Park",
-          "url": "https://parks.qld.gov.au/parks/auburn-river"
         }
       ]
     },
@@ -3383,6 +3214,42 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Kroombit Tops National Park",
+      "alert_id": "25821",
+      "url": "https://parks.qld.gov.au/park-alerts/25821",
+      "description": "Due to current bushfire activity, some areas are temporarily closed in Kroombit Tops National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.",
+      "details": "<p>Due to current bushfire activity, some areas are temporarily closed in Kroombit Tops National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.</p> <p>Closed areas: [insert closed areas below]</p> <p>&middot; The Razorback Track</p> <p>&middot; Clewleys Gap Rd. The park access from the Monto side to the Lookout.</p> <p>&nbsp;Currently Kroombit Tops Lookout, The bomber crash site, The Wall day use area and Griffiths Creek campground are still open.</p> <p>Visibility in some areas may be restricted due to smoke.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-04",
+      "start_effective_date": "2025-10-04",
+      "end_date": "2025-10-11",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Gheebulum Kunungai (Moreton Island) National Park",
+      "alert_id": "25822",
+      "url": "https://parks.qld.gov.au/park-alerts/25822",
+      "description": "Bushfire alert for Gheebulum Kunungai (Moreton Island) National Park Due to a current bushfire, some areas are temporarily closed in Gheebulum Kunungai (Moreton Island) National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe",
+      "details": "<p>Bushfire alert for Gheebulum Kunungai (Moreton Island) National Park Due to a current bushfire, some areas are temporarily closed in Gheebulum Kunungai (Moreton Island) National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe</p> <p><strong>Closed areas:</strong></p> <ul> <li>Telegraph and Tempest Track</li> <li>Eagers and Midnight Track</li> <li>Blue Lagoon Road</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>To report any bushfires, call Triple Zero (000)</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-04",
+      "start_effective_date": "2025-10-04",
+      "end_date": "2025-10-07",
+      "parks": [
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
         }
       ]
     }
