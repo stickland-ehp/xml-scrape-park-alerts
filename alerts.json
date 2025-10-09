@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2025-10-08 10:09:53"
+    "alerts_count": 159,
+    "script_run_time": "2025-10-09 10:10:08"
   },
   "alerts": [
     {
@@ -1114,9 +1114,9 @@
       "alert_id": "25173",
       "url": "https://parks.qld.gov.au/park-alerts/25173",
       "description": "From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.",
-      "details": "<p>From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.</p> <p>During this period all wheelchair accessible facilities and access points will be temporarily closed. Alternative accessible amenities are located opposite the Turtle Rock Caf&eacute; next to the playground (Wenden&rsquo;s Wonderland), a short drive away.</p> <p>Please see below for further details of impacted visitor facilities:<strong>&nbsp;</strong></p> <p><strong>Dubuji Boardwalk</strong></p> <ul> <li>The main access will be closed to the public</li> </ul> <ul> <li>The boardwalk can be accessed via a link from Myall Beach track and completed as a return walk</li> </ul> <p><strong>Dubuji amenity block</strong></p> <ul> <li>Closed to the public</li> <li>Visitors are asked to use alternative amenity block situated next to the playground (Wenden&rsquo;s Wonderland) located to the North via a 200m walking track from the Dubuji car park.</li> </ul> <p><strong>Dubuji day-use area</strong></p> <ul> <li>Open</li> <li>Parking spaces for buses will be reduced</li> </ul> <p><strong>Myall Beach</strong></p> <ul> <li>Access possible via the Dubuji day-use area</li> </ul> <p>For your safety, obey all safety and directional signs and do not enter the construction site.</p>",
+      "details": "<p>From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.</p> <p>During this period all wheelchair accessible facilities and access points will be temporarily closed. Alternative accessible amenities are located to the North opposite the Turtle Rock Caf&eacute; next to the playground (Wenden&rsquo;s Wonderland), a short drive away.</p> <p>On Monday 13 October and Tuesday 14 October 2025, the walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge.</p> <p>Please see below for further details of impacted visitor facilities:<strong>&nbsp;</strong></p> <p><strong>Dubuji Boardwalk</strong></p> <ul> <li>The main access will be closed to the public</li> </ul> <ul> <li>The boardwalk can be accessed via a link from Myall Beach track and completed as a return walk</li> </ul> <p><strong>Dubuji amenity block</strong></p> <ul> <li>Closed to the public</li> <li>Visitors are asked to use the alternative amenity block located to the North&nbsp;next to the playground (Wenden&rsquo;s Wonderland) a short drive away. On Monday 13 October and Tuesday 14 October 2025 the&nbsp;200m walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge.</li> </ul> <p><strong>Dubuji day-use area</strong></p> <ul> <li>Open</li> <li>Parking spaces for buses will be reduced</li> </ul> <p><strong>Myall Beach</strong></p> <ul> <li>Access possible via the Dubuji day-use area</li> </ul> <p>For your safety, obey all safety and directional signs and do not enter the construction site.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-06-20",
+      "start_date": "2025-10-09",
       "start_effective_date": "2025-04-11",
       "end_date": "2025-11-30",
       "parks": [
@@ -3219,6 +3219,24 @@
       ]
     },
     {
+      "title": "Wet season closure: Tagalaka National Park",
+      "alert_id": "25834",
+      "url": "https://parks.qld.gov.au/park-alerts/25834",
+      "description": "Tagalaka National Park is closed for the wet season. It is anticipated to reopen on 1 April 2024, subject to weather and road conditions.",
+      "details": "<p>Tagalaka National Park is closed for the wet season. It is anticipated to reopen on 1 April 2024, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-09",
+      "start_effective_date": "2025-10-01",
+      "end_date": "2026-03-31",
+      "parks": [
+        {
+          "id": "405267",
+          "name": "Tagalaka National Park",
+          "url": "https://parks.qld.gov.au/parks/tagalaka"
+        }
+      ]
+    },
+    {
       "title": "Heavy machine works: Keatings Lagoon access road, Keatings Lagoon Conservation Park",
       "alert_id": "25835",
       "url": "https://parks.qld.gov.au/park-alerts/25835",
@@ -3233,6 +3251,88 @@
           "id": "148844",
           "name": "Keatings Lagoon Conservation Park",
           "url": "https://parks.qld.gov.au/parks/keatings-lagoon"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Bedford creek area, Gulngay National Park",
+      "alert_id": "25836",
+      "url": "https://parks.qld.gov.au/park-alerts/25836",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the Bedford creek area, within the southern section of Gulngay National Park, between Tuesday 14 October and Friday 31 October 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning activities in the Bedford creek area, within the southern section of Gulngay National Park, between Tuesday 14 October and Friday 31 October 2025 (weather permitting).</p> <p>Smoke may impact areas in the vicinity of Bedford Creek road, Rockingham and the Bedford landing boat ramp.<em> </em></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-09",
+      "start_effective_date": "2025-10-09",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "322261",
+          "name": "Gulngay National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure Kulki boardwalk and lookout, Cape Tribulation section of Daintree National Park (CYPAL).",
+      "alert_id": "25837",
+      "url": "https://parks.qld.gov.au/park-alerts/25837",
+      "description": "Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).",
+      "details": "<p>Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).</p> <p>Contractors will be undertaking remedial works following damage from ex-Tropical Cyclone Jasper.</p> <p>The Kulki day-use area will remain open during this time.</p> <p>Visitors are reminded to follow all onsite closure signage and directions from rangers.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-09",
+      "start_effective_date": "2025-10-17",
+      "end_date": "2025-11-03",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Pest Management Control Program - Southend Conservation Park, Curtis Island National Park, Conservation Park, and State Forest.",
+      "alert_id": "25838",
+      "url": "https://parks.qld.gov.au/park-alerts/25838",
+      "description": "Queensland Parks and Wildlife Service (QPWS) are planning to conduct a Feral Animal Control Program from Wednesday 5 November to Friday 14 November 2025. The program will include leghold trapping in the southern section of Curtis Island National Park and Southend Conservation Park targeting foxes, wild dogs, and feral cats. Additionally, ground shooting activities targeting feral pigs will be undertaken further north within Curtis Island National Park, Curtis Island Conservation Park, and Curtis Island State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are planning to conduct a Feral Animal Control Program from Wednesday 5 November to Friday 14 November 2025. The program will include leghold trapping in the southern section of Curtis Island National Park and Southend Conservation Park targeting foxes, wild dogs, and feral cats. Additionally, ground shooting activities targeting feral pigs will be undertaken further north within Curtis Island National Park, Curtis Island Conservation Park, and Curtis Island State Forest.</p> <p>These measures are being implemented to protect Flatback Turtle and Yellow Chat habitats and to reduce predation by feral animals, including foxes, wild dogs, feral cats and feral pigs. QPWS will be installing a number of warning signs within the area informing residents and visitors that traps and firearms will be used within the dune system and other areas within Southend Conservation Park.</p> <p>To ensure the safety of the public, the following areas are<strong> temporarily closed</strong> for the duration of the pest management program:</p> <ul> <li>Multi Use Trails 1 and 2</li> <li>No access is permitted in the Southend Conservation Park and Southern National Park above the high-water mark</li> <li>The protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground during the above dates.&nbsp;</li> </ul> <p><strong>Access will remain open</strong> to Campgrounds and Day Use Areas via main roads and tracks to Joey Lees Campground, North Turtle Street Day Use Area, Turtle Street Campground, Connor Bluff Day use Area, Graham Creek Boat Ramp, Ship Hill Lookout and Multi use Trails <strong>excluding</strong> Trails 1 and 2.&nbsp;</p> <p>Should you have any queries in relation to this matter, please call 0400 381 244.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-09",
+      "start_effective_date": "2025-11-05",
+      "end_date": "2025-11-14",
+      "parks": [
+        {
+          "id": "322718",
+          "name": "Southend Conservation Park",
+          "url": ""
+        },
+        {
+          "id": "322464",
+          "name": "Curtis Island State Forest",
+          "url": ""
+        },
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: Madja boardwalk, Cape Tribulation section, Daintree National Park (CYPAL)",
+      "alert_id": "25839",
+      "url": "https://parks.qld.gov.au/park-alerts/25839",
+      "description": "The Madja Boardwalk will be partially closed on Monday 20 October and Tuesday 21 October 2025, due to pressure cleaning works.",
+      "details": "<p>The Madja Boardwalk will be partially closed on Monday 20 October and Tuesday 21 October 2025, due to pressure cleaning works.</p> <p>Works will be completed in 2 sections, allowing for half of the boardwalk to remain open at all times. Please note: it will not be possible to walk this track as a circuit, you will need to return the way you came. Access to the lookout may also be restricted.</p> <p>Visitors are reminded to adhere to onsite closure signage and directions from rangers.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-09",
+      "start_effective_date": "2025-10-20",
+      "end_date": "2025-10-21",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
         }
       ]
     }
