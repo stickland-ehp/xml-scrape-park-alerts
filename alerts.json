@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 149,
-    "script_run_time": "2025-10-11 10:08:21"
+    "alerts_count": 147,
+    "script_run_time": "2025-10-12 10:08:32"
   },
   "alerts": [
     {
@@ -2635,42 +2635,6 @@
           "id": "148295",
           "name": "Eungella National Park",
           "url": "https://parks.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
-      "title": "Open with caution: Park Palmerston National Park",
-      "alert_id": "25818",
-      "url": "https://parks.qld.gov.au/park-alerts/25818",
-      "description": "Cape Palmerston National Park is open with caution. QPWS fire-trained Rangers, Queensland Fire Department personnel and private landholders have worked closely together to contain the bushfire that entered the national park.",
-      "details": "<p>Cape Palmerston National Park is open with caution. QPWS fire-trained Rangers, Queensland Fire Department personnel and private landholders have worked closely together to contain the bushfire that entered the national park.</p> <p>QPWS Rangers will continue to patrol the national park to ensure the fire remains secured within containment lines.</p> <p>Visitors to the national park must remain alert. Please observe all signage, barriers and follow directions from QPWS Rangers.</p> <p>For your safety, do not enter closed areas.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility opening",
-      "start_date": "2025-10-06",
-      "start_effective_date": "2025-10-06",
-      "end_date": "2025-10-11",
-      "parks": [
-        {
-          "id": "148832",
-          "name": "Cape Palmerston National Park",
-          "url": "https://parks.qld.gov.au/parks/cape-palmerston"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Kroombit Tops National Park",
-      "alert_id": "25821",
-      "url": "https://parks.qld.gov.au/park-alerts/25821",
-      "description": "Due to current bushfire activity, some areas are temporarily closed in Kroombit Tops National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.",
-      "details": "<p>Due to current bushfire activity, some areas are temporarily closed in Kroombit Tops National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.</p> <p>Closed areas: [insert closed areas below]</p> <p>&middot; The Razorback Track</p> <p>&middot; Clewleys Gap Rd. The park access from the Monto side to the Lookout.</p> <p>&nbsp;Currently Kroombit Tops Lookout, The bomber crash site, The Wall day use area and Griffiths Creek campground are still open.</p> <p>Visibility in some areas may be restricted due to smoke.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-04",
-      "start_effective_date": "2025-10-04",
-      "end_date": "2025-10-11",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
         }
       ]
     },
