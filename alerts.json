@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 153,
-    "script_run_time": "2025-10-14 10:10:40"
+    "alerts_count": 157,
+    "script_run_time": "2025-10-15 10:10:42"
   },
   "alerts": [
     {
@@ -1078,9 +1078,9 @@
       "alert_id": "25173",
       "url": "https://parks.qld.gov.au/park-alerts/25173",
       "description": "From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.",
-      "details": "<p>From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.</p> <p>During this period all wheelchair accessible facilities and access points will be temporarily closed. Alternative accessible amenities are located to the North opposite the Turtle Rock Caf&eacute; next to the playground (Wenden&rsquo;s Wonderland), a short drive away.</p> <p>On Monday 13 October and Tuesday 14 October 2025, the walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge.</p> <p>Please see below for further details of impacted visitor facilities:<strong>&nbsp;</strong></p> <p><strong>Dubuji Boardwalk</strong></p> <ul> <li>The main access will be closed to the public</li> </ul> <ul> <li>The boardwalk can be accessed via a link from Myall Beach track and completed as a return walk</li> </ul> <p><strong>Dubuji amenity block</strong></p> <ul> <li>Closed to the public</li> <li>Visitors are asked to use the alternative amenity block located to the North&nbsp;next to the playground (Wenden&rsquo;s Wonderland) a short drive away. On Monday 13 October and Tuesday 14 October 2025 the&nbsp;200m walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge</li> </ul> <p><strong>Dubuji day-use area</strong></p> <ul> <li>Open - However, please note the&nbsp;tables will be closed for maintenance on Wednesday 22 October 2025</li> <li>Parking spaces for buses will be reduced</li> </ul> <p><strong>Myall Beach</strong></p> <ul> <li>Access possible via the Dubuji day-use area</li> </ul> <p>For your safety, obey all safety and directional signs and do not enter the construction site.</p>",
+      "details": "<p>From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.</p> <p>During this period all wheelchair accessible facilities and access points will be temporarily closed. Alternative accessible amenities are located to the North opposite the Turtle Rock Caf&eacute; next to the playground (Wenden&rsquo;s Wonderland), a short drive away.</p> <p>Between Monday 13 October and Friday 17 October 2025, the walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge.</p> <p>Please see below for further details of impacted visitor facilities:<strong>&nbsp;</strong></p> <p><strong>Dubuji Boardwalk</strong></p> <ul> <li>The main access will be closed to the public</li> </ul> <ul> <li>The boardwalk can be accessed via a link from Myall Beach track and completed as a return walk</li> </ul> <p><strong>Dubuji amenity block</strong></p> <ul> <li>Closed to the public</li> <li>Visitors are asked to use the alternative amenity block located to the North&nbsp;next to the playground (Wenden&rsquo;s Wonderland) a short drive away. Between&nbsp;Monday 13 October and Friday&nbsp;17&nbsp;October 2025 the&nbsp;200m walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge</li> </ul> <p><strong>Dubuji day-use area</strong></p> <ul> <li>Open - However, please note the&nbsp;tables will be closed for maintenance on Wednesday 22 October 2025</li> <li>Parking spaces for buses will be reduced</li> </ul> <p><strong>Myall Beach</strong></p> <ul> <li>Access possible via the Dubuji day-use area</li> </ul> <p>For your safety, obey all safety and directional signs and do not enter the construction site.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-10",
+      "start_date": "2025-10-15",
       "start_effective_date": "2025-04-11",
       "end_date": "2025-11-30",
       "parks": [
@@ -1106,6 +1106,24 @@
           "id": "148961",
           "name": "Magnetic Island National Park",
           "url": "https://parks.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "No Tank Water- Archer Camp Ground",
+      "alert_id": "25219",
+      "url": "https://parks.qld.gov.au/park-alerts/25219",
+      "description": "Due to damage to the water tank at Archer Campground caused by ex-tropical cyclone Alfred, there is no water available for general use. This has not impacted the toilet facilities. We apologise for any inconvenience caused. QPWS &amp;P are endeavouring to have this issue rectified by the end of September.",
+      "details": "<p>Due to damage to the water tank at Archer Campground caused by ex-tropical cyclone Alfred, there is no water available for general use. This has not impacted the toilet facilities. We apologise for any inconvenience caused. QPWS &amp;P are endeavouring to have this issue rectified by the end of September.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-15",
+      "start_effective_date": "2025-04-24",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -1382,12 +1400,12 @@
       "title": "Beach camping zone 9  Diray and Carree CLOSED",
       "alert_id": "25452",
       "url": "https://parks.qld.gov.au/park-alerts/25452",
-      "description": "Beach camping zone 9 (Diray and Carree) is temporarily closed till 31 October 2025. This temporary closure is required due to severe erosion and fallen trees caused by large tides and ocean swell resulting in a reduction of accessible camp sites within the zone.",
-      "details": "<p>Beach camping zone 9 (Diray and Carree) is temporarily closed till 31 October 2025. This temporary closure is required due to severe erosion and fallen trees caused by large tides and ocean swell resulting in a reduction of accessible camp sites within the zone.</p> <p>All permits for Beach camping zone 9 (Diray and Carree) are suspended for the duration of the closure. If you have an existing booking please cancel and request a refund online for your existing Queensland National Parks camping or vehicle access booking/s&nbsp;<strong>&nbsp;</strong><a href=\"http://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\"><strong>parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking</strong></a></p> <p>Alternate camping areas may be available in Beach camping Zone 8 (Marloo, Ocean Lake and Duling).</p> <p>Sections between Ngkala Rocks and Sandy Cape may be impassable. Motorists are advised to exercise caution at all times, plan ahead by checking tide times, and only travel around the lowest expected low tide, if safe to do so.</p> <p>Rangers will continue to monitor the conditions and reopen the camping zone when deemed safe.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Beach camping zone 9 (Diray and Carree) is temporarily closed till 31 January 2025. This temporary closure is required due to severe erosion and fallen trees caused by large tides and ocean swell resulting in a reduction of accessible camp sites within the zone.",
+      "details": "<p>Beach camping zone 9 (Diray and Carree) is temporarily closed till 31 January 2025. This temporary closure is required due to severe erosion and fallen trees caused by large tides and ocean swell resulting in a reduction of accessible camp sites within the zone.</p> <p>All permits for Beach camping zone 9 (Diray and Carree) are suspended for the duration of the closure. If you have an existing booking please cancel and request a refund online for your existing Queensland National Parks camping or vehicle access booking/s&nbsp;<strong>&nbsp;</strong><a href=\"http://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\"><strong>parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking</strong></a></p> <p>Alternate camping areas may be available in Beach camping Zone 8 (Marloo, Ocean Lake and Duling).</p> <p>Sections between Ngkala Rocks and Sandy Cape may be impassable. Motorists are advised to exercise caution at all times, plan ahead by checking tide times, and only travel around the lowest expected low tide, if safe to do so.</p> <p>Rangers will continue to monitor the conditions and reopen the camping zone when deemed safe.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-07-22",
+      "start_date": "2025-10-15",
       "start_effective_date": "2025-06-20",
-      "end_date": "2025-10-31",
+      "end_date": "2026-01-31",
       "parks": [
         {
           "id": "152843",
@@ -2041,12 +2059,12 @@
       "title": "Planned burning activities: Murray Falls section, Girramay National Park",
       "alert_id": "25735",
       "url": "https://parks.qld.gov.au/park-alerts/25735",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting burning operations within Girramay National Park until mid October 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting burning operations within Girramay National Park until mid October 2025.</p> <p>Subject to favourable weather, burning will occur around Murray Falls, Jumbun and Winter Falls.</p> <p>Some burns will target ridges and hilltops with smoke visible on the upper ranges around Bilyana track area.</p> <p>Burning is expected to cease in late October 2025.</p> <p>All facilities including Murray Falls camping area remain open, however smoke may be seen in the vicinity.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting burning operations within Girramay National Park up to and including Friday 31 October 2025.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting burning operations within Girramay National Park up to and including Friday 31 October 2025.</p> <p>Subject to favourable weather, burning will occur around Murray Falls, Jumbun and Winter Falls.</p> <p>Some burns will target ridges and hilltops with smoke visible on the upper ranges around Bilyana track area.</p> <p>All facilities including Murray Falls camping area remain open, however smoke may be seen in the vicinity.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-09-30",
+      "start_date": "2025-10-15",
       "start_effective_date": "2025-09-11",
-      "end_date": "2025-10-20",
+      "end_date": "2025-10-31",
       "parks": [
         {
           "id": "148127",
@@ -2508,24 +2526,6 @@
           "id": "149465",
           "name": "Ex-HMAS Brisbane Conservation Park",
           "url": "https://parks.qld.gov.au/parks/ex-hmas-brisbane"
-        }
-      ]
-    },
-    {
-      "title": "Local fire ban: Central Highlands Regional area, Blackdown Tableland National Park",
-      "alert_id": "25816",
-      "url": "https://parks.qld.gov.au/park-alerts/25816",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for the Central Highlands Regional Council area which includes Blackdown Tableland National Park.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for the Central Highlands Regional Council area which includes Blackdown Tableland National Park.</p> <p>The QFD fire ban applies from 0100hrs 8 October 2025 to 2359hrs 14 October 2025.</p> <p>Check current&nbsp;<a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans and Restrictions</a>&nbsp;declared by QFD.</p> <p>Until further notice,&nbsp;<strong>open fires must not be lit&nbsp;</strong>anywhere in Blackdown Tableland National Park.</p> <p>The following are&nbsp;<strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>For your safety please obey all fire restrictions. Failure to adhere by restrictions will result in Penalty Infringement Notice being issued.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-08",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-14",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
         }
       ]
     },
@@ -3004,13 +3004,13 @@
       ]
     },
     {
-      "title": "Temporary camping area closure due to bushfire: Langi section, Oyala Thumotang National Park (CYPAL)",
+      "title": "Temporary closure due to bushfire: Oyala Thumotang National Park (CYPAL)",
       "alert_id": "25848",
       "url": "https://parks.qld.gov.au/park-alerts/25848",
-      "description": "A bushfire is currently active in the Langi section of Oyala Thumotang National Park (CYPAL) and is expected to be so for some days to come.",
-      "details": "<p>A bushfire is currently active in the Langi section of Oyala Thumotang National Park (CYPAL) and is expected to be so for some days to come.</p> <p>For public safety, the following camping areas are closed:</p> <p>10 Mile Junction</p> <p>Twin Lagoons</p> <p>Jerry Lagoon</p> <p>Old Archer Crossing</p> <p>While the rest of the park remains open, please remain alert for smoke and be prepared to leave if conditions change.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "A bushfire is currently active in Oyala Thumotang National Park (CYPAL) and is expected to be so for some days to come.",
+      "details": "<p>A bushfire is currently active in Oyala Thumotang National Park (CYPAL) and is expected to be so for some days to come.</p> <p>For public safety, all camping areas are closed:</p> <p>Please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online for your existing camping booking.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-10-14",
+      "start_date": "2025-10-15",
       "start_effective_date": "2025-10-14",
       "end_date": "2025-10-20",
       "parks": [
@@ -3018,6 +3018,29 @@
           "id": "148933",
           "name": "Oyala Thumotang National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/oyala-thumotang"
+        }
+      ]
+    },
+    {
+      "title": "Heli-lifting from Mulligan Falls camping area",
+      "alert_id": "25849",
+      "url": "https://parks.qld.gov.au/park-alerts/25849",
+      "description": "QPWS will be heli-lifting materials and equipment out of Mulligan Falls camping area the morning of Wednesday 22 October.",
+      "details": "<p>QPWS will be heli-lifting materials and equipment out of Mulligan Falls camping area the morning of Wednesday 22 October.</p> <p>Thorsborne Trail hikers arriving/staying at Mulligan Falls when heli-lifting is occurring may be given safety directives by Rangers during each helicopter pickup and may need to wait until the helicopter is away from the site before being able to access into/out of the camping area and the toilet. It is anticipated that this should not exceed a few minutes&rsquo; wait.</p> <p>QPWS apologises for any inconvenience caused and appreciates your patience in supporting this important upgrade. &nbsp;</p> <p>For further information about the project visit <a href=\"https://qld.gov.au/ThorsborneTrailProject\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-15",
+      "start_effective_date": "2025-10-22",
+      "end_date": "2025-10-22",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
         }
       ]
     },
@@ -3090,6 +3113,90 @@
           "id": "151363",
           "name": "Princess Hills, Girringun National Park",
           "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming temporary camping area and walking track closure: Wallaman Falls and Wet Tropics Great Walk, Girringun National Park",
+      "alert_id": "25854",
+      "url": "https://parks.qld.gov.au/park-alerts/25854",
+      "description": "Wallaman Falls camping area is anticipated to temporarily close for redevelopment from Friday 28 November 2025 to 10 April 2026 (dates inclusive). Access to the Wallaman Falls lookout and adjacent day-use area will remain open during this period.",
+      "details": "<p>Wallaman Falls camping area is anticipated to temporarily close for redevelopment from Friday 28 November 2025 to 10 April 2026 (dates inclusive). Access to the Wallaman Falls lookout and adjacent day-use area will remain open during this period.</p> <p><strong>Temporary closure includes:</strong></p> <ul> <li>Wallaman Falls camping area and creek access</li> <li>Pack Trail walkers&rsquo; camp</li> <li>Banggurru walking track &nbsp;</li> <li>Wet Tropics Great Walk between Wallaman Falls camping area and Yamanie turn-off at Herbert River (during this period walkers can begin the Wet Tropic Great Walk at Yamanie pick-up point or Henrietta gate pick-up point).</li> </ul> <p>For your safety, please adhere to all safety signs and do not enter the construction site as machinery may be in operation.</p> <p><strong>Future bookings:</strong></p> <p>Due to changes being made to the camping area configuration, bookings after Thursday 27 November are not possible. Bookings will resume closer to the camping area reopening date.</p> <p><strong>Please monitor this park alert for current information as it will be updated with more information as works progress.</strong></p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-15",
+      "start_effective_date": "2025-11-28",
+      "end_date": "2026-04-10",
+      "parks": [
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "149453",
+          "name": "Wallaman Falls, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun-wallaman"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Drive with care during marine turtle nesting season",
+      "alert_id": "25856",
+      "url": "https://parks.qld.gov.au/park-alerts/25856",
+      "description": "From November to May, you may see turtles crossing the beach to lay their eggs or hatchlings making their way from nest to ocean for the first time. Motorists and visitors to Bribie Island National Park and Recreation Area are asked to minimise disturbance and human impacts to nesting marine turtles.",
+      "details": "<p>From November to May, you may see turtles crossing the beach to lay their eggs or hatchlings making their way from nest to ocean for the first time. Motorists and visitors to Bribie Island National Park and Recreation Area are asked to minimise disturbance and human impacts to nesting marine turtles.</p> <p>When driving on the beach:</p> <ul> <li>Plan to travel at 2 hours either side of low tide. Keep to the hard sand well below the high tide line to avoid making wheel ruts that create barriers to hatchling movement down the beach.</li> <li>Avoid driving on the beach at night. This is when turtles will lay their eggs, and hatchlings are most likely to be emerging. Exercise caution and look out for turtles and turtle hatchlings when traversing on the beach.</li> <li>If turtles are making their way across the beach - slow down, stop and wait for the turtles to reach the ocean or the dunes.&nbsp;On-the-spot fines apply to visitors disturbing turtle hatchlings or turtle nests.</li> <li>Driving over vegetated dunes is dangerous and prohibited. It is damaging to the environment and can impact turtle nests, on-the-spot fines apply.</li> </ul> <p><strong>&lsquo;Cut the glow to help turtles go&rsquo;.</strong> Artificial lights can affect a turtle&rsquo;s ability to see the natural horizon over the ocean. Hatchlings can become disoriented, veer from their natural path and head towards the artificial light. When camping during the nesting season you can help cut the glow of lights affecting beaches by switching off unnecessary lights on the beach after 7.30pm.</p> <p>Observe all signage, barriers and directions from rangers.</p> <p>To report marine animal strandings (of sick, injured or dead turtles, dolphin, dugongs or whales) call the&nbsp;<strong>1300&nbsp;130&nbsp;372.</strong></p> <p>For your safety please avoid interaction with the wildlife.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-15",
+      "start_effective_date": "2025-11-01",
+      "end_date": "2026-05-31",
+      "parks": [
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
+      "title": "Fire prohibition in place",
+      "alert_id": "25857",
+      "url": "https://parks.qld.gov.au/park-alerts/25857",
+      "description": "A fire prohibition is active from 12/09/2025 until further notice due to dry conditions and the increased risk of bushfire.",
+      "details": "<p>A fire prohibition is active from 12/09/2025 until further notice due to dry conditions and the increased risk of bushfire.</p> <h3>Fires <strong>must not be</strong> lit anywhere in:</h3> <ul> <li>Porcupine Gorge National Park</li> <li>White Mountains National Park</li> <li>Blackbraes National Park</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the below requirements are permitted.</p> <p><strong>The appliance:</strong></p> <p>&middot; Must use gas or manufactured fuel (eg. briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</p> <p>&middot; Must be used only for cooking and/or heating.</p> <p>&middot; Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</p> <p>&middot; Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</p> <p>&middot; Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</p> <p>Appliances that are not fully self-contained, such as braziers, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p><strong>To report any bushfires, call Triple Zero (000)</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Other",
+      "start_date": "2025-10-15",
+      "start_effective_date": "2025-10-18",
+      "end_date": "2026-01-09",
+      "parks": [
+        {
+          "id": "148604",
+          "name": "Blackbraes National Park",
+          "url": "https://parks.qld.gov.au/parks/blackbraes"
+        },
+        {
+          "id": "148796",
+          "name": "White Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/white-mountains"
+        },
+        {
+          "id": "148856",
+          "name": "Porcupine Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/porcupine-gorge"
         }
       ]
     }
