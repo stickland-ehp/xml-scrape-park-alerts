@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 155,
-    "script_run_time": "2025-10-17 10:09:53"
+    "alerts_count": 149,
+    "script_run_time": "2025-10-18 10:08:31"
   },
   "alerts": [
     {
@@ -2074,54 +2074,6 @@
       ]
     },
     {
-      "title": "Local fire ban, national parks, in the Savanna area",
-      "alert_id": "25744",
-      "url": "https://parks.qld.gov.au/park-alerts/25744",
-      "description": "A fire prohibition is active from 12/09/2025 until further notice due to the current weather forecast and increased risk of bushfire.",
-      "details": "<p>A fire prohibition is active from 12/09/2025 until further notice due to the current weather forecast and increased risk of bushfire.</p> <p>Fires must not be lit anywhere in:</p> <ul> <li>Forest Den NP</li> <li>Boodjamulla NP (AL) all sections&nbsp;</li> <li>White Mountains National Park</li> <li>Porcupine Gorge National Park</li> <li>Moorinya National Park</li> <li>Dalrymple National Park.</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the requirements below are permitted.</p> <p>The appliance:</p> <ul> <li>Must use gas or manufactured fuel (eg, briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</li> <li>Must be used only for cooking and/or heating.</li> <li>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</li> <li>Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</li> <li>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> </ul> <p>Appliances that are not fully self-contained, such as a brazier, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p><strong>To report any bushfires, call Triple Zero (000).</strong></p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-01",
-      "start_effective_date": "2025-09-11",
-      "end_date": "2025-10-17",
-      "parks": [
-        {
-          "id": "148456",
-          "name": "Forest Den National Park",
-          "url": "https://parks.qld.gov.au/parks/forest-den"
-        },
-        {
-          "id": "150272",
-          "name": "Lawn Hill Gorge, Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.qld.gov.au/parks/boodjamulla-lawn-hill"
-        },
-        {
-          "id": "148604",
-          "name": "Blackbraes National Park",
-          "url": "https://parks.qld.gov.au/parks/blackbraes"
-        },
-        {
-          "id": "148207",
-          "name": "Moorrinya National Park",
-          "url": "https://parks.qld.gov.au/parks/moorrinya"
-        },
-        {
-          "id": "148856",
-          "name": "Porcupine Gorge National Park",
-          "url": "https://parks.qld.gov.au/parks/porcupine-gorge"
-        },
-        {
-          "id": "148796",
-          "name": "White Mountains National Park",
-          "url": "https://parks.qld.gov.au/parks/white-mountains"
-        },
-        {
-          "id": "148103",
-          "name": "Dalrymple National Park",
-          "url": "https://parks.qld.gov.au/parks/dalrymple"
-        }
-      ]
-    },
-    {
       "title": "Limited parking at Cedar Creek",
       "alert_id": "25746",
       "url": "https://parks.qld.gov.au/park-alerts/25746",
@@ -2366,47 +2318,6 @@
       ]
     },
     {
-      "title": "Local fire ban, national parks in the Lower Burdekin area",
-      "alert_id": "25805",
-      "url": "https://parks.qld.gov.au/park-alerts/25805",
-      "description": "A fire prohibition is active from 01/10/2025 until further notice due to the current weather forecast and increased risk of bushfire.",
-      "details": "<p>A fire prohibition is active from 01/10/2025 until further notice due to the current weather forecast and increased risk of bushfire.</p> <p>Fires must not be lit anywhere in:</p> <ul> <li>Bowling Green Bay National Park.</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the requirements below are permitted.</p> <p>The appliance:</p> <ul> <li>Must use gas or manufactured fuel (eg, briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</li> <li>Must be used only for cooking and/or heating.</li> <li>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</li> <li>Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</li> <li>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> </ul> <p>Appliances that are not fully self-contained, such as a brazier, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply.</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.</p> <p><strong>To report any bushfires, call Triple Zero (000).</strong></p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-01",
-      "start_effective_date": "2025-10-01",
-      "end_date": "2025-10-17",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban Eurimbula National Park and Deepwater National Park",
-      "alert_id": "25806",
-      "url": "https://parks.qld.gov.au/park-alerts/25806",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Gladstone Council which includes the above parks within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Gladstone Council which includes the above parks within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>Eurimbula National Park</li> <li>Deepwater National Park</li> </ul> <p>The following are&nbsp;<strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves,&nbsp;<strong>are permitted</strong>&nbsp;to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-14",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-17",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        },
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
-        }
-      ]
-    },
-    {
       "title": "Carnarvon Great Walk (Overnight hike) - Closure",
       "alert_id": "25808",
       "url": "https://parks.qld.gov.au/park-alerts/25808",
@@ -2421,57 +2332,6 @@
           "id": "148864",
           "name": "Carnarvon Gorge, Carnarvon National Park",
           "url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban - Bundaberg and Gladstone Regional Council areas",
-      "alert_id": "25810",
-      "url": "https://parks.qld.gov.au/park-alerts/25810",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Burrum Coast National Park</p> <p>- Bulburin National Park</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-13",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-17",
-      "parks": [
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.qld.gov.au/parks/bulburin"
-        },
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban - North Burnett and Gladstone Regional Council areas",
-      "alert_id": "25811",
-      "url": "https://parks.qld.gov.au/park-alerts/25811",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Kroombit Tops National Park</p> <p>- Auburn River National Park</p> <p>- Kalpowar State Forest</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-14",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-17",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
-        },
-        {
-          "id": "148255",
-          "name": "Kalpowar State Forest",
-          "url": "https://parks.qld.gov.au/parks/kalpowar"
-        },
-        {
-          "id": "148476",
-          "name": "Auburn River National Park",
-          "url": "https://parks.qld.gov.au/parks/auburn-river"
         }
       ]
     },
@@ -2728,24 +2588,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Hill inlet oiling",
-      "alert_id": "25841",
-      "url": "https://parks.qld.gov.au/park-alerts/25841",
-      "description": "Visitors are advised that the viewing platform at Hill inlet will be undergoing oiling / maintenance works from 15/10/25 to 17/10/25. Do not climb onto or use the platform during this period Remain on designated walkways / paths Observe all signage and direction from park rangers.",
-      "details": "<p>Visitors are advised that the viewing platform at Hill inlet will be undergoing oiling / maintenance works from 15/10/25 to 17/10/25. Do not climb onto or use the platform during this period Remain on designated walkways / paths Observe all signage and direction from park rangers.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-10",
-      "start_effective_date": "2025-10-15",
-      "end_date": "2025-10-17",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     },
