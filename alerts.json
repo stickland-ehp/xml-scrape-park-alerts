@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 149,
-    "script_run_time": "2025-10-19 10:08:50"
+    "alerts_count": 152,
+    "script_run_time": "2025-10-20 10:11:05"
   },
   "alerts": [
     {
@@ -2360,9 +2360,9 @@
       "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for the Mackay Regional Council area which includes sections of the above parks and forests within this local government area.",
       "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for the Mackay Regional Council area which includes sections of the above parks and forests within this local government area.</p> <p>Check current <a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans and Restrictions</a> declared by QFD.</p> <p>Until further notice, <strong>open fires must not be lit </strong>anywhere in:</p> <ul> <li>those areas listed above.</li> </ul> <p>The following are <strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>For your safety please obey all fire restrictions. Failure to adhere by restrictions will result in Penalty Infringement Notice being issued.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-10-08",
+      "start_date": "2025-10-20",
       "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-21",
+      "end_date": "2025-11-04",
       "parks": [
         {
           "id": "148832",
@@ -2393,24 +2393,6 @@
           "id": "148295",
           "name": "Eungella National Park",
           "url": "https://parks.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Kroombit Tops National Park",
-      "alert_id": "25821",
-      "url": "https://parks.qld.gov.au/park-alerts/25821",
-      "description": "Due to current bushfire activity, all of Kroombit Tops National Park will be closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.",
-      "details": "<p>Due to current bushfire activity, all of Kroombit Tops National Park will be closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-17",
-      "start_effective_date": "2025-10-04",
-      "end_date": "2025-10-19",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
         }
       ]
     },
@@ -3028,6 +3010,98 @@
           "id": "148965",
           "name": "Undara Volcanic National Park",
           "url": "https://parks.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burning Activities within sections of Koombooloomba National Park and Koombooloomba South Forest Reserve",
+      "alert_id": "25864",
+      "url": "https://parks.qld.gov.au/park-alerts/25864",
+      "description": "As part of the annual hazard reduction/conservation management program, Queensland Parks &amp; Wildlife Service will be conducting an aerial burn on Wednesday 22 October 2025, within the Koombooloomba National Park and Koombooloomba South Forest reserve in the vicinity of Red Road.",
+      "details": "<p>As part of the annual hazard reduction/conservation management program, Queensland Parks &amp; Wildlife Service will be conducting an aerial burn on Wednesday 22 October 2025, within the Koombooloomba National Park and Koombooloomba South Forest reserve in the vicinity of Red Road.</p> <p>Access remains open to Koombooloomba Dam Camping areas via Tully Falls Road.</p> <p>Visitors are requested not to enter the fire ground area and follow direction from fire personnel and warning signage during the planned burn operations.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-20",
+      "start_effective_date": "2025-10-22",
+      "end_date": "2025-10-23",
+      "parks": [
+        {
+          "id": "322382",
+          "name": "Koombooloomba South Forest Reserve",
+          "url": ""
+        },
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/koombooloomba"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Mount Mackay NP",
+      "alert_id": "25865",
+      "url": "https://parks.qld.gov.au/park-alerts/25865",
+      "description": "Planned burn taking place in Mount Mackay National Park. QPWS Rangers and machinery may be working along roadsides in the vicinity of Carmoo, Tully Mission Beach road. For your safety and the safety of authorities, please slow down and observe all directions and signs. During the planned burn Mount Mackay National Park is closed to public access. Smoke may be seen in the vicinity of Carmoo, Tully Mission Beach road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.",
+      "details": "<p>Planned burn taking place in Mount Mackay National Park. QPWS Rangers and machinery may be working along roadsides in the vicinity of Carmoo, Tully Mission Beach road. For your safety and the safety of authorities, please slow down and observe all directions and signs. During the planned burn Mount Mackay National Park is closed to public access. Smoke may be seen in the vicinity of Carmoo, Tully Mission Beach road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-20",
+      "start_effective_date": "2025-10-23",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "322781",
+          "name": "Mount Mackay National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Bushfire Alert - temporary closure - Mount Ernest section of Mount Barney National Park",
+      "alert_id": "25866",
+      "url": "https://parks.qld.gov.au/park-alerts/25866",
+      "description": "A bushfire is currently active in the Mount Ernest section of Mount Barney National Park and is expected to be so for some days to come. The area may remain closed for a period after the bushfire to ensure the area is safe. For public safety, the entire section of Mount Ernest is closed. The park will reopen when conditions are considered safe.",
+      "details": "<p>A bushfire is currently active in the Mount Ernest section of Mount Barney National Park and is expected to be so for some days to come. The area may remain closed for a period after the bushfire to ensure the area is safe. For public safety, the entire section of Mount Ernest is closed. The park will reopen when conditions are considered safe.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-20",
+      "start_effective_date": "2025-10-20",
+      "end_date": "2025-11-03",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Aerial planned burn: Goldsborough-Mulgrave Valley area in Wooroonooran, Little Mulgrave and Dinden national parks",
+      "alert_id": "25867",
+      "url": "https://parks.qld.gov.au/park-alerts/25867",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting an aerial planned burn (weather permitting) on Thursday 23 October 2025 over the Goldsborough-Mulgrave Valley area as part of the fire management program for Wooroonooran, Little Mulgrave and Dinden national parks.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting an aerial planned burn (weather permitting) on Thursday 23 October 2025 over the Goldsborough-Mulgrave Valley area as part of the fire management program for Wooroonooran, Little Mulgrave and Dinden national parks.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Please be aware that smoke has the potential to impact the road and limit driver visibility across the Goldsborough-Mulgrave Valley area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-20",
+      "start_effective_date": "2025-10-23",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        },
+        {
+          "id": "322677",
+          "name": "Little Mulgrave National Park",
+          "url": ""
+        },
+        {
+          "id": "151367",
+          "name": "Goldfield trail, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldfield"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
         }
       ]
     }
