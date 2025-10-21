@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 152,
-    "script_run_time": "2025-10-20 10:11:05"
+    "alerts_count": 154,
+    "script_run_time": "2025-10-21 10:10:21"
   },
   "alerts": [
     {
@@ -1361,24 +1361,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Mossman Gorge elevated boardwalk lookout, Daintree National Park (CYPAL)",
-      "alert_id": "25388",
-      "url": "https://parks.qld.gov.au/park-alerts/25388",
-      "description": "The Mossman Gorge elevated boardwalk lookout is temporarily closed due to damage to the lookout.",
-      "details": "<p>The Mossman Gorge elevated boardwalk lookout is temporarily closed due to damage to the lookout.</p> <p>The remainder of the elevated boardwalk will remain open for visitors to access the park.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-19",
-      "start_effective_date": "2025-06-05",
-      "end_date": "2025-10-20",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Reduced campsites due to erosion",
       "alert_id": "25451",
       "url": "https://parks.qld.gov.au/park-alerts/25451",
@@ -2282,15 +2264,15 @@
       ]
     },
     {
-      "title": "Caution required: Dry and boggy sand vehicle access tracks, Byfield National Park",
+      "title": "Upcoming Closure of access to Byfield National and Conservation Park",
       "alert_id": "25787",
       "url": "https://parks.qld.gov.au/park-alerts/25787",
-      "description": "The sand vehicle access tracks within Byfield National Park have become soft and boggy due to increasingly hot, dry conditions and increased traffic use. This is resulting in vehicles becoming bogged and overheating which has the serious potential to cause vehicle fires resulting in bushfires.",
-      "details": "<p>The sand vehicle access tracks within Byfield National Park have become soft and boggy due to increasingly hot, dry conditions and increased traffic use. This is resulting in vehicles becoming bogged and overheating which has the serious potential to cause vehicle fires resulting in bushfires.</p> <p>Extra caution is required when driving on sand tracks to Five Rocks and Nine Mile camping areas and throughout the Byfield National and Conservation Park.</p> <p>Dry, soft sand makes driving difficult and it is recommended only experienced drivers in high clearance vehicles with lowered tyre pressures attempt the sand access tracks, refer to&nbsp;<a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0022/152545/driving-on-sand-safety-guide.pdf\">Driving on sand: Safety guide</a></p> <p>Towing a caravan, camper trailer and/or trailer is not advisable in hot, dry conditions on Big Sandy and other sand access tracks in the Byfield National Park, see&nbsp;<a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0032/157847/byfield-area-map.pdf\">Byfield area map - Byfield National Park, Byfield Conservation Park, Byfield State Forest</a></p> <p>With conditions deteriorating and increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.&nbsp;</p> <p>Byfield National Park, Sandy Point section, currently remains open for public use.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-17",
-      "start_effective_date": "2025-09-29",
-      "end_date": "2025-10-24",
+      "description": "With conditions of the sand vehicle access tracks deteriorating and an increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the upcoming closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. In 2018, similar conditions were experienced with a 4WD becoming bogged and overheating resulting in a major bushfire event in Byfield National Park. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.",
+      "details": "<p>With conditions of the sand vehicle access tracks deteriorating and an increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the upcoming closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. In 2018, similar conditions were experienced with a 4WD becoming bogged and overheating resulting in a major bushfire event in Byfield National Park. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-21",
+      "start_effective_date": "2025-10-24",
+      "end_date": "2025-11-28",
       "parks": [
         {
           "id": "148223",
@@ -2318,6 +2300,29 @@
       ]
     },
     {
+      "title": "Local Fire Ban Eurimbula National Park and Deepwater National Park",
+      "alert_id": "25806",
+      "url": "https://parks.qld.gov.au/park-alerts/25806",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Gladstone Council which includes the above parks within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Gladstone Council which includes the above parks within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>Eurimbula National Park</li> <li>Deepwater National Park</li> </ul> <p>The following are&nbsp;<strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves,&nbsp;<strong>are permitted</strong>&nbsp;to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-21",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.qld.gov.au/parks/eurimbula"
+        },
+        {
+          "id": "148279",
+          "name": "Deepwater National Park",
+          "url": "https://parks.qld.gov.au/parks/deepwater"
+        }
+      ]
+    },
+    {
       "title": "Carnarvon Great Walk (Overnight hike) - Closure",
       "alert_id": "25808",
       "url": "https://parks.qld.gov.au/park-alerts/25808",
@@ -2336,15 +2341,38 @@
       ]
     },
     {
+      "title": "Local Fire Ban - Bundaberg and Gladstone Regional Council areas",
+      "alert_id": "25810",
+      "url": "https://parks.qld.gov.au/park-alerts/25810",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <p>- Burrum Coast National Park</p> <p>- Bulburin National Park</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-21",
+      "start_effective_date": "2025-10-02",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "148151",
+          "name": "Bulburin National Park",
+          "url": "https://parks.qld.gov.au/parks/bulburin"
+        },
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
       "title": "Ex-HMAS Brisbane Public Mooring",
       "alert_id": "25812",
       "url": "https://parks.qld.gov.au/park-alerts/25812",
       "description": "Ex-HMAS Brisbane Public Mooring closed post severe weather event (cyclone Alfred). Public access to ex-HMAS Brisbane remains closed.",
       "details": "<p>Ex-HMAS Brisbane Public Mooring closed post severe weather event (cyclone Alfred). Public access to ex-HMAS Brisbane remains closed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-02",
+      "start_date": "2025-10-21",
       "start_effective_date": "2025-10-02",
-      "end_date": "2025-10-31",
+      "end_date": "2025-11-30",
       "parks": [
         {
           "id": "149465",
@@ -2393,24 +2421,6 @@
           "id": "148295",
           "name": "Eungella National Park",
           "url": "https://parks.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
-      "title": "Fire Prohibition, ALL Remote Bush Camps, D'Aguilar National Park (South).",
-      "alert_id": "25830",
-      "url": "https://parks.qld.gov.au/park-alerts/25830",
-      "description": "DAguilar National Park (South), QPWS Fire Prohibition period. Fire prohibition in place for DAguilar National Park (South), ALL Remote Bush Camp Sites. A fire prohibition is active from 7/10/2025 until 13/10/2025 due to the current weather forecast and increased risk of bushfire.",
-      "details": "<p>DAguilar National Park (South), QPWS Fire Prohibition period. Fire prohibition in place for DAguilar National Park (South), ALL Remote Bush Camp Sites. A fire prohibition is active from 7/10/2025 until 13/10/2025 due to the current weather forecast and increased risk of bushfire.</p> <p>Fires must not be lit anywhere in:</p> <p>&bull; North Kobble Creek Remote Bush Camp</p> <p>&bull; Middle Kobble Creek Remote Bush Camp</p> <p>&bull; South Kobble Creek Remote Bush Camp</p> <p>&bull; Scrub Road Remote Bush Camp</p> <p>&bull; Light Line Road Remote Bush Camp</p> <p>&bull; Dundas Road Remote Bush Camp</p> <p>&bull; Northbrook Mountain Remote Bush Camp</p> <p>&bull; England Creek Remote Bush Camp</p> <p>&bull; Lepidozamia Remote Bush Camp.</p> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the below requirements are permitted. The appliance:</p> <p>&bull; Must use gas or manufactured fuel (eg. briquettes). Manufactured fuel does not include milled timber or sawn/cut tree parts.</p> <p>&bull; Must be used only for cooking and/or heating.</p> <p>&bull; Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.</p> <p>&bull; Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.</p> <p>&bull; Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</p> <p>Appliances that are not fully self-contained, such as braziers, are not permitted.</p> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. Penalties apply. QPWS will continue to monitor the situation and update this Park Alert should conditions change. To report any bushfires, call Triple Zero (000)</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-13",
-      "start_effective_date": "2025-10-07",
-      "end_date": "2025-10-20",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -2657,24 +2667,6 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
-      "title": "Construction works: Keatings Lagoon Conservation Park",
-      "alert_id": "25846",
-      "url": "https://parks.qld.gov.au/park-alerts/25846",
-      "description": "Contractors will be working with heavy machinery and equipment around the carpark area and on the walking track to the day-use area from Monday 13 October to Monday 20 October 2025 (dates inclusive).",
-      "details": "<p>Contractors will be working with heavy machinery and equipment around the carpark area and on the walking track to the day-use area from Monday 13 October to Monday 20 October 2025 (dates inclusive).</p> <p>The Wawu Balgal Bubu walking track remains open, however visitors need to use caution when entering or exiting the area.</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-13",
-      "start_effective_date": "2025-10-13",
-      "end_date": "2025-10-20",
-      "parks": [
-        {
-          "id": "148844",
-          "name": "Keatings Lagoon Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/keatings-lagoon"
         }
       ]
     },
@@ -3102,6 +3094,70 @@
           "id": "156496",
           "name": "Goldsborough Valley, Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn: western section of Daintree National Park (CYPAL) and Windmill Creek section of Mount Lewis National Park",
+      "alert_id": "25868",
+      "url": "https://parks.qld.gov.au/park-alerts/25868",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Friday 24 October 2025 as part of the fire management program for Daintree National Park (CYPAL) and Mount Lewis National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Friday 24 October 2025 as part of the fire management program for Daintree National Park (CYPAL) and Mount Lewis National Park.</p> <p>During this time, QPWS Rangers, machinery and aircraft may be operating in the area. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Western Daintree catchment area, Daintree National Park (CYPAL) and Mary Farms and Mount Carbine areas near Windmill Creek, Mount Lewis National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-21",
+      "start_effective_date": "2025-10-24",
+      "end_date": "2025-10-31",
+      "parks": [
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        },
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure of Kahlpalim Rock Walking Trail for planned burning activities: Dinden National Park,",
+      "alert_id": "25869",
+      "url": "https://parks.qld.gov.au/park-alerts/25869",
+      "description": "Due to planned burning operations in Dinden National Park, The Kahlpahlim Rock Walking Track will be closed temporarily from the 22nd of October, expected to reopen 29th October 2025. Other visitor facilities in Dinden National Park including camping areas, walking tracks and roads will remain open, however smoke may be seen in the vicinity. Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.",
+      "details": "<p>Due to planned burning operations in Dinden National Park, The Kahlpahlim Rock Walking Track will be closed temporarily from the 22nd of October, expected to reopen 29th October 2025. Other visitor facilities in Dinden National Park including camping areas, walking tracks and roads will remain open, however smoke may be seen in the vicinity. Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-21",
+      "start_effective_date": "2025-10-22",
+      "end_date": "2025-10-24",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Dinden National Park and Kuranda National Park",
+      "alert_id": "25870",
+      "url": "https://parks.qld.gov.au/park-alerts/25870",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden National Park and Kuranda National Park from Wednesday 22th October to Wednesday 29th October 2025 (dates inclusive). Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations in Dinden National Park and Kuranda National Park from Wednesday 22th October to Wednesday 29th October 2025 (dates inclusive). Planned burning is part of the annual hazard reduction/conservation management strategic program for parks and forests. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation</p> <p>Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-21",
+      "start_effective_date": "2025-10-22",
+      "end_date": "2025-10-29",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
+        },
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     }
