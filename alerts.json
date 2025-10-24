@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 155,
-    "script_run_time": "2025-10-23 10:10:13"
+    "alerts_count": 157,
+    "script_run_time": "2025-10-24 10:10:36"
   },
   "alerts": [
     {
@@ -301,7 +301,7 @@
       "alert_id": "23585",
       "url": "https://parks.qld.gov.au/park-alerts/23585",
       "description": "Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:",
-      "details": "<p>Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:</p> <p><strong>Misty Mountains roads, walking tracks and camping areas that are open:</strong></p> <ul> <li>K-Tree Road</li> <li>Maple Creek Road</li> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters Waterhole camping area to Elizabeth Grant Falls)</li> <li>Cannabullen Creek track between Hinson Creek trailhead and Hinson Creek camping area</li> <li>Gorrell track</li> <li>Hinson Creek camping area (accessible via Sutties Gap Road)</li> <li>Koolmoon Creek camping area</li> <li>South Johnstone camping area</li> <li>Downey Creek camping area.</li> </ul> <p><strong>Walking tracks and camping areas that are currently closed due to access issues:</strong></p> <ul> <li>Walters Waterhole walking track and camping area</li> <li>Carter Creek camping area</li> <li>Cannabullen Creek camping area</li> <li>Cochable Creek camping area</li> <li>Cannabullen Creek track between Hinson Creek camping area and Cochable Creek camping area.</li> <li>Djilgarrin walking track</li> </ul> <p>Monitor park alerts for up-to-date information.</p>",
+      "details": "<p>Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:</p> <p><strong>Misty Mountains roads, walking tracks and camping areas that are open:</strong></p><ul><li>K-Tree Road</li><li>Maple Creek Road</li><li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li><li>Koolmoon Creek track network (except section of track from Walters Waterhole camping area to Elizabeth Grant Falls)</li><li>Cannabullen Creek track between Hinson Creek trailhead and Hinson Creek camping area</li><li>Gorrell track</li><li>Hinson Creek camping area (accessible via Sutties Gap Road)</li><li>Koolmoon Creek camping area</li><li>South Johnstone camping area</li><li>Downey Creek camping area.</li><li>Walters Waterhole walking track and camping area</li></ul><p><strong>Walking tracks and camping areas that are currently closed due to access issues:</strong></p><ul><li>Koolmoon Creek track from Walters Waterhole camping area to Cochable Creek camping area (including Elizabeth Grant Falls).</li><li>Carter Creek camping area.</li><li>Cannabullen Creek camping area.</li><li>Cochable Creek camping area and H Road access.</li><li>Cannabullen Creek track between Hinson Creek camping. area and Cochable Creek camping area.</li><li>Djilgarrin walking track.</li></ul><p>Monitor park alerts for up-to-date information.</p>",
       "category": "Park or facility closure",
       "start_date": "2025-09-17",
       "start_effective_date": "2023-12-19",
@@ -362,24 +362,6 @@
           "id": "148802",
           "name": "Koombooloomba National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/koombooloomba"
-        }
-      ]
-    },
-    {
-      "title": "Closed until further notice: Mount Lewis National Park",
-      "alert_id": "23655",
-      "url": "https://parks.qld.gov.au/park-alerts/23655",
-      "description": "Due to severe damage from ex-Tropical Cyclone Jasper, Mount Lewis National Park is closed until further notice.",
-      "details": "<p>Due to severe damage from ex-Tropical Cyclone Jasper, Mount Lewis National Park is closed until further notice.</p> <p>Monitor park alerts for up-to-date information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2024-11-29",
-      "start_effective_date": "2024-01-10",
-      "end_date": "2025-11-29",
-      "parks": [
-        {
-          "id": "148484",
-          "name": "Mount Lewis National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-lewis"
         }
       ]
     },
@@ -765,9 +747,9 @@
       "description": "The Jindalba day-use area and walking tracks are currently closed to allow replacement of the elevated boardwalk and to upgrade a section of track.",
       "details": "<p>The Jindalba day-use area and walking tracks are currently closed to allow replacement of the elevated boardwalk and to upgrade a section of track.</p> <p>This closure includes:</p> <ul> <li>Jindalba day-use area (including amenities block)</li> <li>Jindalba boardwalk</li> <li>Jindalba circuit track.</li> </ul> <p>These visitor facilities will remain closed until the full site construction is completed in <strong>mid &ndash; late 2025</strong>. Construction works include:</p> <ul> <li>replacement of 650m of elevated boardwalk</li> <li>upgrade 150m of track to Grade 1 standard</li> <li>new accessible carpark</li> <li>new interpretative signs and information shelter.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts for current information <a href=\"https://parks.desi.qld.gov.au/parks/daintree\">https://parks.desi.qld.gov.au/parks/daintree</a></p>",
       "category": "Park or facility closure",
-      "start_date": "2025-09-26",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-01-28",
-      "end_date": "2025-11-14",
+      "end_date": "2025-11-12",
       "parks": [
         {
           "id": "148131",
@@ -1078,9 +1060,9 @@
       "alert_id": "25173",
       "url": "https://parks.qld.gov.au/park-alerts/25173",
       "description": "From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.",
-      "details": "<p>From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.</p> <p>During this period all wheelchair accessible facilities and access points will be temporarily closed. Alternative accessible amenities are located to the North opposite the Turtle Rock Caf&eacute; next to the playground (Wenden&rsquo;s Wonderland), a short drive away.</p> <p>From Monday 13 October to Monday 20 October 2025 (dates inclusive) , the walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge.</p> <p>Please see below for further details of impacted visitor facilities:<strong>&nbsp;</strong></p> <p><strong>Dubuji Boardwalk</strong></p> <ul> <li>The main access will be closed to the public</li> </ul> <ul> <li>The boardwalk can be accessed via a link from Myall Beach track and completed as a return walk</li> </ul> <p><strong>Dubuji amenity block</strong></p> <ul> <li>Closed to the public</li> <li>Visitors are asked to use the alternative amenity block located to the North&nbsp;next to the playground (Wenden&rsquo;s Wonderland) a short drive away. From&nbsp;Monday 13 October and Monday 20&nbsp;October 2025 (dates inclusive) the&nbsp;200m walking track from the Dubuji car park to the alternative amenities will be closed as contractors replace the bridge</li> </ul> <p><strong>Dubuji day-use area</strong></p> <ul> <li>Open - However, please note the&nbsp;tables will be closed for maintenance on Wednesday 22 October 2025</li> <li>Parking spaces for buses will be reduced</li> </ul> <p><strong>Myall Beach</strong></p> <ul> <li>Access possible via the Dubuji day-use area</li> </ul> <p>For your safety, obey all safety and directional signs and do not enter the construction site.</p>",
+      "details": "<p>From Friday 11 April to Sunday 30 November 2025 (dates inclusive), construction works for a new Indigenous Cultural Tourism Centre will be undertaken at Dubuji, Cape Tribulation. To allow contractors to complete this work, closures to some visitor facilities and changes to access will be necessary.</p> <p>During this period all wheelchair accessible facilities and access points will be temporarily closed. Alternative accessible amenities are located to the North opposite the Turtle Rock Caf&eacute; next to the playground (Wenden&rsquo;s Wonderland), a short drive away.</p> <p>Please see below for further details of impacted visitor facilities:<strong>&nbsp;</strong></p> <p><strong>Dubuji Boardwalk</strong></p> <ul> <li>The main access will be closed to the public</li> </ul> <ul> <li>The boardwalk can be accessed via a link from Myall Beach track and completed as a return walk</li> </ul> <p><strong>Dubuji amenity block</strong></p> <ul> <li>Closed to the public</li> <li>Visitors are asked to use the alternative amenity block located to the North&nbsp;next to the playground (Wenden&rsquo;s Wonderland) a short drive away.&nbsp;</li> </ul> <p><strong>Dubuji day-use area</strong></p> <ul> <li>Open&nbsp;</li> <li>Parking spaces for buses will be reduced</li> </ul> <p><strong>Myall Beach</strong></p> <ul> <li>Access possible via the Dubuji day-use area</li> </ul> <p>For your safety, obey all safety and directional signs and do not enter the construction site.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-17",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-04-11",
       "end_date": "2025-11-30",
       "parks": [
@@ -1152,9 +1134,9 @@
       "description": "Visitors are advised:",
       "details": "<p>Visitors are advised:</p> <ul> <li>While cassowaries are fascinating, they are also potentially dangerous.</li> </ul> <ul> <li>Please ensure all food, scraps and rubbish is secured and not accessible to cassowaries.&nbsp; Extra vigilance is required around mealtimes.</li> </ul> <ul> <li>Allowing cassowaries to connect human campsites with food is dangerous to camping area users and may lead to illness, injury, and deaths of birds.</li> </ul> <ul> <li>Queensland Parks and Wildlife Service rangers are regularly visiting the park to provide education to camping area users regarding the cassowary behaviour and ensuring potential food sources are isolated. &nbsp;</li> </ul> <p>&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2025-04-30",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-04-28",
-      "end_date": "2025-10-24",
+      "end_date": "2025-10-31",
       "parks": [
         {
           "id": "148127",
@@ -1985,9 +1967,9 @@
       "description": "The Ngaro track project will provide a premium hiking experience in the Whitsundays.",
       "details": "<p>The Ngaro track project will provide a premium hiking experience in the Whitsundays.</p> <p>The track, camp sites and associated infrastructure construction is being finalised with most work now completed. During this time contractors will continue to require access to the site for finishing touches and will use access points at Tongue, Chance and Torres Herald Bays and other remote Whitsunday Island locations.&nbsp;</p> <p>In the interests of safety, please observe all signs, barriers and directions provided by rangers and construction workers. No unauthorised persons, including commercial tour operators and other permit or agreement holders, are permitted to enter closed areas.</p>",
       "category": "Other",
-      "start_date": "2025-09-26",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-09-01",
-      "end_date": "2025-10-30",
+      "end_date": "2025-11-05",
       "parks": [
         {
           "id": "149505",
@@ -2118,12 +2100,12 @@
       "title": "Temporary closure for crocodile safety: Catfish Waterhole day-use area, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "25762",
       "url": "https://parks.qld.gov.au/park-alerts/25762",
-      "description": "Due to recent crocodile incidents and increased seasonal activity, the following closure applies:",
-      "details": "<p>Due to recent crocodile incidents and increased seasonal activity, the following closure applies:</p> <ul> <li><strong>Catfish Waterhole day-use area</strong></li> </ul> <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Closed until Sunday 26 October 2025 (date inclusive)</p> <p>Rangers and Wildlife Officers are assessing the area and visitors are reminded to always <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise?utm_source=shortURL&amp;utm_medium=shortURL&amp;utm_campaign=becrocwise\">Be Crocwise around the water</a>&nbsp;and follow crocodile safety advice provided by Queensland Parks and Wildlife Service staff.</p>",
+      "description": "Due to recent crocodile incidents and increased seasonal activity, Catfish Waterhole day-use area is currently closed until Sunday 2 November 2025 (date inclusive).",
+      "details": "<p>Due to recent crocodile incidents and increased seasonal activity, Catfish Waterhole day-use area is currently closed until Sunday 2 November 2025 (date inclusive).</p> <p>Rangers and Wildlife Officers are assessing the area and visitors are reminded to always <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise?utm_source=shortURL&amp;utm_medium=shortURL&amp;utm_campaign=becrocwise\">Be Crocwise around the water</a>&nbsp;and follow crocodile safety advice provided by Queensland Parks and Wildlife Service staff.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-13",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-09-17",
-      "end_date": "2025-10-26",
+      "end_date": "2025-11-02",
       "parks": [
         {
           "id": "149481",
@@ -2264,13 +2246,13 @@
       ]
     },
     {
-      "title": "Upcoming Closure of access to Byfield National and Conservation Park",
+      "title": "Closure of access to Byfield National and Conservation Park",
       "alert_id": "25787",
       "url": "https://parks.qld.gov.au/park-alerts/25787",
-      "description": "With conditions of the sand vehicle access tracks deteriorating and an increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the upcoming closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. In 2018, similar conditions were experienced with a 4WD becoming bogged and overheating resulting in a major bushfire event in Byfield National Park. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.",
-      "details": "<p>With conditions of the sand vehicle access tracks deteriorating and an increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the upcoming closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. In 2018, similar conditions were experienced with a 4WD becoming bogged and overheating resulting in a major bushfire event in Byfield National Park. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "With conditions of the sand vehicle access tracks deteriorating and an increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. In 2018, similar conditions were experienced with a 4WD becoming bogged and overheating resulting in a major bushfire event in Byfield National Park. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.",
+      "details": "<p>With conditions of the sand vehicle access tracks deteriorating and an increased high risk for bushfires within the Byfield National Park, a risk assessment has been conducted resulting in the closure of Byfield National and Conservation Parks for the ongoing safety of visitors, permanent residents of the Stockyard community and QPWS staff. In 2018, similar conditions were experienced with a 4WD becoming bogged and overheating resulting in a major bushfire event in Byfield National Park. The closure will take place as of 12pm Friday 24th October 2025 and will be reassessed until conditions improve or a significant rain event occurs.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-21",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-10-24",
       "end_date": "2025-11-28",
       "parks": [
@@ -2501,9 +2483,9 @@
       "alert_id": "25837",
       "url": "https://parks.qld.gov.au/park-alerts/25837",
       "description": "Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).",
-      "details": "<p>Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).</p> <p>Contractors will be undertaking remedial works following damage from ex-Tropical Cyclone Jasper.</p> <p>The Kulki day-use area will remain open during this time. However, other works are being undertaken on Thursday 23 October 2025, please see seperate park alert for Kulki day-use area and carpark for further information.</p> <p>Visitors are reminded to follow all onsite closure signage and directions from rangers.&nbsp;</p>",
+      "details": "<p>Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).</p> <p>Contractors will be undertaking remedial works following damage from ex-Tropical Cyclone Jasper.</p> <p>The Kulki day-use area will remain open during this time.&nbsp;</p> <p>Visitors are reminded to follow all onsite closure signage and directions from rangers.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-10",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-10-17",
       "end_date": "2025-11-03",
       "parks": [
@@ -2539,24 +2521,6 @@
           "id": "148884",
           "name": "Curtis Island National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
-      "title": "Temporary partial closure: Kulki day-use area, toilet block and car park, Cape Tribulation section of Daintree National Park (CYPAL)",
-      "alert_id": "25840",
-      "url": "https://parks.qld.gov.au/park-alerts/25840",
-      "description": "On Thursday 23 October 2025 the following access restrictions will apply throughout Kulki day-use area, toilet block and car park to allow for pressure cleaning works.",
-      "details": "<p>On Thursday 23 October 2025 the following access restrictions will apply throughout Kulki day-use area, toilet block and car park to allow for pressure cleaning works.</p> <p><strong>Kulki toilet block</strong></p> <p>Access will be restricted to one shared gender cubicle during this time.</p> <p><strong>Kulki day-use area</strong></p> <p>Tables and walkways will be partially closed between 12pm and 3pm.&nbsp;</p> <p><strong>Kulki car park</strong></p> <p>The car park will be closed between 3pm and 5pm.</p> <p><strong>Kulki boardwalk and lookout</strong></p> <p>Closed from Friday 17 October to Monday 3 November 2025 (dates inclusive), please refer to separate park alert.</p> <p>Visitors are reminded to adhere to onsite closure signage and directions from rangers.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-10",
-      "start_effective_date": "2025-10-23",
-      "end_date": "2025-10-23",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/daintree"
         }
       ]
     },
@@ -2610,10 +2574,10 @@
       "title": "Temporary closure: Windin Falls walking track and access to Windin Falls, Wooroonooran National Park",
       "alert_id": "25845",
       "url": "https://parks.qld.gov.au/park-alerts/25845",
-      "description": "Windin Falls walking track from the Gourka Road trailhead carpark will be closed for track maintenance from Monday 27 October to Friday 14 2025 (dates inclusive).",
-      "details": "<p>Windin Falls walking track from the Gourka Road trailhead carpark will be closed for track maintenance from Monday 27 October to Friday 14 2025 (dates inclusive).</p> <p>Machinery will be operating in this area during this period.</p> <p>Please follow all safety signage and direction from the contractor and rangers.</p> <p>Do not attempt to enter the closed area.<br /> &nbsp;</p>",
+      "description": "Windin Falls walking track from the Gourka Road trailhead carpark will be closed for track maintenance from Monday 27 October to Friday 14 November 2025 (dates inclusive).",
+      "details": "<p>Windin Falls walking track from the Gourka Road trailhead carpark will be closed for track maintenance from Monday 27 October to Friday 14 November 2025 (dates inclusive).</p> <p>Machinery will be operating in this area during this period.</p> <p>Please follow all safety signage and directions from contractors and rangers.</p> <p>Do not attempt to enter the closed area.<br /> &nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-22",
+      "start_date": "2025-10-24",
       "start_effective_date": "2025-10-27",
       "end_date": "2025-11-14",
       "parks": [
@@ -2657,24 +2621,6 @@
           "id": "148933",
           "name": "Oyala Thumotang National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/oyala-thumotang"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure for planned burn: Baldy-Yabi circuit track.",
-      "alert_id": "25850",
-      "url": "https://parks.qld.gov.au/park-alerts/25850",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking aerial planned burning activities within sections of Herberton State Forest and Baldy Mountain Forest Reserve in Atherton on Thursday 23 October 2025.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking aerial planned burning activities within sections of Herberton State Forest and Baldy Mountain Forest Reserve in Atherton on Thursday 23 October 2025.</p> <p>For public safety the Mount Baldy and Yabi walking tracks will be closed during this time. &nbsp;</p> <p>Please follow all signage and closures.</p> <p>Smoke will be present throughout this period.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-14",
-      "start_effective_date": "2025-10-23",
-      "end_date": "2025-10-24",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -2937,29 +2883,6 @@
       ]
     },
     {
-      "title": "Planned Burning Activities within sections of Koombooloomba National Park and Koombooloomba South Forest Reserve",
-      "alert_id": "25864",
-      "url": "https://parks.qld.gov.au/park-alerts/25864",
-      "description": "As part of the annual hazard reduction/conservation management program, Queensland Parks &amp; Wildlife Service will be conducting an aerial burn on Wednesday 22 October 2025, within the Koombooloomba National Park and Koombooloomba South Forest reserve in the vicinity of Red Road.",
-      "details": "<p>As part of the annual hazard reduction/conservation management program, Queensland Parks &amp; Wildlife Service will be conducting an aerial burn on Wednesday 22 October 2025, within the Koombooloomba National Park and Koombooloomba South Forest reserve in the vicinity of Red Road.</p> <p>Access remains open to Koombooloomba Dam Camping areas via Tully Falls Road.</p> <p>Visitors are requested not to enter the fire ground area and follow direction from fire personnel and warning signage during the planned burn operations.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-20",
-      "start_effective_date": "2025-10-22",
-      "end_date": "2025-10-23",
-      "parks": [
-        {
-          "id": "322382",
-          "name": "Koombooloomba South Forest Reserve",
-          "url": ""
-        },
-        {
-          "id": "148802",
-          "name": "Koombooloomba National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/koombooloomba"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn Mount Mackay NP",
       "alert_id": "25865",
       "url": "https://parks.qld.gov.au/park-alerts/25865",
@@ -3166,6 +3089,194 @@
           "id": "322931",
           "name": "Carbrook Wetlands Conservation Park 1",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Tempory road closure: Mount Lewis Road, Mount Lewis National Park",
+      "alert_id": "25879",
+      "url": "https://parks.qld.gov.au/park-alerts/25879",
+      "description": "Mount Lewis Road in Mount Lewis National Park will be closed to the public from Monday 27 October to Tuesday 3 November 2025 (dates inclusive) for removal of hazardous trees.",
+      "details": "<p>Mount Lewis Road in Mount Lewis National Park will be closed to the public from Monday 27 October to Tuesday 3 November 2025 (dates inclusive) for removal of hazardous trees.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-24",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2025-11-03",
+      "parks": [
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        }
+      ]
+    },
+    {
+      "title": "Mustering operations: Blencoe Falls camping area, Girringun National Park",
+      "alert_id": "25880",
+      "url": "https://parks.qld.gov.au/park-alerts/25880",
+      "description": "A neighbouring property of Girringun National Park will be conducting mustering operations in and around the Blencoe Falls camping area from Friday 31 October to Monday 3 November 2025 (dates inclusive).",
+      "details": "<p>A neighbouring property of Girringun National Park will be conducting mustering operations in and around the Blencoe Falls camping area from Friday 31 October to Monday 3 November 2025 (dates inclusive).</p> <p><strong>The Blenoe Falls camping area will remain open during this time.</strong></p> <p>Mustering is occurring to remove stray cattle from the camping area and surrounding national park. These operations help us to conserve the natural and cultural values of the park. Authorised helicopters, mustering dogs, side by sides and motorbikes may be seen in the area during this time.&nbsp;</p> <p>Please stay away from cattle and mustering operations and exercise caution along roads and tracks. &nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-24",
+      "start_effective_date": "2025-10-31",
+      "end_date": "2025-11-03",
+      "parks": [
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/blencoe-falls"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Police incident - Best of All walking track and lookout are closed",
+      "alert_id": "25882",
+      "url": "https://parks.qld.gov.au/park-alerts/25882",
+      "description": "Due to current and ongoing operations coordinated by the Qld Police Service and emergency services, Best of All lookout in Springbrook National Park will be closed during Friday 24 October 2025.",
+      "details": "<p>Due to current and ongoing operations coordinated by the Qld Police Service and emergency services, Best of All lookout in Springbrook National Park will be closed during Friday 24 October 2025.</p> <p>As a result, the following areas are temporarily closed until further notice:</p> <ul> <li>Best of All walking track and lookout</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-24",
+      "start_effective_date": "2025-10-24",
+      "end_date": "2025-10-24",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Errk Oykangand National Park (CYPAL)",
+      "alert_id": "25883",
+      "url": "https://parks.qld.gov.au/park-alerts/25883",
+      "description": "Errk Oykangand National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.",
+      "details": "<p>Errk Oykangand National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-24",
+      "start_effective_date": "2025-11-01",
+      "end_date": "2026-06-30",
+      "parks": [
+        {
+          "id": "148949",
+          "name": "Errk Oykangand National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/errk-oykangand"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban",
+      "alert_id": "25884",
+      "url": "https://parks.qld.gov.au/park-alerts/25884",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Central Highlands Regional Council which includes sections of the above parks and forests within this local government area.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Central Highlands Regional Council which includes sections of the above parks and forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>those areas listed above.</li> </ul> <p>The following are not permitted:</p> <p>&middot; Open campfires and fires in braziers, drums and other open containers.</p> <p>&middot; Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</p> <p>&middot; use of QPWS supplied fire-rings and wood-fired barbeques.</p> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <p>&middot; do not have the potential to generate airborne embers or ignite nearby ground fuels.</p> <p>&middot; are not left unattended; and</p> <p>&middot; are suitably contained.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-24",
+      "start_effective_date": "2025-10-08",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "322936",
+          "name": "Vandyke Creek Conservation Park",
+          "url": ""
+        },
+        {
+          "id": "322531",
+          "name": "Cairdbeign State Forest",
+          "url": ""
+        },
+        {
+          "id": "322982",
+          "name": "Snake Range National Park",
+          "url": ""
+        },
+        {
+          "id": "322540",
+          "name": "Squire State Forest",
+          "url": ""
+        },
+        {
+          "id": "322458",
+          "name": "Fairbairn State Forest",
+          "url": ""
+        },
+        {
+          "id": "322303",
+          "name": "Humboldt State Forest",
+          "url": ""
+        },
+        {
+          "id": "322691",
+          "name": "Humboldt National Park",
+          "url": ""
+        },
+        {
+          "id": "322627",
+          "name": "Nandowrie State Forest",
+          "url": ""
+        },
+        {
+          "id": "322354",
+          "name": "Mount Pleasant State Forest",
+          "url": ""
+        },
+        {
+          "id": "322324",
+          "name": "Mount Nicholson State Forest",
+          "url": ""
+        },
+        {
+          "id": "322572",
+          "name": "Mount Hope State Forest",
+          "url": ""
+        },
+        {
+          "id": "322759",
+          "name": "Albinia Resources Reserve",
+          "url": ""
+        },
+        {
+          "id": "322712",
+          "name": "Albinia Conservation Park",
+          "url": ""
+        },
+        {
+          "id": "322713",
+          "name": "Albinia National Park",
+          "url": ""
+        },
+        {
+          "id": "150244",
+          "name": "Ka Ka Mundi, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-ka-ka-mundi"
+        },
+        {
+          "id": "151359",
+          "name": "Salvator Rosa, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-salvator-rosa"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming aerial pest control: Halifax Bay Wetlands National Park",
+      "alert_id": "25886",
+      "url": "https://parks.qld.gov.au/park-alerts/25886",
+      "description": "On Wednesday 3 and Thursday 4 December 2025 a Hinchinbrook Shire Council led aerial shoot will occur at Halifax Bay Wetlands National Park. This control program will be targeting feral pigs in the National Park and surrounding areas.",
+      "details": "<p>On Wednesday 3 and Thursday 4 December 2025 a Hinchinbrook Shire Council led aerial shoot will occur at Halifax Bay Wetlands National Park. This control program will be targeting feral pigs in the National Park and surrounding areas.</p> <p><strong>During this period, the park will be closed to the public for the wet season.</strong></p> <p>For further information please visit the Hinchinbrook Shire Council website <a href=\"https://www.hinchinbrook.qld.gov.au/\">Hinchinbrook Shire Council</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-24",
+      "start_effective_date": "2025-12-03",
+      "end_date": "2025-12-04",
+      "parks": [
+        {
+          "id": "148512",
+          "name": "Halifax Bay Wetlands National Park",
+          "url": "https://parks.qld.gov.au/parks/halifax-bay"
         }
       ]
     }
