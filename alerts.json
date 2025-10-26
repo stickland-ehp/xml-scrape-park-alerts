@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2025-10-25 10:08:44"
+    "alerts_count": 157,
+    "script_run_time": "2025-10-26 10:08:57"
   },
   "alerts": [
     {
@@ -2218,6 +2218,54 @@
       ]
     },
     {
+      "title": "Fire prohibition in place across protected areas in Moreton Bay",
+      "alert_id": "25800",
+      "url": "https://parks.qld.gov.au/park-alerts/25800",
+      "description": "A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Sunday 27 October through to 11.59pm Monday 27 October 2025 due to the current weather forecast and increased risk of bushfires.",
+      "details": "<p>A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Sunday 27 October through to 11.59pm Monday 27 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p><strong>Open fires must not be lit anywhere in:&nbsp;</strong></p> <ul> <li>Bribie Island Recreation Area</li> <li>Gheebulum Kunungai National Park</li> <li>Moreton Island Recreation Area</li> <li>Naree Budjong Djara National Park</li> <li>Minjerribah Recreation Area</li> <li>Teerk Roo Ra National Park</li> <li>South Stradbroke Island Conservation Park</li> <li>Southern Moreton Bay Islands NP</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-26",
+      "start_effective_date": "2025-10-26",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "148552",
+          "name": "Teerk Roo Ra National Park",
+          "url": "https://parks.qld.gov.au/parks/teerk-roo-ra"
+        },
+        {
+          "id": "150256",
+          "name": "Southern Moreton Bay Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/southern-moreton-bay"
+        },
+        {
+          "id": "151400",
+          "name": "South Stradbroke Island Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/south-stradbroke-island"
+        },
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.qld.gov.au/parks/naree-budjong-djara"
+        },
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/minjerribah"
+        },
+        {
+          "id": "148757",
+          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        },
+        {
+          "id": "149033",
+          "name": "Bribie Island National Park and Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/bribie-island"
+        }
+      ]
+    },
+    {
       "title": "Nesting Catfish around Swimming Area",
       "alert_id": "25804",
       "url": "https://parks.qld.gov.au/park-alerts/25804",
@@ -3213,6 +3261,42 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Wildfire at Teewah Beach",
+      "alert_id": "25888",
+      "url": "https://parks.qld.gov.au/park-alerts/25888",
+      "description": "Wildfire at Teewah Beach camping zones 2 and 3 within the Cooloola Recreation Area. Queensland Parks and Wildlife Service rangers are in attendance.",
+      "details": "<p>Wildfire at Teewah Beach camping zones 2 and 3 within the Cooloola Recreation Area. Queensland Parks and Wildlife Service rangers are in attendance.</p> <p>Please exercise caution and check Park Alerts for updates.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Other",
+      "start_date": "2025-10-26",
+      "start_effective_date": "2025-10-26",
+      "end_date": "2025-10-28",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Park Closure_Bushfire",
+      "alert_id": "25889",
+      "url": "https://parks.qld.gov.au/park-alerts/25889",
+      "description": "Blackdown Tableland National Park will be closed from 8am 27th October 2025 until further notice due to two (2) active bushfires.",
+      "details": "<p>Blackdown Tableland National Park will be closed from 8am 27th October 2025 until further notice due to two (2) active bushfires.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-10-26",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2025-11-03",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
         }
       ]
     }
