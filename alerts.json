@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2025-10-26 10:08:57"
+    "alerts_count": 161,
+    "script_run_time": "2025-10-27 10:11:38"
   },
   "alerts": [
     {
@@ -1244,9 +1244,9 @@
       "description": "As a result of severe weather damage, some areas in Hell Hole Gorge National Park are closed until declared safe.",
       "details": "<p>As a result of severe weather damage, some areas in Hell Hole Gorge National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>&nbsp;Hell Hole Waterhole walking track.</p> </li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-09-22",
+      "start_date": "2025-10-27",
       "start_effective_date": "2025-06-01",
-      "end_date": "2025-10-30",
+      "end_date": "2025-11-30",
       "parks": [
         {
           "id": "148788",
@@ -2182,24 +2182,6 @@
       ]
     },
     {
-      "title": "HQ Plantation Activities - Water Park Creek 4th September-26th October",
-      "alert_id": "25786",
-      "url": "https://parks.qld.gov.au/park-alerts/25786",
-      "description": "HQ Plantations will be undertaking mulching works with heavy machinery and plant in the area adjacent to Water Park Creek day-use and camp sites.",
-      "details": "<p>HQ Plantations will be undertaking mulching works with heavy machinery and plant in the area adjacent to Water Park Creek day-use and camp sites.</p> <p>For further information, please contact <a href=\"https://www.hqplantations.com.au/contact\">HQPlantations</a> at <a href=\"mailto:information@hqplantations.com.au\">information@hqplantations.com.au</a> or phone <a href=\"tel:+61748374100\">+61 7 4837 4100</a>.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "category": "Announcement",
-      "start_date": "2025-09-29",
-      "start_effective_date": "2025-09-29",
-      "end_date": "2025-10-26",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Closure of access to Byfield National and Conservation Park",
       "alert_id": "25787",
       "url": "https://parks.qld.gov.au/park-alerts/25787",
@@ -2218,13 +2200,109 @@
       ]
     },
     {
+      "title": "Local Fire Ban - Sunshine Coast National Parks and State Forests.",
+      "alert_id": "25796",
+      "url": "https://parks.qld.gov.au/park-alerts/25796",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Noosa Shire Council, Sunshine Coast Council, Moreton Bay Council and Somerset Council which includes sections of the above parks and forests within this local government area.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Noosa Shire Council, Sunshine Coast Council, Moreton Bay Council and Somerset Council which includes sections of the above parks and forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>Beerburrum State Forest</li> <li>Conondale National Park</li> <li>Imbil and Jimna State Forest</li> <li>Amamoor State Forest</li> <li>Brooyar State Forest</li> <li>Mapleton National Park</li> <li>Kondalilla National Park</li> <li>Glass House Mountains National Park</li> <li>Bellthorpe National Park</li> </ul> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-27",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2025-10-28",
+      "parks": [
+        {
+          "id": "148275",
+          "name": "Amamoor State Forest",
+          "url": "https://parks.qld.gov.au/parks/amamoor"
+        },
+        {
+          "id": "148063",
+          "name": "Brooyar State Forest",
+          "url": "https://parks.qld.gov.au/parks/brooyar"
+        },
+        {
+          "id": "322483",
+          "name": "Amaroo State Forest",
+          "url": ""
+        },
+        {
+          "id": "148400",
+          "name": "Bellthorpe National Park",
+          "url": "https://parks.qld.gov.au/parks/bellthorpe"
+        },
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
+        },
+        {
+          "id": "148243",
+          "name": "Kondalilla National Park",
+          "url": "https://parks.qld.gov.au/parks/kondalilla"
+        },
+        {
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.qld.gov.au/parks/imbil"
+        },
+        {
+          "id": "148015",
+          "name": "Jimna State Forest",
+          "url": "https://parks.qld.gov.au/parks/jimna"
+        },
+        {
+          "id": "152865",
+          "name": "Conondale Range Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-conondale-range"
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.qld.gov.au/parks/conondale"
+        },
+        {
+          "id": "149493",
+          "name": "Beerburrum and Beerwah State Forests",
+          "url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
+        }
+      ]
+    },
+    {
+      "title": "Fire prohibition in place for D'Aguilar National Park, Bunyaville Conservation Park and Samford Conservation Park",
+      "alert_id": "25797",
+      "url": "https://parks.qld.gov.au/park-alerts/25797",
+      "description": "The Queensland Fire Department (QFD) has declared a Local Fire Ban for Moreton Bay Council which includes sections of the above parks within this local government area.",
+      "details": "<p>The Queensland Fire Department (QFD) has declared a Local Fire Ban for Moreton Bay Council which includes sections of the above parks within this local government area.</p> <p>Until further notice, open fires&nbsp;<strong>must not be</strong>&nbsp;lit anywhere in:</p> <p>D&#39;Aguilar National Park including</p> <ul> <li>Scrub Road, Light Line Road, Dundas Road, England Creek, Northbrook Mountain, Lepidozamia,&nbsp;South Kobble, Middle Kobble&nbsp;and North Kobble remote bush camps. Archer and Neurum Creek camping area</li> </ul> <p>Samford Conservation Park including</p> <ul> <li>Ironbark Gully picnic area</li> </ul> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>As a result of bushfire risk, some closures may be in place - check this park&#39;s web page for relevant closure Park alerts.</p> <p><strong>To report any bushfires, call Triple Zero (000)</strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please obey all fire restrictions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-27",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/bunyaville"
+        },
+        {
+          "id": "148139",
+          "name": "Samford Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/samford"
+        },
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
       "title": "Fire prohibition in place across protected areas in Moreton Bay",
       "alert_id": "25800",
       "url": "https://parks.qld.gov.au/park-alerts/25800",
-      "description": "A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Sunday 27 October through to 11.59pm Monday 27 October 2025 due to the current weather forecast and increased risk of bushfires.",
-      "details": "<p>A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Sunday 27 October through to 11.59pm Monday 27 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p><strong>Open fires must not be lit anywhere in:&nbsp;</strong></p> <ul> <li>Bribie Island Recreation Area</li> <li>Gheebulum Kunungai National Park</li> <li>Moreton Island Recreation Area</li> <li>Naree Budjong Djara National Park</li> <li>Minjerribah Recreation Area</li> <li>Teerk Roo Ra National Park</li> <li>South Stradbroke Island Conservation Park</li> <li>Southern Moreton Bay Islands NP</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Monday 27 October through to 11.59pm Monday 27 October 2025 due to the current weather forecast and increased risk of bushfires.",
+      "details": "<p>A fire prohibition will be active in protected areas within Moreton Bay from 12.01am Monday 27 October through to 11.59pm Monday 27 October 2025 due to the current weather forecast and increased risk of bushfires.</p> <p><strong>Open fires must not be lit anywhere in:&nbsp;</strong></p> <ul> <li>Bribie Island Recreation Area</li> <li>Gheebulum Kunungai National Park</li> <li>Moreton Island Recreation Area</li> <li>Naree Budjong Djara National Park</li> <li>Minjerribah Recreation Area</li> <li>Teerk Roo Ra National Park</li> <li>South Stradbroke Island Conservation Park</li> <li>Southern Moreton Bay Islands NP</li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances are permitted in camping areas that meet the below requirements.</p> <ul> <li>The appliance must use gas or manufactured fuel (heat beads, briquettes). Manufactured fuel does&nbsp;<strong>not</strong>&nbsp;include timber or wood.</li> <li>It must be used only for cooking and/or heating.</li> <li>It must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</li> <li>It must&nbsp;not have the potential to generate airborne embers,&nbsp;or possibly ignite nearby ground fuels.</li> <li>It must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use.</li> <li>Appliances that are not fully self-contained, such as braziers, are&nbsp;<strong>not</strong>&nbsp;permitted.</li> <li>All appliances, materials and burnt fuel&nbsp;must be removed from the recreation area on your departure.</li> </ul> <p>Visitors must comply with this fire prohibition and any directions given by rangers. On the spot fines may be issued for non-compliance.</p> <p><strong>To report any wildfires, call Triple Zero (000).</strong></p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-10-26",
+      "start_date": "2025-10-27",
       "start_effective_date": "2025-10-26",
       "end_date": "2025-10-27",
       "parks": [
@@ -2609,24 +2687,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to bushfire: Oyala Thumotang National Park (CYPAL)",
-      "alert_id": "25848",
-      "url": "https://parks.qld.gov.au/park-alerts/25848",
-      "description": "A bushfire is currently active in Oyala Thumotang National Park (CYPAL) and is expected to be so for some days to come.",
-      "details": "<p>A bushfire is currently active in Oyala Thumotang National Park (CYPAL) and is expected to be so for some days to come.</p> <p>For public safety, all camping areas are closed.</p> <p>For visitors with an exisiting camping booking, up to and including Sunday 26 October 2025, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-17",
-      "start_effective_date": "2025-10-14",
-      "end_date": "2025-10-26",
-      "parks": [
-        {
-          "id": "148933",
-          "name": "Oyala Thumotang National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/oyala-thumotang"
-        }
-      ]
-    },
-    {
       "title": "Strategic fireline upgrade works, Bulwer to Blue Lagoon Road, Gheebulum Kunungai National Park and Moreton Island (Mulgumpin) Recreation Area.",
       "alert_id": "25852",
       "url": "https://parks.qld.gov.au/park-alerts/25852",
@@ -2649,12 +2709,17 @@
       "alert_id": "25853",
       "url": "https://parks.qld.gov.au/park-alerts/25853",
       "description": "A neighbouring property of the Princess Hills section of Girringun National Park will be conducting mustering operations in and around the Princess Hills camping area from Saturday 1 to Thursday 20 November 2025 (dates inclusive).",
-      "details": "<p>A neighbouring property of the Princess Hills section of Girringun National Park will be conducting mustering operations in and around the Princess Hills camping area from Saturday 1 to Thursday 20 November 2025 (dates inclusive).</p> <p>These operations will remove stray cattle from the camping area and the surrounding national park and help to conserve the natural and cultural values of the park.&nbsp;</p> <p>Princess Hills camping area will reopen as normal from Friday 21 November 2025.</p> <p>Please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online for your existing camping booking.</p>",
+      "details": "<p>A neighbouring property of the Princess Hills section of Girringun National Park will be conducting mustering operations in and around the Princess Hills camping area from Saturday 1 to Thursday 20 November 2025 (dates inclusive).</p> <p>These operations will remove stray cattle from the camping area and the surrounding national park and help to conserve the natural and cultural values of the park.&nbsp;</p> <p><strong>The Princess Hills camping area will be closed during this period and will reopen as normal on Friday 21 November 2025.</strong></p> <p>Please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online for your existing camping booking.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-14",
+      "start_date": "2025-10-27",
       "start_effective_date": "2025-11-01",
       "end_date": "2025-11-20",
       "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        },
         {
           "id": "151363",
           "name": "Princess Hills, Girringun National Park",
@@ -3297,6 +3362,133 @@
           "id": "150224",
           "name": "Blackdown Tableland National Park",
           "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban - Gold Coast and Scenic Rim",
+      "alert_id": "25890",
+      "url": "https://parks.qld.gov.au/park-alerts/25890",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Gold Coast City and Scenic Rim Regional Council areas which includes sections of the above parks and forests within this local government area.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Gold Coast City and Scenic Rim Regional Council areas which includes sections of the above parks and forests within this local government area.</p> <p>Check current <a href=\"https://www.fire.qld.gov.au/safety-education/using-fire-outdoors/fire-bans-and-restrictions\">Fire Bans &amp; Restrictions</a> declared by QFD.</p> <p>Until further notice, <strong>open fires must not be lit</strong> anywhere in the areas listed above.</p> <p>The following are <strong>not permitted</strong>:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues, including gas and spirit stoves, <strong>are permitted</strong> to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended</li> <li>are suitably contained.</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-27",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2025-10-27",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.qld.gov.au/parks/burleigh-head"
+        },
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.qld.gov.au/parks/lamington"
+        },
+        {
+          "id": "147971",
+          "name": "Nerang National Park",
+          "url": "https://parks.qld.gov.au/parks/nerang"
+        },
+        {
+          "id": "148340",
+          "name": "Pine Ridge Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/pine-ridge"
+        },
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
+        },
+        {
+          "id": "148356",
+          "name": "Tallebudgera Creek and David Fleay conservation parks",
+          "url": "https://parks.qld.gov.au/parks/tallebudgera"
+        },
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Local Fire Ban Daisy Hill Conservation Park and Venman Bushland National Park",
+      "alert_id": "25891",
+      "url": "https://parks.qld.gov.au/park-alerts/25891",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Logan City Council and Redland City Council which includes sections of the above parks and forests within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Logan City Council and Redland City Council which includes sections of the above parks and forests within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in:&nbsp;</p> <ul> <li>Daisy Hill Conservation Park</li> <li>Venman Bushland National Park</li> </ul> <p>The following are&nbsp;<strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves,&nbsp;<strong>are permitted</strong>&nbsp;to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-27",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2025-10-28",
+      "parks": [
+        {
+          "id": "148896",
+          "name": "Venman Bushland National Park",
+          "url": "https://parks.qld.gov.au/parks/venman-bushland"
+        },
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Olkola National Park (CYPAL)",
+      "alert_id": "25894",
+      "url": "https://parks.qld.gov.au/park-alerts/25894",
+      "description": "Olkola National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.",
+      "details": "<p>Olkola National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-27",
+      "start_effective_date": "2025-10-27",
+      "end_date": "2026-06-30",
+      "parks": [
+        {
+          "id": "213735",
+          "name": "Olkola National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/olkola-cypal"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning activities: Wet Tropics Great Walk, Girringun National Park",
+      "alert_id": "25895",
+      "url": "https://parks.qld.gov.au/park-alerts/25895",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Tuesday 28 October to Friday 14 November 2025 (dates inclusive), as part of the fire management program for Girringun National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Tuesday 28 October to Friday 14 November 2025 (dates inclusive), as part of the fire management program for Girringun National Park.</p> <p>Potential burning activities will be in the area along the Great Walk between Stony Creek and Garrawalt Creek.</p> <p>The walking track will remain open but smoke may be seen at times during this period.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management webpage</a>.</p> <p><strong>Please contact the Ingham office Ph: (07) 4777 2822 for further information.</strong></p> <p>Stay up-to-date with current bushfire warnings and incidents from <a href=\"https://www.fire.qld.gov.au/\">Queensland Fire Department</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-10-27",
+      "start_effective_date": "2025-10-28",
+      "end_date": "2025-11-14",
+      "parks": [
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
         }
       ]
     }
