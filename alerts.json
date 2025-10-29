@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2025-10-28 10:11:12"
+    "alerts_count": 154,
+    "script_run_time": "2025-10-29 10:11:15"
   },
   "alerts": [
     {
@@ -2223,74 +2223,6 @@
       ]
     },
     {
-      "title": "Local Fire Ban - Sunshine Coast National Parks and State Forests.",
-      "alert_id": "25796",
-      "url": "https://parks.qld.gov.au/park-alerts/25796",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Noosa Shire Council, Sunshine Coast Council, Moreton Bay Council and Somerset Council which includes sections of the above parks and forests within this local government area.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Noosa Shire Council, Sunshine Coast Council, Moreton Bay Council and Somerset Council which includes sections of the above parks and forests within this local government area.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>Beerburrum State Forest</li> <li>Conondale National Park</li> <li>Imbil and Jimna State Forest</li> <li>Amamoor State Forest</li> <li>Brooyar State Forest</li> <li>Mapleton National Park</li> <li>Kondalilla National Park</li> <li>Glass House Mountains National Park</li> <li>Bellthorpe National Park</li> </ul> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained.</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-27",
-      "start_effective_date": "2025-10-27",
-      "end_date": "2025-10-28",
-      "parks": [
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.qld.gov.au/parks/amamoor"
-        },
-        {
-          "id": "148063",
-          "name": "Brooyar State Forest",
-          "url": "https://parks.qld.gov.au/parks/brooyar"
-        },
-        {
-          "id": "322483",
-          "name": "Amaroo State Forest",
-          "url": ""
-        },
-        {
-          "id": "148400",
-          "name": "Bellthorpe National Park",
-          "url": "https://parks.qld.gov.au/parks/bellthorpe"
-        },
-        {
-          "id": "150189",
-          "name": "Glass House Mountains National Park",
-          "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
-        },
-        {
-          "id": "148243",
-          "name": "Kondalilla National Park",
-          "url": "https://parks.qld.gov.au/parks/kondalilla"
-        },
-        {
-          "id": "147991",
-          "name": "Imbil State Forest",
-          "url": "https://parks.qld.gov.au/parks/imbil"
-        },
-        {
-          "id": "148015",
-          "name": "Jimna State Forest",
-          "url": "https://parks.qld.gov.au/parks/jimna"
-        },
-        {
-          "id": "152865",
-          "name": "Conondale Range Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-conondale-range"
-        },
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.qld.gov.au/parks/conondale"
-        },
-        {
-          "id": "149493",
-          "name": "Beerburrum and Beerwah State Forests",
-          "url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
-        }
-      ]
-    },
-    {
       "title": "Nesting Catfish around Swimming Area",
       "alert_id": "25804",
       "url": "https://parks.qld.gov.au/park-alerts/25804",
@@ -3159,24 +3091,6 @@
       ]
     },
     {
-      "title": "Wildfire at Teewah Beach",
-      "alert_id": "25888",
-      "url": "https://parks.qld.gov.au/park-alerts/25888",
-      "description": "Wildfire at Teewah Beach camping zones 2 and 3 within the Cooloola Recreation Area. Queensland Parks and Wildlife Service rangers are in attendance.",
-      "details": "<p>Wildfire at Teewah Beach camping zones 2 and 3 within the Cooloola Recreation Area. Queensland Parks and Wildlife Service rangers are in attendance.</p> <p>Please exercise caution and check Park Alerts for updates.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Other",
-      "start_date": "2025-10-26",
-      "start_effective_date": "2025-10-26",
-      "end_date": "2025-10-28",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Park Closure_Bushfire",
       "alert_id": "25889",
       "url": "https://parks.qld.gov.au/park-alerts/25889",
@@ -3191,29 +3105,6 @@
           "id": "150224",
           "name": "Blackdown Tableland National Park",
           "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban Daisy Hill Conservation Park and Venman Bushland National Park",
-      "alert_id": "25891",
-      "url": "https://parks.qld.gov.au/park-alerts/25891",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Logan City Council and Redland City Council which includes sections of the above parks and forests within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Logan City Council and Redland City Council which includes sections of the above parks and forests within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in:&nbsp;</p> <ul> <li>Daisy Hill Conservation Park</li> <li>Venman Bushland National Park</li> </ul> <p>The following are&nbsp;<strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves,&nbsp;<strong>are permitted</strong>&nbsp;to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-27",
-      "start_effective_date": "2025-10-27",
-      "end_date": "2025-10-28",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.qld.gov.au/parks/venman-bushland"
-        },
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
         }
       ]
     },
@@ -3288,24 +3179,6 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire on Minjerribah (North Stradbroke Island)",
-      "alert_id": "25896",
-      "url": "https://parks.qld.gov.au/park-alerts/25896",
-      "description": "A bushfire is currently burning in the southwest end of Naree Budjong Djara National Park. QPWS and QYAC with support of QFD are monitoring and working to contain this fire.",
-      "details": "<p>A bushfire is currently burning in the southwest end of Naree Budjong Djara National Park. QPWS and QYAC with support of QFD are monitoring and working to contain this fire.</p> <p>Smoke from bushfires can reduce air quality, so people with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp; If smoke affects you:</p> <ul> <li>Stay indoors and close windows and doors; and</li> <li>Keep respiratory medication close by.</li> </ul> <p>To report any bushfires, call Triple Zero (000).</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-28",
-      "start_effective_date": "2025-10-27",
-      "end_date": "2025-10-29",
-      "parks": [
-        {
-          "id": "150268",
-          "name": "Naree Budjong Djara National Park",
-          "url": "https://parks.qld.gov.au/parks/naree-budjong-djara"
         }
       ]
     },
