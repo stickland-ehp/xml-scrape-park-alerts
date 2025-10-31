@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2025-10-30 10:10:25"
+    "alerts_count": 157,
+    "script_run_time": "2025-10-31 10:10:37"
   },
   "alerts": [
     {
@@ -711,9 +711,9 @@
       "description": "Southern access into Kinkuna bush camping from Woodgate road is temporarily closed.",
       "details": "<p>Southern access into Kinkuna bush camping from Woodgate road is temporarily closed.</p> <p>Kinkuna bush camping area and&nbsp;Palm Beach road (northern access) is&nbsp;<strong>open</strong>.</p> <p>High clearance Four-wheel-drive vehicles only on permitted roads. Drive to the conditions. Be aware, the area may be closed at short notice with a rainfall or fire event.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-09-30",
+      "start_date": "2025-10-31",
       "start_effective_date": "2024-12-16",
-      "end_date": "2025-10-31",
+      "end_date": "2026-02-02",
       "parks": [
         {
           "id": "148436",
@@ -1343,6 +1343,24 @@
       ]
     },
     {
+      "title": "Temporary closure: Mossman River lookout, Mossman Gorge, Daintree National Park (CYPAL)",
+      "alert_id": "25388",
+      "url": "https://parks.qld.gov.au/park-alerts/25388",
+      "description": "The Mossman River lookout at Mossman Gorge in Daintree National Park (CYPAL), is temporarily closed due to damage caused by tree fall in June 2025.",
+      "details": "<p>The Mossman River lookout at Mossman Gorge in Daintree National Park (CYPAL), is temporarily closed due to damage caused by tree fall in June 2025.</p> <p>Repairs are scheduled to commence in January 2026, with the lookout expected to reopen by Sunday 1 February 2026, pending the completion of works.</p> <p>We understand this closure may cause inconvenience and appreciate your patience as we work to ensure the safety and quality of this facility.</p> <p>All other visitor facilites at Mossman Gorge remain open including walking tracks, picnic areas and alternative viewing points.</p> <p>For further updates, please check the Daintree National Park alerts page or contact the local ranger station.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-31",
+      "start_effective_date": "2025-06-05",
+      "end_date": "2026-02-01",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
       "title": "Reduced campsites due to erosion",
       "alert_id": "25451",
       "url": "https://parks.qld.gov.au/park-alerts/25451",
@@ -1407,15 +1425,15 @@
       ]
     },
     {
-      "title": "Partial reopening from 4 July: Lawn Hill Gorge section: Boodjamulla National Park (Aboriginal Land)",
+      "title": "Partial reopening UPDATE: Lawn Hill Gorge section: Boodjamulla National Park (Aboriginal Land)",
       "alert_id": "25454",
       "url": "https://parks.qld.gov.au/park-alerts/25454",
-      "description": "The Boodjamulla Co-operative Management Council (BCMC) is pleased to announce the staged re-opening of Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land) will begin from Friday, 4 July 2025. This follows the significant flooding events of 2023 and 2024.",
-      "details": "<p>The Boodjamulla Co-operative Management Council (BCMC) is pleased to announce the staged re-opening of Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land) will begin from Friday, 4 July 2025. This follows the significant flooding events of 2023 and 2024.</p> <p><strong>Staged reopening</strong></p> <p>Visitor access will be restored in stages as rebuilding efforts progress.</p> <p>From <strong>Friday 4 July 2025</strong>,&nbsp;the following visitor opportunities will be available at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land):</p> <ul> <li>Constance Range walking track</li> <li>Lawn Hill Creek &ndash; for swimming and watercraft (one way in/one way out)</li> <li>Camp site at Lawn Hill Gorge (with toilet facilities) &ndash; available only to authorised commercial tour operators initially.</li> </ul> <p>Additional opportunities will become available from<strong> October 2025</strong> as part of the staged plan. This includes:</p> <ul> <li>Tent and camper trailer camping (bookings will be able to be made 14 days prior to re-opening).</li> <li>Additional walking tracks.</li> </ul> <p>Please check this park alert for updates on the reopening schedule.</p> <p><strong>For your safety</strong></p> <p>The flooding events have altered the look and feel of the gorge, but it remains a stunning and culturally significant place. While the area is regenerating, your safety is our top priority. Please note the following:</p> <ul> <li><strong><em>Construction zones:</em></strong> Some areas remain active construction sites and are closed to visitors. Signs, bunting and fences will mark these zones. Please follow all signage and directions from Rangers or on-site personnel.</li> <li><em><strong>Watercraft and swimming areas:</strong></em> Entry to Lawn Hill Creek is one way in and one way out. You must exit from the same location you entered.</li> <li><em><strong>Swimming distances and fitness:</strong></em> There are no shaded areas or stopping points between the entry point and Indarri Falls. Visitors should carefully assess their swimming ability and stamina before entering the water.</li> <li><strong><em>Limited shade:</em></strong> Shade is currently limited on land and in the water. Plan your visit carefully &ndash; bring at least 2 litres of drinking water per person per day, and wear a hat, long-sleeved shirt and covered shoes. Carry a first-aid kit and aim to explore during the cooler parts of the day.</li> <li><em><strong>Remote location:</strong></em> Lawn Hill Gorge is remote, and Rangers may not always be available. Visitors must be self-sufficient, responsible for your own safety, and prepared for emergencies.</li> <li><em><strong>Emergency contacts:</strong></em> For emergencies, call Triple Zero (000). Consider carrying a satellite phone or personal locator beacon (PLB).</li> </ul> <p>The Boodjamulla Cooperative Management Council (i.e. the Queensland Parks and Wildlife Service and Waanyi People) thank the local community and stakeholders for their patience and support while work continues to safely restore and rebuild flood-damaged facilities and infrastructure.</p> <p>The southern sections of Boodjamulla National Park (Aboriginal Land)&mdash;Riversleigh D Site (part of the Australian Fossil Mammal Sites World Heritage Area) and Miyumba camping area&mdash;remain fully open for visitors.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "description": "Following significant flooding events in 2023 and 2024, the Boodjamulla Co-operative Management Council (BCMC) continues rebuilding efforts to allow for staged reopening of visitor facilities at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land).",
+      "details": "<p>Following significant flooding events in 2023 and 2024, the Boodjamulla Co-operative Management Council (BCMC) continues rebuilding efforts to allow for staged reopening of visitor facilities at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land).</p> <p><strong>Staged reopening</strong></p> <p>From <strong>Friday 4 July 2025</strong>,&nbsp;the following visitor opportunities are available at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land):</p> <ul> <li>Constance Range walking track</li> <li>Lawn Hill Creek &ndash; for swimming and watercraft (one way in/one way out)</li> <li>Camp site at Lawn Hill Gorge (with toilet facilities) &ndash; available to authorised commercial tour operators initially.</li> </ul> <p>From <strong>Friday 7 November 2025</strong>, open visitor facilities will include:</p> <ul> <li>Lawn Hill Gorge camping area - available to all campers <ul> <li>4 tent only sites</li> <li>14 &#39;multi-use&#39; sites (camper trailer, 4WD&nbsp;campervan, off-road caravan)</li> <li>1 commercial operator camp site</li> <li>Amenities (toilets open, no showers)</li> <li>Non-potable water (not drinking water)</li> </ul> </li> <li>Constance Range walking track, Duwadarri lookout walking track</li> <li>Lawn Hill Creek - for swimming and watercraft (one way in/one way out).</li> </ul> <p><strong>NOTE: Continued monitoring of on-site conditions will occur, and a park-wide summer/wet season closure may become necessary. Road conditions and closures and heatwave warnings will be monitored closely, and this park alert updated as necessary.</strong></p> <p><strong>For your safety</strong></p> <p>The flooding events have altered the look and feel of the gorge, but it remains a stunning and culturally significant place. While the area is regenerating, your safety is our top priority. Please note the following:</p> <ul> <li><strong><em>Construction zones:</em></strong> Some areas remain active construction sites and are closed to visitors. Signs, bunting and fences&nbsp;mark these zones. Please follow all signage and directions from Rangers or on-site personnel.</li> <li><strong><em>Daily temperatures are now reaching beyond the high 30 degree celcius, heatwave warnings have been issued and there&nbsp;is limited shade:</em></strong> Shade is currently limited on land and in the water. Plan your visit carefully &ndash; bring at least 2 litres of drinking water per person per day, and wear a hat, long-sleeved shirt and covered shoes. Carry a first-aid kit and aim to <strong>explore during the cooler parts of the day</strong>.</li> <li><em><strong>Watercraft and swimming areas:</strong></em> Entry to Lawn Hill Creek is one way in and one way out. You must exit from the same location you entered.</li> <li><em><strong>Swimming distances and fitness:</strong></em> There are no shaded areas or stopping points between the entry point to Lawn Hill Creek and Indarri Falls. Visitors should carefully assess their swimming ability and stamina before entering the water.</li> <li><em><strong>Remote location:</strong></em> Lawn Hill Gorge is remote, and Rangers may not always be available. Visitors must be self-sufficient, responsible for your own safety, and prepared for emergencies.</li> <li><em><strong>Emergency contacts:</strong></em> For emergencies, call Triple Zero (000). Consider carrying a satellite phone or personal locator beacon (PLB).</li> </ul> <p>The Boodjamulla Cooperative Management Council (i.e. the Queensland Parks and Wildlife Service and Waanyi People) thank the local community and stakeholders for their patience and support while work continues to safely restore and rebuild flood-damaged facilities and infrastructure.</p> <p>The southern sections of Boodjamulla National Park (Aboriginal Land)&mdash;Riversleigh D Site (part of the Australian Fossil Mammal Sites World Heritage Area) and Miyumba camping area&mdash;remain fully open for visitors.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-06-20",
+      "start_date": "2025-10-31",
       "start_effective_date": "2025-06-20",
-      "end_date": "2025-10-31",
+      "end_date": "2025-11-30",
       "parks": [
         {
           "id": "150272",
@@ -1513,29 +1531,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Conway National Park and Dryander National Park planned burns",
-      "alert_id": "25488",
-      "url": "https://parks.qld.gov.au/park-alerts/25488",
-      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned burns from May-October 2025 when weather conditions are favourable. Planned burns reduce the volume of fuels in forests and create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any subsequent wildfires and provide favourable conditions for native woodland regeneration. Before any planned burn is undertaken, local stakeholders and booked campers will be informed. Smoke may be seen coming from the Conway and Dryander National Park areas at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions. Please observe all signage, barriers, and directions from Rangers. For more information, please contact QPWS&amp;P on 13QGOV (13 74 68).",
-      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting planned burns from May-October 2025 when weather conditions are favourable. Planned burns reduce the volume of fuels in forests and create a mosaic pattern of burnt and unburnt areas. This will help to reduce the intensity of any subsequent wildfires and provide favourable conditions for native woodland regeneration. Before any planned burn is undertaken, local stakeholders and booked campers will be informed. Smoke may be seen coming from the Conway and Dryander National Park areas at times throughout the season. Smoke can decrease visibility on the roads and on the water, so it is important that motorists and vessel masters drive safely to the conditions. Please observe all signage, barriers, and directions from Rangers. For more information, please contact QPWS&amp;P on 13QGOV (13 74 68).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-07-03",
-      "start_effective_date": "2025-07-01",
-      "end_date": "2025-10-30",
-      "parks": [
-        {
-          "id": "148187",
-          "name": "Dryander National Park",
-          "url": "https://parks.qld.gov.au/parks/dryander"
-        },
-        {
-          "id": "147975",
-          "name": "Conway National Park and Conway Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/conway"
         }
       ]
     },
@@ -2056,24 +2051,6 @@
       ]
     },
     {
-      "title": "Local Fire Ban for Canyon Resources Reserve",
-      "alert_id": "25752",
-      "url": "https://parks.qld.gov.au/park-alerts/25752",
-      "description": "The Queensland Fire Department (QFD) has declared a Local Fire Ban for the entire Etheridge Shire Region which includes Canyon Resources Reserve within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
-      "details": "<p>The Queensland Fire Department (QFD) has declared a Local Fire Ban for the entire Etheridge Shire Region which includes Canyon Resources Reserve within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, fires <strong>must not be</strong> lit anywhere in the areas listed above.&nbsp;</p> <p>The following are<strong> not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.&nbsp;</li> <li>Appliances using wood, timber or solid manufcatured fuels (e.e. Oz-pigs, kettle barbeques and&nbsp;similar appliances); and</li> <li>use of QPWS supplied fire-rings</li> </ul> <p>Gas and electric barbeques including gas and spirit stoves, <strong>are permitted </strong>to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels,&nbsp;</li> <li>are not left unattended;and</li> <li>are suitable contained.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-09-12",
-      "start_effective_date": "2025-09-12",
-      "end_date": "2025-11-24",
-      "parks": [
-        {
-          "id": "149509",
-          "name": "Canyon Resources Reserve",
-          "url": "https://parks.qld.gov.au/parks/canyon-resources"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for crocodile safety: Catfish Waterhole day-use area, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "25762",
       "url": "https://parks.qld.gov.au/park-alerts/25762",
@@ -2282,14 +2259,14 @@
       ]
     },
     {
-      "title": "Local Fire Ban - Bundaberg, North Burnett, Gladstone and Banana Regional Council areas",
+      "title": "Local Fire Ban Gladstone and Banana Regional Council areas",
       "alert_id": "25811",
       "url": "https://parks.qld.gov.au/park-alerts/25811",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council, Banana Regional Council, Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for North Burnett Regional Council, Banana Regional Council, Bundaberg Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Banana Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area",
+      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Banana Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2025-10-28",
-      "start_effective_date": "2025-10-11",
+      "start_date": "2025-10-31",
+      "start_effective_date": "2025-10-29",
       "end_date": "2025-11-03",
       "parks": [
         {
@@ -2313,16 +2290,6 @@
           "url": "https://parks.qld.gov.au/parks/mouth-of-baffle-creek"
         },
         {
-          "id": "150252",
-          "name": "Mouth of Kolan River Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mouth-of-kolan-river"
-        },
-        {
-          "id": "149437",
-          "name": "Good Night Scrub National Park",
-          "url": "https://parks.qld.gov.au/parks/good-night-scrub"
-        },
-        {
           "id": "148119",
           "name": "Eurimbula National Park",
           "url": "https://parks.qld.gov.au/parks/eurimbula"
@@ -2343,34 +2310,9 @@
           "url": "https://parks.qld.gov.au/parks/mount-colosseum"
         },
         {
-          "id": "148195",
-          "name": "Cordalba State Forest",
-          "url": "https://parks.qld.gov.au/parks/cordalba"
-        },
-        {
-          "id": "148319",
-          "name": "Coominglah State Forest",
-          "url": "https://parks.qld.gov.au/parks/coominglah"
-        },
-        {
-          "id": "148973",
-          "name": "Coalstoun Lakes National Park",
-          "url": "https://parks.qld.gov.au/parks/coalstoun-lakes"
-        },
-        {
           "id": "148504",
           "name": "Castle Tower National Park",
           "url": "https://parks.qld.gov.au/parks/castle-tower"
-        },
-        {
-          "id": "148608",
-          "name": "Cania Gorge National Park",
-          "url": "https://parks.qld.gov.au/parks/cania-gorge"
-        },
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.qld.gov.au/parks/burrum-coast"
         },
         {
           "id": "148151",
@@ -2378,24 +2320,9 @@
           "url": "https://parks.qld.gov.au/parks/bulburin"
         },
         {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mon-repos"
-        },
-        {
           "id": "148784",
           "name": "Kroombit Tops National Park",
           "url": "https://parks.qld.gov.au/parks/kroombit-tops"
-        },
-        {
-          "id": "148255",
-          "name": "Kalpowar State Forest",
-          "url": "https://parks.qld.gov.au/parks/kalpowar"
-        },
-        {
-          "id": "148476",
-          "name": "Auburn River National Park",
-          "url": "https://parks.qld.gov.au/parks/auburn-river"
         }
       ]
     },
@@ -2927,29 +2854,6 @@
       ]
     },
     {
-      "title": "Bushfire alert for Main Range National Park",
-      "alert_id": "25873",
-      "url": "https://parks.qld.gov.au/park-alerts/25873",
-      "description": "Due to the current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to the current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:</p> <ul> <li>Cunninghams Gap North remote camping zone is closed.</li> </ul> <p>All permits for the closed area are suspended for the duration of the closure.</p> <p>The Scenic Rim Trail, including walkers&#39; camps, remains open however smoke may be seen in the vicinity. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-22",
-      "start_effective_date": "2025-10-22",
-      "end_date": "2025-10-30",
-      "parks": [
-        {
-          "id": "205144",
-          "name": "Scenic Rim Trail, Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/scenic-rim-trail"
-        },
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Coochin Creek Campground",
       "alert_id": "25875",
       "url": "https://parks.qld.gov.au/park-alerts/25875",
@@ -3234,24 +3138,6 @@
       ]
     },
     {
-      "title": "Wet weather  Oceanview track closed",
-      "alert_id": "25898",
-      "url": "https://parks.qld.gov.au/park-alerts/25898",
-      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-28",
-      "start_effective_date": "2025-10-28",
-      "end_date": "2025-10-31",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.qld.gov.au/parks/burleigh-head"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for maintenance: Platypus camping area, Danbulla National Park and State Forest",
       "alert_id": "25899",
       "url": "https://parks.qld.gov.au/park-alerts/25899",
@@ -3320,6 +3206,42 @@
           "id": "147955",
           "name": "Noosa National Park",
           "url": "https://parks.qld.gov.au/parks/noosa"
+        }
+      ]
+    },
+    {
+      "title": "Wet season closure: Canyon Resources Reserve",
+      "alert_id": "25903",
+      "url": "https://parks.qld.gov.au/park-alerts/25903",
+      "description": "Canyon Resources Reserve is closed for the wet season.",
+      "details": "<p>Canyon Resources Reserve is closed for the wet season.</p> <p>It is anticipated to reopen on Wednesday 1 April 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.<br /> &nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-31",
+      "start_effective_date": "2025-11-01",
+      "end_date": "2026-03-31",
+      "parks": [
+        {
+          "id": "149509",
+          "name": "Canyon Resources Reserve",
+          "url": "https://parks.qld.gov.au/parks/canyon-resources"
+        }
+      ]
+    },
+    {
+      "title": "Wet season walking track closures: Atkinsons lookout trail and Rosella Plains lookout trail, Undara Volcanic National Park",
+      "alert_id": "25904",
+      "url": "https://parks.qld.gov.au/park-alerts/25904",
+      "description": "Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.",
+      "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.</p> <p>These walking tracks are anticipated to reopen on Wednesday 1 April 2026, subject to weather conditions.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-10-31",
+      "start_effective_date": "2025-11-01",
+      "end_date": "2026-03-31",
+      "parks": [
+        {
+          "id": "148965",
+          "name": "Undara Volcanic National Park",
+          "url": "https://parks.qld.gov.au/parks/undara-volcanic"
         }
       ]
     }
