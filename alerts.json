@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 141,
-    "script_run_time": "2025-11-01 10:09:00"
+    "alerts_count": 140,
+    "script_run_time": "2025-11-02 10:08:35"
   },
   "alerts": [
     {
@@ -1134,34 +1134,6 @@
           "id": "148179",
           "name": "Kirrama National Park",
           "url": "https://parks.qld.gov.au/parks/kirrama"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning activities: vicinity of Bruce Highway at Fishers Creek, Conn Creek and Clarkson Creek, Girringun National Park",
-      "alert_id": "25271",
-      "url": "https://parks.qld.gov.au/park-alerts/25271",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Monday 12 May 2025 to Saturday 1 November 2025, as part of the fire management program for Girringun National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Monday 12 May 2025 to Saturday 1 November 2025, as part of the fire management program for Girringun National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of the Bruce Highway at Fishers Creek, Conn Creek and Clarkson Creek.</p> <p>Some burns will target ridges and hilltops with smoke visible on the upper ranges between Meunga Creek, north of Cardwell and Sunday Creek (north of Panjoo lookout).</p> <p>For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-05-09",
-      "start_effective_date": "2025-05-12",
-      "end_date": "2025-11-01",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "148768",
-          "name": "Dalrymple Gap walking track, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/dalrymple-gap"
-        },
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/blencoe-falls"
         }
       ]
     },
@@ -2678,9 +2650,9 @@
       "description": "Blackdown Tableland National Park will be closed from 8am 27th October 2025 until further notice due to two (2) active bushfires.",
       "details": "<p>Blackdown Tableland National Park will be closed from 8am 27th October 2025 until further notice due to two (2) active bushfires.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2025-10-26",
+      "start_date": "2025-11-02",
       "start_effective_date": "2025-10-27",
-      "end_date": "2025-11-03",
+      "end_date": "2025-11-07",
       "parks": [
         {
           "id": "150224",
