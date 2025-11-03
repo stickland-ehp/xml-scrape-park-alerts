@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 140,
-    "script_run_time": "2025-11-02 10:08:35"
+    "alerts_count": 141,
+    "script_run_time": "2025-11-03 10:11:38"
   },
   "alerts": [
     {
@@ -1805,24 +1805,6 @@
       ]
     },
     {
-      "title": "Temporary closure for crocodile safety: Catfish Waterhole day-use area, Rinyirru (Lakefield) National Park (CYPAL)",
-      "alert_id": "25762",
-      "url": "https://parks.qld.gov.au/park-alerts/25762",
-      "description": "Due to recent crocodile incidents and increased seasonal activity, Catfish Waterhole day-use area is currently closed until Sunday 2 November 2025 (date inclusive).",
-      "details": "<p>Due to recent crocodile incidents and increased seasonal activity, Catfish Waterhole day-use area is currently closed until Sunday 2 November 2025 (date inclusive).</p> <p>Rangers and Wildlife Officers are assessing the area and visitors are reminded to always <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise?utm_source=shortURL&amp;utm_medium=shortURL&amp;utm_campaign=becrocwise\">Be Crocwise around the water</a>&nbsp;and follow crocodile safety advice provided by Queensland Parks and Wildlife Service staff.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-24",
-      "start_effective_date": "2025-09-17",
-      "end_date": "2025-11-02",
-      "parks": [
-        {
-          "id": "149481",
-          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/rinyirru-lakefield"
-        }
-      ]
-    },
-    {
       "title": "Seasonal Closure of Eagle Island",
       "alert_id": "25780",
       "url": "https://parks.qld.gov.au/park-alerts/25780",
@@ -2608,13 +2590,13 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Errk Oykangand National Park (CYPAL)",
+      "title": "Wet season closure: Errk Oykangand National Park (CYPAL)",
       "alert_id": "25883",
       "url": "https://parks.qld.gov.au/park-alerts/25883",
-      "description": "Errk Oykangand National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.",
-      "details": "<p>Errk Oykangand National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-24",
+      "description": "Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.",
+      "details": "<p>Errk Oykangand National Park (CYPAL) is closed for the wet season. It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.</p> <p>It is anticipated to reopen Wednesday 1 July 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-03",
       "start_effective_date": "2025-11-01",
       "end_date": "2026-06-30",
       "parks": [
@@ -2713,13 +2695,13 @@
       ]
     },
     {
-      "title": "Upcoming wet season closure: Olkola National Park (CYPAL)",
+      "title": "Wet season closure: Olkola National Park (CYPAL)",
       "alert_id": "25894",
       "url": "https://parks.qld.gov.au/park-alerts/25894",
-      "description": "Olkola National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.",
-      "details": "<p>Olkola National Park (CYPAL) will close for the wet season on Saturday 1 November 2025. It is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-27",
+      "description": "Olkola National Park (CYPAL) is closed for the wet season. The park is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.",
+      "details": "<p>Olkola National Park (CYPAL) is closed for the wet season. The park is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.</p> <p>The park is anticipated to reopen on Wednesday 1 July 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-03",
       "start_effective_date": "2025-10-27",
       "end_date": "2026-06-30",
       "parks": [
@@ -2846,24 +2828,6 @@
       ]
     },
     {
-      "title": "Road closures - Noosa National Park - Event",
-      "alert_id": "25902",
-      "url": "https://parks.qld.gov.au/park-alerts/25902",
-      "description": "Due to Noosa Triathlon Event there are various road closures in place, including Park Road, from Friday 31 October to Sunday 2 November, 2025.",
-      "details": "<p>Due to Noosa Triathlon Event there are various road closures in place, including Park Road, from Friday 31 October to Sunday 2 November, 2025.</p> <p>For more information check the Noosa Triathlon website - www.noosatri.com.au</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-30",
-      "start_effective_date": "2025-10-30",
-      "end_date": "2025-11-02",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Canyon Resources Reserve",
       "alert_id": "25903",
       "url": "https://parks.qld.gov.au/park-alerts/25903",
@@ -2896,6 +2860,60 @@
           "id": "148965",
           "name": "Undara Volcanic National Park",
           "url": "https://parks.qld.gov.au/parks/undara-volcanic"
+        }
+      ]
+    },
+    {
+      "title": "Freshwater campground - temporary loss of hot water showers.",
+      "alert_id": "25905",
+      "url": "https://parks.qld.gov.au/park-alerts/25905",
+      "description": "Freshwater campground - temporary loss of hot water showers.",
+      "details": "<p>Freshwater campground - temporary loss of hot water showers.</p> <p>Due to recent storm damage, maintenance works in the Freshwater campground toilet facilities will commence on Monday 3 November 2025. As a result, the hot water shower facilities will be unavailable whilst under repair.</p> <p>Cold water shower facilities are still available in Freshwater Camping Area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2025-11-03",
+      "start_effective_date": "2025-11-03",
+      "end_date": "2026-01-24",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Lake Barrine circuit track beyond the Twin Kauris, Crater Lakes National Park",
+      "alert_id": "25906",
+      "url": "https://parks.qld.gov.au/park-alerts/25906",
+      "description": "Lake Barrine circuit track is closed until further notice due to infrastructure damage and fallen vegetation making the area unsafe.",
+      "details": "<p>Lake Barrine circuit track is closed until further notice due to infrastructure damage and fallen vegetation making the area unsafe.</p> <p>The Twin Kauris walk remains open, but the track is closed beyond the Twin Kairis.&nbsp;</p> <p>We apologise for any inconvenience</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-03",
+      "start_effective_date": "2025-11-03",
+      "end_date": "2025-11-10",
+      "parks": [
+        {
+          "id": "148568",
+          "name": "Crater Lakes National Park",
+          "url": "https://parks.qld.gov.au/parks/crater-lakes"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Barakula State Forest",
+      "alert_id": "25907",
+      "url": "https://parks.qld.gov.au/park-alerts/25907",
+      "description": "Due to current bushfire, some areas are temporarily closed in Barakula State Forest. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.",
+      "details": "<p>Due to current bushfire, some areas are temporarily closed in Barakula State Forest. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The area may also remain closed for a period after the bushfire to ensure the area is safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-11-03",
+      "start_effective_date": "2025-11-03",
+      "end_date": "2025-11-14",
+      "parks": [
+        {
+          "id": "148143",
+          "name": "Barakula State Forest",
+          "url": "https://parks.qld.gov.au/parks/barakula"
         }
       ]
     }
