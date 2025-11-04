@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 141,
-    "script_run_time": "2025-11-03 10:11:38"
+    "alerts_count": 136,
+    "script_run_time": "2025-11-04 10:11:36"
   },
   "alerts": [
     {
@@ -226,9 +226,9 @@
       "description": "Due to forestry plantation management, including heavy machinery operation in the Upper Stony Creek area, both the Caribbean circuit and Stony Creek circuit walking tracks are closed until further notice.",
       "details": "<p>Due to forestry plantation management, including heavy machinery operation in the Upper Stony Creek area, both the Caribbean circuit and Stony Creek circuit walking tracks are closed until further notice.</p> <p>For your safety, do not enter the closed walking tracks and follow all directions from Rangers and on-site closed signs.</p> <p>The Venusta circuit remains open for visitors and is accessed via the Upper Stony Creek day-use area.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2024-11-07",
+      "start_date": "2025-11-04",
       "start_effective_date": "2024-11-08",
-      "end_date": "2025-11-07",
+      "end_date": "2026-11-07",
       "parks": [
         {
           "id": "148223",
@@ -687,15 +687,15 @@
       ]
     },
     {
-      "title": "Burrum Coast National Park Kinkuna section - Temporary closure Southern access road",
+      "title": "Burrum Coast National Park Kinkuna section",
       "alert_id": "24786",
       "url": "https://parks.qld.gov.au/park-alerts/24786",
-      "description": "Southern access into Kinkuna bush camping from Woodgate road is temporarily closed.",
-      "details": "<p>Southern access into Kinkuna bush camping from Woodgate road is temporarily closed.</p> <p>Kinkuna bush camping area and&nbsp;Palm Beach road (northern access) is&nbsp;<strong>open</strong>.</p> <p>High clearance Four-wheel-drive vehicles only on permitted roads. Drive to the conditions. Be aware, the area may be closed at short notice with a rainfall or fire event.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Kinkuna Bush Camping is temporarily closed due to ongoing wet weather.",
+      "details": "<p>Kinkuna Bush Camping is temporarily closed due to ongoing wet weather.</p> <p>Both the northern access via Palm Beach Road and the southern access via Woppis Road are currently inaccessible due to wet weather. We appreciate your understanding and will provide updates as conditions improve.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-31",
-      "start_effective_date": "2024-12-16",
-      "end_date": "2026-02-02",
+      "start_date": "2025-11-04",
+      "start_effective_date": "2025-11-04",
+      "end_date": "2025-12-01",
       "parks": [
         {
           "id": "148436",
@@ -1954,29 +1954,6 @@
       ]
     },
     {
-      "title": "Local Fire Ban Eurimbula National Park and Deepwater National Park",
-      "alert_id": "25806",
-      "url": "https://parks.qld.gov.au/park-alerts/25806",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Gladstone Council which includes the above parks within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Gladstone Council which includes the above parks within this local government area. Check current Fire Bans &amp; Restrictions declared by QFD.</p> <p>Until further notice, open fires must not be lit anywhere in:</p> <ul> <li>Eurimbula National Park</li> <li>Deepwater National Park</li> </ul> <p>The following are&nbsp;<strong>not permitted:</strong></p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves,&nbsp;<strong>are permitted</strong>&nbsp;to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>As a result of bushfire risk, some closures may be in place&mdash;check this park&#39;s web page for relevant closure Park alerts</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-28",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2025-11-03",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        },
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
-        }
-      ]
-    },
-    {
       "title": "Carnarvon Great Walk (Overnight hike) - Closure",
       "alert_id": "25808",
       "url": "https://parks.qld.gov.au/park-alerts/25808",
@@ -1991,74 +1968,6 @@
           "id": "148864",
           "name": "Carnarvon Gorge, Carnarvon National Park",
           "url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Local Fire Ban Gladstone and Banana Regional Council areas",
-      "alert_id": "25811",
-      "url": "https://parks.qld.gov.au/park-alerts/25811",
-      "description": "Queensland Fire Department (QFD) has declared a Local Fire Ban for Banana Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area",
-      "details": "<p>Queensland Fire Department (QFD) has declared a Local Fire Ban for Banana Regional Council and Gladstone Regional Council areas which includes National Parks and State Forests within this local government area</p> <p>The following are not permitted:</p> <ul> <li>Open campfires and fires in braziers, drums and other open containers.</li> <li>Appliances using wood, timber or solid manufactured fuels (e.g. Oz-pigs, kettle barbeques and similar appliances); and</li> <li>Use of QPWS supplied fire-rings and wood-fired barbeques.</li> </ul> <p>Gas and electric barbecues including gas and spirit stoves, are permitted to be used if they:</p> <ul> <li>do not have the potential to generate airborne embers or ignite nearby ground fuels.</li> <li>are not left unattended; and</li> <li>are suitably contained</li> </ul> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-31",
-      "start_effective_date": "2025-10-29",
-      "end_date": "2025-11-03",
-      "parks": [
-        {
-          "id": "148388",
-          "name": "Joseph Banks Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/joseph-banks"
-        },
-        {
-          "id": "148348",
-          "name": "Broadwater Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/broadwater"
-        },
-        {
-          "id": "148588",
-          "name": "Mount Scoria Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mount-scoria"
-        },
-        {
-          "id": "150220",
-          "name": "Mouth of Baffle Creek Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mouth-of-baffle-creek"
-        },
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        },
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
-        },
-        {
-          "id": "293539",
-          "name": "Dawes National Park",
-          "url": "https://parks.qld.gov.au/parks/dawes"
-        },
-        {
-          "id": "148745",
-          "name": "Mount Colosseum National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-colosseum"
-        },
-        {
-          "id": "148504",
-          "name": "Castle Tower National Park",
-          "url": "https://parks.qld.gov.au/parks/castle-tower"
-        },
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.qld.gov.au/parks/bulburin"
-        },
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
         }
       ]
     },
@@ -2156,24 +2065,6 @@
           "id": "405267",
           "name": "Tagalaka National Park",
           "url": "https://parks.qld.gov.au/parks/tagalaka"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure Kulki boardwalk and lookout, Cape Tribulation section of Daintree National Park (CYPAL).",
-      "alert_id": "25837",
-      "url": "https://parks.qld.gov.au/park-alerts/25837",
-      "description": "Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).",
-      "details": "<p>Kulki boardwalk and lookout will be closed from Friday 17 October to Monday 3 November 2025 (dates inclusive).</p> <p>Contractors will be undertaking remedial works following damage from ex-Tropical Cyclone Jasper.</p> <p>The Kulki day-use area will remain open during this time.&nbsp;</p> <p>Visitors are reminded to follow all onsite closure signage and directions from rangers.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-24",
-      "start_effective_date": "2025-10-17",
-      "end_date": "2025-11-03",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/daintree"
         }
       ]
     },
@@ -2447,9 +2338,9 @@
       "description": "Due to deteriorating conditions and lack of recent rainfall, there has been a significant reduction in water flow resulting in the water quality at Upper Stony Creek declining.",
       "details": "<p>Due to deteriorating conditions and lack of recent rainfall, there has been a significant reduction in water flow resulting in the water quality at Upper Stony Creek declining.</p> <p>It is anticipated that water quality will improve following the next significant rainfall event.</p> <p>Swimming at Upper Stony is not recommended until water quality improves.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p>",
       "category": "Announcement",
-      "start_date": "2025-10-28",
+      "start_date": "2025-11-04",
       "start_effective_date": "2025-10-17",
-      "end_date": "2025-11-07",
+      "end_date": "2025-11-21",
       "parks": [
         {
           "id": "148223",
@@ -2495,24 +2386,6 @@
       ]
     },
     {
-      "title": "Bushfire Alert - temporary closure - Mount Ernest section of Mount Barney National Park",
-      "alert_id": "25866",
-      "url": "https://parks.qld.gov.au/park-alerts/25866",
-      "description": "A bushfire is currently active in the Mount Ernest section of Mount Barney National Park and is expected to be so for some days to come. The area may remain closed for a period after the bushfire to ensure the area is safe. For public safety, the entire section of Mount Ernest is closed. The park will reopen when conditions are considered safe.",
-      "details": "<p>A bushfire is currently active in the Mount Ernest section of Mount Barney National Park and is expected to be so for some days to come. The area may remain closed for a period after the bushfire to ensure the area is safe. For public safety, the entire section of Mount Ernest is closed. The park will reopen when conditions are considered safe.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-10-20",
-      "start_effective_date": "2025-10-20",
-      "end_date": "2025-11-03",
-      "parks": [
-        {
-          "id": "148528",
-          "name": "Mount Barney National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-barney"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Coochin Creek Campground",
       "alert_id": "25875",
       "url": "https://parks.qld.gov.au/park-alerts/25875",
@@ -2545,47 +2418,6 @@
           "id": "322931",
           "name": "Carbrook Wetlands Conservation Park 1",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Tempory road closure: Mount Lewis Road, Mount Lewis National Park",
-      "alert_id": "25879",
-      "url": "https://parks.qld.gov.au/park-alerts/25879",
-      "description": "Mount Lewis Road in Mount Lewis National Park will be closed to the public from Monday 27 October to Tuesday 3 November 2025 (dates inclusive) for removal of hazardous trees.",
-      "details": "<p>Mount Lewis Road in Mount Lewis National Park will be closed to the public from Monday 27 October to Tuesday 3 November 2025 (dates inclusive) for removal of hazardous trees.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-24",
-      "start_effective_date": "2025-10-27",
-      "end_date": "2025-11-03",
-      "parks": [
-        {
-          "id": "148484",
-          "name": "Mount Lewis National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-lewis"
-        }
-      ]
-    },
-    {
-      "title": "Mustering operations: Blencoe Falls camping area, Girringun National Park",
-      "alert_id": "25880",
-      "url": "https://parks.qld.gov.au/park-alerts/25880",
-      "description": "A neighbouring property of Girringun National Park will be conducting mustering operations in and around the Blencoe Falls camping area from Friday 31 October to Monday 3 November 2025 (dates inclusive).",
-      "details": "<p>A neighbouring property of Girringun National Park will be conducting mustering operations in and around the Blencoe Falls camping area from Friday 31 October to Monday 3 November 2025 (dates inclusive).</p> <p><strong>The Blenoe Falls camping area will remain open during this time.</strong></p> <p>Mustering is occurring to remove stray cattle from the camping area and surrounding national park. These operations help us to conserve the natural and cultural values of the park. Authorised helicopters, mustering dogs, side by sides and motorbikes may be seen in the area during this time.&nbsp;</p> <p>Please stay away from cattle and mustering operations and exercise caution along roads and tracks. &nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-24",
-      "start_effective_date": "2025-10-31",
-      "end_date": "2025-11-03",
-      "parks": [
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/blencoe-falls"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
         }
       ]
     },
@@ -2864,24 +2696,6 @@
       ]
     },
     {
-      "title": "Freshwater campground - temporary loss of hot water showers.",
-      "alert_id": "25905",
-      "url": "https://parks.qld.gov.au/park-alerts/25905",
-      "description": "Freshwater campground - temporary loss of hot water showers.",
-      "details": "<p>Freshwater campground - temporary loss of hot water showers.</p> <p>Due to recent storm damage, maintenance works in the Freshwater campground toilet facilities will commence on Monday 3 November 2025. As a result, the hot water shower facilities will be unavailable whilst under repair.</p> <p>Cold water shower facilities are still available in Freshwater Camping Area.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2025-11-03",
-      "start_effective_date": "2025-11-03",
-      "end_date": "2026-01-24",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Lake Barrine circuit track beyond the Twin Kauris, Crater Lakes National Park",
       "alert_id": "25906",
       "url": "https://parks.qld.gov.au/park-alerts/25906",
@@ -2914,6 +2728,42 @@
           "id": "148143",
           "name": "Barakula State Forest",
           "url": "https://parks.qld.gov.au/parks/barakula"
+        }
+      ]
+    },
+    {
+      "title": "Planned road works on Black Mountain Road: Kuranda National Park and Mowbray National Park",
+      "alert_id": "25908",
+      "url": "https://parks.qld.gov.au/park-alerts/25908",
+      "description": "Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned road works on Black Mountain Road (north of Quaid Road) from Thursday 6 November to Friday 21 November 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned road works on Black Mountain Road (north of Quaid Road) from Thursday 6 November to Friday 21 November 2025 (weather permitting).</p> <p>The road will remain open during this time but please drive slowly and watch out for machinery.</p> <p>Please observe all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-11-04",
+      "start_effective_date": "2025-11-04",
+      "end_date": "2025-11-21",
+      "parks": [
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Razorback Track closed",
+      "alert_id": "25909",
+      "url": "https://parks.qld.gov.au/park-alerts/25909",
+      "description": "Razorback Track temporarily closed due to bushfire damage.",
+      "details": "<p>Razorback Track temporarily closed due to bushfire damage.</p> <p>Due to a recent bushfire in the area, the Razorback Track is temporarily closed.</p> <p>QPWS Rangers are currently assessing, removing debris and repairing track as necessary to allow safe access.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-11-04",
+      "start_effective_date": "2025-11-07",
+      "end_date": "2025-11-13",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
         }
       ]
     }
