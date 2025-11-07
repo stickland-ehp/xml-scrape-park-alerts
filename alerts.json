@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 137,
-    "script_run_time": "2025-11-06 10:11:57"
+    "alerts_count": 139,
+    "script_run_time": "2025-11-07 10:11:07"
   },
   "alerts": [
     {
@@ -2243,29 +2243,6 @@
       ]
     },
     {
-      "title": "Park Alert: Temporary Closure of George Point  Pest Control Program",
-      "alert_id": "25859",
-      "url": "https://parks.qld.gov.au/park-alerts/25859",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a pest control program at George Point on Hinchinbrook Island between Tuesday 4th and Thursday6th of November to support ongoing conservation efforts and protect the islands unique natural values.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a pest control program at George Point on Hinchinbrook Island between Tuesday 4th and Thursday6th of November to support ongoing conservation efforts and protect the islands unique natural values.</p> <p>Access to George Point will be prohibited for the duration of the pest control program;&nbsp;this includes the camping area and hiker pickup/drop-off area. This is necessary to ensure public safety and the effectiveness of the operation.&nbsp;</p> <p>The Thorsborne Trail will remain open, however hikers will need to arrange pickup/drop-off at the northern end of Mulligan Bay rather than George Point. The vessel transfer operators have been informed.&nbsp;</p> <p>QPWS appreciates your cooperation and understanding as we carry out this important work. Further updates will be provided as necessary, including notification of the reopening of the area once the program is complete.&nbsp;</p> <p>For more information, please contact&nbsp;<a href=\"mailto:hinchinbrook@detsi.qld.gov.au\" target=\"_blank\">hinchinbrook@detsi.qld.gov.au</a>.&nbsp;</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-16",
-      "start_effective_date": "2025-11-04",
-      "end_date": "2025-11-06",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
       "title": "Upper Stony Creek water quality",
       "alert_id": "25860",
       "url": "https://parks.qld.gov.au/park-alerts/25860",
@@ -2777,6 +2754,60 @@
           "id": "322772",
           "name": "Muundhi (Jack River) National Park (CYPAL)",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program for Eurimbula National Park",
+      "alert_id": "25914",
+      "url": "https://parks.qld.gov.au/park-alerts/25914",
+      "description": "In conjunction with the nesting and hatching season for marine turtles as well as the arrival of migratory shorebirds, contractors and QPWS staff will be undertaking controlled trapping of the feral fox and pig population within Eurimbula National Park.",
+      "details": "<p>In conjunction with the nesting and hatching season for marine turtles as well as the arrival of migratory shorebirds, contractors and QPWS staff will be undertaking controlled trapping of the feral fox and pig population within Eurimbula National Park.</p> <p>This work will be carried out for the duration of the nesting period. These activities are conducted to reduce impacts on turtle and bird nests from predation by feral animals.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Other",
+      "start_date": "2025-11-07",
+      "start_effective_date": "2025-11-09",
+      "end_date": "2026-01-31",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.qld.gov.au/parks/eurimbula"
+        }
+      ]
+    },
+    {
+      "title": "Planned works Amama Day use Area - Amamoor State Forest",
+      "alert_id": "25915",
+      "url": "https://parks.qld.gov.au/park-alerts/25915",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be upgrading Amama Carpark within Amamoor State Forest on Thursday 13 November 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be upgrading Amama Carpark within Amamoor State Forest on Thursday 13 November 2025 (weather permitting).</p> <p>Limited parking will still be available&nbsp;at the western end of Amama Day use area.&nbsp;</p> <p>Please observe all sigange, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Please monitor park alerts on the department&#39;s website for updated information.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-07",
+      "start_effective_date": "2025-11-13",
+      "end_date": "2025-11-13",
+      "parks": [
+        {
+          "id": "148275",
+          "name": "Amamoor State Forest",
+          "url": "https://parks.qld.gov.au/parks/amamoor"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Oceanview Track",
+      "alert_id": "25916",
+      "url": "https://parks.qld.gov.au/park-alerts/25916",
+      "description": "Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned weed control along Oceanview track in Burleigh Head National Park on Monday 10 November 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned weed control along Oceanview track in Burleigh Head National Park on Monday 10 November 2025 (weather permitting).</p> <p>As a safety precaution, <strong>Oceanview track will be closed for the duration of the work</strong>.</p> <p>Rainforest circuit will remain open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-07",
+      "start_effective_date": "2025-11-07",
+      "end_date": "2025-11-10",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.qld.gov.au/parks/burleigh-head"
         }
       ]
     }
