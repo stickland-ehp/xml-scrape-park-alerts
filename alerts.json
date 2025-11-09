@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 138,
-    "script_run_time": "2025-11-08 10:08:46"
+    "alerts_count": 136,
+    "script_run_time": "2025-11-09 10:08:42"
   },
   "alerts": [
     {
@@ -2054,24 +2054,6 @@
       ]
     },
     {
-      "title": "Sandy Point closed for Pest Management 3-7 November 2025",
-      "alert_id": "25847",
-      "url": "https://parks.qld.gov.au/park-alerts/25847",
-      "description": "Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting a pest management control program at Byfield National Park  Sandy Point section including the adjacent intertidal zone within the Great Barrier Reef Coast Marine Park will be closed from 1am Monday 3rd November 2025 to 4pm Friday 7th November 2025 (weather permitting) as part of the conservation management program for the park. Firearms may be used during this time.",
-      "details": "<p>Queensland Parks and Wildlife Service and Partnerships (QPWS&amp;P) will be conducting a pest management control program at Byfield National Park  Sandy Point section including the adjacent intertidal zone within the Great Barrier Reef Coast Marine Park will be closed from 1am Monday 3rd November 2025 to 4pm Friday 7th November 2025 (weather permitting) as part of the conservation management program for the park. Firearms may be used during this time.</p> <p>Visitor access to Sandy Point will be reopened by 4pm Friday 7th November 2025.&nbsp;</p> <p>All control activities will be in accordance with the approved pest management plan and will help to protect native wildlife from the harmful effects of introduced animals.&nbsp;&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;<br /> &nbsp;</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-14",
-      "start_effective_date": "2025-10-14",
-      "end_date": "2025-11-08",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Strategic fireline upgrade works, Bulwer to Blue Lagoon Road, Gheebulum Kunungai National Park and Moreton Island (Mulgumpin) Recreation Area.",
       "alert_id": "25852",
       "url": "https://parks.qld.gov.au/park-alerts/25852",
@@ -2772,24 +2754,6 @@
           "id": "148488",
           "name": "Mount Walsh National Park",
           "url": "https://parks.qld.gov.au/parks/mount-walsh"
-        }
-      ]
-    },
-    {
-      "title": "Turtle Encounter tours CANCELLED 8/11/2025",
-      "alert_id": "25919",
-      "url": "https://parks.qld.gov.au/park-alerts/25919",
-      "description": "Please be advised that an unexploded ordinance has washed ashore at Mon Repos beach. The Queensland Police Service have established an exclusion zone, until the area is declared safe.",
-      "details": "<p>Please be advised that an unexploded ordinance has washed ashore at Mon Repos beach. The Queensland Police Service have established an exclusion zone, until the area is declared safe.</p> <ul> <li>Mon Repos Conservation Park is closed to the public.</li> <li>Turtle Encounter Ticket holders for 8/11/2025 will be issued with a refund</li> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-11-08",
-      "start_effective_date": "2025-11-08",
-      "end_date": "2025-11-08",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mon-repos"
         }
       ]
     }
