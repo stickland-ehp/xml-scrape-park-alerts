@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 153,
-    "script_run_time": "2025-11-13 10:11:23"
+    "alerts_count": 150,
+    "script_run_time": "2025-11-14 10:11:41"
   },
   "alerts": [
     {
@@ -303,9 +303,9 @@
       "description": "Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:",
       "details": "<p>Please see below update on the status of visitor facilities within the Misty Mountains road and track network in Wooroonooran National Park:</p> <p><strong>Misty Mountains roads, walking tracks and camping areas that are open:</strong></p> <ul> <li>K-Tree Road</li> <li>Maple Creek Road</li> <li>Cardwell Range track including access to Cannabullen Falls and Majors Mountain</li> <li>Koolmoon Creek track network (except section of track from Walters Waterhole camping area to Elizabeth Grant Falls)</li> <li>Cannabullen Creek track between Hinson Creek trailhead and Hinson Creek camping area</li> <li>Gorrell track</li> <li>Hinson Creek camping area (accessible via Sutties Gap Road)</li> <li>Koolmoon Creek camping area</li> <li>South Johnstone camping area</li> <li>Downey Creek camping area.</li> <li>Walters Waterhole walking track and camping area</li> </ul> <p><strong>Walking tracks and camping areas that are currently closed due to access issues:</strong></p> <ul> <li>Koolmoon Creek track from Walters Waterhole camping area to Cochable Creek camping area (including Elizabeth Grant Falls).</li> <li>Carter Creek camping area.</li> <li>Cannabullen Creek camping area.</li> <li>Cochable Creek camping area and H Road access.</li> <li>Cannabullen Creek track between Hinson Creek camping. area and Cochable Creek camping area.</li> <li>Djilgarrin walking track.</li> </ul> <p>Monitor park alerts for up-to-date information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-30",
+      "start_date": "2025-11-14",
       "start_effective_date": "2023-12-19",
-      "end_date": "2025-11-14",
+      "end_date": "2025-11-18",
       "parks": [
         {
           "id": "151396",
@@ -1197,24 +1197,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Mossman River lookout, Mossman Gorge, Daintree National Park (CYPAL)",
-      "alert_id": "25388",
-      "url": "https://parks.qld.gov.au/park-alerts/25388",
-      "description": "The Mossman River lookout at Mossman Gorge in Daintree National Park (CYPAL), is temporarily closed due to damage caused by tree fall in June 2025.",
-      "details": "<p>The Mossman River lookout at Mossman Gorge in Daintree National Park (CYPAL), is temporarily closed due to damage caused by tree fall in June 2025.</p> <p>Repairs are scheduled to commence in January 2026, with the lookout expected to reopen by Sunday 1 February 2026, pending the completion of works.</p> <p>We understand this closure may cause inconvenience and appreciate your patience as we work to ensure the safety and quality of this facility.</p> <p>All other visitor facilites at Mossman Gorge remain open including walking tracks, picnic areas and alternative viewing points.</p> <p>For further updates, please check the Daintree National Park alerts page or contact the local ranger station.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-31",
-      "start_effective_date": "2025-06-05",
-      "end_date": "2026-02-01",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Reduced campsites due to erosion",
       "alert_id": "25451",
       "url": "https://parks.qld.gov.au/park-alerts/25451",
@@ -1826,10 +1808,10 @@
       "title": "Access to Byfield National and Conservation Park",
       "alert_id": "25787",
       "url": "https://parks.qld.gov.au/park-alerts/25787",
-      "description": "Access to Byfield National Park and Conservation Park have reopened. Conditions will regularly be assessed and should the road deteriorate again, access will be closed. Please continue to monitor this page before visiting the area.",
-      "details": "<p>Access to Byfield National Park and Conservation Park have reopened. Conditions will regularly be assessed and should the road deteriorate again, access will be closed. Please continue to monitor this page before visiting the area.</p> <p>The visitor facilities listed below are affected by this access:</p> <ul> <li>Five Rocks camping area</li> <li>Nine Mile Beach camping areas (Casuarina, Melaleuca, Myrtella and Pandanus)</li> <li>Creek to coast walking track</li> <li>All walking opportunities in Byfield National Park and Conservation Park</li> <li>All vehicle access tracks in Byfield National Park and Conservation Park.</li> </ul> <p><strong>QPWS local fire prohibition remains in place. No fires permitted. </strong>See park alert &nbsp;<a href=\"https://parks.qld.gov.au/park-alerts/25785.\">https://parks.qld.gov.au/park-alerts/25785.</a>&nbsp;for further details.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Access to Byfield National Park and Conservation Park has reopened. Conditions will regularly be assessed and should the road deteriorate again, access will be closed. Please continue to monitor this page before visiting the area.",
+      "details": "<p>Access to Byfield National Park and Conservation Park has reopened. Conditions will regularly be assessed and should the road deteriorate again, access will be closed. Please continue to monitor this page before visiting the area.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility opening",
-      "start_date": "2025-11-06",
+      "start_date": "2025-11-14",
       "start_effective_date": "2025-11-06",
       "end_date": "2025-11-16",
       "parks": [
@@ -2535,24 +2517,6 @@
       ]
     },
     {
-      "title": "Razorback Track closed",
-      "alert_id": "25909",
-      "url": "https://parks.qld.gov.au/park-alerts/25909",
-      "description": "Razorback Track temporarily closed due to bushfire damage.",
-      "details": "<p>Razorback Track temporarily closed due to bushfire damage.</p> <p>Due to a recent bushfire in the area, the Razorback Track is temporarily closed.</p> <p>QPWS Rangers are currently assessing, removing debris and repairing track as necessary to allow safe access.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-11-04",
-      "start_effective_date": "2025-11-07",
-      "end_date": "2025-11-13",
-      "parks": [
-        {
-          "id": "148784",
-          "name": "Kroombit Tops National Park",
-          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
-        }
-      ]
-    },
-    {
       "title": "Planned burns for The Knoll section, Tamborine National Park",
       "alert_id": "25910",
       "url": "https://parks.qld.gov.au/park-alerts/25910",
@@ -2664,42 +2628,6 @@
           "id": "148119",
           "name": "Eurimbula National Park",
           "url": "https://parks.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
-      "title": "Planned works Amama Day use Area - Amamoor State Forest",
-      "alert_id": "25915",
-      "url": "https://parks.qld.gov.au/park-alerts/25915",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be upgrading Amama Carpark within Amamoor State Forest on Thursday 13 November 2025 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be upgrading Amama Carpark within Amamoor State Forest on Thursday 13 November 2025 (weather permitting).</p> <p>Limited parking will still be available&nbsp;at the western end of Amama Day use area.&nbsp;</p> <p>Please observe all sigange, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Please monitor park alerts on the department&#39;s website for updated information.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-11-07",
-      "start_effective_date": "2025-11-13",
-      "end_date": "2025-11-13",
-      "parks": [
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.qld.gov.au/parks/amamoor"
-        }
-      ]
-    },
-    {
-      "title": "Planned works for Oceanview Track",
-      "alert_id": "25916",
-      "url": "https://parks.qld.gov.au/park-alerts/25916",
-      "description": "Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned weed control along Oceanview track in Burleigh Head National Park on Thursday 13 November 2025 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned weed control along Oceanview track in Burleigh Head National Park on Thursday 13 November 2025 (weather permitting).</p> <p>As a safety precaution, <strong>Oceanview track will be closed for the duration of the work</strong>.</p> <p>Rainforest circuit will remain open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-11-10",
-      "start_effective_date": "2025-11-07",
-      "end_date": "2025-11-13",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.qld.gov.au/parks/burleigh-head"
         }
       ]
     },
@@ -3070,6 +2998,24 @@
           "id": "148560",
           "name": "Daisy Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire advice: Mungurru lookout walking track and Waymbuurr lookout walking track, Mount Cook National Park",
+      "alert_id": "25940",
+      "url": "https://parks.qld.gov.au/park-alerts/25940",
+      "description": "Visitors are advised that there is currently an active bushfire in the northern section of the Mount Cook National Park, northeast of the Mungurru lookout walking track and Waymbuurr lookout walking track. This fire currently presents no threat to public safety.",
+      "details": "<p>Visitors are advised that there is currently an active bushfire in the northern section of the Mount Cook National Park, northeast of the Mungurru lookout walking track and Waymbuurr lookout walking track. This fire currently presents no threat to public safety.</p> <p>The car park, walking tracks and lookouts will remain open, however rangers advise visitors to use caution around previously burnt vegetation along the tracks and advise hikers may encounter smoke.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2025-11-14",
+      "start_effective_date": "2025-11-14",
+      "end_date": "2025-11-21",
+      "parks": [
+        {
+          "id": "148616",
+          "name": "Mount Cook National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-cook"
         }
       ]
     }
