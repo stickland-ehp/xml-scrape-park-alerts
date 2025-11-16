@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 143,
-    "script_run_time": "2025-11-15 10:08:50"
+    "alerts_count": 142,
+    "script_run_time": "2025-11-16 10:09:10"
   },
   "alerts": [
     {
@@ -2462,39 +2462,6 @@
           "id": "149405",
           "name": "Mount Etna Caves National Park",
           "url": "https://parks.qld.gov.au/parks/mount-etna-caves"
-        }
-      ]
-    },
-    {
-      "title": "Aerial feral animal control activities: Rinyirru (Lakefield) National Park (CYPAL) and Resources Reserve, Lama Lama National Park (CYPAL) and Muundhi (Jack River) National Park (CYPAL)",
-      "alert_id": "25913",
-      "url": "https://parks.qld.gov.au/park-alerts/25913",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in the parks and reserve listed below, from Monday 10 November to Saturday 15 November 2025 (dates inclusive). Helicopters and firearms may be heard during this time.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in the parks and reserve listed below, from Monday 10 November to Saturday 15 November 2025 (dates inclusive). Helicopters and firearms may be heard during this time.</p> <p><strong>Parks with public access:</strong></p> <ul> <li>Rinyirru (Lakefield) National Park (CYPAL)- camping areas, day-use areas including access roads and tracks will not be affected.</li> </ul> <p><strong>Parks with no public access:</strong></p> <ul> <li>Rinyirru (Lakefield) Resources Reserve</li> <li>Lama Lama National Park (CYPAL)</li> <li>Muundhi (Jack River) National Park (CYPAL).</li> </ul> <p>For your safety, visitors are reminded to remain on designated access tracks and within designated camping areas and day-use areas only.</p>",
-      "category": "Announcement",
-      "start_date": "2025-11-06",
-      "start_effective_date": "2025-11-06",
-      "end_date": "2025-11-15",
-      "parks": [
-        {
-          "id": "149481",
-          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/rinyirru-lakefield"
-        },
-        {
-          "id": "322668",
-          "name": "Rinyirru (Lakefield) Resources Reserve",
-          "url": ""
-        },
-        {
-          "id": "148235",
-          "name": "Lama Lama National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/lama-lama"
-        },
-        {
-          "id": "322772",
-          "name": "Muundhi (Jack River) National Park (CYPAL)",
-          "url": ""
         }
       ]
     },
