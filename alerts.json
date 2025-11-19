@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 138,
-    "script_run_time": "2025-11-18 10:12:11"
+    "alerts_count": 140,
+    "script_run_time": "2025-11-19 10:11:02"
   },
   "alerts": [
     {
@@ -1842,29 +1842,6 @@
       ]
     },
     {
-      "title": "Temporary closure for mustering operations: Princess Hills camping area, Girringun National Park",
-      "alert_id": "25853",
-      "url": "https://parks.qld.gov.au/park-alerts/25853",
-      "description": "A neighbouring property of the Princess Hills section of Girringun National Park will be conducting mustering operations in and around the Princess Hills camping area from Saturday 1 to Thursday 20 November 2025 (dates inclusive).",
-      "details": "<p>A neighbouring property of the Princess Hills section of Girringun National Park will be conducting mustering operations in and around the Princess Hills camping area from Saturday 1 to Thursday 20 November 2025 (dates inclusive).</p> <p>These operations will remove stray cattle from the camping area and the surrounding national park and help to conserve the natural and cultural values of the park.&nbsp;</p> <p><strong>The Princess Hills camping area will be closed during this period and will reopen as normal on Friday 21 November 2025.</strong></p> <p>Please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online for your existing camping booking.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-27",
-      "start_effective_date": "2025-11-01",
-      "end_date": "2025-11-20",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary camping area and walking track closure: Wallaman Falls and Wet Tropics Great Walk, Girringun National Park",
       "alert_id": "25854",
       "url": "https://parks.qld.gov.au/park-alerts/25854",
@@ -1967,34 +1944,6 @@
       ]
     },
     {
-      "title": "Temporary closure for aerial pest management activities: Princess Hills section and Wairuna section, Girringun National Park",
-      "alert_id": "25858",
-      "url": "https://parks.qld.gov.au/park-alerts/25858",
-      "description": "The Princess Hills section and Wairuna section of Girringun National Park will be temporarily closed for aerial pest management activities from Monday 24 November to Thursday 27 November 2025 (dates inclusive). The closure includes the following areas:",
-      "details": "<p>The Princess Hills section and Wairuna section of Girringun National Park will be temporarily closed for aerial pest management activities from Monday 24 November to Thursday 27 November 2025 (dates inclusive). The closure includes the following areas:</p> <ul> <li>Princess Hills camping area</li> <li>Wairuna camping area</li> </ul> <p>Princess Hills camping area and Wairuna camping area will reopen as normal, on Friday 28 November 2025.</p> <p>Helicopters may be seen and heard in the vicinity, during this time.</p> <p>These operations us help to conserve the natural and cultural values of the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-16",
-      "start_effective_date": "2025-11-24",
-      "end_date": "2025-11-27",
-      "parks": [
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
       "title": "Upper Stony Creek water quality",
       "alert_id": "25860",
       "url": "https://parks.qld.gov.au/park-alerts/25860",
@@ -2027,6 +1976,24 @@
           "id": "148997",
           "name": "Cape Pallarenda Conservation Park",
           "url": "https://parks.qld.gov.au/parks/cape-pallarenda"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Mount Mackay NP",
+      "alert_id": "25865",
+      "url": "https://parks.qld.gov.au/park-alerts/25865",
+      "description": "Planned burn taking place in Mount Mackay National Park. QPWS Rangers and machinery may be working along roadsides in the vicinity of Carmoo, Tully Mission Beach road. For your safety and the safety of authorities, please slow down and observe all directions and signs. During the planned burn Mount Mackay National Park is closed to public access. Smoke may be seen in the vicinity of Carmoo, Tully Mission Beach road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.",
+      "details": "<p>Planned burn taking place in Mount Mackay National Park. QPWS Rangers and machinery may be working along roadsides in the vicinity of Carmoo, Tully Mission Beach road. For your safety and the safety of authorities, please slow down and observe all directions and signs. During the planned burn Mount Mackay National Park is closed to public access. Smoke may be seen in the vicinity of Carmoo, Tully Mission Beach road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-11-19",
+      "start_effective_date": "2025-11-20",
+      "end_date": "2025-11-27",
+      "parks": [
+        {
+          "id": "322781",
+          "name": "Mount Mackay National Park",
+          "url": ""
         }
       ]
     },
@@ -2485,24 +2452,6 @@
       ]
     },
     {
-      "title": "Bushfire alert for Gillies Range and Robson track closure, Little Mulgrave National Park",
-      "alert_id": "25929",
-      "url": "https://parks.qld.gov.au/park-alerts/25929",
-      "description": "Due to a current bushfire, on Gillies Range, the Robson track is temporarily closed in Little Mulgrave National Park. Bushfire response activities are in progress, and Queensland Parks and Wildlife Service (QPWS) rangers will continue to manage the situation.",
-      "details": "<p>Due to a current bushfire, on Gillies Range, the Robson track is temporarily closed in Little Mulgrave National Park. Bushfire response activities are in progress, and Queensland Parks and Wildlife Service (QPWS) rangers will continue to manage the situation.</p> <p>Please be aware that smoke has the potential to impact the road and limit driver visibility, as well as linger within the area over the coming days. Drive slowly, obey all signs and instructions from rangers.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>To report any bushfires, call Triple Zero (000)</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2025-11-12",
-      "start_effective_date": "2025-11-12",
-      "end_date": "2025-11-18",
-      "parks": [
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Lighthouse Track Maintenance",
       "alert_id": "25930",
       "url": "https://parks.qld.gov.au/park-alerts/25930",
@@ -2670,13 +2619,13 @@
       ]
     },
     {
-      "title": "Temporary closures: southern section of Koolmoon Creek track, including Elizabeth Grant Falls; and section of Cannabullen Creek track, including Carter Creek and Cochable Creek camping areas - Misty Mountains wilderness tracks and Tully Gorge National Par",
+      "title": "Temporary closures: southern section of Koolmoon Creek track, including Elizabeth Grant Falls; and section of Cannabullen Creek track, including Carter Creek and Cochable Creek camping areasMisty Mountains wilderness tracks and Tully Gorge National Par",
       "alert_id": "25942",
       "url": "https://parks.qld.gov.au/park-alerts/25942",
       "description": "Cassowary Coast Regional Council have closed the access road (H-Road) to Cochable Creek camping and day-use areas and the eastern entrance to Koolmoon Creek track, including Elizabeth Grant Falls section. The road closure is in place from its entrance point, off Tully Gorge Road and just before the Tully River bridge, due to safety concerns of a bridge structure along H-Road.",
       "details": "<p>Cassowary Coast Regional Council have closed the access road (H-Road) to Cochable Creek camping and day-use areas and the eastern entrance to Koolmoon Creek track, including Elizabeth Grant Falls section. The road closure is in place from its entrance point, off Tully Gorge Road and just before the Tully River bridge, due to safety concerns of a bridge structure along H-Road.</p> <p><strong>For your safety, please note the following closures due to access issues:</strong></p> <ul> <li>Cochable Creek camping and day-use areas</li> <li>Elizabeth Grant Falls section of Koolmoon Creek track, from Cochable Creek camping area to Elizabeth Grant Falls</li> <li>Koolmoon Creek track section, from Walters Waterhole camping area to Cochable Creek camping area</li> <li>Cannabullen Creek track, between Hinson Creek and Cochable Creek camping areas</li> <li>Carter Creek camping area.</li> </ul> <p>Enquiries about the H-Road closure should be directed to the Cassowary Coast Regional Council on 1300 763 903.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-11-18",
+      "start_date": "2025-11-19",
       "start_effective_date": "2025-11-17",
       "end_date": "2026-03-31",
       "parks": [
@@ -2770,6 +2719,83 @@
           "id": "322855",
           "name": "Japoon National Park",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Glastonbury Creek Campground closure",
+      "alert_id": "25946",
+      "url": "https://parks.qld.gov.au/park-alerts/25946",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Glastonbury Creek Campground from 2 - 4 December 2025 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Glastonbury Creek Campground from 2 - 4 December 2025 (weather permitting).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-19",
+      "start_effective_date": "2025-12-02",
+      "end_date": "2025-12-04",
+      "parks": [
+        {
+          "id": "148063",
+          "name": "Brooyar State Forest",
+          "url": "https://parks.qld.gov.au/parks/brooyar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Tamborine National Park",
+      "alert_id": "25947",
+      "url": "https://parks.qld.gov.au/park-alerts/25947",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 20 November 2025 to Monday 24 November 2025, as part of the fire management program for Tamborine National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 20 November 2025 to Monday 24 November 2025, as part of the fire management program for Tamborine National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Tamborine Mountain Road and Cedar Creek Falls Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn all internal fire trails in the vicinity of Tamborine Mountain Road and Cedar Creek Falls Road will be closed to public access.</p> <p>Note: this closure does not affect Cedar Creek Falls day-use area and walking tracks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2025-11-19",
+      "start_effective_date": "2025-11-19",
+      "end_date": "2025-11-24",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure: 1 of 3 camp sites, East Hope Island camping area",
+      "alert_id": "25948",
+      "url": "https://parks.qld.gov.au/park-alerts/25948",
+      "description": "Due to a hazardous tree, the southernmost camp site at East Hope Island camping area is temporarily closed.",
+      "details": "<p>Due to a hazardous tree, the southernmost camp site at East Hope Island camping area is temporarily closed.</p> <p>Rangers are working to get the site reopened as soon as possible.</p> <p>Please observe all signage, barriers, and directions from Rangers. Do not enter closed areas.</p> <p>Queensland Parks and Wildlife Service apologises for any inconvenience.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-19",
+      "start_effective_date": "2025-11-19",
+      "end_date": "2025-12-31",
+      "parks": [
+        {
+          "id": "148404",
+          "name": "Hope Islands National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/hope-islands"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Princess Hills section, Girringun National Park",
+      "alert_id": "25949",
+      "url": "https://parks.qld.gov.au/park-alerts/25949",
+      "description": "Princess Hills section of Girringun National Park will close for the wet season on Monday 1 December 2025. It is anticipated to reopen on Wednesday 1 April 2026, subject to road and weather conditions.",
+      "details": "<p>Princess Hills section of Girringun National Park will close for the wet season on Monday 1 December 2025. It is anticipated to reopen on Wednesday 1 April 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2025-11-19",
+      "start_effective_date": "2025-11-19",
+      "end_date": "2026-03-31",
+      "parks": [
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
         }
       ]
     }
