@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 142,
-    "script_run_time": "2025-11-22 10:09:00"
+    "alerts_count": 140,
+    "script_run_time": "2025-11-23 10:09:23"
   },
   "alerts": [
     {
@@ -535,24 +535,6 @@
           "id": "148067",
           "name": "Rungulla National Park",
           "url": "https://parks.qld.gov.au/parks/rungulla"
-        }
-      ]
-    },
-    {
-      "title": "Speed limit reduction - Teewah Beach camping area",
-      "alert_id": "24708",
-      "url": "https://parks.qld.gov.au/park-alerts/24708",
-      "description": "The speed limit on the 14km section of beach adjacent to Teewah Beach camping area has been reduced to 40km/h.",
-      "details": "<p>The speed limit on the 14km section of beach adjacent to Teewah Beach camping area has been reduced to 40km/h.</p> <p>Gympie Regional Council Traffic and Road Safety Committee implemented the speed limit reduction to improve road safety, and maintain consistency with the 40km/h speed limit at Teewah Village beachfront.</p> <p>Gympie Regional Council have installed 40km/h speed signs, and speed limits are now enforceable. Queensland road rules apply to all beaches in Cooloola Recreation Area where vehicles are permitted. QPWS Rangers and the Queensland Police Service patrol this area regularly.</p> <p>There is no change to the 80km/h speed limit on other sections of Teewah Beach, unless otherwise signed.</p> <p>For your safety please use caution whilst visiting the park.</p>",
-      "category": "Announcement",
-      "start_date": "2024-11-22",
-      "start_effective_date": "2024-11-22",
-      "end_date": "2025-11-22",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
         }
       ]
     },
@@ -2209,24 +2191,6 @@
           "id": "149505",
           "name": "Whitsunday Islands National Park",
           "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
-      "title": "Mount Etna Caves Pest Program 10-21 November 2025",
-      "alert_id": "25912",
-      "url": "https://parks.qld.gov.au/park-alerts/25912",
-      "description": "Access to Mount Etna Caves National Park will be temporarily closed from 6am Monday 10th November until 3pm Friday 21st November to allow for pest animal management.",
-      "details": "<p>Access to Mount Etna Caves National Park will be temporarily closed from 6am Monday 10th November until 3pm Friday 21st November to allow for pest animal management.</p> <p>This includes all sites on the park, including the bat cleft walking track at Mount Etna, the Camoo day use area and walking track and all caves.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-11-05",
-      "start_effective_date": "2025-11-09",
-      "end_date": "2025-11-22",
-      "parks": [
-        {
-          "id": "149405",
-          "name": "Mount Etna Caves National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-etna-caves"
         }
       ]
     },
