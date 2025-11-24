@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 140,
-    "script_run_time": "2025-11-23 10:09:23"
+    "alerts_count": 144,
+    "script_run_time": "2025-11-24 10:11:58"
   },
   "alerts": [
     {
@@ -542,12 +542,12 @@
       "title": "Planned upgrades to Dandabah picnic and camping areas",
       "alert_id": "24718",
       "url": "https://parks.qld.gov.au/park-alerts/24718",
-      "description": "Major works at the Dandabah picnic area and camping area will take place between Monday 31 March to Sunday 30 November 2025.",
-      "details": "<p>Major works at the Dandabah picnic area and camping area will take place between Monday 31 March to Sunday 30 November 2025.</p> <p>Current facilities closed due to construction include:</p> <ul> <li>Dandabah campground (for camping),&nbsp;</li> <li>Dandabah picnic area, carpark,&nbsp;toilet facilities and trail head,</li> <li>the Scenic Circuit including Festoon Falls and&nbsp;Pine Gorge Lookout,</li> <li>the Barker Creek Circuit including Tim Shea Falls; and</li> <li>the Bunya Mountains visitor information building.</li> </ul> <p>Facilities open include:</p> <ul> <li>Dandabah campground toilets and parking,</li> <li>the trailhead behind the bat house&nbsp;for the Dandabah to Paradise walking track,</li> <li>access to Big Falls Lookout can be via either from&nbsp;the Paradise carpark or Dandabah to Paradise walking track; and&nbsp;</li> <li>all other Bunya Mountains walking tracks, picnic areas and campgrounds.</li> </ul> <p>Noise and dust may result from construction activities during the hours of 7am to 5pm.</p> <p>Alternative camping facilities are available at Westcott and Burtons Well camping areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "description": "Major works at the Dandabah picnic area and camping area will take place between Monday 31 March to Sunday 4 January 2026.",
+      "details": "<p>Major works at the Dandabah picnic area and camping area will take place between Monday 31 March to Sunday 4 January 2026.</p> <p>Current facilities closed due to construction include:</p> <ul> <li>Dandabah campground (for camping),&nbsp;</li> <li>Dandabah picnic area, carpark,&nbsp;toilet facilities and trail head,</li> <li>the Scenic Circuit including Festoon Falls and&nbsp;Pine Gorge Lookout,</li> <li>the Barker Creek Circuit including Tim Shea Falls; and</li> <li>the Bunya Mountains visitor information building.</li> </ul> <p>Facilities open include:</p> <ul> <li>Dandabah campground toilets and parking,</li> <li>the trailhead behind the bat house&nbsp;for the Dandabah to Paradise walking track,</li> <li>access to Big Falls Lookout can be via either from&nbsp;the Paradise carpark or Dandabah to Paradise walking track; and&nbsp;</li> <li>all other Bunya Mountains walking tracks, picnic areas and campgrounds.</li> </ul> <p>Noise and dust may result from construction activities during the hours of 7am to 5pm.</p> <p>Alternative camping facilities are available at Westcott and Burtons Well camping areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-22",
+      "start_date": "2025-11-24",
       "start_effective_date": "2025-03-31",
-      "end_date": "2025-11-30",
+      "end_date": "2026-01-04",
       "parks": [
         {
           "id": "149017",
@@ -2841,6 +2841,103 @@
           "id": "148725",
           "name": "Cape Melville National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/cape-melville"
+        }
+      ]
+    },
+    {
+      "title": "Annual closure period for all Lamington bush camping areas",
+      "alert_id": "25959",
+      "url": "https://parks.qld.gov.au/park-alerts/25959",
+      "description": "Due to the annual closure period, all remote bush camping sites are closed from 1 December to 31 January the following year (2 months), to enable natural regeneration of the sites.",
+      "details": "<p>Due to the annual closure period, all remote bush camping sites are closed from 1 December to 31 January the following year (2 months), to enable natural regeneration of the sites.</p> <p>As a result, the following camping areas are temporarily closed for the duration of the annual closure period:</p> <p><strong>Bush camping&mdash;on-track sites</strong></p> <ul> <li>Mount Bithongabel bush camp site</li> <li>Echo Point bush camp site; and</li> <li>Illinbah bush camp site</li> </ul> <p><strong>Bush camping&mdash;off-track remote sites</strong></p> <ul> <li>Point lookout remote bush camp site</li> <li>Rat-a-Tat remote bush camp site</li> <li>Stinson remote bush camp site</li> <li>Lost World&mdash;Creek remote bush camp site</li> <li>Lost World&mdash;Saddle remote bush camp site</li> <li>Running Creek remote bush camp site; and</li> <li>Darlington remote bush camp site</li> </ul> <p>Camping permits for all closed areas are not available for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p><em>Please note this closure does not apply to the O&#39;Reilly&#39;s Campground and it&nbsp;continues to operate as normal.</em></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-24",
+      "start_effective_date": "2025-11-24",
+      "end_date": "2026-01-31",
+      "parks": [
+        {
+          "id": "156492",
+          "name": "Gold Coast Hinterland Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
+        },
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming wet season closure: Wet Tropics Great Walk and associated camp sites, Girringun National Park",
+      "alert_id": "25961",
+      "url": "https://parks.qld.gov.au/park-alerts/25961",
+      "description": "The Wet Tropics Great Walk and the associated camp sites listed below, will close for the wet season on 1 December 2025. They are anticipated to reopen 1 April 2026, subject to track and weather conditions.",
+      "details": "<p>The Wet Tropics Great Walk and the associated camp sites listed below, will close for the wet season on 1 December 2025. They are anticipated to reopen 1 April 2026, subject to track and weather conditions.</p> <ul> <li>Blanket Creek walkers&rsquo; camp</li> <li>Herbert River camping zone</li> <li>Pack Trail walkers&rsquo; camp</li> <li>Stony Creek walkers&rsquo; camp</li> <li>Yamanie camp site</li> </ul> <p>Please monitor park alerts for current information.</p>",
+      "category": "Announcement",
+      "start_date": "2025-11-24",
+      "start_effective_date": "2025-11-24",
+      "end_date": "2026-03-31",
+      "parks": [
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Park Alert: Temporary Closure of George Point  Pest Control Program",
+      "alert_id": "25962",
+      "url": "https://parks.qld.gov.au/park-alerts/25962",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a pest control program at George Point on Hinchinbrook Island between Tuesday 9th and Thursday18th of December to support ongoing conservation efforts and protect the islands unique natural values.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a pest control program at George Point on Hinchinbrook Island between Tuesday 9th and Thursday18th of December to support ongoing conservation efforts and protect the islands unique natural values.</p> <p>Access to George Point will be prohibited for the duration of the pest control program; this includes the camping area and hiker pickup/drop-off area. This is necessary to ensure public safety and the effectiveness of the operation.&nbsp;</p> <p>The Thorsborne Trail will remain open, however hikers will need to arrange pickup/drop-off at the northern end of Mulligan Bay rather than George Point. The vessel transfer operators have been informed.&nbsp;</p> <p>QPWS appreciates your cooperation and understanding as we carry out this important work. Further updates will be provided as necessary, including notification of the reopening of the area once the program is complete.&nbsp;</p> <p>For more information, please contact <a href=\"mailto:hinchinbrook@detsi.qld.gov.au\" target=\"_blank\">hinchinbrook@detsi.qld.gov.au</a>.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-24",
+      "start_effective_date": "2025-12-09",
+      "end_date": "2025-12-18",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for track maintenance: Baldy-Yabi circuit walk, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "25963",
+      "url": "https://parks.qld.gov.au/park-alerts/25963",
+      "description": "The walking tracks to Mount Baldy and Yabi Mountain, including the Baldy-Yabi circuit walk will be closed from Wednesday 26 November to Friday 12 December 2025 (dates inclusive) for trail maintenance to repair damage from ex-Tropical Cyclone Jasper.",
+      "details": "<p>The walking tracks to Mount Baldy and Yabi Mountain, including the Baldy-Yabi circuit walk will be closed from Wednesday 26 November to Friday 12 December 2025 (dates inclusive) for trail maintenance to repair damage from ex-Tropical Cyclone Jasper.</p> <p>Please adhere to all safety signage and directions from rangers.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2025-11-24",
+      "start_effective_date": "2025-11-26",
+      "end_date": "2025-12-12",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     }
