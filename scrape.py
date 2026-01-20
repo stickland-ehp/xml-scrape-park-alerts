@@ -13,7 +13,12 @@ def clean_text(text):
     return text.strip()
 
 url = "https://parks.qld.gov.au/xml/parkalerts.xml"
-xml_data = requests.get(url).content
+headers = {
+    "User-Agent": "Mozilla/5.0 (compatible; EnvironmentBot/1.0; +http://www.detsi.qld.gov.au/bot)"
+}
+
+response = requests.get(url, headers=headers)
+xml_data = response.content
 
 soup = BeautifulSoup(xml_data, "xml")
 
