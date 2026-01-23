@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2026-01-22 10:15:30"
+    "alerts_count": 172,
+    "script_run_time": "2026-01-23 10:13:10"
   },
   "alerts": [
     {
@@ -326,15 +326,15 @@
       ]
     },
     {
-      "title": "Camping area water supply update: Goldsborough Valley section, Wooroonooran National Park",
+      "title": "Temporary toilet block closure and no access to tap water: Goldsborough Valley, Wooroonooran National Park",
       "alert_id": "24502",
       "url": "https://parks.qld.gov.au/park-alerts/24502",
-      "description": "Visitors are advised there is currently no water available from the taps in the camping and day-use areas within the Goldsborough Valley section of Wooroonooran National Park. Water is available at the Bora Ground toilet block, however it is not suitable for consumption and visitors should bring their own drinking water.",
-      "details": "<p>Visitors are advised there is currently no water available from the taps in the camping and day-use areas within the Goldsborough Valley section of Wooroonooran National Park. Water is available at the Bora Ground toilet block, however it is not suitable for consumption and visitors should bring their own drinking water.</p> <p>We apologise for any inconvenience this may cause.</p>",
-      "category": "Announcement",
-      "start_date": "2025-11-27",
+      "description": "Due to plumbing maintenance works, all toilet facilities at Goldsborough Valley camping area and day-use area are temporarily closed.",
+      "details": "<p>Due to plumbing maintenance works, all toilet facilities at Goldsborough Valley camping area and day-use area are temporarily closed.</p> <p>During this period there is also no access to tap water and visitors are reminded to bring their own drinking water.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-01-23",
       "start_effective_date": "2024-09-16",
-      "end_date": "2026-03-02",
+      "end_date": "2026-01-30",
       "parks": [
         {
           "id": "148468",
@@ -2308,12 +2308,12 @@
       "title": "UPDATE Severe weather impacts: Townsville Town Common and Cape Pallerenda Conservation Parks partially open. Read park alert for details",
       "alert_id": "26043",
       "url": "https://parks.qld.gov.au/park-alerts/26043",
-      "description": "Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open from 4pm Friday 16 January 2026. Please see below for further details.",
-      "details": "<p>Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open from 4pm Friday 16 January 2026. Please see below for further details.</p> <p>The following visitor facilities in Townsville Town Common are <strong>open from 4pm Friday 16 January 2026:</strong></p> <ul> <li>Main access gate to allow access to Freshwater car park only</li> <li>Freshwater trail (excluding western dam wall section)</li> <li>Wetlands walk</li> <li>Forest walk.</li> </ul> <p>All other visitor facilities in <strong>Townsville Town Common Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>The following visitor facilities in Cape Pallarenda Conservation Park are <strong>open from 4pm Friday 16 January 2026:</strong></p> <ul> <li>Cape Pallarenda day-use area</li> <li>Graves circuit&nbsp;</li> <li>Shelly Cove trail.</li> </ul> <p>All other visitor facilities in <strong>Cape Pallarenda&nbsp;Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>QPWS Rangers are undertaking recovery and assessment work and visitor facilities will reopen when they are deemed safe to do so. Your support and cooperation are appreciated.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.",
+      "details": "<p>Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.</p> <p>The following visitor facilities in Townsville Town Common are <strong>OPEN:&nbsp;</strong></p> <ul> <li>Main access gate to allow access to Freshwater car park only</li> <li>Freshwater trail (excluding western dam wall section)</li> <li>Wetlands walk</li> <li>Forest walk.</li> </ul> <p>All other visitor facilities in <strong>Townsville Town Common Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>The following visitor facilities in Cape Pallarenda Conservation Park are <strong>OPEN:</strong></p> <ul> <li>Cape Pallarenda day-use area</li> <li>Graves circuit&nbsp;</li> <li>Shelly Cove trail.</li> </ul> <p>All other visitor facilities in <strong>Cape Pallarenda&nbsp;Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>QPWS Rangers are undertaking recovery and assessment work and visitor facilities will reopen when they are deemed safe to do so. Your support and cooperation are appreciated.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-16",
+      "start_date": "2026-01-23",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-01-27",
+      "end_date": "2026-01-30",
       "parks": [
         {
           "id": "148997",
@@ -2331,12 +2331,12 @@
       "title": "UPDATE Temporary partial closure due to severe weather impacts: Bowling Green Bay National Park (all sections). Read park alert for details",
       "alert_id": "26044",
       "url": "https://parks.qld.gov.au/park-alerts/26044",
-      "description": "Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, Bowling Green Bay National Park will be partially open from 4pm Friday 16 January 2026. Details of available visitor facilities are listed below.",
-      "details": "<p>Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, Bowling Green Bay National Park will be partially open from 4pm Friday 16 January 2026. Details of available visitor facilities are listed below.</p> <p>The following visitor facilites will <strong>reopen from 4pm Friday 16 January 2026</strong>.</p> <ul> <li>Alligator Creek camping area and day-use area</li> <li>Alligator Creek boardwalk, walking track and lookout.</li> </ul> <p>All remaining Bowling Green Bay National Park visitor facilities including camping areas, walking tracks and vehicle access tracks remain closed until further notice. This park alert will be updated as visitor facilities reopen.</p> <p>QPWS Rangers are undertaking recovery work and assessments, and will reopen visitor facilities when deemed safe to do so. Your support and cooperation is appreciated.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, Bowling Green Bay National Park is partially open. Details of available visitor facilities are listed below.",
+      "details": "<p>Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, Bowling Green Bay National Park is partially open. Details of available visitor facilities are listed below.</p> <p>The following visitor facilites are <strong>OPEN:&nbsp;</strong></p> <ul> <li>Alligator Creek camping area and day-use area</li> <li>Alligator Creek boardwalk, walking track and lookout.</li> </ul> <p>All remaining Bowling Green Bay National Park visitor facilities including camping areas, walking tracks and vehicle access tracks remain closed until further notice. This park alert will be updated as visitor facilities reopen.</p> <p>QPWS Rangers are undertaking recovery work and assessments, and will reopen visitor facilities when deemed safe to do so. Your support and cooperation is appreciated.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-16",
+      "start_date": "2026-01-23",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-01-27",
+      "end_date": "2026-01-30",
       "parks": [
         {
           "id": "149433",
@@ -2889,9 +2889,9 @@
       "description": "Due to the severe weather impacts from ex-Tropical Cyclone Koji, including heavy, locally intense rainfall leading to flash flooding and damaging winds affecting the Capricornia Region, Charon Point Conservation Park is closed until further notice. The conservation park will reopen when it is declared safe.",
       "details": "<p>Due to the severe weather impacts from ex-Tropical Cyclone Koji, including heavy, locally intense rainfall leading to flash flooding and damaging winds affecting the Capricornia Region, Charon Point Conservation Park is closed until further notice. The conservation park will reopen when it is declared safe.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-16",
+      "start_date": "2026-01-23",
       "start_effective_date": "2026-01-12",
-      "end_date": "2026-01-26",
+      "end_date": "2026-02-13",
       "parks": [
         {
           "id": "148957",
@@ -2925,9 +2925,9 @@
       "description": "Due to the severe weather impacts from ex-Tropical Cyclone Koji including heavy, locally intense rainfall leading to flash flooding and damaging winds affecting the Capricornia Region, Shoalwater Bay Conservation Park is closed until further notice. Shoalwater Bay Conservation Park will reopen when declared safe.",
       "details": "<p>Due to the severe weather impacts from ex-Tropical Cyclone Koji including heavy, locally intense rainfall leading to flash flooding and damaging winds affecting the Capricornia Region, Shoalwater Bay Conservation Park is closed until further notice. Shoalwater Bay Conservation Park will reopen when declared safe.</p> <p>The temporary closure includes all visitor facilities such as camping areas and vehicle tracks.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-15",
+      "start_date": "2026-01-23",
       "start_effective_date": "2026-01-12",
-      "end_date": "2026-01-26",
+      "end_date": "2026-02-13",
       "parks": [
         {
           "id": "148969",
@@ -3029,13 +3029,13 @@
       ]
     },
     {
-      "title": "UPDATE Severe weather impacts: Eungella National Park visitor facilities partially open. Read park alert for details",
+      "title": "UPDATE Severe weather impacts: Eungella National Park visitor facilities all open. Read park alert for details",
       "alert_id": "26105",
       "url": "https://parks.qld.gov.au/park-alerts/26105",
-      "description": "Due to the recent crossing of ex-Tropical Cyclone Koji and severe weather impacts causing flash flooding, fallen trees, washouts and other hazards, Eungella National Park is partially open. Below lists the visitor facilities that are open. All other visitor facilities remain closed and will reopen when it is deemed safe to do so.",
-      "details": "<p>Due to the recent crossing of ex-Tropical Cyclone Koji and severe weather impacts causing flash flooding, fallen trees, washouts and other hazards, Eungella National Park is partially open. Below lists the visitor facilities that are open. All other visitor facilities remain closed and will reopen when it is deemed safe to do so.</p> <p>The following visitor facilities in Eungella National Park (**Finch Hatton Gorge section) are <strong>OPEN</strong>:</p> <ul> <li>Araluen cascades walking track</li> <li>Wheel of fire walking track</li> <li>Finch Hatton Gorge section day-use area (amenities).</li> </ul> <p>The following visitor facilities in Eungella National Park (Broken River section) are <strong>OPEN:</strong></p> <ul> <li><strong>Walking tracks (network from Eungella to Wishing Pool circuit), including:</strong> <ul> <li>Pine Grove circuit</li> <li>Cedar Grove track</li> <li>Bandala Yalga (Sky track)</li> <li>Clarke Range track</li> <li>River walk</li> <li>Rainforest discovery circuit and Granite Bend circuit</li> <li>Crediton Creek track</li> <li>Wishing Pool circuit.</li> </ul> </li> <li><strong>Day-use areas</strong> <ul> <li>Sky Window&nbsp;day-use area</li> <li>Broken River day-use area.</li> </ul> </li> <li><strong>Camping areas</strong> <ul> <li>Fern Flat camping area.</li> </ul> </li> </ul> <p>All other visitor facilities in Eungella National Park including; camping areas (Broken River, The Diggings - Crediton State Forest, and camp sites on the Mackay Highlands Great Walk), and the Mackay Highlands Great Walk beyond the Wishing Pool circuit remain closed. If a visitor facility is not listed above as open, then it is closed until further notice.</p> <p>**Visitors are reminded to exercise caution at Finch Hatton Gorge. Take extreme care around cascades and fast-flowing water. Fast stream rises and strong currents occur following heavy rainfall. Do not attempt to cross fast-flowing water. Take care at creek crossings. Rocks and boulders may be uneven, loose or have slippery surfaces. Supervise children closely around the water.</p> <p>QPWS Rangers are undertaking recovery work and assessments and visitor facilities will reopen as they are deemed safe to do so. Your support and cooperation is appreciated. This park alert will be updated as visitor facilities continue to reopen.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-22",
+      "description": "Following the recent crossing of ex-Tropical Cyclone Koji and associated severe weather impacts at Eungella National Park, QPWS Rangers have undertaken recovery and assessment work. All visitor facilities in Eungella National Park are now open from Friday 23 January 2026. Please see below for further details.",
+      "details": "<p>Following the recent crossing of ex-Tropical Cyclone Koji and associated severe weather impacts at Eungella National Park, QPWS Rangers have undertaken recovery and assessment work. All visitor facilities in Eungella National Park are now open from Friday 23 January 2026. Please see below for further details.</p> <p>The following visitor facilities in Eungella National Park (**Finch Hatton Gorge section) are <strong>OPEN</strong>:</p> <ul> <li>Araluen cascades walking track</li> <li>Wheel of fire walking track</li> <li>Finch Hatton Gorge section day-use area (amenities).</li> </ul> <p>All visitor facilities in Eungella National Park (Broken River section) are <strong>OPEN:</strong></p> <ul> <li><strong>Walking track network</strong> <ul> <li>All walking tracks including Mackay Highlands Great Walk: <strong>OPEN</strong></li> </ul> </li> <li><strong>Day-use areas: OPEN</strong></li> <li><strong>Camping areas: OPEN</strong></li> </ul> <p>Please note that Crediton State Forest, The Diggings camping area remains closed until further notice.&nbsp;</p> <p>**Visitors are reminded to exercise caution at Finch Hatton Gorge. Take extreme care around cascades and fast-flowing water. Fast stream rises and strong currents occur following heavy rainfall. Do not attempt to cross fast-flowing water. Take care at creek crossings. Rocks and boulders may be uneven, loose or have slippery surfaces. Supervise children closely around the water.</p> <p>Your support, patience and cooperation has been appreciated while Rangers have worked to safely reopen visitor facilities.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2026-01-23",
       "start_effective_date": "2026-01-14",
       "end_date": "2026-01-30",
       "parks": [
@@ -3101,31 +3101,13 @@
       ]
     },
     {
-      "title": "Bushfire alert for Kumbarilla State Forest",
-      "alert_id": "26112",
-      "url": "https://parks.qld.gov.au/park-alerts/26112",
-      "description": "Due to current bushfire, some areas are temporarily closed in Kumbarilla State Forest. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to current bushfire, some areas are temporarily closed in Kumbarilla State Forest. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:</p> <p>- The northern section of Kumbarilla State Forest.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-01-15",
-      "start_effective_date": "2026-01-15",
-      "end_date": "2026-01-22",
-      "parks": [
-        {
-          "id": "322347",
-          "name": "Kumbarilla State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Temporary camp site closures: Goldsborough Valley, Wooroonooran National Park",
+      "title": "Temporary closure: Goldsborough Valley camping area and Goldsborough Valley Bora Ground camping area, Goldsborough Valley, Wooroonooran National Park",
       "alert_id": "26114",
       "url": "https://parks.qld.gov.au/park-alerts/26114",
-      "description": "From Thursday 15 January to Friday 30 January 2026 (dates inclusive) the following camp sites at Goldsborough Valley will be closed for maintenance works:",
-      "details": "<p>From Thursday 15 January to Friday 30 January 2026 (dates inclusive) the following camp sites at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley camping area: <ul> <li><strong>Sites 1, 2, 3, 4, 5, 6, 7, 8, 9 and&nbsp;11.</strong></li> </ul> </li> <li>Goldsborough Valley Bora Ground camping area.</li> </ul> <p>For campers with an existing booking between Thursday 15 January and Friday 30 January 2026 (dates inclusive) in the sites above, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>These closures are required to allow plumbing relining works to be carried out. Excavation will be taking place, and the sites above have been deemed unsafe for public access during this period.</p> <p>Goldsborough Valley camping area sites 10 and 12 will remain open.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "From Thursday 15 January to Friday 30 January 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:",
+      "details": "<p>From Thursday 15 January to Friday 30 January 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley Bora Ground camping area.</li> </ul> <p>These closures are required to allow plumbing relining works to be carried out.</p> <p>During this period there will be no access to tap water or toilet facilities in the camping areas..</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-22",
+      "start_date": "2026-01-23",
       "start_effective_date": "2026-01-15",
       "end_date": "2026-01-30",
       "parks": [
@@ -3568,6 +3550,78 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Fort Lytton Australia Day opening hours",
+      "alert_id": "26140",
+      "url": "https://parks.qld.gov.au/park-alerts/26140",
+      "description": "Fort Lytton National Park will be open to the general public on Australia Day Monday 26th January from 10am to 1pm.",
+      "details": "<p>Fort Lytton National Park will be open to the general public on Australia Day Monday 26th January from 10am to 1pm.</p> <p>Due to limited staffing no guided tours will be available on this day.</p>",
+      "category": "Other",
+      "start_date": "2026-01-23",
+      "start_effective_date": "2026-01-23",
+      "end_date": "2026-01-26",
+      "parks": [
+        {
+          "id": "148592",
+          "name": "Fort Lytton National Park",
+          "url": "https://parks.qld.gov.au/parks/fort-lytton"
+        }
+      ]
+    },
+    {
+      "title": "Heatwave Warning for Moogerah Peaks National Park",
+      "alert_id": "26141",
+      "url": "https://parks.qld.gov.au/park-alerts/26142",
+      "description": "The Bureau of Meteorology has issued a Heatwave Warning which may affect Moogerah Peaks National Park.",
+      "details": "<p>The Bureau of Meteorology has issued a Heatwave Warning which may affect Moogerah Peaks National Park.</p> <p>Conditions are extremely hot and humid at this time of year, increasing the risk of heat-related injuries. Walkers can suffer heat exhaustion.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "category": "Announcement",
+      "start_date": "2026-01-23",
+      "start_effective_date": "2026-01-23",
+      "end_date": "2026-01-27",
+      "parks": [
+        {
+          "id": "149021",
+          "name": "Moogerah Peaks National Park",
+          "url": "https://parks.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Heat Wave Warning for Mount Barney National Park",
+      "alert_id": "26141",
+      "url": "https://parks.qld.gov.au/park-alerts/26141",
+      "description": "The Bureau of Meteorology has issued a Heatwave Warning which may affect Mount Barney National Park.",
+      "details": "<p>The Bureau of Meteorology has issued a Heatwave Warning which may affect Mount Barney National Park.</p> <p>Conditions are extremely hot and humid at this time of year, increasing the risk of heat-related injuries. Walkers can suffer heat exhaustion.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2026-01-23",
+      "start_effective_date": "2026-01-23",
+      "end_date": "2026-01-27",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-barney"
+        }
+      ]
+    },
+    {
+      "title": "Toilets closed at Tallanbana trailhead",
+      "alert_id": "26142",
+      "url": "https://parks.qld.gov.au/park-alerts/26143",
+      "description": "Queensland Parks and Wildlife Service (QPWS) have determined that visitor amenities situated at the Tallanbana trailhead are not performing to optimum standards.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) have determined that visitor amenities situated at the Tallanbana trailhead are not performing to optimum standards.</p> <p>As a result the following facilities have been closed indefinately, until further notice:</p> <ul> <li>Public toilets at Tallanbana (at the trailhead of the Twin Falls circuit walking track).</li> </ul> <p>Alternative toilet facilities are located at Goomoolahra picnic area (approx. 1.5 km south at the end of Springbrook Road) and at Gauriemabah (Place of Stories) Visitor Centre on Old School Road (approx. 1.5 km north of Tallanbana).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-01-23",
+      "start_effective_date": "2026-01-23",
+      "end_date": "2026-07-03",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
         }
       ]
     }
