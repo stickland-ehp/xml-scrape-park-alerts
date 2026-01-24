@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2026-01-23 10:13:10"
+    "alerts_count": 169,
+    "script_run_time": "2026-01-24 10:10:17"
   },
   "alerts": [
     {
@@ -875,12 +875,12 @@
       "title": "Planned site rehabilitation and maintenance closures",
       "alert_id": "25527",
       "url": "https://parks.qld.gov.au/park-alerts/25527",
-      "description": "Planned site rehabilitation, maintenance and hazardous tree works in the Inskip Peninsula Recreation Area will commence Tuesday 12 August 2025 until Saturday 07 March 2026. As a result, the following camping areas will be closed during this period:",
-      "details": "<p>Planned site rehabilitation, maintenance and hazardous tree works in the Inskip Peninsula Recreation Area will commence Tuesday 12 August 2025 until Saturday 07 March 2026. As a result, the following camping areas will be closed during this period:</p> <ul> <li><strong>Dorrigo South</strong>&nbsp;(24 February - 07 March 2026 inclusive)</li> <li><strong>S.S. Dorrigo</strong> &nbsp;(03 &ndash; 13 February 2026 inclusive)</li> <li><strong>M.V. Beagle</strong> (10-16 November inclusive) and (24 February - 07 March 2026 inclusive)</li> <li><strong>M.V. Sarawak</strong> (17 &ndash; 27 November 2025 inclusive) and (27- 30 January 2026 inclusive)</li> <li><strong>Sarawak West</strong> (27 October &ndash; 06 November 2025 inclusive) and (27- 30 January 2026 inclusive)</li> <li><strong>Pelican Bay</strong> (27 October - 06 November 2025 inclusive)</li> </ul> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>All permits for closed areas are suspended for the duration of the closure. Alternate camping areas are available at Inskip Peninsula camping area for the duration of the closures.</p> <p>Apply for a camping permit refund online at <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a>. Log into your account and cancel your booking to receive an automatic refund or request to change your booking to another camping area at Inskip.&nbsp;</p> <p>QPWS thanks you for your support and cooperation.</p>",
+      "description": "Planned site rehabilitation, maintenance and hazardous tree works in the Inskip Peninsula Recreation Area will commence 27 January 2026 until 07 March 2026. As a result, the following camping areas will be closed during this period:",
+      "details": "<p>Planned site rehabilitation, maintenance and hazardous tree works in the Inskip Peninsula Recreation Area will commence 27 January 2026 until 07 March 2026. As a result, the following camping areas will be closed during this period:</p> <ul> <li><strong>Dorrigo South</strong>&nbsp;(23 February - 06 March 2026 inclusive)</li> <li><strong>S.S. Dorrigo</strong>&nbsp;&nbsp;(02 &ndash; 13 February 2026 inclusive)</li> <li><strong>M.V. Beagle</strong>&nbsp; (23 February - 06 March 2026 inclusive)</li> <li><strong>M.V. Sarawak</strong>&nbsp;(27- 30 January 2026 inclusive)</li> <li><strong>Sarawak West</strong>&nbsp; (27- 30 January 2026 inclusive)</li> </ul> <p>Observe all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>All permits for closed areas are suspended for the duration of the closure. Alternate camping areas are available at Inskip Peninsula camping area for the duration of the closures.</p> <p>Apply for a camping permit refund online at <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a>. Log into your account and cancel your booking to receive an automatic refund or request to change your booking to another camping area at Inskip.&nbsp;</p> <p>QPWS thanks you for your support and cooperation.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-06",
-      "start_effective_date": "2025-08-12",
-      "end_date": "2026-03-07",
+      "start_date": "2026-01-24",
+      "start_effective_date": "2026-01-27",
+      "end_date": "2026-03-06",
       "parks": [
         {
           "id": "149409",
@@ -2703,29 +2703,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to ex-Tropical Cyclone Koji and severe weather impacts: Dryander and Cape Upstart national parks",
-      "alert_id": "26073",
-      "url": "https://parks.qld.gov.au/park-alerts/26073",
-      "description": "Due to the impacts of ex-Tropical Cyclone Koji and severe weather impacts including localised heavy rainfall leading to flash flooding and damaging winds, Dryander and Cape Upstart national parks are closed until further notice. These areas will be reopened when it is deemed safe to do so.",
-      "details": "<p>Due to the impacts of ex-Tropical Cyclone Koji and severe weather impacts including localised heavy rainfall leading to flash flooding and damaging winds, Dryander and Cape Upstart national parks are closed until further notice. These areas will be reopened when it is deemed safe to do so.</p> <p>The temporary park closure includes all visitior facilities such as camping areas, walking tracks, day-use areas and vehicle access tracks.&nbsp;</p> <p>QPWS Rangers are conducting recovery work and assessments and visitor facilities will reopen when it is deemed safe to do so.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-16",
-      "start_effective_date": "2026-01-08",
-      "end_date": "2026-01-23",
-      "parks": [
-        {
-          "id": "148187",
-          "name": "Dryander National Park",
-          "url": "https://parks.qld.gov.au/parks/dryander"
-        },
-        {
-          "id": "148496",
-          "name": "Cape Upstart National Park",
-          "url": "https://parks.qld.gov.au/parks/cape-upstart"
-        }
-      ]
-    },
-    {
       "title": "Temporary road closure: Bartle Frere access road (western trailhead), Wooroonooran National Park",
       "alert_id": "26075",
       "url": "https://parks.qld.gov.au/park-alerts/26075",
@@ -2745,79 +2722,6 @@
           "id": "148428",
           "name": "Bartle Frere trail, Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/bartle-frere"
-        }
-      ]
-    },
-    {
-      "title": "Changed conditions on national park islands",
-      "alert_id": "26087",
-      "url": "https://parks.qld.gov.au/park-alerts/26087",
-      "description": "As a result of Tropical Cyclone Koji, conditions have changed at visitor sites on national park islands in the Whitsundays and Mackay areas.",
-      "details": "<p>As a result of Tropical Cyclone Koji, conditions have changed at visitor sites on national park islands in the Whitsundays and Mackay areas.</p> <p>TC Koji caused gale force winds, heavy rain and localised flooding. Damage to the natural environment on islands affecting visitor sites is expected. QPWS Rangers will assess and restore island national park visitor sites when it is safe and practical to do so. The public should be cautious and aware of potential natural hazards, including fallen trees, soft ground and flooding if visiting these islands.</p>",
-      "category": "Other",
-      "start_date": "2026-01-11",
-      "start_effective_date": "2026-01-11",
-      "end_date": "2026-01-23",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
-        },
-        {
-          "id": "152875",
-          "name": "Whitsunday Ngaro Sea Trail",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "148852",
-          "name": "Repulse Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/repulse-islands"
-        },
-        {
-          "id": "148981",
-          "name": "Smith Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/smith-islands"
-        },
-        {
-          "id": "151351",
-          "name": "South Cumberland Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/south-cumberland-islands"
-        },
-        {
-          "id": "148737",
-          "name": "Newry Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/newry-islands"
-        },
-        {
-          "id": "148941",
-          "name": "Molle Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/molle-islands"
-        },
-        {
-          "id": "149521",
-          "name": "Lindeman Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/lindeman-islands"
-        },
-        {
-          "id": "149469",
-          "name": "Holbourne Island National Park",
-          "url": "https://parks.qld.gov.au/parks/holbourne-island"
-        },
-        {
-          "id": "149445",
-          "name": "Gloucester Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/gloucester-island"
-        },
-        {
-          "id": "149385",
-          "name": "Brampton Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/brampton-islands"
         }
       ]
     },
@@ -3161,24 +3065,6 @@
           "id": "147975",
           "name": "Conway National Park and Conway Conservation Park",
           "url": "https://parks.qld.gov.au/parks/conway"
-        }
-      ]
-    },
-    {
-      "title": "Track maintenance information: Smiths track, Barron Gorge National Park",
-      "alert_id": "26117",
-      "url": "https://parks.qld.gov.au/park-alerts/26117",
-      "description": "Queensland Parks and Wildlife Service contractors are undertaking planned maintenance on parts of the Smiths track between 19 January and 23 January 2026.",
-      "details": "<p>Queensland Parks and Wildlife Service contractors are undertaking planned maintenance on parts of the Smiths track between 19 January and 23 January 2026.</p> <p>The track will remain open during this time, but walkers should be aware that machinery may be active on the track.&nbsp;Please observe all signage, barriers and directions from rangers and contractors.<br /> Please monitor park alerts for current information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-01-16",
-      "start_effective_date": "2026-01-19",
-      "end_date": "2026-01-23",
-      "parks": [
-        {
-          "id": "148548",
-          "name": "Barron Gorge National Park",
-          "url": "https://parks.qld.gov.au/parks/barron-gorge"
         }
       ]
     },
