@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2026-01-24 10:10:17"
+    "alerts_count": 167,
+    "script_run_time": "2026-01-25 10:10:29"
   },
   "alerts": [
     {
@@ -2231,24 +2231,6 @@
       ]
     },
     {
-      "title": "UPDATE Sites reopened after severe weather impacts: Byfield National Park, Conservation Park and State Forest. Read park alert for details",
-      "alert_id": "26034",
-      "url": "https://parks.qld.gov.au/park-alerts/26034",
-      "description": "After site assessments and recovery work due to severe weather impacts from ex-Tropical Cyclone Koji, please find below information on visitor facilities and park and forest status.",
-      "details": "<p>After site assessments and recovery work due to severe weather impacts from ex-Tropical Cyclone Koji, please find below information on visitor facilities and park and forest status.</p> <p><strong>Byfield National Park</strong>, will reopen from <strong>Wednesday 21 January 2026 </strong>and this includes Nine Mile Beach camping areas.</p> <p><strong>Byfield Conservation Park</strong>, including Five Rocks camping and day-use area is <strong>OPEN</strong>.</p> <p><strong>Byfield State Forest</strong>, including all camping and day-use areas is <strong>OPEN</strong>.</p> <p>Thank you for your support, patience and co-operation while QPWS Rangers have conducted necessary recovery work and assessments to safely reopen these areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2026-01-20",
-      "start_effective_date": "2026-01-09",
-      "end_date": "2026-01-24",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to severe weather impacts: Dalrymple, Moorrinya, White Mountains, Porcupine Gorge and Blackbraes national parks",
       "alert_id": "26035",
       "url": "https://parks.qld.gov.au/park-alerts/26035",
@@ -3129,24 +3111,6 @@
           "id": "148275",
           "name": "Amamoor State Forest",
           "url": "https://parks.qld.gov.au/parks/amamoor"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Closure-4WD Loop Road",
-      "alert_id": "26121",
-      "url": "https://parks.qld.gov.au/park-alerts/26121",
-      "description": "Some areas in Blackdown Tableland National Park are now open, after ex TC Koji produced widespread rain across Central Queensland. Stay alert for hazards and drive to suit the conditions.",
-      "details": "<p>Some areas in Blackdown Tableland National Park are now open, after ex TC Koji produced widespread rain across Central Queensland. Stay alert for hazards and drive to suit the conditions.</p> <p>The 4WD Loop Road remains closed until an assessment has been completed.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-19",
-      "start_effective_date": "2026-01-19",
-      "end_date": "2026-01-24",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
         }
       ]
     },
