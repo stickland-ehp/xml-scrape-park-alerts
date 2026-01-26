@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2026-01-25 10:10:29"
+    "alerts_count": 166,
+    "script_run_time": "2026-01-26 10:15:43"
   },
   "alerts": [
     {
@@ -2342,24 +2342,6 @@
           "id": "148408",
           "name": "Bladensburg National Park",
           "url": "https://parks.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to high water levels: Swamp walk, Eubenangee Swamp National Park",
-      "alert_id": "26046",
-      "url": "https://parks.qld.gov.au/park-alerts/26046",
-      "description": "For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.",
-      "details": "<p>For your safety, the walking track to Baldy Hill, known as the Swamp walk, in Eubenangee Swamp National Park is closed until further notice.</p> <p>The closure is due to high water levels in the swamp and the presence of estuarine crocodiles at this location.</p> <p>The Swamp walk will reopen when water levels subside.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-19",
-      "start_effective_date": "2026-01-02",
-      "end_date": "2026-01-25",
-      "parks": [
-        {
-          "id": "149501",
-          "name": "Eubenangee Swamp National Park",
-          "url": "https://parks.qld.gov.au/parks/eubenangee-swamp"
         }
       ]
     },
