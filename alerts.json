@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2026-01-28 10:16:35"
+    "alerts_count": 169,
+    "script_run_time": "2026-01-29 10:24:21"
   },
   "alerts": [
     {
@@ -19,24 +19,6 @@
           "id": "148211",
           "name": "Cape York Peninsula parks",
           "url": "https://parks.qld.gov.au/parks/cape-york"
-        }
-      ]
-    },
-    {
-      "title": "The Bunya Bunya walking track is closed",
-      "alert_id": "18598",
-      "url": "https://parks.qld.gov.au/park-alerts/18598",
-      "description": "The Bunya Bunya walking track is closed until further notice.",
-      "details": "<p>The Bunya Bunya walking track is closed until further notice.</p> <p>All other walking tracks within the park remain open, unless specified otherwise.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-01-28",
-      "start_effective_date": "2023-01-29",
-      "end_date": "2026-01-28",
-      "parks": [
-        {
-          "id": "149017",
-          "name": "Bunya Mountains National Park",
-          "url": "https://parks.qld.gov.au/parks/bunya-mountains"
         }
       ]
     },
@@ -332,9 +314,9 @@
       "description": "Due to plumbing maintenance works, all toilet facilities at Goldsborough Valley camping area and day-use area are temporarily closed.",
       "details": "<p>Due to plumbing maintenance works, all toilet facilities at Goldsborough Valley camping area and day-use area are temporarily closed.</p> <p>During this period there is also no access to tap water and visitors are reminded to bring their own drinking water.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-23",
+      "start_date": "2026-01-29",
       "start_effective_date": "2024-09-16",
-      "end_date": "2026-01-30",
+      "end_date": "2026-02-05",
       "parks": [
         {
           "id": "148468",
@@ -1809,12 +1791,12 @@
       "title": "Burrum Coast National Park, Kinkuna Section",
       "alert_id": "25975",
       "url": "https://parks.qld.gov.au/park-alerts/25975",
-      "description": "Due to water over road, both the Southern beach access road and the Northern access road (Palm Beach Road) leading into Kinkuna bush camping area are currently closed to the public. Heavy rainfall has caused several low-lying sections of road to become impassable for all vehicles.",
-      "details": "<p>Due to water over road, both the Southern beach access road and the Northern access road (Palm Beach Road) leading into Kinkuna bush camping area are currently closed to the public. Heavy rainfall has caused several low-lying sections of road to become impassable for all vehicles.</p> <p>Rangers will be monitoring the access during the closure and may reopen once deemed safe.&nbsp;&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
+      "description": "Due to water over road, both the Southern beach access road and the Northern access road (Palm Beach Road) leading into Kinkuna bush camping area, are currently closed to the public. Continued rainfall has caused several low-lying sections of road to become impassable for all vehicles.",
+      "details": "<p>Due to water over road, both the Southern beach access road and the Northern access road (Palm Beach Road) leading into Kinkuna bush camping area, are currently closed to the public. Continued rainfall has caused several low-lying sections of road to become impassable for all vehicles.</p> <p>Rangers will be monitoring the access during the closure and may reopen once deemed safe.&nbsp;&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-12-09",
+      "start_date": "2026-01-29",
       "start_effective_date": "2025-12-01",
-      "end_date": "2026-01-29",
+      "end_date": "2026-02-19",
       "parks": [
         {
           "id": "148436",
@@ -2032,12 +2014,12 @@
       "title": "Heightened Dingo Activity - K'gari Eastern Beach",
       "alert_id": "26013",
       "url": "https://parks.qld.gov.au/park-alerts/26013",
-      "description": "QPWS Rangers are urging visitors to be dingo-safe at all times on Kgari after heightened dingo activity has been recorded at several locations along the eastern beach, including:  Beach Camping Zone 3 (Poyungan and Winnam)  Beach Camping Zone 4 (Guluri and Eli)  Along the beachfront from Waddy Point north to Ngkala Rocks",
-      "details": "<p>QPWS Rangers are urging visitors to be dingo-safe at all times on Kgari after heightened dingo activity has been recorded at several locations along the eastern beach, including:  Beach Camping Zone 3 (Poyungan and Winnam)  Beach Camping Zone 4 (Guluri and Eli)  Along the beachfront from Waddy Point north to Ngkala Rocks</p> <p>Dingoes have been ripping tents, stealing food or property, damaging property and approaching people. It is recommended that visitors be <strong>extra vigilant</strong> in these areas and consider camping in a <strong>fenced</strong> QWPS camping area. Ensure no food or strongly scented items are stored in tents and that all food and rubbish is securely stored in strong lockable containers or vehicles.</p> <p><strong>Be dingo-safe!</strong> Visit&nbsp;<a href=\"https://parks.desi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li><strong>Always stay within arm&rsquo;s reach of children, even small teenagers.</strong></li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email dingo.ranger@detsi.qld.gov.au, tell the</p> <p>nearest QPWS Ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may</p> <p>apply. Take note of location, vehicle registration, dingo ear tag colour, number</p> <p>and which ear.</p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "description": "QPWS Rangers are urging visitors to be dingo-safe at all times on Kgari after heightened dingo activity has been recorded at several locations along the eastern beach, including:  Beach Camping Zone 4 (Guluri and Eli)  Beach Camping Zone 5 (Wahba and Maheno)  Along the beachfront from Waddy Point north to Ngkala Rocks",
+      "details": "<p>QPWS Rangers are urging visitors to be dingo-safe at all times on Kgari after heightened dingo activity has been recorded at several locations along the eastern beach, including:  Beach Camping Zone 4 (Guluri and Eli)  Beach Camping Zone 5 (Wahba and Maheno)  Along the beachfront from Waddy Point north to Ngkala Rocks</p> <p>Dingoes have been ripping tents, stealing food or property, damaging property and approaching people. It is recommended that visitors be <strong>extra vigilant</strong> in these areas and consider camping in a <strong>fenced</strong> QWPS camping area. Ensure no food or strongly scented items are stored in tents and that all food and rubbish is securely stored in strong lockable containers or vehicles.</p> <p><strong>Be dingo-safe!</strong> Visit&nbsp;<a href=\"https://parks.desi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li><strong>Always stay within arm&rsquo;s reach of children, even small teenagers.</strong></li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email dingo.ranger@detsi.qld.gov.au, tell the</p> <p>nearest QPWS Ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may</p> <p>apply. Take note of location, vehicle registration, dingo ear tag colour, number</p> <p>and which ear.</p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Announcement",
-      "start_date": "2025-12-12",
+      "start_date": "2026-01-29",
       "start_effective_date": "2025-12-12",
-      "end_date": "2026-01-31",
+      "end_date": "2026-02-28",
       "parks": [
         {
           "id": "152843",
@@ -2293,9 +2275,9 @@
       "description": "Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.",
       "details": "<p>Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.</p> <p>The following visitor facilities in Townsville Town Common are <strong>OPEN:&nbsp;</strong></p> <ul> <li>Main access gate to allow access to Freshwater car park only</li> <li>Freshwater trail (excluding western dam wall section)</li> <li>Wetlands walk</li> <li>Forest walk.</li> </ul> <p>All other visitor facilities in <strong>Townsville Town Common Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>The following visitor facilities in Cape Pallarenda Conservation Park are <strong>OPEN:</strong></p> <ul> <li>Cape Pallarenda day-use area</li> <li>Graves circuit&nbsp;</li> <li>Shelly Cove trail.</li> </ul> <p>All other visitor facilities in <strong>Cape Pallarenda&nbsp;Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>QPWS Rangers are undertaking recovery and assessment work and visitor facilities will reopen when they are deemed safe to do so. Your support and cooperation are appreciated.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-23",
+      "start_date": "2026-01-29",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-01-30",
+      "end_date": "2026-02-13",
       "parks": [
         {
           "id": "148997",
@@ -2310,15 +2292,15 @@
       ]
     },
     {
-      "title": "UPDATE Temporary closure due to severe weather impacts: Bowling Green Bay National Park (all sections). Read park alert for details",
+      "title": "UPDATE Temporary partial closure due to severe weather impacts: Bowling Green Bay National Park (all sections). Read park alert for details",
       "alert_id": "26044",
       "url": "https://parks.qld.gov.au/park-alerts/26044",
-      "description": "Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over the past weekend, Bowling Green Bay National Park is closed until further notice. Please see below for more details.",
-      "details": "<p>Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over the past weekend, Bowling Green Bay National Park is closed until further notice. Please see below for more details.</p> <p>All visitor facilities in Bowling Green Bay National Park are closed and this includes all camping areas, day-use areas and vehicle access tracks. Alligator Creek camping and day-use area are closed until further notice.</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>Please monitor park alerts for up-to-date information. This park alert will be updated as visitor facilities reopen.</p> <p>Across Bowling Green Bay National Park, QPWS Rangers are undertaking recovery work and assessments after these weather events and will reopen visitor facilities when deemed safe to do so. Your support and cooperation is appreciated.</p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways. Remember if it is flooded, forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over recent days, Bowling Green Bay National Park is partially open until further notice. Please see below for more details.",
+      "details": "<p>Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over recent days, Bowling Green Bay National Park is partially open until further notice. Please see below for more details.</p> <p>The following visitor facilities in Bowling Green Bay National Park are <strong>OPEN</strong>.</p> <ul> <li>Alligator Creek day-use area <strong>OPEN</strong></li> <li>Alligator Creek camping area<strong> OPEN</strong></li> </ul> <p>All other visitor facilities in Bowling Green Bay National Park are closed and this includes camping areas, day-use areas and vehicle access tracks. If a visitor facilitiy is not listed above as open, then it is close until further notice.</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>Please monitor park alerts for up-to-date information. This park alert will be updated as visitor facilities reopen.</p> <p>Across Bowling Green Bay National Park, QPWS Rangers are undertaking recovery work and assessments after these weather events and will reopen visitor facilities when deemed safe to do so. Your support and cooperation is appreciated.</p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways. Remember if it is flooded, forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-27",
+      "start_date": "2026-01-29",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-01-30",
+      "end_date": "2026-02-13",
       "parks": [
         {
           "id": "149433",
@@ -2542,9 +2524,9 @@
       "description": "The integrity and condition of the Wangetti Trail may be impacted by localised or heavy rainfall during the North Queensland wet season.",
       "details": "<p>The integrity and condition of the Wangetti Trail may be impacted by localised or heavy rainfall during the North Queensland wet season.</p> <h3>Visitors are urged to use caution at all times and be aware of possible trail obstructions due to tree fall or track surface changes.</h3> <ul> <li>Observe&nbsp;all trail safety notices, directions and advice</li> <li>Do not enter closed areas or take any unmarked&nbsp;trail diversions</li> <li>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>&nbsp;before visiting.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2026-01-13",
+      "start_date": "2026-01-29",
       "start_effective_date": "2026-01-06",
-      "end_date": "2026-01-31",
+      "end_date": "2026-02-28",
       "parks": [
         {
           "id": "354857",
@@ -2599,9 +2581,9 @@
       "alert_id": "26063",
       "url": "https://parks.qld.gov.au/park-alerts/26063",
       "description": "Following significant flooding during the February 2025 weather event, structural damage was sustained to the Canoe Creek bridge on Broadwater Park Road resulting in a closure of the bridge until further notice. Walk-in access to Broadwater day-use area is available by via Copleys Road, Abergowrie and walking across Broadwater Creek. Please see below for further information:",
-      "details": "<p>Following significant flooding during the February 2025 weather event, structural damage was sustained to the Canoe Creek bridge on Broadwater Park Road resulting in a closure of the bridge until further notice. Walk-in access to Broadwater day-use area is available by via Copleys Road, Abergowrie and walking across Broadwater Creek. Please see below for further information:</p> <p><strong>Areas open via walk-in access only are listed below. Wet season rains cause rapid fluctuations in the creek and visitors to the day-use area should exercise caution when walking across the creek to access the park.</strong></p> <ul> <li>Broadwater day-use area</li> <li>Fig Tree boardwalk</li> <li>Rainforest walk</li> </ul> <p><strong>Areas still closed within the park</strong></p> <ul> <li>Broadwater Park Road vehicle access</li> <li>Broadwater camping area</li> </ul> <p>Queensland Parks and Wildlife Service are striving to re-open all Broadwater facilities to full capacity as soon as possible.</p> <p>Please monitor this park alert for current information on the reinstatement of Broadwater vehicle access and camping facilities.</p>",
+      "details": "<p>Following significant flooding during the February 2025 weather event, structural damage was sustained to the Canoe Creek bridge on Broadwater Park Road resulting in a closure of the bridge until further notice. Walk-in access to Broadwater day-use area is available by via Copleys Road, Abergowrie and walking across Broadwater Creek. Please see below for further information:</p> <p><strong>Areas open via walk-in access only are listed below. Wet season rains cause rapid fluctuations in the creek and visitors to the day-use area should exercise caution when walking across the creek to access the park.</strong></p> <ul> <li>Broadwater day-use area</li> </ul> <p><strong>Areas closed within the park</strong></p> <ul> <li>Broadwater Park Road vehicle access</li> <li>Broadwater camping area</li> <li>Fig Tree boardwalk</li> <li>Rainforest walk.</li> </ul> <p>Queensland Parks and Wildlife Service are striving to re-open all Broadwater facilities to full capacity as soon as possible.</p> <p>Please monitor this park alert for current information on the reinstatement of Broadwater vehicle access and camping facilities.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-20",
+      "start_date": "2026-01-29",
       "start_effective_date": "2026-01-07",
       "end_date": "2026-04-30",
       "parks": [
@@ -2637,9 +2619,9 @@
       "description": "Due to wet weather and the likelihood of tree fall over tracks, we would like to caution riders to take extreme care while riding at the Smithfield Mountain Bike Park. Be aware that it is probable further trees will fall and become a hazard on tracks, particularly after rain.",
       "details": "<p>Due to wet weather and the likelihood of tree fall over tracks, we would like to caution riders to take extreme care while riding at the Smithfield Mountain Bike Park. Be aware that it is probable further trees will fall and become a hazard on tracks, particularly after rain.</p> <p>Please report any hazards or track damage to the Cairns Mountain Bike Club and avoid the tracks when wet.</p> <p>Please check park alerts and the&nbsp;<a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a>&nbsp;website or Facebook page for updates.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Announcement",
-      "start_date": "2026-01-14",
+      "start_date": "2026-01-29",
       "start_effective_date": "2026-01-08",
-      "end_date": "2026-01-30",
+      "end_date": "2026-02-13",
       "parks": [
         {
           "id": "148424",
@@ -2833,24 +2815,6 @@
       ]
     },
     {
-      "title": "Daisy Hill Koala Centre Closed Wednesday 28th January 2026 for Maintenance",
-      "alert_id": "26101",
-      "url": "https://parks.qld.gov.au/park-alerts/26101",
-      "description": "Daisy Hill Koala Centre will be closed on Wednesday 28th January 2026 for scheduled maintenance.",
-      "details": "<p>Daisy Hill Koala Centre will be closed on Wednesday 28th January 2026 for scheduled maintenance.</p> <p>The Koala Centre will reopen at 10am on Thursday 29th January 2026.&nbsp;</p> <p>Daisy Hill Conservation Park, including access to the Day Use Area, as well as walking, mountain biking and horseriding trails, will remain open. Please visit&nbsp;<a href=\"https://parks.qld.gov.au/parks/daisy-hill\">Daisy Hill Conservation Park</a>&nbsp;for more information, including any park alerts that apply for the Park.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-13",
-      "start_effective_date": "2026-01-28",
-      "end_date": "2026-01-28",
-      "parks": [
-        {
-          "id": "397374",
-          "name": "Daisy Hill Koala Centre",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
-        }
-      ]
-    },
-    {
       "title": "Safety Alert - Fallen trees and planned works on Conondale Range Great Walk",
       "alert_id": "26102",
       "url": "https://parks.qld.gov.au/park-alerts/26102",
@@ -2954,12 +2918,12 @@
       "title": "Temporary closure: Goldsborough Valley camping area and Goldsborough Valley Bora Ground camping area, Goldsborough Valley, Wooroonooran National Park",
       "alert_id": "26114",
       "url": "https://parks.qld.gov.au/park-alerts/26114",
-      "description": "From Thursday 15 January to Friday 30 January 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:",
-      "details": "<p>From Thursday 15 January to Friday 30 January 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley Bora Ground camping area.</li> </ul> <p>These closures are required to allow plumbing relining works to be carried out.</p> <p>During this period there will be no access to tap water or toilet facilities in the camping areas..</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "From Thursday 15 January to Thursday 5 February 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:",
+      "details": "<p>From Thursday 15 January to Thursday 5 February 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley Bora Ground camping area.</li> </ul> <p>These closures are required to allow plumbing relining works to be carried out.</p> <p>During this period there will be no access to tap water or toilet facilities in the camping areas..</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-23",
+      "start_date": "2026-01-29",
       "start_effective_date": "2026-01-15",
-      "end_date": "2026-01-30",
+      "end_date": "2026-02-05",
       "parks": [
         {
           "id": "148468",
@@ -3536,6 +3500,24 @@
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure: Saddle Track via Kulki day-use area car park, Daintree National Park (CYPAL)",
+      "alert_id": "26154",
+      "url": "https://parks.qld.gov.au/park-alerts/26154",
+      "description": "Visitors are advised that the Saddle Track via Kulki day-use area car park will be closed from 30 January to 2 February 2026 (dates inclusive).",
+      "details": "<p>Visitors are advised that the Saddle Track via Kulki day-use area car park will be closed from 30 January to 2 February 2026 (dates inclusive).</p> <p>During this time, contractors will be undertaking remedial maintenance works. Visitors are reminded to adhere to any onsite closure signage and directions from rangers.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-01-29",
+      "start_effective_date": "2026-01-30",
+      "end_date": "2026-02-02",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
         }
       ]
     }
