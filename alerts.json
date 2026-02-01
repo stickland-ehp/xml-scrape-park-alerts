@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 164,
-    "script_run_time": "2026-01-31 10:12:13"
+    "alerts_count": 156,
+    "script_run_time": "2026-02-01 10:13:32"
   },
   "alerts": [
     {
@@ -457,24 +457,6 @@
       ]
     },
     {
-      "title": "Charlie Moreland day use area's electric BBQ removed.",
-      "alert_id": "24985",
-      "url": "https://parks.qld.gov.au/park-alerts/24985",
-      "description": "The electric BBQ in the Charlie Moreland day use area is no longer functioning and has been removed. The woodfire BBQs are still in use, please bring your own clean cut, milled firewood.",
-      "details": "<p>The electric BBQ in the Charlie Moreland day use area is no longer functioning and has been removed. The woodfire BBQs are still in use, please bring your own clean cut, milled firewood.</p> <p>Collection of bush timber is prohibited.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-11-17",
-      "start_effective_date": "2025-02-28",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "147991",
-          "name": "Imbil State Forest",
-          "url": "https://parks.qld.gov.au/parks/imbil"
-        }
-      ]
-    },
-    {
       "title": "Severe Weather Damage - Lamington National Park",
       "alert_id": "25025",
       "url": "https://parks.qld.gov.au/park-alerts/25025",
@@ -708,24 +690,6 @@
       ]
     },
     {
-      "title": "Reduced campsites due to erosion",
-      "alert_id": "25451",
-      "url": "https://parks.qld.gov.au/park-alerts/25451",
-      "description": "The northern section of Eurimbula Creek campground has been affected by erosion due to high tides and creek mouth dynamics over the past several years.",
-      "details": "<p>The northern section of Eurimbula Creek campground has been affected by erosion due to high tides and creek mouth dynamics over the past several years.</p> <p>As a result, 3 camp sites on the northern end of the campground are closed to allow rehabilitation to take place. Please do not enter this area to allow sand replenishment and revegetation to occur.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-06-19",
-      "start_effective_date": "2025-06-19",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
       "title": "Beach camping zone 9  Diray and Carree CLOSED",
       "alert_id": "25452",
       "url": "https://parks.qld.gov.au/park-alerts/25452",
@@ -877,24 +841,6 @@
       ]
     },
     {
-      "title": "Mountain Bike Track 7 Closure",
-      "alert_id": "25555",
-      "url": "https://parks.qld.gov.au/park-alerts/25555",
-      "description": "The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. This closure will remain in place until final works are undertaken to remediate the Dam Wall.",
-      "details": "<p>The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. This closure will remain in place until final works are undertaken to remediate the Dam Wall.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-10-23",
-      "start_effective_date": "2025-07-01",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "Scientific area closed to the public",
       "alert_id": "25576",
       "url": "https://parks.qld.gov.au/park-alerts/25576",
@@ -909,24 +855,6 @@
           "id": "322895",
           "name": "Wuthathi (Sir Charles Hardy Group) National Park (CYPAL)",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Cunninghams Gap section, Main Range National Park - The Crest car park changed traffic conditions",
-      "alert_id": "25588",
-      "url": "https://parks.qld.gov.au/park-alerts/25588",
-      "description": "The Department of Transport and Main Roads are conducting major works on the Cunningham Highway at Cunninghams Gap. As a result, there are changed traffic conditions for the duration of the program.",
-      "details": "<p>The Department of Transport and Main Roads are conducting major works on the Cunningham Highway at Cunninghams Gap. As a result, there are changed traffic conditions for the duration of the program.</p> <p>The Crest and West Gap Creek picnic area carparks:</p> <ul> <li>Parking and toilet facilities are&nbsp;available at both The Crest and West Gap Creek picnic area&nbsp;carparks.</li> <li>Please follow the signs for entry into The Crest carpark, noting you will need to do a U-turn through either the West Gap Creek picnic area when travelling west, or a safe U-turn location 3km east of The Crest carpark.</li> <li>Access to the Mount Mitchell walking track is via the Box Forest walking track, which can be accessed from either The Crest or West Gap Creek picnic area carparks.</li> </ul> <p>Visitors are reminded that parking and walking along the Cunningham Highway is prohibited.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2025-12-08",
-      "start_effective_date": "2025-12-08",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
@@ -1323,24 +1251,6 @@
       ]
     },
     {
-      "title": "Pest management control program for Eurimbula National Park",
-      "alert_id": "25914",
-      "url": "https://parks.qld.gov.au/park-alerts/25914",
-      "description": "In conjunction with the nesting and hatching season for marine turtles as well as the arrival of migratory shorebirds, contractors and QPWS staff will be undertaking controlled trapping of the feral fox and pig population within Eurimbula National Park.",
-      "details": "<p>In conjunction with the nesting and hatching season for marine turtles as well as the arrival of migratory shorebirds, contractors and QPWS staff will be undertaking controlled trapping of the feral fox and pig population within Eurimbula National Park.</p> <p>This work will be carried out for the duration of the nesting period. These activities are conducted to reduce impacts on turtle and bird nests from predation by feral animals.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2025-11-07",
-      "start_effective_date": "2025-11-09",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
       "title": "Inskip Peninsula camping area boundary realignment and access changes following severe weather damage, combined with shoreline retrogression",
       "alert_id": "25920",
       "url": "https://parks.qld.gov.au/park-alerts/25920",
@@ -1427,29 +1337,6 @@
           "id": "148725",
           "name": "Cape Melville National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/cape-melville"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Closure Firebreak Maintenance Works - Daisy Hill Conservation Park - Venman Bushland National Park",
-      "alert_id": "25939",
-      "url": "https://parks.qld.gov.au/park-alerts/25939",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be commencing maintenance works within in Daisy Hill Conservation Park and Venman Bushland National Park",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be commencing maintenance works within in Daisy Hill Conservation Park and Venman Bushland National Park</p> <p>Heavy machinery will be utilised during these works.</p> <p>Please follow directions of signage and advice from Rangers and machine operators during this time.</p> <p>This maintenance work will be repairing damage to firelines and upgrading firelines to be compliance for fire management and operations the following firebreaks will be restricted:</p> <p>- Barking Dog Break</p> <p>- Shailer Break</p> <p>- Venman Road</p> <p>- Red Road</p> <p>Works are part of a strategic plan to ensure public safety, property protection and the management of fire within the Conservation Park.</p> <p>All other firebreaks within Daisy Hill Conservation Park and Venman Bushland National Park remain unaffected.</p> <p>QPWS apologises for any inconvenience during the completion of these works.</p> <p>Facilities will reopen when construction is completed.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-01-06",
-      "start_effective_date": "2025-11-17",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.qld.gov.au/parks/venman-bushland"
-        },
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
         }
       ]
     },
@@ -1619,29 +1506,6 @@
       ]
     },
     {
-      "title": "Annual closure period for all Lamington bush camping areas",
-      "alert_id": "25959",
-      "url": "https://parks.qld.gov.au/park-alerts/25959",
-      "description": "Due to the annual closure period, all remote bush camping sites are closed from 1 December to 31 January the following year (2 months), to enable natural regeneration of the sites.",
-      "details": "<p>Due to the annual closure period, all remote bush camping sites are closed from 1 December to 31 January the following year (2 months), to enable natural regeneration of the sites.</p> <p>As a result, the following camping areas are temporarily closed for the duration of the annual closure period:</p> <p><strong>Bush camping&mdash;on-track sites</strong></p> <ul> <li>Mount Bithongabel bush camp site</li> <li>Echo Point bush camp site; and</li> <li>Illinbah bush camp site</li> </ul> <p><strong>Bush camping&mdash;off-track remote sites</strong></p> <ul> <li>Point lookout remote bush camp site</li> <li>Rat-a-Tat remote bush camp site</li> <li>Stinson remote bush camp site</li> <li>Lost World&mdash;Creek remote bush camp site</li> <li>Lost World&mdash;Saddle remote bush camp site</li> <li>Running Creek remote bush camp site; and</li> <li>Darlington remote bush camp site</li> </ul> <p>Camping permits for all closed areas are not available for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p><em>Please note this closure does not apply to the O&#39;Reilly&#39;s Campground and it&nbsp;continues to operate as normal.</em></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-11-24",
-      "start_effective_date": "2025-11-24",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        },
-        {
-          "id": "148271",
-          "name": "Lamington National Park",
-          "url": "https://parks.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
       "title": "Seasonal closure: Munga-Thirri National Park",
       "alert_id": "25960",
       "url": "https://parks.qld.gov.au/park-alerts/25960",
@@ -1748,24 +1612,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Wreck Rock Campground - cold shower and taps out of order",
-      "alert_id": "25977",
-      "url": "https://parks.qld.gov.au/park-alerts/25977",
-      "description": "Please be advised the cold shower and taps at campsites at Wreck Rock campground are currently not working.",
-      "details": "<p>Please be advised the cold shower and taps at campsites at Wreck Rock campground are currently not working.</p> <p>We are looking into rectifying this issue as soon as possible. Alternate water can be found at the rainwater tank near the toilet block. Please ensure all water is treated before using.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-12-12",
-      "start_effective_date": "2025-11-28",
-      "end_date": "2026-01-31",
-      "parks": [
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
         }
       ]
     },
