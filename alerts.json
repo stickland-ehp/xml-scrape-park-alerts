@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2026-02-03 10:27:35"
+    "alerts_count": 164,
+    "script_run_time": "2026-02-04 10:27:23"
   },
   "alerts": [
     {
@@ -308,15 +308,15 @@
       ]
     },
     {
-      "title": "Temporary toilet block closure and no access to tap water: Goldsborough Valley, Wooroonooran National Park",
+      "title": "Temporary day-use area toilet facility closure: Goldsborough Valley, Wooroonooran National Park",
       "alert_id": "24502",
       "url": "https://parks.qld.gov.au/park-alerts/24502",
-      "description": "Due to plumbing maintenance works, all toilet facilities at Goldsborough Valley camping area and day-use area are temporarily closed.",
-      "details": "<p>Due to plumbing maintenance works, all toilet facilities at Goldsborough Valley camping area and day-use area are temporarily closed.</p> <p>During this period there is also no access to tap water and visitors are reminded to bring their own drinking water.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Due to public safety concerns surrounding exposed fibre asbestos, the day-use area toilet facility will be closed until further notice. There is an alternative toilet facility located at the Bora Ground camping area.",
+      "details": "<p>Due to public safety concerns surrounding exposed fibre asbestos, the day-use area toilet facility will be closed until further notice. There is an alternative toilet facility located at the Bora Ground camping area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-29",
+      "start_date": "2026-02-04",
       "start_effective_date": "2024-09-16",
-      "end_date": "2026-02-05",
+      "end_date": "2027-02-03",
       "parks": [
         {
           "id": "148468",
@@ -2577,15 +2577,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Goldsborough Valley camping area and Goldsborough Valley Bora Ground camping area, Goldsborough Valley, Wooroonooran National Park",
+      "title": "Temporary camp site closures: Goldsborough Valley camping area and Goldsborough Valley Bora Ground camping area, Goldsborough Valley, Wooroonooran National Park",
       "alert_id": "26114",
       "url": "https://parks.qld.gov.au/park-alerts/26114",
-      "description": "From Thursday 15 January to Thursday 5 February 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:",
-      "details": "<p>From Thursday 15 January to Thursday 5 February 2026 (dates inclusive) the following camping areas at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley Bora Ground camping area.</li> </ul> <p>These closures are required to allow plumbing relining works to be carried out.</p> <p>During this period there will be no access to tap water or toilet facilities in the camping areas..</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "From Thursday 15 January to Tuesday 24 February 2026 (dates inclusive), the following camp sites at Goldsborough Valley will be closed for maintenance works:",
+      "details": "<p>From Thursday 15 January to Tuesday 24 February 2026 (dates inclusive), the following camp sites at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley Bora Ground camping area <ul> <li>All sites</li> </ul> </li> <li>Goldsborough Valley camping area <ul> <li>Sites 1,2,3,4,5,6,7,8,9,11.</li> </ul> </li> </ul> <p>Sites 10 and 12 will remain open.</p> <p>These closures are required to allow plumbing relining works to be carried out.</p> <p>During this period there will be no access to tap water in the camping areas but the toilet facility located at the Bora Ground camping area will be open. Visitors are reminded to bring their own drinking water.</p> <p>For campers with an existing booking between Thursday 15 January and Tuesday 24 February 2026 (dates inclusive), please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-29",
+      "start_date": "2026-02-04",
       "start_effective_date": "2026-01-15",
-      "end_date": "2026-02-05",
+      "end_date": "2026-02-24",
       "parks": [
         {
           "id": "148468",
@@ -3331,6 +3331,108 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial closure of Rainforest Circuit (Maiala)",
+      "alert_id": "26168",
+      "url": "https://parks.qld.gov.au/park-alerts/26168",
+      "description": "The Rainforest circuit at Maiala will be partially closed for track maintenance from 4th February to 6th February 2026. The top section of the Rainforest circuit that leads to Greenes Falls and Cypress Grove walking tracks will remain open.",
+      "details": "<p>The Rainforest circuit at Maiala will be partially closed for track maintenance from 4th February to 6th February 2026. The top section of the Rainforest circuit that leads to Greenes Falls and Cypress Grove walking tracks will remain open.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-04",
+      "start_effective_date": "2026-02-04",
+      "end_date": "2026-02-06",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burns for Main Range National Park",
+      "alert_id": "26170",
+      "url": "https://parks.qld.gov.au/park-alerts/26170",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from 06/02/2026 - 12/02/2026 as part of the fire management program for Main Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from 06/02/2026 - 12/02/2026 as part of the fire management program for Main Range National Park.</p> <p>During the planned burns these areas are&nbsp;closed to public access:&nbsp;</p> <ul> <li> <p>Scenic Rim Trail</p> </li> <li> <p>Cunningham North Remote Camping Zone</p> </li> <li> <p>Mount Castle Remote Walk</p> </li> </ul> <p>Smoke may be seen in the vicinity of Tarome, Townson andThornton. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-04",
+      "start_effective_date": "2026-02-04",
+      "end_date": "2026-02-12",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        },
+        {
+          "id": "148059",
+          "name": "Main Range Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/main-range-cp"
+        },
+        {
+          "id": "205144",
+          "name": "Scenic Rim Trail, Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/scenic-rim-trail"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Main Range Conservation Park",
+      "alert_id": "26171",
+      "url": "https://parks.qld.gov.au/park-alerts/26171",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 06/01/2026 - 12/01/2026 as part of the fire management program for Main Range Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 06/01/2026 - 12/01/2026 as part of the fire management program for Main Range Conservation Park.</p> <p>During the planned burn these areas are&nbsp;closed to public access:&nbsp;</p> <ul> <li> <p>Main Range Conservation Park - Glen Rock Section.</p> </li> <li> <p>Glen Rock Camping Area</p> </li> </ul> <p>Smoke may be seen in the vicinity of Junction View, East Haldon and Goomburra Valley . Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-04",
+      "start_effective_date": "2026-02-04",
+      "end_date": "2026-02-12",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        },
+        {
+          "id": "205144",
+          "name": "Scenic Rim Trail, Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/scenic-rim-trail"
+        },
+        {
+          "id": "148059",
+          "name": "Main Range Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/main-range-cp"
+        }
+      ]
+    },
+    {
+      "title": "Scheduled dewatering works affecting river levels: Kareeya power station, Tully River, Tully Gorge National Park",
+      "alert_id": "26173",
+      "url": "https://parks.qld.gov.au/park-alerts/26173",
+      "description": "From Tuesday 4 August to Friday 5 September 2026 (dates inclusive), CleanCo will undertake dewatering of the Kareeya hydro-power station.",
+      "details": "<p>From Tuesday 4 August to Friday 5 September 2026 (dates inclusive), CleanCo will undertake dewatering of the Kareeya hydro-power station.</p> <p>This involves removing water from the power station to enable inspections, maintenance and any necessary repairs in areas that are normally inaccessible.</p> <p>&nbsp;At the start of the dewatering, there will be a gradual decrease in the Tully River water level. For the duration of the work there will be no water released from the power station and the river level will remain low. Seasonal and natural catchment flows will continue to enter the river and once the dewatering is complete, Tully River levels will return to normal.</p> <p>&nbsp;During this time water levels may be affected near the following facilities:</p> <ul> <li>Tully Gorge camping area</li> <li>Tully Gorge day-use area</li> <li>Cardstone weir lookout</li> </ul> <p>&nbsp;For more information on the dewatering works, please contact CleanCo on <a href=\"mailto:community@cleancoqld.com.au\">community@cleancoqld.com.au</a></p>",
+      "category": "Announcement",
+      "start_date": "2026-02-04",
+      "start_effective_date": "2026-08-04",
+      "end_date": "2026-09-05",
+      "parks": [
+        {
+          "id": "148888",
+          "name": "Tablelands section, Tully Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/tully-tableland"
+        },
+        {
+          "id": "147987",
+          "name": "Tully section, Tully Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/tully"
+        },
+        {
+          "id": "148460",
+          "name": "Tully Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/tully-gorge"
         }
       ]
     }
