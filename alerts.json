@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 165,
-    "script_run_time": "2026-02-06 10:27:36"
+    "alerts_count": 158,
+    "script_run_time": "2026-02-07 10:13:16"
   },
   "alerts": [
     {
@@ -2038,24 +2038,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to severe weather impacts and continued wet conditions: Bladensburg National Park",
-      "alert_id": "26045",
-      "url": "https://parks.qld.gov.au/park-alerts/26045",
-      "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Bladensburg National Park is temporarily closed until further notice.",
-      "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Bladensburg National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Bladensburg National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-20",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148408",
-          "name": "Bladensburg National Park",
-          "url": "https://parks.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
       "title": "Wet season water safety information: Cardwell Forest Drive and Five Mile day-use area",
       "alert_id": "26047",
       "url": "https://parks.qld.gov.au/park-alerts/26047",
@@ -2587,24 +2569,6 @@
       ]
     },
     {
-      "title": "Planned Works Cedar Grove Campground",
-      "alert_id": "26120",
-      "url": "https://parks.qld.gov.au/park-alerts/26120",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Cedar Grove Campground within Amamoor State Forest from 2 - 6 February 2026 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at Cedar Grove Campground within Amamoor State Forest from 2 - 6 February 2026 (weather permitting).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-19",
-      "start_effective_date": "2026-02-02",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.qld.gov.au/parks/amamoor"
-        }
-      ]
-    },
-    {
       "title": "Pest Management Control Program - Southend Conservation Park, Curtis Island National Park, Conservation Park, and State Forest.",
       "alert_id": "26122",
       "url": "https://parks.qld.gov.au/park-alerts/26122",
@@ -2716,24 +2680,6 @@
           "id": "148360",
           "name": "Diamantina National Park",
           "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to severe weather impacts and continued wet conditions: Idalia National Park",
-      "alert_id": "26130",
-      "url": "https://parks.qld.gov.au/park-alerts/26130",
-      "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Idalia National Park is temporarily closed until further notice.",
-      "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Idalia National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Idalia National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-20",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.qld.gov.au/parks/idalia"
         }
       ]
     },
@@ -2917,42 +2863,6 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Yalgay Ginja Bulumi walk, Murray Falls, Girramay National Park",
-      "alert_id": "26145",
-      "url": "https://parks.qld.gov.au/park-alerts/26145",
-      "description": "Yalgay Ginja Bulumi walk, Murray Falls is temporarily closed due to recent severe weather and flooding.",
-      "details": "<p>Yalgay Ginja Bulumi walk, Murray Falls is temporarily closed due to recent severe weather and flooding.</p> <p>For your safety, please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-30",
-      "start_effective_date": "2026-01-27",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148127",
-          "name": "Girramay National Park",
-          "url": "https://parks.qld.gov.au/parks/girramay"
-        }
-      ]
-    },
-    {
-      "title": "Maintenance works: Dubuji day-use area and car park, Cape Tribulation section, Daintree National Park (CYPAL)",
-      "alert_id": "26149",
-      "url": "https://parks.qld.gov.au/park-alerts/26149",
-      "description": "Visitors are advised that contractors will be on site undertaking maintenance works at Dubuji day-use area and car park, in the Cape Tribulation section of Daintree National Park (CYPAL) from Tuesday 3 February to Friday 6 February 2026 (dates inclusive).",
-      "details": "<p>Visitors are advised that contractors will be on site undertaking maintenance works at Dubuji day-use area and car park, in the Cape Tribulation section of Daintree National Park (CYPAL) from Tuesday 3 February to Friday 6 February 2026 (dates inclusive).</p> <p>During these works visitors are reminded to adhere to any onsite closure signage and directions from rangers.</p>",
-      "category": "Announcement",
-      "start_date": "2026-02-03",
-      "start_effective_date": "2026-02-03",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Aerial feral animal control activities: Apudthama (Jardine River) National Park (CYPAL), Bromley (Amplulin) National Park (CYPAL) and Wuthathi (Shelburne Bay) National Park (CYPAL)",
       "alert_id": "26151",
       "url": "https://parks.qld.gov.au/park-alerts/26151",
@@ -3054,24 +2964,6 @@
           "id": "148818",
           "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
           "url": "https://parks.qld.gov.au/parks/herberton-range"
-        }
-      ]
-    },
-    {
-      "title": "Park Closure",
-      "alert_id": "26160",
-      "url": "https://parks.qld.gov.au/park-alerts/26160",
-      "description": "David Fleay Wildlife Park will be closed from 26 February 2026 to undertake critical maintenance works. We apologise for any inconvenience and appreciate your understanding.",
-      "details": "<p>David Fleay Wildlife Park will be closed from 26 February 2026 to undertake critical maintenance works. We apologise for any inconvenience and appreciate your understanding.</p> <p>The park will reopen on Saturday, 7 February, from 9am.</p> <p>Rangers and Wildlife Ambassadors look forward to welcoming visitors back to the park, where you can learn about the vital conservation work being carried out across Queensland and the important role protected areas play in safeguarding our unique wildlife.</p> <p>We apologise for any inconvenience and thank you for your understanding.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-30",
-      "start_effective_date": "2026-02-02",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148540",
-          "name": "David Fleay Wildlife Park",
-          "url": "https://parks.qld.gov.au/parks/david-fleay"
         }
       ]
     },
@@ -3195,24 +3087,6 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
-      "title": "Temporary partial closure of Rainforest Circuit (Maiala)",
-      "alert_id": "26168",
-      "url": "https://parks.qld.gov.au/park-alerts/26168",
-      "description": "The Rainforest circuit at Maiala will be partially closed for track maintenance from 4th February to 6th February 2026. The top section of the Rainforest circuit that leads to Greenes Falls and Cypress Grove walking tracks will remain open.",
-      "details": "<p>The Rainforest circuit at Maiala will be partially closed for track maintenance from 4th February to 6th February 2026. The top section of the Rainforest circuit that leads to Greenes Falls and Cypress Grove walking tracks will remain open.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-04",
-      "start_effective_date": "2026-02-04",
-      "end_date": "2026-02-06",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
