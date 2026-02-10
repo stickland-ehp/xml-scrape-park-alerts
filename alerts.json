@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2026-02-09 10:44:20"
+    "alerts_count": 162,
+    "script_run_time": "2026-02-10 10:41:33"
   },
   "alerts": [
     {
@@ -3201,33 +3201,15 @@
       ]
     },
     {
-      "title": "Temporay closure: Jumrum Creek walk, Jumrum Conservation Park",
-      "alert_id": "26178",
-      "url": "https://parks.qld.gov.au/park-alerts/26178",
-      "description": "The Jumrum Creek walk will be closed for track maintenance from Monday 9 February to Thursday 12 February 2026 (dates inclusive).",
-      "details": "<p>The Jumrum Creek walk will be closed for track maintenance from Monday 9 February to Thursday 12 February 2026 (dates inclusive).</p> <p>Access from both entry points of the track is prohibited (Barron Falls Road and Barrang Street entrance).</p> <p>Please observe all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-06",
-      "start_effective_date": "2026-02-09",
-      "end_date": "2026-02-12",
-      "parks": [
-        {
-          "id": "148352",
-          "name": "Jumrum Creek Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/jumrum-creek"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Jourama Falls section, Paluma Range National Park",
+      "title": "Temporary partial closure: Jourama Falls lookout walk, Paluma Range National Park",
       "alert_id": "26179",
       "url": "https://parks.qld.gov.au/park-alerts/26179",
-      "description": "Due to the recent severe weather, Jourama Falls section of Paluma Range National Park is closed from Friday 6 February to Monday 9 February 2026 (dates inclusive).",
-      "details": "<p>Due to the recent severe weather, Jourama Falls section of Paluma Range National Park is closed from Friday 6 February to Monday 9 February 2026 (dates inclusive).</p> <p>This closure includes the following:</p> <ul> <li>Jourama Falls camping area</li> <li>Jourama Falls day-use area</li> <li>Jourama Falls lookout walking track.</li> </ul> <p>On Tuesday 10 February the camping and day-use areas will reopen.&nbsp; The&nbsp;Jourama Falls lookout walking track will remain partially closed until declared safe.&nbsp; Details as follows:</p> <p>The section of track between the car park and first swimming hole will be open. The remainder of the track will be closed.</p> <p>Additional information for visitors:</p> <p>In 2025 a temporary walking track was established to provide access to the Jourama Falls lookout and the upper sections of the Waterview Creek gorge below the falls. The temporary track crosses a landslide that occurred during the February 2025 monsoon rain event.</p> <p>Due to the unstable nature of the landslide and boulders, some areas of the landslide remain closed to the public for safety. Please follow all directional and safety signage and any directions from rangers.</p> <p>Please monitor this park alert for up-to-date details.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings(external link)</a>.</p>",
+      "description": "Due to recent severe weather and flooding, Jourama Falls lookout walk is partially closed until declared safe.",
+      "details": "<p>Due to recent severe weather and flooding, Jourama Falls lookout walk is partially closed until declared safe.</p> <p>The section of track between the car park and first swimming hole is open. The remainder of the track is closed.</p> <p>Additional information for visitors:</p> <p>In 2025 a temporary walking track was established to provide access to the Jourama Falls lookout and the upper sections of the Waterview Creek gorge below the falls. The temporary track crosses a landslide that occurred during the February 2025 monsoon rain event.</p> <p>Due to the unstable nature of the landslide and boulders, some areas of the landslide remain closed to the public for safety. Please follow all directional and safety signage and any directions from rangers.</p> <p>Please monitor this park alert for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-09",
-      "start_effective_date": "2026-02-06",
-      "end_date": "2026-02-10",
+      "start_date": "2026-02-10",
+      "start_effective_date": "2026-01-27",
+      "end_date": "2026-03-27",
       "parks": [
         {
           "id": "148452",
@@ -3251,47 +3233,6 @@
           "id": "148556",
           "name": "Isla Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/isla-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "26181",
-      "url": "https://parks.qld.gov.au/park-alerts/26181",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Other",
-      "start_date": "2026-02-06",
-      "start_effective_date": "2026-02-06",
-      "end_date": "2026-02-09",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Main Range Conservation Park, Glen Rock section",
-      "alert_id": "26182",
-      "url": "https://parks.qld.gov.au/park-alerts/26182",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 10 February to 12 February, as part of the fire management program for Main Range Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 10 February to 12 February, as part of the fire management program for Main Range Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of East Haldon Road. For your safety and the safety of firefighters, please slow down and&nbsp;observe&nbsp;all directions and signs.&nbsp;&nbsp;</p> <p>During the planned burn&nbsp;Main Range Conservation Park, Glen Rock section is&nbsp;closed to public access. Including:</p> <ul> <li>Casuarina day-use area; and</li> <li>Glen Rock camping area.</li> </ul> <p>Smoke may be seen in the vicinity of East Haldon Road and Black Duck area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-02-09",
-      "start_effective_date": "2026-02-10",
-      "end_date": "2026-02-12",
-      "parks": [
-        {
-          "id": "148059",
-          "name": "Main Range Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/main-range-cp"
         }
       ]
     },
@@ -3346,6 +3287,101 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burning adjacent to Mapletons Forest Road planned for week starting 9th February",
+      "alert_id": "26187",
+      "url": "https://parks.qld.gov.au/park-alerts/26187",
+      "description": "Weather permitting, QPWS will be undertaking a planned burn east of Mapleton Forest Road over the week of 9-13 February",
+      "details": "<p>Weather permitting, QPWS will be undertaking a planned burn east of Mapleton Forest Road over the week of 9-13 February</p> <p>Access to the northern section of multi use trail Kureelpa Falls Circuit and some eastern sections of the SEQ horse trail network may be closed during burning operations.</p> <p>Motorists using Mapleton Forest Road are asked to slow down and exercise caution when passing fire crews.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-02-10",
+      "start_effective_date": "2026-02-09",
+      "end_date": "2026-02-13",
+      "parks": [
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Conondale National Park",
+      "alert_id": "26188",
+      "url": "https://parks.qld.gov.au/park-alerts/26188",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Wednesday 11 February to Sunday 15 February 2026 as part of the fire management program for Conondale National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Wednesday 11 February to Sunday 15 February 2026 as part of the fire management program for Conondale National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Booloumba Creek Road, Booloumba Creek camping area 3, Booloumba Creek Falls and Wongai walker&#39;s camp. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Booloumba Creek Road from Booloumba Creek camping area 4 to Booloumba Falls car park</li> <li>Conondale Range&nbsp;Great Walk from Gold Mine walk to Booloumba Falls</li> <li>Conondale Range Great Walk from Booloumba Falls through Wongai walker&#39;s camp to South Goods Road.</li> </ul> <p>Smoke may be seen in the vicinity of Booloumba Creek Road, Booloumba Creek camping and day use areas, Booloumba Falls. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-02-10",
+      "start_effective_date": "2026-02-11",
+      "end_date": "2026-02-15",
+      "parks": [
+        {
+          "id": "152865",
+          "name": "Conondale Range Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-conondale-range"
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
+      "title": "High clearance vehicles recommended for access in Kroombit Tops National Park",
+      "alert_id": "26189",
+      "url": "https://parks.qld.gov.au/park-alerts/26189",
+      "description": "As a result of recent weather events and damage caused to the road network, high clearance vehicles are recommended for access within Kroombit Tops National Park until further notice.",
+      "details": "<p>As a result of recent weather events and damage caused to the road network, high clearance vehicles are recommended for access within Kroombit Tops National Park until further notice.</p> <p>Some washouts, erosion, loose surfaces and rocks are present on the roads and tracks.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Other",
+      "start_date": "2026-02-10",
+      "start_effective_date": "2026-02-10",
+      "end_date": "2026-06-30",
+      "parks": [
+        {
+          "id": "148784",
+          "name": "Kroombit Tops National Park",
+          "url": "https://parks.qld.gov.au/parks/kroombit-tops"
+        }
+      ]
+    },
+    {
+      "title": "Closure due to pest management control program",
+      "alert_id": "26190",
+      "url": "https://parks.qld.gov.au/park-alerts/26190",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Sunday 1st March to Saturday 7th March. All control activities are conducted in accordance with the Lake Bindegolly Pest Animal Control plan and helps to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Sunday 1st March to Saturday 7th March. All control activities are conducted in accordance with the Lake Bindegolly Pest Animal Control plan and helps to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.</p> <p>Lake Bindegolly National Park will be closed to public access for the duration of the pest management program.<br /> Closed areas include:<br /> &bull;&nbsp;&nbsp; &nbsp;All vehicle and walking tracks<br /> &bull;&nbsp;&nbsp; &nbsp;All day-use areas</p> <p>&nbsp;</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-10",
+      "start_effective_date": "2026-03-01",
+      "end_date": "2026-03-07",
+      "parks": [
+        {
+          "id": "148761",
+          "name": "Lake Bindegolly National Park",
+          "url": "https://parks.qld.gov.au/parks/lake-bindegolly"
+        }
+      ]
+    },
+    {
+      "title": "Closure due to pest management control program",
+      "alert_id": "26191",
+      "url": "https://parks.qld.gov.au/park-alerts/26191",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Sunday 1st March to Saturday 7th March. All control activities are conducted in accordance with the Currawinya Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting pest management control programs from Sunday 1st March to Saturday 7th March. All control activities are conducted in accordance with the Currawinya Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Firearms, poisons or traps may be in use.</p> <p>Currawinya National Park will be closed to public access for the duration of the pest management program.</p> <p>Closed areas include:<br /> &bull;&nbsp;&nbsp; &nbsp;All camping and day-use areas<br /> &bull;&nbsp;&nbsp; &nbsp;All vehicle and walking tracks<br /> &nbsp;<br /> The Hungerford- Eulo Road will remain open to traffic.<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-10",
+      "start_effective_date": "2026-03-01",
+      "end_date": "2026-03-07",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.qld.gov.au/parks/currawinya"
         }
       ]
     }
