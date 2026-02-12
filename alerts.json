@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2026-02-11 10:37:09"
+    "alerts_count": 165,
+    "script_run_time": "2026-02-12 10:32:27"
   },
   "alerts": [
     {
@@ -232,24 +232,6 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Madigan Road and Gillies lookout, Danbulla National Park",
-      "alert_id": "23745",
-      "url": "https://parks.qld.gov.au/park-alerts/23745",
-      "description": "Due to heavy rain at the beginning of 2024, the road leading to Gillies lookout (Madigan Road) has become unsafe to traverse. This road is closed until further notice for public safety and to protect from degradation and erosion.",
-      "details": "<p>Due to heavy rain at the beginning of 2024, the road leading to Gillies lookout (Madigan Road) has become unsafe to traverse. This road is closed until further notice for public safety and to protect from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-19",
-      "start_effective_date": "2024-01-30",
-      "end_date": "2026-02-25",
-      "parks": [
-        {
-          "id": "148055",
-          "name": "Danbulla National Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/danbulla"
         }
       ]
     },
@@ -803,10 +785,10 @@
       "title": "Mountain Bike Track 7 Closure",
       "alert_id": "25555",
       "url": "https://parks.qld.gov.au/park-alerts/25555",
-      "description": "The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. This closure will remain in place until final works are undertaken to remediate the Dam Wall.",
-      "details": "<p>The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. This closure will remain in place until final works are undertaken to remediate the Dam Wall.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "description": "The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 and Bunyaville Dam due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. Machinery and pumps will be operating in the area. This closure will remain in place until final works are undertaken to remediate the Dam Wall.",
+      "details": "<p>The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 and Bunyaville Dam due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. Machinery and pumps will be operating in the area. This closure will remain in place until final works are undertaken to remediate the Dam Wall.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-11",
+      "start_date": "2026-02-12",
       "start_effective_date": "2025-07-01",
       "end_date": "2026-05-31",
       "parks": [
@@ -2021,9 +2003,9 @@
       "description": "Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.",
       "details": "<p>Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.</p> <p>The following visitor facilities in Townsville Town Common are <strong>OPEN:&nbsp;</strong></p> <ul> <li>Main access gate to allow access to Freshwater car park only</li> <li>Freshwater trail (excluding western dam wall section)</li> <li>Wetlands walk</li> <li>Forest walk.</li> </ul> <p>All other visitor facilities in <strong>Townsville Town Common Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>The following visitor facilities in Cape Pallarenda Conservation Park are <strong>OPEN:</strong></p> <ul> <li>Cape Pallarenda day-use area</li> <li>Graves circuit&nbsp;</li> <li>Shelly Cove trail.</li> </ul> <p>All other visitor facilities in <strong>Cape Pallarenda&nbsp;Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>QPWS Rangers are undertaking recovery and assessment work and visitor facilities will reopen when they are deemed safe to do so. Your support and cooperation are appreciated.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-29",
+      "start_date": "2026-02-12",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-02-13",
+      "end_date": "2026-02-27",
       "parks": [
         {
           "id": "148997",
@@ -2042,11 +2024,11 @@
       "alert_id": "26044",
       "url": "https://parks.qld.gov.au/park-alerts/26044",
       "description": "Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over recent days, Bowling Green Bay National Park is partially open until further notice. Please see below for more details.",
-      "details": "<p>Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over recent days, Bowling Green Bay National Park is partially open until further notice. Please see below for more details.</p> <p>The following visitor facilities in Bowling Green Bay National Park are <strong>OPEN</strong>.</p> <ul> <li>Alligator Creek day-use area <strong>OPEN</strong></li> <li>Alligator Creek camping area<strong> OPEN</strong></li> </ul> <p>All other visitor facilities in Bowling Green Bay National Park are closed and this includes camping areas, day-use areas and vehicle access tracks. If a visitor facilitiy is not listed above as open, then it is close until further notice.</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>Please monitor park alerts for up-to-date information. This park alert will be updated as visitor facilities reopen.</p> <p>Across Bowling Green Bay National Park, QPWS Rangers are undertaking recovery work and assessments after these weather events and will reopen visitor facilities when deemed safe to do so. Your support and cooperation is appreciated.</p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways. Remember if it is flooded, forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Due to impacts from recent severe weather events including localised heavy rainfall, flash flooding and damaging winds, and continued heavy rainfall over recent days, Bowling Green Bay National Park is partially open until further notice. Please see below for more details.</p> <p>The following visitor facilities in Bowling Green Bay National Park are <strong>OPEN</strong>.</p> <ul> <li>Alligator Creek day-use area <strong>OPEN</strong></li> <li>Alligator Creek camping area<strong> OPEN</strong></li> <li>Alligator Creek Falls trail to Cockatoo Creek (2.6km return) -<strong> OPEN</strong>. The Alligator Falls walking track beyond Cockatoo Creek remains <strong>closed.</strong></li> </ul> <p>All other visitor facilities in Bowling Green Bay National Park are closed and this includes camping areas, day-use areas and vehicle access tracks. If a visitor facilitiy is not listed above as open, then it is closed until further notice.</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>Please monitor park alerts for up-to-date information. This park alert will be updated as visitor facilities reopen.</p> <p>Across Bowling Green Bay National Park, QPWS Rangers are undertaking recovery work and assessments after these weather events and will reopen visitor facilities when deemed safe to do so. Your support and cooperation is appreciated.</p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways. Remember if it is flooded, forget it.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-29",
+      "start_date": "2026-02-12",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-02-13",
+      "end_date": "2026-02-27",
       "parks": [
         {
           "id": "149433",
@@ -2293,9 +2275,9 @@
       "description": "Due to wet weather and the likelihood of tree fall over tracks, we would like to caution riders to take extreme care while riding at the Smithfield Mountain Bike Park. Be aware that it is probable further trees will fall and become a hazard on tracks, particularly after rain.",
       "details": "<p>Due to wet weather and the likelihood of tree fall over tracks, we would like to caution riders to take extreme care while riding at the Smithfield Mountain Bike Park. Be aware that it is probable further trees will fall and become a hazard on tracks, particularly after rain.</p> <p>Please report any hazards or track damage to the Cairns Mountain Bike Club and avoid the tracks when wet.</p> <p>Please check park alerts and the&nbsp;<a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a>&nbsp;website or Facebook page for updates.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Announcement",
-      "start_date": "2026-01-29",
+      "start_date": "2026-02-12",
       "start_effective_date": "2026-01-08",
-      "end_date": "2026-02-13",
+      "end_date": "2026-02-27",
       "parks": [
         {
           "id": "148424",
@@ -2583,34 +2565,6 @@
           "id": "148271",
           "name": "Lamington National Park",
           "url": "https://parks.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
-      "title": "Pest Management Control Program - Southend Conservation Park, Curtis Island National Park, Conservation Park, and State Forest.",
-      "alert_id": "26122",
-      "url": "https://parks.qld.gov.au/park-alerts/26122",
-      "description": "Queensland Parks and Wildlife Service (QPWS) are planning to conduct a Feral Animal Control Program from Monday 2 February to Wednesday 11 February 2026. The program will include leghold trapping in the southern section of Curtis Island National Park and Southend Conservation Park targeting foxes, wild dogs, and feral cats. Additionally, ground shooting activities targeting feral pigs will be undertaken further north within Curtis Island National Park, Curtis Island Conservation Park, and Curtis Island State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are planning to conduct a Feral Animal Control Program from Monday 2 February to Wednesday 11 February 2026. The program will include leghold trapping in the southern section of Curtis Island National Park and Southend Conservation Park targeting foxes, wild dogs, and feral cats. Additionally, ground shooting activities targeting feral pigs will be undertaken further north within Curtis Island National Park, Curtis Island Conservation Park, and Curtis Island State Forest.</p> <p>These measures are being implemented to protect Flatback Turtle and Yellow Chat habitats and to reduce predation by feral animals, including foxes, wild dogs, feral cats and feral pigs. QPWS will be installing a number of warning signs within the area informing residents and visitors that traps and Firearms will be used within the dune system and other areas within Southend Conservation Park.</p> <p>To ensure the safety of the public, the following areas are<strong> temporarily closed</strong> for the duration of the pest management program:</p> <ul> <li>Multi Use Trails 1 and 2</li> <li>No access is permitted in the Southend Conservation Park and Southern National Park above the high-water mark</li> <li>The protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground during the above dates.&nbsp;</li> </ul> <p><strong>Access will remain open</strong> to Campgrounds and Day Use Areas via main roads and tracks to Joey Lees Campground, North Turtle Street Day Use Area, Turtle Street Campground, Connor Bluff Day use Area, Graham Creek Boat Ramp, Ship Hill Lookout and Multi use Trails <strong>excluding</strong> Trails 1 and 2.&nbsp;</p> <p>Should you have any queries in relation to this matter, please call 0400 381 244.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-19",
-      "start_effective_date": "2026-02-02",
-      "end_date": "2026-02-11",
-      "parks": [
-        {
-          "id": "322718",
-          "name": "Southend Conservation Park",
-          "url": ""
-        },
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
         }
       ]
     },
@@ -3027,6 +2981,24 @@
       ]
     },
     {
+      "title": "Advisory notice - Planned burn - Southern Lamington National Park.",
+      "alert_id": "26164",
+      "url": "https://parks.qld.gov.au/park-alerts/26164",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) in southern sections of Lamington National Park between February and March 2026, as part of the fire management program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) in southern sections of Lamington National Park between February and March 2026, as part of the fire management program.</p> <p>While planned burns are being conducted the following areas may be affected.</p> <ul> <li>Running Creek&nbsp;</li> <li>Black Snake Ridge&nbsp;&amp; the McPherson Range</li> <li>Running Creek remote bush camp site</li> </ul> <p>&nbsp;The Running Creek remote bush camp site will be&nbsp;temporarily closed during February and March to ensure public safety.</p> <p>QPWS asks park visitors to&nbsp;regularly check park alerts for&nbsp;updates regarding the changing conditions of the park.</p> <p>While the planned burn is being conducted, observe all signage, barriers, and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2026-02-12",
+      "start_effective_date": "2026-02-03",
+      "end_date": "2026-03-31",
+      "parks": [
+        {
+          "id": "148271",
+          "name": "Lamington National Park",
+          "url": "https://parks.qld.gov.au/parks/lamington"
+        }
+      ]
+    },
+    {
       "title": "Severe erosion has occurred at the Inskip barge landing beach access tracks due to natural coastal processes and ongoing tidal inundation.",
       "alert_id": "26165",
       "url": "https://parks.qld.gov.au/park-alerts/26165",
@@ -3046,24 +3018,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Fox Control Program for Deepwater National Park",
-      "alert_id": "26166",
-      "url": "https://parks.qld.gov.au/park-alerts/26166",
-      "description": "In conjunction with the hatchling season for marine turtles, contractors and QPWS staff will be undertaking controlled trapping of the feral fox population within Deepwater National Park from 3 to 10 February 2026.",
-      "details": "<p>In conjunction with the hatchling season for marine turtles, contractors and QPWS staff will be undertaking controlled trapping of the feral fox population within Deepwater National Park from 3 to 10 February 2026.</p> <p>All controlled activities are conducted in accordance with the approved pest management plan aimed to reduce impacts on marine turtles from predation by feral animals.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2026-02-03",
-      "start_effective_date": "2026-02-03",
-      "end_date": "2026-02-11",
-      "parks": [
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
         }
       ]
     },
@@ -3382,6 +3336,96 @@
           "id": "149017",
           "name": "Bunya Mountains National Park",
           "url": "https://parks.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Roadworks Mount Mee Section, D'Aguilar National Park",
+      "alert_id": "26194",
+      "url": "https://parks.qld.gov.au/park-alerts/26194",
+      "description": "Contractors will be undertaking minor works along Sellin Rd, Mount Mee in D'Aguilar National Park to improve drainage. Works may cause minor disruptions to access.",
+      "details": "<p>Contractors will be undertaking minor works along Sellin Rd, Mount Mee in D'Aguilar National Park to improve drainage. Works may cause minor disruptions to access.</p> <p>Quenssland parks and Wildlife Service apologies for any inconvenience this may cause.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Announcement",
+      "start_date": "2026-02-12",
+      "start_effective_date": "2026-02-12",
+      "end_date": "2026-02-12",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Pest Management Control Program",
+      "alert_id": "26195",
+      "url": "https://parks.qld.gov.au/park-alerts/26195",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a Pest Management Control Program within Capricornia Cays National Park, including Tryon Island, Mast Head Island, Hoskyn Island (East and West), Fairfax Island (East and West), North West Island, and Wreck Island, from 1200 hours Tuesday 17 February 2026 to 1200 hours Monday 23 February 2026 (weather permitting). This program forms part of the parks Conservation Management Program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a Pest Management Control Program within Capricornia Cays National Park, including Tryon Island, Mast Head Island, Hoskyn Island (East and West), Fairfax Island (East and West), North West Island, and Wreck Island, from 1200 hours Tuesday 17 February 2026 to 1200 hours Monday 23 February 2026 (weather permitting). This program forms part of the parks Conservation Management Program.</p> <p>All control activities will be undertaken in accordance with approved <strong>Pest Management Plans</strong> and are designed to protect native plants and wildlife from the impacts of pest animals.</p> <p>The program will involve <strong>ground-based live-fire operations</strong>.</p> <p>As a result, the following islands will be <strong>temporarily closed</strong>, and a <strong>2000-metre exclusion zone seaward from the high-water mark</strong> will be enforced for all land and waters within the areas listed below for the duration of the program:</p> <ul> <li><strong>Tryon Island</strong> &ndash; Latitude 23&deg;14.805&rsquo;S, Longitude 151&deg;46.754&rsquo;E</li> <li><strong>Mast Head Island</strong> &ndash; Latitude 23&deg;32.311&rsquo;S, Longitude 151&deg;43.616&rsquo;E</li> <li><strong>Hoskyn Island (East)</strong> &ndash; Latitude 23&deg;48.075&rsquo;S, Longitude 152&deg;17.998&rsquo;E</li> <li><strong>Hoskyn Island (West)</strong> &ndash; Latitude 23&deg;48.416&rsquo;S, Longitude 152&deg;17.442&rsquo;E</li> <li><strong>Fairfax Island (East)</strong> &ndash; Latitude 23&deg;51.309&rsquo;S, Longitude 152&deg;22.561&rsquo;E</li> <li><strong>Fairfax Island (West)</strong> &ndash; Latitude 23&deg;51.555&rsquo;S, Longitude 152&deg;22.106&rsquo;E</li> <li><strong>North West Island</strong> &ndash; Latitude 23&deg;17.713&rsquo;S, Longitude 151&deg;42.478&rsquo;E</li> <li><strong>Wreck Island</strong> &ndash; Latitude 23&deg;19.952&rsquo;S, Longitude 151&deg;57.501&rsquo;E</li> </ul> <p>This exclusion zone applies to <strong>all vessels</strong>. Any vessels currently anchored within these areas must <strong>vacate prior to the commencement of the exclusion period</strong> and remain clear for the duration of the pest management operations.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-12",
+      "start_effective_date": "2026-02-17",
+      "end_date": "2026-04-23",
+      "parks": [
+        {
+          "id": "149473",
+          "name": "Capricornia Cays National Park",
+          "url": "https://parks.qld.gov.au/parks/capricornia-cays"
+        }
+      ]
+    },
+    {
+      "title": "Severe weather alert  Cedar Creek section closed",
+      "alert_id": "26196",
+      "url": "https://parks.qld.gov.au/park-alerts/26196",
+      "description": "The Bureau of Meteorology has issued a Severe Weather Warning for heavy, locally intense rainfall which may affect Cedar Creek section of Tamborine National Park.",
+      "details": "<p>The Bureau of Meteorology has issued a Severe Weather Warning for heavy, locally intense rainfall which may affect Cedar Creek section of Tamborine National Park.</p> <p>Due to the predicted deterioration in conditions, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek section including <ul> <li>Cedar Creek day-use area and car park</li> <li>Cedar Creek Falls lookout</li> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> </li> </ul> <p>Cedar Creek section may also be closed after the weather event to enable QPWS Rangers time to assess any damage resulting from the event.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-12",
+      "start_effective_date": "2026-02-12",
+      "end_date": "2026-02-17",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Potential Severe Weather Event - D'Aguilar National Park",
+      "alert_id": "26197",
+      "url": "https://parks.qld.gov.au/park-alerts/26197",
+      "description": "The Bureau of Meteorology has issued a Severe Weather Warning for the Southeast Queensland Coast. Queensland Parks and Wildlife Service would like to advise that large amounts of intense rainfall could cause dangerous situations and minor flooding within the park. The roads may become slippery and potentially unpassable. Creeks may rapidly rise and causeway flooding causing potential entrapment scenarios.",
+      "details": "<p>The Bureau of Meteorology has issued a Severe Weather Warning for the Southeast Queensland Coast. Queensland Parks and Wildlife Service would like to advise that large amounts of intense rainfall could cause dangerous situations and minor flooding within the park. The roads may become slippery and potentially unpassable. Creeks may rapidly rise and causeway flooding causing potential entrapment scenarios.</p> <p>Steps to minimise your risk includes:</p> <p>-avoid the park after significant rainfall unless necessary.</p> <p>-Ensuring you do not enter flooded water. Fast flowing water is extremely dangerous and there may be unknown submerged objects.&nbsp;</p> <p>-If you do become trapped by rising waters stay on high ground until water recedes.&nbsp;</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please use caution whilst visiting the park.</p>",
+      "category": "Announcement",
+      "start_date": "2026-02-12",
+      "start_effective_date": "2026-02-12",
+      "end_date": "2026-02-17",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Weather alert  possible localised flooding",
+      "alert_id": "26198",
+      "url": "https://parks.qld.gov.au/park-alerts/26198",
+      "description": "A severe weather warning has been issued by the Bureau of Meteorology (BOM) for possible wet weather and localised flooding.",
+      "details": "<p>A severe weather warning has been issued by the Bureau of Meteorology (BOM) for possible wet weather and localised flooding.</p> <p>Motorists are advised to exercise caution at all times along Amamoor Creek road, drivers should slow down, stop and check access conditions before deciding if it is safe to traverse.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>If its flooded forget it.&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Announcement",
+      "start_date": "2026-02-12",
+      "start_effective_date": "2026-02-12",
+      "end_date": "2026-02-16",
+      "parks": [
+        {
+          "id": "148275",
+          "name": "Amamoor State Forest",
+          "url": "https://parks.qld.gov.au/parks/amamoor"
         }
       ]
     }
