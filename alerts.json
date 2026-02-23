@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2026-02-22 10:13:09"
+    "alerts_count": 172,
+    "script_run_time": "2026-02-23 10:37:43"
   },
   "alerts": [
     {
@@ -1375,11 +1375,11 @@
       "alert_id": "25950",
       "url": "https://parks.qld.gov.au/park-alerts/25950",
       "description": "Wairuna section of Girringun National Park is closed for the wet season.",
-      "details": "<p>Wairuna section of Girringun National Park is closed for the wet season.</p> <p>The park is anticipated to reopen Wednesday 1 April 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>Wairuna section of Girringun National Park is closed for the wet season.</p> <p>The park is anticipated to reopen Friday 1 May 2026, subject to road and weather conditions.</p> <p>For campers with an existing booking between Wednesday 1 April to Thursday 30 April 2026 (dates inclusive) &nbsp;please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-12-01",
+      "start_date": "2026-02-23",
       "start_effective_date": "2025-12-01",
-      "end_date": "2026-03-31",
+      "end_date": "2026-04-30",
       "parks": [
         {
           "id": "149513",
@@ -2511,9 +2511,9 @@
       "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Lochern National Park is temporarily closed until further notice.",
       "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Lochern National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Lochern National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-20",
+      "start_date": "2026-02-23",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-02-27",
+      "end_date": "2026-03-06",
       "parks": [
         {
           "id": "148251",
@@ -3076,13 +3076,13 @@
       ]
     },
     {
-      "title": "Severe weather damage  Oceanview track closed",
+      "title": "Oceanview track reopened",
       "alert_id": "26199",
       "url": "https://parks.qld.gov.au/park-alerts/26199",
-      "description": "As a result of severe weather damage and a continued increased risk of boulder falls, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of severe weather damage and a continued increased risk of boulder falls, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation and have damage repair activities in progress.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-19",
+      "description": "The Oceanview track in Burleigh Head National Park has reopened.",
+      "details": "<p>The Oceanview track in Burleigh Head National Park has reopened.</p> <p>The risk of boulder falls has reduced and temporary repairs have been made to the walking track. The track may close for a short period in the near future to allow for more permanent repairs to be carried out.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility opening",
+      "start_date": "2026-02-23",
       "start_effective_date": "2026-02-13",
       "end_date": "2026-03-27",
       "parks": [
@@ -3488,6 +3488,60 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure: Rainforest circuit track, Mossman Gorge, Daintree National Park (CYPAL)",
+      "alert_id": "26231",
+      "url": "https://parks.qld.gov.au/park-alerts/26231",
+      "description": "Due to a landslide at Mt Demi Lookout, Rainforest circuit track at Mossman Gorge is temporarily closed.",
+      "details": "<p>Due to a landslide at Mt Demi Lookout, Rainforest circuit track at Mossman Gorge is temporarily closed.</p> <p>This closure is to allow geotechnical engineers to assess the site for safety.</p> <p>The track will remain closed until it is confirmed safe for public access.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-23",
+      "start_effective_date": "2026-02-23",
+      "end_date": "2026-03-03",
+      "parks": [
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Davies Creek Mountain Bike Park, Dinden State Forest and Dinden West Forest Reserve",
+      "alert_id": "26232",
+      "url": "https://parks.qld.gov.au/park-alerts/26232",
+      "description": "Davies Creek Mountain Bike Park will be closed to the public on Tuesday 24 February 2026 between 6.30am and 6.00pm for maintenance works.",
+      "details": "<p>Davies Creek Mountain Bike Park will be closed to the public on Tuesday 24 February 2026 between 6.30am and 6.00pm for maintenance works.</p> <p>Please adhere to all safety signage and directions from local rangers and do not enter the mountain bike park during the closure period.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-23",
+      "start_effective_date": "2026-02-24",
+      "end_date": "2026-02-24",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Ring road closure and changed access",
+      "alert_id": "26234",
+      "url": "https://parks.qld.gov.au/park-alerts/26234",
+      "description": "The Ring road within Daisy Hill Conservation Park will be closed for vehicle and pedestrian access from Tuesday 24th - Thursday 26th of February.",
+      "details": "<p>The Ring road within Daisy Hill Conservation Park will be closed for vehicle and pedestrian access from Tuesday 24th - Thursday 26th of February.</p> <p>Drainage clearing works will be conducted along the Ring Road, to promote water flow within the surrounding area. These works are conducted as park of routine maintenance.</p> <p>Pedestrian access is permitted between Carpark 8 and Carpark 1 down to the koala centre, and through this route only, access is permitted to the Day Use Area.&nbsp;</p> <p>No vehicle access is permitted during this time. Car parking is available at Carpark 8.&nbsp;</p> <p>Heavy machinery and trucks will be in operation on the Ring road. Please observe and adhere to all signage during works.</p> <p>We apologise for any inconvenience this may cause and appreciate your understanding during this time.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-02-23",
+      "start_effective_date": "2026-02-24",
+      "end_date": "2026-02-26",
+      "parks": [
+        {
+          "id": "397374",
+          "name": "Daisy Hill Koala Centre",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
         }
       ]
     }
