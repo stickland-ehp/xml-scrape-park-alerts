@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2026-02-23 10:37:43"
+    "alerts_count": 173,
+    "script_run_time": "2026-02-24 10:35:33"
   },
   "alerts": [
     {
@@ -2273,9 +2273,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a maintenance program on the Conondale Range Great Walk from 1/2/2026 to 13/3/2026 (weather permitting).",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a maintenance program on the Conondale Range Great Walk from 1/2/2026 to 13/3/2026 (weather permitting).</p> <p>Multiple fallen trees have blocked sections of the track making the route difficult to navigate in places. The following areas will have changed conditions for the duration of the maintenance program:</p> <ul> <li>Wongai walkers camp to Tallowwood walkers camp</li> <li>Tallowwood walkers camp to Summer Falls walkers camp.</li> </ul> <p>The track may close during operations or severe weather events.</p> <p>Please take extra care when negotiating around fallen obstacles to ensure you get back on track.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
       "category": "Announcement",
-      "start_date": "2026-02-03",
+      "start_date": "2026-02-24",
       "start_effective_date": "2026-01-13",
-      "end_date": "2026-02-27",
+      "end_date": "2026-03-13",
       "parks": [
         {
           "id": "147991",
@@ -3046,9 +3046,9 @@
       "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Welford National Park is temporarily closed until further notice.",
       "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Welford National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Welford National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-20",
+      "start_date": "2026-02-24",
       "start_effective_date": "2026-02-13",
-      "end_date": "2026-02-27",
+      "end_date": "2026-03-06",
       "parks": [
         {
           "id": "148075",
@@ -3284,24 +3284,6 @@
       ]
     },
     {
-      "title": "Road maintenance - Sellin Road",
-      "alert_id": "26219",
-      "url": "https://parks.qld.gov.au/park-alerts/26219",
-      "description": "Due to road maintenance along Sellin Road, there may be short delays during the works.",
-      "details": "<p>Due to road maintenance along Sellin Road, there may be short delays during the works.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-02-20",
-      "start_effective_date": "2026-02-23",
-      "end_date": "2026-02-23",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Pest Management Control Program- Curtis Island National Park, Conservation Park and State Forest",
       "alert_id": "26220",
       "url": "https://parks.qld.gov.au/park-alerts/26220",
@@ -3400,12 +3382,12 @@
       "title": "Temporary closure: Jourama Falls section, Paluma Range National Park",
       "alert_id": "26225",
       "url": "https://parks.qld.gov.au/park-alerts/26225",
-      "description": "The Jourama Falls section of Paluma Range National Park is temporarily closed from Friday 20 February to Tuesday 24 February 2026 (dates inclusive).",
-      "details": "<p>The Jourama Falls section of Paluma Range National Park is temporarily closed from Friday 20 February to Tuesday 24 February 2026 (dates inclusive).</p> <p>This closure includes the following:</p> <ul> <li>Jourama Falls camping area</li> <li>Jourama Falls day-use area</li> <li>Jourama Falls lookout walking track.</li> </ul> <p>This closure is due to wet season rain events, which have made road access unsafe for vehicles and visitors.</p> <p>For campers with an existing booking between&nbsp;Friday 20 February to Tuesday 24 February&nbsp;(dates inclusive) &nbsp;please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>For your safety, do not enter the area during the closure period.</p> <p>Please adhere to all safety signage and closure barries during the closure period.</p>",
+      "description": "The Jourama Falls section of Paluma Range National Park is temporarily closed from Friday 20 February to Friday 27 February 2026 (dates inclusive).",
+      "details": "<p>The Jourama Falls section of Paluma Range National Park is temporarily closed from Friday 20 February to Friday 27 February 2026 (dates inclusive).</p> <p>This closure includes the following:</p> <ul> <li>Jourama Falls camping area</li> <li>Jourama Falls day-use area</li> <li>Jourama Falls lookout walking track.</li> </ul> <p>This closure is due to wet season rain events, which have made road access unsafe for vehicles and visitors.</p> <p>For campers with an existing booking between&nbsp;Friday 20 February to Friday 27 February&nbsp;(dates inclusive) &nbsp;please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</p> <p>For your safety, do not enter the area during the closure period.</p> <p>Please adhere to all safety signage and closure barries during the closure period.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-20",
+      "start_date": "2026-02-24",
       "start_effective_date": "2026-02-20",
-      "end_date": "2026-02-24",
+      "end_date": "2026-02-27",
       "parks": [
         {
           "id": "148452",
@@ -3469,29 +3451,6 @@
       ]
     },
     {
-      "title": "Safety advice: heavy rain impacts Josephine Creek and Falls, Wooroonooran National Park",
-      "alert_id": "26229",
-      "url": "https://parks.qld.gov.au/park-alerts/26229",
-      "description": "Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.",
-      "details": "<p>Visitors are advised that Josephine Creek at Josephine Falls in Wooroonooran National Park is closed until further notice. Heavy rain has resulted in fast flowing, high water levels in Josephine Creek. Further rain is expected. Water levels can change rapidly in Josephine Creek. For your safety, do not enter the water. The walking track and viewing platforms can still be accessed but the creek is closed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-20",
-      "start_effective_date": "2026-02-20",
-      "end_date": "2026-02-23",
-      "parks": [
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
       "title": "Temporary walking track closure: Rainforest circuit track, Mossman Gorge, Daintree National Park (CYPAL)",
       "alert_id": "26231",
       "url": "https://parks.qld.gov.au/park-alerts/26231",
@@ -3513,17 +3472,40 @@
       "title": "Temporary closure: Davies Creek Mountain Bike Park, Dinden State Forest and Dinden West Forest Reserve",
       "alert_id": "26232",
       "url": "https://parks.qld.gov.au/park-alerts/26232",
-      "description": "Davies Creek Mountain Bike Park will be closed to the public on Tuesday 24 February 2026 between 6.30am and 6.00pm for maintenance works.",
-      "details": "<p>Davies Creek Mountain Bike Park will be closed to the public on Tuesday 24 February 2026 between 6.30am and 6.00pm for maintenance works.</p> <p>Please adhere to all safety signage and directions from local rangers and do not enter the mountain bike park during the closure period.&nbsp;</p>",
+      "description": "Due to wet weather conditions, Davies Creek Mountain Bike Park is temporarily closed from Tuesday 24 February to Saturday 28 February 2026 (dates inclusive).",
+      "details": "<p>Due to wet weather conditions, Davies Creek Mountain Bike Park is temporarily closed from Tuesday 24 February to Saturday 28 February 2026 (dates inclusive).</p> <p>Please adhere to all safety signage and directions from local rangers and do not enter the mountain bike park during the closure period.&nbsp;</p> <p>Please monitor this park alert for the most up to date information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-23",
+      "start_date": "2026-02-24",
       "start_effective_date": "2026-02-24",
-      "end_date": "2026-02-24",
+      "end_date": "2026-02-28",
       "parks": [
         {
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Season",
+      "alert_id": "26233",
+      "url": "https://parks.qld.gov.au/park-alerts/26233",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) rangers will be conducting planned burns within the Kgari (Fraser Island) section of Great Sandy National Park between 20 February 2026 and 31 August 2026, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) rangers will be conducting planned burns within the Kgari (Fraser Island) section of Great Sandy National Park between 20 February 2026 and 31 August 2026, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of these burns is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>As a result, smoke may be seen island-wide, including areas within Kingfisher Bay Resort Village, Dilli Village, Eurong resort &amp; township, Dundubara, Orchid Beach township and Waddy Point.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions. Visitors and residents should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>For more information, please call the QPWS Eurong office on (07) 4127 9128, the QPWS Dundubara office on (07) 4127 9138 or the QPWS Waddy Point on (07) 1427 9190.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-02-24",
+      "start_effective_date": "2026-02-20",
+      "end_date": "2026-08-31",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -3542,6 +3524,47 @@
           "id": "397374",
           "name": "Daisy Hill Koala Centre",
           "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Atherton Forest Mountain Bike Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "26235",
+      "url": "https://parks.qld.gov.au/park-alerts/26235",
+      "description": "Due to excessive rainfall in the area, Atherton Forest Mountain Bike Park is temporarily closed.",
+      "details": "<p>Due to excessive rainfall in the area, Atherton Forest Mountain Bike Park is temporarily closed.</p> <p>The mountain bike park is anticipated to reopen Wednesday 4 March 2026 (depending on weather conditions).</p> <p>Please adhere to all signage and monitor this park alert for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-24",
+      "start_effective_date": "2026-02-24",
+      "end_date": "2026-03-04",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "No access to tap water: Goldsborough Valley, Wooroonooran National Park",
+      "alert_id": "26236",
+      "url": "https://parks.qld.gov.au/park-alerts/26236",
+      "description": "Visitors are advised that there is currently no access to tap water in the following areas in Goldsborough Valley:",
+      "details": "<p>Visitors are advised that there is currently no access to tap water in the following areas in Goldsborough Valley:</p> <ul> <li>Goldsborough Valley day-use area</li> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley Bora Ground camping area.</li> </ul> <p>The toilet facility located at the Bora Ground camping area remains open.&nbsp;</p> <p>&nbsp;Visitors are reminded to bring their own drinking water.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-24",
+      "start_effective_date": "2026-02-24",
+      "end_date": "2026-05-31",
+      "parks": [
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        },
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
         }
       ]
     }
