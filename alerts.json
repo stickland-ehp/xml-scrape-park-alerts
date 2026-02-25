@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2026-02-24 10:35:33"
+    "alerts_count": 172,
+    "script_run_time": "2026-02-25 10:37:51"
   },
   "alerts": [
     {
@@ -1883,9 +1883,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) wishes to advise that the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting strategic fireline upgrade works on Gheebulum Kunungai National Park, Moreton Island (Mulgumpin) Recreation Area from 18 December 2025, to provide improved protection and mitigation to the community on Mulgumpin.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) wishes to advise that the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) will be conducting strategic fireline upgrade works on Gheebulum Kunungai National Park, Moreton Island (Mulgumpin) Recreation Area from 18 December 2025, to provide improved protection and mitigation to the community on Mulgumpin.</p> <p>The Rous Battery Walking Track will be temporarily closed to through pedestrian access while works are occurring.&nbsp; The track is closed to all pedestrian access from the Desert to the Rous Battery for the duration of these works.</p> <p>Rous Battery can continue to be accessed by visitors, via the Eastern Beach.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-28",
+      "start_date": "2026-02-25",
       "start_effective_date": "2025-12-18",
-      "end_date": "2026-02-28",
+      "end_date": "2026-03-28",
       "parks": [
         {
           "id": "148757",
@@ -2349,38 +2349,15 @@
       ]
     },
     {
-      "title": "Temporary camp site closures: Goldsborough Valley camping area and Goldsborough Valley Bora Ground camping area, Goldsborough Valley, Wooroonooran National Park",
-      "alert_id": "26114",
-      "url": "https://parks.qld.gov.au/park-alerts/26114",
-      "description": "From Thursday 15 January to Tuesday 24 February 2026 (dates inclusive), the following camp sites at Goldsborough Valley will be closed for maintenance works:",
-      "details": "<p>From Thursday 15 January to Tuesday 24 February 2026 (dates inclusive), the following camp sites at Goldsborough Valley will be closed for maintenance works:</p> <ul> <li>Goldsborough Valley Bora Ground camping area <ul> <li>All sites</li> </ul> </li> <li>Goldsborough Valley camping area <ul> <li>Sites 1,2,3,4,5,6,7,8,9,11.</li> </ul> </li> </ul> <p>Sites 10 and 12 will remain open.</p> <p>These closures are required to allow plumbing relining works to be carried out.</p> <p>During this period there will be no access to tap water in the camping areas but the toilet facility located at the Bora Ground camping area will be open. Visitors are reminded to bring their own drinking water.</p> <p>For campers with an existing booking between Thursday 15 January and Tuesday 24 February 2026 (dates inclusive), please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-04",
-      "start_effective_date": "2026-01-15",
-      "end_date": "2026-02-24",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        }
-      ]
-    },
-    {
       "title": "Fire prohibition in place for Sundown National Park",
       "alert_id": "26115",
       "url": "https://parks.qld.gov.au/park-alerts/26115",
       "description": "Fire prohibition in place for Sundown National Park.",
       "details": "<p>Fire prohibition in place for Sundown National Park.</p> <p>Fires&nbsp;must not be&nbsp;lit anywhere in:&nbsp;</p> <ul> <li> <p>Sundown National Park: or&nbsp;</p> </li> </ul> <ul> <li> <p>Sundown Resources Reserve.</p> </li> </ul> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the below requirements are&nbsp;permitted.&nbsp;</p> <p>The appliance:&nbsp;</p> <ul> <li> <p>Must use gas or manufactured fuel (head beads, briquettes). Manufactured fuel does&nbsp;not&nbsp;include timber or wood.&nbsp;</p> </li> </ul> <ul> <li> <p>Must be used only for cooking and/or heating.&nbsp;</p> </li> </ul> <ul> <li> <p>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</p> </li> </ul> <ul> <li> <p>Must not have the potential to generate airborne embers or&nbsp;possibly ignite&nbsp;nearby ground fuels.&nbsp;</p> </li> </ul> <ul> <li> <p>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use. Appliances that are not fully self-contained, such as braziers, are&nbsp;not&nbsp;permitted.&nbsp;</p> </li> </ul> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.&nbsp;</p> <p>Visitors must&nbsp;comply with&nbsp;this fire prohibition, on-site signs and any directions given by Rangers. On-the-spot fines may be issued for non-compliance.&nbsp;</p> <p>QPWS will continue to&nbsp;monitor&nbsp;the situation and update this Park Alert should conditions change.&nbsp;</p> <p>To report any wildfires, call Triple Zero&nbsp;(000)&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2026-01-27",
+      "start_date": "2026-02-25",
       "start_effective_date": "2026-01-16",
-      "end_date": "2026-02-28",
+      "end_date": "2026-03-31",
       "parks": [
         {
           "id": "322943",
@@ -2715,12 +2692,12 @@
       "title": "FENCED Beach Camping Area CLOSURES - Zone 1 (Wongai) and Zone 2 (Cornwells, One Tree)",
       "alert_id": "26156",
       "url": "https://parks.qld.gov.au/park-alerts/26156",
-      "description": "Rolling temporary closures of 3 fenced camping areas in Beach Camping Zones 1 &amp; 2 on eastern Kgari will take place between Tuesday 10 February and Saturday 28 February 2026 to allow for mesh replacement works to be carried out. At least one of the three affected fenced camping areas will remain open for bookings at different times through this period.",
-      "details": "<p>Rolling temporary closures of 3 fenced camping areas in Beach Camping Zones 1 &amp; 2 on eastern Kgari will take place between Tuesday 10 February and Saturday 28 February 2026 to allow for mesh replacement works to be carried out. At least one of the three affected fenced camping areas will remain open for bookings at different times through this period.</p> <p>Campground closure periods are as follows:</p> <ul> <li><strong>Cornwells fenced</strong> camping area (<strong>Zone 2</strong>) - Tuesday <strong>10/2</strong> to Tuesday <strong>17/2</strong></li> <li><strong>One Tree</strong> <strong>fenced</strong> camping area (<strong>Zone 2</strong>) - Friday <strong>13/2</strong> to Wednesday <strong>25/2</strong></li> <li><strong>Wongai fenced</strong> camping area (<strong>Zone 1</strong>) - Wednesday <strong>18/2</strong> to Saturday <strong>28/2</strong></li> </ul> <p>Families with children are encouraged to stay in <strong>fenced camping areas</strong> (Waddy Point Top, Dundubara, Eli Creek, Cornwells, One Tree, Wongai, Central Station, Wathumba).</p> <p><strong>Be dingo-safe!</strong> Visit&nbsp;<a href=\"https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li><strong>Always stay within arm&rsquo;s reach of children, even small teenagers.</strong></li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email <a href=\"http://dingo.ranger@detsi.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a>, tell the nearest QPWS Ranger, or phone (07) 4127 9150.</p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Rolling temporary closures of 3 fenced camping areas in Beach Camping Zones 1 &amp; 2 on eastern Kgari will take place between Tuesday 10 February and Monday 2 March 2026 to allow for mesh replacement works to be carried out. At least one of the three affected fenced camping areas will remain open for bookings at different times through this period.",
+      "details": "<p>Rolling temporary closures of 3 fenced camping areas in Beach Camping Zones 1 &amp; 2 on eastern Kgari will take place between Tuesday 10 February and Monday 2 March 2026 to allow for mesh replacement works to be carried out. At least one of the three affected fenced camping areas will remain open for bookings at different times through this period.</p> <p>Campground closure periods are as follows:</p> <ul> <li><strong>Cornwells fenced</strong> camping area (<strong>Zone 2</strong>) - Tuesday <strong>10/2</strong> to Tuesday <strong>17/2</strong></li> <li><strong>One Tree</strong> <strong>fenced</strong> camping area (<strong>Zone 2</strong>) - Friday <strong>13/2</strong> to Thursday <strong>26/2</strong></li> <li><strong>Wongai fenced</strong> camping area (<strong>Zone 1</strong>) - Wednesday <strong>18/2</strong> to Monday <strong>2/3</strong></li> </ul> <p>Families with children are encouraged to stay in <strong>fenced camping areas</strong> (Waddy Point Top, Dundubara, Eli Creek, Cornwells, One Tree, Wongai, Central Station, Wathumba).</p> <p><strong>Be dingo-safe!</strong> Visit&nbsp;<a href=\"https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li><strong>Always stay within arm&rsquo;s reach of children, even small teenagers.</strong></li> <li>Walk in groups and carry a stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on a boat).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish and bait.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email <a href=\"http://dingo.ranger@detsi.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a>, tell the nearest QPWS Ranger, or phone (07) 4127 9150.</p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-30",
+      "start_date": "2026-02-25",
       "start_effective_date": "2026-02-10",
-      "end_date": "2026-02-28",
+      "end_date": "2026-03-02",
       "parks": [
         {
           "id": "152843",
@@ -2876,15 +2853,15 @@
       ]
     },
     {
-      "title": "Infrastructure Oiling - Tongue Point, Whitsunday Island",
+      "title": "Infrastructure Oiling - South Whitehaven and Chalkies",
       "alert_id": "26169",
       "url": "https://parks.qld.gov.au/park-alerts/26169",
-      "description": "Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Hill Inlet, Tongue Point from 18/02/2026 to 20/02/2026",
-      "details": "<p>Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Hill Inlet, Tongue Point from 18/02/2026 to 20/02/2026</p> <p>During this period:</p> <ul> <li>Sections of the lookout platforms, boardwalks and surrounding day-use areas may be temporarily closed.</li> <li>Please note, at least one Hill Inlet lookout will remain open for park users.</li> <li>The Tongue Point toilets will be closed for short period for cleaning and oiling.</li> </ul> <p>Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers.</p> <p>These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway.</p> <p>For further updates, please monitor park alerts and plan your visit accordingly.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at South Whitehaven Beach and Chalkies Lookout from 02/03/2026 to 06/03/2026 (weather dependent).",
+      "details": "<p>Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at South Whitehaven Beach and Chalkies Lookout from 02/03/2026 to 06/03/2026 (weather dependent).</p> <p>During this period:</p> <ul> <li>Sections of the lookout platforms, boardwalks and surrounding day-use areas and toilets may be temporarily closed.</li> <li>Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers.</li> </ul> <p>These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway.</p> <p>For further updates, please monitor park alerts and plan your visit accordingly.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-17",
-      "start_effective_date": "2026-02-24",
-      "end_date": "2026-02-27",
+      "start_date": "2026-02-25",
+      "start_effective_date": "2026-03-02",
+      "end_date": "2026-03-06",
       "parks": [
         {
           "id": "149505",
