@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2026-02-26 10:33:18"
+    "alerts_count": 176,
+    "script_run_time": "2026-02-27 10:25:47"
   },
   "alerts": [
     {
@@ -334,12 +334,12 @@
       "title": "Section of Fig Tree walk closed.",
       "alert_id": "24582",
       "url": "https://parks.qld.gov.au/park-alerts/24582",
-      "description": "Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 28 February 2026 due to structural instability.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 28 February 2026 due to structural instability.</p> <p>The following areas are closed for the duration of the closure period:</p> <ul> <li>Section of track from the end of the boardwalk at the large fig clockwise to the creek</li> <li>The entire third section of baordwalk</li> </ul> <p>The remaining section of walking track around the large fig and anticlockwise to the creek is open and can be walked by returning along the same track.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 31 May 2026 due to structural instability.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 31 May 2026 due to structural instability.</p> <p>The following areas are closed for the duration of the closure period:</p> <ul> <li>Section of track from the end of the boardwalk at the large fig clockwise to the creek</li> <li>The entire third section of baordwalk</li> </ul> <p>The remaining section of walking track around the large fig and anticlockwise to the creek is open and can be walked by returning along the same track.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-11-17",
+      "start_date": "2026-02-27",
       "start_effective_date": "2025-01-06",
-      "end_date": "2026-02-28",
+      "end_date": "2026-05-31",
       "parks": [
         {
           "id": "147991",
@@ -573,9 +573,9 @@
       "description": "As a result of severe weather damage Wards Canyon walk is closed until declared safe.",
       "details": "<p>As a result of severe weather damage Wards Canyon walk is closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:</p> <ul> <li>Wards Canyon walk</li> </ul> <p>All Permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-28",
+      "start_date": "2026-02-27",
       "start_effective_date": "2025-04-24",
-      "end_date": "2026-02-28",
+      "end_date": "2026-03-29",
       "parks": [
         {
           "id": "148864",
@@ -1699,9 +1699,9 @@
       "description": "Visitors are advised that kauri pine seed cones may fall in the vicinity of Twin kauris lookout and viewing area at Lake Barrine.",
       "details": "<p>Visitors are advised that kauri pine seed cones may fall in the vicinity of Twin kauris lookout and viewing area at Lake Barrine.</p> <p>Twin kauris walk and Lake Barrine circuit track remain open, but visitors are asked to proceed with caution near the kauri pines. &nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2025-12-11",
+      "start_date": "2026-02-27",
       "start_effective_date": "2025-12-11",
-      "end_date": "2026-03-01",
+      "end_date": "2026-03-15",
       "parks": [
         {
           "id": "148568",
@@ -3413,12 +3413,12 @@
       "title": "Temporary closure: Davies Creek Mountain Bike Park, Dinden State Forest and Dinden West Forest Reserve",
       "alert_id": "26232",
       "url": "https://parks.qld.gov.au/park-alerts/26232",
-      "description": "Due to wet weather conditions, Davies Creek Mountain Bike Park is temporarily closed from Tuesday 24 February to Saturday 28 February 2026 (dates inclusive).",
-      "details": "<p>Due to wet weather conditions, Davies Creek Mountain Bike Park is temporarily closed from Tuesday 24 February to Saturday 28 February 2026 (dates inclusive).</p> <p>Please adhere to all safety signage and directions from local rangers and do not enter the mountain bike park during the closure period.&nbsp;</p> <p>Please monitor this park alert for the most up to date information.</p>",
+      "description": "Due to wet weather conditions, Davies Creek Mountain Bike Park is temporarily closed from Tuesday 24 February to Monday 9 March 2026 (dates inclusive).",
+      "details": "<p>Due to wet weather conditions, Davies Creek Mountain Bike Park is temporarily closed from Tuesday 24 February to Monday 9 March 2026 (dates inclusive).</p> <p>Please adhere to all safety signage and directions from local rangers and do not enter the mountain bike park during the closure period.&nbsp;</p> <p>Please monitor this park alert for the most up to date information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-24",
+      "start_date": "2026-02-27",
       "start_effective_date": "2026-02-24",
-      "end_date": "2026-02-28",
+      "end_date": "2026-03-09",
       "parks": [
         {
           "id": "151371",
@@ -3447,24 +3447,6 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Ring road closure and changed access",
-      "alert_id": "26234",
-      "url": "https://parks.qld.gov.au/park-alerts/26234",
-      "description": "The Ring road within Daisy Hill Conservation Park will be closed for vehicle and pedestrian access from Tuesday 24th - Thursday 26th of February.",
-      "details": "<p>The Ring road within Daisy Hill Conservation Park will be closed for vehicle and pedestrian access from Tuesday 24th - Thursday 26th of February.</p> <p>Drainage clearing works will be conducted along the Ring Road, to promote water flow within the surrounding area. These works are conducted as park of routine maintenance.</p> <p>Pedestrian access is permitted between Carpark 8 and Carpark 1 down to the koala centre, and through this route only, access is permitted to the Day Use Area.&nbsp;</p> <p>No vehicle access is permitted during this time. Car parking is available at Carpark 8.&nbsp;</p> <p>Heavy machinery and trucks will be in operation on the Ring road. Please observe and adhere to all signage during works.</p> <p>We apologise for any inconvenience this may cause and appreciate your understanding during this time.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-02-23",
-      "start_effective_date": "2026-02-24",
-      "end_date": "2026-02-26",
-      "parks": [
-        {
-          "id": "397374",
-          "name": "Daisy Hill Koala Centre",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
         }
       ]
     },
@@ -3565,6 +3547,78 @@
           "id": "148757",
           "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
           "url": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather  Cedar Creek rock pools closed",
+      "alert_id": "26241",
+      "url": "https://parks.qld.gov.au/park-alerts/26241",
+      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are&nbsp;monitoring&nbsp;the situation.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>Cedar Creek Falls track to rock pools&nbsp;</p> </li> </ul> <ul> <li> <p>Cedar Creek rock pools&nbsp;</p> </li> </ul> <p>The walking track&nbsp;and rock pools&nbsp;may also be closed after the rain eases to enable QPWS&nbsp;Rangers&nbsp;time to assess any damage resulting from the rain event.&nbsp;&nbsp;</p> <p>The&nbsp;walking track to the&nbsp;Cedar Creek Falls&nbsp;lookout&nbsp;remains&nbsp;open.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-27",
+      "start_effective_date": "2026-02-27",
+      "end_date": "2026-03-02",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather  Oceanview track closed",
+      "alert_id": "26242",
+      "url": "https://parks.qld.gov.au/park-alerts/26242",
+      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>The walking track may also be closed after the rain eases to enable QPWS&nbsp;Rangers&nbsp;time to assess any damage resulting from the rain event.&nbsp;&nbsp;</p> <p>The&nbsp;Rainforest circuit&nbsp;remains open&nbsp;for through walks.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-02-27",
+      "start_effective_date": "2026-02-27",
+      "end_date": "2026-03-02",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Potential for impacts to access roads to and within Byfield National Park, Conservation Park and State Forest",
+      "alert_id": "26243",
+      "url": "https://parks.qld.gov.au/park-alerts/26243",
+      "description": "Following recent and ongoing rainfall, there is a potential for the causeways at Water Park and Stony Creeks to become flooded.",
+      "details": "<p>Following recent and ongoing rainfall, there is a potential for the causeways at Water Park and Stony Creeks to become flooded.</p> <p>This potential impact is for access to and from the following areas -</p> <ul> <li>Byfield State Forest, including Water Park Creek camping and day use area and Stony Creek day use area</li> <li>Byfield Conservation Park, including Five Rocks camping area, and</li> <li>Byfield National Park, including Nine Mile Beach camping area.</li> </ul> <p>Please check online for local road conditions and closures before travelling.</p> <p>The Water Park Creek height can be monitored at the following link:&nbsp;<a href=\"https://www.bom.gov.au/fwo/IDQ65392/IDQ65392.533110.plt.shtml\">Waterpark Creek height</a></p> <p>Don&#39;t walk, drive or ride through floodwaters.</p> <p>Remember, if it&#39;s flooded, forget it.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Announcement",
+      "start_date": "2026-02-27",
+      "start_effective_date": "2026-02-27",
+      "end_date": "2026-03-10",
+      "parks": [
+        {
+          "id": "148223",
+          "name": "Byfield National Park, Conservation Park and State Forest",
+          "url": "https://parks.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Turtle Encounter Tours weather update",
+      "alert_id": "26245",
+      "url": "https://parks.qld.gov.au/park-alerts/26245",
+      "description": "We are currently encountering some rainy weather, but Turtle Encounter Tours are going ahead.",
+      "details": "<p>We are currently encountering some rainy weather, but Turtle Encounter Tours are going ahead.</p> <ul> <li>Mon Repos Turtle Centre (MTRC) phone line is not working due to an outage, our provider is&nbsp;working to fix this.</li> <li>Make sure you bring your raincoat and a jacket as it can be cold on the beach.</li> <li>Umbrellas are permitted around the MRTC surrounds, but <strong>not on the tour or beach</strong>.</li> <li>At anytime during the turtle season, if&nbsp;the weather conditions are so servere that we have to close tours, all ticket holders will receive an SMS message and an email advising of this. Sometimes this can be on the afternoon of the tour commencment.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-02-27",
+      "start_effective_date": "2026-02-27",
+      "end_date": "2026-03-01",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/mon-repos"
         }
       ]
     }
