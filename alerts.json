@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2026-02-28 10:11:49"
+    "alerts_count": 163,
+    "script_run_time": "2026-03-01 10:13:08"
   },
   "alerts": [
     {
@@ -672,29 +672,6 @@
       ]
     },
     {
-      "title": "Thorsborne Trail seasonal closure",
-      "alert_id": "25457",
-      "url": "https://parks.qld.gov.au/park-alerts/25457",
-      "description": "The Thorsborne Trail will be closed from 1 January - 28 February due to the high risk of unsafe conditions over this period.",
-      "details": "<p>The Thorsborne Trail will be closed from 1 January - 28 February due to the high risk of unsafe conditions over this period.</p> <p>Seasonal conditions during these months bring extreme heat and regular heavy rainfall - hikers are often unable to cross creeks and are at the highest risk of heat-related injuries.</p> <p>Extreme weather events are also more likely during these months.</p> <p>Please visit this park&#39;s page on the department&#39;s website for more park safety information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-06-23",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary camping area closure for planned burn: Ussher Point camping area, Apudthama National Park (CYPAL)",
       "alert_id": "25514",
       "url": "https://parks.qld.gov.au/park-alerts/25514",
@@ -768,24 +745,6 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
-      "title": "Scientific area closed to the public",
-      "alert_id": "25576",
-      "url": "https://parks.qld.gov.au/park-alerts/25576",
-      "description": "A temporary shade structure for wildlife research is being installed on the northwestern beach on Sir Charles Hardy Island.",
-      "details": "<p>A temporary shade structure for wildlife research is being installed on the northwestern beach on Sir Charles Hardy Island.</p> <p>Public access to this structure is prohibited. Queensland Parks and Wildlife Service in conjunction with Wuthathi Aboriginal Corporation are conducting scientific surveys on Sir Charles Hardy Island from 31st July 2025 to 28 February 2026.</p> <p>Entry to and tampering with this structure is prohibited.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-08-01",
-      "start_effective_date": "2025-07-31",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "322895",
-          "name": "Wuthathi (Sir Charles Hardy Group) National Park (CYPAL)",
-          "url": ""
         }
       ]
     },
@@ -917,24 +876,6 @@
           "id": "327915",
           "name": "Great Barrier Reef Coast Marine Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Nesting Catfish around Swimming Area",
-      "alert_id": "25804",
-      "url": "https://parks.qld.gov.au/park-alerts/25804",
-      "description": "Seasonal nesting of Eel-tailed Catfish is currently occurring at Enoggera Dam. These fish may become aggressive in shallow water including the designated swimming area. Please exercise caution and follow signage when engaging in any in-water activities.",
-      "details": "<p>Seasonal nesting of Eel-tailed Catfish is currently occurring at Enoggera Dam. These fish may become aggressive in shallow water including the designated swimming area. Please exercise caution and follow signage when engaging in any in-water activities.</p>",
-      "category": "Announcement",
-      "start_date": "2025-10-02",
-      "start_effective_date": "2025-10-01",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
         }
       ]
     },
@@ -1073,29 +1014,6 @@
           "id": "148949",
           "name": "Errk Oykangand National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/errk-oykangand"
-        }
-      ]
-    },
-    {
-      "title": "K'gari Great Walk",
-      "alert_id": "25892",
-      "url": "https://parks.qld.gov.au/park-alerts/25892",
-      "description": "As a result of increased weather conditions typically experienced on K'gari over the warmer months of the year, a seasonal restriction on forward bookings for the K'gari Great Walk is implemented yearly from 1 November to 28 February. Restrictions on forward bookings reduces impacts of visitors if the walk is closed at short notice.",
-      "details": "<p>As a result of increased weather conditions typically experienced on K'gari over the warmer months of the year, a seasonal restriction on forward bookings for the K'gari Great Walk is implemented yearly from 1 November to 28 February. Restrictions on forward bookings reduces impacts of visitors if the walk is closed at short notice.</p> <p>Due to current conditions some sections of the K&#39;gari Great walk are now open.</p> <p>The sections and hiker&#39;s camps that remain&nbsp;<strong>CLOSED </strong>during the seasonal closure are</p> <ul> <li>Hook Point to Central station</li> <li>Jabiru hiker&#39;s camp</li> <li>Boomanjin hiker&#39;s camp</li> <li>Benaroon hiker&#39;s camp</li> <li>Markwell&#39;s feeder track</li> <li>Wangoolba feeder track</li> <li>Dundonga feeder track</li> <li>Winnum feeder track</li> </ul> <p>Rangers will continue to assess and open the walk (or sections of the walk) and associated camp areas when conditions allow. The next review will be made by 28 February 2026.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Your safety is our concern but your responsibility.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Other",
-      "start_date": "2026-01-30",
-      "start_effective_date": "2025-11-24",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -1524,29 +1442,6 @@
       ]
     },
     {
-      "title": "Dingo (Wongari) Seasonal Information- Dispersal Season",
-      "alert_id": "25976",
-      "url": "https://parks.qld.gov.au/park-alerts/25976",
-      "description": "Give dingoes space, Kgari is their place. An increase in dingo-human interactions is expected during the dispersal season.",
-      "details": "<p>Give dingoes space, Kgari is their place. An increase in dingo-human interactions is expected during the dispersal season.</p> <p>This is a particularly important time for juvenile dingoes (wongari) to test their strength and learn essential survival skills, and to avoid habituation towards people. Juveniles will quickly learn bad habits such as stealing food around camp sites instead of learning natural hunting skills. Take particular care and <strong>slow down when driving</strong> on K&rsquo;gari &ndash; watch closely for dingoes and other wildlife at all times to ensure they are not harmed.</p> <p>Visitors, tour operators and residents are advised to be dingo-safe! on K&rsquo;gari. It is recommended that families with young children camp in fenced QPWS camping areas at Lake Boomanjin, Central Station, Dundubara,&nbsp;Waddy Point and eastern beach fenced areas (Wongai, One Tree Rocks, Cornwells, Eli), or at fenced private camping areas at Dilli Village or Cathedral Beach.</p> <p><strong>Dispersal season means:</strong></p> <ul> <li>Juvenile dingoes are learning pack rules through play and showing aggressive behaviour to gain dominance</li> <li>Young dingoes may try to dominate people, especially children</li> <li><strong>Every time a dingo receives food from people its chance of survival is reduced &ndash; let young wongari grow up wild, do not feed them or leave food available</strong></li> </ul> <p><strong>Be dingo-safe! </strong>For more information visit<strong> </strong><a href=\"https://parks.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">Be dingo-safe on K&#39;gari</a></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a long dingo safety stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes (even on boats).</li> <li>Never store food or food containers in tents.</li> <li>Secure all rubbish, fish, bait and tackle.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong> &ndash; email <a href=\"mailto:dingo.ranger@detsi.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a>, tell the nearest QPWS</p> <p>ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location,</p> <p>vehicle registration, dingo ear tag colour, number and which ear.</p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>For further information visit <a href=\"https://parks.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes\">About K&rsquo;gari dingoes</a></p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-02-18",
-      "start_effective_date": "2025-12-01",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Wet season water safety information: Tully Gorge National Park",
       "alert_id": "25979",
       "url": "https://parks.qld.gov.au/park-alerts/25980",
@@ -1918,24 +1813,6 @@
       ]
     },
     {
-      "title": "SWIFT WATER ALERT - Bowling Green Bay NP",
-      "alert_id": "26037",
-      "url": "https://parks.qld.gov.au/park-alerts/26037",
-      "description": "During the North Queensland wet season, local heavy rainfall may cause significant water level rises throughout the Bowling Green Bay National Park including Alligator Creek camping, day-use area and swimming area, Cocoa Creek Barratta Creek and Salmon Creek camping and day-use areas, and other coastal creek sections.",
-      "details": "<p>During the North Queensland wet season, local heavy rainfall may cause significant water level rises throughout the Bowling Green Bay National Park including Alligator Creek camping, day-use area and swimming area, Cocoa Creek Barratta Creek and Salmon Creek camping and day-use areas, and other coastal creek sections.</p> <p>During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs.</p> <p>At some locations even when conditions are sunny and dry, rain in upper catchments can cause water levels to rise rapidly, without warning.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Remember, if it is flooded, forget it.<br /> <br /> Follow these steps to stay safe:</p> <ul> <li>Always be <a href=\"https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise\">Crocwise</a>&nbsp;around the water</li> <li>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a>&nbsp;before travelling</li> <li>Check road conditions at <a href=\"https://qldtraffic.qld.gov.au/\">Queensland Traffic</a>&nbsp;before&nbsp;travelling</li> <li>Check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> before travelling as areas may close at short notice</li> <li>Read more on <a href=\"https://parks.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.</li> </ul>",
-      "category": "Announcement",
-      "start_date": "2026-01-28",
-      "start_effective_date": "2025-12-27",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
       "title": "UPDATE Severe weather impacts: Townsville Town Common and Cape Pallerenda Conservation Parks partially open. Read park alert for details",
       "alert_id": "26043",
       "url": "https://parks.qld.gov.au/park-alerts/26043",
@@ -2073,29 +1950,6 @@
           "id": "149013",
           "name": "Blencoe Falls, Girringun National Park",
           "url": "https://parks.qld.gov.au/parks/blencoe-falls"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice and changed conditions: Wangetti Trail, Macalister Range National Park",
-      "alert_id": "26059",
-      "url": "https://parks.qld.gov.au/park-alerts/26059",
-      "description": "The integrity and condition of the Wangetti Trail may be impacted by localised or heavy rainfall during the North Queensland wet season.",
-      "details": "<p>The integrity and condition of the Wangetti Trail may be impacted by localised or heavy rainfall during the North Queensland wet season.</p> <h3>Visitors are urged to use caution at all times and be aware of possible trail obstructions due to tree fall or track surface changes.</h3> <ul> <li>Observe&nbsp;all trail safety notices, directions and advice</li> <li>Do not enter closed areas or take any unmarked&nbsp;trail diversions</li> <li>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>&nbsp;before visiting.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2026-01-29",
-      "start_effective_date": "2026-01-06",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "354857",
-          "name": "Wangetti Trail",
-          "url": "https://parks.qld.gov.au/parks/wangetti-trail"
-        },
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.qld.gov.au/parks/macalister-range"
         }
       ]
     },
@@ -2273,24 +2127,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Planned closure for Booloumba Creek camping area 3, Site 10.",
-      "alert_id": "26109",
-      "url": "https://parks.qld.gov.au/park-alerts/26109",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be monitoring a large Bunya pine tree while it drops cones from 14 January to 28 February 2026.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be monitoring a large Bunya pine tree while it drops cones from 14 January to 28 February 2026.</p> <p>The following area is closed for the duration of the monitoring event:</p> <ul> <li>Booloumba Creek&nbsp;camping area 3, Site 10.&nbsp;</li> </ul> <p>All permits for the closed area are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-14",
-      "start_effective_date": "2026-01-14",
-      "end_date": "2026-02-28",
-      "parks": [
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.qld.gov.au/parks/conondale"
         }
       ]
     },
