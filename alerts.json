@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 190,
-    "script_run_time": "2026-03-10 10:26:52"
+    "alerts_count": 181,
+    "script_run_time": "2026-03-11 10:26:51"
   },
   "alerts": [
     {
@@ -2521,9 +2521,9 @@
       "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Welford National Park is temporarily closed until further notice.",
       "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Welford National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Welford National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-06",
+      "start_date": "2026-03-11",
       "start_effective_date": "2026-02-13",
-      "end_date": "2026-03-13",
+      "end_date": "2026-03-20",
       "parks": [
         {
           "id": "148075",
@@ -2547,24 +2547,6 @@
           "id": "149473",
           "name": "Capricornia Cays National Park",
           "url": "https://parks.qld.gov.au/parks/capricornia-cays"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather  Oceanview track closed",
-      "alert_id": "26199",
-      "url": "https://parks.qld.gov.au/park-alerts/26199",
-      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-02-13",
-      "end_date": "2026-03-11",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.qld.gov.au/parks/burleigh-head"
         }
       ]
     },
@@ -2791,11 +2773,11 @@
       "alert_id": "26235",
       "url": "https://parks.qld.gov.au/park-alerts/26235",
       "description": "Due to excessive rainfall in the area, Atherton Forest Mountain Bike Park is temporarily closed.",
-      "details": "<p>Due to excessive rainfall in the area, Atherton Forest Mountain Bike Park is temporarily closed.</p> <p>The mountain bike park is anticipated to reopen Thursday 12 March 2026 (depending on weather conditions).</p> <p>Please adhere to all signage and monitor this park alert for updated information.</p>",
+      "details": "<p>Due to excessive rainfall in the area, Atherton Forest Mountain Bike Park is temporarily closed.</p> <p>The mountain bike park is anticipated to reopen Thursday 19 March 2026 (depending on weather conditions).</p> <p>Please adhere to all signage and monitor this park alert for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-02",
+      "start_date": "2026-03-11",
       "start_effective_date": "2026-02-24",
-      "end_date": "2026-03-11",
+      "end_date": "2026-03-18",
       "parks": [
         {
           "id": "148818",
@@ -2964,24 +2946,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Girramay National Park",
-      "alert_id": "26248",
-      "url": "https://parks.qld.gov.au/park-alerts/26248",
-      "description": "Due to predicted severe weather, Girramay National Park is temporarily closed until declared safe.",
-      "details": "<p>Due to predicted severe weather, Girramay National Park is temporarily closed until declared safe.</p> <p>This whole park temporary closure includes:&nbsp;</p> <ul> <li>Murray Falls day-use area</li> <li>Murray Falls camping area&nbsp;</li> <li>River boardwalk (Murray Falls)</li> <li>Yalgay Ginja Bulumi walk (Murray Falls)</li> <li>Edmund Kennedy day-use area</li> <li>Muulga Wetland Walk (Edmund Kennedy)</li> <li>Wreck Creek walk (Edmund Kennedy)</li> </ul> <p>This closure is necessary to:&nbsp;</p> <ul> <li>Ensure visitor safety.&nbsp;</li> </ul> <ul> <li>Prevent further damage to track and road surfaces and associated infrastructure.&nbsp;</li> </ul> <ul> <li>Allow rangers to assess impacts and undertake necessary works.&nbsp;</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please&nbsp;monitor&nbsp;park alerts for the latest information on access,&nbsp;closures&nbsp;and conditions.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-05",
-      "start_effective_date": "2026-03-02",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "148127",
-          "name": "Girramay National Park",
-          "url": "https://parks.qld.gov.au/parks/girramay"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure due to severe weather and flooding, Cardwell Forest Drive and day-use areas, Cardwell State Forest",
       "alert_id": "26250",
       "url": "https://parks.qld.gov.au/park-alerts/26250",
@@ -3054,24 +3018,6 @@
       ]
     },
     {
-      "title": "Planned Burn - McEuen State Forest",
-      "alert_id": "26259",
-      "url": "https://parks.qld.gov.au/park-alerts/26259",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday, 5 March 2026, as part of the fire management program for McEuen State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday, 5 March 2026, as part of the fire management program for McEuen State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of&nbsp;Old Wondai Rd and Wondai Charleston Rd. For your safety and the safety of firefighters, please slow down and&nbsp;observe&nbsp;all directions and signs.&nbsp;&nbsp;</p> <p>Smoke may be seen in the vicinity of the township of Wondai, Bunya Highway, Old Wondai Rd and Wondai Charleston Rd.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>During the planned burn all mountain bike tracks&nbsp;are&nbsp;closed to public access</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-03-04",
-      "start_effective_date": "2026-03-05",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "322375",
-          "name": "McEuen State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Temporary closure of Coolooloi Creek camping area from 9 to 11 March 2026",
       "alert_id": "26260",
       "url": "https://parks.qld.gov.au/park-alerts/26260",
@@ -3086,57 +3032,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Temporary partial closure: Section of Goldfield Trail and Mulgrave River (Goldfield Trail) camping area, Wooroonooran National Park",
-      "alert_id": "26261",
-      "url": "https://parks.qld.gov.au/park-alerts/26261",
-      "description": "Due to predicted severe weather, the below areas within Wooroonooran National Park are temporarily closed until declared safe:",
-      "details": "<p>Due to predicted severe weather, the below areas within Wooroonooran National Park are temporarily closed until declared safe:</p> <ul> <li>Section of Goldfield Trail between Goldsborough Valley day-use area and Mulgrave River (Goldfield Trail) camping area.</li> <li>Mulgrave River (Goldfield Trail) camping area.</li> </ul> <p>&nbsp;This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.</p> <p>&nbsp;For campers with an existing booking between Thursday 5 March and Tuesday 10 March 2026 (dates inclusive), please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a> and request a refund online for your existing camping booking.</p> <p>The<strong> </strong>section between Boulders Scenic Reserve and Mulgrave River (Goldfield Trail) camping area will remain open.</p> <p>Please monitor park alerts for the&nbsp;latest information on access, closures and conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-04",
-      "start_effective_date": "2026-03-05",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "151367",
-          "name": "Goldfield trail, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldfield"
-        },
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Bora Ground camping area and Goldsborough Valley camping and day-use area, Goldsborough Valley, Wooroonooran National Park",
-      "alert_id": "26262",
-      "url": "https://parks.qld.gov.au/park-alerts/26262",
-      "description": "Due to predicted severe weather, the below areas within Goldsborough Valley section of Wooroonooran National Park are temporarily closed until declared safe:",
-      "details": "<p>Due to predicted severe weather, the below areas within Goldsborough Valley section of Wooroonooran National Park are temporarily closed until declared safe:</p> <ul> <li>Bora Ground camping area&nbsp;</li> <li>Goldsborough Valley camping area&nbsp;</li> <li>Goldsborough Valley day-use area.</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>For campers with an existing booking between Thursday 5 March and Tuesday 10 March 2026 (dates inclusive), please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a> and request a refund online for your existing camping booking.&nbsp;</p> <p>Please monitor park alerts for the&nbsp;latest information on access, closures and conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-04",
-      "start_effective_date": "2026-03-05",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "156496",
-          "name": "Goldsborough Valley, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
         }
       ]
     },
@@ -3182,42 +3077,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Dinden National Park, Davies Creek National Park, Bare Hill Conservation Park, Dinden West Forest Reserve",
-      "alert_id": "26270",
-      "url": "https://parks.qld.gov.au/park-alerts/26270",
-      "description": "Due to predicted severe weather, Dinden National Park, Davies Creek National Park, Bare Hill Conservation Park and Dinden West Forest Reserve are temporarily closed until declared safe.",
-      "details": "<p>Due to predicted severe weather, Dinden National Park, Davies Creek National Park, Bare Hill Conservation Park and Dinden West Forest Reserve are temporarily closed until declared safe.</p> <p><strong>These whole park temporary closures include:&nbsp;</strong></p> <ul> <li>Upper Davies Creek camping area</li> <li>Lower Davies Creek camping area</li> <li>Davies Creek falls picnic area</li> <li>Davies Creek Falls circuit track</li> <li>Lower Davies Creek day-use area</li> <li>Davies Creek Mountain Bike Park</li> <li>Clohesy River fig tree boardwalk</li> <li>Clohesy River Road</li> <li>Turtle Rock circuit trail</li> <li>Kahlpahlim Rock trail</li> <li>Bunda Bibandji rock art walking track</li> <li>Emerald Creek walking track</li> <li>Emerald Creek day-use area</li> </ul> <p><strong>This closure is necessary to:&nbsp;</strong></p> <ul> <li>Ensure visitor safety.&nbsp;</li> </ul> <ul> <li>Prevent further damage to track and road surfaces and associated infrastructure.&nbsp;</li> </ul> <ul> <li>Allow rangers to assess impacts and undertake necessary works.&nbsp;</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p><strong>For campers with an existing booking at Lower Davies Creek camping area</strong> between 5 March and 10 March 2026 (dates inclusive), please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p><strong>For campers with an existing booking at Upper Davies Creek camping area </strong>between 5 March and 10 March 2026 (dates inclusive), we will process your booking cancellation and refund as soon as possible. No further action is required by you.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-05",
-      "start_effective_date": "2026-03-05",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Koombooloomba National Park and Conservation Park",
-      "alert_id": "26273",
-      "url": "https://parks.qld.gov.au/park-alerts/26273",
-      "description": "Due to predicted severe weather, Koombooloomba National Park and Koombooloomba Conservation Park are temporarily closed until declared safe.",
-      "details": "<p>Due to predicted severe weather, Koombooloomba National Park and Koombooloomba Conservation Park are temporarily closed until declared safe.</p> <p>This whole park temporary closure includes:</p> <ul> <li>Koombooloomba Conservation Park camping area</li> <li>Koombooloomba National Park&nbsp;bush camping area.</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>For campers with an existing booking between Friday 6 March and Tuesday 10 March 2026, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a> and request a refund online for your existing camping booking.</p> <p>Please monitor park alerts for the&nbsp;latest information on access, closures and conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-05",
-      "start_effective_date": "2026-03-06",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "148802",
-          "name": "Koombooloomba National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/koombooloomba"
-        }
-      ]
-    },
-    {
       "title": "Wet weather  Cedar Creek rock pools closed",
       "alert_id": "26274",
       "url": "https://parks.qld.gov.au/park-alerts/26274",
@@ -3232,24 +3091,6 @@
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
-      "title": "Access to Amamoor State Forest - Cedar Grove and Amamoor Creek Camping Areas",
-      "alert_id": "26275",
-      "url": "https://parks.qld.gov.au/park-alerts/26275",
-      "description": "There has been some moderate rainfall over the past week in the Amamoor Creek catchment. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.",
-      "details": "<p>There has been some moderate rainfall over the past week in the Amamoor Creek catchment. Current forecast is for rain to continue over the weekend and into next week. Drivers should slow down, stop, check and assess conditions on the road before deciding if it is safe to traverse. Please remember - If its flooded, forget it! Some creek crossings may still be inundated. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Please visit this park's page on the department website for more park safety information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-06",
-      "start_effective_date": "2026-03-06",
-      "end_date": "2026-03-10",
-      "parks": [
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.qld.gov.au/parks/amamoor"
         }
       ]
     },
@@ -3367,13 +3208,13 @@
       ]
     },
     {
-      "title": "Park closure due to localised flooding",
+      "title": "Turtle Encounter tours to REOPEN Thursday 12 March 2026",
       "alert_id": "26284",
       "url": "https://parks.qld.gov.au/park-alerts/26284",
-      "description": "Due to localised flooding the Mon Repos Conservation Park, Turtle Centre and Turtle Encounter Tours are closed to the public on Monday 9 to Wednesday 11 March 2026. The Turtle Trail is currently closed due to areas of deep, flowing water behind the Turtle Centre and near the Mon Repos Road end of the park.",
-      "details": "<p>Due to localised flooding the Mon Repos Conservation Park, Turtle Centre and Turtle Encounter Tours are closed to the public on Monday 9 to Wednesday 11 March 2026. The Turtle Trail is currently closed due to areas of deep, flowing water behind the Turtle Centre and near the Mon Repos Road end of the park.</p> <ul> <li>Rookery Road has water over it for about 30m from the entrance of the park; other roads leading to the park are closed due to flooding.</li> <li>The Turtle Trail has 2 sections closed due to water over the pathway for long stretches.</li> <li>Rangers will reassess conditions and BOM warnings and reopen the park as soon as conditions allow.&nbsp;</li> </ul> <p><strong>Turtle Encounter tours:</strong></p> <ul> <li>all ticket holders for affected Turtle Encounter Tours will receive a text message and email regarding the closure</li> <li>refunds will be issued for Turtle Encounter tickets due to the weather closure on Monday 9 to Wednesday 11&nbsp;March, refunds can take up to 2 days to appear in your account</li> <li>for visitors wanting to rebook for another date, please do this online&nbsp;<a href=\"https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours\">https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours</a></li> <li>for visitors with tickets for tours this week please check Park&nbsp;Alerts for updated information.</li> </ul> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to localised flooding the Mon Repos Conservation Park, Turtle Centre and Turtle Encounter Tours are closed to the public on Monday 9 to Wednesday 11 March 2026. The Turtle Centre and Turtle Encounter tours will reopen on Thursday 12 March 2026. The Turtle Trail has now reopened as localised flooding on the trail has subsided.",
+      "details": "<p>Due to localised flooding the Mon Repos Conservation Park, Turtle Centre and Turtle Encounter Tours are closed to the public on Monday 9 to Wednesday 11 March 2026. The Turtle Centre and Turtle Encounter tours will reopen on Thursday 12 March 2026. The Turtle Trail has now reopened as localised flooding on the trail has subsided.</p> <p><strong>Turtle Encounter tours:</strong></p> <ul> <li>All ticket holders for any affected Turtle Encounter Tours will receive a text message and email regarding if a closure is required&nbsp;</li> <li>Refunds will be issued for Turtle Encounter tickets due to the weather closures for Monday 9 to Wednesday 11&nbsp;March, refunds can take up to 2 days to appear in your account</li> <li>For visitors wanting to rebook for another date, please do this online&nbsp;<a href=\"https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours\">https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours</a></li> <li>Mon Repos beach has not been impacted by the flooding and incubating turtle nests have continued to emerge over our closure period</li> <li>For visitors with tickets for night tours this week, please check Park&nbsp;Alerts for updated information</li> </ul> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-10",
+      "start_date": "2026-03-11",
       "start_effective_date": "2026-03-09",
       "end_date": "2026-03-13",
       "parks": [
@@ -3445,24 +3286,6 @@
           "id": "148063",
           "name": "Brooyar State Forest",
           "url": "https://parks.qld.gov.au/parks/brooyar"
-        }
-      ]
-    },
-    {
-      "title": "Wet weather access - Carnarvon Gorge, Carnarvon National Park",
-      "alert_id": "26288",
-      "url": "https://parks.qld.gov.au/park-alerts/26288",
-      "description": "QPWS Rangers are monitoring the situation.",
-      "details": "<p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-08",
-      "end_date": "2026-03-11",
-      "parks": [
-        {
-          "id": "148864",
-          "name": "Carnarvon Gorge, Carnarvon National Park",
-          "url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
         }
       ]
     },
@@ -3823,13 +3646,13 @@
       ]
     },
     {
-      "title": "Wet weather access - High Country Drive, Mount Moffatt section, Carnarvon Gorge National Park",
+      "title": "Wet weather access - High Country Drive, Mount Moffatt section, Carnarvon National Park",
       "alert_id": "26308",
       "url": "https://parks.qld.gov.au/park-alerts/26308",
       "description": "As a result of wet weather, the High Country drive, Mount Moffatt section, Carnarvon National Park will remain closed until declared safe.",
-      "details": "<p>As a result of wet weather, the High Country drive, Mount Moffatt section, Carnarvon National Park will remain closed until declared safe.</p> <p>&nbsp;The closure includes access to:</p> <ul> <li>Rotary Shelter Shed camping area; and&nbsp;</li> <li>Top Shelter Shed camping area.</li> </ul> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "details": "<p>As a result of wet weather, the High Country drive, Mount Moffatt section, Carnarvon National Park will remain closed until declared safe.</p> <p>&nbsp;The closure includes access to:</p> <ul> <li>Rotary Shelter Shed camping area; and&nbsp;</li> <li>Top Moffatt&nbsp;camping area.</li> </ul> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-10",
+      "start_date": "2026-03-11",
       "start_effective_date": "2026-03-13",
       "end_date": "2026-03-16",
       "parks": [
