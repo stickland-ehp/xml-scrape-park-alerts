@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 177,
-    "script_run_time": "2026-03-13 10:23:19"
+    "alerts_count": 166,
+    "script_run_time": "2026-03-14 10:15:58"
   },
   "alerts": [
     {
@@ -1957,24 +1957,6 @@
       ]
     },
     {
-      "title": "Infrastructure Upgrades - Bunyaville Conservation Park",
-      "alert_id": "26070",
-      "url": "https://parks.qld.gov.au/park-alerts/26070",
-      "description": "Unity water and Dormway will be conducting upgrades to their infrastructure along Sewer Break in Bunyaville Conservation Park.",
-      "details": "<p>Unity water and Dormway will be conducting upgrades to their infrastructure along Sewer Break in Bunyaville Conservation Park.</p> <p>During works there will be heavy plant operating in the area and some potential minor delays. These works will not impact access along the break.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-02",
-      "start_effective_date": "2026-01-12",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "Temporary road closure: Bartle Frere access road (western trailhead), Wooroonooran National Park",
       "alert_id": "26075",
       "url": "https://parks.qld.gov.au/park-alerts/26075",
@@ -2651,29 +2633,6 @@
       ]
     },
     {
-      "title": "Pest Management Control Program- Curtis Island National Park, Conservation Park and State Forest",
-      "alert_id": "26220",
-      "url": "https://parks.qld.gov.au/park-alerts/26220",
-      "description": "Queensland Parks and Wildlife Service (QPWS) are planning to conduct a Pest Management Control Program utilising ground shooting techniques to target feral pigs at Curtis Island National Park, Conservation Park and State Forest from Monday 9 March to Friday 13 March 2026 (weather permitting) as part of the conservation management program for the park. These measures are being implemented to help protect native plants and wildlife from the harmful effects of introduced plants and animals.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are planning to conduct a Pest Management Control Program utilising ground shooting techniques to target feral pigs at Curtis Island National Park, Conservation Park and State Forest from Monday 9 March to Friday 13 March 2026 (weather permitting) as part of the conservation management program for the park. These measures are being implemented to help protect native plants and wildlife from the harmful effects of introduced plants and animals.</p> <p>To ensure the safety of the public, no access is permitted to the protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground during the above dates.&nbsp;</p> <p><strong>Access will remain open</strong> along the main access tracks to Joey Lees Campground, North Turtle Street Day Use Area, Turtle Street Campground, Connor Bluff Day use Area, Graham Creek Boat Ramp, Ship Hill Lookout and Multi use Trails.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-18",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
       "title": "Planned site rehabilitation and maintenance closures",
       "alert_id": "26222",
       "url": "https://parks.qld.gov.au/park-alerts/26222",
@@ -2724,6 +2683,24 @@
           "id": "148572",
           "name": "Mount Coolum National Park",
           "url": "https://parks.qld.gov.au/parks/mount-coolum"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure - Mount Barney National Park for Planned Burns",
+      "alert_id": "26228",
+      "url": "https://parks.qld.gov.au/park-alerts/26228",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from 15 March 2026 to 23 March 2026, as part of the fire management program for Mount Barney National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from 15 March 2026 to 23 March 2026, as part of the fire management program for Mount Barney National Park.</p> <p>During the planned burns these areas are closed to public access:</p> <p>Mount Ernest&nbsp;</p> <p>Mount Barney East and West peaks, including all summit routes</p> <p>Rum Jungle, Old Hut Site and Barney Gorge Junction remote bush camps</p> <p>Lower Portals walking track and remote bush camp</p> <p>Burbank and Forestry bush camps</p> <p>Yellow Pinch Lookout</p> <p>Cronan Creek Falls</p> <p>Smoke may be seen in the vicinity of Mount Barney, Barney View, Rathdowney, Maroon, Woodenbong and from the Mount Lindsay Highway. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-03-14",
+      "start_effective_date": "2026-03-15",
+      "end_date": "2026-03-23",
+      "parks": [
+        {
+          "id": "148528",
+          "name": "Mount Barney National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-barney"
         }
       ]
     },
@@ -3059,24 +3036,6 @@
       ]
     },
     {
-      "title": "Flood warning - Wongi waterholes campground",
-      "alert_id": "26276",
-      "url": "https://parks.qld.gov.au/park-alerts/26276",
-      "description": "Predicted heavy rainfall over the coming week may cause localised flooding and cut-off access to Wongi Waterholes Campground.",
-      "details": "<p>Predicted heavy rainfall over the coming week may cause localised flooding and cut-off access to Wongi Waterholes Campground.</p> <p>Queensland Parks and Wildlife Service wish to advise that heavy rain is predicted to fall in the catchment adjacent to Wongi Waterholes Campground and Day Use Area over the week of 9th to 13th March 2026.&nbsp; As nearby Lenthall&#39;s is already near full capacity there is a possibility that inflowing water may cut off access trails into/out of the campground.</p> <p>Visitors arriving in the coming days may not be able to enter the campground for long periods of time.&nbsp; Visitors already in the campground may be prevented from leaving for up to 48 hours (or longer) and should consider leaving early or ensure that they have all necessary supplies for a protracted stay.</p> <p>More information may be obtained by contacting the QPWS Maryborough Office on (07) 4121 7549.</p> <p>If you wish to cancel or change your booking, QPWS Booking Services can be contacted to arrange a refund or credit of camping fees by calling 13 QGOV (13 7468).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-06",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148023",
-          "name": "Wongi State Forest",
-          "url": "https://parks.qld.gov.au/parks/wongi"
-        }
-      ]
-    },
-    {
       "title": "Closed due to wet and boggy conditions",
       "alert_id": "26277",
       "url": "https://parks.qld.gov.au/park-alerts/26277",
@@ -3172,24 +3131,6 @@
       ]
     },
     {
-      "title": "Turtle Encounter tours to REOPEN Thursday 12 March 2026",
-      "alert_id": "26284",
-      "url": "https://parks.qld.gov.au/park-alerts/26284",
-      "description": "Due to localised flooding the Mon Repos Conservation Park, Turtle Centre and Turtle Encounter Tours are closed to the public on Monday 9 to Wednesday 11 March 2026. The Turtle Centre and Turtle Encounter tours will reopen on Thursday 12 March 2026. The Turtle Trail has now reopened as localised flooding on the trail has subsided.",
-      "details": "<p>Due to localised flooding the Mon Repos Conservation Park, Turtle Centre and Turtle Encounter Tours are closed to the public on Monday 9 to Wednesday 11 March 2026. The Turtle Centre and Turtle Encounter tours will reopen on Thursday 12 March 2026. The Turtle Trail has now reopened as localised flooding on the trail has subsided.</p> <p><strong>Turtle Encounter tours:</strong></p> <ul> <li>All ticket holders for any affected Turtle Encounter Tours will receive a text message and email regarding if a closure is required&nbsp;</li> <li>Refunds will be issued for Turtle Encounter tickets due to the weather closures for Monday 9 to Wednesday 11&nbsp;March, refunds can take up to 2 days to appear in your account</li> <li>For visitors wanting to rebook for another date, please do this online&nbsp;<a href=\"https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours\">https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours</a></li> <li>Mon Repos beach has not been impacted by the flooding and incubating turtle nests have continued to emerge over our closure period</li> <li>For visitors with tickets for night tours this week, please check Park&nbsp;Alerts for updated information</li> </ul> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-11",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mon-repos"
-        }
-      ]
-    },
-    {
       "title": "Wet weather access, Minerva Hills National Park",
       "alert_id": "26286",
       "url": "https://parks.qld.gov.au/park-alerts/26286",
@@ -3204,34 +3145,6 @@
           "id": "148953",
           "name": "Minerva Hills National Park",
           "url": "https://parks.qld.gov.au/parks/minerva-hills"
-        }
-      ]
-    },
-    {
-      "title": "Park closures Amamoor State Forest, Brooyar State Forest and Woondum National Park",
-      "alert_id": "26287",
-      "url": "https://parks.qld.gov.au/park-alerts/26287",
-      "description": "Moderate to heavy rainfall has been observed across the Mary River catchment which has led to river and creek level rises and flooding. Minor flooding is occurring at Gympie and surrounding areas.",
-      "details": "<p>Moderate to heavy rainfall has been observed across the Mary River catchment which has led to river and creek level rises and flooding. Minor flooding is occurring at Gympie and surrounding areas.</p> <p>Due to current conditions the below facilities are closed.</p> <p>Amamoor State Forest - Cedar Grove and Amamoor Creek camping areas. Amama day-use area.</p> <p>Brooyar State Forest- Glastonbury camping area.</p> <p>Woondum National Park - Rock Pools day-use area.<br /> &nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148111",
-          "name": "Woondum National Park",
-          "url": "https://parks.qld.gov.au/parks/woondum"
-        },
-        {
-          "id": "148275",
-          "name": "Amamoor State Forest",
-          "url": "https://parks.qld.gov.au/parks/amamoor"
-        },
-        {
-          "id": "148063",
-          "name": "Brooyar State Forest",
-          "url": "https://parks.qld.gov.au/parks/brooyar"
         }
       ]
     },
@@ -3269,52 +3182,6 @@
       ]
     },
     {
-      "title": "Park closures Conondale National Park and Imbil State Forest",
-      "alert_id": "26291",
-      "url": "https://parks.qld.gov.au/park-alerts/26291",
-      "description": "As a result of moderate to heavy rainfall, minor flooding is occurring and facilities in Conondale National Park, Imbil State forest and Jimna State forests are closed until declared safe.",
-      "details": "<p>As a result of moderate to heavy rainfall, minor flooding is occurring and facilities in Conondale National Park, Imbil State forest and Jimna State forests are closed until declared safe.</p> <p>Areas currently closed include,</p> <p>Conondale National Park-</p> <ul> <li>Booloumba 1, 3 and 4 camping areas and day-use area.</li> <li>Conondale Range Great walk.&nbsp;</li> <li>Booloumba Falls Carpark</li> <li>Booloumba View Lookout</li> <li>Funnels Hut Road</li> </ul> <p>Imbil State Forest-</p> <ul> <li>Charlie Moreland Camping area.</li> </ul> <p>Jimna State Forest-</p> <ul> <li>Peach Trees Camping area.</li> </ul> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>If it&#39;s flooded forget it!</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148015",
-          "name": "Jimna State Forest",
-          "url": "https://parks.qld.gov.au/parks/jimna"
-        },
-        {
-          "id": "147991",
-          "name": "Imbil State Forest",
-          "url": "https://parks.qld.gov.au/parks/imbil"
-        },
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.qld.gov.au/parks/conondale"
-        }
-      ]
-    },
-    {
-      "title": "Cordalba Mountain bike trails temporary CLOSED",
-      "alert_id": "26292",
-      "url": "https://parks.qld.gov.au/park-alerts/26292",
-      "description": "The Cordalba Mountain bike trails are heavily water-logged from current weather events.",
-      "details": "<p>The Cordalba Mountain bike trails are heavily water-logged from current weather events.</p> <p>To prevent damage and risk to riders, QPWS request riders avoid the bike trails until the ground has had sufficient sunny weather to dry out. &nbsp;</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148195",
-          "name": "Cordalba State Forest",
-          "url": "https://parks.qld.gov.au/parks/cordalba"
-        }
-      ]
-    },
-    {
       "title": "Wet weather access, Carnarvon National Park, Salvator Rosa/Ka Ka Mundi.",
       "alert_id": "26293",
       "url": "https://parks.qld.gov.au/park-alerts/26293",
@@ -3334,29 +3201,6 @@
           "id": "151359",
           "name": "Salvator Rosa, Carnarvon National Park",
           "url": "https://parks.qld.gov.au/parks/carnarvon-salvator-rosa"
-        }
-      ]
-    },
-    {
-      "title": "Cooloola Great Walk and Cooloola Wilderness Trail CLOSED due to flooding",
-      "alert_id": "26294",
-      "url": "https://parks.qld.gov.au/park-alerts/26294",
-      "description": "Recent heavy rainfall has caused flooding to the Upper Noosa River and surrounding catchment. The Cooloola Great Walk and Cooloola Wilderness Trail have been affected by flooding and are temporarily closed.",
-      "details": "<p>Recent heavy rainfall has caused flooding to the Upper Noosa River and surrounding catchment. The Cooloola Great Walk and Cooloola Wilderness Trail have been affected by flooding and are temporarily closed.</p> <p>As a result, the following areas are closed</p> <ul> <li>Cooloola Great Walk</li> <li>Cooloola Wilderness Trail</li> <li>Kauri Walkers&rsquo; Camp</li> <li>Litoria Walkers&rsquo; Camp</li> <li>Dutgee Walkers&rsquo; Camp</li> <li>Brahminy Walkers&rsquo; Camp</li> <li>Neebs&rsquo; Walkers Camp</li> <li>Wandi Walkers Camp</li> </ul> <p>QPWS rangers will monitor conditions and open the walk when safe to do so.</p> <p>All permits are suspended for the duration of this closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>To modify your booking or request a full refund go online at <a href=\"https://qpws.usedirect.com/qpws/\">https://qpws.usedirect.com/qpws/</a> login into your account and either modify your camping booking to another camping area or select cancel your booking and request a refund.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
         }
       ]
     },
@@ -3397,47 +3241,6 @@
       ]
     },
     {
-      "title": "Flooding - closures",
-      "alert_id": "26297",
-      "url": "https://parks.qld.gov.au/park-alerts/26297",
-      "description": "Heavy rainfall has cause localised flooding and cut-off access to areas within Eurimbula and Deepwater National Park.",
-      "details": "<p>Heavy rainfall has cause localised flooding and cut-off access to areas within Eurimbula and Deepwater National Park.</p> <p>The following areas are inaccessable:&nbsp;</p> <p>- Southern access to Deepwater National Park via Wreck Rock Rd</p> <p>- Flat Rock Day Use Area</p> <p>- Middle Creek Road</p> <p>- Middle Creek campground</p> <p>- The Tanti Track</p> <p>&nbsp;</p> <p>Queensland Parks and Wildlife Service will monitor tracks in the coming days and reopen areas once safe to do so.&nbsp;Refunds can be applied for via your online account at&nbsp;<a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-10",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
-        },
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
-        }
-      ]
-    },
-    {
-      "title": "Blackdown Tableland National Park closed due to severe weather",
-      "alert_id": "26300",
-      "url": "https://parks.qld.gov.au/park-alerts/26300",
-      "description": "Due to low pressure system affecting Central Queensland causing flash flooding, Blackdown Tableland National Park is now closed and expected to reopen Friday 13th March 2026 at 08:00am.",
-      "details": "<p>Due to low pressure system affecting Central Queensland causing flash flooding, Blackdown Tableland National Park is now closed and expected to reopen Friday 13th March 2026 at 08:00am.</p> <p>QPWS Rangers are&nbsp;monitoring&nbsp;the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2026-03-09",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
       "title": "Severe Weather update Auburn River National Park",
       "alert_id": "26303",
       "url": "https://parks.qld.gov.au/park-alerts/26303",
@@ -3456,24 +3259,6 @@
       ]
     },
     {
-      "title": "Flood warning - Headleys and Log Dump Campgrounds",
-      "alert_id": "26304",
-      "url": "https://parks.qld.gov.au/park-alerts/26304",
-      "description": "Queensland Parks and Wildlife Service wish to advise that heavy rainfall may prevent access to Hedley's Campground and Log Dump Campground in Tuan State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service wish to advise that heavy rainfall may prevent access to Hedley's Campground and Log Dump Campground in Tuan State Forest.</p> <p>Both campgrounds will remain open for existing bookings, however, possible closures of other local roads in the vicinity may make it difficult for park visitors to get to the campgrounds, or once there, to travel onwards to other destinations.&nbsp; QPWS are not taking any further bookings for the campgrounds until after Friday 13th March.</p> <p>More information may be obtained by contacting the QPWS Maryborough Office on (07) 4121 7549.</p> <p>If you wish to cancel or change your booking, QPWS Booking Services can be contacted to arrange a refund or credit of camping fees by calling 13 QGOC (13 7468).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-10",
-      "start_effective_date": "2026-03-10",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "147999",
-          "name": "Tuan State Forest",
-          "url": "https://parks.qld.gov.au/parks/tuan"
-        }
-      ]
-    },
-    {
       "title": "Flooding - closure to tracks and campgrounds",
       "alert_id": "26305",
       "url": "https://parks.qld.gov.au/park-alerts/26305",
@@ -3488,24 +3273,6 @@
           "id": "148151",
           "name": "Bulburin National Park",
           "url": "https://parks.qld.gov.au/parks/bulburin"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure of bush camping in Mt Walsh National Park",
-      "alert_id": "26306",
-      "url": "https://parks.qld.gov.au/park-alerts/26306",
-      "description": "Queensland Parks and Wildlife Service wish to advise that bush camping in Mount Walsh National Park will be temporarily closed until 13th of March.",
-      "details": "<p>Queensland Parks and Wildlife Service wish to advise that bush camping in Mount Walsh National Park will be temporarily closed until 13th of March.</p> <p>The temporary closure is due to potentially hazardous road and hiking condtions caused by recent heavy rain.&nbsp;&nbsp;</p> <p>More information may be obtained by contacting the QPWS Maryborough Office on (07) 4121 7549.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-10",
-      "start_effective_date": "2026-03-10",
-      "end_date": "2026-03-13",
-      "parks": [
-        {
-          "id": "148488",
-          "name": "Mount Walsh National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-walsh"
         }
       ]
     },
