@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2026-03-22 10:15:36"
+    "alerts_count": 177,
+    "script_run_time": "2026-03-23 10:41:04"
   },
   "alerts": [
     {
@@ -713,13 +713,13 @@
       ]
     },
     {
-      "title": "Mountain Bike Track 7 Closure",
+      "title": "Closure Notice  Bunyaville Dam Area and Tracks",
       "alert_id": "25555",
       "url": "https://parks.qld.gov.au/park-alerts/25555",
-      "description": "The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 and Bunyaville Dam due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. Machinery and pumps will be operating in the area. This closure will remain in place until final works are undertaken to remediate the Dam Wall.",
-      "details": "<p>The Queensland Parks and Wildlife Service have closed Mountain Bike Track 7 and Bunyaville Dam due to temporary rectification works undertaken on the Bunyaville Dam Wall. The dam wall was compromised as a result of damage from severe rainfall events. Machinery and pumps will be operating in the area. This closure will remain in place until final works are undertaken to remediate the Dam Wall.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-12",
+      "description": "The Queensland Parks and Wildlife Service advises the public of temporary closures within the Bunyaville Dam area, including Mountain Bike Track 7, Dam Break, and Powerful Owl tracks, to allow for essential rectification works on the dam wall. The dam wall sustained damage following severe rainfall events and requires repair to ensure safety and structural integrity. During this time, machinery and pumps will be operating within the area. For public safety, please stay out of the closed area and obey all signage and barriers. These closures will remain in place until all remediation works on the dam wall are completed. We appreciate your understanding and cooperation.",
+      "details": "<p>The Queensland Parks and Wildlife Service advises the public of temporary closures within the Bunyaville Dam area, including Mountain Bike Track 7, Dam Break, and Powerful Owl tracks, to allow for essential rectification works on the dam wall. The dam wall sustained damage following severe rainfall events and requires repair to ensure safety and structural integrity. During this time, machinery and pumps will be operating within the area. For public safety, please stay out of the closed area and obey all signage and barriers. These closures will remain in place until all remediation works on the dam wall are completed. We appreciate your understanding and cooperation.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-03-23",
       "start_effective_date": "2025-07-01",
       "end_date": "2026-05-31",
       "parks": [
@@ -1004,11 +1004,11 @@
       "alert_id": "25903",
       "url": "https://parks.qld.gov.au/park-alerts/25903",
       "description": "Canyon Resources Reserve is closed for the wet season.",
-      "details": "<p>Canyon Resources Reserve is closed for the wet season.</p> <p>It is anticipated to reopen on Wednesday 1 April 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.<br /> &nbsp;</p>",
+      "details": "<p>Canyon Resources Reserve is closed for the wet season.</p> <p>It is anticipated to reopen on Wednesday 1 July 2026, subject to weather and road conditions.</p> <p>For campers with an existing booking at Wundu camping area between 1 April and 30 June 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and&nbsp;request a&nbsp;refund online.&nbsp;&nbsp;</p> <p>Please monitor park alerts for current information.<br /> &nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-31",
+      "start_date": "2026-03-23",
       "start_effective_date": "2025-11-01",
-      "end_date": "2026-03-31",
+      "end_date": "2026-06-30",
       "parks": [
         {
           "id": "149509",
@@ -1022,9 +1022,9 @@
       "alert_id": "25904",
       "url": "https://parks.qld.gov.au/park-alerts/25904",
       "description": "Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.",
-      "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.</p> <p>These walking tracks are anticipated to reopen on Wednesday 1 April 2026, subject to weather conditions.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>Due to wet season conditions and associated safety considerations, Rosella Plains lookout trail and Atkinsons lookout trail are closed to public access.</p> <p>These walking tracks will reopen on Wednesday 1 April 2026, subject to weather conditions.</p> <p>Kalkani day-use area and Kalkani Crater rim walking track remain open to visitors.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-10-31",
+      "start_date": "2026-03-23",
       "start_effective_date": "2025-11-01",
       "end_date": "2026-03-31",
       "parks": [
@@ -1058,11 +1058,11 @@
       "alert_id": "25932",
       "url": "https://parks.qld.gov.au/park-alerts/25932",
       "description": "Palmer Goldfield Resources Reserve is closed for the wet season as roads into and on the park become impassable after heavy rain.",
-      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season as roads into and on the park become impassable after heavy rain.</p> <p>The park is anticipated to reopen Wednesday 1 April 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "details": "<p>Palmer Goldfield Resources Reserve is closed for the wet season as roads into and on the park become impassable after heavy rain.</p> <p>The park is anticipated to reopen Saturday 25 April 2026, subject to road and weather conditions.</p> <p>For campers with an existing booking at North Palmer River camping area between 1 April and 24 April 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and&nbsp;request a&nbsp;refund online.&nbsp;&nbsp;</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-12-01",
+      "start_date": "2026-03-23",
       "start_effective_date": "2025-12-01",
-      "end_date": "2026-03-31",
+      "end_date": "2026-04-24",
       "parks": [
         {
           "id": "149489",
@@ -1591,12 +1591,12 @@
       "title": "Wet season closure: South Johnstone camping and day-use areas and K-Tree Road, Palmerston (Doongan), Wooroonooran National Park",
       "alert_id": "26018",
       "url": "https://parks.qld.gov.au/park-alerts/26018",
-      "description": "South Johnstone camping and day-use areas and K-Tree Road are closed for the wet season. They are anticipated to reopen 31 March 2026, subject to access and weather conditions.",
-      "details": "<p>South Johnstone camping and day-use areas and K-Tree Road are closed for the wet season. They are anticipated to reopen 31 March 2026, subject to access and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "description": "South Johnstone camping and day-use areas and K-Tree Road are closed for the wet season. They are anticipated to reopen Thursday 9 April 2026, subject to access and weather conditions.",
+      "details": "<p>South Johnstone camping and day-use areas and K-Tree Road are closed for the wet season. They are anticipated to reopen Thursday 9 April 2026, subject to access and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-01-08",
+      "start_date": "2026-03-23",
       "start_effective_date": "2026-01-08",
-      "end_date": "2026-03-31",
+      "end_date": "2026-04-08",
       "parks": [
         {
           "id": "151396",
@@ -1730,11 +1730,11 @@
       "alert_id": "26044",
       "url": "https://parks.qld.gov.au/park-alerts/26044",
       "description": "Due to the impacts from recent severe weather events, localised heavy rainfall and ongoing wet conditions some sections of Bowling Green Bay National Park are partially closed. See further details below:",
-      "details": "<p>Due to the impacts from recent severe weather events, localised heavy rainfall and ongoing wet conditions some sections of Bowling Green Bay National Park are partially closed. See further details below:</p> <p>The following visitor facilities in the Mount Elliot section of Bowling Green National Park are <strong>OPEN:</strong></p> <ul> <li>Alligator Creek camping area</li> <li>Alligator Creek day-use area</li> <li>Alligator Creek walk</li> <li>Alligator Creek lookout</li> <li>Cockatoo Creek trail</li> </ul> <p><strong>All other vistior facilities in Bowling Green Bay National Park remain closed until further notice.&nbsp;</strong></p> <p><strong>The temporary closure includes:</strong></p> <ul> <li>Alligator Falls walking track and Alligator Falls camping area</li> <li>All camping areas and vehicle access tracks in the Cape Cleveland section and Bowling Green Bay section of the national park.&nbsp;</li> </ul> <p>QPWS Rangers are undertaking recovery work and visitor facilities will reopen when they are deemed safe to do so. This park alert will be updated as visitor facilities continue to open. Your support and cooperation with the temporary closure is appreciated.&nbsp;</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways.</p> <p><strong>If it&#39;s flooded, forget it.</strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;for Bowling Green Bay National Park on the department&#39;s website for updated information.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Due to the impacts from recent severe weather events, localised heavy rainfall and ongoing wet conditions some sections of Bowling Green Bay National Park are partially closed. See further details below:</p> <p>The following visitor facilities in the Mount Elliot section of Bowling Green National Park are <strong>OPEN:</strong></p> <ul> <li>Alligator Creek camping area</li> <li>Alligator Creek day-use area</li> <li>Alligator Creek walk</li> <li>Alligator Creek lookout</li> <li>Cockatoo Creek trail</li> </ul> <p><strong>All other vistior facilities in Bowling Green Bay National Park remain closed until further notice.&nbsp;</strong></p> <p><strong>The temporary closure includes:</strong></p> <ul> <li>Cockatoo Creek camping area, Alligator Falls walking track and Alligator Falls camping area.</li> <li>All camping areas and vehicle access tracks in the Cape Cleveland section and Bowling Green Bay section of the national park.&nbsp;</li> </ul> <p>QPWS Rangers are undertaking recovery work and visitor facilities will reopen when they are deemed safe to do so. This park alert will be updated as visitor facilities continue to open. Your support and cooperation with the temporary closure is appreciated.&nbsp;</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways.</p> <p><strong>If it&#39;s flooded, forget it.</strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;for Bowling Green Bay National Park on the department&#39;s website for updated information.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-02",
+      "start_date": "2026-03-23",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-03-27",
+      "end_date": "2026-04-10",
       "parks": [
         {
           "id": "149433",
@@ -3352,6 +3352,24 @@
       ]
     },
     {
+      "title": "Toilets closed at Kalpowar State Forest",
+      "alert_id": "26343",
+      "url": "https://parks.qld.gov.au/park-alerts/26343",
+      "description": "Toilets temporarily closed at Kalpowar camping area.",
+      "details": "<p>Toilets temporarily closed at Kalpowar camping area.</p> <p>Due to recent weather events, damage has occurred to the toilets in the camping area.</p> <p>They are currently closed until remedial works can be done.</p> <p>Alternative facilities are available at either the Barimoon Rail trail facility or at the Kalpowar hall.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-03-23",
+      "start_effective_date": "2026-03-18",
+      "end_date": "2026-04-30",
+      "parks": [
+        {
+          "id": "148255",
+          "name": "Kalpowar State Forest",
+          "url": "https://parks.qld.gov.au/parks/kalpowar"
+        }
+      ]
+    },
+    {
       "title": "Severe weather (temporary full park closure)",
       "alert_id": "26344",
       "url": "https://parks.qld.gov.au/park-alerts/26344",
@@ -3515,6 +3533,24 @@
       ]
     },
     {
+      "title": "Planned reconstruction works - Warrie circuit",
+      "alert_id": "26351",
+      "url": "https://parks.qld.gov.au/park-alerts/26351",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting walking track reconstruction works on the Warrie circuit from Thursday 19 March 2026 to Friday 3 July 2026 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting walking track reconstruction works on the Warrie circuit from Thursday 19 March 2026 to Friday 3 July 2026 (weather permitting).</p> <p>The Warrie circuit will remain temporarily&nbsp;<strong>CLOSED</strong> while the walking track reconstruction works are undertaken.</p> <p>Alternatively, the following areas will be&nbsp;<strong>OPEN</strong>&nbsp;to park visitors:</p> <ul> <li>The Purling Brook Falls circuit (including eastern and western lookouts)&nbsp;</li> <li>Warringa Pool track</li> <li>The Twin Falls circuit</li> <li>The Best of All lookout</li> <li>Natural Bridge precinct (including the circuit)</li> <li>The Gold Coast Hinterland Great Walks</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-03-23",
+      "start_effective_date": "2026-03-19",
+      "end_date": "2026-07-03",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
       "title": "Temporary closure: Davies Creek National Park, Dinden National Park, Bare Hill Conservation Park and Dinden West Forest Reserve",
       "alert_id": "26352",
       "url": "https://parks.qld.gov.au/park-alerts/26352",
@@ -3633,15 +3669,89 @@
       ]
     },
     {
-      "title": "Temporary closure: Mossman Gorge section, Daintree National Park (CYPAL)",
-      "alert_id": "26358",
-      "url": "https://parks.qld.gov.au/park-alerts/26358",
-      "description": "Due to flooding, Mossman Gorge section, Daintree National Park (CYPAL) is temporarily closed and anticipated to reopen at 8am Monday 23 March 2026.",
-      "details": "<p>Due to flooding, Mossman Gorge section, Daintree National Park (CYPAL) is temporarily closed and anticipated to reopen at 8am Monday 23 March 2026.</p> <p><br /> This whole park temporary closure includes:</p> <ul> <li>Mossman Gorge day-use area</li> <li>Lower river track</li> <li>Baral Marrjanga track</li> <li>Rainforest circuit track</li> <li>Rex Creek bridge track</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> <li>All permits for closed areas are suspended for the duration of the closure.</li> </ul> <p>Please monitor park alerts for the latest information on access, closures and conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-22",
-      "start_effective_date": "2026-03-22",
-      "end_date": "2026-03-23",
+      "title": "Planned burn 25 - 27 March 2026",
+      "alert_id": "26359",
+      "url": "https://parks.qld.gov.au/park-alerts/26359",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Wednesday 25 March 2026 to Friday 27 March 2026 as part of the fire management program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Wednesday 25 March 2026 to Friday 27 March 2026 as part of the fire management program.</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of&nbsp;Yaddamen&nbsp;Dhina&nbsp;(Horseshoe) lookout.&nbsp;&nbsp;</p> <p>All facilities will remain open for the duration of the planned burn.&nbsp;&nbsp;</p> <p>Smoke may be seen in the vicinity of [list affected roads, camping areas, other visitor facilities]. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-03-23",
+      "start_effective_date": "2026-03-23",
+      "end_date": "2026-03-27",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Heli-lift activities",
+      "alert_id": "26360",
+      "url": "https://parks.qld.gov.au/park-alerts/26360",
+      "description": "Please be advised heli-lift activities will be conducted on the Ngaro track, Whitsunday Island between 26 March and 10 April (weather permitting). The area remains a construction site, closed to access.",
+      "details": "<p>Please be advised heli-lift activities will be conducted on the Ngaro track, Whitsunday Island between 26 March and 10 April (weather permitting). The area remains a construction site, closed to access.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Other",
+      "start_date": "2026-03-23",
+      "start_effective_date": "2026-03-26",
+      "end_date": "2026-04-10",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        },
+        {
+          "id": "149365",
+          "name": "Whitsunday national park islands",
+          "url": "https://parks.qld.gov.au/parks/parks-whitsundays"
+        },
+        {
+          "id": "152875",
+          "name": "Whitsunday Ngaro Sea Trail",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming temporary camping area closure for pest management operations: Princess Hills and Wairuna camping areas, Girringun National Park",
+      "alert_id": "26361",
+      "url": "https://parks.qld.gov.au/park-alerts/26361",
+      "description": "Visitors are advised that Rangers will be conducting pest management operations across Princess Hills and Wairuna camping areas from Monday 11 May to Thursday 14 May 2026 (dates inclusive).",
+      "details": "<p>Visitors are advised that Rangers will be conducting pest management operations across Princess Hills and Wairuna camping areas from Monday 11 May to Thursday 14 May 2026 (dates inclusive).</p> <p><strong>During this period, Princess Hills an Wairuna camping areas will be closed.</strong></p> <p>Camping areas will re-open on Friday 15 May 2026.</p> <p>These pest management operations help Rangers to conserve the natural and cultural values of these national parks.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-03-23",
+      "start_effective_date": "2026-05-11",
+      "end_date": "2026-05-14",
+      "parks": [
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
+        },
+        {
+          "id": "151363",
+          "name": "Princess Hills, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Visitor facilities update: Cape Tribulation section, Daintree National Park (CYPAL)",
+      "alert_id": "26362",
+      "url": "https://parks.qld.gov.au/park-alerts/26362",
+      "description": "Information is provided below on the current status of visitor facilities within Cape Tribulation section, Daintree National Park (CYPAL).",
+      "details": "<p>Information is provided below on the current status of visitor facilities within Cape Tribulation section, Daintree National Park (CYPAL).</p> <p>Visitors are advised that access to these locations is via roads managed by Douglas Shire Council. Check the&nbsp;<a href=\"https://status.daintreeferry.com.au/?_gl=1*xjzv7g*_gcl_au*NTAwMDYxMTk4LjE3NjkxNDU5Nzg.*_ga*MTY2MzM5ODQzMC4xNzY5MTQ1OTc4*_ga_Z0VF6CY02E*czE3NzI3NzY3NjkkbzIkZzAkdDE3NzI3NzY3NzMkajU2JGwwJGgxMTAwNDMxOTA3&amp;_ga=2.229206556.1801619920.1772776770-1663398430.1769145978\">Daintree Ferry status(external link)</a>&nbsp;or contact&nbsp;<a href=\"https://douglas.qld.gov.au/\">Douglas Shire Council</a>&nbsp;for further information on road conditions. &nbsp;</p> <p>The following Queensland Parks and Wildlife Service (QPWS) visitor facilities are open from Tuesday 24 March 2026, (subject to road conditions as advertised by Douglas Shire Council):</p> <ul> <li>Mount Alexandra lookout</li> <li>Kulki day-use area and boardwalk</li> <li>Dubuji day-use area and boardwalk</li> <li>Madja day-use area and boardwalk</li> <li>Jindalba day-use area, boardwalk and circuit track</li> <li>Mount Sorrow ridge trail.</li> </ul> <p>Please note that some toilet facilities in these day-use areas may be temporarily closed until they can be appropriately serviced by wastewater truck.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-03-23",
+      "start_effective_date": "2026-03-24",
+      "end_date": "2026-03-30",
       "parks": [
         {
           "id": "148131",
