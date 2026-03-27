@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 173,
-    "script_run_time": "2026-03-26 10:40:34"
+    "alerts_count": 172,
+    "script_run_time": "2026-03-27 10:35:44"
   },
   "alerts": [
     {
@@ -829,15 +829,15 @@
       ]
     },
     {
-      "title": "Wet season closure: Tagalaka National Park",
+      "title": "Temporary closure: Mima Teti camping area, Tagalaka National Park",
       "alert_id": "25834",
       "url": "https://parks.qld.gov.au/park-alerts/25834",
-      "description": "Tagalaka National Park is closed for the wet season. It is anticipated to reopen on 1 April 2026, subject to weather and road conditions.",
-      "details": "<p>Tagalaka National Park is closed for the wet season. It is anticipated to reopen on 1 April 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "description": "Due to extensive damage to the access road, caused by previous severe weather events, Mima Teti camping area is temporarily closed until it is deemed safe to reopen.",
+      "details": "<p>Due to extensive damage to the access road, caused by previous severe weather events, Mima Teti camping area is temporarily closed until it is deemed safe to reopen.</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-09",
-      "start_effective_date": "2025-10-01",
-      "end_date": "2026-03-31",
+      "start_date": "2026-03-27",
+      "start_effective_date": "2026-03-24",
+      "end_date": "2026-06-30",
       "parks": [
         {
           "id": "405267",
@@ -1912,9 +1912,9 @@
       "description": "Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.",
       "details": "<p>Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.</p> <p>These roads are closed to all motorised vehicles until further notice until damage can be repaired.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf\">See map</a>:&nbsp;https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-06",
+      "start_date": "2026-03-27",
       "start_effective_date": "2026-01-12",
-      "end_date": "2026-03-30",
+      "end_date": "2026-04-07",
       "parks": [
         {
           "id": "148802",
@@ -2033,11 +2033,11 @@
       "alert_id": "26129",
       "url": "https://parks.qld.gov.au/park-alerts/26129",
       "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Diamantina National Park is temporarily closed until further notice.",
-      "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Diamantina National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Diamantina National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Diamantina National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.&nbsp;</p> <p>Diamantina National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Local road closures are also in place and people are advised to check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>, local council dashboards and <a href=\"https://qldtraffic.qld.gov.au/\">Queensland Traffic road conditions,</a>&nbsp;before travelling.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-09",
+      "start_date": "2026-03-27",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-03-31",
+      "end_date": "2026-04-15",
       "parks": [
         {
           "id": "148360",
@@ -2618,24 +2618,6 @@
       ]
     },
     {
-      "title": "Tailor Bight Road partial temporary closure",
-      "alert_id": "26239",
-      "url": "https://parks.qld.gov.au/park-alerts/26239",
-      "description": "A section of Tailor Bight Road will be temporarily closed for the next four weeks.",
-      "details": "<p>A section of Tailor Bight Road will be temporarily closed for the next four weeks.</p> <p>Strategic fireline works are continuing along the northern section of Tailor Bight Road, between&nbsp;the Tailor Bight beach access point, and the Bulwer-Blue Lagoon Road intersection.&nbsp; This section will be closed to through traffic between&nbsp;6.00am to 5.30pm each day, while works continue.&nbsp; Access between Heath Island&nbsp; and Bulwer is possible via Bulwer-North Point Road, to Bulwer-Blue Lagoon Road, then along the southern section of Tailor Bight Road.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-26",
-      "start_effective_date": "2026-02-26",
-      "end_date": "2026-03-26",
-      "parks": [
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        }
-      ]
-    },
-    {
       "title": "K'gari Great Walk",
       "alert_id": "26240",
       "url": "https://parks.qld.gov.au/park-alerts/26240",
@@ -2662,12 +2644,12 @@
       "title": "Temporary visitor site closures: Bladensburg National Park",
       "alert_id": "26244",
       "url": "https://parks.qld.gov.au/park-alerts/26244",
-      "description": "Due to flood damage and on-going wet conditions vehicle access to Scrammy Drive including Scrammy Gorge and Scrammy Lookout is temporary unavailable.",
-      "details": "<p>Due to flood damage and on-going wet conditions vehicle access to Scrammy Drive including Scrammy Gorge and Scrammy Lookout is temporary unavailable.</p> <p>Road repair works have commenced. We appreciated your patience and understanding with the temporary closures.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">Park Alerts</a> for Bladensbug National Park on the department&#39;s website for updates.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Due to ongoing wet and boggy road conditions vehicle access to Scrammy Gorge and Scrammy Lookout is temporary unavailable. The Scrammy circuit drive is open to high clearance 4WD vehicles with caution.",
+      "details": "<p>Due to ongoing wet and boggy road conditions vehicle access to Scrammy Gorge and Scrammy Lookout is temporary unavailable. The Scrammy circuit drive is open to high clearance 4WD vehicles with caution.</p> <p>We appreciated your patience and understanding with the temporary site closures.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">Park Alerts</a> for Bladensbug National Park on the department&#39;s website for updates.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-12",
+      "start_date": "2026-03-27",
       "start_effective_date": "2026-02-27",
-      "end_date": "2026-03-27",
+      "end_date": "2026-04-17",
       "parks": [
         {
           "id": "148408",
@@ -3153,8 +3135,8 @@
       "description": "The Rainbow Beach Information Centre will be temporarily closed until Tuesday 7 April 2026.",
       "details": "<p>The Rainbow Beach Information Centre will be temporarily closed until Tuesday 7 April 2026.</p> <p>To obtain QPWS camping and vehicle permits during this time:</p> <ul> <li>QPWS Online bookings <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></li> <li>Manta Ray Barges <a href=\"http://www.mantarayfraserislandbarge.com.au\">www.mantarayfraserislandbarge.com.au</a> (07) 5486 3935</li> <li>Rainbow Beach Shell Service Station</li> </ul> <p>To make booking changes, apply for refunds, or system credits, log on to <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>For blank camping tags, maps and discovery guides, please visit the interpretive hut at the entrance to the centre, which will be stocked during the closure.</p> <p>For general park information including Park Alerts and Condition Reports please visit <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a></p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-25",
-      "start_effective_date": "2026-06-19",
+      "start_date": "2026-03-27",
+      "start_effective_date": "2026-03-19",
       "end_date": "2026-04-07",
       "parks": [
         {
@@ -3330,13 +3312,13 @@
       ]
     },
     {
-      "title": "Temporary closure: Davies Creek Mountain Bike Park and Clohesy River sections, Dinden State forest and national parks and Dinden West Forest reserve",
+      "title": "Temporary closure: Clohesy River section, Dinden National Park",
       "alert_id": "26352",
       "url": "https://parks.qld.gov.au/park-alerts/26352",
-      "description": "Due to damage from recent weather events, the below areas within Dinden State Forest, Dinden National Park and Dinden West Forest Reserve are temporarily closed until declared safe:",
-      "details": "<p>Due to damage from recent weather events, the below areas within Dinden State Forest, Dinden National Park and Dinden West Forest Reserve are temporarily closed until declared safe:</p> <ul> <li>Davies Creek Mountain Bike Park</li> <li>Clohesy River fig tree boardwalk</li> <li>Clohesy River Road.</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Due to damage from recent weather events, the below areas within Dinden National Park are temporarily closed until declared safe:",
+      "details": "<p>Due to damage from recent weather events, the below areas within Dinden National Park are temporarily closed until declared safe:</p> <ul> <li>Clohesy River fig tree boardwalk</li> <li>Clohesy River Road.</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-24",
+      "start_date": "2026-03-27",
       "start_effective_date": "2026-03-19",
       "end_date": "2026-03-31",
       "parks": [
@@ -3663,24 +3645,6 @@
       ]
     },
     {
-      "title": "Planned burn within HQPlantation on Bribie Island  Northern Access Track",
-      "alert_id": "26372",
-      "url": "https://parks.qld.gov.au/park-alerts/26372",
-      "description": "HQPlantations (HQP) will conduct a planned burn on 26 March 2026, as part of the annual hazard reduction and management program for their pine plantation.",
-      "details": "<p>HQPlantations (HQP) will conduct a planned burn on 26 March 2026, as part of the annual hazard reduction and management program for their pine plantation.</p> <p>These burns are being undertaken to help protect life and property in the event of a wildfire. Prescribed burns are low intensity fires that are performed under favourable conditions to minimise impacts on the communities that surround the plantation. Low intensity fires also decrease forest fuel loads from accumulated forest litter such as leaves, pine needles, grass and dead wood from the forest floor.&nbsp;</p> <p>Smoke may be seen in the vicinity of the Northern Access Track, Poverty Creek camping and day-use areas, Mission Point, Lime Pocket and Ocean Beach camping areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-03-26",
-      "start_effective_date": "2026-03-26",
-      "end_date": "2026-03-26",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
       "title": "Pest Management Control Program Deongwar State Forest",
       "alert_id": "26373",
       "url": "https://parks.qld.gov.au/park-alerts/26373",
@@ -3695,6 +3659,24 @@
           "id": "322682",
           "name": "Deongwar State Forest",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Trail 7, Davies Creek Mountain Bike Park, Dinden State Forest",
+      "alert_id": "26374",
+      "url": "https://parks.qld.gov.au/park-alerts/26374",
+      "description": "Due to damage from recent weather events, Trail 7, Davies Creek Mountain Bike Park, Dinden State Forest is temporarily closed until declared safe.",
+      "details": "<p>Due to damage from recent weather events, Trail 7, Davies Creek Mountain Bike Park, Dinden State Forest is temporarily closed until declared safe.</p> <p>All other trails (1, 2, 3, 4, 5 and 6) on Davies Creek Mountain Bike Park are now open.</p> <p>Please refer to&nbsp;<a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0026/165518/mountain-bike-map.pdf\">Davies Creek Mountain Bike Park map</a>&nbsp;for more information.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-03-27",
+      "start_effective_date": "2026-03-27",
+      "end_date": "2026-04-13",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     }
