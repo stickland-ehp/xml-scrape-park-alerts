@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2026-03-27 10:35:44"
+    "alerts_count": 162,
+    "script_run_time": "2026-03-28 10:19:57"
   },
   "alerts": [
     {
@@ -1670,29 +1670,6 @@
       ]
     },
     {
-      "title": "UPDATE Severe weather impacts: Townsville Town Common and Cape Pallerenda Conservation Parks partially open. Read park alert for details",
-      "alert_id": "26043",
-      "url": "https://parks.qld.gov.au/park-alerts/26043",
-      "description": "Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.",
-      "details": "<p>Due to the recent severe weather impacts from heavy, localised rainfall, flash flooding and damaging winds, Townsville Town Common and Cape Pallerenda Conservation Parks are partially open. Please see below for further details.</p> <p>The following visitor facilities in Townsville Town Common are <strong>OPEN:&nbsp;</strong></p> <ul> <li>Main access gate to allow access to Freshwater car park only</li> <li>Freshwater trail (excluding western dam wall section)</li> <li>Wetlands walk</li> <li>Forest walk.</li> </ul> <p>All other visitor facilities in <strong>Townsville Town Common Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>The following visitor facilities in Cape Pallarenda Conservation Park are <strong>OPEN:</strong></p> <ul> <li>Cape Pallarenda day-use area</li> <li>Graves circuit&nbsp;</li> <li>Shelly Cove trail.</li> </ul> <p>All other visitor facilities in <strong>Cape Pallarenda&nbsp;Conservation Park remain closed </strong>until further notice. This park alert will be updated as visitor facilities continue to reopen.</p> <p>QPWS Rangers are undertaking recovery and assessment work and visitor facilities will reopen when they are deemed safe to do so. Your support and cooperation are appreciated.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-26",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148997",
-          "name": "Cape Pallarenda Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/cape-pallarenda"
-        },
-        {
-          "id": "148311",
-          "name": "Townsville Town Common Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/townsville"
-        }
-      ]
-    },
-    {
       "title": "UPDATE: Partial closure due to severe weather impacts: Bowling Green Bay National Park (all sections). Read park alert for details",
       "alert_id": "26044",
       "url": "https://parks.qld.gov.au/park-alerts/26044",
@@ -1966,24 +1943,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Mount Spec remote bush camping, Paluma Range National Park",
-      "alert_id": "26108",
-      "url": "https://parks.qld.gov.au/park-alerts/26108",
-      "description": "Due to impacts of recent severe weather, Mount Spec remote bush camping, Paluma Range National Park is temporarily closed.",
-      "details": "<p>Due to impacts of recent severe weather, Mount Spec remote bush camping, Paluma Range National Park is temporarily closed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-14",
-      "start_effective_date": "2026-01-14",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -2659,24 +2618,6 @@
       ]
     },
     {
-      "title": "Wet weather alert: Smithfield Mountain Bike Park, Smithfield Conservation Park",
-      "alert_id": "26247",
-      "url": "https://parks.qld.gov.au/park-alerts/26247",
-      "description": "Due to wet weather and the likelihood of tree fall over tracks, we would like to caution riders to take extreme care while riding at the Smithfield Mountain Bike Park. Be aware that it is likely further trees will fall and become a hazard on tracks, particularly after rain and wind.",
-      "details": "<p>Due to wet weather and the likelihood of tree fall over tracks, we would like to caution riders to take extreme care while riding at the Smithfield Mountain Bike Park. Be aware that it is likely further trees will fall and become a hazard on tracks, particularly after rain and wind.</p> <p>Please report any hazards or track damage to the <a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a> and avoid the tracks when wet.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/parks/smithfield\">park alerts</a> and the <a href=\"https://cairnsmtb.com/\">Cairns Mountain Bike Club</a> website or Facebook page for updates.</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-12",
-      "start_effective_date": "2026-03-02",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148424",
-          "name": "Smithfield Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/smithfield"
-        }
-      ]
-    },
-    {
       "title": "Moggill Conservation Park - Road Works",
       "alert_id": "26252",
       "url": "https://parks.qld.gov.au/park-alerts/26252",
@@ -2801,34 +2742,6 @@
           "id": "148243",
           "name": "Kondalilla National Park",
           "url": "https://parks.qld.gov.au/parks/kondalilla"
-        }
-      ]
-    },
-    {
-      "title": "Aerial Pest Management Control Program- Curtis Island National Park, Conservation Park and State Forest.",
-      "alert_id": "26307",
-      "url": "https://parks.qld.gov.au/park-alerts/26307",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest, from Monday the 23rd of March to Friday the 27th of March 2026 as part of the conservation management program for the park. The pest management operations help to conserve the natural and cultural key values of the park.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct aerial shooting activities on Curtis Island National Park, Curtis Island Conservation Park and Curtis Island State Forest, from Monday the 23rd of March to Friday the 27th of March 2026 as part of the conservation management program for the park. The pest management operations help to conserve the natural and cultural key values of the park.</p> <p>Target species of the program are&nbsp;feral pigs.</p> <p>Due to live aerial shooting operations, the following areas will be temporarily closed during this period:</p> <ul> <li>Turtle Street Campground</li> <li>North Turtle Street Day Use Area</li> <li>Joey Lees Campground</li> <li>Yellow Patch Campground</li> <li>Road north of Grahams Creek Fire Trail latitude 23&deg;41.054&#39;S longitude 151&deg;17.054&#39;E</li> </ul> <p>These areas will be closed to all public access. Barricades and signage will be in place.</p> <p>To ensure public safety, <strong>no access is permitted to protected areas north or west of </strong>Grahams Creek Fire Trail latitude 23&deg;41.054&#39;S longitude 151&deg;17.054&#39;E <strong>during the above dates.</strong></p> <p><strong>Access will remain open</strong>&nbsp;along the main access tracks Connor Bluff Day use Area, Graham Creek Boat Ramp, Ship Hill Lookout and Multi use Trails.&nbsp;</p> <p>A <strong>500-metre marine exclusion zone</strong> will be in force for all waters within the following areas:</p> <ul> <li>From Point latitude 23&deg;41.053&#39;S, longitude 151&deg;17.187&#39;E - Grahams Ck Fire Trail Headland</li> <li>Black Head</li> <li>Keppel Creek</li> <li>Yellow Patch</li> <li>Cape Capricorn</li> </ul> <p>This exclusion zone applies to all vessels, including those anchoring at Cape Capricorn and Yellow Patch.</p> <p>All vessels must depart these areas prior to commencement of operations and remain clear for the duration of the exclusion period.</p> <p>Maritime Safety Queensland will issue a Notice to Mariners before operations commence.</p> <p>For more information, please call Gladstone QPWS office on (07) 49716548 or send us an email at SGBR@des.qld.gov.au&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-18",
-      "start_effective_date": "2026-03-23",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "322526",
-          "name": "North Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
         }
       ]
     },
@@ -3065,24 +2978,6 @@
       ]
     },
     {
-      "title": "Infrastructure Oiling  Tongue Point Lookouts &amp; Bettys Beach Boardwalk",
-      "alert_id": "26333",
-      "url": "https://parks.qld.gov.au/park-alerts/26333",
-      "description": "Visitors are advised that scheduled oiling and maintenance works will be undertaken on park infrastructure at Tongue Point Lookouts and Bettys Beach Boardwalk from 23rd27th March 2026 (weather permitting).",
-      "details": "<p>Visitors are advised that scheduled oiling and maintenance works will be undertaken on park infrastructure at Tongue Point Lookouts and Bettys Beach Boardwalk from 23rd27th March 2026 (weather permitting).</p> <p>During this period:</p> <ul> <li>Sections of the lookout platforms, boardwalks and surrounding infrastucture may be temporarily closed.</li> <li>Please observe all signage and barriers.</li> <li>Remain on designated walkways and comply with directions from QPWS Rangers.</li> </ul> <p>These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway.</p> <p>For further updates, please monitor park alerts and plan your visit accordingly.</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-18",
-      "start_effective_date": "2026-03-23",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure: Jourama Falls lookout walk, Paluma Range National Park",
       "alert_id": "26335",
       "url": "https://parks.qld.gov.au/park-alerts/26335",
@@ -3258,24 +3153,6 @@
       ]
     },
     {
-      "title": "Planned burn for Main Range Conservation Park",
-      "alert_id": "26345",
-      "url": "https://parks.qld.gov.au/park-alerts/26345",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 26 March to Friday 27 March 2026, as part of the fire management program for Main Range Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Thursday 26 March to Friday 27 March 2026, as part of the fire management program for Main Range Conservation Park.</p> <p>All main visitor areas <strong>remain open </strong>including the:</p> <ul> <li>Glen Rock camping area</li> <li>Casuarina Day-use area</li> </ul> <p>Firefighters and machinery may be working along roadsides. For your safety and the safety of firefighters, please slow down and&nbsp;observe&nbsp;all directions and signs.</p> <p>Smoke may be seen in the vicinity. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-03-26",
-      "start_effective_date": "2026-03-26",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148059",
-          "name": "Main Range Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/main-range-cp"
-        }
-      ]
-    },
-    {
       "title": "Wet weather access - Barakula State Forest",
       "alert_id": "26346",
       "url": "https://parks.qld.gov.au/park-alerts/26346",
@@ -3348,29 +3225,6 @@
       ]
     },
     {
-      "title": "Park Alert - Planned Maintenance to Wanggoolba Boardwalk  Central Station Day Use Area",
-      "alert_id": "26354",
-      "url": "https://parks.qld.gov.au/park-alerts/26354",
-      "description": "Pending favourable weather conditions, planned maintenance to Wanggoolba Creek Boardwalk in Central Station Day Use Area will commence from 23 March 2026 to 27 March 2026.",
-      "details": "<p>Pending favourable weather conditions, planned maintenance to Wanggoolba Creek Boardwalk in Central Station Day Use Area will commence from 23 March 2026 to 27 March 2026.</p> <p>As a result, access may be temporarily affected for short periods during maintenance work.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers and contractors, and do not enter closed areas or exclusion zones.</p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p>&nbsp;<strong>Your safety is our concern, but your responsibility. </strong></p> <p>&nbsp;</p> <p>&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-20",
-      "start_effective_date": "2026-03-23",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Burrum Coast National Park - Hoppy Lark's day use area access road flooded",
       "alert_id": "26355",
       "url": "https://parks.qld.gov.au/park-alerts/26355",
@@ -3389,29 +3243,6 @@
       ]
     },
     {
-      "title": "Temporary Fireline Closure - Planned works",
-      "alert_id": "26356",
-      "url": "https://parks.qld.gov.au/park-alerts/26356",
-      "description": "Vistors are advised that the following is closed to public while works are undertaken. Swordsedge Break and Shailer Break in Venman Bushland National Park. Some sections of Daisy Hill Conservation Park and Venman Bushland National Park - Closure signage in place on effected areas.",
-      "details": "<p>Vistors are advised that the following is closed to public while works are undertaken. Swordsedge Break and Shailer Break in Venman Bushland National Park. Some sections of Daisy Hill Conservation Park and Venman Bushland National Park - Closure signage in place on effected areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-21",
-      "start_effective_date": "2026-03-23",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.qld.gov.au/parks/venman-bushland"
-        },
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure - Flat Rock track and day-use area",
       "alert_id": "26357",
       "url": "https://parks.qld.gov.au/park-alerts/26357",
@@ -3426,24 +3257,6 @@
           "id": "148279",
           "name": "Deepwater National Park",
           "url": "https://parks.qld.gov.au/parks/deepwater"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn 25 - 27 March 2026",
-      "alert_id": "26359",
-      "url": "https://parks.qld.gov.au/park-alerts/26359",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Wednesday 25 March 2026 to Friday 27 March 2026 as part of the fire management program.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from Wednesday 25 March 2026 to Friday 27 March 2026 as part of the fire management program.</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of&nbsp;Yaddamen&nbsp;Dhina&nbsp;(Horseshoe) lookout.&nbsp;&nbsp;</p> <p>All facilities will remain open for the duration of the planned burn.&nbsp;&nbsp;</p> <p>Smoke may be seen in the vicinity of [list affected roads, camping areas, other visitor facilities]. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-23",
-      "start_effective_date": "2026-03-23",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
         }
       ]
     },
@@ -3559,24 +3372,6 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Deepwater National Park",
-      "alert_id": "26368",
-      "url": "https://parks.qld.gov.au/park-alerts/26368",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 25th of March to the 27th of March 2026, as part of the fire management program for Deepwater National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 25th of March to the 27th of March 2026, as part of the fire management program for Deepwater National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Springs Beach Road, Wreck Rock Road, Anderson Way and Wilson Drive. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access:</strong></p> <ul> <li><strong>Wreck Rock Road between Springs Rd and Flat Rock day use area</strong></li> <li><strong>Wreck Rock and Middle Rock campgrounds&nbsp;remain&nbsp;accessible from the north&nbsp;</strong></li> </ul> <p>Smoke may be seen in the vicinity of Agnes Water, Baffle Creek and Deepwater areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-03-25",
-      "start_effective_date": "2026-03-25",
-      "end_date": "2026-03-27",
-      "parks": [
-        {
-          "id": "148279",
-          "name": "Deepwater National Park",
-          "url": "https://parks.qld.gov.au/parks/deepwater"
         }
       ]
     },
