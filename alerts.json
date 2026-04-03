@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 151,
-    "script_run_time": "2026-04-02 10:40:13"
+    "alerts_count": 149,
+    "script_run_time": "2026-04-03 10:31:56"
   },
   "alerts": [
     {
@@ -2560,24 +2560,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to continued wet conditions: Moorrinya National Park",
-      "alert_id": "26325",
-      "url": "https://parks.qld.gov.au/park-alerts/26325",
-      "description": "Due to wet weather impacts and road conditions, Moorrinya National Park is temporarily closed until further notice.",
-      "details": "<p>Due to wet weather impacts and road conditions, Moorrinya National Park is temporarily closed until further notice.</p> <p>During the temporary closure, access to all visitor facilities including Shirley Shearing Shed camping area and all vehicle access tracks is not possible.</p> <p>Rangers are closely monitoring current conditions and undertaking necessary repair works. Moorrinya National Park will reopen when it is safe to do so.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-17",
-      "start_effective_date": "2026-03-17",
-      "end_date": "2026-04-02",
-      "parks": [
-        {
-          "id": "148207",
-          "name": "Moorrinya National Park",
-          "url": "https://parks.qld.gov.au/parks/moorrinya"
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Lizard Island National Park",
       "alert_id": "26326",
       "url": "https://parks.qld.gov.au/park-alerts/26326",
@@ -3045,24 +3027,6 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
-      "title": "Planned works for Spicers Gap Road above Spicers Campground",
-      "alert_id": "26376",
-      "url": "https://parks.qld.gov.au/park-alerts/26376",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a road maintenance program at Spicers Gap Road from 31 March 2025 to 2 April 2026 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a road maintenance program at Spicers Gap Road from 31 March 2025 to 2 April 2026 (weather permitting).</p> <p>The following areas are closed for the duration of works:</p> <ul> <li>Spicers Gap road above Spicers campground</li> <li>Governors chair lookout.&nbsp;</li> <li>Moss&#39;s well track.</li> </ul> <p>The Mount Mathieson track remains open.&nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-30",
-      "start_effective_date": "2026-03-30",
-      "end_date": "2026-04-02",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
