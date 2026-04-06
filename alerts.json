@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 144,
-    "script_run_time": "2026-04-05 10:21:06"
+    "alerts_count": 145,
+    "script_run_time": "2026-04-06 10:44:33"
   },
   "alerts": [
     {
@@ -3073,6 +3073,24 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Pest Management Control Program Deongwar State Forest",
+      "alert_id": "26384",
+      "url": "https://parks.qld.gov.au/park-alerts/26384",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Deongwar State Forest from 02/04/2026 to 10/04/2026 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Deongwar State Forest from 02/04/2026 to 10/04/2026 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted&nbsp;in accordance with Pest Managment Program and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp;&nbsp;</p> <p>As a result, the following areas are temporarily closed for the duration of the pest management program:&nbsp;</p> <ul> <li> <p>ALL of Deongwar State Forest&nbsp;</p> </li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-06",
+      "start_effective_date": "2026-04-02",
+      "end_date": "2026-04-10",
+      "parks": [
+        {
+          "id": "322682",
+          "name": "Deongwar State Forest",
+          "url": ""
         }
       ]
     }
