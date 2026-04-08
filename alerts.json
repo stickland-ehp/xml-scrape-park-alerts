@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 148,
-    "script_run_time": "2026-04-07 10:44:25"
+    "alerts_count": 147,
+    "script_run_time": "2026-04-08 10:46:11"
   },
   "alerts": [
     {
@@ -1670,24 +1670,6 @@
       ]
     },
     {
-      "title": "Temporary road closure: Nitchaga and Wall Creek camping areas, Koombooloomba National Park",
-      "alert_id": "26091",
-      "url": "https://parks.qld.gov.au/park-alerts/26091",
-      "description": "Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.",
-      "details": "<p>Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.</p> <p>These roads are closed to all motorised vehicles until further notice until damage can be repaired.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf\">See map</a>:&nbsp;https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-27",
-      "start_effective_date": "2026-01-12",
-      "end_date": "2026-04-07",
-      "parks": [
-        {
-          "id": "148802",
-          "name": "Koombooloomba National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/koombooloomba"
-        }
-      ]
-    },
-    {
       "title": "Safety Alert - Fallen trees and planned works on Conondale Range Great Walk",
       "alert_id": "26102",
       "url": "https://parks.qld.gov.au/park-alerts/26102",
@@ -1802,39 +1784,6 @@
           "id": "150260",
           "name": "Broadwater, Abergowrie State Forest",
           "url": "https://parks.qld.gov.au/parks/broadwater-abergowrie"
-        }
-      ]
-    },
-    {
-      "title": "Wet season water safety information: Stony Creek swimming hole, Wallaman Falls, Girringun National Park",
-      "alert_id": "26135",
-      "url": "https://parks.qld.gov.au/park-alerts/26135",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Stony Creek and Wallaman Falls, Girringun National Park.</p> <p>During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.</p> <p>Prior to travel, visitors are advised to check local road conditions at:</p> <ul> <li><a href=\"https://qldtraffic.qld.gov.au/\">Department of Transport and Main Roads&nbsp;</a>&nbsp;or call 13 19 40</li> <li><a href=\"https://disaster.hinchinbrook.qld.gov.au/\">Hinchinbrook Shire Council</a>&nbsp;emergency management dashboard.</li> </ul> <p>Read more on <a href=\"https://parks.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.</p> <p>Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.</p>",
-      "category": "Announcement",
-      "start_date": "2026-04-07",
-      "start_effective_date": "2026-01-21",
-      "end_date": "2026-04-07",
-      "parks": [
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        },
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wallaman"
-        },
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "151383",
-          "name": "Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
         }
       ]
     },
@@ -2364,24 +2313,6 @@
       ]
     },
     {
-      "title": "Indian Head bypass road access restrictions",
-      "alert_id": "26313",
-      "url": "https://parks.qld.gov.au/park-alerts/26313",
-      "description": "A large deep waterhole has formed along the Indian Head bypass road, restricting vehicle access in both directions. The water depth is estimated at 80cm or more in shallow sections, with deeper water towards the middle.",
-      "details": "<p>A large deep waterhole has formed along the Indian Head bypass road, restricting vehicle access in both directions. The water depth is estimated at 80cm or more in shallow sections, with deeper water towards the middle.</p> <p>Pooled water is unlikely to drain for several weeks due to the high water table and surrounding sandblow and swamp area.</p> <p>This deep hole poses a significant hazard to vehicles attempting to cross. Visitors avoid this route as vehicles may become stranded or sustain damage. If you are uncertain as to the water depth or condition do not drive through it.</p> <p>Visitors requiring assistance to leave the island from the north side of Indian Head should seek assistance from experienced drivers.</p> <p>Motorists should&nbsp;exercise caution, and check access conditions before deciding if it is safe to traverse.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2026-03-12",
-      "start_effective_date": "2026-03-12",
-      "end_date": "2026-04-07",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Unexploded ordnance washing up on Southeast Queensland beaches",
       "alert_id": "26316",
       "url": "https://parks.qld.gov.au/park-alerts/26316",
@@ -2579,44 +2510,6 @@
           "id": "148965",
           "name": "Undara Volcanic National Park",
           "url": "https://parks.qld.gov.au/parks/undara-volcanic"
-        }
-      ]
-    },
-    {
-      "title": "Rainbow Beach QPWS Information Centre Temporarily Closed",
-      "alert_id": "26340",
-      "url": "https://parks.qld.gov.au/park-alerts/26340",
-      "description": "The Rainbow Beach Information Centre will be temporarily closed until Tuesday 7 April 2026.",
-      "details": "<p>The Rainbow Beach Information Centre will be temporarily closed until Tuesday 7 April 2026.</p> <p>To obtain QPWS camping and vehicle permits during this time:</p> <ul> <li>QPWS Online bookings <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></li> <li>Manta Ray Barges <a href=\"http://www.mantarayfraserislandbarge.com.au\">www.mantarayfraserislandbarge.com.au</a> (07) 5486 3935</li> <li>Rainbow Beach Shell Service Station</li> </ul> <p>To make booking changes, apply for refunds, or system credits, log on to <a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>For blank camping tags, maps and discovery guides, please visit the interpretive hut at the entrance to the centre, which will be stocked during the closure.</p> <p>For general park information including Park Alerts and Condition Reports please visit <a href=\"http://www.des.qld.gov.au\">www.des.qld.gov.au</a></p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-27",
-      "start_effective_date": "2026-03-19",
-      "end_date": "2026-04-07",
-      "parks": [
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        },
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
         }
       ]
     },
@@ -3041,24 +2934,6 @@
       ]
     },
     {
-      "title": "Large tides and ocean swell affecting beach driving",
-      "alert_id": "26382",
-      "url": "https://parks.qld.gov.au/park-alerts/26382",
-      "description": "Large tides combined with large ocean swells have caused significant beach erosion resulting in exposed rock impeding beach access. With sections of beach likely to be impassable at high tide.",
-      "details": "<p>Large tides combined with large ocean swells have caused significant beach erosion resulting in exposed rock impeding beach access. With sections of beach likely to be impassable at high tide.</p> <p>Motorists are advised to plan travel around<strong> Yidney Rocks and Poyungan Rocks</strong> within <strong>1-2 hours of low tide only</strong>, and exercise extreme caution due to changed beach conditions. Check and plan ahead.</p> <p>Expected high volumes of holiday traffic will result in long delays if traversing the area at higher tides.</p> <p><strong>Large vehicles and vehicles towing large caravans or trailers should exercise additional caution. </strong></p> <p>Plan your trip:</p> <ul> <li>Check conditions</li> <li>Only travel at low tide</li> <li>Obey speed limits</li> <li>Allow extra time for your trip</li> <li>If it is not safe, don&rsquo;t attempt it</li> </ul> <p><br /> Permit holders are reminded K&rsquo;gari is a protected natural and cultural environment. It is an offence to drive on dunes and vegetated areas. Penalties apply.<br /> <br /> Observe all signage, barriers and directions from rangers.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Other",
-      "start_date": "2026-04-01",
-      "start_effective_date": "2026-04-02",
-      "end_date": "2026-04-07",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
       "title": "Pest Management Control Program Deongwar State Forest",
       "alert_id": "26384",
       "url": "https://parks.qld.gov.au/park-alerts/26384",
@@ -3155,6 +3030,83 @@
           "id": "263080",
           "name": "Earl Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/earl-hill"
+        }
+      ]
+    },
+    {
+      "title": "Road works - Littabella Conservation Park",
+      "alert_id": "26389",
+      "url": "https://parks.qld.gov.au/park-alerts/26389",
+      "description": "Double sloping hummock road to Watalgan communication towers will be temporarily closed to the public, from Monday, 13 April to Wednesday 15 April 2026, for some minor road repairs. Lease holders are permitted to access area.",
+      "details": "<p>Double sloping hummock road to Watalgan communication towers will be temporarily closed to the public, from Monday, 13 April to Wednesday 15 April 2026, for some minor road repairs. Lease holders are permitted to access area.</p> <p>The road will reopen once roadworks are complete and conditions are considered safe.&nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-08",
+      "start_effective_date": "2026-04-13",
+      "end_date": "2026-04-15",
+      "parks": [
+        {
+          "id": "322935",
+          "name": "Littabella National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Main Range National Park",
+      "alert_id": "26390",
+      "url": "https://parks.qld.gov.au/park-alerts/26390",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 9 April, as part of the fire management program for Main Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 9 April, as part of the fire management program for Main Range National Park.</p> <p>Smoke may be seen in the vicinity of Cunningham Highway at Tregony, Mount Mitchell &amp; West Gap Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-08",
+      "start_effective_date": "2026-04-09",
+      "end_date": "2026-04-10",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burns: Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.",
+      "alert_id": "26391",
+      "url": "https://parks.qld.gov.au/park-alerts/26391",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Thursday 09 April 2026 until Tuesday 30 June 2026, as part of the fire management and conservation program for Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Thursday 09 April 2026 until Tuesday 30 June 2026, as part of the fire management and conservation program for Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.</p> <p>Rangers will be conducting low intensity burns throughout the parks. For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Smoke may be seen in the vicinity of the conservation parks plus Cape Pallarenda Road and Ingham Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-08",
+      "start_effective_date": "2026-04-09",
+      "end_date": "2026-05-29",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/townsville"
+        },
+        {
+          "id": "148997",
+          "name": "Cape Pallarenda Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/cape-pallarenda"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for McEuen State Forest",
+      "alert_id": "26392",
+      "url": "https://parks.qld.gov.au/park-alerts/26392",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 9 April 2026 to 16 April 2026, as a part of the fire management program for McEuan State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 9 April 2026 to 16 April 2026, as a part of the fire management program for McEuan State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Old Wondai Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>Smoke may be seen in the vicinity of Old Wondai Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-04-08",
+      "start_effective_date": "2026-04-09",
+      "end_date": "2026-04-16",
+      "parks": [
+        {
+          "id": "322375",
+          "name": "McEuen State Forest",
+          "url": ""
         }
       ]
     }
