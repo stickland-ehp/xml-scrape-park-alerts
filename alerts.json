@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 153,
-    "script_run_time": "2026-04-10 10:41:51"
+    "alerts_count": 148,
+    "script_run_time": "2026-04-11 10:21:57"
   },
   "alerts": [
     {
@@ -1429,24 +1429,6 @@
       ]
     },
     {
-      "title": "UPDATE: Partial closure due to severe weather impacts: Bowling Green Bay National Park (all sections). Read park alert for details",
-      "alert_id": "26044",
-      "url": "https://parks.qld.gov.au/park-alerts/26044",
-      "description": "Due to the impacts from recent severe weather events, localised heavy rainfall and ongoing wet conditions some sections of Bowling Green Bay National Park are partially closed. See further details below:",
-      "details": "<p>Due to the impacts from recent severe weather events, localised heavy rainfall and ongoing wet conditions some sections of Bowling Green Bay National Park are partially closed. See further details below:</p> <p>The following visitor facilities in the Mount Elliot section of Bowling Green National Park are <strong>OPEN:</strong></p> <ul> <li>Alligator Creek camping area</li> <li>Alligator Creek day-use area</li> <li>Alligator Creek walk</li> <li>Alligator Creek lookout</li> <li>Cockatoo Creek trail</li> </ul> <p><strong>All other vistior facilities in Bowling Green Bay National Park remain closed until further notice.&nbsp;</strong></p> <p><strong>The temporary closure includes:</strong></p> <ul> <li>Cockatoo Creek camping area, Alligator Falls walking track and Alligator Falls camping area.</li> <li>All camping areas and vehicle access tracks in the Cape Cleveland section and Bowling Green Bay section of the national park.&nbsp;</li> </ul> <p>QPWS Rangers are undertaking recovery work and visitor facilities will reopen when they are deemed safe to do so. This park alert will be updated as visitor facilities continue to open. Your support and cooperation with the temporary closure is appreciated.&nbsp;</p> <p>People with camping bookings impacted by temporary closure, <a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>For your safety do not walk or drive through flooded roads, creeks and waterways.</p> <p><strong>If it&#39;s flooded, forget it.</strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;for Bowling Green Bay National Park on the department&#39;s website for updated information.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-23",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-04-10",
-      "parks": [
-        {
-          "id": "149433",
-          "name": "Bowling Green Bay National Park",
-          "url": "https://parks.qld.gov.au/parks/bowling-green-bay"
-        }
-      ]
-    },
-    {
       "title": "Wet season water safety information: Cardwell Forest Drive and Five Mile day-use area",
       "alert_id": "26047",
       "url": "https://parks.qld.gov.au/park-alerts/26047",
@@ -1515,24 +1497,6 @@
           "id": "148828",
           "name": "Clump Mountain National Park",
           "url": "https://parks.qld.gov.au/parks/clump-mountain"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure: Mount Halifax remote bush camping area, Paluma Range National Park",
-      "alert_id": "26054",
-      "url": "https://parks.qld.gov.au/park-alerts/26054",
-      "description": "Mount Halifax remote bush camping south of Paluma is closed for the wet season. The camping area will reopen on Saturday 11 April 2026.",
-      "details": "<p>Mount Halifax remote bush camping south of Paluma is closed for the wet season. The camping area will reopen on Saturday 11 April 2026.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-07",
-      "start_effective_date": "2026-01-14",
-      "end_date": "2026-04-10",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -2604,34 +2568,6 @@
       ]
     },
     {
-      "title": "Heli-lift activities",
-      "alert_id": "26360",
-      "url": "https://parks.qld.gov.au/park-alerts/26360",
-      "description": "Please be advised heli-lift activities will be conducted on the Ngaro track, Whitsunday Island between 26 March and 10 April (weather permitting). The area remains a construction site, closed to access.",
-      "details": "<p>Please be advised heli-lift activities will be conducted on the Ngaro track, Whitsunday Island between 26 March and 10 April (weather permitting). The area remains a construction site, closed to access.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2026-03-23",
-      "start_effective_date": "2026-03-26",
-      "end_date": "2026-04-10",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
-        },
-        {
-          "id": "149365",
-          "name": "Whitsunday national park islands",
-          "url": "https://parks.qld.gov.au/parks/parks-whitsundays"
-        },
-        {
-          "id": "152875",
-          "name": "Whitsunday Ngaro Sea Trail",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-ngaro-sea-trail"
-        }
-      ]
-    },
-    {
       "title": "Upcoming temporary camping area closure for pest management operations: Princess Hills and Wairuna camping areas, Girringun National Park",
       "alert_id": "26361",
       "url": "https://parks.qld.gov.au/park-alerts/26361",
@@ -2865,24 +2801,6 @@
       ]
     },
     {
-      "title": "Pest Management Control Program Deongwar State Forest",
-      "alert_id": "26384",
-      "url": "https://parks.qld.gov.au/park-alerts/26384",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Deongwar State Forest from 02/04/2026 to 10/04/2026 (weather permitting) as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Deongwar State Forest from 02/04/2026 to 10/04/2026 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted&nbsp;in accordance with Pest Managment Program and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp;&nbsp;</p> <p>As a result, the following areas are temporarily closed for the duration of the pest management program:&nbsp;</p> <ul> <li> <p>ALL of Deongwar State Forest&nbsp;</p> </li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-06",
-      "start_effective_date": "2026-04-02",
-      "end_date": "2026-04-10",
-      "parks": [
-        {
-          "id": "322682",
-          "name": "Deongwar State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Bushfire alert for Southwood National Park",
       "alert_id": "26385",
       "url": "https://parks.qld.gov.au/park-alerts/26385",
@@ -2951,24 +2869,6 @@
           "id": "322935",
           "name": "Littabella National Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Main Range National Park",
-      "alert_id": "26390",
-      "url": "https://parks.qld.gov.au/park-alerts/26390",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 9 April, as part of the fire management program for Main Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on Thursday 9 April, as part of the fire management program for Main Range National Park.</p> <p>Smoke may be seen in the vicinity of Cunningham Highway at Tregony, Mount Mitchell &amp; West Gap Creek. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-04-08",
-      "start_effective_date": "2026-04-09",
-      "end_date": "2026-04-10",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
