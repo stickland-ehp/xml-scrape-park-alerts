@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2026-04-15 10:50:37"
+    "alerts_count": 163,
+    "script_run_time": "2026-04-16 10:52:56"
   },
   "alerts": [
     {
@@ -203,12 +203,12 @@
       "title": "Temporary road closures: Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road, Danbulla National Park",
       "alert_id": "23606",
       "url": "https://parks.qld.gov.au/park-alerts/23606",
-      "description": "Due to heavy rain from ex-Tropical Cyclone Jasper Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.",
-      "details": "<p>Due to heavy rain from ex-Tropical Cyclone Jasper Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.</p> <p>This closure is for public safety and to protect roads from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p> <p><strong>Danbulla National Park and State Forest camping areas remain open and accessible via Danbulla Road, except for Curri Curri bush camping area which is only accessible by boat.</strong></p> <p>Please monitor this park alert for current information.</p>",
+      "description": "Due to heavy rain from ex-Tropical Cyclone Jasper, Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.",
+      "details": "<p>Due to heavy rain from ex-Tropical Cyclone Jasper, Mount Edith Road, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.</p> <p>This closure is for public safety and to protect roads from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p> <p><strong>Danbulla National Park and State Forest camping areas remain open and accessible via Danbulla Road, except for Curri Curri bush camping area which is only accessible by boat.</strong></p> <p>Please monitor this park alert for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-04-23",
+      "start_date": "2026-04-16",
       "start_effective_date": "2023-12-22",
-      "end_date": "2026-04-23",
+      "end_date": "2026-10-30",
       "parks": [
         {
           "id": "148055",
@@ -1062,9 +1062,9 @@
       "description": "Cardwell Range track, including Cannabullen Creek camping area, and part of Cannabullen Creek track including Hinson Creek camping area, Misty Mountains wilderness tracks, are temporarily closed for the wet season.",
       "details": "<p>Cardwell Range track, including Cannabullen Creek camping area, and part of Cannabullen Creek track including Hinson Creek camping area, Misty Mountains wilderness tracks, are temporarily closed for the wet season.</p> <p><strong>For your safety, please note the following closures:</strong></p> <ul> <li>Majors Mountain lookout</li> <li>Cannabullen Falls lookout</li> <li>Cannabullen Creek camping area</li> <li>Sutties Gap Road between the national park boundary gate and&nbsp;Hinson Creek trailhead</li> <li>Cannabullen Creek track between&nbsp;Hinson Creek trailhead and&nbsp;Hinson Creek camping area (Cannabullen Creek track between Hinson Creek camping area and Cochable Creek camping area is also closed- see seperate park alert for further details)</li> <li>Hinson Creek camping area.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-26",
+      "start_date": "2026-04-16",
       "start_effective_date": "2025-11-17",
-      "end_date": "2026-04-21",
+      "end_date": "2026-05-05",
       "parks": [
         {
           "id": "148468",
@@ -1085,29 +1085,6 @@
           "id": "148840",
           "name": "Misty Mountains wilderness tracks",
           "url": "https://parks.qld.gov.au/parks/misty-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure: Princess Hills section, Girringun National Park",
-      "alert_id": "25949",
-      "url": "https://parks.qld.gov.au/park-alerts/25949",
-      "description": "Princess Hills section of Girringun National Park is closed for the wet season.",
-      "details": "<p>Princess Hills section of Girringun National Park is closed for the wet season.</p> <p>The park is anticipated to reopen Friday 24 April 2026, subject to road and weather conditions.</p> <p>For campers with an existing booking at&nbsp;Princess Hills camping area between 1 April and 23 April 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and&nbsp;request a&nbsp;refund online.&nbsp;&nbsp;</p> <p>Please monitor park alerts for current information.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-20",
-      "start_effective_date": "2025-12-01",
-      "end_date": "2026-04-23",
-      "parks": [
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
         }
       ]
     },
@@ -1268,6 +1245,24 @@
       ]
     },
     {
+      "title": "Wet season closure: Mount Lewis Road, Mount Lewis National Park",
+      "alert_id": "25999",
+      "url": "https://parks.qld.gov.au/park-alerts/26000",
+      "description": "Mount Lewis Road, Mount Lewis National Park is currently closed for the wet season.",
+      "details": "<p>Mount Lewis Road, Mount Lewis National Park is currently closed for the wet season.</p> <p>The road is expected to reopen Tuesday 21 April 2026, subject to weather and road conditions. &nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2025-12-24",
+      "end_date": "2026-04-20",
+      "parks": [
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        }
+      ]
+    },
+    {
       "title": "Drones prohibited Lake McKenzie (Boorangoora)",
       "alert_id": "26004",
       "url": "https://parks.qld.gov.au/park-alerts/26004",
@@ -1394,9 +1389,9 @@
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Attie Creek, Dead Horse Creek, the Spa Pool and Five Mile Creek.</p> <p>During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on <a href=\"https://parks.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.</p>",
       "category": "Announcement",
-      "start_date": "2026-03-31",
+      "start_date": "2026-04-16",
       "start_effective_date": "2026-01-05",
-      "end_date": "2026-04-17",
+      "end_date": "2026-04-24",
       "parks": [
         {
           "id": "150212",
@@ -1412,9 +1407,9 @@
       "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park.",
       "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Murray Falls, Girramay National Park.</p> <p>During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on your <a href=\"https://parks.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.</p>",
       "category": "Announcement",
-      "start_date": "2026-03-31",
+      "start_date": "2026-04-16",
       "start_effective_date": "2026-01-05",
-      "end_date": "2026-04-17",
+      "end_date": "2026-04-24",
       "parks": [
         {
           "id": "148127",
@@ -1629,33 +1624,15 @@
       ]
     },
     {
-      "title": "Temporary closure due to severe weather impacts and continued wet conditions: Diamantina National Park",
-      "alert_id": "26129",
-      "url": "https://parks.qld.gov.au/park-alerts/26129",
-      "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Diamantina National Park is temporarily closed until further notice.",
-      "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall, leading to widespread flooding, Diamantina National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.&nbsp;</p> <p>Diamantina National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Local road closures are also in place and people are advised to check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>, local council dashboards and <a href=\"https://qldtraffic.qld.gov.au/\">Queensland Traffic road conditions,</a>&nbsp;before travelling.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-27",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-04-15",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure due to severe weather impacts and continued wet conditions: Lochern National Park",
       "alert_id": "26131",
       "url": "https://parks.qld.gov.au/park-alerts/26131",
       "description": "Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Lochern National Park is temporarily closed until further notice.",
       "details": "<p>Due to the impact of recent severe weather events throughout western Queensland, including localised and heavy upstream rainfall leading to widespread flooding, Lochern National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Lochern National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-04-01",
+      "start_date": "2026-04-16",
       "start_effective_date": "2026-01-01",
-      "end_date": "2026-04-17",
+      "end_date": "2026-04-24",
       "parks": [
         {
           "id": "148251",
@@ -2245,24 +2222,6 @@
       ]
     },
     {
-      "title": "Planned works for Minerva Hills National Park",
-      "alert_id": "26322",
-      "url": "https://parks.qld.gov.au/park-alerts/26322",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Minerva Hills National Park from 14/03/2026 to 15/04/26 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Minerva Hills National Park from 14/03/2026 to 15/04/26 (weather permitting).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-17",
-      "start_effective_date": "2026-03-14",
-      "end_date": "2026-04-15",
-      "parks": [
-        {
-          "id": "148953",
-          "name": "Minerva Hills National Park",
-          "url": "https://parks.qld.gov.au/parks/minerva-hills"
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Lizard Island National Park",
       "alert_id": "26326",
       "url": "https://parks.qld.gov.au/park-alerts/26326",
@@ -2463,13 +2422,13 @@
       ]
     },
     {
-      "title": "Upcoming temporary camping area closure for pest management operations: Princess Hills and Wairuna camping areas, Girringun National Park",
+      "title": "Upcoming temporary camping area closures for pest management operations: Princess Hills and Wairuna camping areas, Girringun National Park",
       "alert_id": "26361",
       "url": "https://parks.qld.gov.au/park-alerts/26361",
       "description": "Visitors are advised that Rangers will be conducting pest management operations across Princess Hills and Wairuna camping areas from Monday 11 May to Thursday 14 May 2026 (dates inclusive).",
-      "details": "<p>Visitors are advised that Rangers will be conducting pest management operations across Princess Hills and Wairuna camping areas from Monday 11 May to Thursday 14 May 2026 (dates inclusive).</p> <p><strong>During this period, Princess Hills and Wairuna camping areas will be closed.</strong></p> <p>Camping areas will re-open on Friday 15 May 2026.</p> <p>These pest management operations help Rangers to conserve the natural and cultural values of these national parks.&nbsp;</p>",
+      "details": "<p>Visitors are advised that Rangers will be conducting pest management operations across Princess Hills and Wairuna camping areas from Monday 11 May to Thursday 14 May 2026 (dates inclusive).</p> <p>The following camping area closures apply during this period:</p> <ul> <li>Wairuna camping area - closed for wet season</li> <li>Princess Hills&nbsp; camping area - closed from Monday 11 May to Thursday 14 May 2026 and&nbsp;will re-open on Friday 15 May 2026.</li> </ul> <p>These pest management operations help rangers to conserve the natural and cultural values of these national parks.&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2026-04-15",
+      "start_date": "2026-04-16",
       "start_effective_date": "2026-05-11",
       "end_date": "2026-05-14",
       "parks": [
@@ -2728,24 +2687,6 @@
           "id": "263080",
           "name": "Earl Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/earl-hill"
-        }
-      ]
-    },
-    {
-      "title": "Road works - Littabella Conservation Park",
-      "alert_id": "26389",
-      "url": "https://parks.qld.gov.au/park-alerts/26389",
-      "description": "Double sloping hummock road to Watalgan communication towers will be temporarily closed to the public, from Monday, 13 April to Wednesday 15 April 2026, for some minor road repairs. Lease holders are permitted to access area.",
-      "details": "<p>Double sloping hummock road to Watalgan communication towers will be temporarily closed to the public, from Monday, 13 April to Wednesday 15 April 2026, for some minor road repairs. Lease holders are permitted to access area.</p> <p>The road will reopen once roadworks are complete and conditions are considered safe.&nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-08",
-      "start_effective_date": "2026-04-13",
-      "end_date": "2026-04-15",
-      "parks": [
-        {
-          "id": "322935",
-          "name": "Littabella National Park",
-          "url": ""
         }
       ]
     },
@@ -3091,24 +3032,6 @@
       ]
     },
     {
-      "title": "Planned burn - Emu Mountain section, Noosa National Park",
-      "alert_id": "26412",
-      "url": "https://parks.qld.gov.au/park-alerts/26412",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Emu Mountain section, Noosa National Park between Tuesday 14 April to Wednesday 15 April, weather permitting.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Emu Mountain section, Noosa National Park between Tuesday 14 April to Wednesday 15 April, weather permitting.</p> <p>During the planned burn this section of park will closed to public access, including these walking tracks:</p> <ul> <li>Hakea track</li> <li>Emu Mountain summit walk</li> </ul> <p>Please observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Planned burns are highly weather-dependent, generally requiring milder conditions and minimal wind. These same weather conditions can also allow smoke to accumulate and linger until weather conditions change and winds assist in dispersing the smoke.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-13",
-      "start_effective_date": "2026-04-14",
-      "end_date": "2026-04-15",
-      "parks": [
-        {
-          "id": "147955",
-          "name": "Noosa National Park",
-          "url": "https://parks.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
       "title": "Planned burn - King Conservation Park",
       "alert_id": "26413",
       "url": "https://parks.qld.gov.au/park-alerts/26413",
@@ -3341,6 +3264,142 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Road works - Kinkuna section Burrum Coast National Park",
+      "alert_id": "26425",
+      "url": "https://parks.qld.gov.au/park-alerts/26425",
+      "description": "Contractors will be conducting road reconstruction works on the Southern beach access track in Kinkuna section of Burrum Coast National Park, from Monday 13 April 2026 to Tuesday 23 June 2026.",
+      "details": "<p>Contractors will be conducting road reconstruction works on the Southern beach access track in Kinkuna section of Burrum Coast National Park, from Monday 13 April 2026 to Tuesday 23 June 2026.</p> <p>The Southen beach access track will remain temporarily CLOSED while the road reconstruction works are undertaken.</p> <p><br /> Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-04-13",
+      "end_date": "2026-06-23",
+      "parks": [
+        {
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.qld.gov.au/parks/burrum-coast"
+        }
+      ]
+    },
+    {
+      "title": "Cooloola Annual Hazard Reduction Burn Program",
+      "alert_id": "26426",
+      "url": "https://parks.qld.gov.au/park-alerts/26426",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within the Cooloola area from April - August 2026, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within the Cooloola area from April - August 2026, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests.</p> <p>The aim of these burns is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas.&nbsp; This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>As a result, smoke may be seen in the vicinity of the Cooloola Recreation Area, Rainbow Beach, Cooloola Cove, Tin Can Bay, Teewah Beach, and Noosa North Shore.</p> <p>Be aware that planned burns require the correct environmental and weather conditions to conduct. Check park alerts regularly, as access to the Cooloola Great Walk and Cooloola Wilderness Trail may also be affected during this time.</p> <p>Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.&nbsp; Visitors and residents should close windows and doors, and keep medications close by if suffering from a respiratory illness.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-04-16",
+      "end_date": "2026-08-31",
+      "parks": [
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : feral animal control program",
+      "alert_id": "26427",
+      "url": "https://parks.qld.gov.au/park-alerts/26427",
+      "description": "Welford National Park including the campgrounds will be temporarily closed while Queensland Parks and Wildlife Service undertakes a feral animal control program. All control activities are conducted in accordance with the Welford National Park pest animal control plan and help to protect native plants and animals from the harmful effects of introduced animals. Please note : The Jundah-Quilpie Road will remain open to through traffic only.",
+      "details": "<p>Welford National Park including the campgrounds will be temporarily closed while Queensland Parks and Wildlife Service undertakes a feral animal control program. All control activities are conducted in accordance with the Welford National Park pest animal control plan and help to protect native plants and animals from the harmful effects of introduced animals. Please note : The Jundah-Quilpie Road will remain open to through traffic only.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-05-05",
+      "end_date": "2026-05-08",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Deepwater National Park",
+      "alert_id": "26428",
+      "url": "https://parks.qld.gov.au/park-alerts/26428",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 21st of to the 23rd of April 2026, as part of the fire management program for Deepwater National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 21st of to the 23rd of April 2026, as part of the fire management program for Deepwater National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Springs Beach Road, Wreck Rock Road and Anderson Way. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access:</strong></p> <ul> <li>Wreck Rock Road between Springs Rd and Wreck Rock campground</li> <li>Wreck Rock campground&nbsp;remains accessible from the north</li> </ul> <p>Smoke may be seen in the vicinity of Agnes Water, Baffle Creek and Deepwater areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-04-16",
+      "end_date": "2026-04-27",
+      "parks": [
+        {
+          "id": "148279",
+          "name": "Deepwater National Park",
+          "url": "https://parks.qld.gov.au/parks/deepwater"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Eurimbula National Park",
+      "alert_id": "26429",
+      "url": "https://parks.qld.gov.au/park-alerts/26429",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 17th to the 21st of April 2026, as part of the fire management program for Eurimbula National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 17th to the 21st of April 2026, as part of the fire management program for Eurimbula National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Eurimbula Road, Middle Creek Road, the Tanti track and the Danube track. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access:</strong></p> <ul> <li>Middle Creek Road</li> <li>Tanti track</li> </ul> <p>Smoke may be seen in the vicinity of Agnes Water, Captain Creek and Turkey Beach. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-04-16",
+      "end_date": "2026-04-21",
+      "parks": [
+        {
+          "id": "148119",
+          "name": "Eurimbula National Park",
+          "url": "https://parks.qld.gov.au/parks/eurimbula"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn Kingfisher Bay",
+      "alert_id": "26430",
+      "url": "https://parks.qld.gov.au/park-alerts/26430",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 17th April 2026 and 22nd April 2026 as part of the fire management program for Great Sandy National Park - Kgari.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 17th April 2026 and 22nd April 2026 as part of the fire management program for Great Sandy National Park - Kgari.</p> <p>During the planned burn diversions will be in place for the parts of the Kingfisher Bay Walking Circuit that will be affected.</p> <p>Smoke may be seen in the vicinity of&nbsp;Kingfisher Bay Resort and Village, Kingfisher Barge landing, Boorangoora (Lake McKenzie), Ungowa and Cornwell&rsquo;s Break Rd. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-04-16",
+      "end_date": "2026-04-22",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Minerva Hills National Park",
+      "alert_id": "26432",
+      "url": "https://parks.qld.gov.au/park-alerts/26432",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Minerva Hills National Park from 15/04/2026 to 27/04/2026 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Minerva Hills National Park from 15/04/2026 to 27/04/2026 (weather permitting).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-16",
+      "start_effective_date": "2026-04-15",
+      "end_date": "2026-04-27",
+      "parks": [
+        {
+          "id": "148953",
+          "name": "Minerva Hills National Park",
+          "url": "https://parks.qld.gov.au/parks/minerva-hills"
         }
       ]
     }
