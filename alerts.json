@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2026-04-17 10:44:45"
+    "alerts_count": 159,
+    "script_run_time": "2026-04-18 10:29:35"
   },
   "alerts": [
     {
@@ -2044,24 +2044,6 @@
       ]
     },
     {
-      "title": "Temporary visitor site closures: Bladensburg National Park",
-      "alert_id": "26244",
-      "url": "https://parks.qld.gov.au/park-alerts/26244",
-      "description": "Due to ongoing wet and boggy road conditions vehicle access to Scrammy Gorge and Scrammy Lookout is temporary unavailable. The Scrammy circuit drive is open to high clearance 4WD vehicles with caution.",
-      "details": "<p>Due to ongoing wet and boggy road conditions vehicle access to Scrammy Gorge and Scrammy Lookout is temporary unavailable. The Scrammy circuit drive is open to high clearance 4WD vehicles with caution.</p> <p>We appreciated your patience and understanding with the temporary site closures.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">Park Alerts</a> for Bladensbug National Park on the department&#39;s website for updates.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-27",
-      "start_effective_date": "2026-02-27",
-      "end_date": "2026-04-17",
-      "parks": [
-        {
-          "id": "148408",
-          "name": "Bladensburg National Park",
-          "url": "https://parks.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
       "title": "Eyre Creek flood warning : Munga-Thirri National Park",
       "alert_id": "26257",
       "url": "https://parks.qld.gov.au/park-alerts/26257",
@@ -2272,34 +2254,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Planned aerial burning operations: Rungulla National Park, Canyon Resources Reserve and Undara Volcanic National Park",
-      "alert_id": "26337",
-      "url": "https://parks.qld.gov.au/park-alerts/26337",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial hazard reduction burns at Undara Volcanic National Park, Canyon Resource Reserve and Rungulla National Park from Tuesday 18 March to Friday 17 April 2026 (dates inclusive), pending weather conditions.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial hazard reduction burns at Undara Volcanic National Park, Canyon Resource Reserve and Rungulla National Park from Tuesday 18 March to Friday 17 April 2026 (dates inclusive), pending weather conditions.</p> <p>During this period:</p> <ul> <li>Canyon Resources Reserve - closed to the public for wet season</li> <li>Undara Volcanic National Park - open to the public but no visitor facilities will be affected by the planned burns.</li> <li>Rungulla National Park &ndash; will reopen from wet season closure on Wednesday 1 April 2026 but the camping area will remain closed due to access road damage. No open visitor facilities will be affected by the planned burns.</li> </ul> <p>Visitors are advised that smoke may be seen in the vicinity of each park and may impact road users.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-04-01",
-      "start_effective_date": "2026-03-18",
-      "end_date": "2026-04-17",
-      "parks": [
-        {
-          "id": "148067",
-          "name": "Rungulla National Park",
-          "url": "https://parks.qld.gov.au/parks/rungulla"
-        },
-        {
-          "id": "149509",
-          "name": "Canyon Resources Reserve",
-          "url": "https://parks.qld.gov.au/parks/canyon-resources"
-        },
-        {
-          "id": "148965",
-          "name": "Undara Volcanic National Park",
-          "url": "https://parks.qld.gov.au/parks/undara-volcanic"
         }
       ]
     },
@@ -2974,24 +2928,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - Burrum Coast National Park",
-      "alert_id": "26411",
-      "url": "https://parks.qld.gov.au/park-alerts/26411",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Burrum Coast National Park off Heidkis and Darville road, near Woodgate on Tuesday 14th through to Friday 17 April 2026 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the Woodgate, Buxton and Gooburrum areas.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in Burrum Coast National Park off Heidkis and Darville road, near Woodgate on Tuesday 14th through to Friday 17 April 2026 weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen in the Woodgate, Buxton and Gooburrum areas.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration. Smoke can decrease visibility on the roads so it is important that motorists drive safely to the conditions.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-04-13",
-      "start_effective_date": "2026-04-14",
-      "end_date": "2026-04-17",
-      "parks": [
-        {
-          "id": "148436",
-          "name": "Burrum Coast National Park",
-          "url": "https://parks.qld.gov.au/parks/burrum-coast"
         }
       ]
     },
