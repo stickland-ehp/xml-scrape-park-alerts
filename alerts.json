@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 159,
-    "script_run_time": "2026-04-18 10:29:35"
+    "alerts_count": 158,
+    "script_run_time": "2026-04-19 10:28:48"
   },
   "alerts": [
     {
@@ -2928,24 +2928,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn - King Conservation Park",
-      "alert_id": "26413",
-      "url": "https://parks.qld.gov.au/park-alerts/26413",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in King Conservation Park between Thursday 16 April to Saturday 18 April, weather permitting.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in King Conservation Park between Thursday 16 April to Saturday 18 April, weather permitting.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>If smoke affects you:</p> <ul> <li>stay indoors and close windows and doors; and</li> <li>keep respiratory medication close by.</li> </ul> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-04-14",
-      "start_effective_date": "2026-04-16",
-      "end_date": "2026-04-18",
-      "parks": [
-        {
-          "id": "322746",
-          "name": "King Conservation Park",
-          "url": ""
         }
       ]
     },
