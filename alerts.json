@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 159,
-    "script_run_time": "2026-04-28 11:29:16"
+    "alerts_count": 158,
+    "script_run_time": "2026-04-29 11:22:00"
   },
   "alerts": [
     {
@@ -186,11 +186,11 @@
       "alert_id": "23536",
       "url": "https://parks.qld.gov.au/park-alerts/23536",
       "description": "Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.",
-      "details": "<p>Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.</p> <p>For visitors with an existing camping booking up until and including Thursday 30 April 2026, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Monitor park alerts for current information on closures.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
+      "details": "<p>Ngalba-bulal National Park (CYPAL) is currently closed until further notice due to the impacts from ex-Tropical Cyclone Jasper.</p> <p>For visitors with an existing camping booking up until and including Tuesday 30 June 2026, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Monitor park alerts for current information on closures.</p> <p>&nbsp;</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-11-28",
+      "start_date": "2026-04-29",
       "start_effective_date": "2023-12-11",
-      "end_date": "2026-04-30",
+      "end_date": "2026-06-30",
       "parks": [
         {
           "id": "148231",
@@ -1235,15 +1235,15 @@
       ]
     },
     {
-      "title": "Wet season closure: Dalrymple Gap Walking Track, Girringun National Park",
+      "title": "Temporary closure: section of Dalrymple Gap walking track, Girringun National Park",
       "alert_id": "26015",
       "url": "https://parks.qld.gov.au/park-alerts/26015",
-      "description": "The Dalrymple Gap walking track is closed for the wet season.",
-      "details": "<p>The Dalrymple Gap walking track is closed for the wet season.</p> <p>It is anticipated to reopen on Saturday 2 May 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "description": "The Dalrymple Gap walking track in Girringun National Park has partially reopened from wet season closure. The southern section of track remains closed due to tree fall and stream rises caused by the prolonged wet weather and will reopen when declared safe. Please see below for details:",
+      "details": "<p>The Dalrymple Gap walking track in Girringun National Park has partially reopened from wet season closure. The southern section of track remains closed due to tree fall and stream rises caused by the prolonged wet weather and will reopen when declared safe. Please see below for details:</p> <ul> <li>Section of track from Damper Creek car park to historic bridge (northern access) - <strong>OPEN</strong></li> <li>Section of track from historic bridge to Dalrymple Creek car park (southern access) - <strong>CLOSED</strong> (anticipated to reopen Thursday 29 May 2026, subject to road and weather conditions).</li> </ul> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-17",
+      "start_date": "2026-04-29",
       "start_effective_date": "2025-12-28",
-      "end_date": "2026-05-01",
+      "end_date": "2026-05-29",
       "parks": [
         {
           "id": "148768",
@@ -2520,29 +2520,6 @@
       ]
     },
     {
-      "title": "Thorsborne Trail camping area enhancement works",
-      "alert_id": "26398",
-      "url": "https://parks.qld.gov.au/park-alerts/26398",
-      "description": "Works will be occurring at various camping areas from 21-28 April 2026.",
-      "details": "<p>Works will be occurring at various camping areas from 21-28 April 2026.</p> <p>There will be machinery working at South Zoe Bay to rectify wet season impacts. Rangers will be doing minor rectification works at Mulligan Falls and Little Ramsay Bay camping areas and working at Banksia Bay to better define camp sites.</p> <p>Rangers may also be at other sites along the trail during this period.</p> <p>There will be minimal impact to hikers. All camping areas and tracks will remain open throughout, and works will be carried out during the day to minimise disturbance.</p> <p>QPWS apologises for the inconvenience.</p> <p>For more information about the Thorsborne Trail enhancement project visit <a href=\"https://parks.desi.qld.gov.au/parks/hinchinbrook/about/thorsborne-trail-enhancement-project\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
-      "category": "Announcement",
-      "start_date": "2026-04-09",
-      "start_effective_date": "2026-04-21",
-      "end_date": "2026-04-28",
-      "parks": [
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
-        },
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Fitzroy Island National Park",
       "alert_id": "26400",
       "url": "https://parks.qld.gov.au/park-alerts/26400",
@@ -2901,24 +2878,6 @@
           "id": "148604",
           "name": "Blackbraes National Park",
           "url": "https://parks.qld.gov.au/parks/blackbraes"
-        }
-      ]
-    },
-    {
-      "title": "Pest management control program Glass House Mountains National Park - Mount Ngungun Section",
-      "alert_id": "26445",
-      "url": "https://parks.qld.gov.au/park-alerts/26445",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Glass House Mountains National Park - Mount Ngungun section from 1700hrs Tuesday 28th to 0800hrs Wednesday 29th of April 2026 as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Glass House Mountains National Park - Mount Ngungun section from 1700hrs Tuesday 28th to 0800hrs Wednesday 29th of April 2026 as part of the conservation management program for the park.</p> <p>All pest control activities are conducted in accordance with Glass House Moutains National Park pest managment plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals. Firearms and traps may be in use.</p> <p>As a result, the following areas are temporarily closed for the duration of the pest management program:</p> <ul> <li>Mount Ngungun Summit Walk</li> <li>All Fire management trails and sites within&nbsp;the Mount Ngungun section of Glass House Mountains National Park</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-28",
-      "start_effective_date": "2026-04-28",
-      "end_date": "2026-04-29",
-      "parks": [
-        {
-          "id": "150189",
-          "name": "Glass House Mountains National Park",
-          "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
         }
       ]
     },
@@ -3283,6 +3242,24 @@
           "id": "148884",
           "name": "Curtis Island National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: upper section of North Palmer River camping area, Palmer Goldfield Resources Reserve",
+      "alert_id": "26466",
+      "url": "https://parks.qld.gov.au/park-alerts/26466",
+      "description": "Due to damage sustained during recent severe weather, the upper section of the North Palmer River camping area is closed until further notice.",
+      "details": "<p>Due to damage sustained during recent severe weather, the upper section of the North Palmer River camping area is closed until further notice.</p> <p>This section will remain closed until maintenance works have been completed.</p> <p>The lower section of the camping area remains open during this time to high clearance four-wheel drive vehicles only.</p> <p>Please monitor this park alert for the most up to date information.</p> <p>&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-29",
+      "start_effective_date": "2026-04-29",
+      "end_date": "2026-06-15",
+      "parks": [
+        {
+          "id": "149489",
+          "name": "Palmer Goldfield Resources Reserve",
+          "url": "https://parks.qld.gov.au/parks/palmer-goldfield"
         }
       ]
     }
