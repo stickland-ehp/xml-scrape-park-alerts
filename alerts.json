@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 158,
-    "script_run_time": "2026-04-29 11:22:00"
+    "alerts_count": 160,
+    "script_run_time": "2026-04-30 11:21:09"
   },
   "alerts": [
     {
@@ -367,24 +367,6 @@
       ]
     },
     {
-      "title": "Range View Camp temporarily closed - Bulburin National Park",
-      "alert_id": "24799",
-      "url": "https://parks.qld.gov.au/park-alerts/24799",
-      "description": "Range View campground is temporarily closed due to the access 4WD loop road being unsuitable to drive.",
-      "details": "<p>Range View campground is temporarily closed due to the access 4WD loop road being unsuitable to drive.</p> <p>As a result, the following is temporarily closed:</p> <p>Range view camping area</p> <p>4WD Loop road</p> <p>All permits for closed areas are suspended for the duration of the closure. Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>Zamia and Old Forestry camping areas are currently open. These can be accessed via Bulburin Forestry road and Dawes Range Road.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-02-17",
-      "start_effective_date": "2024-12-19",
-      "end_date": "2026-04-29",
-      "parks": [
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.qld.gov.au/parks/bulburin"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Little Crystal Creek day-use area, Paluma Range National Park",
       "alert_id": "24932",
       "url": "https://parks.qld.gov.au/park-alerts/24932",
@@ -407,9 +389,9 @@
       "alert_id": "25025",
       "url": "https://parks.qld.gov.au/park-alerts/25025",
       "description": "As a result of damage from Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.",
-      "details": "<p>As a result of damage from Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage assessment and repair activities in progress.</p> <p><strong>CLOSED Areas:</strong></p> <p><em><strong>Binna Burra section</strong></em></p> <ul> <li>Caves track</li> <li>Illinbah circuit (eastern side) - Closed from the first junction on the Gwongoorool track&nbsp;to the Illinbah bush&nbsp;camp. The western side of the Illinbah circuit (access is from the second&nbsp;junction on the Gwongoorool track) will remain open.&nbsp;&nbsp;Once visitors reach the Illinbah bush camp, please return via the same track.</li> <li>Coomera circuit - Partial closure&nbsp;from the Coomera Falls lookout to the southern junction (second turn-off)&nbsp;of&nbsp;the Border track&nbsp;-&nbsp;The only access to the&nbsp;Coomera Falls lookout is&nbsp;from the northern junction (first turn-off)&nbsp;on&nbsp;the Border track&nbsp;- once visitors reach the Coomera Falls lookout, please return via the same track.</li> </ul> <p><em><strong>Green Mountains section</strong></em></p> <ul> <li>Albert River circuit - Partial closure&nbsp;from the northern junction&nbsp;(first&nbsp;turn-off)&nbsp;of&nbsp;the Border track to Echo Point - The only access to Echo Point is from the southern&nbsp;junction (second&nbsp;turn-off) on&nbsp;the Border track.&nbsp; Once visitors reach Echo Point, please return via the same track.</li> </ul> <p><strong>OPEN Areas:</strong></p> <p><em><strong>Binna Burra section</strong></em></p> <ul> <li>Upper Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest circuit</li> <li>Tullawallal circuit</li> <li>Gwongoorool track</li> <li>Daves Creek circuit</li> <li>Lower Bellbird track</li> <li>Wagawn track</li> <li>Araucaria track</li> <li>Mount Hobwee circuit</li> <li>Ship&nbsp;Stern circuit</li> <li>Coomera circuit - Partially open from the northern junction on&nbsp;the Border track (first turn-off) to the Coomera Falls lookout&nbsp;only - once visitors reach the Coomera Falls lookout, please return via the same track.</li> <li>Upper Ballanjui Falls (please return via the same track)</li> <li>Illinbah circuit (western side) - Open&nbsp;from the second junction on the Gwongoorool&nbsp;track&nbsp;to&nbsp;the Illinbah bush camp - Once visitors reach the Illinbah bush camp -&nbsp;please return via the same track. The eastern side will remain temporarily closed until declared safe.</li> <li>Border track (between Binna Burra and Green Mountains/O&#39;Reilly&#39;s)</li> </ul> <p><em><strong>Green Mountains section&nbsp;</strong></em></p> <ul> <li>Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest return track</li> <li>Centenary track</li> <li>Morans Falls track&nbsp;</li> <li>Python Rock track&nbsp;</li> <li>Box Forest circuit</li> <li>West Canungra Creek circuit</li> <li>Toolona Creek circuit</li> <li>Albert River circuit - Partially open from the southern&nbsp;junction (second&nbsp;turn-off)&nbsp;to Echo Point only - once you reach Echo Point, please return via the same track)</li> <li>Border track (between Green Mountains/O&#39;Reilly&#39;s and Binna Burra</li> </ul> <p>Gold Coast Hinterland Great Walks track.</p> <p><em><strong>Remote Bush camp sites (including on and off track)</strong></em></p> <ul> <li>Mount Bithongabel&nbsp;bush camp&nbsp;(on-track)</li> <li>Echo Point&nbsp;bush camp&nbsp;(on-track)</li> <li>Rat-a-tat&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Stinson&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Point Lookout&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Running Creek&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Lost World - Saddle remote bush camp (off-track)</li> <li>Lost world - Creek&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Illinbah bush camp (on-track)</li> <li>Darlington remote bush camp (off-track)</li> </ul> <p>Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/162025/lamington-binna-burra-map.pdf\">Binna Burra section map</a> and <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160825/lamington-green-mts-map.pdf\">Green Mountains section map</a> for more information on locations.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>As a result of damage from Tropical Cyclone Alfred, some areas in Lamington National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage assessment and repair activities in progress.</p> <p><strong>CLOSED Areas:</strong></p> <p><em><strong>Binna Burra section</strong></em></p> <ul> <li>Illinbah circuit (eastern side) - Closed from the first junction on the Gwongoorool track&nbsp;to the Illinbah bush&nbsp;camp. The western side of the Illinbah circuit (access is from the second&nbsp;junction on the Gwongoorool track) will remain open.&nbsp;&nbsp;Once visitors reach the Illinbah bush camp, please return via the same track.</li> <li>Coomera circuit - Partial closure&nbsp;from the Coomera Falls lookout to the southern junction (second turn-off)&nbsp;of&nbsp;the Border track&nbsp;-&nbsp;The only access to the&nbsp;Coomera Falls lookout is&nbsp;from the northern junction (first turn-off)&nbsp;on&nbsp;the Border track&nbsp;- once visitors reach the Coomera Falls lookout, please return via the same track.</li> </ul> <p><em><strong>Green Mountains section</strong></em></p> <ul> <li>Albert River circuit - Partial closure&nbsp;from the northern junction&nbsp;(first&nbsp;turn-off)&nbsp;of&nbsp;the Border track to Echo Point - The only access to Echo Point is from the southern&nbsp;junction (second&nbsp;turn-off) on&nbsp;the Border track.&nbsp; Once visitors reach Echo Point, please return via the same track.</li> </ul> <p><strong>OPEN Areas:</strong></p> <p><em><strong>Binna Burra section</strong></em></p> <ul> <li>Upper Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest circuit</li> <li>Tullawallal circuit</li> <li>Caves track</li> <li>Gwongoorool track</li> <li>Daves Creek circuit</li> <li>Lower Bellbird track</li> <li>Wagawn track</li> <li>Araucaria track</li> <li>Mount Hobwee circuit</li> <li>Ship&nbsp;Stern circuit</li> <li>Coomera circuit - Partially open from the northern junction on&nbsp;the Border track (first turn-off) to the Coomera Falls lookout&nbsp;only - once visitors reach the Coomera Falls lookout, please return via the same track.</li> <li>Upper Ballanjui Falls (please return via the same track)</li> <li>Illinbah circuit (western side) - Open&nbsp;from the second junction on the Gwongoorool&nbsp;track&nbsp;to&nbsp;the Illinbah bush camp - Once visitors reach the Illinbah bush camp -&nbsp;please return via the same track. The eastern side will remain temporarily closed until declared safe.</li> <li>Border track (between Binna Burra and Green Mountains/O&#39;Reilly&#39;s)</li> </ul> <p><em><strong>Green Mountains section&nbsp;</strong></em></p> <ul> <li>Day-use Area and trailhead visitor facilities, including toilets</li> <li>Rainforest return track</li> <li>Centenary track</li> <li>Morans Falls track&nbsp;</li> <li>Python Rock track&nbsp;</li> <li>Box Forest circuit</li> <li>West Canungra Creek circuit</li> <li>Toolona Creek circuit</li> <li>Albert River circuit - Partially open from the southern&nbsp;junction (second&nbsp;turn-off)&nbsp;to Echo Point only - once you reach Echo Point, please return via the same track)</li> <li>Border track (between Green Mountains/O&#39;Reilly&#39;s and Binna Burra</li> </ul> <p>Gold Coast Hinterland Great Walks track.</p> <p><em><strong>Remote Bush camp sites (including on and off track)</strong></em></p> <ul> <li>Mount Bithongabel&nbsp;bush camp&nbsp;(on-track)</li> <li>Echo Point&nbsp;bush camp&nbsp;(on-track)</li> <li>Rat-a-tat&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Stinson&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Point Lookout&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Running Creek&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Lost World - Saddle remote bush camp (off-track)</li> <li>Lost world - Creek&nbsp;remote bush camp&nbsp;(off-track)</li> <li>Illinbah bush camp (on-track)</li> <li>Darlington remote bush camp (off-track)</li> </ul> <p>Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0016/162025/lamington-binna-burra-map.pdf\">Binna Burra section map</a> and <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0022/160825/lamington-green-mts-map.pdf\">Green Mountains section map</a> for more information on locations.</p> <p>All camping permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-04-07",
+      "start_date": "2026-04-30",
       "start_effective_date": "2025-03-14",
       "end_date": "2026-12-31",
       "parks": [
@@ -1044,9 +1026,9 @@
       "description": "Cardwell Range track, including Cannabullen Creek camping area, and part of Cannabullen Creek track including Hinson Creek camping area, Misty Mountains wilderness tracks, are temporarily closed for the wet season.",
       "details": "<p>Cardwell Range track, including Cannabullen Creek camping area, and part of Cannabullen Creek track including Hinson Creek camping area, Misty Mountains wilderness tracks, are temporarily closed for the wet season.</p> <p><strong>For your safety, please note the following closures:</strong></p> <ul> <li>Majors Mountain lookout</li> <li>Cannabullen Falls lookout</li> <li>Cannabullen Creek camping area</li> <li>Sutties Gap Road between the national park boundary gate and&nbsp;Hinson Creek trailhead</li> <li>Cannabullen Creek track between&nbsp;Hinson Creek trailhead and&nbsp;Hinson Creek camping area (Cannabullen Creek track between Hinson Creek camping area and Cochable Creek camping area is also closed- see seperate park alert for further details)</li> <li>Hinson Creek camping area.</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-04-16",
+      "start_date": "2026-04-30",
       "start_effective_date": "2025-11-17",
-      "end_date": "2026-05-05",
+      "end_date": "2026-05-15",
       "parks": [
         {
           "id": "148468",
@@ -1148,15 +1130,15 @@
       ]
     },
     {
-      "title": "UPDATE #2 Wet season/summer closure extended: Boodjamulla National Park (Aboriginal Land)",
+      "title": "Visitor facilities open: Boodjamulla National Park (Aboriginal Land). Read park alert for details.",
       "alert_id": "25981",
       "url": "https://parks.qld.gov.au/park-alerts/25982",
-      "description": "Boodjamulla National Park (Aboriginal Land) is closed for the wet season. For your safety and due to extreme temperatures, wet season rainfall, and access road conditions and closures, the closure applies to both the Lawn Hill Gorge section and Riversleigh section of Boodjamulla National Park (Aboriginal Land).",
-      "details": "<p>Boodjamulla National Park (Aboriginal Land) is closed for the wet season. For your safety and due to extreme temperatures, wet season rainfall, and access road conditions and closures, the closure applies to both the Lawn Hill Gorge section and Riversleigh section of Boodjamulla National Park (Aboriginal Land).</p> <p>Predicting the re-opening date in 2026 is a challenge and due to extended heavy rainfall in the area, as well as the closure of roads accessing the national park (Aboriginal Land), the wet season/summer closure has been extended. If road and weather conditions allow, and if access is safe for visitors, the national park will reopen on <strong>Friday 1 May 2026.&nbsp;</strong></p> <p>Due to the extension of the wet season/summer closure, campers with impacted camping bookings, (from Friday 24 April to Thursday 30 April) who are now unable to camp at Lawn Hill Gorge camping area and Miyumba camping area will be notified.&nbsp;</p> <p>We apologise for any inconvenience this may cause. Camping bookings can be made for dates after Friday 1 May 2026, however due to the unpredictable nature of weather conditions and the impact on visitor facilities, this reopening date may be extended again. Conditions will be closely monitored, and this park alert will continue to be updated.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-17",
-      "start_effective_date": "2025-12-15",
-      "end_date": "2026-05-01",
+      "description": "Boodjamulla National Park (Aboriginal Land) is open from Friday 1 May 2026, following a seasonal closure. The Lawn Hill Gorge and Riversleigh sections will both reopen on Friday 1 May 2026.",
+      "details": "<p>Boodjamulla National Park (Aboriginal Land) is open from Friday 1 May 2026, following a seasonal closure. The Lawn Hill Gorge and Riversleigh sections will both reopen on Friday 1 May 2026.</p> <p><strong>What visitor facilities are available?</strong></p> <p>Rebuilding works, following widespread flooding, continue at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land) and visitor facilities will continue to become available as rebuilding works continue.</p> <p>From Friday 1 May, we look forward to welcoming you back to the following facilities:</p> <p><strong>Lawn Hill Gorge section</strong></p> <ul> <li>Constance Range walking track</li> <li>Duwadarri lookout walking track</li> <li>Lawn Hill Creek - paddle to Indarri Falls and return</li> <li>Lawn Hill Gorge camping area, including visitor amenities (toilets and showers). Bookings essential:<a href=\"https://book.parks.qld.gov.au/camping\"> national park camping bookings</a></li> </ul> <p>All visitor facilities at the Riversleigh section, including D site (part of the Australian Fossil Mammal Sites World Heritage Area) and Miyumba camping area will be open from <strong>Friday 1 May 2026</strong>.</p> <p><strong>For your safety</strong></p> <p>The flooding events altered the look and feel of the gorge, but it remains a stunning and culturally significant place. While the area continues to regnerate and we rebuild, your safety is our top priority.</p> <p>Please note the following at the Lawn Hill Gorge section:</p> <ul> <li><strong>Construction zones</strong>: some areas remain active construction sites and are closed to visitors. Signs, bunting and fences will mark these areas. Please follow all signs and directions from Rangers and on-site personnel.</li> <li><strong>Less shade:</strong> as creek side vegetation regenerates, shade is limited onland and on water. Plan your visit and activities carefully and carry at least 2 lites of drinking water per person per day.</li> <li><strong>Watercraft and swimming areas:</strong> entry to Lawn Hill Creek is one way in and one way out. You must exit from teh same location you entered. There is no landing at Indarri Falls</li> <li><strong>Remote location:</strong> Lawn Hill Gorge is remote and Rangers may not alway be available. Visitors must be self-sufficient, responsible for your own safety and prepared for emergencies.</li> <li><strong>Emergency contacts:</strong> for emergencies, call Triple Zero (000). Consider carrying a satellite phone or personal locator beacon (PLB).</li> </ul> <p>The Boodjamulla Cooperative Management Council (i.e. Queensland Parks and Wildlife Service and the Waanyi People) thank the local community and stakeholders for their patience and support while work continues to safely restore and rebuild flood-damanged facilities and infrastructure.</p> <p>&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-30",
+      "start_effective_date": "2026-05-01",
+      "end_date": "2026-06-30",
       "parks": [
         {
           "id": "150272",
@@ -1371,12 +1353,12 @@
       "title": "Temporary closure: Keatings Lagoon Conservation Park",
       "alert_id": "26062",
       "url": "https://parks.qld.gov.au/park-alerts/26062",
-      "description": "Due to flooding caused by Tropic Cyclone Narelle, Keatings Lagoon Conservation Park is closed to ensure visitor safety.",
-      "details": "<p>Due to flooding caused by Tropic Cyclone Narelle, Keatings Lagoon Conservation Park is closed to ensure visitor safety.</p> <p>The conservation park is expected to re-open Friday 1 May 2026.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Keatings Lagoon Conservation Park remains closed due to flooding and high water levels.",
+      "details": "<p>Keatings Lagoon Conservation Park remains closed due to flooding and high water levels.</p> <p>The conservation park including Wawu Balgal Bubu walk,&nbsp;will re-open to visitors when it is safe to do so.</p> <p>Please monitor park alerts for current information.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-03-24",
+      "start_date": "2026-04-30",
       "start_effective_date": "2026-01-06",
-      "end_date": "2026-05-01",
+      "end_date": "2026-05-15",
       "parks": [
         {
           "id": "148844",
@@ -1410,9 +1392,9 @@
       "description": "Due to recent severe weather impacts, the Bartle Frere access road at the western trailhead is closed.",
       "details": "<p>Due to recent severe weather impacts, the Bartle Frere access road at the western trailhead is closed.</p> <p>This closure includes the section of road between the park boundary gate and the Bartle Frere Trailhead.</p> <p>The trail and all camping areas remain open during this period but&nbsp;visitors must access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Monitor park alerts for up-to-date information.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-04-01",
+      "start_date": "2026-04-30",
       "start_effective_date": "2026-01-15",
-      "end_date": "2026-05-01",
+      "end_date": "2026-05-15",
       "parks": [
         {
           "id": "148468",
@@ -2629,9 +2611,9 @@
       "alert_id": "26419",
       "url": "https://parks.qld.gov.au/park-alerts/26419",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 19 April 2026 until Friday 3 July 2026, as part of the fire management and conservation program for Bowling Green Bay National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 19 April 2026 until Friday 3 July 2026, as part of the fire management and conservation program for Bowling Green Bay National Park.</p> <p>Rangers will be conducting low intensity burns throughout Cape Cleveland section and Mount Elliot section of the national park.For your safety,please heed all directions from Rangers and observe all access and warning signs.</p> <p>Mount Elliot remote bush camp, Mount Cleveland remote bush camp,Alligator Falls camping areas and Alligator trail are closed through out the period of planned burns.</p> <p>Smoke may been seen in the vicinity of Bowling Green Bay National Park from Bruce Highway,Alligator Road and Cape Cleveland Road.Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visting the park.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Monday 19 April 2026 until Friday 3 July 2026, as part of the fire management and conservation program for Bowling Green Bay National Park.</p> <p>Rangers will be conducting low intensity burns throughout Cape Cleveland section and Mount Elliot section of the national park.For your safety,please heed all directions from Rangers and observe all access and warning signs.</p> <p>Mount Elliot remote bush camp, Mount Cleveland remote bush camp,Alligator Falls camping areas and Alligator Falls trail&nbsp;will be subject to temporary closures over the period of the planned burn.</p> <p>Smoke may been seen in the vicinity of Bowling Green Bay National Park from Bruce Highway,Alligator Road and Cape Cleveland Road.Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visting the park.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2026-04-14",
+      "start_date": "2026-04-30",
       "start_effective_date": "2026-04-19",
       "end_date": "2026-07-03",
       "parks": [
@@ -2716,24 +2698,6 @@
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.qld.gov.au/parks/welford"
-        }
-      ]
-    },
-    {
-      "title": "Planned works for Minerva Hills National Park",
-      "alert_id": "26432",
-      "url": "https://parks.qld.gov.au/park-alerts/26432",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Minerva Hills National Park from 15/04/2026 to 29/04/2026 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Minerva Hills National Park from 15/04/2026 to 29/04/2026 (weather permitting).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-24",
-      "start_effective_date": "2026-04-15",
-      "end_date": "2026-04-29",
-      "parks": [
-        {
-          "id": "148953",
-          "name": "Minerva Hills National Park",
-          "url": "https://parks.qld.gov.au/parks/minerva-hills"
         }
       ]
     },
@@ -2942,24 +2906,6 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning operations: Ravenshoe State Forest 3",
-      "alert_id": "26449",
-      "url": "https://parks.qld.gov.au/park-alerts/26449",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Monday 27 April to Wednesday 29 April 2026 (dates inclusive), as part of the fire management program for Ravenshoe State Forest 3.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Monday 27 April to Wednesday 29 April 2026 (dates inclusive), as part of the fire management program for Ravenshoe State Forest 3.</p> <p>Road and track closures will be in place along Flour Dust Track, from Cemetery Road to May&rsquo;s break.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs and directions from rangers, and do not enter closed areas.</p> <p>Smoke may be seen in the vicinity of Ravenshoe and Tumoulin. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-04-23",
-      "start_effective_date": "2026-04-27",
-      "end_date": "2026-04-29",
-      "parks": [
-        {
-          "id": "322337",
-          "name": "Ravenshoe State Forest 3",
-          "url": ""
         }
       ]
     },
@@ -3260,6 +3206,101 @@
           "id": "149489",
           "name": "Palmer Goldfield Resources Reserve",
           "url": "https://parks.qld.gov.au/parks/palmer-goldfield"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure - Mount Edwards",
+      "alert_id": "26467",
+      "url": "https://parks.qld.gov.au/park-alerts/26467",
+      "description": "Access to the Mount Edwards section of Moogerah Peaks National Park is closed on Wednesday 6 May and Monday 18 May due to works in Haigh Park and the subsequent closure of Moogerah dam wall on these days by seqwater.",
+      "details": "<p>Access to the Mount Edwards section of Moogerah Peaks National Park is closed on Wednesday 6 May and Monday 18 May due to works in Haigh Park and the subsequent closure of Moogerah dam wall on these days by seqwater.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-30",
+      "start_effective_date": "2026-05-06",
+      "end_date": "2026-05-18",
+      "parks": [
+        {
+          "id": "149021",
+          "name": "Moogerah Peaks National Park",
+          "url": "https://parks.qld.gov.au/parks/moogerah-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Bunbuncundoo Springs (Ka Ka Mundi) Camping Area.",
+      "alert_id": "26468",
+      "url": "https://parks.qld.gov.au/park-alerts/26468",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Bunbuncundoo Springs (Ka Ka Mundi) Camping Area. from 30/4/2026 to 8/5/2026 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned maintenance program at Bunbuncundoo Springs (Ka Ka Mundi) Camping Area. from 30/4/2026 to 8/5/2026 (weather permitting).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-04-30",
+      "start_effective_date": "2026-04-30",
+      "end_date": "2026-05-08",
+      "parks": [
+        {
+          "id": "150244",
+          "name": "Ka Ka Mundi, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-ka-ka-mundi"
+        }
+      ]
+    },
+    {
+      "title": "Planned road maintenance: Townsville Town Common Conservation Park, Wednesday 3rd of May until Friday 6th of May (weather permitting)",
+      "alert_id": "26469",
+      "url": "https://parks.qld.gov.au/park-alerts/26469",
+      "description": "QPWS will be conducting planned maintenance on Freshwater Lagoon Road within the Townsville Town Common Conservation Park. For your safety Freshwater Lagoon Road will be closed to all vehicle traffic for the during of the maintenance.",
+      "details": "<p>QPWS will be conducting planned maintenance on Freshwater Lagoon Road within the Townsville Town Common Conservation Park. For your safety Freshwater Lagoon Road will be closed to all vehicle traffic for the during of the maintenance.</p> <p>Freshwater Lagoon road will be reopen once maintenance is completed on Friday 6th of May.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-30",
+      "start_effective_date": "2026-06-03",
+      "end_date": "2026-06-05",
+      "parks": [
+        {
+          "id": "148311",
+          "name": "Townsville Town Common Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/townsville"
+        }
+      ]
+    },
+    {
+      "title": "Planned works Woondum National Park",
+      "alert_id": "26470",
+      "url": "https://parks.qld.gov.au/park-alerts/26470",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program on access roads within Woondum National Park from 5 May to 22 May 2026 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program on access roads within Woondum National Park from 5 May to 22 May 2026 (weather permitting).</p> <p>Access to the Mothar Mountain Rock Pools will not be affected when travelling via Hill Road from Old Noosa Road.</p> <p>Roads affected (Note: these roads will be closed and will no longer be through roads for the duration of the works)</p> <ul> <li>Tablelands Road&nbsp;</li> <li>Traveston Road&nbsp;</li> <li>Madill Road&nbsp;</li> <li>Hill Road&nbsp;</li> </ul> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-04-30",
+      "start_effective_date": "2026-05-05",
+      "end_date": "2026-05-22",
+      "parks": [
+        {
+          "id": "148111",
+          "name": "Woondum National Park",
+          "url": "https://parks.qld.gov.au/parks/woondum"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn and associated temporary closures of the Cooloola Great Walk and Upper Noosa River campsites 3-15",
+      "alert_id": "26471",
+      "url": "https://parks.qld.gov.au/park-alerts/26471",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 05 and 07 May 2026 as part of the fire management program for Cooloola Recreation Area.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 05 and 07 May 2026 as part of the fire management program for Cooloola Recreation Area.</p> <p>Due to the planned burn the following areas are&nbsp;closed to public access 04-08 May 2026 inclusive:&nbsp;</p> <ul> <li>Cooloola Great Walk and campsites</li> <li>Upper Noosa River campsites 3-15</li> </ul> <p>Smoke may be seen in the vicinity of&nbsp;Cooloola and the Upper Noosa River. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Log into your account and cancel your booking to receive an automatic refund or request to change your booking to another camping area.</p> <p>QPWS thanks you for your support and cooperation.</p> <p>Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-04-30",
+      "start_effective_date": "2026-05-04",
+      "end_date": "2026-05-08",
+      "parks": [
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
         }
       ]
     }
