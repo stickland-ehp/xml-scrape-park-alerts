@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 155,
-    "script_run_time": "2026-05-01 10:59:11"
+    "alerts_count": 147,
+    "script_run_time": "2026-05-02 10:39:24"
   },
   "alerts": [
     {
@@ -1463,42 +1463,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to continued wet conditions: Lochern National Park",
-      "alert_id": "26131",
-      "url": "https://parks.qld.gov.au/park-alerts/26131",
-      "description": "Due to ongoing wet conditions Lochern National Park is temporarily closed until further notice.",
-      "details": "<p>Due to ongoing wet conditions Lochern National Park is temporarily closed until further notice.</p> <p>QPWS Rangers are monitoring the situation and conducting assessments.</p> <p>Lochern National Park will reopen when access is re-established and conditions are considered safe.</p> <p>The temporary closure includes all visitor facilities such as camping and day-use areas and vehicle access tracks.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-23",
-      "start_effective_date": "2026-01-01",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.qld.gov.au/parks/lochern"
-        }
-      ]
-    },
-    {
-      "title": "Wet season water safety information: Broadwater, Abergowrie State Forest",
-      "alert_id": "26134",
-      "url": "https://parks.qld.gov.au/park-alerts/26134",
-      "description": "During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest.",
-      "details": "<p>During the North Queensland wet season local heavy rainfall may cause significant stream rises at Broadwater, Abergowrie State Forest.</p> <p>During and after heavy rain, creek conditions change and become dangerous. Fast flowing, rapidly rising water, with strong currents, occurs. At these times, to stay safe, do not enter the water.</p> <p>Visitors are urged to use caution at all times around waterways. Always supervise children closely.<br /> <br /> Check weather conditions via the <a href=\"http://www.bom.gov.au/\">Bureau of Meteorology</a> before visiting.<br /> <br /> Read more on <a href=\"https://parks.qld.gov.au/before-you-visit/visit-with-care/safety-during-extreme-weather\">safety during extreme weather events</a>.</p>",
-      "category": "Announcement",
-      "start_date": "2026-03-13",
-      "start_effective_date": "2026-01-21",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "150260",
-          "name": "Broadwater, Abergowrie State Forest",
-          "url": "https://parks.qld.gov.au/parks/broadwater-abergowrie"
-        }
-      ]
-    },
-    {
       "title": "Partial Park closure  Cooloola Wilderness Trail: no pedestrian access across Kin Kin Creek",
       "alert_id": "26138",
       "url": "https://parks.qld.gov.au/park-alerts/26138",
@@ -2185,35 +2149,17 @@
       "title": "Prescribed Burn Closure 28 April-2 May 2026",
       "alert_id": "26366",
       "url": "https://parks.qld.gov.au/park-alerts/26366",
-      "description": "Queensland Parks and Wildlife Service Rangers will be conducting a broadscale prescribed burn from 8:00am Tuesday 28 April 2026 to 2:00pm Saturday 2 May 2026 as park of the fire management program for Blackdown Tableland National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service Rangers will be conducting a broadscale prescribed burn from 8:00am Tuesday 28 April 2026 to 2:00pm Saturday 2 May 2026 as park of the fire management program for Blackdown Tableland National Park.</p> <p>During the prescribed burn Blackdown Tableland National Park is closed to the public.</p> <p>Smoke may be seen in the vicinity of Blackwater - Rolleston Road, Charlevue Road, and Capricorn Highway between Blackwater and Bluff townships.</p> <p>Prescribed burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>During the park closure QPWS will also be conducting pest management control in accordance with Blackdown Tableland National Park Pest Animal Strategy. Firearms may be in use.</p> <p>Live air quality data, and information on smoke and dust health actions, can be found on the Queensland Government&rsquo;s website: <a href=\"https://www.qld.gov.au/environment/management/monitoring/air\">https://www.qld.gov.au/environment/management/monitoring/air</a>. &nbsp;You can stay updated with local QPWS fire activities by visiting <a href=\"https://parks.desi.qld.gov.au/park-alerts\">Park Alerts</a> or by following <a href=\"https://twitter.com/QldParkAlerts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\">Qld Park Alerts</a> on X (formerly known as Twitter).</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-01",
-      "start_effective_date": "2026-04-28",
-      "end_date": "2026-05-02",
+      "description": "Blackdown Tableland National Park has reopened to public access following planned burning along the main tableland road.",
+      "details": "<p>Blackdown Tableland National Park has reopened to public access following planned burning along the main tableland road.</p> <p>&nbsp;Although this planned burn is safe and contained, visitors may still see minimal fire activity along the roadside including smouldering logs and smoke from areas still burning internal to the park, well away from visitor sites.</p> <p>Smoke may be also evident in the tableland&#39;s remote areas from Blackwater - Rolleston Road, Charlevue Road and the Capricorn Highway between Blackwater and Bluff townships.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-05-02",
+      "start_effective_date": "2026-05-02",
+      "end_date": "2026-05-06",
       "parks": [
         {
           "id": "150224",
           "name": "Blackdown Tableland National Park",
           "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
-        }
-      ]
-    },
-    {
-      "title": "Westside Track Partial Closure",
-      "alert_id": "26369",
-      "url": "https://parks.qld.gov.au/park-alerts/26369",
-      "description": "Westside Track Partial Closure",
-      "details": "<p>Westside Track Partial Closure</p> <p>There is a partial closure of the Westside Track between the Western Window and Lawton Road as a result of tree fall and a landslip folowing recent weather events.&nbsp;</p> <p>Efforts will be made to reopen the track as soon as practicable.&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-07",
-      "start_effective_date": "2026-03-24",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -2405,24 +2351,6 @@
       ]
     },
     {
-      "title": "Temporary partial closure: parts of the Big Crystal Creek toilet block, Paluma Range National Park",
-      "alert_id": "26401",
-      "url": "https://parks.qld.gov.au/park-alerts/26401",
-      "description": "The Big Crystal Creek toilet block will undergo internal painting works in the male and female toilets from Monday 27 April to Friday 1 May 2026 (dates inclusive).",
-      "details": "<p>The Big Crystal Creek toilet block will undergo internal painting works in the male and female toilets from Monday 27 April to Friday 1 May 2026 (dates inclusive).</p> <p>Please note that one side of the toilets and showers will remain open to visitors during this time, however we kindly encourage visitors to bring their own portable toilets and showers if possible. We also ask everyone to exercise caution and be mindful of the ongoing works.</p> <p>For your safety, please adhere to all signage and follow any instructions provided by the painting team during this period.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-10",
-      "start_effective_date": "2026-04-27",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Aerial Pest Management Control Program- Curtis Island National Park, Conservation Park and State Forest.",
       "alert_id": "26406",
       "url": "https://parks.qld.gov.au/park-alerts/26406",
@@ -2587,24 +2515,6 @@
       ]
     },
     {
-      "title": "Planned burns for Nerang National Park",
-      "alert_id": "26433",
-      "url": "https://parks.qld.gov.au/park-alerts/26433",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from Monday 20 April 2026, as part of the fire management program for Nerang National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from Monday 20 April 2026, as part of the fire management program for Nerang National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of North Street, Yarrayne Road and Mt Nathan Road. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>QPWS will be conducting several planned burns as conditions allow and areas of the park may need to close to public access at short notice. These areas include:</p> <ul> <li>Velodrome Block - <strong>Wednesday 22/04/2026 to Friday 24/04/2026</strong>&nbsp; <ul> <li>Velodrome (Hope Street) entry</li> <li>Velodrome Break from emergency marker NG20 to NG21</li> <li>North Street entry</li> <li>North Street Break&nbsp;from emergency marker NG21 through NG22 and NG23 to NG24</li> <li>Castle Hill Break from&nbsp;emergency marker NG24 to NG26</li> <li>Centre Road from emergency marker NG26 to NG20</li> <li>Mountain bike trails: Casuarina Grove circuit (2), Petes (3), Three Hills (5), GC2018 Loops 1 (6), 2 (7) and 3 (8), and Casuarina Explorer Loops Short (21) and Long (22).</li> </ul> </li> <li>Yarrayne South Block - <strong>Monday 20/04/2026 to Wednesday 22/04/2026</strong>&nbsp; <ul> <li>Yarrayne Road (end) entry</li> <li>Yarrayne Break from&nbsp;emergency marker NG18 to NG17</li> <li>The area to the south of Yarrayne Break</li> </ul> </li> <li>Mt Nathan Road Block <ul> <li>Mt Nathan Road (south) entry</li> <li>Nerang Break&nbsp;</li> <li>The area from Nerang Break west to&nbsp;Mt Nathan Road</li> </ul> </li> </ul> <p>Please see the <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0016/156040/nerang-park-map.pdf\">Nerang National Park</a> and <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0028/155809/nerang-trail-map.pdf\">mountain bike trail</a> maps for information on emergency marker and mountain bike trail locations. Some breaks and trails may need to be closed after the planned burn is complete to ensure safety of park users.</p> <p>QPWS will endeavour to provide as much notice as possible ahead of these planned burns - please monitor this&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alert</a>&nbsp;for updated information.</p> <p>Smoke may be seen in the vicinity of Nerang, Gaven, Mount Nathan and surrounding areas. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-04-21",
-      "start_effective_date": "2026-04-17",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "147971",
-          "name": "Nerang National Park",
-          "url": "https://parks.qld.gov.au/parks/nerang"
-        }
-      ]
-    },
-    {
       "title": "Collins Island impacted by planned burn",
       "alert_id": "26434",
       "url": "https://parks.qld.gov.au/park-alerts/26434",
@@ -2637,42 +2547,6 @@
           "id": "148087",
           "name": "Girraween National Park",
           "url": "https://parks.qld.gov.au/parks/girraween"
-        }
-      ]
-    },
-    {
-      "title": "Temporary site closures due to wet conditions: Bladensburg National Park",
-      "alert_id": "26437",
-      "url": "https://parks.qld.gov.au/park-alerts/26437",
-      "description": "Due to wet and muddy conditions vehicle access to the following visitor sites are temporarily closed at Bladensburg National Park.",
-      "details": "<p>Due to wet and muddy conditions vehicle access to the following visitor sites are temporarily closed at Bladensburg National Park.</p> <ul> <li>Scrammy drive, Scrammy lookout and Scrammy gorge</li> </ul> <p>The visitor sites shall reopen once the road has dried out and they are safe to access.&nbsp;</p> <p>QPWS appreciates your patience and understanding with the temporary site closures.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-27",
-      "start_effective_date": "2026-04-20",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "148408",
-          "name": "Bladensburg National Park",
-          "url": "https://parks.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn, DAguilar National Park, Kobble Creek Area",
-      "alert_id": "26439",
-      "url": "https://parks.qld.gov.au/park-alerts/26439",
-      "description": "Planned burn, DAguilar National Park, Kobble Creek/Lepidozamia Area",
-      "details": "<p>Planned burn, DAguilar National Park, Kobble Creek/Lepidozamia Area</p> <p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in D&rsquo;Aguilar National Park from Tuesday, 21 April 2026 to Friday, 1 May 2026, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in Mount Glorious, Samford Valley, Cedar Creek, Closeburn, Samsonvale, Kobble Creek, Armstrong Creek, Dayboro, Laceys Creek, Mount Byron, Somerset and Dundas areas</p> <p>The following areas are restricted to the public during lighting operations and the following days; The Lepidozamia Bush Camp, The Middle Kobble Bush Camp, The North Kobble Bush Camp, Lepidozamia Break, Middle Kobble Break, Kobble North Break, Raynbird Creek Break, Lake Boundary Break, Baxter Creek Break and Chickens Break. There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility.</p> <p>For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-04-20",
-      "start_effective_date": "2026-04-21",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -2945,34 +2819,6 @@
           "id": "148291",
           "name": "Mia Mia State Forest",
           "url": "https://parks.qld.gov.au/parks/mia-mia"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Curtis Island National Park",
-      "alert_id": "26460",
-      "url": "https://parks.qld.gov.au/park-alerts/26460",
-      "description": "QPWS will conduct a planned burn in Curtis Island National Park between on Wednesday 29th April 2026 weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Gladstone, Emu Park, Rosslyn Bay and Yeppoon.",
-      "details": "<p>QPWS will conduct a planned burn in Curtis Island National Park between on Wednesday 29th April 2026 weather permitting. As a result of the planned burn, smoke may be seen in nearby areas including Gladstone, Emu Park, Rosslyn Bay and Yeppoon.</p> <p>The island is open to the public but access to some areas may be restricted, follow all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-04-27",
-      "start_effective_date": "2026-04-29",
-      "end_date": "2026-05-01",
-      "parks": [
-        {
-          "id": "322526",
-          "name": "North Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
         }
       ]
     },
