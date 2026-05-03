@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 147,
-    "script_run_time": "2026-05-02 10:39:24"
+    "alerts_count": 146,
+    "script_run_time": "2026-05-03 10:42:14"
   },
   "alerts": [
     {
@@ -1952,24 +1952,6 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure - Middle Creek Road and Tanti Track",
-      "alert_id": "26320",
-      "url": "https://parks.qld.gov.au/park-alerts/26320",
-      "description": "Middle Creek Road and the Tanti track are temporarily closed due to recent rain events, which have made road access unsafe for vehicles and visitors.",
-      "details": "<p>Middle Creek Road and the Tanti track are temporarily closed due to recent rain events, which have made road access unsafe for vehicles and visitors.</p> <p>The closure includes the following:</p> <ul> <li>Middle Creek campground</li> </ul> <p>The tracks and campground will reopen once roadworks are complete and conditions are considered safe. For campers with an existing booking upto the 22th of July 2026, please cancel and request a refund online.&nbsp;</p> <p>For your safety, do not enter the area during the closure period.</p> <p>Please adhere to all safety signage and closure barries during the closure period.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-09",
-      "start_effective_date": "2026-03-13",
-      "end_date": "2026-07-22",
-      "parks": [
-        {
-          "id": "148119",
-          "name": "Eurimbula National Park",
-          "url": "https://parks.qld.gov.au/parks/eurimbula"
         }
       ]
     },
