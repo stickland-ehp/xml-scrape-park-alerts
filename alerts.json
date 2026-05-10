@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 155,
-    "script_run_time": "2026-05-09 10:44:03"
+    "alerts_count": 154,
+    "script_run_time": "2026-05-10 10:51:42"
   },
   "alerts": [
     {
@@ -2952,29 +2952,6 @@
           "id": "148259",
           "name": "D'Aguilar National Park",
           "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
-      "title": "Planned burns: Mount Lewis National Park and Mount Windsor National Park",
-      "alert_id": "26483",
-      "url": "https://parks.qld.gov.au/park-alerts/26483",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning on Thursday 7 May 2026 (weather permitting) as part of the fire management programs for Mount Lewis National Park and Mount Windsor National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning on Thursday 7 May 2026 (weather permitting) as part of the fire management programs for Mount Lewis National Park and Mount Windsor National Park.</p> <p>Aircraft will be operating in the area during this period. Most fire activity is expected to self-extinguish each evening; however, some fire may remain active and smoke visible for 2 to 3 days following ignition. Please see below details of affected areas:</p> <p><strong>Mount Windsor National Park</strong> &ndash; Vicinity of Prospect Creek.</p> <ul> <li>No public access to this park.</li> </ul> <p><strong>Mount Lewis National Park</strong> &ndash; Vicinity of Daintree headwaters</p> <ul> <li>No visitor facility will be affected.</li> </ul> <p>Burns will continue in the area as weather and seasonal conditions allow over coming weeks and months.</p> <p>QPWS will monitor fire activity until it is out. Visitors should check Park Alerts to get up-to-date information.</p> <p>Stay up to date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-06",
-      "start_effective_date": "2026-05-07",
-      "end_date": "2026-05-09",
-      "parks": [
-        {
-          "id": "148484",
-          "name": "Mount Lewis National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-lewis"
-        },
-        {
-          "id": "322776",
-          "name": "Mount Windsor National Park",
-          "url": ""
         }
       ]
     },
