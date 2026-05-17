@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 152,
-    "script_run_time": "2026-05-16 10:52:37"
+    "alerts_count": 150,
+    "script_run_time": "2026-05-17 10:57:01"
   },
   "alerts": [
     {
@@ -2690,24 +2690,6 @@
       ]
     },
     {
-      "title": "Barakula State Forest Pest Management Program",
-      "alert_id": "26486",
-      "url": "https://parks.qld.gov.au/park-alerts/26486",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Barakula State Forest from 10/05/2026 to 16/05/2026 (weather permitting) as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Barakula State Forest from 10/05/2026 to 16/05/2026 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with South West Regions Pest Management Program and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.</p> <p>As a result, the area within the following coordinates is temporarily closed for the duration of the pest management program (Auburn Road remains open).</p> <ul> <li>(South West Corner)&nbsp;-26.5038&deg;, 150.5400&deg;</li> <li>(South East&nbsp;Corner)&nbsp;-26.5347&deg;, 150.6395&deg;</li> <li>(North East Corner) -26.3187&deg;, 150.6988&deg;</li> <li>(North West Corner)&nbsp;-26.3073&deg;, 150.5776&deg;</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-07",
-      "start_effective_date": "2026-05-10",
-      "end_date": "2026-05-16",
-      "parks": [
-        {
-          "id": "148143",
-          "name": "Barakula State Forest",
-          "url": "https://parks.qld.gov.au/parks/barakula"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure : Bluebush Drive, Lochern National Park",
       "alert_id": "26488",
       "url": "https://parks.qld.gov.au/park-alerts/26488",
@@ -2817,24 +2799,6 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
-      "title": "Temporary access restriction: Lake Eacham day-use area, Crater Lakes National Park",
-      "alert_id": "26498",
-      "url": "https://parks.qld.gov.au/park-alerts/26498",
-      "description": "Due to the Cairns Crocs triathlon event, the following visitor facilities at Lake Eacham will be closed from 6:30am to 2pm on Sunday 17 May 2026:",
-      "details": "<p>Due to the Cairns Crocs triathlon event, the following visitor facilities at Lake Eacham will be closed from 6:30am to 2pm on Sunday 17 May 2026:</p> <ul> <li>Lake Eacham day-use area</li> <li>Lake Eacham circuit track</li> <li>Lake Eacham children&rsquo;s walk</li> <li>The Lakes Drive between the lake and McLeish Road</li> <li>Lake Eacham Road.</li> </ul> <p>Event organisers, Cairns Crocs Triathlon Club have arranged traffic control during this time.</p> <p>Please observe all signage, barriers and directions from traffic controllers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-15",
-      "start_effective_date": "2026-05-17",
-      "end_date": "2026-05-17",
-      "parks": [
-        {
-          "id": "148568",
-          "name": "Crater Lakes National Park",
-          "url": "https://parks.qld.gov.au/parks/crater-lakes"
         }
       ]
     },
