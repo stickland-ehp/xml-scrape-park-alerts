@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 172,
-    "script_run_time": "2026-05-22 12:10:03"
+    "alerts_count": 163,
+    "script_run_time": "2026-05-23 11:02:29"
   },
   "alerts": [
     {
@@ -1545,24 +1545,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to wet conditions: White Mountains National Park",
-      "alert_id": "26213",
-      "url": "https://parks.qld.gov.au/park-alerts/26213",
-      "description": "Due to the impacts of recent intense rainfall which caused fallen trees, road washouts and soggy/boggy road conditions, White Mountains National Park remains closed until further notice.",
-      "details": "<p>Due to the impacts of recent intense rainfall which caused fallen trees, road washouts and soggy/boggy road conditions, White Mountains National Park remains closed until further notice.</p> <p>The closure includes:</p> <ul> <li>All vehicle access tracks and associated walking tracks.</li> <li>Canns Camp Creek camping area</li> </ul> <p>The national park will reopen when access conditions have improved, debris has been cleared and conditions are safe.&nbsp;</p> <p>We appreciate your patience and understanding with this temporary closure.</p> <p>People with camping bookings impacted by the temporary closure,&nbsp;<a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">please visit here for instructions on cancelling and receiving a camping refund.</a></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-21",
-      "start_effective_date": "2025-12-24",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "148796",
-          "name": "White Mountains National Park",
-          "url": "https://parks.qld.gov.au/parks/white-mountains"
-        }
-      ]
-    },
-    {
       "title": "Infrastructure upgrades planned for Waddy Point and Central Station - April to November 2026",
       "alert_id": "26216",
       "url": "https://parks.qld.gov.au/park-alerts/26216",
@@ -2305,24 +2287,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to wet conditions: Emu Swamp camping area, Blackbraes National Park",
-      "alert_id": "26444",
-      "url": "https://parks.qld.gov.au/park-alerts/26444",
-      "description": "Due to the impacts of recent intense rainfall which caused road washouts and soggy/boggy road conditions, access to Emu Swamp camping area remains temporarily closed.",
-      "details": "<p>Due to the impacts of recent intense rainfall which caused road washouts and soggy/boggy road conditions, access to Emu Swamp camping area remains temporarily closed.</p> <p>The closure includes:</p> <ul> <li>The national park access road to Emu Swamp camping area, and</li> <li>Emu Swamp camping area.</li> </ul> <p>We appreciate your patience and understanding with this temporary closure.</p> <p>The camping area and the associated access road will reopen once conditions have improved and are safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-04-21",
-      "start_effective_date": "2026-04-21",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "148604",
-          "name": "Blackbraes National Park",
-          "url": "https://parks.qld.gov.au/parks/blackbraes"
-        }
-      ]
-    },
-    {
       "title": "Pest Weed Control Program in Bribie Island National Park and Recreation Area",
       "alert_id": "26448",
       "url": "https://parks.qld.gov.au/park-alerts/26448",
@@ -2595,42 +2559,6 @@
       ]
     },
     {
-      "title": "Park Closure 18  22 May 2026 - Sandy Point section, Byfield National Park",
-      "alert_id": "26477",
-      "url": "https://parks.qld.gov.au/park-alerts/26477",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Byfield National Park  Sandy Point section including the adjacent intertidal zone within the Great Barrier Reef Coast Marine Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Byfield National Park  Sandy Point section including the adjacent intertidal zone within the Great Barrier Reef Coast Marine Park.</p> <p>These area&#39;s will be closed from 1am Monday 18th May 2026 to 4pm Friday 22nd May 2026 (weather permitting) as part of the conservation management program for the park. Firearms may be used during this time.</p> <p>Entering the closed areas during this time will result in Penalty Infringement Notices being issued.</p> <p>Visitor access to Sandy Point will be reopened by 4pm Friday 22nd May 2026.</p> <p>All control activities will be in accordance with the approved pest management plan and will help to protect native wildlife from the harmful effects of introduced animals.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>All other areas of Byfield National Park and will remain open, including Nine-mile beach.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-06",
-      "start_effective_date": "2026-05-18",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
-      "title": "Park Closure for pest management control 11th  22nd May 2026",
-      "alert_id": "26484",
-      "url": "https://parks.qld.gov.au/park-alerts/26484",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Mt Etna National Park. The entire National Park will be closed from 07:00am Monday 11th May 2026 to 12:00pm Friday 22nd May 2026 inclusive (weather permitting) as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Mt Etna National Park. The entire National Park will be closed from 07:00am Monday 11th May 2026 to 12:00pm Friday 22nd May 2026 inclusive (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with Mount Etna Pest Animal Plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals. Firearms may be used during this period. As a result, the following areas are temporarily closed for the duration of the pest management program: The Entire Mount Etna National Park area, including</p> <ul> <li>Cammoo day use area, toilets and information shelter</li> <li>Cammoo circuit walking track</li> <li>Mount Etna walking track</li> </ul> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-06",
-      "start_effective_date": "2026-05-11",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "149405",
-          "name": "Mount Etna Caves National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-etna-caves"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial closure : Bluebush Drive, Lochern National Park",
       "alert_id": "26488",
       "url": "https://parks.qld.gov.au/park-alerts/26488",
@@ -2758,34 +2686,6 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burns - South Cumberland Islands, Newry Islands and Percy Isles National Park",
-      "alert_id": "26499",
-      "url": "https://parks.qld.gov.au/park-alerts/26499",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on Penrith Island, Rabbit Island, Sphinx Island and Pine Islet. These burns will be conducted from Monday 18th May 2026 to Fri 22nd May 2026 as part of the fire management program for South Cumberland Islands, Newry Islands and Percy Isles National Park. Fire will be ignited with an aircraft. Smoke may be seen in the vicinity of South Cumberland, Newry and Percy Isles National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. During the planned burns these areas are closed to public access: Penrith Island Campground - Penrith Island, Tugs Point Campground - Rabbit Island. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please obey all fire restrictions. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on Penrith Island, Rabbit Island, Sphinx Island and Pine Islet. These burns will be conducted from Monday 18th May 2026 to Fri 22nd May 2026 as part of the fire management program for South Cumberland Islands, Newry Islands and Percy Isles National Park. Fire will be ignited with an aircraft. Smoke may be seen in the vicinity of South Cumberland, Newry and Percy Isles National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. During the planned burns these areas are closed to public access: Penrith Island Campground - Penrith Island, Tugs Point Campground - Rabbit Island. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please obey all fire restrictions. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p><a href=\"https://www.publications.qld.gov.au/ckan-publications-attachments-prod/resources/da2c5dc4-fe91-46a7-b495-4e69eb607081/advice-prescribed-burning-central-queensland-islands-18.05.2026.pdf?ETag=82d40e9a16de73fe834d8bdf5186c603\">Notice to Mariners - Advice</a></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-05-11",
-      "start_effective_date": "2026-05-18",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "148737",
-          "name": "Newry Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/newry-islands"
-        },
-        {
-          "id": "151351",
-          "name": "South Cumberland Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/south-cumberland-islands"
-        },
-        {
-          "id": "148780",
-          "name": "Mackay Islands National Parks",
-          "url": "https://parks.qld.gov.au/parks/mackay-islands"
         }
       ]
     },
@@ -2938,60 +2838,6 @@
       ]
     },
     {
-      "title": "Daisy Hill Conservation Park - Temporary Mountain Bike Trail closure",
-      "alert_id": "26509",
-      "url": "https://parks.qld.gov.au/park-alerts/26509",
-      "description": "Park users are advised all Mountain Bike Trails are temporarily closed in the Daisy Hill Conservation Park",
-      "details": "<p>Park users are advised all Mountain Bike Trails are temporarily closed in the Daisy Hill Conservation Park</p> <p>Due to heavy rainfall, the Daisy Hill Mountain Bike Trails are temporarily closed until the afternoon of 22/05/26.&nbsp;</p> <p>All trails will be reopened for the weekend of the 23rd and 24th of May.&nbsp;</p> <p>Please observe closure signage at the trail entrance. Closures during wet periods reduce overall trail surface damage.&nbsp;</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-21",
-      "start_effective_date": "2026-05-14",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
-      "title": "Roadside planned burn operations: Forty Mile Scrub National Park",
-      "alert_id": "26512",
-      "url": "https://parks.qld.gov.au/park-alerts/26512",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting roadside planned burn operations at Forty Mile Scrub National Park from Monday 18 May to Friday 22 May 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting roadside planned burn operations at Forty Mile Scrub National Park from Monday 18 May to Friday 22 May 2026 (dates inclusive).</p> <p>During this period sections of the park and Kennedy Highway will be impacted by smoke hazards. Road Tek traffic control will be operating in the area. Please drive to conditions.</p> <p>If visiting Forty Mile Scrub National Park, observe all signs, barriers, and directions from QPWS rangers and never enter closed areas.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats.</p> <p>These planned burn operations aim to help the park recover from the 2019 bushfires by reducing future bushfire risk and intensity in fire-sensitive plant communities, including vine thickets and eucalypt forests around the vine thickets, as they continue to regenerate.&nbsp; They also aim to mitigate the risk and intensity of bushfires and their potential impacts on neighbours, communities, infrastructure, parks, and forests.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-14",
-      "start_effective_date": "2026-05-18",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "149441",
-          "name": "Forty Mile Scrub National Park",
-          "url": "https://parks.qld.gov.au/parks/forty-mile-scrub"
-        }
-      ]
-    },
-    {
-      "title": "Maintenance works: Dubuji day-use area and Avalon track, Cape Tribulation, Daintree National Park (CYPAL)",
-      "alert_id": "26513",
-      "url": "https://parks.qld.gov.au/park-alerts/26513",
-      "description": "Maintenance works will be carried out at Dubuji day-use area and Avalon track, Cape Tribulation, on Thursday 21 May and Friday 22 May 2026.",
-      "details": "<p>Maintenance works will be carried out at Dubuji day-use area and Avalon track, Cape Tribulation, on Thursday 21 May and Friday 22 May 2026.</p> <p>During this period all visitor facilities will remain open but contractors will be onsite at&nbsp;the day-use area and the walkway from Dubuji car park to the Avalon amenity block (Avalon track).</p> <p>Please observe all signage, barriers and directions from rangers and contractors.</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-14",
-      "start_effective_date": "2026-05-21",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "148131",
-          "name": "Daintree National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
       "title": "Planned works program: Elizabeth Springs Conservation Park",
       "alert_id": "26514",
       "url": "https://parks.qld.gov.au/park-alerts/26514",
@@ -3006,24 +2852,6 @@
           "id": "149425",
           "name": "Elizabeth Springs Conservation Park",
           "url": "https://parks.qld.gov.au/parks/elizabeth-springs"
-        }
-      ]
-    },
-    {
-      "title": "Infrastructure Oiling  South Whitehaven and Nara Inlet",
-      "alert_id": "26515",
-      "url": "https://parks.qld.gov.au/park-alerts/26515",
-      "description": "Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at South Whitehaven beach and Nara Inlet, from 20/05/2026 to 22/05/2026 (weather dependent) During this period:  Sections of the lookout platforms and surrounding day-use areas and toilets may be temporarily closed.  Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway. For further updates, please monitor park alerts and plan your visit accordingly. For more information, please contact 07 4962 5205",
-      "details": "<p>Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at South Whitehaven beach and Nara Inlet, from 20/05/2026 to 22/05/2026 (weather dependent) During this period:  Sections of the lookout platforms and surrounding day-use areas and toilets may be temporarily closed.  Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway. For further updates, please monitor park alerts and plan your visit accordingly. For more information, please contact 07 4962 5205</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-15",
-      "start_effective_date": "2026-05-20",
-      "end_date": "2026-05-22",
-      "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     },
