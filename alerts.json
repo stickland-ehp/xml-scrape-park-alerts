@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2026-05-23 11:02:29"
+    "alerts_count": 160,
+    "script_run_time": "2026-05-24 11:04:20"
   },
   "alerts": [
     {
@@ -3084,24 +3084,6 @@
       ]
     },
     {
-      "title": "Planned burn operations: Big Millstream area, Millstream Falls National Park",
-      "alert_id": "26536",
-      "url": "https://parks.qld.gov.au/park-alerts/26536",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Thursday 21 May to Saturday 23 May 2026 (dates inclusive), as part of the fire management program for Millstream Falls National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Thursday 21 May to Saturday 23 May 2026 (dates inclusive), as part of the fire management program for Millstream Falls National Park.</p> <p>The following closures will be in place on Thursday 21 May 2026, as part of these operations:</p> <ul> <li>Kennedy Highway restricted to single lane from Millstream crossing (Tall Timbers Roadhouse) for 7km to Snubby Creek</li> <li>Millstream Falls Road</li> <li>Big Millstream Falls day-use area</li> <li>Big Millstream Falls lookout</li> <li>World War II heritage track.</li> </ul> <p>The facilities at Little Millstream day-use area, Millstream Falls National Park are not affected by this burn and will remain open.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs and directions from rangers, and do not enter closed areas.</p> <p>Smoke may be seen in the vicinity of Ravenshoe and Millstream. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-20",
-      "start_effective_date": "2026-05-21",
-      "end_date": "2026-05-23",
-      "parks": [
-        {
-          "id": "149457",
-          "name": "Millstream Falls National Park",
-          "url": "https://parks.qld.gov.au/parks/millstream-falls"
-        }
-      ]
-    },
-    {
       "title": "Drive with caution: Warracoota circuit drive, Diamantina National Park",
       "alert_id": "26537",
       "url": "https://parks.qld.gov.au/park-alerts/26537",
@@ -3197,24 +3179,6 @@
       ]
     },
     {
-      "title": "Planned burn operations: Ngalba-bulal National Park (CYPAL)",
-      "alert_id": "26543",
-      "url": "https://parks.qld.gov.au/park-alerts/26543",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Ngalba-bulal National Park (CYPAL) on the 21 May 2026. Aircraft will be operating in the area during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning in Ngalba-bulal National Park (CYPAL) on the 21 May 2026. Aircraft will be operating in the area during this period.</p> <p><strong>Ngalba-bulal National Park (CYPAL) is currently closed to the public.</strong></p> <p>Most fire activity is expected to self-extinguish each evening, however, some fire may remain active and smoke visible for 2 to 3 days following ignition. Burning will continue in the area as weather and seasonal conditions allow over coming weeks and months. QPWS will monitor fire activity until it is out.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-05-20",
-      "start_effective_date": "2026-05-21",
-      "end_date": "2026-05-23",
-      "parks": [
-        {
-          "id": "148231",
-          "name": "Ngalba-bulal National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/ngalba-bulal"
-        }
-      ]
-    },
-    {
       "title": "Leeches - Ravensbourne National Park",
       "alert_id": "26544",
       "url": "https://parks.qld.gov.au/park-alerts/26544",
@@ -3229,24 +3193,6 @@
           "id": "148576",
           "name": "Ravensbourne National Park",
           "url": "https://parks.qld.gov.au/parks/ravensbourne"
-        }
-      ]
-    },
-    {
-      "title": "Organised event: Davies Creek Mountain Bike Park, Dinden West Forest Reserve and Dinden State Forest",
-      "alert_id": "26545",
-      "url": "https://parks.qld.gov.au/park-alerts/26545",
-      "description": "On Saturday 23 May 2026 between 2pm and 10pm, Adventure Sport NQ will be holding an organised event at Davies Creek Mountain Bike Park.",
-      "details": "<p>On Saturday 23 May 2026 between 2pm and 10pm, Adventure Sport NQ will be holding an organised event at Davies Creek Mountain Bike Park.</p> <p>The mountain bike park will remain open to all visitors during this period, however visitors are advised that up to 400 people are anticipated to participate in this event.</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-21",
-      "start_effective_date": "2026-05-23",
-      "end_date": "2026-05-23",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     },
