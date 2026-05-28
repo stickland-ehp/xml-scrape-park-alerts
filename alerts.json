@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2026-05-27 12:44:54"
+    "alerts_count": 174,
+    "script_run_time": "2026-05-28 12:58:59"
   },
   "alerts": [
     {
@@ -91,34 +91,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Mt Allan fire tower closed to climbing",
-      "alert_id": "21110",
-      "url": "https://parks.qld.gov.au/park-alerts/21110",
-      "description": "Mt Allan fire tower in Conondale National Park is temporarily closed to climbing. An engineering report has indicated the tower is not suitable for public access. The tower will be closed to all access until further notice.",
-      "details": "<p>Mt Allan fire tower in Conondale National Park is temporarily closed to climbing. An engineering report has indicated the tower is not suitable for public access. The tower will be closed to all access until further notice.</p> <p>The walking track from Charlie Moreland camping area to the tower is open to the public.</p> <p>The walking track from Booloumba Creek areas&nbsp;to Mt Allan remains open to the public.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-05-28",
-      "start_effective_date": "2024-04-29",
-      "end_date": "2026-05-27",
-      "parks": [
-        {
-          "id": "147991",
-          "name": "Imbil State Forest",
-          "url": "https://parks.qld.gov.au/parks/imbil"
-        },
-        {
-          "id": "148043",
-          "name": "Conondale National Park",
-          "url": "https://parks.qld.gov.au/parks/conondale"
-        },
-        {
-          "id": "152865",
-          "name": "Conondale Range Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-conondale-range"
         }
       ]
     },
@@ -334,12 +306,12 @@
       "title": "Section of Fig Tree walk closed.",
       "alert_id": "24582",
       "url": "https://parks.qld.gov.au/park-alerts/24582",
-      "description": "Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 30 June 2026 due to structural instability.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 30 June 2026 due to structural instability.</p> <p>The following areas are closed for the duration of the closure period:</p> <ul> <li>Section of track from the end of the boardwalk at the large fig clockwise to the creek</li> <li>The entire third section of boardwalk</li> </ul> <p>The remaining section of walking track around the large fig and anticlockwise to the creek is open and can be walked by returning along the same track.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 31 July 2026 due to structural instability.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) has temporarily closed a section of the Imbil State Forest Fig Tree Walk from 1 July 2025 to 31 July 2026 due to structural instability.</p> <p>The following areas are closed for the duration of the closure period:</p> <ul> <li>Section of track from the end of the boardwalk at the large fig clockwise to the creek</li> <li>The entire third section of boardwalk</li> </ul> <p>The remaining section of walking track around the large fig and anticlockwise to the creek is open and can be walked by returning along the same track.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators are not permitted to enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-05-12",
+      "start_date": "2026-05-28",
       "start_effective_date": "2025-01-06",
-      "end_date": "2026-06-30",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "147991",
@@ -1072,9 +1044,9 @@
       "description": "Deep hole formations which may restrict access to and from Double Island Point",
       "details": "<p>Deep hole formations which may restrict access to and from Double Island Point</p> <p>Regular sand movement within the saltwater lagoon at Double Island Point often results in the formation of deep holes. These natural changes can prevent vehicles from accessing the Double Island Point (Wide Bay side), the sandspit or travelling through to Rainbow Beach at any tide. This is a natural process within the Great Sandy National Park, where all environments are protected and natural coastal processes are allowed to occur.</p> <p>Queensland Parks and Wildife Service maintains safe access to the beaches via the Freshwater Track and the Leisha Track.</p> <p>Always drive the beaches within the Great Sandy National Park to the prevailing conditions.&nbsp;</p> <p>Drive two hours either side of low tide. If you are uncertain as to the depth or condition of any hole at any time - do not drive through it.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p>",
       "category": "Announcement",
-      "start_date": "2026-03-03",
+      "start_date": "2026-05-28",
       "start_effective_date": "2025-12-05",
-      "end_date": "2026-06-05",
+      "end_date": "2026-12-05",
       "parks": [
         {
           "id": "148183",
@@ -1258,24 +1230,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Keatings Lagoon Conservation Park",
-      "alert_id": "26062",
-      "url": "https://parks.qld.gov.au/park-alerts/26062",
-      "description": "Keatings Lagoon Conservation Park remains closed due to flooding and high water levels.",
-      "details": "<p>Keatings Lagoon Conservation Park remains closed due to flooding and high water levels.</p> <p>The conservation park including Wawu Balgal Bubu walk,&nbsp;will re-open to visitors when it is safe to do so.</p> <p>Please monitor park alerts for current information.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-14",
-      "start_effective_date": "2026-01-06",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "148844",
-          "name": "Keatings Lagoon Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/keatings-lagoon"
-        }
-      ]
-    },
-    {
       "title": "Partial facility closure: Broadwater camping area, Abergowrie State Forest",
       "alert_id": "26063",
       "url": "https://parks.qld.gov.au/park-alerts/26063",
@@ -1320,12 +1274,12 @@
       "title": "Safety Alert - Fallen trees and planned works on Conondale Range Great Walk",
       "alert_id": "26102",
       "url": "https://parks.qld.gov.au/park-alerts/26102",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a maintenance program on the Conondale Range Great Walk from 1 May to 30 June (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a maintenance program on the Conondale Range Great Walk from 1 May to 30 June (weather permitting).</p> <p>Multiple fallen trees have blocked sections of the track making the route difficult to navigate in places. The following areas will have changed conditions for the duration of the maintenance program:</p> <ul> <li>Wongai walkers camp to Tallowwood walkers camp</li> <li>Tallowwood walkers camp to Summer Falls walkers camp.</li> </ul> <p>The track may close during operations or severe weather events.</p> <p>Please take extra care when negotiating around fallen obstacles to ensure you get back on track.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a maintenance program on the Conondale Range Great Walk from 1 May to 31 July (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a maintenance program on the Conondale Range Great Walk from 1 May to 31 July (weather permitting).</p> <p>Multiple fallen trees have blocked sections of the track making the route difficult to navigate in places. The following areas will have changed conditions for the duration of the maintenance program:</p> <ul> <li>Wongai walkers camp to Tallowwood walkers camp</li> <li>Tallowwood walkers camp to Summer Falls walkers camp.</li> </ul> <p>The track may close during operations or severe weather events.</p> <p>Please take extra care when negotiating around fallen obstacles to ensure you get back on track.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
       "category": "Announcement",
-      "start_date": "2026-04-27",
+      "start_date": "2026-05-28",
       "start_effective_date": "2026-01-13",
-      "end_date": "2026-05-31",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "147991",
@@ -1600,24 +1554,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Planned works for Mt Coolum Public Amenities",
-      "alert_id": "26227",
-      "url": "https://parks.qld.gov.au/park-alerts/26227",
-      "description": "Sunshine Coast Council will begin construction of the Mt Coolum Public Amenities, on the council estate, at the entrance to Mt Coolum National Park.",
-      "details": "<p>Sunshine Coast Council will begin construction of the Mt Coolum Public Amenities, on the council estate, at the entrance to Mt Coolum National Park.</p> <p>Construction is expected to start Monday 2 March 2026 and finish mid May 2026, weather and site conditions permitting.</p> <p>Council will make every effort to minimise construction impacts, but due to the nature of the works some parking spaces in the carpark may not be availabe during construction.</p> <p><strong>The walking track to the summit of Mt Coolum will remain open during this time.</strong></p> <p>For enquires contact Sunshine Coast Council - Email: customerservice@sunshinecoast.qld.gov.au. Ph: 07 54757272</p> <p>&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2026-02-20",
-      "start_effective_date": "2026-03-02",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "148572",
-          "name": "Mount Coolum National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-coolum"
         }
       ]
     },
@@ -2077,12 +2013,12 @@
       "title": "Planned burns: Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.",
       "alert_id": "26391",
       "url": "https://parks.qld.gov.au/park-alerts/26391",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Thursday 09 April 2026 until Tuesday 30 June 2026, as part of the fire management and conservation program for Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Thursday 09 April 2026 until Tuesday 30 June 2026, as part of the fire management and conservation program for Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.</p> <p>Rangers will be conducting low intensity burns throughout the parks. For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Smoke may be seen in the vicinity of the conservation parks plus Cape Pallarenda Road and Ingham Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Thursday 28 April 2026 until Friday 31 July 2026, as part of the fire management and conservation program for Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) as of Thursday 28 April 2026 until Friday 31 July 2026, as part of the fire management and conservation program for Townsville Town Common Conservation Park and Cape Pallarenda Conservation Park.</p> <p>Rangers will be conducting low intensity burns throughout the parks. For your safety, please heed all directions from Rangers and observe all access signs and warnings.</p> <p>Smoke may be seen in the vicinity of the conservation parks plus Cape Pallarenda Road and Ingham Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2026-04-08",
-      "start_effective_date": "2026-04-09",
-      "end_date": "2026-05-29",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-04-28",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "148311",
@@ -2610,29 +2546,6 @@
       ]
     },
     {
-      "title": "Currawinya &amp; Lake Bindegolly National Parks Pest Management Control Program",
-      "alert_id": "26494",
-      "url": "https://parks.qld.gov.au/park-alerts/26494",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Currawinya &amp; Lake Bindegolly National Parks from Tuesday 19th of May to Wednesday 27th of May (weather permitting) as part of the conservation management program for the parks.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Currawinya &amp; Lake Bindegolly National Parks from Tuesday 19th of May to Wednesday 27th of May (weather permitting) as part of the conservation management program for the parks.</p> <p>All control activities are conducted in accordance with the Currawinya Pest Animal Control plan and help to protect native plants and wildlife from the harmful effects of introduced animals.</p> <p>Currawinya National Park and Lake Bindegolly National Park will be closed to public access for the duration of the pest management program.&nbsp;</p> <p>As a result, the following areas are temporarily closed for the duration of the pest management program:<br /> &bull; &nbsp; All camping and day-use areas&nbsp;<br /> &bull; &nbsp; All vehicle and walking tracks&nbsp;<br /> &nbsp;<br /> The Hungerford- Eulo Road will remain open to traffic.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-15",
-      "start_effective_date": "2026-05-19",
-      "end_date": "2026-05-27",
-      "parks": [
-        {
-          "id": "148323",
-          "name": "Currawinya National Park",
-          "url": "https://parks.qld.gov.au/parks/currawinya"
-        },
-        {
-          "id": "148761",
-          "name": "Lake Bindegolly National Park",
-          "url": "https://parks.qld.gov.au/parks/lake-bindegolly"
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Barakula State Forest",
       "alert_id": "26495",
       "url": "https://parks.qld.gov.au/park-alerts/26495",
@@ -2792,12 +2705,12 @@
       "title": "Temporary closure: Goldsborough Valley section, Wooroonooran National Park",
       "alert_id": "26507",
       "url": "https://parks.qld.gov.au/park-alerts/26507",
-      "description": "Due recent wet weather Wooroonooran National Park, Goldsborough Valley section is temporarily closed until declared safe.",
-      "details": "<p>Due recent wet weather Wooroonooran National Park, Goldsborough Valley section is temporarily closed until declared safe.</p> <p>This temporary closure includes:</p> <ul> <li>Goldsborough Valley Bora Ground camping area</li> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley day-use area</li> <li>Section of Goldfield Trail between Goldsborough Valley day-use area and Mulgrave River (Goldfield Trail) camping area</li> <li>Mulgrave River (Goldfield Trail) camping area.</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Start emergent works on sections of the entrance road.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>For campers with an existing booking between Tuesday 12 May and Friday 29 May 2026, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online for your existing camping booking.</p> <p>Please monitor park alerts for the&nbsp;latest information on access, closures and conditions.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings(external link)</a>.</p> <p>Please monitor&nbsp;<a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a>&nbsp;for updated information regarding road and traffic conditions.</p>",
+      "description": "Due recent wet weather Wooroonooran National Park, Goldsborough Valley section is temporarily closed and will reopen on Tuesday 2 June 2026.",
+      "details": "<p>Due recent wet weather Wooroonooran National Park, Goldsborough Valley section is temporarily closed and will reopen on Tuesday 2 June 2026.</p> <p>This temporary closure includes:</p> <ul> <li>Goldsborough Valley Bora Ground camping area</li> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley day-use area</li> <li>Section of Goldfield Trail between Goldsborough Valley day-use area and Mulgrave River (Goldfield Trail) camping area</li> <li>Mulgrave River (Goldfield Trail) camping area.</li> </ul> <p>This closure is necessary to:</p> <ul> <li>Ensure visitor safety.</li> <li>Start emergent works on sections of the entrance road.</li> <li>Prevent further damage to track and road surfaces and associated infrastructure.</li> <li>Allow rangers to assess impacts and undertake necessary works.</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>For campers with an existing booking between Tuesday 12 May and Monday 1 June 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online for your existing camping booking.</p> <p>Please monitor park alerts for the&nbsp;latest information on access, closures and conditions.</p> <p>Stay up to date with&nbsp;<a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings(external link)</a>.</p> <p>Please monitor&nbsp;<a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a>&nbsp;for updated information regarding road and traffic conditions.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-05-19",
+      "start_date": "2026-05-28",
       "start_effective_date": "2026-05-12",
-      "end_date": "2026-05-29",
+      "end_date": "2026-06-01",
       "parks": [
         {
           "id": "151367",
@@ -2904,21 +2817,16 @@
       ]
     },
     {
-      "title": "Temporary Closure : Lochern, Idalia and Welford National Parks",
+      "title": "Temporary Closure : Lochern and Idalia National Parks",
       "alert_id": "26522",
       "url": "https://parks.qld.gov.au/park-alerts/26522",
-      "description": "Idalia, Lochern and Welford National Parks are temporarily closed due to wet conditions until Friday 29 May 2026 (inclusive) when conditions will be reviewed.",
-      "details": "<p>Idalia, Lochern and Welford National Parks are temporarily closed due to wet conditions until Friday 29 May 2026 (inclusive) when conditions will be reviewed.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Idalia and Lochern National Parks are temporarily closed due to wet conditions until Friday 29 May 2026 (inclusive) when conditions will be reviewed.",
+      "details": "<p>Idalia and Lochern National Parks are temporarily closed due to wet conditions until Friday 29 May 2026 (inclusive) when conditions will be reviewed.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-05-18",
+      "start_date": "2026-05-28",
       "start_effective_date": "2026-05-18",
       "end_date": "2026-05-29",
       "parks": [
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.qld.gov.au/parks/welford"
-        },
         {
           "id": "148031",
           "name": "Idalia National Park",
@@ -2987,6 +2895,24 @@
           "id": "149465",
           "name": "Ex-HMAS Brisbane Conservation Park",
           "url": "https://parks.qld.gov.au/parks/ex-hmas-brisbane"
+        }
+      ]
+    },
+    {
+      "title": "Road access maintenance: Graham Range camping area, Russell River National Park",
+      "alert_id": "26530",
+      "url": "https://parks.qld.gov.au/park-alerts/26530",
+      "description": "Visitors are advised that rangers will be undertaking maintenance works along the access road to Graham Range camping area, Russell River National Park, from Monday 1 June to Friday 5 June 2026 (dates inclusive).",
+      "details": "<p>Visitors are advised that rangers will be undertaking maintenance works along the access road to Graham Range camping area, Russell River National Park, from Monday 1 June to Friday 5 June 2026 (dates inclusive).</p> <p>Please slow down, follow all directions from rangers, observe signs and drive with caution as machinery will be working along the road.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-06-01",
+      "end_date": "2026-06-05",
+      "parks": [
+        {
+          "id": "148880",
+          "name": "Russell River National Park",
+          "url": "https://parks.qld.gov.au/parks/russell-river"
         }
       ]
     },
@@ -3233,9 +3159,9 @@
       "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
       "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-05-25",
+      "start_date": "2026-05-28",
       "start_effective_date": "2026-05-25",
-      "end_date": "2026-05-29",
+      "end_date": "2026-06-03",
       "parks": [
         {
           "id": "148199",
@@ -3302,35 +3228,17 @@
       "title": "Partial closure of Wanggoolba Creek Boardwalk",
       "alert_id": "26556",
       "url": "https://parks.qld.gov.au/park-alerts/26556",
-      "description": "Visitors are advised that a large tree has fallen across the Wanggoolba Creek Boardwalk. The boardwalk is still accessible from the eastern section.",
-      "details": "<p>Visitors are advised that a large tree has fallen across the Wanggoolba Creek Boardwalk. The boardwalk is still accessible from the eastern section.</p> <p>Queensland Parks and Wildlife Service Rangers are working to rectify access, and the boardwalk will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from Rangers and do not enter closed tracks.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "description": "Visitors are advised that a large tree has fallen across the Wanggoolba Creek Boardwalk. The boardwalk is still accessible from the western section as an out-and-back walk.",
+      "details": "<p>Visitors are advised that a large tree has fallen across the Wanggoolba Creek Boardwalk. The boardwalk is still accessible from the western section as an out-and-back walk.</p> <p>Queensland Parks and Wildlife Service Rangers are working to rectify access, and the boardwalk will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from Rangers and do not enter closed tracks.</p> <p><strong>Pile Valley circuit is still open</strong></p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-05-25",
+      "start_date": "2026-05-28",
       "start_effective_date": "2026-05-25",
-      "end_date": "2026-06-01",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn - Auburn River National Park",
-      "alert_id": "26557",
-      "url": "https://parks.qld.gov.au/park-alerts/26557",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) during 26 May - 27 May 2026, as part of the fire management program for Auburn River National Park",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) during 26 May - 27 May 2026, as part of the fire management program for Auburn River National Park</p> <p>Smoke may be seen in the vicinity of Auburn River National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>QPWS Rangers and machinery may be working along roadsides. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-05-25",
-      "start_effective_date": "2026-05-26",
-      "end_date": "2026-05-27",
-      "parks": [
-        {
-          "id": "148476",
-          "name": "Auburn River National Park",
-          "url": "https://parks.qld.gov.au/parks/auburn-river"
         }
       ]
     },
@@ -3371,15 +3279,15 @@
       ]
     },
     {
-      "title": "Temporary facility closures: toilets and camping areas, Speewah Conservation Park",
+      "title": "Upcoming temporary facility closures: toilets and camping areas, Speewah Conservation Park",
       "alert_id": "26560",
       "url": "https://parks.qld.gov.au/park-alerts/26560",
-      "description": "Visitors are advised that the toilets at Speewah camping area, Speewah Conservation Park, will be temporarily closed on Thursday 28 May to Friday 29 May 2026 (inclusive) due to construction and maintenance works.",
-      "details": "<p>Visitors are advised that the toilets at Speewah camping area, Speewah Conservation Park, will be temporarily closed on Thursday 28 May to Friday 29 May 2026 (inclusive) due to construction and maintenance works.</p> <p>Due to the toilet closure, the Speewah (multi-use sites) and Speewah (tent only sites)<strong> camping areas</strong>, Speewah Conservation Park,&nbsp;will be <strong>temporarily closed for the night of Thursday 28 May 2026</strong>.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>For campers with an existing booking on Thursday 28 May 2026, please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a>&nbsp;and request a refund online for your existing camping booking.</p> <p>The following areas will remain open during this period:</p> <ul> <li>Speewah day-use area</li> <li>Djina-Wu track</li> <li>Access to the park via the Douglas and Smiths tracks</li> </ul> <p>Visitors should note that there will be no toilet facilities available during the closure period.</p> <p>Please abide by any closure signs and barricades in place.</p>",
+      "description": "Visitors are advised that the toilets at Speewah camping area, Speewah Conservation Park, will be temporarily closed on Wednesday 10 June and Thursday 11 June 2026 due to construction and maintenance works.",
+      "details": "<p>Visitors are advised that the toilets at Speewah camping area, Speewah Conservation Park, will be temporarily closed on Wednesday 10 June and Thursday 11 June 2026 due to construction and maintenance works.</p> <p>Due to the toilet closure, the Speewah (multi-use sites) and Speewah (tent only sites) camping areas&nbsp;will be temporarily closed from Tuesday 9 June to Thursday 11 June 2026 (dates inclusive) .&nbsp;</p> <p>The following areas will remain open during this period:</p> <ul> <li>Speewah day-use area</li> <li>Djina-Wu track</li> <li>Access to the park via the Douglas and Smiths tracks</li> </ul> <p>Visitors should note that there will be no toilet facilities available during the closure period.</p> <p>Please abide by any closure signs and barricades in place.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-05-25",
-      "start_effective_date": "2026-05-28",
-      "end_date": "2026-05-29",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-06-09",
+      "end_date": "2026-06-11",
       "parks": [
         {
           "id": "148548",
@@ -3534,6 +3442,162 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Ocean View Track Closure - Wet Weather",
+      "alert_id": "26569",
+      "url": "https://parks.qld.gov.au/park-alerts/26569",
+      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
+      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-05-28",
+      "end_date": "2026-05-29",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Culgoa Floodplain National Park Pest Management Program",
+      "alert_id": "26570",
+      "url": "https://parks.qld.gov.au/park-alerts/26570",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Culgoa Floodplain National Park from 28/05/2026 to 12/06/2026 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Culgoa Floodplain National Park from 28/05/2026 to 12/06/2026 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with&nbsp;the Culgoa Floodplain National Park Pest Management Plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please avoid interaction with the wildlife.</p>",
+      "category": "Announcement",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-05-28",
+      "end_date": "2026-06-12",
+      "parks": [
+        {
+          "id": "149497",
+          "name": "Culgoa Floodplain National Park",
+          "url": "https://parks.qld.gov.au/parks/culgoa-floodplain"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Conondale National Park",
+      "alert_id": "26571",
+      "url": "https://parks.qld.gov.au/park-alerts/26571",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Scenic Drive -&nbsp;Booloumba Creek Road from&nbsp;Booloumba Creek 4 camping area to Booloumba Falls carpark.</li> <li>Scenic Drive - Funnels Hut Road from Sunday Creek Road to Booloumba Falls carpark.</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-05-27",
+      "end_date": "2026-06-02",
+      "parks": [
+        {
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.qld.gov.au/parks/imbil"
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Welford National Park",
+      "alert_id": "26572",
+      "url": "https://parks.qld.gov.au/park-alerts/26572",
+      "description": "Welford National Park is temporarily closed due to wet conditions until Wednesday 3 June 2026 (inclusive) when conditions will be reviewed.",
+      "details": "<p>Welford National Park is temporarily closed due to wet conditions until Wednesday 3 June 2026 (inclusive) when conditions will be reviewed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-05-18",
+      "end_date": "2026-06-03",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn season: Rinyirru (Lakefield) National Park (CYPAL), Lama Lama National Park (CYPAL) and Cape Melville National Park (CYPAL)",
+      "alert_id": "26573",
+      "url": "https://parks.qld.gov.au/park-alerts/26573",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned ground and aerial burns within Rinyirru (Lakefield) National Park (CYPAL), Cape Melville National Park (CYPAL) and Lama Lama National Park (CYPAL) between 28 May and 31 July 2026 (dates inclusive). These burns are part of the annual conservation management and hazard reduction program for parks and forests. As a result, smoke, firefighters, aircraft and machinery may be seen throughout these parks and surrounding areas.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned ground and aerial burns within Rinyirru (Lakefield) National Park (CYPAL), Cape Melville National Park (CYPAL) and Lama Lama National Park (CYPAL) between 28 May and 31 July 2026 (dates inclusive). These burns are part of the annual conservation management and hazard reduction program for parks and forests. As a result, smoke, firefighters, aircraft and machinery may be seen throughout these parks and surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;</p> <p>The aim of these burns is to&nbsp;maintain&nbsp;a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p><strong>Please&nbsp;note:&nbsp;</strong>closures and access restrictions may also be implemented during this&nbsp;period. For the latest information on all park conditions, check all park alerts on individual park pages <a href=\"https://parks.qld.gov.au/parks/rinyirru-lakefield\">Rinyirru (Lakefield) National Park (CYAPL)</a>,&nbsp;<a href=\"https://parks.qld.gov.au/parks/cape-melville\">Cape Melville National Park (CYPAL)</a>, <a href=\"https://parks.qld.gov.au/parks/lama-lama\">Lama Lama National Park (CYPAL)</a>&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a> webpage. &nbsp;</p> <p><strong>For your own safety obey all signage, stay on designated roads and do not park vehicles in long grass.</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-05-28",
+      "end_date": "2026-07-31",
+      "parks": [
+        {
+          "id": "148235",
+          "name": "Lama Lama National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/lama-lama"
+        },
+        {
+          "id": "148725",
+          "name": "Cape Melville National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/cape-melville"
+        },
+        {
+          "id": "149481",
+          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/rinyirru-lakefield"
+        }
+      ]
+    },
+    {
+      "title": "Wongari (Dingo) Whelping Season",
+      "alert_id": "26575",
+      "url": "https://parks.qld.gov.au/park-alerts/26575",
+      "description": "Following the autumn mating season, many female dingoes (wongari) will be pregnant. Gestation lasts around 9 weeks and litters of 1  10 pups (usually 4  6) are born (whelped) and cared for during the winter months. Take particular care and slow down when driving on Kgari to avoid injuring dingoes and other wildlife. Give dingoes space, Kgari is their place.",
+      "details": "<p>Following the autumn mating season, many female dingoes (wongari) will be pregnant. Gestation lasts around 9 weeks and litters of 1  10 pups (usually 4  6) are born (whelped) and cared for during the winter months. Take particular care and slow down when driving on Kgari to avoid injuring dingoes and other wildlife. Give dingoes space, Kgari is their place.</p> <p><strong>Dingo whelping season means:</strong></p> <ul> <li>Once new-born pups arrive their parents may be aggressive as they need to find food for themselves and their pups</li> <li>Alpha females with pups are very domineering during this stage and can even kill another female&rsquo;s pups if she has mated with one of the pack</li> <li><strong>Every time a dingo receives food from people its chance of survival is reduced &ndash; let young wongari grow up wild, do not feed them or leave food available</strong></li> </ul> <p>Visitors, tour operators and residents are advised to be dingo-safe! on K&rsquo;gari. It is recommended that families with young children camp in fenced QPWS camping areas at Lake Boomanjin, Central Station, Dundubara, Waddy Point and eastern beach fenced areas (Wongai, One Tree Rocks, Cornwells, Eli), or at fenced private camping areas at Dilli Village or Cathedral Beach.</p> <p><strong>Be dingo-safe! </strong>Visit<strong> </strong><a href=\"https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a long dingo safety stick.</li> <li>Do not run or jog outside fenced areas - this can attract a dingo&rsquo;s attention and trigger their instinct to chase.</li> <li>Camp in fenced areas when possible.</li> <li>Secure all rubbish, fish, bait and tackle (even on boats).</li> <li>Never store food or food containers in tents.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong> &ndash; email <a href=\"mailto:dingo.ranger@detsi.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a>, tell the nearest QPWS</p> <p>ranger, or phone (07) 4127 9150 &ndash; mobile phone charges may apply. Take note of location,</p> <p>vehicle registration, dingo ear tag colour, number and which ear.</p> <p>For further information about wongari (dingoes) on K&rsquo;gari (Fraser Island) please visit</p> <p><a href=\"https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes</a></p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-06-01",
+      "end_date": "2026-08-31",
+      "parks": [
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
+        },
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Mount Windsor and Mount Lewis national parks, and Daintree headwaters, Daintree National Park (CYPAL)",
+      "alert_id": "26576",
+      "url": "https://parks.qld.gov.au/park-alerts/26576",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Mount Windsor National Park, Mount Lewis National Park and the Daintree headwaters of Daintree National Park (CYPAL) on 29 May 2026 to 2 June 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for these parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Mount Windsor National Park, Mount Lewis National Park and the Daintree headwaters of Daintree National Park (CYPAL) on 29 May 2026 to 2 June 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for these parks and forests.</p> <p><strong>No visitor facilities will be closed due to this planned burn</strong>, however smoke, firefighers and aircraft may be seen in the surrounding area.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p><strong>Please note: </strong>for the latest information on any visitor facility closures, access restrictions or conditions,<strong>&nbsp;</strong>check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> including any for <a href=\"https://parks.qld.gov.au/parks/mount-lewis\">Mount Lewis National Park</a> and <a href=\"https://parks.qld.gov.au/parks/daintree\">Daintree National Park (CYPAL).</a></p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-05-28",
+      "start_effective_date": "2026-05-29",
+      "end_date": "2026-06-02",
+      "parks": [
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        },
+        {
+          "id": "322776",
+          "name": "Mount Windsor National Park",
+          "url": ""
+        },
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
         }
       ]
     }
