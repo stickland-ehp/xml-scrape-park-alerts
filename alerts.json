@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 182,
-    "script_run_time": "2026-05-29 12:37:38"
+    "alerts_count": 175,
+    "script_run_time": "2026-05-30 11:09:27"
   },
   "alerts": [
     {
@@ -2812,29 +2812,6 @@
       ]
     },
     {
-      "title": "Temporary Closure : Lochern and Idalia National Parks",
-      "alert_id": "26522",
-      "url": "https://parks.qld.gov.au/park-alerts/26522",
-      "description": "Idalia and Lochern National Parks are temporarily closed due to wet conditions until Friday 29 May 2026 (inclusive) when conditions will be reviewed.",
-      "details": "<p>Idalia and Lochern National Parks are temporarily closed due to wet conditions until Friday 29 May 2026 (inclusive) when conditions will be reviewed.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-28",
-      "start_effective_date": "2026-05-18",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.qld.gov.au/parks/idalia"
-        },
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.qld.gov.au/parks/lochern"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure for public safety: Kennedy Bend camping area, Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "26523",
       "url": "https://parks.qld.gov.au/park-alerts/26523",
@@ -2849,29 +2826,6 @@
           "id": "149481",
           "name": "Rinyirru (Lakefield) National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/rinyirru-lakefield"
-        }
-      ]
-    },
-    {
-      "title": "Planned Maintenance - Freshwater Road",
-      "alert_id": "26527",
-      "url": "https://parks.qld.gov.au/park-alerts/26527",
-      "description": "Freshwater Road Works",
-      "details": "<p>Freshwater Road Works</p> <p>Heavy machinery wil be in use along Freshwater Road from 19th - 29th May 2026 for planned maintenance.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-19",
-      "start_effective_date": "2026-05-19",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
         }
       ]
     },
@@ -2908,24 +2862,6 @@
           "id": "148880",
           "name": "Russell River National Park",
           "url": "https://parks.qld.gov.au/parks/russell-river"
-        }
-      ]
-    },
-    {
-      "title": "Pest Management Control Program 25 - 29 May 2026",
-      "alert_id": "26531",
-      "url": "https://parks.qld.gov.au/park-alerts/26531",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Cape Palmerston National Park from Monday 25 - Friday 29 May 2026 as part of the conservation management program for the park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Cape Palmerston National Park from Monday 25 - Friday 29 May 2026 as part of the conservation management program for the park.</p> <p>Firearms and traps may be in use.</p> <p>All control activities are conducted in accordance with the Cape Palmerston National Park pest management plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.</p> <p>As a result, the park will be closed and all unauthorised access prohibited for the duration of the pest management program</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-19",
-      "start_effective_date": "2026-05-25",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "148832",
-          "name": "Cape Palmerston National Park",
-          "url": "https://parks.qld.gov.au/parks/cape-palmerston"
         }
       ]
     },
@@ -3094,42 +3030,6 @@
       ]
     },
     {
-      "title": "Glass House Mountains Look Out - closure of male toilets",
-      "alert_id": "26549",
-      "url": "https://parks.qld.gov.au/park-alerts/26549",
-      "description": "Due to vandalism, the male toilet block at Glass House Mountains Lookout is currently closed.",
-      "details": "<p>Due to vandalism, the male toilet block at Glass House Mountains Lookout is currently closed.</p> <p>The female toilets are unaffected.</p> <p>The nearest male toilets available are&nbsp; at Mount Tibrgargan Day Use Area.</p> <p>The toilets will reopen as soon as the damage is repaired.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-22",
-      "start_effective_date": "2026-05-22",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "149493",
-          "name": "Beerburrum and Beerwah State Forests",
-          "url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn Byfield National Park and State Forest",
-      "alert_id": "26551",
-      "url": "https://parks.qld.gov.au/park-alerts/26551",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 25th - 29th May 2026, as part of the fire management program for Byfield National Park and State Forest QPWS management areas.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 25th - 29th May 2026, as part of the fire management program for Byfield National Park and State Forest QPWS management areas.</p> <p>Smoke may be seen in the vicinity of Red Rock and the Creek to Coast walking track. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>QPWS Rangers and machinery may be working along roadsides in the vicinity of Byfield National Park, Sandy Creek section. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the Fire management webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-22",
-      "start_effective_date": "2026-05-25",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
       "title": "Wet weather  Cedar Creek rock pools closed",
       "alert_id": "26552",
       "url": "https://parks.qld.gov.au/park-alerts/26552",
@@ -3216,42 +3116,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning operations and track closures: Ravenshoe State Forest 3",
-      "alert_id": "26558",
-      "url": "https://parks.qld.gov.au/park-alerts/26558",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) from 26 to 29 May 2026 (dates inclusive). These burning operations are part of the fire management program for Ravenshoe State Forest 3.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burning operations (weather permitting) from 26 to 29 May 2026 (dates inclusive). These burning operations are part of the fire management program for Ravenshoe State Forest 3.</p> <p>Burning will be conducted on ground on 26 May and aerially on 28 May, however fire may continue tthrough until 29 May.&nbsp;</p> <p>Road and track closures will be in place along Flour Dust track from Cemetery Road to May&rsquo;s break.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs and directions from Rangers, and do not enter closed areas.</p> <p>Smoke may be seen in the vicinity of Ravenshoe and Tumoulin. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-05-25",
-      "start_effective_date": "2026-05-26",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "322337",
-          "name": "Ravenshoe State Forest 3",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burning operations and Big Millstream Falls facility closures: Millstream Falls National Park",
-      "alert_id": "26559",
-      "url": "https://parks.qld.gov.au/park-alerts/26559",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Thursday 28 May to Friday 29 May (dates inclusive), as part of the fire management program for Millstream Falls National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Thursday 28 May to Friday 29 May (dates inclusive), as part of the fire management program for Millstream Falls National Park.</p> <p>On Thursday 28 May, the Kennedy Highway will be restricted to single lane from Millstream crossing (Tall Timbers Roadhouse) for 7km to Snubby Creek</p> <p><strong>The following facilities will be temporarily closed on 28 and 29 May 2026 (dates inclusive)</strong></p> <ul> <li>Millstream Falls Road</li> <li>Big Millstream Falls day-use area</li> <li>Big Millstream Falls lookout</li> <li>World War II heritage track.</li> <li>Army Swimming Hole track</li> </ul> <p>The facilities at Little Millstream day-use area, Millstream Falls National Park are not affected by this burn and will remain open.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs and directions from rangers, and do not enter closed areas.</p> <p>Smoke may be seen in the vicinity of Ravenshoe and Millstream. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-05-25",
-      "start_effective_date": "2026-05-28",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "149457",
-          "name": "Millstream Falls National Park",
-          "url": "https://parks.qld.gov.au/parks/millstream-falls"
         }
       ]
     },
@@ -3419,24 +3283,6 @@
           "id": "151371",
           "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
-      "title": "Ocean View Track Closure - Wet Weather",
-      "alert_id": "26569",
-      "url": "https://parks.qld.gov.au/park-alerts/26569",
-      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-28",
-      "start_effective_date": "2026-05-28",
-      "end_date": "2026-05-29",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.qld.gov.au/parks/burleigh-head"
         }
       ]
     },
@@ -3749,6 +3595,29 @@
           "id": "148560",
           "name": "Daisy Hill Conservation Park",
           "url": "https://parks.qld.gov.au/parks/daisy-hill"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burn - Markwells Eurong",
+      "alert_id": "26584",
+      "url": "https://parks.qld.gov.au/park-alerts/26584",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn/s between 2nd June  5th June 2026 as part of the fire management program for Great Sandy National Park, Kgari.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn/s between 2nd June  5th June 2026 as part of the fire management program for Great Sandy National Park, Kgari.</p> <p>During the planned burn these areas are&nbsp;<strong>closed to public access:</strong>&nbsp;</p> <ul> <li>Great Walk access - Lake Boomanjin to Eurong</li> <li>Markwells Great Walk Feeder Track</li> <li>Wongai Camping area, Wongai Fenced Camping area (Zone 1)</li> </ul> <p>Smoke may be seen in the vicinity of&nbsp;Eurong, Wanggoolba Road, Eastern Beach, Beach Camps Wongai and One Tree Rocks, and Lake Wabby. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>&nbsp;</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-05-30",
+      "start_effective_date": "2026-06-02",
+      "end_date": "2026-06-05",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
