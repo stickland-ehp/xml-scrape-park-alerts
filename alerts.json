@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 175,
-    "script_run_time": "2026-05-30 11:09:27"
+    "alerts_count": 174,
+    "script_run_time": "2026-05-31 11:23:46"
   },
   "alerts": [
     {
@@ -3062,24 +3062,6 @@
           "id": "148376",
           "name": "Bunyaville Conservation Park",
           "url": "https://parks.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn operations: Herberton Range National Park and Herberton Range State Forest",
-      "alert_id": "26554",
-      "url": "https://parks.qld.gov.au/park-alerts/26554",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in and adjacent to Herberton Range National Park and Herberton Range State Forest, from Tuesday 26 May 2026 to Friday 29 May 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in and adjacent to Herberton Range National Park and Herberton Range State Forest, from Tuesday 26 May 2026 to Friday 29 May 2026 (dates inclusive).</p> <p>While no visitor facilities are closed for the plan burn, we remind you to remain on formed roads and tracks for your safety.</p> <p>Visitors are advised that smoke may be seen in the area southwest of Atherton township and north of Herberton &amp; Watsonville.</p> <ul> <li>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</li> </ul> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit our&nbsp;&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-25",
-      "start_effective_date": "2026-05-25",
-      "end_date": "2026-05-30",
-      "parks": [
-        {
-          "id": "148818",
-          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
-          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     },
