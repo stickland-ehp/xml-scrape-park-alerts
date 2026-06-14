@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2026-06-13 11:44:48"
+    "alerts_count": 161,
+    "script_run_time": "2026-06-14 11:47:26"
   },
   "alerts": [
     {
@@ -2705,24 +2705,6 @@
       ]
     },
     {
-      "title": "Temporary closure: listed Upper Davies camp sites, bridge along Davies Creek Road and some walking tracks, Dinden National Park",
-      "alert_id": "26568",
-      "url": "https://parks.qld.gov.au/park-alerts/26568",
-      "description": "The following visitor facilities will be closed due to a bridge upgrade on Davies Creek Road from 5 June to 13 June 2026 (dates inclusive).",
-      "details": "<p>The following visitor facilities will be closed due to a bridge upgrade on Davies Creek Road from 5 June to 13 June 2026 (dates inclusive).</p> <p><strong>Camp sites that are closed during this period:</strong></p> <ul> <li>Camp site 5</li> <li>Camp site 6</li> <li>Camp site 7</li> <li>Camp site 8</li> </ul> <p><strong>Walking track closures:</strong></p> <ul> <li>Kalpahlim track (whole track)</li> </ul> <ul> <li>Section of Turtle Rock circuit trail from Turtle Rock/Mount Turtle to sites 5 and 6.</li> <li>Varch Creek Trail&nbsp;(whole track)</li> </ul> <p><strong>Bridge and road closure</strong></p> <ul> <li>Bridge and section of Davies Creek Road, straight after camp sites 3 and 4.</li> </ul> <p><strong>Walking track remaining open</strong></p> <ul> <li>Turtle Head trail &ndash; this can only be walked from camp sites 3 and 4 to Turtle Rock/Mount Turtle and returning via the same route to the same location.</li> </ul> <p><strong>For campers with an existing booking between 5 June to 13 June 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking?_gl=1*10xkz4t*_ga*OTA0Mjc3MDAwLjE3NzQ3NzY2Njc.*_ga_9C8GTP5GMH*czE3Nzk4MzI4MzEkbzY1JGcxJHQxNzc5ODMyODQ1JGo0NiRsMCRoMA..\">cancel</a>&nbsp;and request a refund online for your existing camping booking.</strong></p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-05-27",
-      "start_effective_date": "2026-06-05",
-      "end_date": "2026-06-13",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
       "title": "Planned burn season: Rinyirru (Lakefield) National Park (CYPAL), Lama Lama National Park (CYPAL) and Cape Melville National Park (CYPAL)",
       "alert_id": "26573",
       "url": "https://parks.qld.gov.au/park-alerts/26573",
@@ -3229,24 +3211,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Closure of the Paperbark Boardwalk - Daisy Hill Conservation Park",
-      "alert_id": "26636",
-      "url": "https://parks.qld.gov.au/park-alerts/26636",
-      "description": "Park users are advised of the temporary closure of the Paperbark Boardwalk within Daisy Hill Conservation Park on Saturday 13/6/26 .",
-      "details": "<p>Park users are advised of the temporary closure of the Paperbark Boardwalk within Daisy Hill Conservation Park on Saturday 13/6/26 .</p> <p>This trail will be closed for the entirety of Saturday 13/6/26 for scheduled tree maintenance works. Access entering the trail from Maculata Break is also restricted.</p> <p>Please observe all signage and instructions from contractors and do not enter closed areas where work is conducted.</p> <p>All other trails within the park remain unaffected.&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2026-06-10",
-      "start_effective_date": "2026-06-13",
-      "end_date": "2026-06-13",
-      "parks": [
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
         }
       ]
     },
