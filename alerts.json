@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2026-06-20 11:48:49"
+    "alerts_count": 162,
+    "script_run_time": "2026-06-21 12:02:58"
   },
   "alerts": [
     {
@@ -1670,24 +1670,6 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: Eliot Falls access road severely eroded, Apudthama National Park (CYPAL)",
-      "alert_id": "26353",
-      "url": "https://parks.qld.gov.au/park-alerts/26353",
-      "description": "Visitors are advised that due to heavy rainfall, the access road into Eliot Falls is severely eroded. This includes the entire 8km section of track from the Bamaga Bypass Road to the Eliot Falls camping and day-use area.",
-      "details": "<p>Visitors are advised that due to heavy rainfall, the access road into Eliot Falls is severely eroded. This includes the entire 8km section of track from the Bamaga Bypass Road to the Eliot Falls camping and day-use area.</p> <p>Road works are currently underway and heavy machinery may cause travel delays.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Announcement",
-      "start_date": "2026-06-01",
-      "start_effective_date": "2026-03-23",
-      "end_date": "2026-06-20",
-      "parks": [
-        {
-          "id": "148892",
-          "name": "Apudthama National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/apudthama"
         }
       ]
     },
