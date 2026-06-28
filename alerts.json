@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 159,
-    "script_run_time": "2026-06-27 11:17:20"
+    "alerts_count": 158,
+    "script_run_time": "2026-06-28 11:29:24"
   },
   "alerts": [
     {
@@ -3200,29 +3200,6 @@
           "id": "148436",
           "name": "Burrum Coast National Park",
           "url": "https://parks.qld.gov.au/parks/burrum-coast"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Restricted Area - Tidal Waters from Mon Repos Beach to 500m offshore",
-      "alert_id": "26687",
-      "url": "https://parks.qld.gov.au/park-alerts/26687",
-      "description": "A temporary Restricted Area has been declared in the tidal waters adjacent to the Mon Repos Conservation Park. Beach users are required to stay out of the marine tidal waters in the area adjacent to the entire length of the beach and out to 500m offshore.",
-      "details": "<p>A temporary Restricted Area has been declared in the tidal waters adjacent to the Mon Repos Conservation Park. Beach users are required to stay out of the marine tidal waters in the area adjacent to the entire length of the beach and out to 500m offshore.</p> <p>Visitors are advised that a deceased whale washed ashore at the southern end of Mon Repos Beach.&nbsp; The whale has now been removed for disposal.&nbsp;</p> <p>As a result numerous sharks have been sighted in this area.&nbsp;</p> <p><strong>Visitors are advised that:</strong></p> <ul> <li>Entering the water or swimming at Mon Repos Beach is an offence under section 95 of the Marine Parks Act 2004.</li> <li>The closure extends the entire length on Mon Repos Beach and out to 500m offshore</li> </ul> <p>In an emergency, call Triple Zero (000).</p> <p>Visit <a href=\"https://beachsafe.org.au/surf-safety/sharks\">Beachsafe(external link)</a> for safety and first aid information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
-      "category": "Announcement",
-      "start_date": "2026-06-24",
-      "start_effective_date": "2026-06-24",
-      "end_date": "2026-06-27",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mon-repos"
-        },
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.qld.gov.au/parks/great-sandy-marine"
         }
       ]
     },
