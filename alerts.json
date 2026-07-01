@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2026-06-30 12:02:59"
+    "alerts_count": 153,
+    "script_run_time": "2026-07-01 12:25:29"
   },
   "alerts": [
     {
@@ -477,42 +477,6 @@
       ]
     },
     {
-      "title": "Goomburra section - temporary closure Cascades and Dalrymple circuits",
-      "alert_id": "25170",
-      "url": "https://parks.qld.gov.au/park-alerts/25170",
-      "description": "Part of the Dalrymple track and all of the Cascades track, in the Goomburra area of Main Range National Park, are closed due to flood damage.",
-      "details": "<p>Part of the Dalrymple track and all of the Cascades track, in the Goomburra area of Main Range National Park, are closed due to flood damage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-01-28",
-      "start_effective_date": "2025-04-04",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
-        }
-      ]
-    },
-    {
-      "title": "Magnetic Island walking trail network: Changes to Route 2",
-      "alert_id": "25195",
-      "url": "https://parks.qld.gov.au/park-alerts/25195",
-      "description": "Access to Route 2 on the Magnetic Island walking trail network has been impacted by high rainfall events during the 2025 summer.",
-      "details": "<p>Access to Route 2 on the Magnetic Island walking trail network has been impacted by high rainfall events during the 2025 summer.</p> <p>The track between Florence Bay and Radical Bay on Route 2 has been significantly washed out. Walkers are advised that this section of the trail may be unpassable.</p> <p>This section of track is not on National Park or managed by Queensland Parks and Wildlife Service.&nbsp;</p> <p>Find out more about the Magnetic Island walking trail network and other options for walking online at https://parks.desi.qld.gov.au/parks/magnetic-island/journeys&nbsp;</p>",
-      "category": "Other",
-      "start_date": "2026-06-23",
-      "start_effective_date": "2025-04-14",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "148961",
-          "name": "Magnetic Island National Park",
-          "url": "https://parks.qld.gov.au/parks/magnetic-island"
-        }
-      ]
-    },
-    {
       "title": "Closure - Wards Canyon walk",
       "alert_id": "25222",
       "url": "https://parks.qld.gov.au/park-alerts/25222",
@@ -654,42 +618,6 @@
       ]
     },
     {
-      "title": "Ex-HMAS Brisbane Public Mooring",
-      "alert_id": "25812",
-      "url": "https://parks.qld.gov.au/park-alerts/25812",
-      "description": "Ex-HMAS Brisbane Public Mooring closed post severe weather event (cyclone Alfred). Public access to ex-HMAS Brisbane remains closed.",
-      "details": "<p>Ex-HMAS Brisbane Public Mooring closed post severe weather event (cyclone Alfred). Public access to ex-HMAS Brisbane remains closed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2025-12-05",
-      "start_effective_date": "2025-10-02",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "149465",
-          "name": "Ex-HMAS Brisbane Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/ex-hmas-brisbane"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Mima Teti camping area, Tagalaka National Park",
-      "alert_id": "25834",
-      "url": "https://parks.qld.gov.au/park-alerts/25834",
-      "description": "Due to extensive damage to the access road, caused by previous severe weather events, Mima Teti camping area is temporarily closed until it is deemed safe to reopen.",
-      "details": "<p>Due to extensive damage to the access road, caused by previous severe weather events, Mima Teti camping area is temporarily closed until it is deemed safe to reopen.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-27",
-      "start_effective_date": "2026-03-24",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "405267",
-          "name": "Tagalaka National Park",
-          "url": "https://parks.qld.gov.au/parks/tagalaka"
-        }
-      ]
-    },
-    {
       "title": "Temporary camping areas and walking track closures: Wallaman Falls and section of Wet Tropics Great Walk, Girringun National Park",
       "alert_id": "25854",
       "url": "https://parks.qld.gov.au/park-alerts/25854",
@@ -742,42 +670,6 @@
           "id": "148949",
           "name": "Errk Oykangand National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/errk-oykangand"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure: Olkola National Park (CYPAL)",
-      "alert_id": "25894",
-      "url": "https://parks.qld.gov.au/park-alerts/25894",
-      "description": "Olkola National Park (CYPAL) is closed for the wet season and will reopen on Wednesday 1 July 2026, subject to road and weather conditions.",
-      "details": "<p>Olkola National Park (CYPAL) is closed for the wet season and will reopen on Wednesday 1 July 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-23",
-      "start_effective_date": "2025-10-27",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "213735",
-          "name": "Olkola National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/olkola-cypal"
-        }
-      ]
-    },
-    {
-      "title": "Wet season closure: Canyon Resources Reserve",
-      "alert_id": "25903",
-      "url": "https://parks.qld.gov.au/park-alerts/25903",
-      "description": "Canyon Resources Reserve is closed for the wet season and will reopen on Wednesday 1 July 2026, subject to weather and road conditions.",
-      "details": "<p>Canyon Resources Reserve is closed for the wet season and will reopen on Wednesday 1 July 2026, subject to weather and road conditions.</p> <p>Please monitor park alerts for current information.<br /> &nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-25",
-      "start_effective_date": "2025-11-01",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "149509",
-          "name": "Canyon Resources Reserve",
-          "url": "https://parks.qld.gov.au/parks/canyon-resources"
         }
       ]
     },
@@ -930,15 +822,15 @@
       ]
     },
     {
-      "title": "Wet season closure update  extended closure dates affecting some camping areas: Oyala Thumotang National Park (CYPAL)",
+      "title": "Wet season closure update including selected camping areas reopening: Oyala Thumotang National Park (CYPAL)",
       "alert_id": "25971",
       "url": "https://parks.qld.gov.au/park-alerts/25971",
-      "description": "Oyala Thumotang National Park (CYPAL) is closed for the wet season. Please see the update below for the latest information on camping area reopening dates.",
-      "details": "<p>Oyala Thumotang National Park (CYPAL) is closed for the wet season. Please see the update below for the latest information on camping area reopening dates.</p> <p><strong>The following camping areas are anticipated to reopen Wednesday 1 July 2026, subject to road and weather conditions:</strong></p> <p><strong>Langi section:</strong></p> <ul> <li>Jerry Lagoon</li> <li>Twin Lagoons 1</li> <li>Twin Lagoons 2</li> <li>10 Mile Junction</li> </ul> <p><strong>Coen River section:</strong></p> <ul> <li>Mango Lagoon 1</li> <li>Mango Lagoon 2&nbsp;&nbsp;</li> <li>Mango Lagoon 3</li> <li>First Coen River</li> </ul> <p>&nbsp;</p> <p><strong>Due to impacts of the extended wet season, the following camping areas are now anticipated to reopen Saturday 1 August 2026, subject to road and weather conditions:</strong></p> <p><strong>Langi section:</strong></p> <ul> <li>Old Archer Crossing</li> </ul> <p><strong>Coen River section:</strong></p> <ul> <li>Chong Swamp</li> <li>Second Coen River</li> <li>Vardons Lagoon</li> </ul> <p><strong>Archer Bend section:</strong></p> <ul> <li>Governors Waterhole</li> <li>Horsetailer Waterhole</li> </ul> <p><strong>For campers with an existing booking between 1 July and 31 July 2026, please&nbsp;</strong><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\"><strong>cancel</strong></a><strong>&nbsp;and request a refund online.</strong></p> <p>&nbsp;</p> <p>For further information please contact the Coen Ranger Base on (07) 4060 1137.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Oyala Thumotang National Park (CYPAL) has partially reopened from the wet season. Please see the update below for the latest information on camping area reopening dates.",
+      "details": "<p>Oyala Thumotang National Park (CYPAL) has partially reopened from the wet season. Please see the update below for the latest information on camping area reopening dates.</p> <p><strong>The following camping areas are open:</strong></p> <p><strong>Langi section:</strong></p> <ul> <li>Jerry Lagoon</li> <li>Twin Lagoons 1</li> <li>Twin Lagoons 2</li> <li>10 Mile Junction</li> </ul> <p><strong>Coen River section:</strong></p> <ul> <li>Mango Lagoon 1</li> <li>Mango Lagoon 2&nbsp;&nbsp;</li> <li>Mango Lagoon 3</li> <li>First Coen River</li> </ul> <p>&nbsp;</p> <p><strong>Due to impacts of the extended wet season, the following camping areas remain closed and are now anticipated to reopen Saturday 1 August 2026, subject to road and weather conditions:</strong></p> <p><strong>Langi section:</strong></p> <ul> <li>Old Archer Crossing</li> </ul> <p><strong>Coen River section:</strong></p> <ul> <li>Chong Swamp</li> <li>Second Coen River</li> <li>Vardons Lagoon</li> </ul> <p><strong>Archer Bend section:</strong></p> <ul> <li>Governors Waterhole</li> <li>Horsetailer Waterhole</li> </ul> <p>&nbsp;</p> <p>For further information please contact the Coen Ranger Base on (07) 4060 1137.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-06-26",
+      "start_date": "2026-07-01",
       "start_effective_date": "2025-12-01",
-      "end_date": "2026-07-01",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "148933",
@@ -952,9 +844,9 @@
       "alert_id": "25981",
       "url": "https://parks.qld.gov.au/park-alerts/25982",
       "description": "As rebuilding works continue at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land), visitors are advised below of the facilities that are currently open. Your safety while visiting is a top priority, please continue to check this park alert for up-to-date information.",
-      "details": "<p>As rebuilding works continue at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land), visitors are advised below of the facilities that are currently open. Your safety while visiting is a top priority, please continue to check this park alert for up-to-date information.</p> <p><strong>What visitor facilities are available?</strong></p> <p><strong>Lawn Hill Gorge section</strong></p> <ul> <li>Constance Range walking track - <strong>OPEN</strong>&nbsp;</li> <li>Duwadarri lookout walking track - <strong>OPEN</strong>&nbsp;</li> <li>Lawn Hill Creek - paddle to Indarri Falls and return - <strong>OPEN</strong>&nbsp;</li> <li>Lawn Hill Gorge camping area, including visitor amenities (toilets and showers). <strong>OPEN</strong>. Bookings essential:<a href=\"https://book.parks.qld.gov.au/camping\"> national park camping bookings</a></li> </ul> <p>All other walking tracks at the Lawn Hill Gorge section are under repair and are <strong>CLOSED</strong>.&nbsp;</p> <p><strong>Riversleigh section</strong></p> <p>All visitor facilities at the Riversleigh section, including D site (part of the Australian Fossil Mammal Sites World Heritage Area) and Miyumba camping area will be<strong> open.</strong></p> <p><strong>For your safety</strong></p> <p>Please note the following at the Lawn Hill Gorge section:</p> <ul> <li><strong>Construction zones</strong>: some areas remain active construction sites and are closed to visitors. Signs, bunting and fences&nbsp;mark these areas. Please follow all signs and directions from Rangers and on-site personnel and do not enter closed areas.</li> <li><strong>Less shade:</strong> as creek side vegetation regenerates, shade is limited onland and on water. Plan your visit and activities carefully and carry at least 2 lites of drinking water per person per day.</li> <li><strong>Watercraft&nbsp;areas:</strong> entry to Lawn Hill Creek is one way in and one way out. You must exit from the&nbsp;same location you entered. There is no landing at Indarri Falls.</li> <li><strong>Remote location:</strong> Lawn Hill Gorge is remote and Rangers may not alway be available. Visitors must be self-sufficient, responsible for your own safety and prepared for emergencies.</li> <li><strong>Emergency contacts:</strong> for emergencies, call Triple Zero (000). Consider carrying a satellite phone or personal locator beacon (PLB).</li> </ul> <p>The Boodjamulla Cooperative Management Council (i.e. Queensland Parks and Wildlife Service and the Waanyi People) thank the local community and stakeholders for their patience and support while work continues to safely restore and rebuild flood-damaged facilities and infrastructure.</p> <p>&nbsp;</p>",
+      "details": "<p>As rebuilding works continue at the Lawn Hill Gorge section of Boodjamulla National Park (Aboriginal Land), visitors are advised below of the facilities that are currently open. Your safety while visiting is a top priority, please continue to check this park alert for up-to-date information.</p> <p><strong>What visitor facilities are available?</strong></p> <p><strong>Lawn Hill Gorge section</strong></p> <ul> <li>Duwadarri lookout walking track - <strong>OPEN</strong>&nbsp;</li> <li>Lawn Hill Creek - paddle to Indarri Falls and return - <strong>OPEN</strong>&nbsp;</li> <li>Lawn Hill Gorge camping area, including visitor amenities (toilets and showers). <strong>OPEN</strong>. Bookings essential:<a href=\"https://book.parks.qld.gov.au/camping\"> national park camping bookings</a></li> </ul> <p>Constance Range walking track is temporarily <strong>closed</strong> for repair.&nbsp;</p> <p>All other walking tracks at the Lawn Hill Gorge section are under repair and are <strong>CLOSED</strong>.&nbsp;</p> <p><strong>Riversleigh section</strong></p> <p>All visitor facilities at the Riversleigh section, including D site (part of the Australian Fossil Mammal Sites World Heritage Area) and Miyumba camping area will be<strong> open.</strong></p> <p><strong>For your safety</strong></p> <p>Please note the following at the Lawn Hill Gorge section:</p> <ul> <li><strong>Construction zones</strong>: some areas remain active construction sites and are closed to visitors. Signs, bunting and fences&nbsp;mark these areas. Please follow all signs and directions from Rangers and on-site personnel and do not enter closed areas.</li> <li><strong>Less shade:</strong> as creek side vegetation regenerates, shade is limited onland and on water. Plan your visit and activities carefully and carry at least 2 lites of drinking water per person per day.</li> <li><strong>Watercraft&nbsp;areas:</strong> entry to Lawn Hill Creek is one way in and one way out. You must exit from the&nbsp;same location you entered. There is no landing at Indarri Falls.</li> <li><strong>Remote location:</strong> Lawn Hill Gorge is remote and Rangers may not alway be available. Visitors must be self-sufficient, responsible for your own safety and prepared for emergencies.</li> <li><strong>Emergency contacts:</strong> for emergencies, call Triple Zero (000). Consider carrying a satellite phone or personal locator beacon (PLB).</li> </ul> <p>The Boodjamulla Cooperative Management Council (i.e. Queensland Parks and Wildlife Service and the Waanyi People) thank the local community and stakeholders for their patience and support while work continues to safely restore and rebuild flood-damaged facilities and infrastructure.</p> <p>&nbsp;</p>",
       "category": "Announcement",
-      "start_date": "2026-06-30",
+      "start_date": "2026-07-01",
       "start_effective_date": "2026-05-01",
       "end_date": "2026-12-01",
       "parks": [
@@ -1195,11 +1087,11 @@
       "alert_id": "26143",
       "url": "https://parks.qld.gov.au/park-alerts/26143",
       "description": "Queensland Parks and Wildlife Service (QPWS) have determined that visitor amenities situated at the Tallanbana trailhead are not performing to optimum standards.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) have determined that visitor amenities situated at the Tallanbana trailhead are not performing to optimum standards.</p> <p>As a result the following facilities have been closed indefinately, until further notice:</p> <ul> <li>Public toilets at Tallanbana (at the trailhead of the Twin Falls circuit walking track).</li> </ul> <p>Alternative toilet facilities are located at Goomoolahra picnic area (approx. 1.5km south at the end of Springbrook Road) and at Gauriemabah (Place of Stories) Visitor Centre on Old School Road (approx. 1.5km north of Tallanbana).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) have determined that visitor amenities situated at the Tallanbana trailhead are not performing to optimum standards.</p> <p>As a result the following facilities have been closed indefinately, until further notice:</p> <ul> <li>Public toilets at Tallanbana (at the trailhead of the Twin Falls circuit walking track).</li> </ul> <p>Alternative toilet facilities are located at Goomoolahra picnic area (approx. 1.5km south at the end of Springbrook Road) and at Gauriemabah (Place of Stories) Visitor Info Centre on Old School Road (approx. 1.5km north of Tallanbana).</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-02-26",
+      "start_date": "2026-07-01",
       "start_effective_date": "2026-01-23",
-      "end_date": "2026-07-03",
+      "end_date": "2027-01-29",
       "parks": [
         {
           "id": "148516",
@@ -1233,9 +1125,9 @@
       "description": "Please be advised that the privately owned jetty located at Bauer Bay, South Molle Island, is closed to the public due to damage caused by Cyclone Koji. The jetty owner has advised QPWS that risk and damage assessments are underway and an estimated reopening date will be advised once repair timeframes are known.",
       "details": "<p>Please be advised that the privately owned jetty located at Bauer Bay, South Molle Island, is closed to the public due to damage caused by Cyclone Koji. The jetty owner has advised QPWS that risk and damage assessments are underway and an estimated reopening date will be advised once repair timeframes are known.</p> <p>In the interim, access to the national park from Bauer Bay is via beach landing only and is tide dependant.</p> <p>Other access points on the island, including Sandy and Paddle Bay remain unchanged.</p> <p>All visitors may continue to use the designated access path from Bauer Bay beach to access the national park recreational trails.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers or resort personnel and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Other",
-      "start_date": "2026-01-30",
+      "start_date": "2026-07-01",
       "start_effective_date": "2026-01-30",
-      "end_date": "2026-06-30",
+      "end_date": "2026-09-30",
       "parks": [
         {
           "id": "148941",
@@ -1607,24 +1499,6 @@
       ]
     },
     {
-      "title": "Wet weather access - Barakula State Forest",
-      "alert_id": "26346",
-      "url": "https://parks.qld.gov.au/park-alerts/26346",
-      "description": "As a result of wet weather, within Barakula State Forest some roads have received damage and will remain closed until declared safe.",
-      "details": "<p>As a result of wet weather, within Barakula State Forest some roads have received damage and will remain closed until declared safe.</p> <p>QPWS Rangers are&nbsp;monitoring&nbsp;the situation. Recent rain/ flooding has damaged the road network within Barakula State Forest.<br /> <br /> &nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-03-19",
-      "start_effective_date": "2026-03-18",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "148143",
-          "name": "Barakula State Forest",
-          "url": "https://parks.qld.gov.au/parks/barakula"
-        }
-      ]
-    },
-    {
       "title": "SEVERE EROSION  Inskip barge landing beach access tracks",
       "alert_id": "26370",
       "url": "https://parks.qld.gov.au/park-alerts/26370",
@@ -1680,24 +1554,6 @@
       "start_date": "2026-06-26",
       "start_effective_date": "2026-03-30",
       "end_date": "2026-08-31",
-      "parks": [
-        {
-          "id": "148892",
-          "name": "Apudthama National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/apudthama"
-        }
-      ]
-    },
-    {
-      "title": "Safety advice: Track to Captain Billy Landing severely eroded, Apudthama National Park (CYPAL)",
-      "alert_id": "26378",
-      "url": "https://parks.qld.gov.au/park-alerts/26378",
-      "description": "Visitors are advised that due to heavy rainfall, the access road into Captain Billy Landing is severely eroded. This includes the entire 27km section of track from the Bamaga Bypass Road to Captain Billy Landing camping area.",
-      "details": "<p>Visitors are advised that due to heavy rainfall, the access road into Captain Billy Landing is severely eroded. This includes the entire 27km section of track from the Bamaga Bypass Road to Captain Billy Landing camping area.</p> <p>Road works are currently underway and heavy machinery may cause travel delays.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Announcement",
-      "start_date": "2026-06-01",
-      "start_effective_date": "2026-03-30",
-      "end_date": "2026-06-30",
       "parks": [
         {
           "id": "148892",
@@ -1871,24 +1727,6 @@
       ]
     },
     {
-      "title": "Pest Weed Control Program in Bribie Island National Park and Recreation Area",
-      "alert_id": "26448",
-      "url": "https://parks.qld.gov.au/park-alerts/26448",
-      "description": "A Queensland Parks and Wildlife contractor will be conducting a pest weed control program from May through to June within Bribie Island National Park and Recreation Area as part of the conservation management program for the park.",
-      "details": "<p>A Queensland Parks and Wildlife contractor will be conducting a pest weed control program from May through to June within Bribie Island National Park and Recreation Area as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with Bribie Island National Park and Recreation Area Pest Strategy and help to protect native plants and wildlife from the harmful effects of introduced plants. Herbicides may be in use during control activities.</p> <p>Please observe all signage, barriers and directions from rangers and contractors, and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-04-28",
-      "start_effective_date": "2026-05-05",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial walking track closure: Society Flat rainforest walk, Kirrama National Park",
       "alert_id": "26451",
       "url": "https://parks.qld.gov.au/park-alerts/26451",
@@ -2038,29 +1876,6 @@
       ]
     },
     {
-      "title": "Arborist Works",
-      "alert_id": "26474",
-      "url": "https://parks.qld.gov.au/park-alerts/26474",
-      "description": "Daisy Hill Management Unit will be engaging arborists to address hazardous trees in both Daisy Hill Conservation Park and Venman Bushland National Park. These works will commence sometime between 14 May 2026 to 30 June 2026.",
-      "details": "<p>Daisy Hill Management Unit will be engaging arborists to address hazardous trees in both Daisy Hill Conservation Park and Venman Bushland National Park. These works will commence sometime between 14 May 2026 to 30 June 2026.</p> <p>Partial to full closures will be in place throughout various stages of the works.&nbsp;<br /> Additional Park Alerts will be released once specific areas of works are confirmed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-05",
-      "start_effective_date": "2026-05-05",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.qld.gov.au/parks/venman-bushland"
-        },
-        {
-          "id": "148560",
-          "name": "Daisy Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill"
-        }
-      ]
-    },
-    {
       "title": "Pest management control program for Marcoola section, Mount Coolum National Park",
       "alert_id": "26475",
       "url": "https://parks.qld.gov.au/park-alerts/26475",
@@ -2129,24 +1944,6 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
-      "title": "Pinnacles planned burn, Gumlow",
-      "alert_id": "26501",
-      "url": "https://parks.qld.gov.au/park-alerts/26501",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burns throughout May and June on the Pinnacles National Park, weather permitting. This is part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen around the local areas and beyond. This planned burn will help reduce the likelihood of wildfires leading into the fire season. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burns throughout May and June on the Pinnacles National Park, weather permitting. This is part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen around the local areas and beyond. This planned burn will help reduce the likelihood of wildfires leading into the fire season. Smoke can decrease visibility on the roads, so it is important that motorists drive safely to the conditions.</p> <p>For more information, please call the QPWS on 13 74 68.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-11",
-      "start_effective_date": "2026-05-12",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "322674",
-          "name": "Pinnacles National Park",
-          "url": ""
         }
       ]
     },
@@ -2308,24 +2105,6 @@
           "id": "148315",
           "name": "Minjerribah Recreation Area",
           "url": "https://parks.qld.gov.au/parks/minjerribah"
-        }
-      ]
-    },
-    {
-      "title": "Marine Turtle Season 2026-27",
-      "alert_id": "26534",
-      "url": "https://parks.qld.gov.au/park-alerts/26534",
-      "description": "The Mon Repos turtle tour season will run from 7 November 2026 to 21 March 2027, with Turtle Encounter tickets on sale from 9am on 1 June 2026.",
-      "details": "<p>The Mon Repos turtle tour season will run from 7 November 2026 to 21 March 2027, with Turtle Encounter tickets on sale from 9am on 1 June 2026.</p> <p>During a Turtle Encounter tour, visitors have the opportunity to observe turtles nesting and hatchlings emerging on the beach at night.</p> <p>Turtle Encounter night tours can be a rewarding experience, but they come with certain challenges that may affect your ability to participate comfortably and safely. Before booking your tickets, we encourage you to visit our&nbsp;<a href=\"https://parks.qld.gov.au/parks/mon-repos/attractions/mon-repos-turtle-encounter-tours\">webpage</a>&nbsp;to ensure this tour is suitable for you and everyone in your group. If it is, you&#39;ll find plenty of helpful information to start planning an unforgettable nighttime wildlife adventure.</p> <p>For more information see the&nbsp;<a href=\"https://parks.desi.qld.gov.au/parks/mon-repos\">Mon Repos Conservation Park web page.</a></p>",
-      "category": "Announcement",
-      "start_date": "2026-05-29",
-      "start_effective_date": "2026-05-19",
-      "end_date": "2026-06-30",
-      "parks": [
-        {
-          "id": "148247",
-          "name": "Mon Repos Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/mon-repos"
         }
       ]
     },
@@ -3132,21 +2911,16 @@
       ]
     },
     {
-      "title": "Planned Burn: Lindeman Island, Whitsunday Islands National Park",
+      "title": "Planned Burn: Lindeman Island National Park",
       "alert_id": "26690",
       "url": "https://parks.qld.gov.au/park-alerts/26690",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Lindeman Island. This burn will be conducted from (weather pending) Wednesday the 1st of July 2026 to Wednesday the 15th of July 2026 as part of the fire management program for Queensland Parks and Wildlife. Fire will be ignited by ground ignition. Smoke may be seen in the vicinity of The Lindeman Group and the Whitsunday Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Lindeman Island will be closed for public access. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety, please obey all fire restrictions. Stay up to date with Current bushfire warnings and incidents from Queensland Fire Department.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Lindeman Island. This burn will be conducted from (weather pending) Wednesday the 1st of July 2026 to Wednesday the 15th of July 2026 as part of the fire management program for Queensland Parks and Wildlife. Fire will be ignited by ground ignition. Smoke may be seen in the vicinity of The Lindeman Group and the Whitsunday Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Lindeman Island will be closed for public access. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety, please obey all fire restrictions. Stay up to date with Current bushfire warnings and incidents from Queensland Fire Department.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Lindeman Island. Lindeman Island will be closed to public access 1 -15 July 2026.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Lindeman Island. Lindeman Island will be closed to public access 1 -15 July 2026.</p> <p>This burn will be conducted from (weather pending) Wednesday the 1st of July 2026 to Wednesday the 15th of July 2026 as part of the fire management program for Queensland Parks and Wildlife. Fire will be ignited by ground ignition.&nbsp; Lindeman Island will be closed for public access during planned burn period.</p> <p>Smoke may be seen in the vicinity of The Lindeman Group and the Whitsunday Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Monitor park alerts on the department&#39;s website for updated information.&nbsp;</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-06-25",
+      "start_date": "2026-07-01",
       "start_effective_date": "2026-07-01",
       "end_date": "2026-07-15",
       "parks": [
-        {
-          "id": "149505",
-          "name": "Whitsunday Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
-        },
         {
           "id": "149521",
           "name": "Lindeman Islands National Park",
@@ -3397,6 +3171,60 @@
           "id": "148360",
           "name": "Diamantina National Park",
           "url": "https://parks.qld.gov.au/parks/diamantina"
+        }
+      ]
+    },
+    {
+      "title": "Old Forestry campground temporarily closed - Bulburin National Park",
+      "alert_id": "26704",
+      "url": "https://parks.qld.gov.au/park-alerts/26704",
+      "description": "Planned works are being undertaken by a contractor in the Old Forestry campground from Tuesday, 7 July to Friday 10 July.",
+      "details": "<p>Planned works are being undertaken by a contractor in the Old Forestry campground from Tuesday, 7 July to Friday 10 July.</p> <p>Old Forestry campground will be closed during this time.</p> <p>Zamia campground remains open and Dawes Range road.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-01",
+      "start_effective_date": "2026-07-06",
+      "end_date": "2026-07-10",
+      "parks": [
+        {
+          "id": "148151",
+          "name": "Bulburin National Park",
+          "url": "https://parks.qld.gov.au/parks/bulburin"
+        }
+      ]
+    },
+    {
+      "title": "Dandabah Campground Access",
+      "alert_id": "26705",
+      "url": "https://parks.qld.gov.au/park-alerts/26705",
+      "description": "Access to Dandabah Campground is suitable to high clearance 4x4 vehicles only due to wet weather and track conditions.",
+      "details": "<p>Access to Dandabah Campground is suitable to high clearance 4x4 vehicles only due to wet weather and track conditions.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-01",
+      "start_effective_date": "2026-07-01",
+      "end_date": "2026-07-08",
+      "parks": [
+        {
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Scenic circuit - wet weather",
+      "alert_id": "26706",
+      "url": "https://parks.qld.gov.au/park-alerts/26706",
+      "description": "Scenic circuit is wetter than usual due to inclement weather conditions. Please use caution whilst traversing the walking track.",
+      "details": "<p>Scenic circuit is wetter than usual due to inclement weather conditions. Please use caution whilst traversing the walking track.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-01",
+      "start_effective_date": "2026-07-01",
+      "end_date": "2026-07-08",
+      "parks": [
+        {
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/bunya-mountains"
         }
       ]
     }
