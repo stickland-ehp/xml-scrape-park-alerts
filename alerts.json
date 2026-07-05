@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 142,
-    "script_run_time": "2026-07-04 11:14:55"
+    "alerts_count": 143,
+    "script_run_time": "2026-07-05 11:20:30"
   },
   "alerts": [
     {
@@ -3017,6 +3017,24 @@
           "id": "149017",
           "name": "Bunya Mountains National Park",
           "url": "https://parks.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Curtis Island , Grahmams Creek Road, Ship Hill Day Use Area, Multi Use Trails 5, 6, 7, 8, and 9 Closed",
+      "alert_id": "26712",
+      "url": "https://parks.qld.gov.au/park-alerts/26712",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Curtis Island Environmental Management Precinct between the 20th and 25th of JULY 2026 As a result of the planned burn, smoke may be seen in nearby areas including Gladstone, Rockhampton, Emu Park, Rosslyn Bay and Yeppoon and the community of Southend. If visiting Curtis Island National Park observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Curtis Island Environmental Management Precinct between the 20th and 25th of JULY 2026 As a result of the planned burn, smoke may be seen in nearby areas including Gladstone, Rockhampton, Emu Park, Rosslyn Bay and Yeppoon and the community of Southend. If visiting Curtis Island National Park observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the<br /> area.<br /> Planned burns are vital in promoting ecological health, biodiversity, and the conservation of<br /> species and habitats.<br /> The aim of this burn is to maintain a healthy forest environment and reduce the potential<br /> threats from bushfires in periods of dangerous fire weather.<br /> Fire is important in many of Queensland&rsquo;s natural ecosystems to maintain the diversity of<br /> native plants and animals. Fire plays a vital role in maintaining these ecosystems through<br /> releasing nutrients, encouraging seed germination and providing ideal conditions for<br /> growth.<br /> Only a portion of the landscape is burnt at any one time. This helps to create a mosaic<br /> pattern of burnt and unburnt areas that increases the opportunity for safer and more<br /> successful response to bushfires while supporting plant regeneration and protecting<br /> important habitat for wildlife.<br /> Public safety is the highest consideration in all QPWS fire management activities. To find out<br /> more visit the Fire management webpage.<br /> Live air quality data, and information on smoke and dust health actions, can be found on the<br /> Queensland Government&rsquo;s website:<br /> https://www.qld.gov.au/environment/management/monitoring/air.</p> <p>You can stay updated with local QPWS fire activities by visiting Park Alerts or by following<br /> Qld Park Alerts on X (formerly known as Twitter).<br /> For more information, please call Patrick Centurino, Senior Ranger Fire, on 0408 764 158.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-07-05",
+      "start_effective_date": "2026-07-20",
+      "end_date": "2026-07-27",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/curtis-island"
         }
       ]
     }
