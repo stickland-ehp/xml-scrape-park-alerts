@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 143,
-    "script_run_time": "2026-07-05 11:20:30"
+    "alerts_count": 146,
+    "script_run_time": "2026-07-06 13:35:56"
   },
   "alerts": [
     {
@@ -577,13 +577,13 @@
       ]
     },
     {
-      "title": "Upcoming temporary camping area closure for planned burn: Ussher Point camping area, Apudthama National Park (CYPAL)",
+      "title": "Temporary camping area closure for planned burn: Ussher Point camping area, Apudthama National Park (CYPAL)",
       "alert_id": "25514",
       "url": "https://parks.qld.gov.au/park-alerts/25514",
       "description": "Visitors are advised that Queensland Parks and Wildlife Service will be conducting planned burns at Ussher Point camping area from Monday 6 July to Sunday 12 July 2026 (dates inclusive).",
       "details": "<p>Visitors are advised that Queensland Parks and Wildlife Service will be conducting planned burns at Ussher Point camping area from Monday 6 July to Sunday 12 July 2026 (dates inclusive).</p> <p>During this period&nbsp; the camping area will be closed.</p> <p>Heavy amounts of smoke may be present in the vicinity during this period and it is&nbsp;recommend that persons with respiratory issues stay away from the area.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-06-10",
+      "start_date": "2026-07-06",
       "start_effective_date": "2026-07-06",
       "end_date": "2026-07-12",
       "parks": [
@@ -1609,13 +1609,13 @@
       ]
     },
     {
-      "title": "Temporary partial track closure: Acacia and Dianella walking tracks, Earl Hill Conservation Park",
+      "title": "Temporary walking track closures and changes to access: Earl Hill summit, Earl Hill Conservation Park",
       "alert_id": "26388",
       "url": "https://parks.qld.gov.au/park-alerts/26388",
-      "description": "Visitors are advised that walking track access to Earl Hill summit will be partially restricted from Friday 3 July 2026 to Friday 10 July 2026 (weather permitting).",
-      "details": "<p>Visitors are advised that walking track access to Earl Hill summit will be partially restricted from Friday 3 July 2026 to Friday 10 July 2026 (weather permitting).</p> <p>During this period:</p> <ul> <li>One section of track will be closed at a time, from the junction of Acacia and Dianella walking tracks to Earl Hill summit.</li> <li>Access to the Earl Hill summit will remain open via the unclosed section of track.</li> </ul> <p>This closure is for track stabilisation works to occur, improving the walking track surface and drainage and enhancing visitor experience.</p> <p>Plant and heavy machinery are operating within the closed section of Acacia walking track, making it unsafe for visitors.</p> <p>Please observe all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p>",
+      "description": "Visitors are advised that walking track access to Earl Hill summit will be partially restricted from Friday 3 July 2026 to Friday 10 July 2026 (dates inclusive), weather permitting.",
+      "details": "<p>Visitors are advised that walking track access to Earl Hill summit will be partially restricted from Friday 3 July 2026 to Friday 10 July 2026 (dates inclusive), weather permitting.</p> <p>&nbsp;During this period:</p> <ul> <li>One section of track will be closed at a time, from the junction of Acacia and Dianella walking tracks to Earl Hill summit.</li> <li>Access to the Earl Hill summit will remain open via the unclosed section of track at all times.</li> </ul> <p>These closures are for track stabilisation works to occur, improving the walking track surface and drainage and enhancing visitor experience.</p> <p>Plant and heavy machinery will be operating within the closed sections of the tracks. Please observe all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-03",
+      "start_date": "2026-07-06",
       "start_effective_date": "2026-07-03",
       "end_date": "2026-07-10",
       "parks": [
@@ -2439,24 +2439,6 @@
       ]
     },
     {
-      "title": "Closure Notice  Mountain Bike Track 7",
-      "alert_id": "26602",
-      "url": "https://parks.qld.gov.au/park-alerts/26602",
-      "description": "The Queensland Parks and Wildlife Service advises the public of temporary closure to Mountain Bike Track 7 due to the recent works conducted at the bottom of the trail. QPWS is currently working with stakeholders to establish a solution and reopen as soon as practicable.",
-      "details": "<p>The Queensland Parks and Wildlife Service advises the public of temporary closure to Mountain Bike Track 7 due to the recent works conducted at the bottom of the trail. QPWS is currently working with stakeholders to establish a solution and reopen as soon as practicable.</p> <p>QPWS apologises for any inconvenience this has caused.&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-25",
-      "start_effective_date": "2026-06-02",
-      "end_date": "2026-07-05",
-      "parks": [
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "Planned burn Byfield National Park and State Forest: 8-31 August 2026",
       "alert_id": "26614",
       "url": "https://parks.qld.gov.au/park-alerts/26614",
@@ -2821,15 +2803,15 @@
       ]
     },
     {
-      "title": "Temporary closure: Goldsborough Valley section, Wooroonooran National Park",
+      "title": "Temporary closure update: Goldsborough Valley section, Wooroonooran National Park",
       "alert_id": "26694",
       "url": "https://parks.qld.gov.au/park-alerts/26694",
       "description": "Due to wet weather, the Goldsborough Valley section of Wooroonooran National Park, is temporarily closed until the entrance road is declared safe.",
-      "details": "<p>Due to wet weather, the Goldsborough Valley section of Wooroonooran National Park, is temporarily closed until the entrance road is declared safe.</p> <p><strong>This temporary closure includes:</strong></p> <ul> <li>Goldsborough Valley Bora Ground camping area</li> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley day use area</li> <li>Section of Goldfield Trail between Goldsborough Valley day use area and Mulgrave River (Goldfield Trail) camping area</li> <li>Mulgrave River (Goldfield Trail) camping area</li> </ul> <p>&nbsp;</p> <p><strong>This closure is necessary to:</strong></p> <ul> <li>Start emergent works on sections of the entrance road</li> <li>Ensure visitor safety</li> <li>Prevent further damage to track and road surfaces and associated infrastructure</li> </ul> <p>&nbsp;</p> <p><strong>Campers with an existing booking between 29 June and 8 July 2026 (inclusive), please&nbsp;</strong><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\"><strong>cancel</strong></a><strong>&nbsp;and request a refund online.</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>Due to wet weather, the Goldsborough Valley section of Wooroonooran National Park, is temporarily closed until the entrance road is declared safe.</p> <p><strong>This temporary closure includes:</strong></p> <ul> <li>Goldsborough Valley Bora Ground camping area</li> <li>Goldsborough Valley camping area</li> <li>Goldsborough Valley day use area</li> <li>Section of Goldfield Trail between Goldsborough Valley day use area and Mulgrave River (Goldfield Trail) camping area</li> </ul> <p><strong>Mulgrave River (Goldfield Trail) camping area will remain open but is only accessible from the&nbsp;Boulders Council Scenic Reserve.</strong></p> <p>&nbsp;</p> <p><strong>This closure is necessary to:</strong></p> <ul> <li>Start emergent works on sections of the entrance road</li> <li>Ensure visitor safety</li> <li>Prevent further damage to track and road surfaces and associated infrastructure</li> </ul> <p>&nbsp;</p> <p><strong>Campers with an existing booking between 29 June and 31 July 2026 (dates inclusive), please&nbsp;</strong><a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\"><strong>cancel</strong></a><strong>&nbsp;and request a refund online.</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-03",
+      "start_date": "2026-07-06",
       "start_effective_date": "2026-06-29",
-      "end_date": "2026-07-08",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "156496",
@@ -2853,11 +2835,11 @@
       "alert_id": "26696",
       "url": "https://parks.qld.gov.au/park-alerts/26696",
       "description": "Mount Lewis Road in Mount Lewis National Park is temporarily closed for urgent road works.",
-      "details": "<p>Mount Lewis Road in Mount Lewis National Park is temporarily closed for urgent road works.</p> <p>Due to poor weather, these works are taking longer than anticipated to be completed.&nbsp; The new planned reopening date for Mount Lewis Road is 5pm Tuesday 7 July 2026.</p> <p>Please observe all signage, barriers and directions and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>Mount Lewis Road in Mount Lewis National Park is temporarily closed for urgent road works.</p> <p>Due to poor weather, these works are taking longer than anticipated to be completed.&nbsp; The new planned reopening date for Mount Lewis Road is 5pm Thursday 9 July 2026.</p> <p>Please observe all signage, barriers and directions and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-02",
+      "start_date": "2026-07-06",
       "start_effective_date": "2026-06-29",
-      "end_date": "2026-07-07",
+      "end_date": "2026-07-09",
       "parks": [
         {
           "id": "148484",
@@ -3035,6 +3017,83 @@
           "id": "148884",
           "name": "Curtis Island National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary access road closure: Bartle Frere trail western trailhead, Wooroonooran National Park",
+      "alert_id": "26713",
+      "url": "https://parks.qld.gov.au/park-alerts/26713",
+      "description": "The Bartle Frere access road at the western trailhead has been impacted by rain events and is currently closed to all traffic until Monday 31 August 2026 (date inclusive).",
+      "details": "<p>The Bartle Frere access road at the western trailhead has been impacted by rain events and is currently closed to all traffic until Monday 31 August 2026 (date inclusive).</p> <p>During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change following periods of rainfall. Short-term temporary closures may occur to assist visitor safety and limit damage to the road surface.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-06",
+      "start_effective_date": "2026-07-06",
+      "end_date": "2026-08-31",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "148428",
+          "name": "Bartle Frere trail, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/bartle-frere"
+        }
+      ]
+    },
+    {
+      "title": "Open with caution for high clearance 4WD vehicles only: Tumoulin Forest Reserve",
+      "alert_id": "26714",
+      "url": "https://parks.qld.gov.au/park-alerts/26714",
+      "description": "Tumoulin Forest Reserve access roads and fire trails have been impacted by rain events and are currently suited to high clearance 4WD vehicles only.",
+      "details": "<p>Tumoulin Forest Reserve access roads and fire trails have been impacted by rain events and are currently suited to high clearance 4WD vehicles only.</p> <p>Visitors are advised to drive with caution during this period, and carry recovery equipment.</p> <p>Please continue to monitor park alerts as this access information may change following periods of rainfall. Short-term temporary closures may occur to assist visitor safety and limit damage to the road surface.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-06",
+      "start_effective_date": "2026-07-06",
+      "end_date": "2026-08-31",
+      "parks": [
+        {
+          "id": "148099",
+          "name": "Tumoulin State Forest and Tumoulin Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/tumoulin"
+        }
+      ]
+    },
+    {
+      "title": "Temporary road and camping area closures: Nitchaga and Wall Creek bush camping, Koombooloomba National Park",
+      "alert_id": "26715",
+      "url": "https://parks.qld.gov.au/park-alerts/26715",
+      "description": "Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.",
+      "details": "<p>Nitchaga and Wall Creek bush camping in Koombooloomba National Park is closed as there is no access along Nitchaga Creek Road, Red Road and Wall Creek Road.</p> <p>These roads are closed to all motorised vehicles until further notice until damage can be repaired.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the work area.</p> <p><a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf\">See map</a>:&nbsp;https://parks.desi.qld.gov.au/__data/assets/pdf_file/0025/161458/koombooloomba-map.pdf&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-06",
+      "start_effective_date": "2026-07-06",
+      "end_date": "2027-07-05",
+      "parks": [
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/koombooloomba"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn: Annan River (Yuku Baja-Muliku) National Park",
+      "alert_id": "26716",
+      "url": "https://parks.qld.gov.au/park-alerts/26716",
+      "description": "Queensland Parks and Wildlife Service (QPWS) and Yuku Baja Muliku Rangers will be conducting planned burns within Annan River (Yuku Baja-Muliku) National Park from Tuesday 7 July to Friday 10 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) and Yuku Baja Muliku Rangers will be conducting planned burns within Annan River (Yuku Baja-Muliku) National Park from Tuesday 7 July to Friday 10 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result, smoke may be visible from sections of the <strong>Mulligan Highway</strong> during this period. Motorists are asked to adhere to all safety signage and directions from local rangers, and to remain alert for firefighters and operational vehicles working in the area.</p> <p>The purpose of these planned burns is to maintain healthy forest ecosystems, promote biodiversity, and reduce the risk and potential impacts of bushfires during periods of elevated fire danger.</p> <p>QPWS appreciates the community&rsquo;s understanding and cooperation while these important land management activities are undertaken.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-06",
+      "start_effective_date": "2026-07-07",
+      "end_date": "2026-07-10",
+      "parks": [
+        {
+          "id": "148372",
+          "name": "Annan River (Yuku Baja-Muliku) National Park",
+          "url": "https://parks.qld.gov.au/parks/annan-river"
         }
       ]
     }
