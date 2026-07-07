@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 146,
-    "script_run_time": "2026-07-06 13:35:56"
+    "alerts_count": 148,
+    "script_run_time": "2026-07-07 12:19:23"
   },
   "alerts": [
     {
@@ -728,14 +728,14 @@
       ]
     },
     {
-      "title": "Wet season closure: Cape Melville National Park (CYPAL)",
+      "title": "Wet season closure update: Cape Melville National Park (CYPAL)",
       "alert_id": "25935",
       "url": "https://parks.qld.gov.au/park-alerts/25935",
-      "description": "Cape Melville National Park (CYPAL) is closed for the wet season. The park is anticipated to reopen Saturday 1 August 2026, subject to road and weather conditions.",
-      "details": "<p>Cape Melville National Park (CYPAL) is closed for the wet season. The park is anticipated to reopen Saturday 1 August 2026, subject to road and weather conditions.</p> <p>Please monitor park alerts for current information.</p>",
+      "description": "Cape Melville National Park (CYPAL) has partially reopened from the wet season. Please see the below updated information on camping area reopening dates.",
+      "details": "<p>Cape Melville National Park (CYPAL) has partially reopened from the wet season. Please see the below updated information on camping area reopening dates.</p> <p>The following camping areas are open:</p> <ul> <li>Granite camping area</li> <li>Ninian Bay camping area</li> <li>Oystercatcher camping area</li> <li>Wongai camping area</li> </ul> <p>&nbsp;</p> <p>The following camping area will remain closed until further notice and will open when it is safe to do so:</p> <ul> <li>Crocodile camping area</li> </ul> <p>&nbsp;</p> <p>Please monitor park alerts for current information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-12-01",
-      "start_effective_date": "2025-12-01",
+      "start_date": "2026-07-07",
+      "start_effective_date": "2026-07-07",
       "end_date": "2026-07-31",
       "parks": [
         {
@@ -780,39 +780,6 @@
           "id": "148460",
           "name": "Tully Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/tully-gorge"
-        },
-        {
-          "id": "148840",
-          "name": "Misty Mountains wilderness tracks",
-          "url": "https://parks.qld.gov.au/parks/misty-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closures update: Cannabullen Creek and Hinson Creek camping areas, part of Cardwell Range track and part of Cannabullen Creek track, Misty Mountains wilderness tracks",
-      "alert_id": "25943",
-      "url": "https://parks.qld.gov.au/park-alerts/25943",
-      "description": "Please see below for further details about reopening of visitor facilities in this section of Misty Mountains wilderness tracks:",
-      "details": "<p>Please see below for further details about reopening of visitor facilities in this section of Misty Mountains wilderness tracks:</p> <p><strong>Section of track that is open:</strong></p> <ul> <li>From Hinson Creek trailhead to Cannabullen Falls (part of Cannabullen Creek track and Cardwell Range track)</li> </ul> <p><strong>Section of track that is closed and will reopen on Tuesday 7 July 2026:</strong></p> <ul> <li>Cardwell Range track between Cardwell Range trailhead and the intersection to the track joining Cannabullen Creek Track</li> </ul> <p><strong>Visitor facilities that are closed and will reopen on Tuesday 7 July 2026:</strong></p> <ul> <li>Cannabullen Creek camping area</li> <li>Hinson Creek camping area</li> <li>Majors Mountain lookout</li> </ul> <p><strong>Section of track and visitor facilities to remain closed: </strong></p> <ul> <li>Cannabullen Creek track between Hinson Creek camping area and Cochable Creek camping area (see separate park alert for further details).</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-03",
-      "start_effective_date": "2025-11-17",
-      "end_date": "2026-07-06",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "148600",
-          "name": "Tully Falls National Park",
-          "url": "https://parks.qld.gov.au/parks/tully-falls"
-        },
-        {
-          "id": "148888",
-          "name": "Tablelands section, Tully Gorge National Park",
-          "url": "https://parks.qld.gov.au/parks/tully-tableland"
         },
         {
           "id": "148840",
@@ -2439,6 +2406,24 @@
       ]
     },
     {
+      "title": "Closure Notice  Mountain Bike Track 7",
+      "alert_id": "26602",
+      "url": "https://parks.qld.gov.au/park-alerts/26602",
+      "description": "The Queensland Parks and Wildlife Service advises the public of temporary closure to Mountain Bike Track 7 due to the recent works conducted at the bottom of the trail. QPWS is currently working with stakeholders to establish a solution and reopen as soon as practicable.",
+      "details": "<p>The Queensland Parks and Wildlife Service advises the public of temporary closure to Mountain Bike Track 7 due to the recent works conducted at the bottom of the trail. QPWS is currently working with stakeholders to establish a solution and reopen as soon as practicable.</p> <p>QPWS apologises for any inconvenience this has caused.&nbsp;</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-07",
+      "start_effective_date": "2026-06-02",
+      "end_date": "2026-07-31",
+      "parks": [
+        {
+          "id": "148376",
+          "name": "Bunyaville Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/bunyaville"
+        }
+      ]
+    },
+    {
       "title": "Planned burn Byfield National Park and State Forest: 8-31 August 2026",
       "alert_id": "26614",
       "url": "https://parks.qld.gov.au/park-alerts/26614",
@@ -2624,12 +2609,12 @@
       "title": "Park closed due to wet conditions",
       "alert_id": "26662",
       "url": "https://parks.qld.gov.au/park-alerts/26662",
-      "description": "Due to recent rainfall Currawinya National Park tracks, facilities, and Camping areas are closed. Rangers will assess conditions on Tuesday 07/07/2026 and open roads as they become accessible.",
-      "details": "<p>Due to recent rainfall Currawinya National Park tracks, facilities, and Camping areas are closed. Rangers will assess conditions on Tuesday 07/07/2026 and open roads as they become accessible.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Due to recent rainfall Currawinya National Park tracks, facilities, and Camping areas are closed. Rangers will assess conditions on Friday 10/07/2026 and open roads as they become accessible.",
+      "details": "<p>Due to recent rainfall Currawinya National Park tracks, facilities, and Camping areas are closed. Rangers will assess conditions on Friday 10/07/2026 and open roads as they become accessible.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-02",
+      "start_date": "2026-07-07",
       "start_effective_date": "2026-06-25",
-      "end_date": "2026-07-08",
+      "end_date": "2026-07-11",
       "parks": [
         {
           "id": "148323",
@@ -2689,9 +2674,9 @@
       "alert_id": "26679",
       "url": "https://parks.qld.gov.au/park-alerts/26679",
       "description": "Route 2 between Forts Junction - Radical Bay will be closed to walking and bicycles access 1 July - 1 November 2026 during the construction period for Radical Bay Road access improvements.",
-      "details": "<p>Route 2 between Forts Junction - Radical Bay will be closed to walking and bicycles access 1 July - 1 November 2026 during the construction period for Radical Bay Road access improvements.</p> <p>The Department of Transport and Main Roads (TMR) are undertaking works on the Radical Bay Road 1 July - 1 November 2026. The road will remain closed to all vehicle, bicycle and foot traffic during the period of works.<br /> Access to Florence Bay and Arthur Bay will be affected (access only by boat for the construction period).&nbsp;</p> <p>The Horseshoe Bay- Baldling Bay - Radical Bay section of walking track (Route 2) from will remian open to walkers.&nbsp;</p>",
+      "details": "<p>Route 2 between Forts Junction - Radical Bay will be closed to walking and bicycles access 1 July - 1 November 2026 during the construction period for Radical Bay Road access improvements.</p> <p>The Department of Transport and Main Roads (TMR) are undertaking works on the Radical Bay Road 1 July - 1 November 2026. The road will remain closed to all vehicle, bicycle and foot traffic during the period of works.<br /> Access to Florence Bay and Arthur Bay will be affected (access only by boat for the construction period).&nbsp;</p> <p>The Horseshoe Bay- Baldling Bay - Radical Bay section of walking track (Route 2) from will remain open to walkers.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-06-23",
+      "start_date": "2026-07-07",
       "start_effective_date": "2026-06-24",
       "end_date": "2026-11-01",
       "parks": [
@@ -3094,6 +3079,42 @@
           "id": "148372",
           "name": "Annan River (Yuku Baja-Muliku) National Park",
           "url": "https://parks.qld.gov.au/parks/annan-river"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: no swimming at Josephine Falls, Wooroonooran National Park",
+      "alert_id": "26717",
+      "url": "https://parks.qld.gov.au/park-alerts/26717",
+      "description": "Visitors are advised that Josephine Creek within Josephine Falls section, Wooroonooran National Park is closed until further notice.",
+      "details": "<p>Visitors are advised that Josephine Creek within Josephine Falls section, Wooroonooran National Park is closed until further notice.</p> <p>For your safety, do not enter the water. The creek is closed.</p> <ul> <li>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek.</li> <li>Further rain is expected.</li> <li>Water levels can change rapidly in Josephine Creek.</li> </ul> <p>The walking track and viewing platforms remain open and can still be accessed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-07",
+      "start_effective_date": "2026-07-07",
+      "end_date": "2026-07-09",
+      "parks": [
+        {
+          "id": "154596",
+          "name": "Josephine Falls, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
+        }
+      ]
+    },
+    {
+      "title": "Planned burns for Magnetic Island National Park",
+      "alert_id": "26718",
+      "url": "https://parks.qld.gov.au/park-alerts/26718",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns in Magnetic Island National Park (weather permitting) between 13  17 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns in Magnetic Island National Park (weather permitting) between 13  17 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result of the planned burns,&nbsp;smoke may be seen in the interior highland areas of the island, behind Picnic Bay and at the (eastern side of Horseshoe Bay).&nbsp;</p> <p>If visiting Magnetic Island National Park, observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Persons with respiratory concerns are advised to take appropriate measure to mitigate risks. &nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-07",
+      "start_effective_date": "2026-07-13",
+      "end_date": "2026-07-17",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.qld.gov.au/parks/magnetic-island"
         }
       ]
     }
