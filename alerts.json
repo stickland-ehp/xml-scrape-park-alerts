@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 148,
-    "script_run_time": "2026-07-07 12:19:23"
+    "alerts_count": 150,
+    "script_run_time": "2026-07-08 11:39:43"
   },
   "alerts": [
     {
@@ -1110,9 +1110,9 @@
       "description": "Please be advised that the privately owned jetty located at Bauer Bay, South Molle Island, is closed to the public due to damage caused by Cyclone Koji. The jetty owner has advised QPWS that risk and damage assessments are underway and an estimated reopening date will be advised once repair timeframes are known.",
       "details": "<p>Please be advised that the privately owned jetty located at Bauer Bay, South Molle Island, is closed to the public due to damage caused by Cyclone Koji. The jetty owner has advised QPWS that risk and damage assessments are underway and an estimated reopening date will be advised once repair timeframes are known.</p> <p>In the interim, access to the national park from Bauer Bay is via beach landing only and is tide dependant.</p> <p>Other access points on the island, including Sandy and Paddle Bay remain unchanged.</p> <p>All visitors may continue to use the designated access path from Bauer Bay beach to access the national park recreational trails.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers or resort personnel and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Other",
-      "start_date": "2026-07-01",
+      "start_date": "2026-07-08",
       "start_effective_date": "2026-01-30",
-      "end_date": "2026-09-30",
+      "end_date": "2026-12-31",
       "parks": [
         {
           "id": "148941",
@@ -2112,34 +2112,6 @@
       ]
     },
     {
-      "title": "Pest Management Control Program  1080 Baiting Curtis Island National Park, Conservation Park, and State Forest",
-      "alert_id": "26547",
-      "url": "https://parks.qld.gov.au/park-alerts/26547",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Sunday the 7th of June to Tuesday the 7th of July 2026.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Sunday the 7th of June to Tuesday the 7th of July 2026.</p> <p>These activities are conducted to reduce impacts on Flatback Turtle and Yellow Chat habitats and to reduce predation by feral animals, including feral pigs. QPWS will be installing a number of 1080 warning signs within the area informing the use of 1080 baits.</p> <p>To ensure the safety of the public, no access is permitted to the protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground, during the above dates.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-05-22",
-      "start_effective_date": "2026-06-07",
-      "end_date": "2026-07-07",
-      "parks": [
-        {
-          "id": "322526",
-          "name": "North Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
       "title": "Partial closure of Wanggoolba Creek Boardwalk",
       "alert_id": "26556",
       "url": "https://parks.qld.gov.au/park-alerts/26556",
@@ -2481,12 +2453,12 @@
       "title": "Temporary closure : Lochern, Idalia and Welford National Parks",
       "alert_id": "26640",
       "url": "https://parks.qld.gov.au/park-alerts/26640",
-      "description": "Lochern, Idalia and Welford National Parks are temporarily closed due to wet conditions until Wednesday 8 July 2026 when conditions will be reviewed.",
-      "details": "<p>Lochern, Idalia and Welford National Parks are temporarily closed due to wet conditions until Wednesday 8 July 2026 when conditions will be reviewed.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "description": "Lochern, Idalia and Welford National Parks are temporarily closed due to boggy and wet conditions caused by recent rainfall until Wednesday 15 July 2026 when conditions will be reviewed.",
+      "details": "<p>Lochern, Idalia and Welford National Parks are temporarily closed due to boggy and wet conditions caused by recent rainfall until Wednesday 15 July 2026 when conditions will be reviewed.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-06-30",
+      "start_date": "2026-07-08",
       "start_effective_date": "2026-06-11",
-      "end_date": "2026-07-08",
+      "end_date": "2026-07-15",
       "parks": [
         {
           "id": "148251",
@@ -2674,9 +2646,9 @@
       "alert_id": "26679",
       "url": "https://parks.qld.gov.au/park-alerts/26679",
       "description": "Route 2 between Forts Junction - Radical Bay will be closed to walking and bicycles access 1 July - 1 November 2026 during the construction period for Radical Bay Road access improvements.",
-      "details": "<p>Route 2 between Forts Junction - Radical Bay will be closed to walking and bicycles access 1 July - 1 November 2026 during the construction period for Radical Bay Road access improvements.</p> <p>The Department of Transport and Main Roads (TMR) are undertaking works on the Radical Bay Road 1 July - 1 November 2026. The road will remain closed to all vehicle, bicycle and foot traffic during the period of works.<br /> Access to Florence Bay and Arthur Bay will be affected (access only by boat for the construction period).&nbsp;</p> <p>The Horseshoe Bay- Baldling Bay - Radical Bay section of walking track (Route 2) from will remain open to walkers.&nbsp;</p>",
+      "details": "<p>Route 2 between Forts Junction - Radical Bay will be closed to walking and bicycles access 1 July - 1 November 2026 during the construction period for Radical Bay Road access improvements.</p> <p>The Department of Transport and Main Roads (TMR) are undertaking works on the Radical Bay Road 1 July - 1 November 2026. The road will remain closed to all vehicle, bicycle and foot traffic during the period of works.<br /> Access to Florence Bay and Arthur Bay will be affected (access only by boat for the construction period).&nbsp;</p> <p>The Horseshoe Bay- Baldling Bay - Radical Bay section of walking track (Route 2) will remain open to walkers.&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-07",
+      "start_date": "2026-07-08",
       "start_effective_date": "2026-06-24",
       "end_date": "2026-11-01",
       "parks": [
@@ -2898,38 +2870,20 @@
       ]
     },
     {
-      "title": "Temporary Closure : Diamantina National Park",
-      "alert_id": "26703",
-      "url": "https://parks.qld.gov.au/park-alerts/26703",
-      "description": "Diamantina National Park is temporarily closed due to rain and wet conditions until Tuesday 7 July 2026 when conditions will be reviewed.",
-      "details": "<p>Diamantina National Park is temporarily closed due to rain and wet conditions until Tuesday 7 July 2026 when conditions will be reviewed.</p> <p>Please monitor local government road conditions before commencing any travel<br /> https://www.winton.qld.gov.au/News/Road-Conditions<br /> https://disaster.diamantina.qld.gov.au/</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-30",
-      "start_effective_date": "2026-06-30",
-      "end_date": "2026-07-07",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
-      "title": "Old Forestry campground temporarily closed - Bulburin National Park",
-      "alert_id": "26704",
-      "url": "https://parks.qld.gov.au/park-alerts/26704",
-      "description": "Planned works are being undertaken by a contractor in the Old Forestry campground from Tuesday, 7 July to Friday 10 July.",
-      "details": "<p>Planned works are being undertaken by a contractor in the Old Forestry campground from Tuesday, 7 July to Friday 10 July.</p> <p>Old Forestry campground will be closed during this time.</p> <p>Zamia campground remains open and Dawes Range road.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-01",
-      "start_effective_date": "2026-07-06",
+      "title": "Planned burn operations: Wangetti Beach area, Macalister Range National Park",
+      "alert_id": "26707",
+      "url": "https://parks.qld.gov.au/park-alerts/26707",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within the Wangetti beach area of Macalister Range National Park on Thursday 9 July and Friday 10 July (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within the Wangetti beach area of Macalister Range National Park on Thursday 9 July and Friday 10 July (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>During this period smoke may be seen in the vicinity of Wangetti Beach and surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the fire management <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">webpage</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-08",
+      "start_effective_date": "2026-07-09",
       "end_date": "2026-07-10",
       "parks": [
         {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.qld.gov.au/parks/bulburin"
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.qld.gov.au/parks/macalister-range"
         }
       ]
     },
@@ -2958,9 +2912,9 @@
       "description": "As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are&nbsp;monitoring&nbsp;the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-02",
+      "start_date": "2026-07-08",
       "start_effective_date": "2026-07-02",
-      "end_date": "2026-07-13",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "149497",
@@ -2984,6 +2938,24 @@
           "id": "149017",
           "name": "Bunya Mountains National Park",
           "url": "https://parks.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure Oiling - Tongue Point, Whitsunday Island",
+      "alert_id": "26711",
+      "url": "https://parks.qld.gov.au/park-alerts/26711",
+      "description": "Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Hill Inlet, Tongue Point from 21/07/2026 to 24/07/2026 (weather dependent). During this period:  Sections of the lookout platforms, boardwalks and surrounding day-use areas may be temporarily closed.  Please note, at least one Hill Inlet lookout will remain open for park users.  The Tongue Point toilets will be closed for short period for cleaning and oiling. Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway. For further updates, please monitor park alerts and plan your visit accordingly.",
+      "details": "<p>Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Hill Inlet, Tongue Point from 21/07/2026 to 24/07/2026 (weather dependent). During this period:  Sections of the lookout platforms, boardwalks and surrounding day-use areas may be temporarily closed.  Please note, at least one Hill Inlet lookout will remain open for park users.  The Tongue Point toilets will be closed for short period for cleaning and oiling. Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway. For further updates, please monitor park alerts and plan your visit accordingly.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-08",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-07-24",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
         }
       ]
     },
@@ -3115,6 +3087,70 @@
           "id": "148961",
           "name": "Magnetic Island National Park",
           "url": "https://parks.qld.gov.au/parks/magnetic-island"
+        }
+      ]
+    },
+    {
+      "title": "Caution: Roadworks, drive with care. Lawn Hill Gorge section entrance road. Boodjamulla National Park (Aboriginal Land)",
+      "alert_id": "26719",
+      "url": "https://parks.qld.gov.au/park-alerts/26719",
+      "description": "Visitors are advised that road maintenance works will be undertaken from Wednesday 8 July to Tuesday 14 July 2026, on the road between the Boodjamulla National Park (Aboriginal Land) entrance and the Lawn Hill Gorge day-use area car park.",
+      "details": "<p>Visitors are advised that road maintenance works will be undertaken from Wednesday 8 July to Tuesday 14 July 2026, on the road between the Boodjamulla National Park (Aboriginal Land) entrance and the Lawn Hill Gorge day-use area car park.</p> <p>During this time, heavy machinery will be operating and traffic controllers will be on site. For your safety, obey all traffic management directions and take extra care around heavy machinery.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-08",
+      "start_effective_date": "2026-07-08",
+      "end_date": "2026-07-14",
+      "parks": [
+        {
+          "id": "150272",
+          "name": "Lawn Hill Gorge, Boodjamulla National Park (Aboriginal Land)",
+          "url": "https://parks.qld.gov.au/parks/boodjamulla-lawn-hill"
+        },
+        {
+          "id": "148444",
+          "name": "Boodjamulla National Park (Aboriginal Land)",
+          "url": "https://parks.qld.gov.au/parks/boodjamulla"
+        }
+      ]
+    },
+    {
+      "title": "Challenging seasonal hiking conditions",
+      "alert_id": "26720",
+      "url": "https://parks.qld.gov.au/park-alerts/26720",
+      "description": "Conditions are extremely hot and humid at this time of year, increasing the risk of heat-related injuries. Hikers can suffer heat exhaustion.",
+      "details": "<p>Conditions are extremely hot and humid at this time of year, increasing the risk of heat-related injuries. Hikers can suffer heat exhaustion.</p> <p>Freshwater sources often dry up in October-December. The wet season usually begins in December. When the wet season starts, high rainfall can cause creeks to rise rapidly and crossings to become dangerous. Extreme weather events are also more likely during the wet season.</p> <p>QPWS strongly recommends careful consideration of choosing to undertake the Thorsborne Trail hike during the summer months. &nbsp;&nbsp;&nbsp;&nbsp;</p> <p>The Thorsborne Trail is closed seasonally from the start of January to the end of February due to the high risk of unsafe conditions over this period.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-08",
+      "start_effective_date": "2026-10-01",
+      "end_date": "2027-03-31",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Water safety advice: Cardwell Spa Pool day-use area, Cardwell Forest Drive, Cardwell State Forest",
+      "alert_id": "26721",
+      "url": "https://parks.qld.gov.au/park-alerts/26721",
+      "description": "For your safety, do not enter the water at Spa Pool day-use area. Dry season conditions have caused the creek to become unsafe for entering. Entering the stagnant or slow moving water could cause health concerns.",
+      "details": "<p>For your safety, do not enter the water at Spa Pool day-use area. Dry season conditions have caused the creek to become unsafe for entering. Entering the stagnant or slow moving water could cause health concerns.</p> <p>Visitors are advised not to enter the water until futher notice.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-08",
+      "start_effective_date": "2026-07-10",
+      "end_date": "2026-11-30",
+      "parks": [
+        {
+          "id": "150212",
+          "name": "Cardwell State Forest",
+          "url": "https://parks.qld.gov.au/parks/cardwell-state-forest"
         }
       ]
     }
