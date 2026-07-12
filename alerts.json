@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2026-07-11 10:50:57"
+    "alerts_count": 156,
+    "script_run_time": "2026-07-12 11:03:21"
   },
   "alerts": [
     {
@@ -2566,24 +2566,6 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
-      "title": "Park closed due to wet conditions",
-      "alert_id": "26662",
-      "url": "https://parks.qld.gov.au/park-alerts/26662",
-      "description": "Due to recent rainfall Currawinya National Park tracks, facilities, and Camping areas are closed. Rangers will assess conditions on Friday 10/07/2026 and open roads as they become accessible.",
-      "details": "<p>Due to recent rainfall Currawinya National Park tracks, facilities, and Camping areas are closed. Rangers will assess conditions on Friday 10/07/2026 and open roads as they become accessible.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-07",
-      "start_effective_date": "2026-06-25",
-      "end_date": "2026-07-11",
-      "parks": [
-        {
-          "id": "148323",
-          "name": "Currawinya National Park",
-          "url": "https://parks.qld.gov.au/parks/currawinya"
         }
       ]
     },
