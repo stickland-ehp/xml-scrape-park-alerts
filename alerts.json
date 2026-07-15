@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 166,
-    "script_run_time": "2026-07-14 11:14:46"
+    "script_run_time": "2026-07-15 11:18:23"
   },
   "alerts": [
     {
@@ -2427,12 +2427,12 @@
       "title": "Temporary closure : Lochern, Idalia and Welford National Parks",
       "alert_id": "26640",
       "url": "https://parks.qld.gov.au/park-alerts/26640",
-      "description": "Lochern, Idalia and Welford National Parks are temporarily closed due to boggy and wet conditions caused by recent rainfall until Wednesday 15 July 2026 when conditions will be reviewed.",
-      "details": "<p>Lochern, Idalia and Welford National Parks are temporarily closed due to boggy and wet conditions caused by recent rainfall until Wednesday 15 July 2026 when conditions will be reviewed.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "description": "Lochern, Idalia and Welford National Parks are temporarily closed due to boggy and wet conditions caused by recent rainfall until Wednesday 22 July 2026 when conditions will be reviewed.",
+      "details": "<p>Lochern, Idalia and Welford National Parks are temporarily closed due to boggy and wet conditions caused by recent rainfall until Wednesday 22 July 2026 when conditions will be reviewed.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\">cancel</a> and request a refund online.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>The park will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-08",
+      "start_date": "2026-07-15",
       "start_effective_date": "2026-06-11",
-      "end_date": "2026-07-15",
+      "end_date": "2026-07-22",
       "parks": [
         {
           "id": "148251",
@@ -2957,29 +2957,6 @@
       ]
     },
     {
-      "title": "Caution: Roadworks, drive with care. Lawn Hill Gorge section entrance road. Boodjamulla National Park (Aboriginal Land)",
-      "alert_id": "26719",
-      "url": "https://parks.qld.gov.au/park-alerts/26719",
-      "description": "Visitors are advised that road maintenance works will be undertaken from Wednesday 8 July to Tuesday 14 July 2026, on the road between the Boodjamulla National Park (Aboriginal Land) entrance and the Lawn Hill Gorge day-use area car park.",
-      "details": "<p>Visitors are advised that road maintenance works will be undertaken from Wednesday 8 July to Tuesday 14 July 2026, on the road between the Boodjamulla National Park (Aboriginal Land) entrance and the Lawn Hill Gorge day-use area car park.</p> <p>During this time, heavy machinery will be operating and traffic controllers will be on site. For your safety, obey all traffic management directions and take extra care around heavy machinery.</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-08",
-      "start_effective_date": "2026-07-08",
-      "end_date": "2026-07-14",
-      "parks": [
-        {
-          "id": "150272",
-          "name": "Lawn Hill Gorge, Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.qld.gov.au/parks/boodjamulla-lawn-hill"
-        },
-        {
-          "id": "148444",
-          "name": "Boodjamulla National Park (Aboriginal Land)",
-          "url": "https://parks.qld.gov.au/parks/boodjamulla"
-        }
-      ]
-    },
-    {
       "title": "Challenging seasonal hiking conditions",
       "alert_id": "26720",
       "url": "https://parks.qld.gov.au/park-alerts/26720",
@@ -3060,40 +3037,17 @@
       "title": "Temporary closures due to planned burn operations: north-east section, The Bluff State Forest",
       "alert_id": "26726",
       "url": "https://parks.qld.gov.au/park-alerts/26726",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Tuesday 14 July to Friday 17 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Tuesday 14 July to Friday 17 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>During this period the following areas will be closed for public safety:</strong></p> <ul> <li>All multi-use trails within the area bounded by Old Kaban Road, Flaggy Creek Road, Springvale Road&nbsp;and Marshall Creek Road, including Old Coach Road/Bluff walking trail.</li> </ul> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management webpage</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Tuesday 14 July to Saturday 18 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Tuesday 14 July to Saturday 18 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>During this period the following areas will be closed for public safety:</strong></p> <ul> <li>All multi-use trails within the area bounded by Old Kaban Road, Flaggy Creek Road, Springvale Road&nbsp;and Marshall Creek Road, including Old Coach Road/Bluff walking trail.</li> </ul> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management webpage</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-07-09",
+      "start_date": "2026-07-15",
       "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-18",
       "parks": [
         {
           "id": "322353",
           "name": "The Bluff State Forest",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Temporary Closure - Crest Carpark",
-      "alert_id": "26728",
-      "url": "https://parks.qld.gov.au/park-alerts/26728",
-      "description": "Access to the Crest car park will be temporarily closed on Monday 13 July and Tuesday 14 July 2026, from 6am to 6pm for landscaping works.",
-      "details": "<p>Access to the Crest car park will be temporarily closed on Monday 13 July and Tuesday 14 July 2026, from 6am to 6pm for landscaping works.</p> <p><strong>Access remains open to all walking tracks in the Cunningham&#39;s Gap section starting and ending at the West Gap Creek picnic area.</strong></p> <p>Visitors are advised to plan ahead.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-10",
-      "start_effective_date": "2026-07-13",
-      "end_date": "2026-07-14",
-      "parks": [
-        {
-          "id": "205144",
-          "name": "Scenic Rim Trail, Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/scenic-rim-trail"
-        },
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
@@ -3112,24 +3066,6 @@
           "id": "148131",
           "name": "Daintree National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/daintree"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn: Ravenshoe State Forest 3",
-      "alert_id": "26734",
-      "url": "https://parks.qld.gov.au/park-alerts/26734",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 12 July until Tuesday 14 July 2026 (dates inclusive), as part of the fire management program for Ravenshoe State Forest 3.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Sunday 12 July until Tuesday 14 July 2026 (dates inclusive), as part of the fire management program for Ravenshoe State Forest 3.</p> <p>Road and track closures will be in place along Flour Dust Track, from Cemetery Road to May&rsquo;s break.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs and directions from Rangers, and do not enter closed areas.</p> <p>Smoke may be seen in the vicinity of Ravenshoe and Tumoulin. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-10",
-      "start_effective_date": "2026-07-12",
-      "end_date": "2026-07-14",
-      "parks": [
-        {
-          "id": "322337",
-          "name": "Ravenshoe State Forest 3",
-          "url": ""
         }
       ]
     },
@@ -3216,15 +3152,15 @@
       ]
     },
     {
-      "title": "Planned Burning - Johannsen's Cave - 14th July 2026",
+      "title": "Planned Burning - Johannsen's Cave - 14th-15th July 2026",
       "alert_id": "26739",
       "url": "https://parks.qld.gov.au/park-alerts/26739",
-      "description": "Johannsen's cave public access will be closed Tuesday July 14th to allow for planned burning, weather permitting.",
-      "details": "<p>Johannsen's cave public access will be closed Tuesday July 14th to allow for planned burning, weather permitting.</p> <p>The Bat Cleft walking trail will remain open.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Johannsen's cave public access will be closed Tuesday July 14th and Wednesday July 15th to allow for planned burning.",
+      "details": "<p>Johannsen's cave public access will be closed Tuesday July 14th and Wednesday July 15th to allow for planned burning.</p> <p>The Bat Cleft walking trail will remain open.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-13",
+      "start_date": "2026-07-15",
       "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-15",
+      "end_date": "2026-07-16",
       "parks": [
         {
           "id": "149405",
@@ -3509,6 +3445,60 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Wangetti Trail (Macalister Range NP) - temporary closure",
+      "alert_id": "26753",
+      "url": "https://parks.qld.gov.au/park-alerts/26753",
+      "description": "Wangetti Trail temporary closure to the public: 7am - 10 am July 2026",
+      "details": "<p>Wangetti Trail temporary closure to the public: 7am - 10 am July 2026</p> <p>Far North Queensland Hospital Foundation fundraiser event</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-15",
+      "start_effective_date": "2026-07-26",
+      "end_date": "2026-07-26",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn: Bare Hill Conservation Park",
+      "alert_id": "26754",
+      "url": "https://parks.qld.gov.au/park-alerts/26754",
+      "description": "Buluwai Rangers will be conducting cultural burns on Thursday 16 July 2026 at Bunda Bibandji (Bare Hill). Queensland Parks &amp; Wildlife Service (QPWS) and Partnerships will be assisting these operations.",
+      "details": "<p>Buluwai Rangers will be conducting cultural burns on Thursday 16 July 2026 at Bunda Bibandji (Bare Hill). Queensland Parks &amp; Wildlife Service (QPWS) and Partnerships will be assisting these operations.</p> <p><strong>During this period Bare Hill Conservation Park will be closed.</strong></p> <p>This closure includes the following:</p> <ul> <li>Bridle Creek Road&nbsp;from Davies Creek Road to Bunda Bibandji rock art car park</li> <li>Bunda Bibandji rock art walking track</li> </ul> <p>Visitors are advised that smoke may be seen in the surrounding area and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a> webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-07-15",
+      "start_effective_date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Partial Closure wet weather access Currawinya National Park",
+      "alert_id": "26755",
+      "url": "https://parks.qld.gov.au/park-alerts/26755",
+      "description": "As a result of wet weather, some access tracks and some Camping Areas of Currawinya National Park are closed.",
+      "details": "<p>As a result of wet weather, some access tracks and some Camping Areas of Currawinya National Park are closed.</p> <p><strong>Closed areas include:</strong></p> <ul> <li>Pumphole Camping Area</li> <li>Caiwarro Waterhole Camping Area</li> <li>Beefwood Hut track</li> <li>Access track West of Myninya Camping Area to Boorara Woolshed</li> </ul> <p>Rangers will re assess road conditions on Monday 20th July 2026.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-15",
+      "start_effective_date": "2026-07-16",
+      "end_date": "2026-07-28",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.qld.gov.au/parks/currawinya"
         }
       ]
     }
