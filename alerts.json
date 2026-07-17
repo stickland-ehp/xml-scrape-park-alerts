@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2026-07-16 11:24:23"
+    "alerts_count": 170,
+    "script_run_time": "2026-07-17 11:11:53"
   },
   "alerts": [
     {
@@ -2038,9 +2038,9 @@
       "description": "The Queensland Parks and Wildlife Service (QPWS) and the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have temporarily closed access to the Flinders Beach entry near the Amity Point back access track to campsite A due to severe erosion.",
       "details": "<p>The Queensland Parks and Wildlife Service (QPWS) and the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) have temporarily closed access to the Flinders Beach entry near the Amity Point back access track to campsite A due to severe erosion.</p> <p>All visitors are advised that Flinders Beach is only accessible, from Flinders township beach access and Adder Rock beach access.</p> <p>The track will reopen when conditions are considered safe.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-05-19",
+      "start_date": "2026-07-17",
       "start_effective_date": "2026-05-19",
-      "end_date": "2026-07-18",
+      "end_date": "2027-01-18",
       "parks": [
         {
           "id": "148315",
@@ -2598,24 +2598,6 @@
       ]
     },
     {
-      "title": "Planned burn in Gheebulum Kunungai (Moreton Island) National Park",
-      "alert_id": "26683",
-      "url": "https://parks.qld.gov.au/park-alerts/26683",
-      "description": "Queensland Parks and Wildlife Service (QPWS), the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) and the Queensland Fire Department (QFD) will be conducting planned burns (weather permitting) from 15 to 16 July 2026, as part of the fire management program for Gheebulum Kunungai (Moreton Island) National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS), the Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC) and the Queensland Fire Department (QFD) will be conducting planned burns (weather permitting) from 15 to 16 July 2026, as part of the fire management program for Gheebulum Kunungai (Moreton Island) National Park.</p> <p>QPWS and QYAC Rangers, QFD Staff and machinery may be working along Middle Road in the vicinity of Middle Road and the Tangalooma Bypass Road.&nbsp; For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access</strong>:</p> <ul> <li>Middle Road with access to the Tangalooma Bypass Road available to and from the Western Beach.</li> </ul> <p>Smoke may be seen in the vicinity of Middle Road and the Tangalooma Bypass Road area.&nbsp; Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-13",
-      "start_effective_date": "2026-07-15",
-      "end_date": "2026-07-16",
-      "parks": [
-        {
-          "id": "148757",
-          "name": "Gheebulum Kunungai (Moreton Island) National Park and Moreton Island Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/gheebulum-kunungai-moreton-island"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure of toilet and showers - Burrum Point campground",
       "alert_id": "26686",
       "url": "https://parks.qld.gov.au/park-alerts/26686",
@@ -2893,15 +2875,15 @@
       ]
     },
     {
-      "title": "Planned burns for Magnetic Island National Park",
+      "title": "Planned burn for Magnetic Island National Park",
       "alert_id": "26718",
       "url": "https://parks.qld.gov.au/park-alerts/26718",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns in Magnetic Island National Park (weather permitting) between 13  17 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns in Magnetic Island National Park (weather permitting) between 13  17 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result of the planned burns,&nbsp;smoke may be seen in the interior highland areas of the island, behind Picnic Bay and at the (eastern side of Horseshoe Bay).&nbsp;</p> <p>If visiting Magnetic Island National Park, observe all signs, barriers, and directions from QPWS Rangers and never enter closed areas.</p> <p>Persons with respiratory concerns are advised to take appropriate measure to mitigate risks. &nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-07",
+      "description": "Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn in Magnetic Island National Park. The fire was ignited on 14 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn in Magnetic Island National Park. The fire was ignited on 14 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result of the planned burn,&nbsp;smoke can be seen in the highland areas of the island, behind Picnic Bay, Nelly, Bolger and Horseshoe bays and West Point.</p> <p>The fire is going well and behaving as expected, burning in the highlands of the island. The fire will continue to burn for several days.</p> <p>QPWS Rangers are actively monitoring the fire. Properties are not under treat from this burn.</p> <p>Persons with respiratory concerns are advised to take appropriate measure to mitigate risks. &nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Other",
+      "start_date": "2026-07-17",
       "start_effective_date": "2026-07-13",
-      "end_date": "2026-07-17",
+      "end_date": "2026-07-22",
       "parks": [
         {
           "id": "148961",
@@ -3106,24 +3088,6 @@
       ]
     },
     {
-      "title": "Planned Burning - Johannsen's Cave - 14th-15th July 2026",
-      "alert_id": "26739",
-      "url": "https://parks.qld.gov.au/park-alerts/26739",
-      "description": "Johannsen's cave public access will be closed Tuesday July 14th and Wednesday July 15th to allow for planned burning.",
-      "details": "<p>Johannsen's cave public access will be closed Tuesday July 14th and Wednesday July 15th to allow for planned burning.</p> <p>The Bat Cleft walking trail will remain open.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-15",
-      "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-16",
-      "parks": [
-        {
-          "id": "149405",
-          "name": "Mount Etna Caves National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-etna-caves"
-        }
-      ]
-    },
-    {
       "title": "Camping area closure: Camping area 2, Halifax Bay Wetlands National Park",
       "alert_id": "26740",
       "url": "https://parks.qld.gov.au/park-alerts/26740",
@@ -3226,24 +3190,6 @@
       ]
     },
     {
-      "title": "Planned burn on Bribie Island National Park and Recreation Area",
-      "alert_id": "26744",
-      "url": "https://parks.qld.gov.au/park-alerts/26744",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 14/07/2026 and 16/07/2026 as part of the fire management program for Bribie Island National Park and Recreation Area.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn between 14/07/2026 and 16/07/2026 as part of the fire management program for Bribie Island National Park and Recreation Area.</p> <p>Smoke may be seen in nearby areas including Woorim, White Patch, the Pacific Harbour Golf and Country Club, and Banksia Beach. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please observe and adhere to all signage, barriers and directions from rangers, and do not enter closed areas.</p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p><strong>Your safety is our concern, but your responsibility.</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-16",
-      "parks": [
-        {
-          "id": "149033",
-          "name": "Bribie Island National Park and Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn Wrattens National Park",
       "alert_id": "26745",
       "url": "https://parks.qld.gov.au/park-alerts/26745",
@@ -3290,24 +3236,6 @@
       ]
     },
     {
-      "title": "Cultural Burning Workshop - 15 and 16 July 2026",
-      "alert_id": "26747",
-      "url": "https://parks.qld.gov.au/park-alerts/26747",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burning workshop within the Clark Bay section of Cape Palmerston National Park, Wednesday 15 &amp; 16 July 2026, weather permitting.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burning workshop within the Clark Bay section of Cape Palmerston National Park, Wednesday 15 &amp; 16 July 2026, weather permitting.</p> <p>Cape Palmerston National Park will remain open to the public. Smoke may be seen in the vicinity of Cape Palmerston.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-07-15",
-      "end_date": "2026-07-16",
-      "parks": [
-        {
-          "id": "148832",
-          "name": "Cape Palmerston National Park",
-          "url": "https://parks.qld.gov.au/parks/cape-palmerston"
-        }
-      ]
-    },
-    {
       "title": "Authorised Pest Management",
       "alert_id": "26748",
       "url": "https://parks.qld.gov.au/park-alerts/26748",
@@ -3340,24 +3268,6 @@
           "id": "148496",
           "name": "Cape Upstart National Park",
           "url": "https://parks.qld.gov.au/parks/cape-upstart"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn operations: eastern side, Little Mulgrave National Park",
-      "alert_id": "26750",
-      "url": "https://parks.qld.gov.au/park-alerts/26750",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns on the eastern side of Little Mulgrave National Park on Wednesday 15 July and Thursday 16 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns on the eastern side of Little Mulgrave National Park on Wednesday 15 July and Thursday 16 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result, smoke, firefighters and machinery may be seen in areas between Vico Street (Blackwell creek), and Gillies Range Road. Reminder - Do not enter burn areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\" target=\"_blank\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-07-15",
-      "end_date": "2026-07-16",
-      "parks": [
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
         }
       ]
     },
@@ -3521,6 +3431,24 @@
       ]
     },
     {
+      "title": "Tongue Point tender access channel maintenance",
+      "alert_id": "26759",
+      "url": "https://parks.qld.gov.au/park-alerts/26759",
+      "description": "Visitors are advised that QPWS will be conducting maintenance works on the Tongue Point tender access channel during 11th and 12th August 2026 (weather dependent).",
+      "details": "<p>Visitors are advised that QPWS will be conducting maintenance works on the Tongue Point tender access channel during 11th and 12th August 2026 (weather dependent).</p> <p><strong>Works will be carried out during low tide between 1:30pm and 5:30pm each day.</strong></p> <p>Barge and small machinery will be operating during this period.</p> <p>For safety, public access to the channel will be restricted during works.</p> <p><a href=\"https://elibrary.gbrmpa.gov.au/server/api/core/bitstreams/dc6e9008-6d83-40e0-b14b-7ffbfd9fa0c9/content\">WPOM Tongue Bay Map</a></p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-17",
+      "start_effective_date": "2026-07-31",
+      "end_date": "2026-08-12",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
       "title": "Lizard Island BBQ - Out of action",
       "alert_id": "26760",
       "url": "https://parks.qld.gov.au/park-alerts/26760",
@@ -3594,6 +3522,70 @@
           "id": "148892",
           "name": "Apudthama National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/apudthama"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure of Fisherman Point, Picnic Beach, and George Point  Pest Control Program",
+      "alert_id": "26764",
+      "url": "https://parks.qld.gov.au/park-alerts/26764",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking a pest control program between Fisherman Point and George Point on Hinchinbrook Island between Monday 27 July and Friday 31 July, to support ongoing conservation efforts and protect the islands unique natural values.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking a pest control program between Fisherman Point and George Point on Hinchinbrook Island between Monday 27 July and Friday 31 July, to support ongoing conservation efforts and protect the islands unique natural values.</p> <p>Access to&nbsp;Fisherman&nbsp;Point, Picnic Beach, and George Point will be prohibited for the duration of the pest control program.&nbsp;The exclusion area&nbsp;includes the&nbsp;intertidal zone off these areas to 1km landward.&nbsp;This is necessary to ensure public safety and the effectiveness of the operation.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>The Thorsborne Trail will remain open, however hikers will need to arrange pickup/drop-off at the northern end of Mulligan Bay rather than George Point. The George Point camping area is closed. Vessel&nbsp;transfer&nbsp;operators have been informed.</p> <p>&nbsp;</p> <p>QPWS appreciates your cooperation and understanding as we carry out this important work.&nbsp;</p> <p> &nbsp;</p> <p>For more information&nbsp;or any questions, please contact <a href=\"mailto:hinchinbrook@detsi.qld.gov.au\" target=\"_blank\">hinchinbrook@detsi.qld.gov.au</a></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-17",
+      "start_effective_date": "2026-07-27",
+      "end_date": "2026-07-31",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Pest Management Control Program  1080 Baiting Curtis Island National Park, Conservation Park, and State Forest",
+      "alert_id": "26765",
+      "url": "https://parks.qld.gov.au/park-alerts/26765",
+      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Monday the 27th of July to Monday the 14th of September 2026.",
+      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Monday the 27th of July to Monday the 14th of September 2026.</p> <p>These activities are conducted to reduce impacts on Flatback Turtle and Yellow Chat habitats and to reduce predation by feral animals, including feral pigs. QPWS will be installing a number of 1080 warning signs within the area informing the use of 1080 baits.</p> <p>To ensure the safety of the public, no access is permitted to the protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground, during the above dates.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-17",
+      "start_effective_date": "2026-07-27",
+      "end_date": "2026-09-14",
+      "parks": [
+        {
+          "id": "322464",
+          "name": "Curtis Island State Forest",
+          "url": ""
+        },
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn: Walshs Pyramid walking track, Walshs Pyramid, Wooroonooran National Park",
+      "alert_id": "26768",
+      "url": "https://parks.qld.gov.au/park-alerts/26768",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conduction planned burns within the Walshs Pyramid section of Wooroonooran National Park from Tuesday 21 July to Wednesday 22 July 2026 (dates inclusive), as part of the annual conservation management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conduction planned burns within the Walshs Pyramid section of Wooroonooran National Park from Tuesday 21 July to Wednesday 22 July 2026 (dates inclusive), as part of the annual conservation management program for parks and forests.</p> <p><strong>During this period Walshs Pyramid walking track will be closed and is anticipated to reopen on Thursday 23 July 2026.</strong></p> <p>As a result of the planned burn, smoke may be seen on Gillies Range Road and the Bruce Highway. Please be aware that smoke has the potential to impact the road and limit driver visibility. Drive slowly, obey all signs and instructions from Rangers.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.<br /> <br /> Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management?_gl=1*bfldfc*_ga*OTA0Mjc3MDAwLjE3NzQ3NzY2Njc.*_ga_9C8GTP5GMH*czE3ODI3MDU0NDkkbzE0MCRnMSR0MTc4MjcwNzUxMyRqMjkkbDAkaDA.\" target=\"_blank\">fire management</a> webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-07-17",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-07-22",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
         }
       ]
     }
