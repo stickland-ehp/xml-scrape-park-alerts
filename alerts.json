@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 170,
-    "script_run_time": "2026-07-17 11:11:53"
+    "alerts_count": 163,
+    "script_run_time": "2026-07-18 10:53:47"
   },
   "alerts": [
     {
@@ -2406,24 +2406,6 @@
       ]
     },
     {
-      "title": "Planned burn operations: Clemant Park area, Paluma Range National Park",
-      "alert_id": "26635",
-      "url": "https://parks.qld.gov.au/park-alerts/26635",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Clemant Park area of Paluma Range National Park between 16 June 2026 and 17 July 2026 (inclusive). A total of three burns are scheduled to take place in this area during this period. This is part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Clemant Park area of Paluma Range National Park between 16 June 2026 and 17 July 2026 (inclusive). A total of three burns are scheduled to take place in this area during this period. This is part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>Firefighters and machinery&nbsp;may be seen&nbsp;along roads and tracks&nbsp;on the eastern side of the Bruce Highway, from the northern boundary of&nbsp;Clemant&nbsp;Park to&nbsp;Lilypond&nbsp;Creek.&nbsp;Please&nbsp;observe&nbsp;all signage, barriers and directions from rangers and do not enter closed areas.&nbsp;</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;</p> <p>The aim of these burns is to&nbsp;maintain&nbsp;a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a> webpage. &nbsp;</p> <p>Please&nbsp;monitor <a href=\"https://parks.qld.gov.au/park-alerts\" target=\"_blank\">park alerts</a> on the department&#39;s website for updated information.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-06-10",
-      "start_effective_date": "2026-06-16",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure : Lochern, Idalia and Welford National Parks",
       "alert_id": "26640",
       "url": "https://parks.qld.gov.au/park-alerts/26640",
@@ -2676,47 +2658,6 @@
           "id": "148468",
           "name": "Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure - Melaleuca &amp; Pandanus campgrounds, Nine Mile Beach 13-17 July 2026",
-      "alert_id": "26697",
-      "url": "https://parks.qld.gov.au/park-alerts/26697",
-      "description": "Melaleuca and Pandanus campgrounds on Nine Mile beach will be temporarily closed for QPWS maintenance and revegetation following an incident of a number of longstanding healthy tree's being vandalised and illegally cut down in camp sites.",
-      "details": "<p>Melaleuca and Pandanus campgrounds on Nine Mile beach will be temporarily closed for QPWS maintenance and revegetation following an incident of a number of longstanding healthy tree's being vandalised and illegally cut down in camp sites.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-29",
-      "start_effective_date": "2026-07-13",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "148223",
-          "name": "Byfield National Park, Conservation Park and State Forest",
-          "url": "https://parks.qld.gov.au/parks/byfield"
-        }
-      ]
-    },
-    {
-      "title": "Planned burning operations: Mount Cataract area, Clemant State Forest",
-      "alert_id": "26698",
-      "url": "https://parks.qld.gov.au/park-alerts/26698",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Thursday 2 July 2026 to Friday 17 July 2026 (dates inclusive), in the Mount Cateract area of Clemant State Forest. This is part of the fire management program for Clemant State Forest and Paluma Range National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Thursday 2 July 2026 to Friday 17 July 2026 (dates inclusive), in the Mount Cateract area of Clemant State Forest. This is part of the fire management program for Clemant State Forest and Paluma Range National Park.</p> <p>As a result, smoke, firefighters, aircraft and machinery may be seen throughout the southern section of Clemant State Forest and adjacent mountain ridges around Mount Cataract, Black River and the former Greenvale railway line in Paluma Range National Park.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management?_gl=1*bfldfc*_ga*OTA0Mjc3MDAwLjE3NzQ3NzY2Njc.*_ga_9C8GTP5GMH*czE3ODI3MDU0NDkkbzE0MCRnMSR0MTc4MjcwNzUxMyRqMjkkbDAkaDA.\" target=\"_blank\">fire management</a> webpage. &nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-06-29",
-      "start_effective_date": "2026-07-02",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
-        },
-        {
-          "id": "322391",
-          "name": "Clemant State Forest",
-          "url": ""
         }
       ]
     },
@@ -3006,52 +2947,6 @@
       ]
     },
     {
-      "title": "Planned Burn Littabella Conservation Park And Littabella National Bark",
-      "alert_id": "26735",
-      "url": "https://parks.qld.gov.au/park-alerts/26735",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Littabella Conservation Park and Littabella National Park between 08/07/2026 and 10/07/2026, weather permitting.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) conducts planned burns on parks and forests to support a healthy environment and reduce the risk and intensity of bushfires. QPWS will conduct a planned burn in Littabella Conservation Park and Littabella National Park between 08/07/2026 and 10/07/2026, weather permitting.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-10",
-      "start_effective_date": "2026-07-13",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "322702",
-          "name": "Littabella Conservation Park",
-          "url": ""
-        },
-        {
-          "id": "322935",
-          "name": "Littabella National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Lockyer Resource Reserve and Lockyer National Park",
-      "alert_id": "26736",
-      "url": "https://parks.qld.gov.au/park-alerts/26736",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 14 July 2026 to 20 July 2026, as part of the fire management program for Lockyer Resource Reserve and Lockyer National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 14 July 2026 to 20 July 2026, as part of the fire management program for Lockyer Resource Reserve and Lockyer National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Goldmine Road, Helidon. For your safety and the safety of firefighters, please slow down and&nbsp;observe&nbsp;all directions and signs.</p> <p>During the planned&nbsp;burn&nbsp;these areas are&nbsp;closed to public access:&nbsp;</p> <ul> <li> <p>Part of Lockyer Resource Reserve and part of Lockyer National Park</p> </li> </ul> <p>Smoke may be seen in the vicinity of&nbsp;Goldmine and 17 Mile Roads Helidon. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-13",
-      "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "322762",
-          "name": "Lockyer Resources Reserve",
-          "url": ""
-        },
-        {
-          "id": "148287",
-          "name": "Lockyer National Park",
-          "url": "https://parks.qld.gov.au/parks/lockyer"
-        }
-      ]
-    },
-    {
       "title": "Pest animal control program involving ground shooting: St Bees Island, South Cumberland Islands National Park",
       "alert_id": "26737",
       "url": "https://parks.qld.gov.au/park-alerts/26737",
@@ -3168,42 +3063,6 @@
           "id": "200319",
           "name": "Walkabout Creek Discovery Centre",
           "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Plunkett Conservation Park",
-      "alert_id": "26743",
-      "url": "https://parks.qld.gov.au/park-alerts/26743",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on 15 July 2026 as part of the fire management program for Plunkett Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on 15 July 2026 as part of the fire management program for Plunkett Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Powerline Break, Brays Break and Tower Break. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Brays&nbsp;Break</li> <li>Tower Break</li> <li>Black Rock Break</li> <li>Vic&#39;s Break&nbsp;</li> <li>Powerline Break</li> </ul> <p>Smoke may be seen in the vicinity of Plunkett Road and Flesser Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-07-15",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "149381",
-          "name": "Plunkett Conservation Park and Wickham National Park",
-          "url": "https://parks.qld.gov.au/parks/plunkett-wickham"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn Wrattens National Park",
-      "alert_id": "26745",
-      "url": "https://parks.qld.gov.au/park-alerts/26745",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 14 July to Friday 17 July 2026, as part of the fire management program for Wrattens National Park. Please visit this park's page on the department's website for more park safety information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Tuesday 14 July to Friday 17 July 2026, as part of the fire management program for Wrattens National Park. Please visit this park's page on the department's website for more park safety information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-13",
-      "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-17",
-      "parks": [
-        {
-          "id": "322707",
-          "name": "Wrattens National Park",
-          "url": ""
         }
       ]
     },
