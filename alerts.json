@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2026-07-18 10:53:47"
+    "alerts_count": 161,
+    "script_run_time": "2026-07-19 11:01:27"
   },
   "alerts": [
     {
@@ -2598,24 +2598,6 @@
       ]
     },
     {
-      "title": "Road Works - Bunyaville Conservation Park Temporary Closure",
-      "alert_id": "26689",
-      "url": "https://parks.qld.gov.au/park-alerts/26689",
-      "description": "Roadworks are scheduled to take place on multiple roads within Bunyaville Conservation Park. To ensure visitor safety, roads will be periodically and temporarily closed in stages. Please follow all signage, adhere to road closures, and take note of information provided by plant operators.",
-      "details": "<p>Roadworks are scheduled to take place on multiple roads within Bunyaville Conservation Park. To ensure visitor safety, roads will be periodically and temporarily closed in stages. Please follow all signage, adhere to road closures, and take note of information provided by plant operators.</p> <p>Heavy machinery will be ultisied during these works.<br /> The following areas of the park are effected with partial closures;</p> <ul> <li>Jones Break</li> <li>Collins Road Break</li> <li>Reservoir Break</li> <li>Northern Break</li> <li>Farm Road East</li> <li>Farm Road West</li> <li>186 Break</li> <li>Bowers Break</li> <li>GT Break</li> </ul> <p>QPWS apologises for any inconvenience during the completion of these works.</p> <p>For the latest updates, monitor park alerts on the department&#39;s website. You can also visit the park&#39;s website for information on alternative nearby attractions and experiences.</p> <p>Facilities will reopen once construction is complete. For your safety, exercise caution when using park access roads.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-25",
-      "start_effective_date": "2026-06-22",
-      "end_date": "2026-07-18",
-      "parks": [
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/bunyaville"
-        }
-      ]
-    },
-    {
       "title": "Severe weather damage Dawes National Park - Glassford section",
       "alert_id": "26693",
       "url": "https://parks.qld.gov.au/park-alerts/26693",
@@ -2907,24 +2889,6 @@
           "id": "147955",
           "name": "Noosa National Park",
           "url": "https://parks.qld.gov.au/parks/noosa"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closures due to planned burn operations: north-east section, The Bluff State Forest",
-      "alert_id": "26726",
-      "url": "https://parks.qld.gov.au/park-alerts/26726",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Tuesday 14 July to Saturday 18 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Tuesday 14 July to Saturday 18 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>During this period the following areas will be closed for public safety:</strong></p> <ul> <li>All multi-use trails within the area bounded by Old Kaban Road, Flaggy Creek Road, Springvale Road&nbsp;and Marshall Creek Road, including Old Coach Road/Bluff walking trail.</li> </ul> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management webpage</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-15",
-      "start_effective_date": "2026-07-14",
-      "end_date": "2026-07-18",
-      "parks": [
-        {
-          "id": "322353",
-          "name": "The Bluff State Forest",
-          "url": ""
         }
       ]
     },
