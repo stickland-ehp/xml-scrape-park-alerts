@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 166,
-    "script_run_time": "2026-07-20 12:06:54"
+    "script_run_time": "2026-07-21 11:39:37"
   },
   "alerts": [
     {
@@ -771,24 +771,6 @@
       ]
     },
     {
-      "title": "UPDATE #4 Seasonal closure, extended: Munga-Thirri National Park",
-      "alert_id": "25960",
-      "url": "https://parks.qld.gov.au/park-alerts/25960",
-      "description": "For your safety, the seasonal closure at Munga-Thirri National Park has been extended to 31 August 2026.",
-      "details": "<p>For your safety, the seasonal closure at Munga-Thirri National Park has been extended to 31 August 2026.</p> <p>The seasonal closure at Munga-Thirri National Park is due to extreme summer temperates that can reach over 50 degrees Celsius.&nbsp;</p> <p>In 2026, heavy rainfall led to localised flooding throughout Munga-Thirri National Park.&nbsp;Subsequent rainfall has led to water laying across the desert making the terrain impassible.</p> <p>For your safety, and to protect the natural and cultural values of Munga-Thirri National Park, the seasonal closure has been <strong>extended to 31 August 2026</strong>. This date aligns with road closure information available on <a href=\"https://qldtraffic.qld.gov.au/\">Queensland Traffic</a>. Rangers will monitor the conditions and this park alert will be updated as required.</p> <p>Campers with an existing camping booking during this closure, please <a href=\"https://book.parks.qld.gov.au/camping\">modify or cancel</a> your booking. Refunds can be applied for online.</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-06-08",
-      "start_effective_date": "2025-12-01",
-      "end_date": "2026-08-31",
-      "parks": [
-        {
-          "id": "148564",
-          "name": "Munga-Thirri National Park",
-          "url": "https://parks.qld.gov.au/parks/munga-thirri"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure update including selected camping areas reopening: Oyala Thumotang National Park (CYPAL)",
       "alert_id": "25971",
       "url": "https://parks.qld.gov.au/park-alerts/25971",
@@ -1324,15 +1306,15 @@
       ]
     },
     {
-      "title": "Access advice: Eyre Creek water levels, Munga-Thirri National Park",
+      "title": "Munga-Thirri National Park is open and ready to welcome visitors.",
       "alert_id": "26257",
       "url": "https://parks.qld.gov.au/park-alerts/26257",
-      "description": "Birdsville Rangers would like to advise that the water level in Eyre Creek is still high and expected to be impassable for the foreseeable future.",
-      "details": "<p>Birdsville Rangers would like to advise that the water level in Eyre Creek is still high and expected to be impassable for the foreseeable future.</p> <p>Visitors are advised to check <a href=\"https://disaster.diamantina.qld.gov.au/\">river heights and road conditions</a> prior to embarking on your journey to Munga-Thirri National Park.</p> <p>Don&#39;t walk, drive or ride through floodwaters.&nbsp;</p> <p>Remember - if it&#39;s flooded, forget it.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "description": "Please follow the marked access route, drive to conditions and enjoy your desert adventure safely.",
+      "details": "<p>Please follow the marked access route, drive to conditions and enjoy your desert adventure safely.</p> <p><strong>Access advise and conditions:</strong></p> <p>Birdsville Rangers would like to advise that the water level in Eyre Creek is still high. For your safety, follow the road signage and use caution whilst traversing Stony Crossing and Eyre Creek bypass on the QAA Line as conditions may have change.</p> <p><a href=\"https://book.parks.qld.gov.au/\">Camping permits</a> must be obtained pior to camping in Munga-Thirri National Park. Camping permit holders may leave the QAA (seismic) Line to a maximum distance of 100 metre to camp.</p> <p>All vehicles must be fitted with a safety flag when travelling in Munga-Thirri National Park. The flag must be a minimum of 300mm wide by 290mm high, and made of fluorescent colour materials (red-orange or lime-yellow). The flag must be at a minimum of 3.5 meters above the ground.&nbsp;</p> <p>Drivers should minitor UHF Channel 10 for oncoming traffic.</p> <p>Visitors are advised to check the&nbsp;Diamantina Shire Council&nbsp;<a href=\"https://disaster.diamantina.qld.gov.au/\">river heights and road conditions</a>&nbsp;report, prior to embarking on your journey to Munga-Thirri National Park.</p> <p>Don&#39;t walk, drive or ride through floodwaters.&nbsp;</p> <p>Remember - if it&#39;s flooded, forget it.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
       "category": "Announcement",
-      "start_date": "2026-06-08",
-      "start_effective_date": "2026-03-05",
-      "end_date": "2026-08-31",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-22",
+      "end_date": "2026-08-21",
       "parks": [
         {
           "id": "148564",
@@ -2802,9 +2784,9 @@
       "alert_id": "26718",
       "url": "https://parks.qld.gov.au/park-alerts/26718",
       "description": "Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn in Magnetic Island National Park. The fire was ignited on 14 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn in Magnetic Island National Park. The fire was ignited on 14 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result of the planned burn,&nbsp;smoke can be seen in the highland areas of the island, behind Picnic Bay, Nelly, Bolger and Horseshoe bays and West Point.</p> <p>The fire is going well and behaving as expected, burning in the highlands of the island. The fire will continue to burn for several days.</p> <p>QPWS Rangers are actively monitoring the fire. Properties are not under treat from this burn.</p> <p>Persons with respiratory concerns are advised to take appropriate measure to mitigate risks. &nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) are conducting a planned burn in Magnetic Island National Park. The fire was ignited on 14 July 2026, as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result of the planned burn,&nbsp;smoke can be seen in the highland areas of the island, behind Nelly Bay and Bolger Bay.</p> <p>The fire is going well and behaving as expected, burning in the highlands of the island.</p> <p>QPWS Rangers are actively monitoring the fire. Properties are not under treat from this burn.</p> <p>Persons with respiratory concerns are advised to take appropriate measure to mitigate risks. &nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Other",
-      "start_date": "2026-07-17",
+      "start_date": "2026-07-21",
       "start_effective_date": "2026-07-13",
       "end_date": "2026-07-22",
       "parks": [
@@ -2899,9 +2881,9 @@
       "description": "The Rainforest circuit track and Rex Creek swing bridge at Mossman Gorge in Daintree National Park (CYPAL) are closed until further notice.",
       "details": "<p>The Rainforest circuit track and Rex Creek swing bridge at Mossman Gorge in Daintree National Park (CYPAL) are closed until further notice.</p> <p>This closure is due to vandalism resulting in damage to the Rex Creek swing bridge, that now requires emergency repairs.</p> <p>This closure includes:</p> <ul> <li>Rainforest circuit track</li> <li>Manjal Dimbi (Mount Demi) lookout</li> <li>Rex Creek swing bridge.</li> </ul> <p>For visitor safety, access across the bridge is not permitted while repairs are being arranged and completed.</p> <p>The bridge will remain closed until repairs are completed and the structure has been assessed as safe to reopen.</p> <p>Visitors are asked to obey all signage and barriers in place.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-10",
+      "start_date": "2026-07-21",
       "start_effective_date": "2026-07-10",
-      "end_date": "2026-07-24",
+      "end_date": "2026-08-07",
       "parks": [
         {
           "id": "148131",
@@ -2965,63 +2947,15 @@
       ]
     },
     {
-      "title": "Planned burn operations: Princess Hills section, Girringun National Park",
-      "alert_id": "26741",
-      "url": "https://parks.qld.gov.au/park-alerts/26741",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the Princess Hills section of Girringun National Park, from Wednesday 15 July to Monday the 20 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the Princess Hills section of Girringun National Park, from Wednesday 15 July to Monday the 20 July 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>As a result, smoke may be seen in the vicinity of:</p> <ul> <li>Princess Hills section - including Princess Hills camping area</li> <li>Blencoe Falls section - including Blencoe Falls camping area and lookout</li> <li>Wairuna Section &ndash; including Wairuna camping area</li> <li>Juwun and Jambal walks,&nbsp;Wet Tropics Great Walk</li> </ul> <p><strong>During this period the facilities within the sections listed above will remain OPEN.</strong></p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. For your safety and the safety of authorities, please slow down and observe all directions and signs.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks,&nbsp;and forests. Public safety is the highest consideration in all QPWS fire management activities.</p> <p>To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management webpage.</a></p> <p>For additional information please contact Princess Hills QPWS on: 0427736613</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-13",
-      "start_effective_date": "2026-07-15",
-      "end_date": "2026-07-20",
-      "parks": [
-        {
-          "id": "156541",
-          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        },
-        {
-          "id": "151383",
-          "name": "Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
-        },
-        {
-          "id": "158157",
-          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
-        },
-        {
-          "id": "151363",
-          "name": "Princess Hills, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "149013",
-          "name": "Blencoe Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/blencoe-falls"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
       "title": "Temporary Closure  Swimming Area and Canoe Access Pathway",
       "alert_id": "26742",
       "url": "https://parks.qld.gov.au/park-alerts/26742",
-      "description": "Please Note: The main swimming area and canoe access path will be closed for maintenance from 20 July 2026 to 25 July 2026. During this period, an alternative access path will be available and clearly marked with directional signage.",
-      "details": "<p>Please Note: The main swimming area and canoe access path will be closed for maintenance from 20 July 2026 to 25 July 2026. During this period, an alternative access path will be available and clearly marked with directional signage.</p> <p>Plant machinery will be operating in the area, and work zones will be fenced off for public safety. Visitors are asked to follow all safety signage and directions provided by Rangers and maintenance staff at all times.</p> <p>We appreciate your patience and cooperation while these works are completed</p>",
+      "description": "Please note: The access path to the reservoir designated swimming and watercraft launch areas will be closed for maintenance from Monday 20 July until Friday 31 July 2026. During this period an alternative access path will be available and clearly marked with directional signage.",
+      "details": "<p>Please note: The access path to the reservoir designated swimming and watercraft launch areas will be closed for maintenance from Monday 20 July until Friday 31 July 2026. During this period an alternative access path will be available and clearly marked with directional signage.</p> <p>Plant machinery will be operating in the area, and work zones will be fenced off for public safety. Visitors are asked to follow all safety signage and directions provided by Rangers and maintenance staff at all times.</p> <p>We appreciate your patience and cooperation while these works are completed</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-07-13",
+      "start_date": "2026-07-21",
       "start_effective_date": "2026-07-20",
-      "end_date": "2026-07-24",
+      "end_date": "2026-07-31",
       "parks": [
         {
           "id": "200319",
@@ -3095,24 +3029,6 @@
       ]
     },
     {
-      "title": "Planned burn, DAguilar National Park - Bellbird Grove / Camp Mountain Area",
-      "alert_id": "26751",
-      "url": "https://parks.qld.gov.au/park-alerts/26751",
-      "description": "Planned Burn in the Bellbird Grove / Camp Mountain Area",
-      "details": "<p>Planned Burn in the Bellbird Grove / Camp Mountain Area</p> <p>The Queensland Parks and Wildlife Service (QPWS) will conduct a planned burn in D&rsquo;Aguilar National Park from Wednesday, 15 July to Monday 20 July, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke will be seen in the Camp Mountain, Samford Valley, Upper Kedron, Ferny Grove, Keperra and The Gap areas.</p> <p>The following areas are restricted to the public during lighting operations and the following days;</p> <ul> <li>The Link Road</li> <li>Marshalls Break</li> <li>Camp Mountain Break</li> <li>Millwood break&nbsp;</li> <li>Pump Shed Break&nbsp;</li> <li>Parts of the Bellbird Grove Day Use Area will also have restricted access.</li> </ul> <p>There will also be an increase on the amount of QPWS vehicles on these roads whilst firefighting activities and patrolling are taking place.</p> <p>The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent bushfire and provide favourable conditions for natural forest revegetation. Smoke can decrease visibility on the roads, so it is important that motorist drive safely to the conditions. Please observe signage and barriers and do not enter closed areas and follow directions from Rangers. Safety is our concern but your responsibility.</p> <p>For more information, please contact The Gap office of QPWS on 07 3164 3600.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-07-15",
-      "end_date": "2026-07-20",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
-        }
-      ]
-    },
-    {
       "title": "Planned works for Harrys Hut Commercial Tour Operator Jetty",
       "alert_id": "26752",
       "url": "https://parks.qld.gov.au/park-alerts/26752",
@@ -3159,24 +3075,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to planned burn: Bare Hill Conservation Park",
-      "alert_id": "26754",
-      "url": "https://parks.qld.gov.au/park-alerts/26754",
-      "description": "Buluwai Rangers will be conducting cultural burns from Thursday 16 July to Monday 20 July 2026 (dates inclusive) at Bunda Bibandji (Bare Hill). Queensland Parks and Wildlife Service (QPWS) will be assisting these operations.",
-      "details": "<p>Buluwai Rangers will be conducting cultural burns from Thursday 16 July to Monday 20 July 2026 (dates inclusive) at Bunda Bibandji (Bare Hill). Queensland Parks and Wildlife Service (QPWS) will be assisting these operations.</p> <p><strong>During this period Bare Hill Conservation Park will be closed.</strong></p> <p>This closure includes the following:</p> <ul> <li>Bridle Creek Road&nbsp;from Davies Creek Road to Bunda Bibandji rock art car park</li> <li>Bunda Bibandji rock art walking track</li> </ul> <p>Visitors are advised that smoke may be seen in the surrounding area and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a> webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-16",
-      "start_effective_date": "2026-07-16",
-      "end_date": "2026-07-20",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
-        }
-      ]
-    },
-    {
       "title": "Partial Closure wet weather access Currawinya National Park",
       "alert_id": "26755",
       "url": "https://parks.qld.gov.au/park-alerts/26755",
@@ -3209,29 +3107,6 @@
           "id": "148608",
           "name": "Cania Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/cania-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn and track closure: Robson's Track, Little Mulgrave National Park, and Gadgarra National Park",
-      "alert_id": "26757",
-      "url": "https://parks.qld.gov.au/park-alerts/26757",
-      "description": "Queensland Parks and Wildlife Services (QPWS) will be conducting planned burns in the western section of Little Mulgrave National Park and Gadgarra National Park from Tuesday 21 July to Wednesday 22 July 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Services (QPWS) will be conducting planned burns in the western section of Little Mulgrave National Park and Gadgarra National Park from Tuesday 21 July to Wednesday 22 July 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>During this period Robson&#39;s Track will be closed and is anticipated to reopen on Thursday 23 July 2026.</strong></p> <p>Smoke, firefighters and traffic control may be seen from the base of the Gillies Range Road to Huntsbrook Creek.</p> <p>Please be aware that smoke has the potential to impact the road and limit driver visibility. Drive slowly, obey all signs and instructions from Rangers and traffic controllers.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management webpage</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-16",
-      "start_effective_date": "2026-07-21",
-      "end_date": "2026-07-22",
-      "parks": [
-        {
-          "id": "322678",
-          "name": "Gadgarra National Park",
-          "url": ""
-        },
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
         }
       ]
     },
@@ -3308,24 +3183,6 @@
       ]
     },
     {
-      "title": "Western Creek State Forest",
-      "alert_id": "26762",
-      "url": "https://parks.qld.gov.au/park-alerts/26762",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Saturday 18th July to Monday 20th July 2026, as part of the fire management program for Western Creek State Forest",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from Saturday 18th July to Monday 20th July 2026, as part of the fire management program for Western Creek State Forest</p> <p>During the planned burn&nbsp;Western Creek State Forest is&nbsp;closed to public access.&nbsp;</p> <p>Smoke may be seen in the vicinity of Western Creek and Boondandilla Road.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-16",
-      "start_effective_date": "2026-07-18",
-      "end_date": "2026-07-20",
-      "parks": [
-        {
-          "id": "322348",
-          "name": "Western Creek State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Temporary closure: Captain Billy Landing camping area, Wuthathi (Captain Billy Landing) National Park (CYPAL)",
       "alert_id": "26763",
       "url": "https://parks.qld.gov.au/park-alerts/26763",
@@ -3391,24 +3248,6 @@
           "id": "148884",
           "name": "Curtis Island National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure due to planned burn: Walshs Pyramid walking track, Walshs Pyramid, Wooroonooran National Park",
-      "alert_id": "26768",
-      "url": "https://parks.qld.gov.au/park-alerts/26768",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within the Walshs Pyramid section of Wooroonooran National Park from Tuesday 21 July to Wednesday 22 July 2026 (dates inclusive), as part of the annual conservation management program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within the Walshs Pyramid section of Wooroonooran National Park from Tuesday 21 July to Wednesday 22 July 2026 (dates inclusive), as part of the annual conservation management program for parks and forests.</p> <p><strong>During this period Walshs Pyramid walking track will be closed and is anticipated to reopen on Thursday 23 July 2026.</strong></p> <p>As a result of the planned burn, smoke may be seen on Gillies Range Road and the Bruce Highway. Please be aware that smoke has the potential to impact the road and limit driver visibility. Drive slowly, obey all signs and instructions from Rangers.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.<br /> <br /> Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management?_gl=1*bfldfc*_ga*OTA0Mjc3MDAwLjE3NzQ3NzY2Njc.*_ga_9C8GTP5GMH*czE3ODI3MDU0NDkkbzE0MCRnMSR0MTc4MjcwNzUxMyRqMjkkbDAkaDA.\" target=\"_blank\">fire management</a> webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-07-20",
-      "start_effective_date": "2026-07-21",
-      "end_date": "2026-07-22",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
         }
       ]
     },
@@ -3509,6 +3348,137 @@
           "id": "148802",
           "name": "Koombooloomba National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/koombooloomba"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Red Cliff Point to Wangetti Beach area, Macalister Range National Park",
+      "alert_id": "26776",
+      "url": "https://parks.qld.gov.au/park-alerts/26776",
+      "description": "Queensland Parks and Wildlife (QPWS) will be conducting a planned burns west of the Captain Cook Highway between Red Cliff Point and Wangetti Beach on Tuesday 21 July and Wednesday 22 July 2026, as part of the fire management program for Macalister Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting a planned burns west of the Captain Cook Highway between Red Cliff Point and Wangetti Beach on Tuesday 21 July and Wednesday 22 July 2026, as part of the fire management program for Macalister Range National Park.</p> <p>During this period smoke may be seen in the vicinity of Red Cliff Point, Wangetti Beach, Captain Cook Highway and surrounding areas.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the fire management&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">webpage</a>.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Stay up-to-date with&nbsp;<a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a>&nbsp;from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-07-22",
+      "parks": [
+        {
+          "id": "149397",
+          "name": "Macalister Range National Park",
+          "url": "https://parks.qld.gov.au/parks/macalister-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Mount Boolbun, Ngalba-bulal National Park (CYPAL)",
+      "alert_id": "26777",
+      "url": "https://parks.qld.gov.au/park-alerts/26777",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the vicinity of Mount Boolbun, Ngalba-bulal National Park (CYPAL) from Wednesday 22 July to Monday 27 July 2026 (dates inclusive). Aircraft will be operating in the area during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the vicinity of Mount Boolbun, Ngalba-bulal National Park (CYPAL) from Wednesday 22 July to Monday 27 July 2026 (dates inclusive). Aircraft will be operating in the area during this period.</p> <p><strong>Ngalba-bulal National Park (CYPAL) is currently closed to the public.</strong></p> <p>Most fire activity is expected to self-extinguish each evening, however, some fire may remain active and smoke visible for 2 to 3 days following ignition. Burning will continue in the area as weather and seasonal conditions allow over coming weeks and months. QPWS will monitor fire activity until it is out.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-22",
+      "end_date": "2026-08-02",
+      "parks": [
+        {
+          "id": "148231",
+          "name": "Ngalba-bulal National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/ngalba-bulal"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure",
+      "alert_id": "26778",
+      "url": "https://parks.qld.gov.au/park-alerts/26778",
+      "description": "Baga National Park and walking track will be temporarily closed from 9am - 12pm on Thursday 23rd July 2026.",
+      "details": "<p>Baga National Park and walking track will be temporarily closed from 9am - 12pm on Thursday 23rd July 2026.</p> <p>Staff will be conducting drone operations across the entire park, and for visitor safety, Queensland Parks and Wildlife Service will be closing the entire park.</p> <p>We ask visitors to please vacate the National Park for the closure period, and stay 30m away from the drone take off and landing area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-07-23",
+      "parks": [
+        {
+          "id": "148019",
+          "name": "Baga National Park",
+          "url": "https://parks.qld.gov.au/parks/baga"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure : Bluebush Drive on Lochern National Park",
+      "alert_id": "26779",
+      "url": "https://parks.qld.gov.au/park-alerts/26779",
+      "description": "The Bluebush Drive within Lochern National Park is temporarily closed until Friday 14 August 2026 inclusive, due to damage to track and channel crossings, and ongoing wet and boggy road conditions. The Broadwater Camping Area is open.",
+      "details": "<p>The Bluebush Drive within Lochern National Park is temporarily closed until Friday 14 August 2026 inclusive, due to damage to track and channel crossings, and ongoing wet and boggy road conditions. The Broadwater Camping Area is open.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-08-14",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Mulga Drive return loop on Welford National Park",
+      "alert_id": "26780",
+      "url": "https://parks.qld.gov.au/park-alerts/26780",
+      "description": "The return loop of the Mulga Drive is closed due to flood damage and ongoing wet and boggy conditions. Access is still open to Sawyer's Lookout and Sawyer's Creek. Visitors can get to these sites and return the way they came. Please drive carefully and be aware that traffic may approach in either direction along the Mulga Drive.",
+      "details": "<p>The return loop of the Mulga Drive is closed due to flood damage and ongoing wet and boggy conditions. Access is still open to Sawyer's Lookout and Sawyer's Creek. Visitors can get to these sites and return the way they came. Please drive carefully and be aware that traffic may approach in either direction along the Mulga Drive.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-09-30",
+      "parks": [
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Oceanview Track",
+      "alert_id": "26781",
+      "url": "https://parks.qld.gov.au/park-alerts/26781",
+      "description": "Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned maintenance on Oceanview track in Burleigh Head National Park from Wednesday 22 July to Friday 24 July 2026 (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) contractors will be conducting planned maintenance on Oceanview track in Burleigh Head National Park from Wednesday 22 July to Friday 24 July 2026 (weather permitting).</p> <p>The <strong>Oceanview track</strong> will be <strong>closed</strong> for the duration of the works. The works relate to repairs following a boulder fall early this year.</p> <p>The Rainforest circuit will remain open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-07-24",
+      "parks": [
+        {
+          "id": "148908",
+          "name": "Burleigh Head National Park",
+          "url": "https://parks.qld.gov.au/parks/burleigh-head"
+        }
+      ]
+    },
+    {
+      "title": "Access restriction: temporary closure of Kirrama Range road access to Blencoe Falls camping area, Girringun National Park",
+      "alert_id": "26782",
+      "url": "https://parks.qld.gov.au/park-alerts/26782",
+      "description": "Visitors are advised that Kirrama Range Road access to Blencoe Falls camping area, Girringun National Park is closed between 21 July to 23 July 2026 (dates inclusive).",
+      "details": "<p>Visitors are advised that Kirrama Range Road access to Blencoe Falls camping area, Girringun National Park is closed between 21 July to 23 July 2026 (dates inclusive).</p> <p>The Kirrama Range Road is closed due to bridge works at Big Swamp, currently being undertaken by Tablelands Regional Council.</p> <ul> <li>Blencoe Falls camping area can only be accessed from the wet from Mount Garnet during this time.</li> </ul> <p>For further information, please contact <a href=\"https://www.trc.qld.gov.au/contact-us/\">Tablelands Regional Council</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
+      "category": "Announcement",
+      "start_date": "2026-07-21",
+      "start_effective_date": "2026-07-21",
+      "end_date": "2026-07-23",
+      "parks": [
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        },
+        {
+          "id": "149013",
+          "name": "Blencoe Falls, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/blencoe-falls"
         }
       ]
     }
