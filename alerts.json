@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 166,
-    "script_run_time": "2026-07-25 10:59:04"
+    "alerts_count": 165,
+    "script_run_time": "2026-07-26 11:11:18"
   },
   "alerts": [
     {
@@ -2912,29 +2912,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure: Wangetti Trail, Macalister Range National Park",
-      "alert_id": "26753",
-      "url": "https://parks.qld.gov.au/park-alerts/26753",
-      "description": "Visitors are advised that the Wangetti Trail, Macalister Range National Park, will be temporarily closed to the public from 7:00am to 10:00am on Sunday 26 July 2026.",
-      "details": "<p>Visitors are advised that the Wangetti Trail, Macalister Range National Park, will be temporarily closed to the public from 7:00am to 10:00am on Sunday 26 July 2026.</p> <p>This closure is to allow for an organised fundraising event to occur.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-24",
-      "start_effective_date": "2026-07-26",
-      "end_date": "2026-07-26",
-      "parks": [
-        {
-          "id": "354857",
-          "name": "Wangetti Trail",
-          "url": "https://parks.qld.gov.au/parks/wangetti-trail"
-        },
-        {
-          "id": "149397",
-          "name": "Macalister Range National Park",
-          "url": "https://parks.qld.gov.au/parks/macalister-range"
         }
       ]
     },
