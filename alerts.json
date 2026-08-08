@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 169,
-    "script_run_time": "2026-08-07 10:39:36"
+    "alerts_count": 163,
+    "script_run_time": "2026-08-08 10:18:41"
   },
   "alerts": [
     {
@@ -1621,44 +1621,6 @@
       ]
     },
     {
-      "title": "Rainbow Beach QPWS Information centre - Reduced opening hours",
-      "alert_id": "26504",
-      "url": "https://parks.qld.gov.au/park-alerts/26504",
-      "description": "The Rainbow Beach QPWS Information centre changed operational hours",
-      "details": "<p>The Rainbow Beach QPWS Information centre changed operational hours</p> <h2>Rainbow Beach QPWS Information Centre&nbsp;Opening hours 8am - 3pm Wednesdays only</h2> <p>Outside of these hours, QPWS camping and vehicle permits can be purchased via:</p> <ul> <li>QPWS Online bookings&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></li> <li>Manta Ray Barges&nbsp;<a href=\"http://www.mantarayfraserislandbarge.com.au/\">www.mantarayfraserislandbarge.com.au<strong>(external link)</strong></a>&nbsp;(07) 5486 3935</li> <li>Rainbow Beach Shell Service Station</li> </ul> <p>To make booking changes, apply for refunds, or system credits, log on to&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>For blank camping tags, maps and discovery guides, please visit the interpretive hut at the entrance to the centre.</p> <p>For general park information including Park Alerts and Condition Reports please visit&nbsp;<a href=\"http://www.des.qld.gov.au/\">www.des.qld.gov.au</a></p>",
-      "category": "Announcement",
-      "start_date": "2026-05-12",
-      "start_effective_date": "2026-05-11",
-      "end_date": "2026-08-07",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        },
-        {
-          "id": "149409",
-          "name": "Inskip Peninsula Recreation Area",
-          "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        },
-        {
-          "id": "148183",
-          "name": "Cooloola Recreation Area, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/cooloola"
-        },
-        {
-          "id": "150208",
-          "name": "Cooloola Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure of Gaguwan Track (Naree Budjong Djara National Park).",
       "alert_id": "26506",
       "url": "https://parks.qld.gov.au/park-alerts/26506",
@@ -2361,42 +2323,6 @@
       ]
     },
     {
-      "title": "Temporary closures due to planned burn operations: north-east section, The Bluff State Forest",
-      "alert_id": "26726",
-      "url": "https://parks.qld.gov.au/park-alerts/26726",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Thursday 6 August to Friday 7 August 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in the north-east section of The Bluff State Forest from Thursday 6 August to Friday 7 August 2026 (dates inclusive) as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>During this period the following areas will be closed for public safety:</strong></p> <ul> <li>All multi-use trails within the area bounded by Old Kaban Road, Flaggy Creek Road, Springvale Road&nbsp;and Marshall Creek Road, including Old Coach Road/Bluff walking trail.</li> </ul> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness. The aim of these burns is to maintain healthy forest environments and reduce the potential threats from bushfire in periods of dangerous weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management webpage</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-05",
-      "start_effective_date": "2026-08-06",
-      "end_date": "2026-08-07",
-      "parks": [
-        {
-          "id": "322353",
-          "name": "The Bluff State Forest",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Pest animal control program involving ground shooting: St Bees Island, South Cumberland Islands National Park",
-      "alert_id": "26737",
-      "url": "https://parks.qld.gov.au/park-alerts/26737",
-      "description": "A feral animal control program involving ground shooting will be conducted at St Bees Island, South Cumberland Islands National Park from Saturday 18th July to Friday 7th August 2026 (dates inclusive). Turtle Bay campground will be closed for the duration of the operation and a maritime exclusion zone around St Bees Island extends 200m seaward of the highwater mark. Access to St Bees Island will be closed for the entirety of the operation. All Vessels and visitors must remain well clear of the area.",
-      "details": "<p>A feral animal control program involving ground shooting will be conducted at St Bees Island, South Cumberland Islands National Park from Saturday 18th July to Friday 7th August 2026 (dates inclusive). Turtle Bay campground will be closed for the duration of the operation and a maritime exclusion zone around St Bees Island extends 200m seaward of the highwater mark. Access to St Bees Island will be closed for the entirety of the operation. All Vessels and visitors must remain well clear of the area.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-07-18",
-      "end_date": "2026-08-07",
-      "parks": [
-        {
-          "id": "151351",
-          "name": "South Cumberland Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/south-cumberland-islands"
-        }
-      ]
-    },
-    {
       "title": "Pest animal control program involving ground shooting: St Bees Island, South Cumberland Islands National Park",
       "alert_id": "26738",
       "url": "https://parks.qld.gov.au/park-alerts/26738",
@@ -2488,24 +2414,6 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Cania Gorge National Park",
-      "alert_id": "26756",
-      "url": "https://parks.qld.gov.au/park-alerts/26756",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 20th July 2026 until 7th August 2026, as part of the fire management program for Cania Gorge National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 20th July 2026 until 7th August 2026, as part of the fire management program for Cania Gorge National Park.</p> <p>QPWS Rangers&nbsp;and machinery may be working along roadsides in the vicinity of Cania Road, Cania Day Use Area, West Track Carpark and several of the walking tracks. For your safety and the safety of&nbsp;authorities, please slow down and observe all directions and signs.&nbsp;&nbsp;</p> <p>Following the planned burn, <strong><em>Fern Tree Pool walking track</em></strong> remains <strong><em>closed</em></strong> until Wednesday 05/08/26.&nbsp;</p> <p>All other walking tracks have reopened.</p> <p>Smoke may be seen in the vicinity of Cania Road and the Cania Gorge Day Use Area. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-03",
-      "start_effective_date": "2026-07-20",
-      "end_date": "2026-08-07",
-      "parks": [
-        {
-          "id": "148608",
-          "name": "Cania Gorge National Park",
-          "url": "https://parks.qld.gov.au/parks/cania-gorge"
         }
       ]
     },
@@ -2719,42 +2627,6 @@
           "id": "148360",
           "name": "Diamantina National Park",
           "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
-      "title": "Planned works - Information centre - Gauriemabah (place of stories)",
-      "alert_id": "26796",
-      "url": "https://parks.qld.gov.au/park-alerts/26796",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking planned maintenance on the information centre to repair damage caused by Tropical Cyclone Alfred between Monday the 27th of July 2026 to Friday the 7th of August 2026 (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking planned maintenance on the information centre to repair damage caused by Tropical Cyclone Alfred between Monday the 27th of July 2026 to Friday the 7th of August 2026 (weather permitting).</p> <p>While the planned works are being completed the information centre -&nbsp; Gauriemabah (place of stories) will be <strong>closed</strong>.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <h2>&nbsp;</h2>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-23",
-      "start_effective_date": "2026-07-27",
-      "end_date": "2026-08-07",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.qld.gov.au/parks/springbrook"
-        }
-      ]
-    },
-    {
-      "title": "Feral Cat and Fox control: Temporary Closure 27th July-7th August 2026",
-      "alert_id": "26797",
-      "url": "https://parks.qld.gov.au/park-alerts/26797",
-      "description": "Approved pest control activities will be undertaken by QPWS within the park to manage feral cat and fox populations and minimise their impact on native wildlife.",
-      "details": "<p>Approved pest control activities will be undertaken by QPWS within the park to manage feral cat and fox populations and minimise their impact on native wildlife.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-24",
-      "start_effective_date": "2026-07-27",
-      "end_date": "2026-08-07",
-      "parks": [
-        {
-          "id": "149405",
-          "name": "Mount Etna Caves National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-etna-caves"
         }
       ]
     },
