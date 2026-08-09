@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 163,
-    "script_run_time": "2026-08-08 10:18:41"
+    "alerts_count": 162,
+    "script_run_time": "2026-08-09 10:20:15"
   },
   "alerts": [
     {
@@ -2891,24 +2891,6 @@
           "id": "148007",
           "name": "K'gari, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Planned Burn for Parklands Conservation Park",
-      "alert_id": "26836",
-      "url": "https://parks.qld.gov.au/park-alerts/26836",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on 5 August 2026, as part of the fire management program for Parklands Conservation Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on 5 August 2026, as part of the fire management program for Parklands Conservation Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Rocky Creek Forestry Road, Rocky Creek Road North, Lowlands Circuit and Yandina Road Entrance. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are closed to public access:</p> <ul> <li>Yandina Road Entrance</li> <li>Lowlands Circuit (between Yandina Road Entrance and Rocky Creek Road North).</li> <li>Rocky Creek Road North</li> </ul> <p>&middot;</p> <p>Smoke may be seen in the vicinity of Yandina Bli Bli Road, Rocky Creek Forestry Road. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-04",
-      "start_effective_date": "2026-08-05",
-      "end_date": "2026-08-08",
-      "parks": [
-        {
-          "id": "148035",
-          "name": "Parklands Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/parklands"
         }
       ]
     },
