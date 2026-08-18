@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2026-08-17 10:18:46"
+    "alerts_count": 152,
+    "script_run_time": "2026-08-18 10:14:56"
   },
   "alerts": [
     {
@@ -301,9 +301,9 @@
       "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong-On Bay camping areas and space usually available for camping is currently underwater.",
       "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong-On Bay camping areas and space usually available for camping is currently underwater.</p> <p>Visitors are asked to be respectful of the limited space and of other campers.</p>",
       "category": "Announcement",
-      "start_date": "2026-06-04",
+      "start_date": "2026-08-18",
       "start_effective_date": "2024-09-17",
-      "end_date": "2026-08-27",
+      "end_date": "2026-10-27",
       "parks": [
         {
           "id": "148055",
@@ -1708,24 +1708,6 @@
       ]
     },
     {
-      "title": "Temporary closure: Warracoota circuit drive, Diamantina National Park",
-      "alert_id": "26537",
-      "url": "https://parks.qld.gov.au/park-alerts/26537",
-      "description": "Visitors are advised that the Warracoota circuit drive is currently impassable due to ongoing wet and boggy road conditions, and the track being overgrown in numerous locations.",
-      "details": "<p>Visitors are advised that the Warracoota circuit drive is currently impassable due to ongoing wet and boggy road conditions, and the track being overgrown in numerous locations.</p> <p>QPWS rangers have a planned maintenance schedule in place.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-07-27",
-      "start_effective_date": "2026-05-19",
-      "end_date": "2026-08-17",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
       "title": "Partial closure of Wanggoolba Creek Boardwalk",
       "alert_id": "26556",
       "url": "https://parks.qld.gov.au/park-alerts/26556",
@@ -2082,34 +2064,6 @@
       ]
     },
     {
-      "title": "Open with caution for high clearance vehicles: Bartle Frere access road (western trailhead), Wooroonooran National Park",
-      "alert_id": "26669",
-      "url": "https://parks.qld.gov.au/park-alerts/26669",
-      "description": "The Bartle Frere access road at the western trailhead has been impacted by rain events and is currently suited to high clearance vehicles only. Visitors are advised to drive with caution.",
-      "details": "<p>The Bartle Frere access road at the western trailhead has been impacted by rain events and is currently suited to high clearance vehicles only. Visitors are advised to drive with caution.</p> <p>During this period, visitors without high clearance vehicles can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change following periods of rainfall. Short-term temporary closures may occur to assist visitor safety and limit damage to the road surface.</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-29",
-      "start_effective_date": "2026-06-22",
-      "end_date": "2026-08-21",
-      "parks": [
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
-        },
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "148428",
-          "name": "Bartle Frere trail, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/bartle-frere"
-        }
-      ]
-    },
-    {
       "title": "Temporary road closure and repair works: Mount Edith Road, Danbulla National Park and State Forest",
       "alert_id": "26673",
       "url": "https://parks.qld.gov.au/park-alerts/26673",
@@ -2208,12 +2162,12 @@
       "title": "Temporary access road closure: Bartle Frere trail western trailhead, Wooroonooran National Park",
       "alert_id": "26713",
       "url": "https://parks.qld.gov.au/park-alerts/26713",
-      "description": "The Bartle Frere access road at the western trailhead has been impacted by rain events and is currently closed to all traffic until Monday 31 August 2026 (date inclusive).",
-      "details": "<p>The Bartle Frere access road at the western trailhead has been impacted by rain events and is currently closed to all traffic until Monday 31 August 2026 (date inclusive).</p> <p>During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls car park off Gourka Road and walking in from this location.</p> <p>Please continue to monitor park alerts as this access information may change following periods of rainfall. Short-term temporary closures may occur to assist visitor safety and limit damage to the road surface.</p>",
+      "description": "The Bartle Frere trail access road at the western trailhead has been impacted by rain events and is currently closed to all traffic until Friday 11 September 2026 (date inclusive).",
+      "details": "<p>The Bartle Frere trail access road at the western trailhead has been impacted by rain events and is currently closed to all traffic until Friday 11 September 2026 (date inclusive).</p> <p>Heavy machinery will be operating along the access road to conduct repair works.&nbsp; For your safety, please obey signage and barriers and do not enter closed areas.&nbsp;</p> <p>During this period, visitors can still access the Bartle Frere western trailhead by parking at Windin Falls carpark off Gourka Road and walking in from this location.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-06",
+      "start_date": "2026-08-18",
       "start_effective_date": "2026-07-06",
-      "end_date": "2026-08-31",
+      "end_date": "2026-09-11",
       "parks": [
         {
           "id": "148468",
@@ -2555,29 +2509,6 @@
           "id": "148360",
           "name": "Diamantina National Park",
           "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
-      "title": "Thorsborne Trail camping area enhancement works",
-      "alert_id": "26798",
-      "url": "https://parks.qld.gov.au/park-alerts/26798",
-      "description": "Works will be occurring at Nina Bay camping area from 10-17 August 2026. There may also be some trail works occurring in the Nina Bay area during this time.",
-      "details": "<p>Works will be occurring at Nina Bay camping area from 10-17 August 2026. There may also be some trail works occurring in the Nina Bay area during this time.</p> <ul> <li>There will be a barge landing at Mini Ramsay Bay to unload equipment &ndash; there will be minimal impact to hikers passing through the bay.</li> <li>Construction materials will be transported by helicopter from the mainland and Mini Ramsay Bay to Nina Bay throughout the morning on 12 August. While not planned, it is possible there may be heli-lifting occurring on other days during this period of the works.</li> <li>Other minor works may occur at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</li> </ul> <p>The camping area will remain open throughout for Thorsborne Trail hikers, however some of the individual camp nodes may be closed.</p> <p>Construction noise, including chainsaws and small machinery, may be expected during the day. Works will be carried out during the day to minimise disturbance to campers. <strong>Due to the confined space of Nina Bay camping area, the visitor experience will likely be impacted by the works &ndash; hikers may wish to camp elsewhere if they were planning on camping at Nina Bay.</strong></p> <p>Thorsborne Trail hikers passing through Mini Ramsay Bay and Nina Bay when heli-lifting is occurring may be given safety directives by Rangers during each helicopter pickup/drop-off and may need to wait until the helicopter is away from the site before being able to continue. It is anticipated that this should not exceed a 10 to 15-minute wait.</p> <p>Hikers staying at Banksia Bay overnight on 11/12 August will be impacted by noise from the helicopter picking up materials nearby on the morning of 12 August.</p> <p>QPWS apologises for the inconvenience and appreciates your patience in supporting this important upgrade. &nbsp;</p> <p>For more information about the Hinchinbrook trail experience project visit <a href=\"https://parks.desi.qld.gov.au/parks/hinchinbrook/about/thorsborne-trail-enhancement-project\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-24",
-      "start_effective_date": "2026-08-10",
-      "end_date": "2026-08-17",
-      "parks": [
-        {
-          "id": "151379",
-          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
-        },
-        {
-          "id": "148420",
-          "name": "Hinchinbrook Island National Park",
-          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
         }
       ]
     },
@@ -2979,24 +2910,6 @@
       ]
     },
     {
-      "title": "Temporary track closures for event: Smithfield Mountain Bike Park, Smithfield Conservation Park",
-      "alert_id": "26858",
-      "url": "https://parks.qld.gov.au/park-alerts/26858",
-      "description": "The 2026 Queensland Downhill Mountain Bike State Championship will be held at Smithfield Mountain Bike Park from Friday 14 August to Monday 17 August 2026 (dates inclusive).",
-      "details": "<p>The 2026 Queensland Downhill Mountain Bike State Championship will be held at Smithfield Mountain Bike Park from Friday 14 August to Monday 17 August 2026 (dates inclusive).</p> <p>Please see below for details of closures leading up to the event for track marking and event preparations, &nbsp;and closures during the event for race operations:</p> <ul> <li><strong>Worlds Downhill track&nbsp;shuttle road</strong>&nbsp;- closed from Wednesday 12 August to Monday 17 August&nbsp;(dates inclusive)&nbsp;</li> <li><strong>Worlds Downhill track</strong>&nbsp;- closed from&nbsp;Wednesday 12 August to Monday 17 August (dates inclusive)&nbsp;</li> <li><strong>Nationals </strong>- closed from Friday 14 August to Sunday 16 August&nbsp;(dates inclusive)</li> <li><strong>Happies</strong>&nbsp;- closed from Friday 14 August to Sunday 16 August (dates inclusive)</li> <li><strong>Emergency access link pipeline</strong>&nbsp;- closed from Friday 14 August to Sunday 16 August&nbsp;(dates inclusive)</li> <li><strong>Panguna Ridge Road past Rocky Dingo&nbsp;</strong>- closed from Friday 14 August to Sunday 16 August (dates inclusive)</li> </ul> <p>Closed trails will be clearly marked and access should be avoided by all park users for safety of all participants.&nbsp;</p> <p>During the event there will be increased vehicle traffic in the park including emergency and official event vehicles. Riders please be aware of cars on&nbsp;emergency access&nbsp;roads including Moore Road and Panguna Ridge/ highway tank access road.</p> <p>For your safety obey all signage, barricading and directions from race personnel.</p> <p>Find latest updates at Cairns Mountain Bike Club Facebook page and&nbsp;<a href=\"https://urldefense.com/v3/__https:/cairnsmtb.com/upcoming-event/auscycling-mtb-downhill-state-championships-qld-worlds/__;!!PUY2jUP3Fp7oEg!BJQkSdkORNMUcWY60cl_aPNyi2tuqjXrCu2FtBriBv_Wcuva9dXH7g-6WkVUZIoqBOBmI6Syr-O_x5WJ-NF98dKiyoXN$\" target=\"_blank\">website</a>, or the&nbsp;<a href=\"https://urldefense.com/v3/__https:/auscycling.org.au/events/2026-auscycling-mtb-downhill-state-championships---qld__;!!PUY2jUP3Fp7oEg!BJQkSdkORNMUcWY60cl_aPNyi2tuqjXrCu2FtBriBv_Wcuva9dXH7g-6WkVUZIoqBOBmI6Syr-O_x5WJ-NF98cVima14$\" target=\"_blank\">Auscycling event page</a>&nbsp;for athlete information and contacts.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-08-12",
-      "start_effective_date": "2026-08-12",
-      "end_date": "2026-08-17",
-      "parks": [
-        {
-          "id": "148424",
-          "name": "Smithfield Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/smithfield"
-        }
-      ]
-    },
-    {
       "title": "Upcoming Planned Burn - Bunyaville Conservation Parks",
       "alert_id": "26864",
       "url": "https://parks.qld.gov.au/park-alerts/26864",
@@ -3133,24 +3046,6 @@
       ]
     },
     {
-      "title": "Cape Palmerston National Park Cultural Burn - 17 August 2026",
-      "alert_id": "26881",
-      "url": "https://parks.qld.gov.au/park-alerts/26881",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burn within the Clark Bay section of Cape Palmerston National Park, Monday 17 August 2026, weather permitting.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) will be supporting Traditional Owners undertaking a cultural burn within the Clark Bay section of Cape Palmerston National Park, Monday 17 August 2026, weather permitting.</p> <p>Cape Palmerston National Park will remain open to the public. Smoke may be seen in the vicinity of Cape Palmerston.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-13",
-      "start_effective_date": "2026-08-17",
-      "end_date": "2026-08-17",
-      "parks": [
-        {
-          "id": "148832",
-          "name": "Cape Palmerston National Park",
-          "url": "https://parks.qld.gov.au/parks/cape-palmerston"
-        }
-      ]
-    },
-    {
       "title": "Planned Burn: Lindeman Island National Park",
       "alert_id": "26884",
       "url": "https://parks.qld.gov.au/park-alerts/26884",
@@ -3183,6 +3078,60 @@
           "id": "322776",
           "name": "Mount Windsor National Park",
           "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Main Range National Park",
+      "alert_id": "26886",
+      "url": "https://parks.qld.gov.au/park-alerts/26886",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 18 - 21 August , as part of the fire management program for Main Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn/s (weather permitting) from 18 - 21 August , as part of the fire management program for Main Range National Park.</p> <p>During the planned&nbsp;burn&nbsp;these areas are&nbsp;closed to public access:&nbsp;</p> <ul> <li> <p>Laidly Creek Falls and Mount Castle remote walks</p> </li> <li> <p>Cunningham North remote camping zone</p> </li> </ul> <p>Smoke may be seen in the vicinity of Tarome &amp; Townson. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-08-18",
+      "start_effective_date": "2026-08-18",
+      "end_date": "2026-08-21",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: day-use area carpark at Big Crystal Creek, Paluma National Park",
+      "alert_id": "26887",
+      "url": "https://parks.qld.gov.au/park-alerts/26887",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be undertaking road works within the Big Crystal Creek day-use area carpark between Thursday 20 August and Friday 21 August 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be undertaking road works within the Big Crystal Creek day-use area carpark between Thursday 20 August and Friday 21 August 2026 (dates inclusive).</p> <p>The Big Crystal Creek day-use area carpark will be <strong>closed</strong> during this period due to construction crews, heavy machinery and associated vehicles operating in the area.&nbsp;&nbsp;</p> <p>Visitors may use the nearby camping area carpark while works are underway.</p> <p>These works are required to improve visitor access, safety and infrastructure of the Big Crystal Creek day-use area for all visitors.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-18",
+      "start_effective_date": "2026-08-20",
+      "end_date": "2026-08-21",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Barron Gorge National Park",
+      "alert_id": "26888",
+      "url": "https://parks.qld.gov.au/park-alerts/26888",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on Thursday 20 August 2026, within Barron Gorge National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on Thursday 20 August 2026, within Barron Gorge National Park.</p> <p>Visitors are advised that smoke may be present along some of the <strong>McDonald walking track</strong>.</p> <p>Visitors with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-08-18",
+      "start_effective_date": "2026-08-20",
+      "end_date": "2026-08-21",
+      "parks": [
+        {
+          "id": "148548",
+          "name": "Barron Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/barron-gorge"
         }
       ]
     }
