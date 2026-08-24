@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 150,
-    "script_run_time": "2026-08-23 10:10:44"
+    "alerts_count": 154,
+    "script_run_time": "2026-08-24 10:25:11"
   },
   "alerts": [
     {
@@ -2915,24 +2915,6 @@
       ]
     },
     {
-      "title": "Planned burn operations: Mount Windsor National Park",
-      "alert_id": "26885",
-      "url": "https://parks.qld.gov.au/park-alerts/26885",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in Mount Windsor National Park from Wednesday 19 August to Thursday 20 August 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in Mount Windsor National Park from Wednesday 19 August to Thursday 20 August 2026 (dates inclusive).</p> <p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns in Mount Windsor National Park from Wednesday 19 August to Thursday 20 August 2026 (dates inclusive).</p> <p>Most fire activity is expected to self-extinguish by the evening of Thursday 20 August, however, some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS will continue to monitor fire activity until it is out.</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-08-17",
-      "start_effective_date": "2026-08-19",
-      "end_date": "2026-08-23",
-      "parks": [
-        {
-          "id": "322776",
-          "name": "Mount Windsor National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Planned burn operations: Barron Gorge National Park",
       "alert_id": "26888",
       "url": "https://parks.qld.gov.au/park-alerts/26888",
@@ -3006,6 +2988,29 @@
           "id": "149369",
           "name": "Woody Island (Tooliewah) and Little Woody Island (Walangoora), Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/great-sandy-woody"
+        }
+      ]
+    },
+    {
+      "title": "Waddy Beach Front Camping Area: Campsite Booking Restrictions - Dingo Management",
+      "alert_id": "26895",
+      "url": "https://parks.qld.gov.au/park-alerts/26895",
+      "description": "Waddy Point Beach Front Camping Area will have new campsite booking restrictions in place from 14 August until 15 December 2026. The campsite restriction is required to manage heightened risks of a habituated dingo pack damaging property, ripping tents, and accessing food from unsecured eskies and fridges, and to allow active dingo behavioural management to be undertaken by QPWS Rangers.",
+      "details": "<p>Waddy Point Beach Front Camping Area will have new campsite booking restrictions in place from 14 August until 15 December 2026. The campsite restriction is required to manage heightened risks of a habituated dingo pack damaging property, ripping tents, and accessing food from unsecured eskies and fridges, and to allow active dingo behavioural management to be undertaken by QPWS Rangers.</p> <p>Existing bookings made before 14 August 2026 are still valid for the duration of the closure and the area will be subject to increased QPWS Ranger monitoring and dingo behavioural management activities. Abide by all dingo safety messaging and Ranger directions.</p> <p>Families with children are strongly encouraged to stay in <strong>fenced camping areas</strong> (Waddy Point Top, Dundubara, Eli Creek, One Tree Rocks, Cornwells, Wongai). &nbsp;</p> <p>If you have an existing booking and wish to cancel and rebook in another camping area or request a refund online for your existing Queensland National Parks camping or vehicle access booking/s,&nbsp;please do so via <strong>&nbsp;</strong><a href=\"http://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\"><strong>parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking</strong></a></p> <p>Alternate camping areas, subject to booking availability, include Waddy Point Top (fenced), Dundubara (fenced), and Zones 7 and 8 unfenced beachfront camping areas.</p> <p><strong>Be dingo-safe!</strong> Visit&nbsp;<a href=\"https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">https://parks.detsi.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe</a></p> <ul> <li>NEVER feed dingoes.</li> <li><strong>Always stay within arm&rsquo;s reach of children, even small teenagers.</strong></li> <li>Walk in groups and carry a long dingo safety stick.</li> <li>Do not run or jog outside fenced areas - this can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Lock up food stores and iceboxes, secure all rubbish, fish, bait and&nbsp;tackle (even on a boat).</li> <li><strong>Never store food, food containers or scented items in tents.</strong></li> <li>No food to lakeshores.</li> </ul> <p><strong>Report dingo encounters</strong>&nbsp;&ndash; email dingo.ranger@detsi.qld.gov.au, tell the nearest QPWS Ranger, or phone (07) 4127 9150. Note location, vehicle registration, dingo ear tag colour/number/which ear. Call <strong>Triple Zero (000)</strong> for all emergencies.</p> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-08-24",
+      "start_effective_date": "2026-08-14",
+      "end_date": "2026-12-15",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -3096,6 +3101,98 @@
           "id": "148452",
           "name": "Paluma Range National Park",
           "url": "https://parks.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Planned Firebreak maintenance Plunkett Conservation Park",
+      "alert_id": "26901",
+      "url": "https://parks.qld.gov.au/park-alerts/26901",
+      "description": "Planned Fireline repair works addressing damage created by weather events require the temporary closure of Eastern Break within Plunkett Conservation Park between the dates of 24/8/26 - 26/8/26.",
+      "details": "<p>Planned Fireline repair works addressing damage created by weather events require the temporary closure of Eastern Break within Plunkett Conservation Park between the dates of 24/8/26 - 26/8/26.</p> <p>Park users are advised to adhere to all signage and direction from contractors and Rangers during works. Pedestrian access is still available to Wickham Peak.&nbsp;</p> <p>Heavy Machinery will be operating along this break. Please use caution when approaching the works area on Eastern Break from Canyon / Guiddo&#39;s break.</p> <p>All other firebreaks remain open during this time.&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-08-24",
+      "start_effective_date": "2026-08-24",
+      "end_date": "2026-08-26",
+      "parks": [
+        {
+          "id": "149381",
+          "name": "Plunkett Conservation Park and Wickham National Park",
+          "url": "https://parks.qld.gov.au/parks/plunkett-wickham"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure of sections of Carbrook Wetlands Conservation Park",
+      "alert_id": "26902",
+      "url": "https://parks.qld.gov.au/park-alerts/26902",
+      "description": "Park users are advised of temporary track maintenance and vegetation works requiring closure of the below listed firelines between the dates of 24/8/26 &amp; 28/8/26.",
+      "details": "<p>Park users are advised of temporary track maintenance and vegetation works requiring closure of the below listed firelines between the dates of 24/8/26 &amp; 28/8/26.</p> <p>Planned Fireline upgrade works and vegetation maintenance relating to the Carbrook Urban Interface Project Stage 2 will be commencing from 24/8/26 - 28/8/26.</p> <p>Firelines that will be closed within this time period are:</p> <p>- Crinea Break / Regnans Break</p> <p>- Solway Break</p> <p>- Western Break</p> <p>- Ridge Break</p> <p>- Stern Break</p> <p>- Dam Break</p> <p>- Peat Break</p> <p>- Quinquenervia Break</p> <p>- Coorang Break</p> <p>Heavy machinery will be in operation. Please observe and adhere to all signage and directions from Contractors and Rangers during this time.</p> <p>Please be advised that dates may change due to inclement weather conditions.</p> <p>Further detailed information regarding this project can be found at&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management/news/case-studies/fireline-upgrades-protected-areas-south-of-brisbane\">Fireline upgrades in protected areas south of Brisbane | Parks and forests | Department of the Environment, Tourism, Science and Innovation</a></p> <p>&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-08-24",
+      "start_effective_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "parks": [
+        {
+          "id": "322906",
+          "name": "Carbrook Wetlands Conservation Park 2",
+          "url": ""
+        },
+        {
+          "id": "322931",
+          "name": "Carbrook Wetlands Conservation Park 1",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Forecast wet weather for Lochern, Welford and Idalia National Parks",
+      "alert_id": "26903",
+      "url": "https://parks.qld.gov.au/park-alerts/26903",
+      "description": "he Bureau of Meteorology is predicting wet weather to affect Lochern, Welford and Idalia National Parks over the next couple of days. Road conditions do not allow for wet weather driving so these national parks will be closed until conditions can be reviewed.",
+      "details": "<p>he Bureau of Meteorology is predicting wet weather to affect Lochern, Welford and Idalia National Parks over the next couple of days. Road conditions do not allow for wet weather driving so these national parks will be closed until conditions can be reviewed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-24",
+      "start_effective_date": "2026-08-24",
+      "end_date": "2026-08-26",
+      "parks": [
+        {
+          "id": "148031",
+          "name": "Idalia National Park",
+          "url": "https://parks.qld.gov.au/parks/idalia"
+        },
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.qld.gov.au/parks/welford"
+        },
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Planned Maintenance - Lake Allom Facilities",
+      "alert_id": "26903",
+      "url": "https://parks.qld.gov.au/park-alerts/26904",
+      "description": "Maintenance is planned for Lake Allom facilities in Kgari. Works are planned to run from 24 August with completion by 18 September 2026, pending favourable weather conditions.",
+      "details": "<p>Maintenance is planned for Lake Allom facilities in Kgari. Works are planned to run from 24 August with completion by 18 September 2026, pending favourable weather conditions.</p> <p>The following facilities are temporarily closed until further notice:</p> <ul> <li>Toilet blocks</li> <li>Water taps</li> </ul> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance works as large machinery may be operating in the area.</p> <p>Thank you for your patience during these maintenance works.</p> <p>Check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> regularly for updates on current park conditions.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-24",
+      "start_effective_date": "2026-08-24",
+      "end_date": "2026-09-18",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "152843",
+          "name": "K'gari Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     }
