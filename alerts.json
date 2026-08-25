@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2026-08-24 10:25:11"
+    "alerts_count": 163,
+    "script_run_time": "2026-08-25 10:18:55"
   },
   "alerts": [
     {
@@ -1951,25 +1951,20 @@
       ]
     },
     {
-      "title": "Upcoming temporary closures for car park upgrade: Josephine Falls and Eastern approach Bartle Frere trail, Wooroonooran National Park",
+      "title": "Upcoming temporary closures for viewing platforms and swimming area: Josephine Falls, Wooroonooran National Park",
       "alert_id": "26642",
       "url": "https://parks.qld.gov.au/park-alerts/26642",
-      "description": "Visitors are advised that from Monday 7 September 2026 to Sunday 28 February 2027 (weather permitting), Josephine Falls, Wooroonooran National Park, will undergo redevelopment to improve visitor facilities. These works will include upgraded parking, improved viewing platforms, enhanced accessibility features to better support visitors with disabilities and new interpretive signs highlighting the areas rich cultural and natural heritage.",
-      "details": "<p>Visitors are advised that from Monday 7 September 2026 to Sunday 28 February 2027 (weather permitting), Josephine Falls, Wooroonooran National Park, will undergo redevelopment to improve visitor facilities. These works will include upgraded parking, improved viewing platforms, enhanced accessibility features to better support visitors with disabilities and new interpretive signs highlighting the areas rich cultural and natural heritage.</p> <p>At certain times during this period, the following visitor facilities may be impacted by partial closures:</p> <ul> <li>Josephine Falls car park</li> <li>Josephine Falls toilets and day-use area</li> <li>Josephine Falls walking track and swimming areas, including: <ul> <li>Access to bottom pool swimming area.</li> <li>Middle creek viewing platform.</li> <li>Top viewing platform.</li> </ul> </li> </ul> <p>See <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0019/167311/josephine-falls-map.pdf\">Josephine Falls map</a> for further information on visitor facilities.</p> <p>During this period, the <strong>Eastern approach, Bartle Frere trail</strong> <strong>will be temporarily closed</strong> due to management operations and access restrictions during these works. This temporary closure will include:</p> <ul> <li>Big Rock camping area</li> <li>Eastern Summit camping area</li> <li>Eastern approach, Bartle Frere trail &ndash; from Josephine Falls to Bartle Frere summit, including Broken nose section.</li> </ul> <p><strong>Please monitor park alerts</strong> for the most up-to-date information on access and temporary closures.</p> <p>Thank you for your understanding as we work to make Josephine Falls, Wooroonooran National Park, more inclusive and enjoyable for everyone.</p>",
+      "description": "Visitors are advised that from Monday 2 November 2026 to Monday 1 February 2027 (weather permitting), the viewing platforms and amenities at Josephine Falls, Wooroonooran National Park, will undergo critical maintenance works.",
+      "details": "<p>Visitors are advised that from Monday 2 November 2026 to Monday 1 February 2027 (weather permitting), the viewing platforms and amenities at Josephine Falls, Wooroonooran National Park, will undergo critical maintenance works.</p> <p>At certain times during this period, the following visitor facilities may be impacted by partial closures:</p> <ul> <li>Josephine Falls toilets.</li> <li>Josephine Falls walking track and swimming areas, including: <ul> <li>Access to bottom pool swimming area.</li> <li>Middle creek viewing platform.</li> <li>Top viewing platform.</li> </ul> </li> </ul> <p>While these critical maintenance works are being completed, we will ensure ongoing access to at least one of the viewing platforms with an anticipated 2-week temporary full closure to the swimming area (weather permitting). &nbsp;Temporary, portable toilet facilities will be provided for the duration of works.</p> <p>See <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0019/167311/josephine-falls-map.pdf\">Josephine Falls map</a> for further information on visitor facilities.</p> <p><strong>Please monitor park alerts</strong> for the most up-to-date information on access and temporary closures.</p>",
       "category": "Announcement",
-      "start_date": "2026-07-14",
-      "start_effective_date": "2026-09-07",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-11-02",
       "end_date": "2027-02-28",
       "parks": [
         {
           "id": "154596",
           "name": "Josephine Falls, Wooroonooran National Park",
           "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
-        },
-        {
-          "id": "148428",
-          "name": "Bartle Frere trail, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/bartle-frere"
         },
         {
           "id": "148468",
@@ -2933,20 +2928,20 @@
       ]
     },
     {
-      "title": "Planned Burn for McEuen State Forest",
-      "alert_id": "26891",
-      "url": "https://parks.qld.gov.au/park-alerts/26891",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from the 21st to the 24th of August , as part of the fire management program for McEuen State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from the 21st to the 24th of August , as part of the fire management program for McEuen State Forest.</p> <p>During the planned burn, the Eastern Section of McEuen State Forest (East of Old Wondai Road) will be closed to public access. The area to the West of Old Wondai Road will remain open.</p> <p>Smoke may be seen in the vicinity of Wondai township. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-19",
-      "start_effective_date": "2026-08-21",
-      "end_date": "2026-08-24",
+      "title": "Pest Management Program",
+      "alert_id": "26892",
+      "url": "https://parks.qld.gov.au/park-alerts/26892",
+      "description": "An animal control program involving ground shooting will be conducted at Konomie (North Keppel Island) within Keppel Bay Islands National Park from the Friday the 11th of September until Saturday the 12th of September.",
+      "details": "<p>An animal control program involving ground shooting will be conducted at Konomie (North Keppel Island) within Keppel Bay Islands National Park from the Friday the 11th of September until Saturday the 12th of September.</p> <p>The Island will be closed for the duration of the operation and a maritime exclusion zone around Kanomie (North Keppel Island) will extend 500m seaward of the highwater mark around the perimeter of the Island. Access to Kanomie (North Keppel Island) will be closed for the entirety of the operation. All Vessels and visitors must remain well clear of the area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-09-11",
+      "end_date": "2026-09-12",
       "parks": [
         {
-          "id": "322375",
-          "name": "McEuen State Forest",
-          "url": ""
+          "id": "149417",
+          "name": "Keppel Bay Islands National Park and Keppel Bay Islands National Park (Scientific)",
+          "url": "https://parks.qld.gov.au/parks/keppel-bay-islands"
         }
       ]
     },
@@ -3146,34 +3141,6 @@
       ]
     },
     {
-      "title": "Forecast wet weather for Lochern, Welford and Idalia National Parks",
-      "alert_id": "26903",
-      "url": "https://parks.qld.gov.au/park-alerts/26903",
-      "description": "he Bureau of Meteorology is predicting wet weather to affect Lochern, Welford and Idalia National Parks over the next couple of days. Road conditions do not allow for wet weather driving so these national parks will be closed until conditions can be reviewed.",
-      "details": "<p>he Bureau of Meteorology is predicting wet weather to affect Lochern, Welford and Idalia National Parks over the next couple of days. Road conditions do not allow for wet weather driving so these national parks will be closed until conditions can be reviewed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-08-24",
-      "start_effective_date": "2026-08-24",
-      "end_date": "2026-08-26",
-      "parks": [
-        {
-          "id": "148031",
-          "name": "Idalia National Park",
-          "url": "https://parks.qld.gov.au/parks/idalia"
-        },
-        {
-          "id": "148075",
-          "name": "Welford National Park",
-          "url": "https://parks.qld.gov.au/parks/welford"
-        },
-        {
-          "id": "148251",
-          "name": "Lochern National Park",
-          "url": "https://parks.qld.gov.au/parks/lochern"
-        }
-      ]
-    },
-    {
       "title": "Planned Maintenance - Lake Allom Facilities",
       "alert_id": "26903",
       "url": "https://parks.qld.gov.au/park-alerts/26904",
@@ -3193,6 +3160,216 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Lochern, Welford and Idalia National Parks",
+      "alert_id": "26903",
+      "url": "https://parks.qld.gov.au/park-alerts/26903",
+      "description": "Lochern, Welford and Idalia National Parks are temporarily closed due to wet conditions until Friday 28 August 2026 when conditions will be reviewed.",
+      "details": "<p>Lochern, Welford and Idalia National Parks are temporarily closed due to wet conditions until Friday 28 August 2026 when conditions will be reviewed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-24",
+      "end_date": "2026-08-28",
+      "parks": [
+        {
+          "id": "148031",
+          "name": "Idalia National Park",
+          "url": "https://parks.qld.gov.au/parks/idalia"
+        },
+        {
+          "id": "148075",
+          "name": "Welford National Park",
+          "url": "https://parks.qld.gov.au/parks/welford"
+        },
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Temporary road and track closures due to planned burn: Ravenshoe State Forest 3 and Millstream Falls National Park",
+      "alert_id": "26904",
+      "url": "https://parks.qld.gov.au/park-alerts/26905",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on Wednesday 26 August 2026, as part of the fire management program for Ravenshoe State Forest 3 and Millstream Falls National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on Wednesday 26 August 2026, as part of the fire management program for Ravenshoe State Forest 3 and Millstream Falls National Park.</p> <p>Road and track closures will be in place along Flour Dust track- from Cemetery Road to May&rsquo;s break.</p> <p>For your safety and the safety of authorities, please slow down and observe all directions and signs and directions from rangers, and do not enter closed areas.</p> <p>Smoke may be seen in the vicinity of Ravenshoe and Tumoulin. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">Fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-26",
+      "end_date": "2026-08-26",
+      "parks": [
+        {
+          "id": "149457",
+          "name": "Millstream Falls National Park",
+          "url": "https://parks.qld.gov.au/parks/millstream-falls"
+        },
+        {
+          "id": "322337",
+          "name": "Ravenshoe State Forest 3",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Jourama Falls section, Paluma Range National Park",
+      "alert_id": "26906",
+      "url": "https://parks.qld.gov.au/park-alerts/26907",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Wednesday 26 2026 to Wednesday 9 September 2026, as part of the fire management program for Paluma Range National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from Wednesday 26 2026 to Wednesday 9 September 2026, as part of the fire management program for Paluma Range National Park.</p> <p>As result, firefighters, aircraft and machinery may be seen throughout the park, including around the Jourama Falls section.</p> <p><em>Some burns will target ridges and hilltops with smoke visible on the upper ranges, including areas above Jourama Falls.</em><em> </em></p> <p>Smoke may impact the camping and day-use areas. Persons with respiratory and other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>The following areas will remain open during this period:</p> <ul> <li>Jourama Falls walking track and lookout</li> <li>Jourama Falls camping area</li> <li>Jourama Falls day-use area.</li> </ul> <p>For your safety and the safety of firefighters, please observe all directions, barriers and signage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-26",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "148452",
+          "name": "Paluma Range National Park",
+          "url": "https://parks.qld.gov.au/parks/paluma-range"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn: Davies Creek Mountain Bike Park",
+      "alert_id": "26907",
+      "url": "https://parks.qld.gov.au/park-alerts/26908",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Davies Creek Mountain Bike Park between Tuesday 25 August to Thursday 27 August 2026 (dates inclusive), as part of fire management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Davies Creek Mountain Bike Park between Tuesday 25 August to Thursday 27 August 2026 (dates inclusive), as part of fire management program for the park.</p> <p>During this period <strong>Davies Creek Mountain Bike Park, including all tracks, will be temporarily closed</strong>.</p> <p>Firefighters and machinery may be working near the closed area, including along roadsides. For your safety and the safety of&nbsp;authorities, please slow down and observe all directions and signs.&nbsp;&nbsp;</p> <p>Visitors are advised that smoke may be seen in the surrounding area and persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-25",
+      "end_date": "2026-08-27",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming temporary park closure for aerial pest management activities: Halifax Bay Wetlands National Park",
+      "alert_id": "26908",
+      "url": "https://parks.qld.gov.au/park-alerts/26909",
+      "description": "Halifax Bay Wetlands National Park will be closed on Thursday 17 September and Friday 18 September 2026 (weather permitting) for aerial pest management activities.",
+      "details": "<p>Halifax Bay Wetlands National Park will be closed on Thursday 17 September and Friday 18 September 2026 (weather permitting) for aerial pest management activities.</p> <p>Hinchinbrook Shire Council is leading these activities and targeting feral pigs within the national park and surrounding areas. For further information please visit the Hinchinbrook Shire Council&nbsp;<a href=\"https://www.hinchinbrook.qld.gov.au/\">website</a>.</p> <p>These operations help to conserve the natural and cultural values of the park.</p> <p>Please observe all signage, barriers and directions from council and do not enter closed areas.</p> <p>Please monitor&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a>&nbsp;on the department&#39;s website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-09-17",
+      "end_date": "2026-09-18",
+      "parks": [
+        {
+          "id": "148512",
+          "name": "Halifax Bay Wetlands National Park",
+          "url": "https://parks.qld.gov.au/parks/halifax-bay"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Dinden West Forest Reserve, Bare Hill Conservation Park, Kuranda National Park and Formartine State Forest",
+      "alert_id": "26909",
+      "url": "https://parks.qld.gov.au/park-alerts/26910",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) from Tuesday 25 August to Saturday 29 August 2026 (dates inclusive), as part of the fire management program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) from Tuesday 25 August to Saturday 29 August 2026 (dates inclusive), as part of the fire management program for parks and forests.</p> <p>Planned burn operations will be conducted throughout the following areas:</p> <ul> <li>Emerald Creek Falls area, Dinden West Forest Reserve</li> <li>Bare Hill Conservation Park</li> <li>North of Quaids Rd to Little Mitchell River, Kuranda National Park</li> <li>Formartine State Forest</li> </ul> <p>Smoke will be visible in these areas, including Lower and Upper Davies Creek.</p> <p><strong>All walking tracks and roads within these areas will remain open.</strong>&nbsp;</p> <ul> <li>Visitors are advised to stay on formed tracks, trails and roads during this planned burn period.</li> </ul> <p>Please observe all signage and directions from rangers.&nbsp;</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities.</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-25",
+      "end_date": "2026-08-29",
+      "parks": [
+        {
+          "id": "322333",
+          "name": "Formartine State Forest",
+          "url": ""
+        },
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        },
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Upcoming temporary closure in 2027: Eastern approach, Bartle Frere Trail, including Big Rock and Eastern Summit camping areas, Wooroonooran National Park",
+      "alert_id": "26910",
+      "url": "https://parks.qld.gov.au/park-alerts/26911",
+      "description": "Visitors are advised that from 21 June 2027 to 3 December 2027 (weather permitting), the Eastern approach, Bartle Frere trail will be temporarily closed due to maintenance works and management operations.",
+      "details": "<p>Visitors are advised that from 21 June 2027 to 3 December 2027 (weather permitting), the Eastern approach, Bartle Frere trail will be temporarily closed due to maintenance works and management operations.</p> <p>This temporary closure will include:</p> <ul> <li>Big Rock camping area</li> <li>Eastern Summit camping area</li> <li>Eastern approach, Bartle Frere trail &ndash; from Josephine Falls to Bartle Frere summit, including Broken Nose section.</li> </ul> <p>See <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0022/162535/bartle-frere-trail-map.pdf\">Bartle Frere trail map, Wooroonooran National Park</a> for locations of these visitor facilities.</p> <p>Please monitor park alerts the most up-to-date information on access and temporary closures.</p>",
+      "category": "Announcement",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2027-06-21",
+      "end_date": "2027-08-25",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "148428",
+          "name": "Bartle Frere trail, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/bartle-frere"
+        }
+      ]
+    },
+    {
+      "title": "Park Closed due to wet conditions",
+      "alert_id": "26911",
+      "url": "https://parks.qld.gov.au/park-alerts/26912",
+      "description": "Due to recent rainfall Currawinya National Park tracks, campgrounds and facilities are closed.",
+      "details": "<p>Due to recent rainfall Currawinya National Park tracks, campgrounds and facilities are closed.</p> <p>Rangers will reassess road and campground conditions on Monday 31st August.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-25",
+      "end_date": "2026-08-31",
+      "parks": [
+        {
+          "id": "148323",
+          "name": "Currawinya National Park",
+          "url": "https://parks.qld.gov.au/parks/currawinya"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn operations: north-east section, Dinden National Park",
+      "alert_id": "26912",
+      "url": "https://parks.qld.gov.au/park-alerts/26913",
+      "description": "Queensland Parks and Wildlife (QPWS) will be conducting planned burn operations (weather permitting) between Wednesday 26 August and Friday 28 August 2026, as part of the fire management program for Dinden National Park.",
+      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting planned burn operations (weather permitting) between Wednesday 26 August and Friday 28 August 2026, as part of the fire management program for Dinden National Park.</p> <p>Sections of the Dinden National Park in the vicinty of Ganyan Creek and Speewah Road will be <strong>closed</strong> to public during this period, including the unofficial track locally known as &#39;Ganyan track&#39;.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas</p> <p>Visitors are advised that smoke and aircraft may be seen in the vicinity of Clohesy River and Ganyan Creek.&nbsp;&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management</a>&nbsp;webpage.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-26",
+      "end_date": "2026-08-28",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Glass House Mountains National Park (Mt Ngungun Section)",
+      "alert_id": "26913",
+      "url": "https://parks.qld.gov.au/park-alerts/26914",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Mt Ngungun from 5:00pm 26th August to 8:00am 27th August as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Mt Ngungun from 5:00pm 26th August to 8:00am 27th August as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with the Nature Conservation Act to help protect native plants and wildlife from the harmful effects of introduced plants and animals.</p> <p>As a result, Mt Ngungun will be temporarily closed for the duration of the pest management program.</p> <p>All permits for closed areas are suspended for the duraton of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed area.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-08-25",
+      "start_effective_date": "2026-08-26",
+      "end_date": "2026-08-27",
+      "parks": [
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
         }
       ]
     }
