@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 148,
-    "script_run_time": "2026-09-02 13:55:17"
+    "alerts_count": 149,
+    "script_run_time": "2026-09-03 13:57:36"
   },
   "alerts": [
     {
@@ -2964,29 +2964,6 @@
       ]
     },
     {
-      "title": "Temporary closure: no swimming at Josephine Falls, Wooroonooran National Park",
-      "alert_id": "26939",
-      "url": "https://parks.qld.gov.au/park-alerts/26940",
-      "description": "Visitors are advised that Josephine Creek within Josephine Falls section, Wooroonooran National Park is closed until further notice.",
-      "details": "<p>Visitors are advised that Josephine Creek within Josephine Falls section, Wooroonooran National Park is closed until further notice.</p> <p>For your safety, do not enter the water. The creek is closed.</p> <ul> <li>Heavy rain has resulted in fast flowing, high water levels in Josephine Creek.</li> <li>Further rain is expected.</li> <li>Water levels can change rapidly in Josephine Creek.</li> </ul> <p>The walking track and viewing platforms remain open and can still be accessed.</p>",
-      "category": "Announcement",
-      "start_date": "2026-09-01",
-      "start_effective_date": "2026-09-01",
-      "end_date": "2026-09-02",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        },
-        {
-          "id": "154596",
-          "name": "Josephine Falls, Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran-josephine-falls"
-        }
-      ]
-    },
-    {
       "title": "Planned burn for Tewantin National Park",
       "alert_id": "26940",
       "url": "https://parks.qld.gov.au/park-alerts/26941",
@@ -3060,6 +3037,47 @@
           "id": "148231",
           "name": "Ngalba-bulal National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/ngalba-bulal"
+        }
+      ]
+    },
+    {
+      "title": "Planned Burns - North Molle Island, Molle Islands National Park",
+      "alert_id": "26946",
+      "url": "https://parks.qld.gov.au/park-alerts/26946",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on North Molle Island. This burn will be conducted from Friday 4th September 2026 to Friday 11th September 2026 as part of the fire management program for Molle Islands National Park. Smoke may be seen in the vicinity of Molle Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. During the planned burn these areas are closed to public access: Cockatoo Campground - Nth Molle Island. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please obey all fire restrictions. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) on North Molle Island. This burn will be conducted from Friday 4th September 2026 to Friday 11th September 2026 as part of the fire management program for Molle Islands National Park. Smoke may be seen in the vicinity of Molle Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. During the planned burn these areas are closed to public access: Cockatoo Campground - Nth Molle Island. Please monitor park alerts on the department's website for updated information. Please observe all signage, barriers and directions from rangers and do not enter closed areas. For your safety please obey all fire restrictions. Stay up-to-date with Current bushfire warnings and incidents from Queensland Fire Department (QFD).</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-03",
+      "start_effective_date": "2026-09-04",
+      "end_date": "2026-09-11",
+      "parks": [
+        {
+          "id": "148941",
+          "name": "Molle Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/molle-islands"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail camping area enhancement works",
+      "alert_id": "26948",
+      "url": "https://parks.qld.gov.au/park-alerts/26948",
+      "description": "Works will be occurring at Nina Bay camping area from 23 September-1 October, and there may also be some trail works occurring in the Nina Bay area during this time. Other minor works may occur at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.",
+      "details": "<p>Works will be occurring at Nina Bay camping area from 23 September-1 October, and there may also be some trail works occurring in the Nina Bay area during this time. Other minor works may occur at other locations on the Thorsborne Trail/Hinchinbrook Island during this time.</p> <p>The camping areas will remain open throughout for Thorsborne Trail hikers, however some of the individual camp nodes may be closed.</p> <p>Construction noise, including chainsaws and small machinery, may be expected during the day. Works will be carried out during the day to minimise disturbance to campers. <strong>Due to the confined space of Nina Bay camping area, the visitor experience will likely be impacted by the works &ndash; hikers may wish to camp elsewhere if they were planning on camping at Nina Bay. </strong>Rangers will be onsite to provide advice on the impacts that may be expected each day.</p> <p>QPWS apologises for the inconvenience and appreciates your patience in supporting this important upgrade. &nbsp;</p> <p>For more information about the Hinchinbrook trail experience project visit <a href=\"https://parks.desi.qld.gov.au/parks/hinchinbrook/about/thorsborne-trail-enhancement-project\">qld.gov.au/ThorsborneTrailProject</a></p> <p>For your safety, please observe all signs, barriers, and directions from Rangers and do not enter closed areas or facilities.</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-03",
+      "start_effective_date": "2026-09-23",
+      "end_date": "2026-10-01",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
         }
       ]
     }
