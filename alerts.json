@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 149,
-    "script_run_time": "2026-09-03 13:57:36"
+    "alerts_count": 158,
+    "script_run_time": "2026-09-04 13:49:58"
   },
   "alerts": [
     {
@@ -2400,24 +2400,6 @@
       ]
     },
     {
-      "title": "Planned Burn: Lindeman Island National Park",
-      "alert_id": "26884",
-      "url": "https://parks.qld.gov.au/park-alerts/26884",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Lindeman Island. Lindeman Island will be closed from Thursday 20th of August till the 3rd of September 2026.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn on Lindeman Island. Lindeman Island will be closed from Thursday 20th of August till the 3rd of September 2026.</p> <p>This Burn will be conducted (weather pending) Thursday 20th of August till Thursday the 3rd of September 2026 as a part of the fire management program for Queensland Parks and Wildlife. Fire will be ignited by ground ignition. Lindeman Island walking tracks will be closed for access during the planned burn period.</p> <p>Smoke may be seen in the vicinity of The Lindeman Island Group and the Whitsunday Islands National Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation. Monitor Park alerts on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-17",
-      "start_effective_date": "2026-08-20",
-      "end_date": "2026-09-03",
-      "parks": [
-        {
-          "id": "149521",
-          "name": "Lindeman Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/lindeman-islands"
-        }
-      ]
-    },
-    {
       "title": "Planned burn operations: Barron Gorge National Park",
       "alert_id": "26888",
       "url": "https://parks.qld.gov.au/park-alerts/26888",
@@ -2668,24 +2650,6 @@
           "id": "150199",
           "name": "Broad Sound Islands National Park",
           "url": "https://parks.qld.gov.au/parks/broad-sound-islands"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn for Barakula State Forest",
-      "alert_id": "26919",
-      "url": "https://parks.qld.gov.au/park-alerts/26920",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 27 August 2026 to 3 September 2026, as part of the fire management program for Barakula State Forest.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burns (weather permitting) from 27 August 2026 to 3 September 2026, as part of the fire management program for Barakula State Forest.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of:&nbsp;</p> <ul> <li>Waaje Tower Road</li> <li>Cowtail Road</li> <li>Hippong Road</li> </ul> <p>For your safety and the safety of firefighters, please slow down and&nbsp;observe&nbsp;all directions and signs.&nbsp;</p> <p>Smoke may be seen in the vicinity.&nbsp;&nbsp;</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-08-27",
-      "start_effective_date": "2026-08-27",
-      "end_date": "2026-09-03",
-      "parks": [
-        {
-          "id": "148143",
-          "name": "Barakula State Forest",
-          "url": "https://parks.qld.gov.au/parks/barakula"
         }
       ]
     },
@@ -3018,25 +2982,38 @@
       ]
     },
     {
-      "title": "Planned burn operations: Mount Windsor National Park and Mount Boolbun, Ngalba-bulal National Park (CYPAL)",
+      "title": "Planned burn operations: Mount Boolbun, Ngalba-bulal National Park (CYPAL)",
       "alert_id": "26944",
       "url": "https://parks.qld.gov.au/park-alerts/26944",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in Mount Windsor National Park and in the vicinity of Mount Boolbun, Ngalba-bulal National Park (CYPAL) on Thursday 3 September 2026. Aircraft will be operating in these areas during this period.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in Mount Windsor National Park and in the vicinity of Mount Boolbun, Ngalba-bulal National Park (CYPAL) on Thursday 3 September 2026. Aircraft will be operating in these areas during this period.</p> <p><strong>Mount Windsor National Park -</strong> no public access to this park.</p> <p><strong>Ngalba-bulal National Park (CYPAL) </strong>- currently closed to the public.</p> <p>Most fire activity is expected to self-extinguish by evening, however, some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the vicinity of Mount Boolbun, Ngalba-bulal National Park (CYPAL) on Thursday 3 September 2026. Aircraft will be operating in these areas during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the vicinity of Mount Boolbun, Ngalba-bulal National Park (CYPAL) on Thursday 3 September 2026. Aircraft will be operating in these areas during this period.</p> <p>Ngalba-bulal National Park (CYPAL) is&nbsp;currently already closed to the public due to the effects of ex-Tropical Cyclone Jasper.</p> <p>Most fire activity is expected to self-extinguish by evening, however, some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2026-09-02",
+      "start_date": "2026-09-04",
       "start_effective_date": "2026-09-03",
       "end_date": "2026-09-05",
       "parks": [
         {
-          "id": "322776",
-          "name": "Mount Windsor National Park",
-          "url": ""
-        },
-        {
           "id": "148231",
           "name": "Ngalba-bulal National Park (CYPAL)",
           "url": "https://parks.qld.gov.au/parks/ngalba-bulal"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations with temporary closure: Atherton Forest Mountain Bike Park, Herberton Range State Forest",
+      "alert_id": "26945",
+      "url": "https://parks.qld.gov.au/park-alerts/26945",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in Herberton Range State Forest between Wednesday 9 September to Friday 11 September 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in Herberton Range State Forest between Wednesday 9 September to Friday 11 September 2026 (dates inclusive).</p> <p>During this period, <strong>Atherton Forest Mountain Bike Park</strong>&nbsp;will be closed.</p> <p>In addition to abiding by the above closures, all park users are to remain on designated tracks and trails.&nbsp;</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.&nbsp;</p> <p>Please use caution whilst visiting the park. Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-09",
+      "end_date": "2026-09-11",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     },
@@ -3078,6 +3055,211 @@
           "id": "148420",
           "name": "Hinchinbrook Island National Park",
           "url": "https://parks.qld.gov.au/parks/hinchinbrook"
+        }
+      ]
+    },
+    {
+      "title": "Periodic Closures Westridge Outlook",
+      "alert_id": "26949",
+      "url": "https://parks.qld.gov.au/park-alerts/26949",
+      "description": "Periodic closures will occur at Westridge Outlook between Monday the 7th and Wednesday the 9th of September to allow contractors to prune trees with hazardous limbs over lookout structure.",
+      "details": "<p>Periodic closures will occur at Westridge Outlook between Monday the 7th and Wednesday the 9th of September to allow contractors to prune trees with hazardous limbs over lookout structure.</p> <p>Other nearby lookouts that remain open include:</p> <ul> <li>Jollys Lookout</li> <li>Western Window</li> <li>Wivenhoe Outlook</li> <li>Camp Mountain lookouts</li> </ul> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Main Range National Park",
+      "alert_id": "26950",
+      "url": "https://parks.qld.gov.au/park-alerts/26950",
+      "description": "Due to a current wildfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to a current wildfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas: &nbsp;</p> <ul> <li>Scenic Rim Trail</li> <li>Winder track</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas.</p> <p>To report any bushfires, call Triple Zero (000)&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-04",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        },
+        {
+          "id": "205144",
+          "name": "Scenic Rim Trail, Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/scenic-rim-trail"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn operations: Hallorans Hill Conservation Park",
+      "alert_id": "26952",
+      "url": "https://parks.qld.gov.au/park-alerts/26952",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within Hallorans Hill Conservation Park between Tuesday 8 September and Wednesday 9 September 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within Hallorans Hill Conservation Park between Tuesday 8 September and Wednesday 9 September 2026 (dates inclusive).</p> <p>During this period:</p> <ul> <li>Hallorans Hill Conservation Park (including walking track) -<strong>&nbsp;closed.</strong></li> <li>Tablelands Regional Council facililties - Hallorans Hill Lookout Park and Rotoract Park - <strong>open.</strong></li> </ul> <p>Firefighters and smoke may be seen in the vicinity of Hallorans Hill and there is potential for smoke to be visible in parts of Atherton.</p> <p>People with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a> webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-08",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "149025",
+          "name": "Hallorans Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/hallorans-hill"
+        }
+      ]
+    },
+    {
+      "title": "Temporary access restrictions due to an event: Smithfield Mountain Bike Park, Smithfield Conservation Park",
+      "alert_id": "26953",
+      "url": "https://parks.qld.gov.au/park-alerts/26953",
+      "description": "FNQ Interschool MTB Series will be holding an enduro event at Smithfield Mountain Bike Park in Smithfield Conservation Park, on Sunday 6 September 2026.",
+      "details": "<p>FNQ Interschool MTB Series will be holding an enduro event at Smithfield Mountain Bike Park in Smithfield Conservation Park, on Sunday 6 September 2026.</p> <p><strong>Impacted tracks include:</strong></p> <ul> <li>Whiskers</li> <li>Centipede</li> <li>Lower Pipeline</li> <li>Black Snake</li> <li>Nationals</li> </ul> <p>While these tracks will remain open during the event, visitors are advised that there may be delays affecting access. Please avoid these tracks during the event if possible. Racing is anticipated to finish at 1.30pm.</p> <p>There will be increased vehicle traffic throughout the day. Please be aware of cars on&nbsp;emergency access&nbsp;roads including Moore Road and Panguna Ridge/ highway tank access road.</p> <p>Please obey signage and follow the instructions of marshalls and event organisers.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-06",
+      "end_date": "2026-09-06",
+      "parks": [
+        {
+          "id": "148424",
+          "name": "Smithfield Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/smithfield"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Barron Gorge National Park",
+      "alert_id": "26954",
+      "url": "https://parks.qld.gov.au/park-alerts/26954",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within Barron Gorge National Park on Monday 7 September 2026.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within Barron Gorge National Park on Monday 7 September 2026.</p> <p>Walking tracks will remain open during the burn operations however visitors are advised that smoke may be present along sections of the <strong>McDonald and Douglas walking tracks</strong> in the vicinty of Glacier Rock.</p> <p>Visitors with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "parks": [
+        {
+          "id": "148548",
+          "name": "Barron Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Mount Windsor National Park",
+      "alert_id": "26955",
+      "url": "https://parks.qld.gov.au/park-alerts/26955",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) between Friday 4 September and Thursday 10 September 2026 (dates inclusive) within Mount Windsor National Park. Aircraft will be operating in these areas during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) between Friday 4 September and Thursday 10 September 2026 (dates inclusive) within Mount Windsor National Park. Aircraft will be operating in these areas during this period.</p> <p>There is no public access to Mount Windsor National Park.</p> <p>Most fire activity is expected to self-extinguish by evening, however, some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-04",
+      "end_date": "2026-09-10",
+      "parks": [
+        {
+          "id": "322776",
+          "name": "Mount Windsor National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure of sections of Plunkett Conservation Park",
+      "alert_id": "26956",
+      "url": "https://parks.qld.gov.au/park-alerts/26956",
+      "description": "Park users are advised of vegetation works requiring closure of the below listed firelines between the dates of 8/9/26 &amp; 11/9/26.",
+      "details": "<p>Park users are advised of vegetation works requiring closure of the below listed firelines between the dates of 8/9/26 &amp; 11/9/26.</p> <p>Planned Fireline vegetation maintenance relating to the Urban Interface Project Stage 2 will be commencing from 8/9/26 - 11/9/26.</p> <p>Firelines that will be closed within this time period are:</p> <p>- Diamentina Break</p> <p>- Guiddos Break</p> <p>- Western Break</p> <p>- Maranda Break</p> <p>- Circuit Break</p> <p>- Pine Break</p> <p>- Rut Break / Acacia break</p> <p>- Spa Break</p> <p>- Curtis Break</p> <p>- Boggy Break</p> <p>Heavy machinery will be in operation. Please observe and adhere to all signage and directions from Contractors and Rangers during this time.</p> <p>Please be advised that dates may change due to inclement weather conditions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please be alert for nearby wildlife.</p> <p>For your safety please avoid interaction with the wildlife.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-08",
+      "end_date": "2026-09-11",
+      "parks": [
+        {
+          "id": "149381",
+          "name": "Plunkett Conservation Park and Wickham National Park",
+          "url": "https://parks.qld.gov.au/parks/plunkett-wickham"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closures due to planned burn operations: Ravenshoe State Forest 3 and Tumoulin National Park",
+      "alert_id": "26957",
+      "url": "https://parks.qld.gov.au/park-alerts/26957",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on within Ravenshoe State Forest 3 and Tumoulin National Park on Monday 7 September 2026. Aircraft will be operating in these areas during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) on within Ravenshoe State Forest 3 and Tumoulin National Park on Monday 7 September 2026. Aircraft will be operating in these areas during this period.</p> <p>Some fire may remain active and smoke may be visible for 1 to 2 days following ignition. QPWS rangers will monitor fire activity until it is out.</p> <p>During this period the following areas will be closed:</p> <ul> <li><strong>Ravenshoe State Forest 3</strong> -&nbsp;section&nbsp;of unmanaged Flour Dust track from Cemetery Road to May&#39;s Break</li> <li><strong>Tumoulin National Park</strong> - Robinson Creek Road, Allen Road, Kidner Break</li> </ul> <p>Aircraft will be operating in these areas during this period.</p> <p>Smoke may be visible in the vicinity of Ravenshoe and Tumoulin townships.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-07",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "322278",
+          "name": "Tumoulin National Park",
+          "url": ""
+        },
+        {
+          "id": "322337",
+          "name": "Ravenshoe State Forest 3",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary closures due to planned burn operations: Tully Falls National Park",
+      "alert_id": "26958",
+      "url": "https://parks.qld.gov.au/park-alerts/26958",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Tully Falls National Park on Monday 7 September 2026. Aircraft will be operating in these areas during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Tully Falls National Park on Monday 7 September 2026. Aircraft will be operating in these areas during this period.</p> <p>Some fire may remain active and smoke may be visible for 1 to 2 days following ignition. QPWS rangers will monitor fire activity until it is out.</p> <p>During this period the following areas will be <strong>closed</strong>:</p> <ul> <li>Mount Ronald Road</li> <li>Mount Pandanus Road</li> </ul> <p>Aircraft will be operating in these areas during this period.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-07",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.qld.gov.au/parks/tully-falls"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closures due to planned burns operations: Mount Fletcher, Wooroonooran National Park and sections of Gadgarra National Park",
+      "alert_id": "26959",
+      "url": "https://parks.qld.gov.au/park-alerts/26959",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within sections of Wooroonooran National Park and Gadgarra Natonal Park on Monday 7 September 2026. Aircraft will be operating in these areas during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within sections of Wooroonooran National Park and Gadgarra Natonal Park on Monday 7 September 2026. Aircraft will be operating in these areas during this period.</p> <p>Some fire may remain active and smoke may be visible for 1 to 2 days following ignition. QPWS rangers will monitor fire activity until it is out.</p> <p>During this period the following areas will be <strong>closed</strong>:</p> <ul> <li><strong>Wooroonooran National Park</strong> - Mount Fletcher</li> <li><strong>Gadgarra National&nbsp;Park</strong> - sections including unmanaged&nbsp;tracks such as Mailman&#39;s Track</li> </ul> <p>Aircraft will be operating in these areas during this period. Smoke may be visible from sections of the Windin Falls track however the track will remain open.</p> <p>Smoke and active fire may be visible from Goldsborough Valley camping area.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting the ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-04",
+      "start_effective_date": "2026-09-07",
+      "end_date": "2026-09-09",
+      "parks": [
+        {
+          "id": "322678",
+          "name": "Gadgarra National Park",
+          "url": ""
+        },
+        {
+          "id": "151367",
+          "name": "Goldfield trail, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldfield"
+        },
+        {
+          "id": "156496",
+          "name": "Goldsborough Valley, Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran-goldsborough-valley"
+        },
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
         }
       ]
     }
