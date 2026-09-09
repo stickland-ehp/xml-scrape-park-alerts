@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 150,
-    "script_run_time": "2026-09-08 13:56:59"
+    "alerts_count": 153,
+    "script_run_time": "2026-09-09 13:59:29"
   },
   "alerts": [
     {
@@ -1854,6 +1854,24 @@
       ]
     },
     {
+      "title": "Curtis Island , Ship Hill track, Lookout and Day Use Area, Multi Use Trails 5, 6, 7, 8, and 9 Closed",
+      "alert_id": "26712",
+      "url": "https://parks.qld.gov.au/park-alerts/26712",
+      "description": "Tracks within the affected area are temporarily closed due to hazardous trees and fallen vegetation resulting from recent weather conditions.",
+      "details": "<p>Tracks within the affected area are temporarily closed due to hazardous trees and fallen vegetation resulting from recent weather conditions.</p> <p>Previous prescribed burns, combined with recent high wind events, have resulted in unstable trees and hanging branches within the area. Trees and limbs may fall without warning, creating a serious risk to visitor safety.</p> <p>For your safety, please do not enter the closed areas or attempt to bypass closure signs until the tracks have been assessed and cleared. Rangers are currently working to remove hazards, clear fallen trees, and make the area safe for public access. We appreciate your cooperation and patience while these important safety works are undertaken.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out<br /> more visit the Fire management webpage.</p> <p><br /> You can stay updated with local QPWS fire activities by visiting Park Alerts or by following<br /> Qld Park Alerts on X (formerly known as Twitter).<br /> &nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-10",
+      "end_date": "2026-10-31",
+      "parks": [
+        {
+          "id": "148884",
+          "name": "Curtis Island National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/curtis-island"
+        }
+      ]
+    },
+    {
       "title": "Temporary access road closure: Bartle Frere trail western trailhead, Wooroonooran National Park",
       "alert_id": "26713",
       "url": "https://parks.qld.gov.au/park-alerts/26713",
@@ -2177,24 +2195,6 @@
       ]
     },
     {
-      "title": "Planned burns Lamington National Park",
-      "alert_id": "26833",
-      "url": "https://parks.qld.gov.au/park-alerts/26833",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned hazard reduction burns, weather permitting, from Thursday, 3 September 2026, as part of the fire management program for Lamington National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned hazard reduction burns, weather permitting, from Thursday, 3 September 2026, as part of the fire management program for Lamington National Park.</p> <p>QPWS Rangers, fire vehicles and machinery may be working along access tracks in the vicinity of Green Mountains (O&rsquo;Reilly&rsquo;s), Kerry Valley and Christmas Creek. For your safety and the safety of authorities, please observe all directions and signs.</p> <p>During the planned burns these areas at Green Mountains section of Lamington NP are <strong>closed to public access from Thursday, 3 September:</strong></p> <ul> <li>Python Rock track and lookout, including Pats Bluff;</li> <li>Lower portion of Morans Falls track from Morans Falls lookout to Morans Clearing &amp; lookout.&nbsp; Note:&nbsp; Public access to Morans Falls lookout from the trailhead&nbsp;remains open.</li> <li>Balancing Rock; and</li> <li>Christmas Creek cliffs in southern Lamington.</li> </ul> <p>Additional closures are anticipated <strong>from Wednesday, 9 September</strong> for the following areas once planned burn operations commence at Binna Burra section of Lamington NP :</p> <ul> <li>Daves Creek circuit, including Ballunjui Falls</li> <li>Illinbah circuit; and</li> <li>Gwongarool track</li> </ul> <p>Smoke may be seen in the vicinity of Green Mountains (O&#39;Reilly), Darlington and Kerry Valley. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire Management</a> webpage.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please obey all fire restrictions.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-09-02",
-      "start_effective_date": "2026-08-03",
-      "end_date": "2026-09-21",
-      "parks": [
-        {
-          "id": "148271",
-          "name": "Lamington National Park",
-          "url": "https://parks.qld.gov.au/parks/lamington"
-        }
-      ]
-    },
-    {
       "title": "Happy Valley Beach Access Ramp and Boardwalk Reconstruction",
       "alert_id": "26835",
       "url": "https://parks.qld.gov.au/park-alerts/26835",
@@ -2427,24 +2427,6 @@
           "id": "149493",
           "name": "Beerburrum and Beerwah State Forests",
           "url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
-        }
-      ]
-    },
-    {
-      "title": "Temporary track closure due to planned burn operations: Blue Gum circuit track (off H track), Paluma Range National Park",
-      "alert_id": "26899",
-      "url": "https://parks.qld.gov.au/park-alerts/26899",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Paluma Range National Park between Monday 24 August and Tuesday 8 September 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Paluma Range National Park between Monday 24 August and Tuesday 8 September 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>For your safety, the Blue Gum circuit track (off H track) is closed during this period.</strong></p> <p>Smoke, firefighters, aircraft and machinery may be seen in the vicinity of:</p> <ul> <li>Paluma-Ewan Road from Paluma township to Taravale Road</li> <li>Taravale Road</li> <li>H track</li> <li>Blue Gum circuit track</li> <li>Upper reaches of Star River and Smith Creek</li> </ul> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management </a>webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-08-20",
-      "start_effective_date": "2026-08-24",
-      "end_date": "2026-09-08",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -2995,24 +2977,6 @@
       ]
     },
     {
-      "title": "Planned burn operations: Little Mulgrave National Park",
-      "alert_id": "26962",
-      "url": "https://parks.qld.gov.au/park-alerts/26962",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within the eastern section of Little Mulgrave National Park on Tuesday 8 September 2026.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within the eastern section of Little Mulgrave National Park on Tuesday 8 September 2026.</p> <p>During this period smoke may be&nbsp;present on the Gillies Range near Little Mulgrave Road.&nbsp; Slow down and drive to the conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-09-07",
-      "start_effective_date": "2026-09-08",
-      "end_date": "2026-09-08",
-      "parks": [
-        {
-          "id": "322677",
-          "name": "Little Mulgrave National Park",
-          "url": ""
-        }
-      ]
-    },
-    {
       "title": "Bushfire alert for Barakula State Forest",
       "alert_id": "26963",
       "url": "https://parks.qld.gov.au/park-alerts/26963",
@@ -3070,17 +3034,127 @@
       "title": "Commencement of Construction Work - Kingfisher Carpark to Impulse Creek",
       "alert_id": "26966",
       "url": "https://parks.qld.gov.au/park-alerts/26966",
-      "description": "Visitors can expect restrictions to access on 10 September 2026 whilst machinery and materials are mobilised to site.",
-      "details": "<p>Visitors can expect restrictions to access on 10 September 2026 whilst machinery and materials are mobilised to site.</p> <p>Works are planned from 22 September 2026 to 2 October 2026 weather permitting with a detour around Impulse Crossing.&nbsp; The works are located approximately 4.8 km along the track.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "description": "Visitors can expect restrictions to access on 9 to 10 September 2026 whilst machinery and materials are mobilised to site.",
+      "details": "<p>Visitors can expect restrictions to access on 9 to 10 September 2026 whilst machinery and materials are mobilised to site.</p> <p>Works are planned from 22 September 2026 to 2 October 2026 weather permitting with a detour around Impulse Crossing.&nbsp; The works are located approximately 4.8 km along the track.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Other",
-      "start_date": "2026-09-08",
-      "start_effective_date": "2026-09-10",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-09",
       "end_date": "2026-09-10",
       "parks": [
         {
           "id": "147975",
           "name": "Conway National Park and Conway Conservation Park",
           "url": "https://parks.qld.gov.au/parks/conway"
+        }
+      ]
+    },
+    {
+      "title": "Livestock mustering operations: Wet Tropics Great Walk, between Henrietta gate pick-up point and Henritta Creek, Girringun National Park",
+      "alert_id": "26967",
+      "url": "https://parks.qld.gov.au/park-alerts/26967",
+      "description": "Livestock mustering (cattle) operations will be occurring in the vicinity of the Wet Tropics Great Walk, between Henrietta gate pick-up point and Henrietta Creek, Girringun National Park from Saturday 12 September to Thursday 12 November 2026.",
+      "details": "<p>Livestock mustering (cattle) operations will be occurring in the vicinity of the Wet Tropics Great Walk, between Henrietta gate pick-up point and Henrietta Creek, Girringun National Park from Saturday 12 September to Thursday 12 November 2026.</p> <p>Mustering is occurring to remove stray cattle from the national park. These operations help us to conserve the natural and cultural values of the park. Authorised helicopters, mustering dogs, side by sides and motorbikes may be seen in the area during this time.&nbsp;</p> <p>These operations are not anticipated to interfere with visitors undertaking this section of the Wet Tropics Great Walk, however if you require further information, please contact the Queensland Parks and Wildlife Service Ingham office on 07 4777 2822.</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-12",
+      "end_date": "2026-11-12",
+      "parks": [
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Lockyer National Park and Lockyer State Forest",
+      "alert_id": "26968",
+      "url": "https://parks.qld.gov.au/park-alerts/26968",
+      "description": "Due to the current bushfire Lockyer National Park and Lockyer State Forest are closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to the current bushfire Lockyer National Park and Lockyer State Forest are closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-09",
+      "end_date": "2026-09-16",
+      "parks": [
+        {
+          "id": "322315",
+          "name": "Lockyer State Forest",
+          "url": ""
+        },
+        {
+          "id": "148287",
+          "name": "Lockyer National Park",
+          "url": "https://parks.qld.gov.au/parks/lockyer"
+        }
+      ]
+    },
+    {
+      "title": "Planned works for Mon Repos Turtle Centre",
+      "alert_id": "26969",
+      "url": "https://parks.qld.gov.au/park-alerts/26969",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Mon Repos Turtle Centre from 9 September to 30 November 2026. The Centre will continue to be open for normal operations during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned maintenance program at the Mon Repos Turtle Centre from 9 September to 30 November 2026. The Centre will continue to be open for normal operations during this period.</p> <p>The Mon Repos Turtle Centre (MRTC) will be fully scaffolded and fenced, for the duration of the roof upgrade program. The MRTC will have changed conditions, including:</p> <ul> <li>MRTC outdoor seating area on eastern side of the building will be closed. Picnic tables near the southern boardwalk will be available for use.</li> <li>Entry and exit points to the MRTC may on occassion be altered, with all changes signed to ensure visitors have up to date information.</li> <li>Contractors advise that noise disturbance should be minimal during the duration of works.</li> </ul> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-10",
+      "end_date": "2026-11-30",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Police Incident - Temporary Closure of Cedar Creek Section",
+      "alert_id": "26970",
+      "url": "https://parks.qld.gov.au/park-alerts/26970",
+      "description": "Cedar Creek section of Tamborine National Park is temporarily closed due to an ongoing Queensland Police Service investigation.",
+      "details": "<p>Cedar Creek section of Tamborine National Park is temporarily closed due to an ongoing Queensland Police Service investigation.</p> <p>For the duration of this investigation the closed areas are;</p> <ul> <li>Cedar Creek Car Park</li> <li>Cedar Creek day-use area</li> <li>Cedar Creek Falls lookout track</li> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Alternate facilities are available at the below locations. Please refer to the <a href=\"https://parks.desi.qld.gov.au/__data/assets/pdf_file/0015/161160/tamborine-locality-map.pdf\">park locality map</a> for more information.</p> <ul> <li>Joalah section</li> <li>MacDonald section</li> <li>Palm Grove section</li> <li>The Knoll section</li> <li>Witches Falls section.</li> </ul> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-09",
+      "end_date": "2026-09-16",
+      "parks": [
+        {
+          "id": "148199",
+          "name": "Tamborine National Park",
+          "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Thorsborne Trail 2027 permit release",
+      "alert_id": "26972",
+      "url": "https://parks.qld.gov.au/park-alerts/26972",
+      "description": "Permits for the entire 2027 Thorsborne Trail hiking season will be made available on 15 December 2026 at 10am (Queensland time).",
+      "details": "<p>Permits for the entire 2027 Thorsborne Trail hiking season will be made available on 15 December 2026 at 10am (Queensland time).</p> <p>The 2027 hiking season is 1 March &ndash; 31 December. The standard annual seasonal closure period of 1 January &ndash; 28 February will remain in place due to the increased risk of unsafe conditions at this time of year.</p> <p>12 self-sufficient independent hiking permits are available to start the trail each day. Starting with the 2027 season, the refund policy for the Thorsborne Trail is changing; customers must cancel permits more than 14 days before their start date to get a refund (previously this was 2 days). More information on the new refund policy will be made available in the coming months.</p> <p>Some key reminders:</p> <ul> <li>Your permit start and end dates must match the dates you intend to hike. Penalties may apply for &lsquo;ghost bookings&rsquo; where a permit is purchased but not used.</li> <li>Book your vessel transfers as soon as your trail booking is confirmed.</li> <li>If your plans change before your hike, please modify or cancel your permit (see booking page for details). Returning unused spaces back to the booking systems allows other hikers to book them and supports local businesses by utilising the available capacity.</li> </ul> <p>Visit <a href=\"http://www.qld.gov.au/ThorsborneTrailHikingSeasons\">qld.gov.au/ThorsborneTrailHikingSeasons</a> for information and updates about the 2027 season&rsquo;s permit release. This page contains FAQs and information about how to be best prepared for the permit release.</p> <p>Visit the <a href=\"https://book.parks.qld.gov.au/thorsborne-trail-pass#/tours/148080\">Thorsborne Trail booking page</a> to familiarise yourself with the process well before the permit release, as permits for the peak hiking season (May-September) will sell out within an hour of the release. Be prepared with backup dates if you are initially unsuccessful.</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-09",
+      "start_effective_date": "2026-09-09",
+      "end_date": "2026-12-31",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
         }
       ]
     }
