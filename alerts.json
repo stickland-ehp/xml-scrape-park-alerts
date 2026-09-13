@@ -1,7 +1,7 @@
 {
   "summary": {
     "alerts_count": 135,
-    "script_run_time": "2026-09-12 13:12:07"
+    "script_run_time": "2026-09-13 13:57:11"
   },
   "alerts": [
     {
@@ -2367,24 +2367,6 @@
       ]
     },
     {
-      "title": "Collins Island closed for clean-up works",
-      "alert_id": "26917",
-      "url": "https://parks.qld.gov.au/park-alerts/26918",
-      "description": "QPWS and contractors will be conducting infrastructure clean up works on Collins Island from the 5 - 12 September 2026. The island will be closed to public access for the duration of these works.",
-      "details": "<p>QPWS and contractors will be conducting infrastructure clean up works on Collins Island from the 5 - 12 September 2026. The island will be closed to public access for the duration of these works.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-08-26",
-      "start_effective_date": "2026-09-05",
-      "end_date": "2026-09-12",
-      "parks": [
-        {
-          "id": "150199",
-          "name": "Broad Sound Islands National Park",
-          "url": "https://parks.qld.gov.au/parks/broad-sound-islands"
-        }
-      ]
-    },
-    {
       "title": "Hymenachne Swamp Cultural Burn - 31 August-8 December 2026",
       "alert_id": "26924",
       "url": "https://parks.qld.gov.au/park-alerts/26925",
@@ -2841,6 +2823,24 @@
           "id": "149505",
           "name": "Whitsunday Islands National Park",
           "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Smoke alert - bushfire in Mount Archer National Park",
+      "alert_id": "26978",
+      "url": "https://parks.qld.gov.au/park-alerts/26978",
+      "description": "A bushfire has entered Mount Archer National Park.",
+      "details": "<p>A bushfire has entered Mount Archer National Park.</p> <p>Smoke may impact suburbs in Rockhampton including Parkhurst, Frenchville and Koongal.</p> <p>QPWS rangers and rural fire service crews are responding to this incident.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.&nbsp;</p> <p>If smoke affects you, please take all necessary precautions, which may include staying indoors and closing windows and doors.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-13",
+      "start_effective_date": "2026-09-13",
+      "end_date": "2026-09-21",
+      "parks": [
+        {
+          "id": "148520",
+          "name": "Mount Archer National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-archer"
         }
       ]
     }
