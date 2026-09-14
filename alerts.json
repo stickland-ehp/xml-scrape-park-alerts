@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 135,
-    "script_run_time": "2026-09-13 13:57:11"
+    "alerts_count": 137,
+    "script_run_time": "2026-09-14 16:01:13"
   },
   "alerts": [
     {
@@ -1967,29 +1967,6 @@
       ]
     },
     {
-      "title": "Pest Management Control Program  1080 Baiting Curtis Island National Park, Conservation Park, and State Forest",
-      "alert_id": "26765",
-      "url": "https://parks.qld.gov.au/park-alerts/26765",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Monday the 27th of July to Monday the 14th of September 2026.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Monday the 27th of July to Monday the 14th of September 2026.</p> <p>These activities are conducted to reduce impacts on Flatback Turtle and Yellow Chat habitats and to reduce predation by feral animals, including feral pigs. QPWS will be installing a number of 1080 warning signs within the area informing the use of 1080 baits.</p> <p>To ensure the safety of the public, no access is permitted to the protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground, during the above dates.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-07-17",
-      "start_effective_date": "2026-07-27",
-      "end_date": "2026-09-14",
-      "parks": [
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
       "title": "Temporary closure : Mulga Drive return loop on Welford National Park",
       "alert_id": "26780",
       "url": "https://parks.qld.gov.au/park-alerts/26780",
@@ -2004,6 +1981,24 @@
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.qld.gov.au/parks/welford"
+        }
+      ]
+    },
+    {
+      "title": "Roadworks, Temporary Closures - South Boundary Road",
+      "alert_id": "26784",
+      "url": "https://parks.qld.gov.au/park-alerts/26784",
+      "description": "Grading and drainage works will be conducted on South Boundary Road with temporary closures on sections between Payne Rd gate and Hillbrook Road between 14 - 18 September.",
+      "details": "<p>Grading and drainage works will be conducted on South Boundary Road with temporary closures on sections between Payne Rd gate and Hillbrook Road between 14 - 18 September.</p> <p>Grading works have been completed on upper sections of South Boundary Road.&nbsp;Park visitors should use caution and be aware of changed trail conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-14",
+      "start_effective_date": "2026-07-22",
+      "end_date": "2026-09-25",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -2583,9 +2578,9 @@
       "description": "Due to the current bushfire, Barakula State Forest is closed including the Dogwood Creek camping area. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
       "details": "<p>Due to the current bushfire, Barakula State Forest is closed including the Dogwood Creek camping area. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-09-08",
+      "start_date": "2026-09-14",
       "start_effective_date": "2026-09-07",
-      "end_date": "2026-09-14",
+      "end_date": "2026-09-18",
       "parks": [
         {
           "id": "148143",
@@ -2647,9 +2642,9 @@
       "description": "Due to the current bushfire Lockyer National Park and Lockyer State Forest are closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
       "details": "<p>Due to the current bushfire Lockyer National Park and Lockyer State Forest are closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Commercial tour operators and other permit or agreement holders are not&nbsp;permitted&nbsp;to enter closed areas</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-09-09",
+      "start_date": "2026-09-14",
       "start_effective_date": "2026-09-09",
-      "end_date": "2026-09-16",
+      "end_date": "2026-09-22",
       "parks": [
         {
           "id": "322315",
@@ -2701,24 +2696,6 @@
           "id": "151379",
           "name": "Thorsborne Trail, Hinchinbrook Island National Park",
           "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
-        }
-      ]
-    },
-    {
-      "title": "Partial facilities closure due to emergency services training exercise: Lake Barrine, Crater Lakes National Park",
-      "alert_id": "26974",
-      "url": "https://parks.qld.gov.au/park-alerts/26974",
-      "description": "Emergency Services will be conducting a training exercise at Lake Barrine, Crater Lakes National Park on Saturday 12 September and Sunday 13 September 2026 (dates inclusive).",
-      "details": "<p>Emergency Services will be conducting a training exercise at Lake Barrine, Crater Lakes National Park on Saturday 12 September and Sunday 13 September 2026 (dates inclusive).</p> <p>As part of these activities, the following facilities will be <strong>closed </strong>to the public during this time:</p> <ul> <li>Section of access road from Tea House parking to Lake Barrine foreshore.</li> <li>Tea House commercial operator parking.</li> <li>Person with disabilities parking, near the start of twin kauris walk.</li> <li>Watercraft drop-off point.</li> <li>Lake Barrine foreshore area.</li> </ul> <p>The following facilities will remain <strong>open</strong>:</p> <ul> <li>Pedestrian access to&nbsp;twin kauris walk.</li> <li>Northern most car park including bus parking.</li> <li>Lake Barrine day-use area and toilets.</li> </ul> <p>Please see <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0018/349011/lake-barrine-map.pdf\">Lake Barrine map</a>&nbsp;for more details of the locations of these facilities.</p> <p>Please observe all signage, barriers and directions from rangers and emergency services and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-09-10",
-      "start_effective_date": "2026-09-12",
-      "end_date": "2026-09-13",
-      "parks": [
-        {
-          "id": "148568",
-          "name": "Crater Lakes National Park",
-          "url": "https://parks.qld.gov.au/parks/crater-lakes"
         }
       ]
     },
@@ -2831,9 +2808,9 @@
       "alert_id": "26978",
       "url": "https://parks.qld.gov.au/park-alerts/26978",
       "description": "A bushfire has entered Mount Archer National Park.",
-      "details": "<p>A bushfire has entered Mount Archer National Park.</p> <p>Smoke may impact suburbs in Rockhampton including Parkhurst, Frenchville and Koongal.</p> <p>QPWS rangers and rural fire service crews are responding to this incident.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.&nbsp;</p> <p>If smoke affects you, please take all necessary precautions, which may include staying indoors and closing windows and doors.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>A bushfire has entered Mount Archer National Park.</p> <p>Smoke may impact suburbs in Rockhampton including Parkhurst, Frenchville and Koongal.</p> <p>QPWS rangers and rural fire service crews are responding to this incident and it is expected that this fire will burn for several days.</p> <p>Avoid driving through smoke where possible and be aware of firefighters working in the area.&nbsp;</p> <p>If smoke affects you, please take all necessary precautions, which may include staying indoors and closing windows and doors.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Announcement",
-      "start_date": "2026-09-13",
+      "start_date": "2026-09-14",
       "start_effective_date": "2026-09-13",
       "end_date": "2026-09-21",
       "parks": [
@@ -2841,6 +2818,60 @@
           "id": "148520",
           "name": "Mount Archer National Park",
           "url": "https://parks.qld.gov.au/parks/mount-archer"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Mount Windsor National Park",
+      "alert_id": "26979",
+      "url": "https://parks.qld.gov.au/park-alerts/26979",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) between Friday 4 September and Friday 18 September 2026 (dates inclusive) within Mount Windsor National Park. Aircraft will be operating in these areas during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) between Friday 4 September and Friday 18 September 2026 (dates inclusive) within Mount Windsor National Park. Aircraft will be operating in these areas during this period.</p> <p>There is no public access to Mount Windsor National Park.</p> <p>Most fire activity is expected to self-extinguish by evening, however, some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-09-14",
+      "start_effective_date": "2026-09-04",
+      "end_date": "2026-09-18",
+      "parks": [
+        {
+          "id": "322776",
+          "name": "Mount Windsor National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure Greenes Falls Walking Track",
+      "alert_id": "26980",
+      "url": "https://parks.qld.gov.au/park-alerts/26980",
+      "description": "Greenes Falls walking track will be closed temporarily to undertake annual maintenance work between Wednesday 16 and Friday 18 September.",
+      "details": "<p>Greenes Falls walking track will be closed temporarily to undertake annual maintenance work between Wednesday 16 and Friday 18 September.</p> <p>The Rainforest circuit and Cypress Grove circuit at Maiala will remain open for walkers.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-14",
+      "start_effective_date": "2026-09-16",
+      "end_date": "2026-09-18",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Numinbah section of Springbrook NP, incl. Great Walk",
+      "alert_id": "26981",
+      "url": "https://parks.qld.gov.au/park-alerts/26981",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned hazard reduction burn (weather permitting) from Tuesday, 15 September 2026, as part of the fire management program for Springbrook National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned hazard reduction burn (weather permitting) from Tuesday, 15 September 2026, as part of the fire management program for Springbrook National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Nerang-Murwillumbah Road, Chesters Road an internal fire breaks, such as Yaun's Break (aka Gold Coast Hinterland Great Walk) and Apiary's Break in the southern Numinbah section of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn the following areas are closed to public access:</p> <ul> <li>Yaun's fire break, including this same section of Gold Coast Hinterland Great Walk &ndash; Note: Great Walkers will need to detour along Chesters Road with caution.</li> <li>Apiary's fire break</li> <li>Chesters Road</li> </ul> <p><strong><em>NOTE: </em></strong><em>Motorists<strong> </strong>should be aware that traffic control will be in place along Nerang-Murwillumbah Road between the intersection of Chesters Road and the Numinbah Valley Community Hall, as heavy smoke may be encountered in this vicinity.</em></p> <p>Smoke may be seen in the vicinity of Nerang-Murwillumbah Road, Pine Creek Road, Springbrook Road, Binna Burra Road, and Beechmont Road.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-14",
+      "start_effective_date": "2026-09-14",
+      "end_date": "2026-09-18",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
         }
       ]
     }
