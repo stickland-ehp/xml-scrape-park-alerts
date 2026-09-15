@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 137,
-    "script_run_time": "2026-09-14 16:01:13"
+    "alerts_count": 139,
+    "script_run_time": "2026-09-15 14:31:03"
   },
   "alerts": [
     {
@@ -2846,7 +2846,7 @@
       "description": "Greenes Falls walking track will be closed temporarily to undertake annual maintenance work between Wednesday 16 and Friday 18 September.",
       "details": "<p>Greenes Falls walking track will be closed temporarily to undertake annual maintenance work between Wednesday 16 and Friday 18 September.</p> <p>The Rainforest circuit and Cypress Grove circuit at Maiala will remain open for walkers.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-09-14",
+      "start_date": "2026-09-15",
       "start_effective_date": "2026-09-16",
       "end_date": "2026-09-18",
       "parks": [
@@ -2862,9 +2862,9 @@
       "alert_id": "26981",
       "url": "https://parks.qld.gov.au/park-alerts/26981",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned hazard reduction burn (weather permitting) from Tuesday, 15 September 2026, as part of the fire management program for Springbrook National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned hazard reduction burn (weather permitting) from Tuesday, 15 September 2026, as part of the fire management program for Springbrook National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Nerang-Murwillumbah Road, Chesters Road an internal fire breaks, such as Yaun's Break (aka Gold Coast Hinterland Great Walk) and Apiary's Break in the southern Numinbah section of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn the following areas are closed to public access:</p> <ul> <li>Yaun's fire break, including this same section of Gold Coast Hinterland Great Walk &ndash; Note: Great Walkers will need to detour along Chesters Road with caution.</li> <li>Apiary's fire break</li> <li>Chesters Road</li> </ul> <p><strong><em>NOTE: </em></strong><em>Motorists<strong> </strong>should be aware that traffic control will be in place along Nerang-Murwillumbah Road between the intersection of Chesters Road and the Numinbah Valley Community Hall, as heavy smoke may be encountered in this vicinity.</em></p> <p>Smoke may be seen in the vicinity of Nerang-Murwillumbah Road, Pine Creek Road, Springbrook Road, Binna Burra Road, and Beechmont Road.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned hazard reduction burn (weather permitting) from Tuesday, 15 September 2026, as part of the fire management program for Springbrook National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Nerang-Murwillumbah Road, Chesters Road an internal fire breaks, such as Yaun&rsquo;s Break (aka Gold Coast Hinterland Great Walk) and Apiary&rsquo;s Break in the southern Numinbah section of the park. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn the following areas are closed to public access:</p> <ul> <li>Yaun&rsquo;s fire break, including this same section of Gold Coast Hinterland Great Walk &ndash; Note: Great Walkers will need to detour along Chesters Road with caution.</li> <li>Apiary&rsquo;s fire break</li> <li>Chesters Road</li> </ul> <p><strong>NOTE: </strong>Motorists<strong> </strong>should be aware that traffic control will be in place along Nerang-Murwillumbah Road between the intersection of Chesters Road and the Numinbah Valley Community Hall, as heavy smoke may be encountered in this vicinity.</p> <p>Smoke may be seen in the vicinity of Nerang-Murwillumbah Road, Pine Creek Road, Springbrook Road, Binna Burra Road, and Beechmont Road.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-09-14",
+      "start_date": "2026-09-15",
       "start_effective_date": "2026-09-14",
       "end_date": "2026-09-18",
       "parks": [
@@ -2872,6 +2872,42 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Temporary park closure due to bushfire activity",
+      "alert_id": "26982",
+      "url": "https://parks.qld.gov.au/park-alerts/26982",
+      "description": "Mount Archer National Park, including the Zamia walking track, is currently closed due to an active bushfire in the area.",
+      "details": "<p>Mount Archer National Park, including the Zamia walking track, is currently closed due to an active bushfire in the area.</p> <p><!--ScriptorStartFragment-->The park and walking track will be reopened when it is safe to do so.</p> <p><!--ScriptorEndFragment--></p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-09-15",
+      "start_effective_date": "2026-09-15",
+      "end_date": "2026-09-21",
+      "parks": [
+        {
+          "id": "148520",
+          "name": "Mount Archer National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-archer"
+        }
+      ]
+    },
+    {
+      "title": "Florence Bay toilets closed for maintenance",
+      "alert_id": "26983",
+      "url": "https://parks.qld.gov.au/park-alerts/26983",
+      "description": "The Florence Bay toilets are closed for maintenance works to repair the decking.",
+      "details": "<p>The Florence Bay toilets are closed for maintenance works to repair the decking.</p> <p>Access to the toilet will be restricted for public safety during works 15 - 25 September 2026.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-09-15",
+      "start_effective_date": "2026-09-15",
+      "end_date": "2026-09-25",
+      "parks": [
+        {
+          "id": "148961",
+          "name": "Magnetic Island National Park",
+          "url": "https://parks.qld.gov.au/parks/magnetic-island"
         }
       ]
     }
