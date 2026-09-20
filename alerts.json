@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 140,
-    "script_run_time": "2026-09-19 13:30:59"
+    "alerts_count": 141,
+    "script_run_time": "2026-09-20 13:46:21"
   },
   "alerts": [
     {
@@ -2901,6 +2901,29 @@
           "id": "148568",
           "name": "Crater Lakes National Park",
           "url": "https://parks.qld.gov.au/parks/crater-lakes"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn on Hinchinbrook Island",
+      "alert_id": "27000",
+      "url": "https://parks.qld.gov.au/park-alerts/27000",
+      "description": "Queensland Parks and Wildlife Service conducted a planned burn in September 2026 as part of the annual fire management program. A fire is continuing to burn above Zoe Bay on Hinchinbrook Island. Smoke can be seen in the highlands behind South Zoe Bay.",
+      "details": "<p>Queensland Parks and Wildlife Service conducted a planned burn in September 2026 as part of the annual fire management program. A fire is continuing to burn above Zoe Bay on Hinchinbrook Island. Smoke can be seen in the highlands behind South Zoe Bay.</p> <p>The fire is not affecting the camping areas or waling tracks. The Thorsborne Trail is open.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Other",
+      "start_date": "2026-09-20",
+      "start_effective_date": "2026-09-19",
+      "end_date": "2026-09-22",
+      "parks": [
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        },
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
         }
       ]
     }
