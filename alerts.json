@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 144,
-    "script_run_time": "2026-10-04 15:01:20"
+    "alerts_count": 143,
+    "script_run_time": "2026-10-05 18:54:19"
   },
   "alerts": [
     {
@@ -2440,24 +2440,6 @@
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Main Range National Park",
-      "alert_id": "27002",
-      "url": "https://parks.qld.gov.au/park-alerts/27002",
-      "description": "Due to the current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to the current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>Mount Huntley/Panorama Point remote camping zone.</p> </li> <li> <p>Steamer/Mount Superbus remote camping zone.</p> </li> <li> <p>Mount Steamer/Saddle remote bush camp</p> </li> <li> <p>Stern remote bush camp</p> </li> <li> <p>Lizard South remote bush camp</p> </li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <ul> </ul> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-09-21",
-      "start_effective_date": "2026-09-21",
-      "end_date": "2026-10-05",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
