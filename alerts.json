@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 143,
-    "script_run_time": "2026-10-05 18:54:19"
+    "alerts_count": 149,
+    "script_run_time": "2026-10-06 16:20:16"
   },
   "alerts": [
     {
@@ -2227,11 +2227,11 @@
       "alert_id": "26983",
       "url": "https://parks.qld.gov.au/park-alerts/26983",
       "description": "The Florence Bay toilets are closed for maintenance works to repair the decking.",
-      "details": "<p>The Florence Bay toilets are closed for maintenance works to repair the decking.</p> <p>Access to the toilet will be restricted for public safety during works 15 September - 9 October 2026.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "details": "<p>The Florence Bay toilets are closed for maintenance works to repair the decking.</p> <p>Access to the toilet will be restricted for public safety during works 15 September - 23 October 2026.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-01",
+      "start_date": "2026-10-06",
       "start_effective_date": "2026-09-15",
-      "end_date": "2026-10-09",
+      "end_date": "2026-10-23",
       "parks": [
         {
           "id": "148961",
@@ -2354,24 +2354,6 @@
       ]
     },
     {
-      "title": "Drought Conditions Affecting Girraween National Park",
-      "alert_id": "26995",
-      "url": "https://parks.qld.gov.au/park-alerts/26995",
-      "description": "The Southern Downs region, including Girraween National Park, is currently experiencing declared drought conditions.",
-      "details": "<p>The Southern Downs region, including Girraween National Park, is currently experiencing declared drought conditions.</p> <p>Creek levels throughout the park are extremely low. Bald Rock Creek has ceased flowing and has remained stagnant since February 2026. While this is having ecological impacts, it is also affecting water availability and recreational opportunities within the park.</p> <p>As a result:</p> <ul> <li>The main swimming hole near the Bald Rock Creek day-use area is currently closed.</li> <li>Following the Queensland September school holidays, camping capacity will be reduced to 50% to help minimise water consumption and maintain essential services for visitors.</li> </ul> <p>Queensland Parks and Wildlife Service Rangers will continue to monitor conditions and provide updates as required.</p> <p>Thank you for your understanding and cooperation.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-09-18",
-      "start_effective_date": "2026-09-18",
-      "end_date": "2026-10-06",
-      "parks": [
-        {
-          "id": "148087",
-          "name": "Girraween National Park",
-          "url": "https://parks.qld.gov.au/parks/girraween"
-        }
-      ]
-    },
-    {
       "title": "Swimming in Bald Rock Creek prohibited",
       "alert_id": "26997",
       "url": "https://parks.qld.gov.au/park-alerts/26997",
@@ -2440,6 +2422,24 @@
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.qld.gov.au/parks/tamborine"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of firebreaks Plunkett Conservation Park",
+      "alert_id": "27003",
+      "url": "https://parks.qld.gov.au/park-alerts/27003",
+      "description": "Park users are advised of vegetation works requiring closures of the below listed firelines between the dates of 29-30th of September.",
+      "details": "<p>Park users are advised of vegetation works requiring closures of the below listed firelines between the dates of 29-30th of September.</p> <p>Planned fireline vegetation manintenance relating to the Urban Interface Stage 2 project will be commencing from 29th-30th of September.</p> <p>&nbsp;</p> <p>Firelines that will be closed during this time period are:</p> <p>-Diamentina break</p> <p>-Guiddos break</p> <p>-Western break</p> <p>-Maranda break</p> <p>-Circuit break</p> <p>-Boggy break</p> <p>&nbsp;</p> <p>Heavy machinery will be in operation. Please observe and adhere to all signage and directions from contractors and rangers during this time.</p> <p>&nbsp;</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please avoid interaction with the wildlife.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please be alert for nearby wildlife.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-09-29",
+      "end_date": "2026-10-07",
+      "parks": [
+        {
+          "id": "149381",
+          "name": "Plunkett Conservation Park and Wickham National Park",
+          "url": "https://parks.qld.gov.au/parks/plunkett-wickham"
         }
       ]
     },
@@ -2519,9 +2519,9 @@
       "description": "A bushfire is currently burning within Boodjamulla National Park (Aboriginal Land). Queensland Parks and Wildlife Service (QPWS) Rangers and firefighting crews are responding and actively monitoring the situation.",
       "details": "<p>A bushfire is currently burning within Boodjamulla National Park (Aboriginal Land). Queensland Parks and Wildlife Service (QPWS) Rangers and firefighting crews are responding and actively monitoring the situation.</p> <p>For visitor safety, access restrictions and temporary closures <strong>may be implemented</strong> as conditions change.&nbsp;</p> <p><strong>At visitor locations: Lawn Hill Gorge section and Riversleigh D-site section:</strong></p> <ul> <li>Bushfire smoke may be present in the area.</li> <li>Firefighting vehicles and aircraft may be operating within and around the national park (Aboriginal Land).</li> <li>Visitor access may be restricted with limited notice.</li> <li>Visitors should remain&nbsp;alert and follow all signage and directions from Rangers.</li> </ul> <p><strong>For your safety:</strong></p> <ul> <li><strong>Be aware of smoke</strong>. Bushfire smoke may reduce visibility and affect people&nbsp;wtih respiratory conditions.</li> <li><strong>Watch for emergency operations</strong>: firefighting vehicles, machinery and aircraft may be operating at any time.</li> <li><strong>Stay informed</strong>. Conditions can change rapidly. Check park alerts and local emergency information before travelling.</li> </ul> <p>Visitors are reminded that Boodjamulla National Park (Aboriginal Land) is a remote location, you must be self-sufficient, responsible for your own safety, and prepared for&nbsp;emergencies. In an emergency call Triple Zero (000).</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Other",
-      "start_date": "2026-09-28",
+      "start_date": "2026-10-06",
       "start_effective_date": "2026-09-22",
-      "end_date": "2026-10-07",
+      "end_date": "2026-10-14",
       "parks": [
         {
           "id": "150272",
@@ -2672,6 +2672,29 @@
       ]
     },
     {
+      "title": "Planned burn operations: Flaggy Creek to Mona Mona area, Kuranda National Park and Kuranda State Forest",
+      "alert_id": "27036",
+      "url": "https://parks.qld.gov.au/park-alerts/27036",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) from Wednesday 7 October to Thursday 8 October 2026, between Mona Mona and Flaggy Creek within Kuranda National Park and Kuranda State Forest.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) from Wednesday 7 October to Thursday 8 October 2026, between Mona Mona and Flaggy Creek within Kuranda National Park and Kuranda State Forest.</p> <p>As a result, visitors may encounter fire operations vehicles and personnel on roads in the area. Smoke may also be visible and may impact driving conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation&nbsp;and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-10-07",
+      "end_date": "2026-10-08",
+      "parks": [
+        {
+          "id": "322403",
+          "name": "Kuranda State Forest",
+          "url": ""
+        },
+        {
+          "id": "148814",
+          "name": "Kuranda National Park and Mowbray National Park",
+          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
       "title": "Upcoming temporary closure due to planned maintenance: Din Din Barron Falls day-use area and walking track, Barron Gorge National Park",
       "alert_id": "27039",
       "url": "https://parks.qld.gov.au/park-alerts/27039",
@@ -2686,6 +2709,24 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/barron-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Planned road works in Mapleton National Park",
+      "alert_id": "27040",
+      "url": "https://parks.qld.gov.au/park-alerts/27040",
+      "description": "QPWS are conducting road maintenance on Oaky Lookout Road in Mapleton National Park starting Tuesday 6 October (weather permitting).",
+      "details": "<p>QPWS are conducting road maintenance on Oaky Lookout Road in Mapleton National Park starting Tuesday 6 October (weather permitting).</p> <p>Visitors may experience temporary delays or detours when accessing the following areas during the works:</p> <ul> <li>Mapleton day-use area carpark</li> <li>Oaky Lookout Road</li> <li>Gheerulla Trail Bike Track&nbsp;carpark</li> </ul> <p>For your safety please proceed with caution along all park access roads and&nbsp;follow directions given by the earthmoving contractor.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-10-06",
+      "end_date": "2026-10-16",
+      "parks": [
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton"
         }
       ]
     },
@@ -2930,6 +2971,88 @@
           "id": "148287",
           "name": "Lockyer National Park",
           "url": "https://parks.qld.gov.au/parks/lockyer"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure due to planned burn operations: Windin Falls walking track, Wooroonooran National Park",
+      "alert_id": "27054",
+      "url": "https://parks.qld.gov.au/park-alerts/27054",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the Windin Falls section of Wooroonooran National Park between Thursday 8 October and Friday 9 October 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the Windin Falls section of Wooroonooran National Park between Thursday 8 October and Friday 9 October 2026 (dates inclusive).</p> <p><strong>Windin Falls walking track will be closed to visitors and permit holders during this period.</strong></p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-09",
+      "parks": [
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
+        }
+      ]
+    },
+    {
+      "title": "Inskip Peninsula Recreation Area revegetation project",
+      "alert_id": "27055",
+      "url": "https://parks.qld.gov.au/park-alerts/27055",
+      "description": "Vegetation rehabilitation works are being undertaken at the M.V. Beagle camping area, Inskip Peninsula, on 6 October 2026.",
+      "details": "<p>Vegetation rehabilitation works are being undertaken at the M.V. Beagle camping area, Inskip Peninsula, on 6 October 2026.</p> <p>Visitors are asked to keep out of closed rehabilitation areas and avoid walking on or disturbing newly planted vegetation.</p> <p>Please follow all on-site signage and directions from Queensland Parks and Wildlife Service staff and contractors.</p> <p>Thank you for helping us protect and restore the natural environment.</p>",
+      "category": "Other",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-10-06",
+      "end_date": "2026-10-12",
+      "parks": [
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Bare Hill Conservation Park and Dinden National Park",
+      "alert_id": "27056",
+      "url": "https://parks.qld.gov.au/park-alerts/27056",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on Thursday 8 October 2026, within Bare Hill Conservation Park and Dinden National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on Thursday 8 October 2026, within Bare Hill Conservation Park and Dinden National Park.</p> <p>As a result, visitors may encounter fire operations vehicles and personnel on roads in the area.&nbsp;Smoke may be visible in the area, including around Davies Creek Falls and Clohesy River Fig Tree, and may also impact driving conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation&nbsp;and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-09",
+      "parks": [
+        {
+          "id": "151371",
+          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
+        }
+      ]
+    },
+    {
+      "title": "Competitive Running Event - 17th and 18th October",
+      "alert_id": "27057",
+      "url": "https://parks.qld.gov.au/park-alerts/27057",
+      "description": "The &quot;Blackall 100&quot; will be held in national parks and areas surrounding Mapleton Township on the weekend of 17th and 18th Of October.",
+      "details": "<p>The &quot;Blackall 100&quot; will be held in national parks and areas surrounding Mapleton Township on the weekend of 17th and 18th Of October.</p> <p>Large numbers of competitors will be running along walking tacks, fire management trails and public access roads for the duration of the event.</p> <p>All runners are expected to have passed through Kondalilla National Park by 10am Saturday.</p> <p>Trail Running through the Mapleton area is expected to be completed by 10am Sunday.</p> <p>Drive slowly to reduce dust, please be patient and allow plenty of room when overtaking.</p> <p>Limited parking will be available at Mapleton Day Use Area and Mapleton Horse Trail Car Park during the event.</p> <p>This is a &quot;Run Queensland &quot; event permitted by the Queensland Parks and Wildlife Service, the Sunshine Coast Regional Council and SEQWater.&nbsp; Event Inquiries to &quot;Run Queensland&quot; can be directed to Mb Ph contact 0447 711 232 or by emailing info@runqueensland.com</p> <p>In the weeks prior to the event, park visitors may encounter runners in training prepearing for the Blackall 100</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-06",
+      "start_effective_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "parks": [
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton"
+        },
+        {
+          "id": "148929",
+          "name": "Mapleton Falls National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton-falls"
+        },
+        {
+          "id": "148243",
+          "name": "Kondalilla National Park",
+          "url": "https://parks.qld.gov.au/parks/kondalilla"
         }
       ]
     }
