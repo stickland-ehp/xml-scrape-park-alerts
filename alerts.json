@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 149,
-    "script_run_time": "2026-10-06 16:20:16"
+    "alerts_count": 155,
+    "script_run_time": "2026-10-07 17:03:01"
   },
   "alerts": [
     {
@@ -2426,24 +2426,6 @@
       ]
     },
     {
-      "title": "Temporary closure of firebreaks Plunkett Conservation Park",
-      "alert_id": "27003",
-      "url": "https://parks.qld.gov.au/park-alerts/27003",
-      "description": "Park users are advised of vegetation works requiring closures of the below listed firelines between the dates of 29-30th of September.",
-      "details": "<p>Park users are advised of vegetation works requiring closures of the below listed firelines between the dates of 29-30th of September.</p> <p>Planned fireline vegetation manintenance relating to the Urban Interface Stage 2 project will be commencing from 29th-30th of September.</p> <p>&nbsp;</p> <p>Firelines that will be closed during this time period are:</p> <p>-Diamentina break</p> <p>-Guiddos break</p> <p>-Western break</p> <p>-Maranda break</p> <p>-Circuit break</p> <p>-Boggy break</p> <p>&nbsp;</p> <p>Heavy machinery will be in operation. Please observe and adhere to all signage and directions from contractors and rangers during this time.</p> <p>&nbsp;</p> <p>For your safety please use caution whilst visiting the park.</p> <p>For your safety please avoid interaction with the wildlife.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>For your safety please be alert for nearby wildlife.</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-10-06",
-      "start_effective_date": "2026-09-29",
-      "end_date": "2026-10-07",
-      "parks": [
-        {
-          "id": "149381",
-          "name": "Plunkett Conservation Park and Wickham National Park",
-          "url": "https://parks.qld.gov.au/parks/plunkett-wickham"
-        }
-      ]
-    },
-    {
       "title": "Pest Management Control Program  1080 Baiting Curtis Island National Park, Conservation Park, and State Forest",
       "alert_id": "27006",
       "url": "https://parks.qld.gov.au/park-alerts/27006",
@@ -2578,42 +2560,6 @@
           "id": "148151",
           "name": "Bulburin National Park",
           "url": "https://parks.qld.gov.au/parks/bulburin"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Ravensbourne National Park",
-      "alert_id": "27021",
-      "url": "https://parks.qld.gov.au/park-alerts/27021",
-      "description": "Due to the current bushfire, some areas are temporarily closed in Ravensbourne National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to the current bushfire, some areas are temporarily closed in Ravensbourne National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:&nbsp;</p> <ul> <li>Wellers road area of Ravensbourne National Park</li> <li>Buaraba&nbsp;Creek walking track</li> <li>Ravensbourne Nature Refuge</li> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Gus Buetel lookout, the Cedar Block Day use area, the Rainforest and Palm creek circuit walking tracks remain open.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-09-23",
-      "start_effective_date": "2026-09-23",
-      "end_date": "2026-10-07",
-      "parks": [
-        {
-          "id": "148576",
-          "name": "Ravensbourne National Park",
-          "url": "https://parks.qld.gov.au/parks/ravensbourne"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Deongwar State Forest",
-      "alert_id": "27022",
-      "url": "https://parks.qld.gov.au/park-alerts/27022",
-      "description": "Due to the current bushfire, Deongwar State Forest is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation",
-      "details": "<p>Due to the current bushfire, Deongwar State Forest is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-09-23",
-      "start_effective_date": "2026-09-23",
-      "end_date": "2026-10-07",
-      "parks": [
-        {
-          "id": "322682",
-          "name": "Deongwar State Forest",
-          "url": ""
         }
       ]
     },
@@ -2826,13 +2772,13 @@
       ]
     },
     {
-      "title": "Upcoming temporary track closure due to planned burn operations: Blue Gum circuit track (off H track), Paluma Range National Park",
+      "title": "Temporary track closure due to planned burn operations: Blue Gum circuit track (off H track), Paluma Range National Park",
       "alert_id": "27046",
       "url": "https://parks.qld.gov.au/park-alerts/27046",
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Paluma Range National Park between Friday 9 October and Friday 23 October 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Paluma Range National Park between Friday 9 October and Friday 23 October 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>For your safety, the Blue Gum circuit track (off H track) is closed during this period.</strong></p> <p>Smoke, firefighters, aircraft and machinery may be seen in the vicinity of:</p> <ul> <li>Paluma-Ewan Road from Paluma township to Taravale Road</li> <li>Taravale Road</li> <li>H track</li> <li>Blue Gum circuit track</li> <li>Upper reaches of Star River and Smith Creek</li> </ul> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management </a>webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-10-01",
+      "start_date": "2026-10-07",
       "start_effective_date": "2026-10-09",
       "end_date": "2026-10-23",
       "parks": [
@@ -3053,6 +2999,203 @@
           "id": "148243",
           "name": "Kondalilla National Park",
           "url": "https://parks.qld.gov.au/parks/kondalilla"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Mount Windsor National Park and Mount Lewis National Park",
+      "alert_id": "27058",
+      "url": "https://parks.qld.gov.au/park-alerts/27058",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within Mount Windsor National Park and Mount Lewis National Park between Wednesday 7 October and Saturday 10 October 2026 (dates inclusive). Aircraft will be operating in the area during this period.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) within Mount Windsor National Park and Mount Lewis National Park between Wednesday 7 October and Saturday 10 October 2026 (dates inclusive). Aircraft will be operating in the area during this period.</p> <p>Fire activity is expected to self-extinguish each evening however some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS rangers will monitor fire activity until it is out.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department&#39;s website for updated information.</p> <p>&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-07",
+      "end_date": "2026-10-10",
+      "parks": [
+        {
+          "id": "322776",
+          "name": "Mount Windsor National Park",
+          "url": ""
+        },
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        }
+      ]
+    },
+    {
+      "title": "Catfish Activity in Designated Swimming Area",
+      "alert_id": "27059",
+      "url": "https://parks.qld.gov.au/park-alerts/27059",
+      "description": "Native eel-tailed catfish are currently breeding in this area. During the breeding season, male catfish build large circular nests from gravel and pebbles on the lake bed and actively guard their eggs and young. While normally harmless, catfish may nip swimmers who come too close to a nest as part of their natural defensive behaviour. Visitors are encouraged to avoid disturbing visible nests and take care when swimming or wading in shallow water.",
+      "details": "<p>Native eel-tailed catfish are currently breeding in this area. During the breeding season, male catfish build large circular nests from gravel and pebbles on the lake bed and actively guard their eggs and young. While normally harmless, catfish may nip swimmers who come too close to a nest as part of their natural defensive behaviour. Visitors are encouraged to avoid disturbing visible nests and take care when swimming or wading in shallow water.</p> <p>If bitten or injured by a catfish:</p> <ol> <li>Wash the wound thoroughly with clean water.</li> <li>Apply an antiseptic to help reduce the risk of infection.</li> <li>Monitor the injury for signs of infection, including increasing redness, swelling, warmth or discharge.</li> <li>Seek medical attention if the wound is deep, symptoms worsen, or a fin spine injury causes significant pain or swelling.</li> </ol>",
+      "category": "Other",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-07",
+      "end_date": "2027-01-01",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure : Lochern National Park feral animal control program",
+      "alert_id": "27060",
+      "url": "https://parks.qld.gov.au/park-alerts/27060",
+      "description": "Lochern National Park will be temporarily closed on Friday 16 and Saturday 17 October 2026 while QPWS&amp;P undertake a feral animal control program. All control activities are conducted in accordance with the Lochern National Park pest animal control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Tonkoro Road will remain open to through traffic only.",
+      "details": "<p>Lochern National Park will be temporarily closed on Friday 16 and Saturday 17 October 2026 while QPWS&amp;P undertake a feral animal control program. All control activities are conducted in accordance with the Lochern National Park pest animal control plan and help to protect native plants and wildlife from the harmful effects of introduced animals. Tonkoro Road will remain open to through traffic only.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when the event is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-16",
+      "end_date": "2026-10-17",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure for planned burn operations: Mount Tyson walking track, Tully Gorge National Park and Japoon National Park",
+      "alert_id": "27061",
+      "url": "https://parks.qld.gov.au/park-alerts/27061",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in Tully Gorge and Japoon national parks between Thursday 8 October and Monday 12 October 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in Tully Gorge and Japoon national parks between Thursday 8 October and Monday 12 October 2026 (dates inclusive).</p> <p><strong>Mount Tyson walking track in Tully Gorge National Park will be closed during this period.</strong></p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-12",
+      "parks": [
+        {
+          "id": "148460",
+          "name": "Tully Gorge National Park",
+          "url": "https://parks.qld.gov.au/parks/tully-gorge"
+        },
+        {
+          "id": "322855",
+          "name": "Japoon National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Grey Peaks National Park",
+      "alert_id": "27062",
+      "url": "https://parks.qld.gov.au/park-alerts/27062",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in Grey Peaks National Park between Thursday 8 October and Monday 12 October 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in Grey Peaks National Park between Thursday 8 October and Monday 12 October 2026 (dates inclusive).</p> <p>Smoke may be visible in the greater Cairns and Yarrabah area.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. They also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks, and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-12",
+      "parks": [
+        {
+          "id": "148448",
+          "name": "Grey Peaks National Park",
+          "url": "https://parks.qld.gov.au/parks/grey-peaks"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Partial Road Closure",
+      "alert_id": "27063",
+      "url": "https://parks.qld.gov.au/park-alerts/27063",
+      "description": "A section of Venman Road will be closed to the public on Thursday 08/10/2026.",
+      "details": "<p>A section of Venman Road will be closed to the public on Thursday 08/10/2026.</p> <p>The parking area and day use area will remain accessible.</p> <p>During the closure, the normally <strong>one-way road will operate as a two-way road</strong> to allow continued access.</p> <p>Please drive with caution, obey all temporary traffic signage, and be aware of oncoming vehicles</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-09",
+      "parks": [
+        {
+          "id": "148896",
+          "name": "Venman Bushland National Park",
+          "url": "https://parks.qld.gov.au/parks/venman-bushland"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure: Lake Barrine circuit track, Crater Lakes National Park",
+      "alert_id": "27064",
+      "url": "https://parks.qld.gov.au/park-alerts/27064",
+      "description": "Lake Barrine circuit track has been impacted by a localised weather event and will be temporarily closed between Wednesday 7 October and Wednesday 4 November 2026 (dates inclusive).",
+      "details": "<p>Lake Barrine circuit track has been impacted by a localised weather event and will be temporarily closed between Wednesday 7 October and Wednesday 4 November 2026 (dates inclusive).</p> <p>This is to allow removal of a fallen tree and repair structural damage to a bridge along the circuit track.</p> <p><strong>The Twin Kauri viewing platform will remain open during this period with access via the bottom car park only.&nbsp;</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-07",
+      "end_date": "2026-11-04",
+      "parks": [
+        {
+          "id": "148568",
+          "name": "Crater Lakes National Park",
+          "url": "https://parks.qld.gov.au/parks/crater-lakes"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Tully Falls, Maalan, Koombooloomba, Wooroonooran and Gadgarra national parks and Ravenshoe Forest Reserve 1",
+      "alert_id": "27065",
+      "url": "https://parks.qld.gov.au/park-alerts/27065",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) in tablelands parks between Friday 9 October and Saturday 10 October 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) in tablelands parks between Friday 9 October and Saturday 10 October 2026 (dates inclusive).</p> <p>The planned burn operations will be occurring within the following parks:</p> <ul> <li>Tully Falls National Park</li> <li>Maalan National Park</li> <li>Koombooloomba National Park</li> <li>Wooroonooran National Park</li> <li>Gadgarra National Park</li> <li>Ravenshoe Forest Reserve 1</li> </ul> <p>No visitor facilities are anticipated to be impacted by these planned burn operations however smoke may be visible in the vicinity of Ravenshoe and Tumoulin. Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-09",
+      "end_date": "2026-10-10",
+      "parks": [
+        {
+          "id": "322678",
+          "name": "Gadgarra National Park",
+          "url": ""
+        },
+        {
+          "id": "148468",
+          "name": "Wooroonooran National Park",
+          "url": "https://parks.qld.gov.au/parks/wooroonooran"
+        },
+        {
+          "id": "322777",
+          "name": "Maalan National Park",
+          "url": ""
+        },
+        {
+          "id": "148802",
+          "name": "Koombooloomba National Park and Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/koombooloomba"
+        },
+        {
+          "id": "148600",
+          "name": "Tully Falls National Park",
+          "url": "https://parks.qld.gov.au/parks/tully-falls"
+        },
+        {
+          "id": "322282",
+          "name": "Ravenshoe Forest Reserve 1",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "CLOSED - Carnarvon Gorge Camping Area",
+      "alert_id": "27066",
+      "url": "https://parks.qld.gov.au/park-alerts/27066",
+      "description": "Carnarvon Gorge Camping Area Closure",
+      "details": "<p>Carnarvon Gorge Camping Area Closure</p> <p>Seasonal Closure for Carnarvon Gorge Camping Area for Summer months; campground reopens Easter Weekend 2027<br /> <br /> &nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-07",
+      "start_effective_date": "2026-10-06",
+      "end_date": "2027-03-26",
+      "parks": [
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
         }
       ]
     }
