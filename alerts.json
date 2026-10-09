@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 160,
-    "script_run_time": "2026-10-08 17:01:35"
+    "alerts_count": 157,
+    "script_run_time": "2026-10-09 16:39:43"
   },
   "alerts": [
     {
@@ -2366,9 +2366,9 @@
       "alert_id": "26999",
       "url": "https://parks.qld.gov.au/park-alerts/26999",
       "description": "Rainforest walk at Lake Barrine will be temporarily closed from Monday 21 September to Tuesday 13 October 2026 (dates inclusive) for maintenance works.",
-      "details": "<p>Rainforest walk at Lake Barrine will be temporarily closed from Monday 21 September to Tuesday 13 October 2026 (dates inclusive) for maintenance works.</p> <p>During this period contractors will be performing works on the trail to repair damages from recent heavy wet season events.</p> <p>The Lake Barrine circuit track, will remain <strong>open </strong>during this period.</p> <p>For your safety and the safety of authorities, please slow down and observe all signs and directions from rangers, and do not enter closed areas.</p>",
+      "details": "<p>Rainforest walk at Lake Barrine will be temporarily closed from Monday 21 September to Tuesday 13 October 2026 (dates inclusive) for maintenance works.</p> <p>During this period contractors will be performing works on the trail to repair damages from recent heavy wet season events.</p> <p>For your safety and the safety of authorities, please slow down and observe all signs and directions from rangers, and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-09-18",
+      "start_date": "2026-10-09",
       "start_effective_date": "2026-09-21",
       "end_date": "2026-10-13",
       "parks": [
@@ -2716,24 +2716,6 @@
       ]
     },
     {
-      "title": "Bunya Mountains - Scenic Circuit",
-      "alert_id": "27047",
-      "url": "https://parks.qld.gov.au/park-alerts/27047",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a track maintenance program at Bunya Mountains National Park from Tuesday the 6th of October to Friday the 9th of October.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a track maintenance program at Bunya Mountains National Park from Tuesday the 6th of October to Friday the 9th of October.</p> <p>The Scenic Circuit, through to Big Falls lookout accessed from Dandabah Day Use Area will be closed for the duration of the maintenence program.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Due to the changed conditions the visitor experience may be affected.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-09-30",
-      "start_effective_date": "2026-10-06",
-      "end_date": "2026-10-09",
-      "parks": [
-        {
-          "id": "149017",
-          "name": "Bunya Mountains National Park",
-          "url": "https://parks.qld.gov.au/parks/bunya-mountains"
-        }
-      ]
-    },
-    {
       "title": "Seasonal closure - Taylor Cay on Taylor Reef (17-064)",
       "alert_id": "27048",
       "url": "https://parks.qld.gov.au/park-alerts/27048",
@@ -2829,24 +2811,6 @@
       ]
     },
     {
-      "title": "Temporary closure due to planned burn operations: Windin Falls walking track, Wooroonooran National Park",
-      "alert_id": "27054",
-      "url": "https://parks.qld.gov.au/park-alerts/27054",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the Windin Falls section of Wooroonooran National Park between Thursday 8 October and Friday 9 October 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations in the Windin Falls section of Wooroonooran National Park between Thursday 8 October and Friday 9 October 2026 (dates inclusive).</p> <p><strong>Windin Falls walking track will be closed to visitors and permit holders during this period.</strong></p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-06",
-      "start_effective_date": "2026-10-08",
-      "end_date": "2026-10-09",
-      "parks": [
-        {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
-        }
-      ]
-    },
-    {
       "title": "Inskip Peninsula Recreation Area revegetation project",
       "alert_id": "27055",
       "url": "https://parks.qld.gov.au/park-alerts/27055",
@@ -2861,24 +2825,6 @@
           "id": "149409",
           "name": "Inskip Peninsula Recreation Area",
           "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
-        }
-      ]
-    },
-    {
-      "title": "Planned burn operations: Bare Hill Conservation Park and Dinden National Park",
-      "alert_id": "27056",
-      "url": "https://parks.qld.gov.au/park-alerts/27056",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on Thursday 8 October 2026, within Bare Hill Conservation Park and Dinden National Park.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on Thursday 8 October 2026, within Bare Hill Conservation Park and Dinden National Park.</p> <p>As a result, visitors may encounter fire operations vehicles and personnel on roads in the area.&nbsp;Smoke may be visible in the area, including around Davies Creek Falls and Clohesy River Fig Tree, and may also impact driving conditions.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation&nbsp;and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-06",
-      "start_effective_date": "2026-10-08",
-      "end_date": "2026-10-09",
-      "parks": [
-        {
-          "id": "151371",
-          "name": "Davies Creek National Park, Dinden National Park, Dinden West Forest Reserve and Bare Hill Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/davies-dinden-bare-hill"
         }
       ]
     },
@@ -3007,24 +2953,6 @@
           "id": "148448",
           "name": "Grey Peaks National Park",
           "url": "https://parks.qld.gov.au/parks/grey-peaks"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Partial Road Closure",
-      "alert_id": "27063",
-      "url": "https://parks.qld.gov.au/park-alerts/27063",
-      "description": "A section of Venman Road will be closed to the public on Thursday 08/10/2026.",
-      "details": "<p>A section of Venman Road will be closed to the public on Thursday 08/10/2026.</p> <p>The parking area and day use area will remain accessible.</p> <p>During the closure, the normally <strong>one-way road will operate as a two-way road</strong> to allow continued access.</p> <p>Please drive with caution, obey all temporary traffic signage, and be aware of oncoming vehicles</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-07",
-      "start_effective_date": "2026-10-08",
-      "end_date": "2026-10-09",
-      "parks": [
-        {
-          "id": "148896",
-          "name": "Venman Bushland National Park",
-          "url": "https://parks.qld.gov.au/parks/venman-bushland"
         }
       ]
     },
@@ -3262,20 +3190,38 @@
       ]
     },
     {
-      "title": "Planned burn operations: Coronation Hill area, Wooroonooran National Park",
-      "alert_id": "27075",
-      "url": "https://parks.qld.gov.au/park-alerts/27076",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in the Coronation Hill area of Wooroonooran National Park on Friday 9 October 2026.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) in the Coronation Hill area of Wooroonooran National Park on Friday 9 October 2026.</p> <p>Smoke may be visible on the range near Windin Falls and Topaz.&nbsp;Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation and keep medications close by if suffering from a respiratory illness.</p> <p>Planned burns are vital in promoting ecological health and biodiversity as well as help to reduce the risk and intensity of bushfires.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-08",
-      "start_effective_date": "2026-10-09",
-      "end_date": "2026-10-09",
+      "title": "Planned Works for Stony Creek Day Use Area Access Road",
+      "alert_id": "27076",
+      "url": "https://parks.qld.gov.au/park-alerts/27077",
+      "description": "Moreton Bay City Council are conducting upgrades to Fletcher Road, which provides access to Stony Creek Day Use Area, over the next 3 weeks (weather permitting)",
+      "details": "<p>Moreton Bay City Council are conducting upgrades to Fletcher Road, which provides access to Stony Creek Day Use Area, over the next 3 weeks (weather permitting)</p> <p>Stony Creek Day Use Area will have have changed conditions for the duration of the upgrade program.</p> <p>Visitors may experiance temporary delays and a reduction in available parking area due to road works.</p> <p>Road works are planned for Monday to Friday only and there should be no change to weekend access.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
+      "category": "Other",
+      "start_date": "2026-10-09",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-23",
       "parks": [
         {
-          "id": "148468",
-          "name": "Wooroonooran National Park",
-          "url": "https://parks.qld.gov.au/parks/wooroonooran"
+          "id": "148400",
+          "name": "Bellthorpe National Park",
+          "url": "https://parks.qld.gov.au/parks/bellthorpe"
+        }
+      ]
+    },
+    {
+      "title": "Planned works Girraween visitor information building",
+      "alert_id": "27077",
+      "url": "https://parks.qld.gov.au/park-alerts/27078",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned upgrade at Girraween National Park from 19 to 23 October (weather permitting).",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned upgrade at Girraween National Park from 19 to 23 October (weather permitting).</p> <p>The following areas at the Girraween visitor information building will have changed conditions for the duration of the upgrade program:&nbsp;</p> <ul> <li> <p>&nbsp; The all-accessible boardwalk.</p> </li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Other",
+      "start_date": "2026-10-09",
+      "start_effective_date": "2026-10-19",
+      "end_date": "2026-10-23",
+      "parks": [
+        {
+          "id": "148087",
+          "name": "Girraween National Park",
+          "url": "https://parks.qld.gov.au/parks/girraween"
         }
       ]
     }
