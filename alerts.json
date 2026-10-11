@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 154,
-    "script_run_time": "2026-10-10 15:36:51"
+    "alerts_count": 153,
+    "script_run_time": "2026-10-11 15:59:44"
   },
   "alerts": [
     {
@@ -1794,24 +1794,6 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Closure 4WD Loop Road",
-      "alert_id": "26830",
-      "url": "https://parks.qld.gov.au/park-alerts/26830",
-      "description": "4WD Loop Road Closure",
-      "details": "<p>4WD Loop Road Closure</p> <p>Due to extreme dry conditions following emergency repairs, post tropical cyclone Koji, 4WD loop road will remain closed until enough moisture is received to allow setting of earthworks, to prevent degradation of works undertaken and&nbsp; environmental damage to fragile soils and vegetation.</p> <p>Conditions will be monitored regularly and any changes or updates will be available at&nbsp; <a href=\"https://parks.qld.gov.au/parks/blackdown-tableland\">https://parks.qld.gov.au/parks/blackdown-tableland</a></p> <p>Park alerts are listed on right hand side of this page and clicking on the alert title will display full details.</p> <p>Alternatively visit&nbsp;<a href=\"https://parks.qld.gov.au/park-alerts\">https://parks.qld.gov.au/park-alerts</a>&nbsp; and search under Blackdown Tableland for all current park alerts.</p> <p>We appreciate your patience.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-08",
-      "start_effective_date": "2026-07-30",
-      "end_date": "2026-10-11",
-      "parks": [
-        {
-          "id": "150224",
-          "name": "Blackdown Tableland National Park",
-          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
         }
       ]
     },
