@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 155,
-    "script_run_time": "2026-10-12 19:28:02"
+    "alerts_count": 156,
+    "script_run_time": "2026-10-13 17:11:37"
   },
   "alerts": [
     {
@@ -2344,24 +2344,6 @@
       ]
     },
     {
-      "title": "Temporary walking track closure: Rainforest walk, Lake Barrine, Crater Lakes National Park",
-      "alert_id": "26999",
-      "url": "https://parks.qld.gov.au/park-alerts/26999",
-      "description": "Rainforest walk at Lake Barrine will be temporarily closed from Monday 21 September to Tuesday 13 October 2026 (dates inclusive) for maintenance works.",
-      "details": "<p>Rainforest walk at Lake Barrine will be temporarily closed from Monday 21 September to Tuesday 13 October 2026 (dates inclusive) for maintenance works.</p> <p>During this period contractors will be performing works on the trail to repair damages from recent heavy wet season events.</p> <p>For your safety and the safety of authorities, please slow down and observe all signs and directions from rangers, and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-09",
-      "start_effective_date": "2026-09-21",
-      "end_date": "2026-10-13",
-      "parks": [
-        {
-          "id": "148568",
-          "name": "Crater Lakes National Park",
-          "url": "https://parks.qld.gov.au/parks/crater-lakes"
-        }
-      ]
-    },
-    {
       "title": "Limited parking at Cedar Creek",
       "alert_id": "27001",
       "url": "https://parks.qld.gov.au/park-alerts/27001",
@@ -2427,24 +2409,6 @@
           "id": "148884",
           "name": "Curtis Island National Park and Conservation Park",
           "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
-      "title": "Fire prohibition in place for Sundown National Park",
-      "alert_id": "27012",
-      "url": "https://parks.qld.gov.au/park-alerts/27012",
-      "description": "A fire prohibition is active from 10AM 22 September 2026 until further notice due to the current weather forecast and increased risk of bushfires.",
-      "details": "<p>A fire prohibition is active from 10AM 22 September 2026 until further notice due to the current weather forecast and increased risk of bushfires.</p> <p>Fires must not be lit anywhere in Sundown National Park.</p> <p>During the fire prohibition, only fully enclosed cooking and heating appliances that meet the below requirements are permitted.&nbsp;</p> <p>The appliance:&nbsp;</p> <ul> <li> <p>Must use gas or manufactured fuel (head beads, briquettes). Manufactured fuel does not include timber or wood.&nbsp;</p> </li> </ul> <ul> <li> <p>Must be used only for cooking and/or heating.&nbsp;</p> </li> </ul> <ul> <li> <p>Must be a minimum of 20cm off the ground and more than 2m from flammable materials, which includes vegetation.&nbsp;</p> </li> </ul> <ul> <li> <p>Must not have the potential to generate airborne embers or possibly ignite nearby ground fuels.&nbsp;</p> </li> </ul> <ul> <li> <p>Must be fully self-contained (heat source enclosed and no exposed flame) and never left unattended when in use. Appliances that are not fully self-contained, such as braziers, are not permitted.&nbsp;</p> </li> </ul> <p>All appliances, materials and burnt fuel must be removed from the area on your departure.&nbsp;</p> <p>Visitors must comply with this fire prohibition, on-site signs and any directions given by Rangers. On-the-spot fines may be issued for non-compliance.&nbsp;</p> <p>QPWS will continue to monitor the situation and update this Park Alert should conditions change.&nbsp;</p> <p>To report any wildfires, call Triple Zero (000)&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please obey all fire restrictions.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-09-22",
-      "start_effective_date": "2026-09-22",
-      "end_date": "2026-10-13",
-      "parks": [
-        {
-          "id": "148159",
-          "name": "Sundown National Park",
-          "url": "https://parks.qld.gov.au/parks/sundown"
         }
       ]
     },
@@ -3065,15 +3029,15 @@
       ]
     },
     {
-      "title": "Wild Pig Baiting Program 14-28 October 2026",
+      "title": "Eungella National Park and Cathu State Forest Wild Pig Baiting Program postponed",
       "alert_id": "27078",
       "url": "https://parks.qld.gov.au/park-alerts/27079",
-      "description": "A QPWS and Mackay Regional Council coordinated 1080 wild pig baiting program will be undertaken within Eungella National Park and Cathu State Forest on Wednesday 14th October 2026 (weather permitting).",
-      "details": "<p>A QPWS and Mackay Regional Council coordinated 1080 wild pig baiting program will be undertaken within Eungella National Park and Cathu State Forest on Wednesday 14th October 2026 (weather permitting).</p> <p>Where possible, any remaining baits will be collected from Wednesday 28 October 2026.</p> <p>Visitors to Eungella National Park and Cathu State Forest are advised that 1080 poison baits will be present during the baiting program.</p> <p>For your safety:</p> <p>&bull; Do not touch, move or interfere with bait.</p> <p>&bull; Take particular care when accessing the forest during the baiting period and follow all signs and directions in place.</p> <p>&bull; Do not allow dogs to roam into Eungella National Park and Cathu State Forest or consume bait, carcasses or other material that may have been exposed to 1080.</p> <p>The baiting program is being undertaken as part of coordinated feral pig management to reduce impacts on environmental values and surrounding land.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "description": "Due to forecast adverse weather conditions, Mackay Regional Council has postponed the planned aerial baiting program",
+      "details": "<p>Due to forecast adverse weather conditions, Mackay Regional Council has postponed the planned aerial baiting program</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Announcement",
-      "start_date": "2026-10-12",
+      "start_date": "2026-10-13",
       "start_effective_date": "2026-10-12",
-      "end_date": "2026-11-20",
+      "end_date": "2026-10-23",
       "parks": [
         {
           "id": "148027",
@@ -3156,6 +3120,65 @@
           "id": "148818",
           "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
           "url": "https://parks.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Main Range National Park",
+      "alert_id": "27084",
+      "url": "https://parks.qld.gov.au/park-alerts/27085",
+      "description": "Due to a current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to a current bushfire, some areas are temporarily closed in Main Range National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>Closed areas:</p> <ul> <li> <p>The Steamers Remote Walk</p> </li> <li> <p>Steamer Saddle Remote Camp</p> </li> <li> <p>The Stern Remote Camp</p> </li> </ul> <p>Access to Lizard South Remote Camp is through the southern route from The Head / Teviot Falls only.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-10-13",
+      "start_effective_date": "2026-10-13",
+      "end_date": "2026-10-18",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Mt Moffatt section, Carnarvon National Park",
+      "alert_id": "27085",
+      "url": "https://parks.qld.gov.au/park-alerts/27086",
+      "description": "Due to current bushfire, some areas are temporarily closed in the Mt Moffatt section of Carnarvon National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
+      "details": "<p>Due to current bushfire, some areas are temporarily closed in the Mt Moffatt section of Carnarvon National Park. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p><strong>Closed areas:</strong></p> <p><strong>Gadd&#39;s walkers camp</strong></p> <p><strong>Top Moffatt camping area</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-10-13",
+      "start_effective_date": "2026-10-13",
+      "end_date": "2026-10-19",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-mount-moffatt"
+        },
+        {
+          "id": "148864",
+          "name": "Carnarvon Gorge, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-gorge"
+        }
+      ]
+    },
+    {
+      "title": "Temporary road and track closures due to planned burn operations: Tumoulin National Park",
+      "alert_id": "27086",
+      "url": "https://parks.qld.gov.au/park-alerts/27087",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from Wednesday 14 October to Thursday 15 October 2026 (weather permitting) within Tumoulin National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns from Wednesday 14 October to Thursday 15 October 2026 (weather permitting) within Tumoulin National Park.</p> <p>During this time the following sections of roads and tracks will be closed:</p> <ul> <li>Smith Road and adjoining power easement (White Stringy break) to the south.</li> <li>North end of Monument Street and adjoining power easement (White Stringy break).</li> </ul> <p>The remaining road network and visitor facilities will remain open.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Smoke may be visible&nbsp; Ravenshoe and Tumoulin townships.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating effects of smoke inhalation.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-10-13",
+      "start_effective_date": "2026-10-14",
+      "end_date": "2026-10-15",
+      "parks": [
+        {
+          "id": "148099",
+          "name": "Tumoulin State Forest and Tumoulin Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/tumoulin"
         }
       ]
     }
