@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 156,
-    "script_run_time": "2026-10-13 17:11:37"
+    "alerts_count": 158,
+    "script_run_time": "2026-10-14 14:44:26"
   },
   "alerts": [
     {
@@ -823,9 +823,9 @@
       "alert_id": "26107",
       "url": "https://parks.qld.gov.au/park-alerts/26107",
       "description": "Access to Moon Point via Moon Point Road and Bullock Road remains CLOSED due to damage caused by recent weather conditions. Access to Moon Point and Moon Point Camp Area via BOAT ONLY. Stay alert for hazards and drive to suit the conditions.",
-      "details": "<p>Access to Moon Point via Moon Point Road and Bullock Road remains CLOSED due to damage caused by recent weather conditions. Access to Moon Point and Moon Point Camp Area via BOAT ONLY. Stay alert for hazards and drive to suit the conditions.</p> <p>The following areas remain closed:<br /> &bull; Moon Point Road from Moon Point Road and Bullock Road intersection</p> <p>Partially open areas:<br /> &bull; Moon Point Road accessible from Happy Valley to Bullock Road intersection</p> <p>Open areas:<br /> &bull; Bullock Road<br /> &bull; Northern Road</p> <p><br /> Commercial tour operators and other permit or agreement holders are not permitted to enter areas that remain closed.<br /> &nbsp;</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "details": "<p>Access to Moon Point via Moon Point Road and Bullock Road remains CLOSED due to damage caused by recent weather conditions. Access to Moon Point and Moon Point Camp Area via BOAT ONLY. Stay alert for hazards and drive to suit the conditions.</p> <p>The following areas remain closed:</p> <ul> <li>Moon Point Road from Moon Point Road and Bullock Road intersection</li> </ul> <p>Partially open areas:</p> <ul> <li>Moon Point Road accessible from Happy Valley to Bullock Road intersection</li> <li>Northern Road</li> </ul> <p>Open areas:</p> <ul> <li>Bullock Road</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter areas that remain closed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
       "category": "Park or facility closure",
-      "start_date": "2026-06-30",
+      "start_date": "2026-10-14",
       "start_effective_date": "2026-01-14",
       "end_date": "2027-01-30",
       "parks": [
@@ -1534,12 +1534,12 @@
       "title": "Kinkuna section, Burrum Coast National Park - changed conditions",
       "alert_id": "26599",
       "url": "https://parks.qld.gov.au/park-alerts/26599",
-      "description": "Kinkuna bush camping is open with access to the camping area and beach permitted via the Southern beach access road, off Woodgate Road only.",
-      "details": "<p>Kinkuna bush camping is open with access to the camping area and beach permitted via the Southern beach access road, off Woodgate Road only.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been blocked off for rehabilitation purposes. &nbsp;</p> <p>Access from the north of the National Park to the beach and camping area from Coonar road, remains unsafe for vehicle use and remains closed to the public.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "description": "Kinkuna bush camping is open with access to the camping area and beach permitted via Southern beach access road, off Woodgate road and Palm beach road, off Coonarr road.",
+      "details": "<p>Kinkuna bush camping is open with access to the camping area and beach permitted via Southern beach access road, off Woodgate road and Palm beach road, off Coonarr road.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been blocked off for rehabilitation purposes. &nbsp;</p> <p>Conditions can change and roads, can be closed due to flooding for safety of public and protection of the National Park.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply for non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2026-08-11",
-      "start_effective_date": "2026-06-04",
-      "end_date": "2026-11-04",
+      "start_date": "2026-10-14",
+      "start_effective_date": "2026-10-14",
+      "end_date": "2027-03-04",
       "parks": [
         {
           "id": "148436",
@@ -1771,29 +1771,6 @@
           "id": "148075",
           "name": "Welford National Park",
           "url": "https://parks.qld.gov.au/parks/welford"
-        }
-      ]
-    },
-    {
-      "title": "Deceased Whale on Beach",
-      "alert_id": "26788",
-      "url": "https://parks.qld.gov.au/park-alerts/26788",
-      "description": "Visitors are advised that a deceased whale has washed ashore on Carree beachfront. Please keep your distance and do not touch or approach the whale.",
-      "details": "<p>Visitors are advised that a deceased whale has washed ashore on Carree beachfront. Please keep your distance and do not touch or approach the whale.</p> <p><strong>Visitors are advised that:</strong></p> <ul> <li>Do not touch or approach the deceased whale as it may carry zoonotic diseases or Avian Influenza (H5N1).</li> <li>This may attract sharks and heighten dingo activity in the area. Know your dingo do&rsquo;s and don&rsquo;ts and be dingo-safe at all times.</li> <li>QPWS Rangers conduct regular patrols. If you are on the beach, please maintain a safe distance and follow all directions.</li> <li>Swimming is not recommended at beaches not patrolled by Queensland surf lifesavers.</li> <li>Swimming or entering the water at this location and surrounding waters is not recommended.</li> <li>Medical assistance in remote areas is limited.</li> </ul> <p>&nbsp;</p> <p>In an emergency, call Triple Zero (000).</p> <p>For your safety, please use caution while visiting the park.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department&rsquo;s website for updated information.</p> <p><strong>Be dingo-safe! </strong>For more information visit <a href=\"https://parks.qld.gov.au/parks/kgari-fraser/about/wongari-dingoes/dingo-safe\">Be dingo-safe on K&rsquo;gari</a>.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
-      "category": "Other",
-      "start_date": "2026-07-22",
-      "start_effective_date": "2026-07-22",
-      "end_date": "2026-10-22",
-      "parks": [
-        {
-          "id": "148007",
-          "name": "K'gari, Great Sandy National Park",
-          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
-        },
-        {
-          "id": "152843",
-          "name": "K'gari Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
         }
       ]
     },
@@ -2252,10 +2229,10 @@
       "title": "Northern Forests scenic drive CLOSED, detour in place",
       "alert_id": "26988",
       "url": "https://parks.qld.gov.au/park-alerts/26988",
-      "description": "The Northern Forests scenic drive between the junction of Bullock link Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.",
-      "details": "<p>The Northern Forests scenic drive between the junction of Bullock link Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.</p> <p>A detour is in place via Bullock link Road and Woralie Road. The bridge and section of road will open to vehicles when the issue is rectified.</p> <p>For your safety, observe all signage and barriers and do no enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a><strong> </strong>on the department&rsquo;s website for updated information.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
+      "description": "The Northern Forests scenic drive between the junction of Bullock link Road and Northern Road, and Woralie Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.",
+      "details": "<p>The Northern Forests scenic drive between the junction of Bullock link Road and Northern Road, and Woralie Road and Northern Road is CLOSED until further notice due to a structural failure identified in the timber bridge.</p> <p>A detour is in place via Bullock link Road and Woralie Road. The bridge and section of road will open to vehicles when the issue is rectified.</p> <p>For your safety, observe all signage and barriers and do no enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a><strong> </strong>on the department&rsquo;s website for updated information.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
       "category": "Park or facility closure",
-      "start_date": "2026-09-21",
+      "start_date": "2026-10-14",
       "start_effective_date": "2026-09-07",
       "end_date": "2027-09-07",
       "parks": [
@@ -2844,24 +2821,6 @@
       ]
     },
     {
-      "title": "1080 Wild Pig Baiting Program 14-28 October 2026",
-      "alert_id": "27068",
-      "url": "https://parks.qld.gov.au/park-alerts/27068",
-      "description": "A QPWS and Mackay Regional Council coordinated 1080 wild pig baiting program will be undertaken within Cathu State Forest on Wednesday 14th October 2026 (weather permitting).",
-      "details": "<p>A QPWS and Mackay Regional Council coordinated 1080 wild pig baiting program will be undertaken within Cathu State Forest on Wednesday 14th October 2026 (weather permitting).</p> <p>Where possible, any remaining baits will be collected from Wednesday 28 October 2026.</p> <p>Visitors to Cathu State Forest are advised that 1080 poison baits will be present during the baiting program.</p> <p>For your safety:</p> <p>&bull; Keep dogs securely restrained.</p> <p>&bull; Do not allow dogs to roam or consume bait, carcasses or other material that may have been exposed to 1080.</p> <p>&bull; Do not touch, move or interfere with bait.</p> <p>&bull; Take particular care when accessing the forest during the baiting period and follow all signs and directions in place.</p> <p>The baiting program is being undertaken as part of coordinated feral pig management to reduce impacts on environmental values and surrounding land.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
-      "category": "Other",
-      "start_date": "2026-10-08",
-      "start_effective_date": "2026-10-09",
-      "end_date": "2026-11-20",
-      "parks": [
-        {
-          "id": "148027",
-          "name": "Cathu State Forest",
-          "url": "https://parks.qld.gov.au/parks/cathu"
-        }
-      ]
-    },
-    {
       "title": "Feral Pig Control",
       "alert_id": "27069",
       "url": "https://parks.qld.gov.au/park-alerts/27069",
@@ -3179,6 +3138,83 @@
           "id": "148099",
           "name": "Tumoulin State Forest and Tumoulin Forest Reserve",
           "url": "https://parks.qld.gov.au/parks/tumoulin"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of listed camping areas: Rinyirru (Lakefield) National Park (CYPAL)",
+      "alert_id": "27088",
+      "url": "https://parks.qld.gov.au/park-alerts/27089",
+      "description": "Queensland Parks and Wildlife Service have closed the following camping areas in Rinyirru (Lakefield) National Park (CYPAL) from 1 November 2026 until the start of the annual wet season closure on 1 December 2026 for management purposes:",
+      "details": "<p>Queensland Parks and Wildlife Service have closed the following camping areas in Rinyirru (Lakefield) National Park (CYPAL) from 1 November 2026 until the start of the annual wet season closure on 1 December 2026 for management purposes:</p> <ul> <li>Welcome Waterhole camping area</li> <li>Horseshoe lagoon camping area</li> <li>Six Mile Lagoon camping area</li> <li>Twelve Mile Lagoon camping area</li> <li>Kennedy Bend camping area</li> <li>Old Faithful Waterhole camping area</li> <li>Dingo Waterhole camping area</li> <li>Mick Fienn Waterhole camping area</li> <li>Midway Waterhole camping area</li> <li>Hanush Waterhole camping area</li> <li>Melaleuca Waterhole camping area</li> <li>Seven Mile Waterhole camping area</li> <li>Basin Hole camping area</li> <li>Orange Plain Waterhole camping area</li> <li>Bottom Whiphandle Waterhole camping area</li> <li>Top Whiphandle Waterhole camping area</li> <li>Five Mile Creek camping area</li> <li>Sweetwater Lagoon camping area</li> </ul> <p><strong>The following camping areas will remain open up to and including 30 November 2026 (closed from 1 December 2026 for the annual wet season closure):</strong></p> <ul> <li>Old Laura camping area</li> <li>Kalpowar crossing camping area</li> <li>Hann crossing camping area</li> <li>Brown Creek camping area</li> <li>Bizant River camping area</li> <li>Saltwater crossing camping area</li> <li>Annie River camping area</li> </ul> <p><strong>For campers with an existing booking between 1 November and 30 November 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.&nbsp;</strong></p> <p>Should you require further information please contact the Ranger in Charge on 0427 577 931.</p> <p>&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-14",
+      "start_effective_date": "2026-11-01",
+      "end_date": "2026-11-30",
+      "parks": [
+        {
+          "id": "149481",
+          "name": "Rinyirru (Lakefield) National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/rinyirru-lakefield"
+        }
+      ]
+    },
+    {
+      "title": "Road maintenance works: Bathurst Bay and Ninian Bay access roads, Cape Melville National Park (CYPAL)",
+      "alert_id": "27090",
+      "url": "https://parks.qld.gov.au/park-alerts/27090",
+      "description": "Queensland Parks and Wildlife Service will be conducting maintenance works along the access roads into Bathurst Bay and Ninian Bay, within Cape Melville National Park (CYPAL) from Wednesday 14 October to Friday 30 October 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting maintenance works along the access roads into Bathurst Bay and Ninian Bay, within Cape Melville National Park (CYPAL) from Wednesday 14 October to Friday 30 October 2026 (dates inclusive).</p> <p>Heavy machinery will be operating in the area.</p> <p>For your safety:</p> <ul> <li>slow down and observe all directions and signs</li> <li>proceed with caution along all park access roads and drive according to conditions</li> </ul>",
+      "category": "Announcement",
+      "start_date": "2026-10-14",
+      "start_effective_date": "2026-10-14",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "148725",
+          "name": "Cape Melville National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/cape-melville"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal closure  Cooloola Great Walk",
+      "alert_id": "27091",
+      "url": "https://parks.qld.gov.au/park-alerts/27091",
+      "description": "The Cooloola Great Walk, including all associated walkers&#039; camps, will be seasonally closed from 1 December 2026 to 28 February 2027.",
+      "details": "<p>The Cooloola Great Walk, including all associated walkers&#039; camps, will be seasonally closed from 1 December 2026 to 28 February 2027.</p> <p>The seasonal closure is in place for visitor safety due to heightened bushfire danger, the increased risk of severe weather and associated hazardous conditions during the summer months.</p> <p>The closure applies to the entire Cooloola Great Walk, including Brahminy, Dutgee, Litoria and Kauri walkers&#39; camps.</p> <p>All camping permits for the affected areas are suspended for the duration of the closure.</p> <p>Conditions will be monitored throughout the closure period, with the possibility of an earlier reopening should conditions be assessed as safe.</p> <p>Visitors are advised to plan their walks outside the closure period and check current Park Alerts for updates before travelling.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-14",
+      "start_effective_date": "2026-12-01",
+      "end_date": "2027-02-28",
+      "parks": [
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
+        },
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure Scrub Rd/Red Ash causeways",
+      "alert_id": "27092",
+      "url": "https://parks.qld.gov.au/park-alerts/27092",
+      "description": "Scrub Road causeway and Red Ash (Bellbird Grove) causeway will be closed periodically between Wednesday 14 October and Friday 30 October for flood repair works.",
+      "details": "<p>Scrub Road causeway and Red Ash (Bellbird Grove) causeway will be closed periodically between Wednesday 14 October and Friday 30 October for flood repair works.</p> <p>Access to Scrub Road bushcamp can be made via South Boundary Road (Bullockys Dam gate - Mt Nebo) as an alternative route to Scrub Road.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-14",
+      "start_effective_date": "2026-10-14",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     }
