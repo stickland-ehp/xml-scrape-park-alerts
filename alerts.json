@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 149,
-    "script_run_time": "2026-10-19 16:39:48"
+    "alerts_count": 157,
+    "script_run_time": "2026-10-20 14:32:12"
   },
   "alerts": [
     {
@@ -2722,12 +2722,12 @@
       "title": "Construction works and temporary bird hide closure: Keatings Lagoon Conservation Park",
       "alert_id": "27080",
       "url": "https://parks.qld.gov.au/park-alerts/27081",
-      "description": "Contractors will be undertaking construction work in Keatings Lagoon Conservation Park between Tuesday 13 October and Friday 23 October 2026 (dates inclusive).",
-      "details": "<p>Contractors will be undertaking construction work in Keatings Lagoon Conservation Park between Tuesday 13 October and Friday 23 October 2026 (dates inclusive).</p> <p>See below for further information about visitor facilities during this period:</p> <ul> <li>walking track - <strong>open</strong></li> <li>day-use area - <strong>open</strong></li> <li>bird hide - <strong>closed</strong></li> <li>car park and access&nbsp;road - <strong>open</strong> but visitors are advised to use caution when entering and leaving the car park as heavy plant&nbsp;and equipment will be active in this area.</li> </ul> <p>For your safety, please obey all signage, barriers and directions from construction workers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "Contractors will be undertaking construction work in Keatings Lagoon Conservation Park between Tuesday 13 October and Friday 30 October 2026 (dates inclusive).",
+      "details": "<p>Contractors will be undertaking construction work in Keatings Lagoon Conservation Park between Tuesday 13 October and Friday 30 October 2026 (dates inclusive).</p> <p>See below for further information about visitor facilities during this period:</p> <ul> <li>walking track - <strong>open</strong></li> <li>day-use area - <strong>open</strong></li> <li>bird hide - <strong>closed</strong></li> <li>car park and access&nbsp;road - <strong>open</strong> but visitors are advised to use caution when entering and leaving the car park as heavy plant&nbsp;and equipment will be active in this area.</li> </ul> <p>For your safety, please obey all signage, barriers and directions from construction workers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-12",
+      "start_date": "2026-10-20",
       "start_effective_date": "2026-10-13",
-      "end_date": "2026-10-23",
+      "end_date": "2026-10-30",
       "parks": [
         {
           "id": "148844",
@@ -2978,6 +2978,24 @@
       ]
     },
     {
+      "title": "Woondum National Park wet weather road closures",
+      "alert_id": "27102",
+      "url": "https://parks.qld.gov.au/park-alerts/27102",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>Closed areas:</p> <ul> <li>Madill Rd</li> <li>Coomber Rd</li> <li>Traveston Rd</li> </ul> <p>QPWS Rangers are monitoring the situation.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-10-20",
+      "end_date": "2026-11-03",
+      "parks": [
+        {
+          "id": "148111",
+          "name": "Woondum National Park",
+          "url": "https://parks.qld.gov.au/parks/woondum"
+        }
+      ]
+    },
+    {
       "title": "Bogimbah Road Partial Closure",
       "alert_id": "27103",
       "url": "https://parks.qld.gov.au/park-alerts/27103",
@@ -3043,6 +3061,137 @@
           "id": "147975",
           "name": "Conway National Park and Conway Conservation Park",
           "url": "https://parks.qld.gov.au/parks/conway"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Culgoa Floodplain National Park",
+      "alert_id": "27106",
+      "url": "https://parks.qld.gov.au/park-alerts/27106",
+      "description": "As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.",
+      "details": "<p>As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-10-19",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "149497",
+          "name": "Culgoa Floodplain National Park",
+          "url": "https://parks.qld.gov.au/parks/culgoa-floodplain"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Conondale National Park",
+      "alert_id": "27107",
+      "url": "https://parks.qld.gov.au/park-alerts/27107",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>Closed areas:</p> <p>Scenic Drive - Booloumba Creek Road from Booloumba Creek 4 camping area to Booloumba Falls carpark.<br /> Scenic Drive - Funnels Hut Road from Sunday Creek Road to Booloumba Falls carpark.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit holders are not permitted to enter closed areas.</p> <p>Please monitor park alerts on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-10-20",
+      "end_date": "2026-10-28",
+      "parks": [
+        {
+          "id": "147991",
+          "name": "Imbil State Forest",
+          "url": "https://parks.qld.gov.au/parks/imbil"
+        },
+        {
+          "id": "148043",
+          "name": "Conondale National Park",
+          "url": "https://parks.qld.gov.au/parks/conondale"
+        }
+      ]
+    },
+    {
+      "title": "Increased insect activity: Murray Falls camping and day-use area, Girramay National Park",
+      "alert_id": "27108",
+      "url": "https://parks.qld.gov.au/park-alerts/27108",
+      "description": "Recent warmer weather has seen increased levels of insect activity.",
+      "details": "<p>Recent warmer weather has seen increased levels of insect activity.</p> <p>Insects that maybe encountered include&nbsp;march flies, mosquitos and midges.</p> <p>&nbsp;Campers and visitors should avoid insect bites by:</p> <ul> <li>applying suitable repellent</li> <li>wearing long sleeve shirts and long pants to cover exposed skin.</li> </ul>",
+      "category": "Announcement",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-10-20",
+      "end_date": "2027-02-01",
+      "parks": [
+        {
+          "id": "148127",
+          "name": "Girramay National Park",
+          "url": "https://parks.qld.gov.au/parks/girramay"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure Oiling  Nara Inlet",
+      "alert_id": "27110",
+      "url": "https://parks.qld.gov.au/park-alerts/27110",
+      "description": "Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Nara Inlet, Hook Island lookout from 16 November to 19 November (weather dependant) During this period:  Sections of the lookout platforms and surrounding day-use areas may be temporarily closed.  Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway. For further updates, please monitor park alerts and plan your visit accordingly. For more information, please contact 07 4962 5205",
+      "details": "<p>Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Nara Inlet, Hook Island lookout from 16 November to 19 November (weather dependant) During this period:  Sections of the lookout platforms and surrounding day-use areas may be temporarily closed.  Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway. For further updates, please monitor park alerts and plan your visit accordingly. For more information, please contact 07 4962 5205</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-11-16",
+      "end_date": "2026-11-19",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure repairs - Tongue Point, Whitsunday Island",
+      "alert_id": "27111",
+      "url": "https://parks.qld.gov.au/park-alerts/27111",
+      "description": "Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Hill Inlet, Tongue Point from 30 November to 4 December (weather dependent). During this period:  Sections of the lookout platforms, boardwalks and surrounding day-use areas may be temporarily closed.  Please note, at least one Hill Inlet lookout will remain open for park users.  The Tongue Point toilets will be closed for short period for cleaning and oiling. Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway.",
+      "details": "<p>Visitors are advised that QPWS Rangers will be conducting scheduled oiling and maintenance works on all park infrastructure at Hill Inlet, Tongue Point from 30 November to 4 December (weather dependent). During this period:  Sections of the lookout platforms, boardwalks and surrounding day-use areas may be temporarily closed.  Please note, at least one Hill Inlet lookout will remain open for park users.  The Tongue Point toilets will be closed for short period for cleaning and oiling. Please observe all signage and barriers, remain on designated walkways and comply with directions from QPWS Rangers. These works are essential to maintain visitor safety and protect the long-term condition of the site. We appreciate your patience and cooperation while maintenance is underway.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access - Mount Moffatt, Carnarvon National Park",
+      "alert_id": "27112",
+      "url": "https://parks.qld.gov.au/park-alerts/27112",
+      "description": "As a result of wet weather, Mount Moffatt section of Carnarvon National Park is closed until considered safe.",
+      "details": "<p>As a result of wet weather, Mount Moffatt section of Carnarvon National Park is closed until considered safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-10-20",
+      "end_date": "2026-10-22",
+      "parks": [
+        {
+          "id": "151343",
+          "name": "Mount Moffatt, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-mount-moffatt"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Daisy Hill Conservation Park",
+      "alert_id": "27113",
+      "url": "https://parks.qld.gov.au/park-alerts/27113",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Red Earth Run MTB Track</li> <li>Wedgetail MTB&nbsp;Track</li> <li>Firetail MTB Track</li> <li>Tusked Frog MTB Track</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-20",
+      "start_effective_date": "2026-10-20",
+      "end_date": "2026-10-26",
+      "parks": [
+        {
+          "id": "148560",
+          "name": "Daisy Hill Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill"
         }
       ]
     }
