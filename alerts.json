@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 174,
-    "script_run_time": "2026-10-23 14:29:53"
+    "alerts_count": 177,
+    "script_run_time": "2026-10-24 13:41:18"
   },
   "alerts": [
     {
@@ -1508,15 +1508,15 @@
       ]
     },
     {
-      "title": "Kinkuna section, Burrum Coast National Park - changed conditions",
+      "title": "Kinkuna section, Burrum Coast National Park - Water over road",
       "alert_id": "26599",
       "url": "https://parks.qld.gov.au/park-alerts/26599",
-      "description": "Kinkuna bush camping is open with access to the camping area and beach permitted via Southern beach access road, off Woodgate road and Palm beach road, off Coonarr road.",
-      "details": "<p>Kinkuna bush camping is open with access to the camping area and beach permitted via Southern beach access road, off Woodgate road and Palm beach road, off Coonarr road.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been blocked off for rehabilitation purposes. &nbsp;</p> <p>Conditions can change and roads, can be closed due to flooding for safety of public and protection of the National Park.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply for non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "description": "Due to recent heavy rainfall and flooding, the northern National Park access off Coonarr road, has been temporarily closed.",
+      "details": "<p>Due to recent heavy rainfall and flooding, the northern National Park access off Coonarr road, has been temporarily closed.</p> <p>Kinkuna bush camping is open with access to the camping area and beach permitted via Southern beach access road.</p> <p>Conditions can change quickly and roads, can be closed due to flooding for safety of public and protection of the National Park. If the road is flooded, do not access the area.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been closed off for rehabilitation purposes. &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply for non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Park or facility opening",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-23",
       "start_effective_date": "2026-10-14",
-      "end_date": "2027-03-04",
+      "end_date": "2026-11-25",
       "parks": [
         {
           "id": "148436",
@@ -2085,24 +2085,6 @@
       ]
     },
     {
-      "title": "Florence Bay toilets closed for maintenance",
-      "alert_id": "26983",
-      "url": "https://parks.qld.gov.au/park-alerts/26983",
-      "description": "The Florence Bay toilets are closed for maintenance works to repair the decking.",
-      "details": "<p>The Florence Bay toilets are closed for maintenance works to repair the decking.</p> <p>Access to the toilet will be restricted for public safety during works 15 September - 23 October 2026.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-06",
-      "start_effective_date": "2026-09-15",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148961",
-          "name": "Magnetic Island National Park",
-          "url": "https://parks.qld.gov.au/parks/magnetic-island"
-        }
-      ]
-    },
-    {
       "title": "Authorised Pest Management",
       "alert_id": "26985",
       "url": "https://parks.qld.gov.au/park-alerts/26985",
@@ -2406,24 +2388,6 @@
       ]
     },
     {
-      "title": "Temporary track closure due to planned burn operations: Blue Gum circuit track (off H track), Paluma Range National Park",
-      "alert_id": "27046",
-      "url": "https://parks.qld.gov.au/park-alerts/27046",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Paluma Range National Park between Friday 9 October and Friday 23 October 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) within Paluma Range National Park between Friday 9 October and Friday 23 October 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p><strong>For your safety, the Blue Gum circuit track (off H track) is closed during this period.</strong></p> <p>Smoke, firefighters, aircraft and machinery may be seen in the vicinity of:</p> <ul> <li>Paluma-Ewan Road from Paluma township to Taravale Road</li> <li>Taravale Road</li> <li>H track</li> <li>Blue Gum circuit track</li> <li>Upper reaches of Star River and Smith Creek</li> </ul> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">fire management </a>webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department&#39;s website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-10-07",
-      "start_effective_date": "2026-10-09",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
-        }
-      ]
-    },
-    {
       "title": "Seasonal closure - Taylor Cay on Taylor Reef (17-064)",
       "alert_id": "27048",
       "url": "https://parks.qld.gov.au/park-alerts/27048",
@@ -2542,29 +2506,6 @@
       ]
     },
     {
-      "title": "Feral Pig Control",
-      "alert_id": "27069",
-      "url": "https://parks.qld.gov.au/park-alerts/27069",
-      "description": "Queensland Parks and Wildlife Service will be undertaking a feral pig control program on the Mt Archer National Park and State Forest to assist with the protection of native wildlife on the park. This is part of an ongoing, integrated strategy to reduce feral pig numbers.",
-      "details": "<p>Queensland Parks and Wildlife Service will be undertaking a feral pig control program on the Mt Archer National Park and State Forest to assist with the protection of native wildlife on the park. This is part of an ongoing, integrated strategy to reduce feral pig numbers.</p> <p>This feral pig control method has been chosen for its safety in relation to native flora and fauna and other non-target species and to minimise the risk to straying domestic animals.</p> <p>All control activities are conducted in accordance with the pest management plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.</p> <p>Firearms and traps may be in use.&nbsp;</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please visit this park's page on the department's website for more park safety information.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-08",
-      "start_effective_date": "2026-10-08",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "322341",
-          "name": "Mount Archer State Forest",
-          "url": ""
-        },
-        {
-          "id": "148520",
-          "name": "Mount Archer National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-archer"
-        }
-      ]
-    },
-    {
       "title": "Seasonal bushfire risk: Bulleringa National Park",
       "alert_id": "27071",
       "url": "https://parks.qld.gov.au/park-alerts/27072",
@@ -2655,65 +2596,6 @@
       ]
     },
     {
-      "title": "Planned Works for Stony Creek Day Use Area Access Road",
-      "alert_id": "27076",
-      "url": "https://parks.qld.gov.au/park-alerts/27077",
-      "description": "Moreton Bay City Council are conducting upgrades to Fletcher Road, which provides access to Stony Creek Day Use Area, over the next 3 weeks (weather permitting)",
-      "details": "<p>Moreton Bay City Council are conducting upgrades to Fletcher Road, which provides access to Stony Creek Day Use Area, over the next 3 weeks (weather permitting)</p> <p>Stony Creek Day Use Area will have have changed conditions for the duration of the upgrade program.</p> <p>Visitors may experiance temporary delays and a reduction in available parking area due to road works.</p> <p>Road works are planned for Monday to Friday only and there should be no change to weekend access.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please slow down and observe all directions and signs.</p>",
-      "category": "Other",
-      "start_date": "2026-10-09",
-      "start_effective_date": "2026-10-08",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148400",
-          "name": "Bellthorpe National Park",
-          "url": "https://parks.qld.gov.au/parks/bellthorpe"
-        }
-      ]
-    },
-    {
-      "title": "Planned works Girraween visitor information building",
-      "alert_id": "27077",
-      "url": "https://parks.qld.gov.au/park-alerts/27078",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned upgrade at Girraween National Park from 19 to 23 October (weather permitting).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned upgrade at Girraween National Park from 19 to 23 October (weather permitting).</p> <p>The following areas at the Girraween visitor information building will have changed conditions for the duration of the upgrade program:&nbsp;</p> <ul> <li> <p>&nbsp; The all-accessible boardwalk.</p> </li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Other",
-      "start_date": "2026-10-09",
-      "start_effective_date": "2026-10-19",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148087",
-          "name": "Girraween National Park",
-          "url": "https://parks.qld.gov.au/parks/girraween"
-        }
-      ]
-    },
-    {
-      "title": "Eungella National Park and Cathu State Forest Wild Pig Baiting Program postponed",
-      "alert_id": "27078",
-      "url": "https://parks.qld.gov.au/park-alerts/27079",
-      "description": "Due to forecast adverse weather conditions, Mackay Regional Council has postponed the planned aerial baiting program",
-      "details": "<p>Due to forecast adverse weather conditions, Mackay Regional Council has postponed the planned aerial baiting program</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-13",
-      "start_effective_date": "2026-10-12",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148027",
-          "name": "Cathu State Forest",
-          "url": "https://parks.qld.gov.au/parks/cathu"
-        },
-        {
-          "id": "148295",
-          "name": "Eungella National Park",
-          "url": "https://parks.qld.gov.au/parks/eungella"
-        }
-      ]
-    },
-    {
       "title": "Temporary partial walking trail closure: Hallorans Hill Conservation Park",
       "alert_id": "27079",
       "url": "https://parks.qld.gov.au/park-alerts/27080",
@@ -2778,13 +2660,13 @@
       ]
     },
     {
-      "title": "Temporary closure of listed camping areas: Rinyirru (Lakefield) National Park (CYPAL)",
+      "title": "Temporary closure of listed camping and day-use areas: Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "27088",
       "url": "https://parks.qld.gov.au/park-alerts/27089",
-      "description": "Queensland Parks and Wildlife Service have closed the following camping areas in Rinyirru (Lakefield) National Park (CYPAL) from 1 November 2026 until the start of the annual wet season closure on 1 December 2026 for management purposes:",
-      "details": "<p>Queensland Parks and Wildlife Service have closed the following camping areas in Rinyirru (Lakefield) National Park (CYPAL) from 1 November 2026 until the start of the annual wet season closure on 1 December 2026 for management purposes:</p> <ul> <li>Welcome Waterhole camping area</li> <li>Horseshoe lagoon camping area</li> <li>Six Mile Lagoon camping area</li> <li>Twelve Mile Lagoon camping area</li> <li>Kennedy Bend camping area</li> <li>Old Faithful Waterhole camping area</li> <li>Dingo Waterhole camping area</li> <li>Mick Fienn Waterhole camping area</li> <li>Midway Waterhole camping area</li> <li>Hanush Waterhole camping area</li> <li>Melaleuca Waterhole camping area</li> <li>Seven Mile Waterhole camping area</li> <li>Basin Hole camping area</li> <li>Orange Plain Waterhole camping area</li> <li>Bottom Whiphandle Waterhole camping area</li> <li>Top Whiphandle Waterhole camping area</li> <li>Five Mile Creek camping area</li> <li>Sweetwater Lagoon camping area</li> </ul> <p><strong>The following camping areas will remain open up to and including 30 November 2026 (closed from 1 December 2026 for the annual wet season closure):</strong></p> <ul> <li>Old Laura camping area</li> <li>Kalpowar crossing camping area</li> <li>Hann crossing camping area</li> <li>Brown Creek camping area</li> <li>Bizant River camping area</li> <li>Saltwater crossing camping area</li> <li>Annie River camping area</li> </ul> <p><strong>For campers with an existing booking between 1 November and 30 November 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.&nbsp;</strong></p> <p>Should you require further information please contact the Ranger in Charge on 0427 577 931.</p> <p>&nbsp;</p>",
+      "description": "Queensland Parks and Wildlife Service will close the following camping and day-use areas in Rinyirru (Lakefield) National Park (CYPAL) from 1 November 2026 until the start of the annual wet season closure on 1 December 2026 for management purposes.",
+      "details": "<p>Queensland Parks and Wildlife Service will close the following camping and day-use areas in Rinyirru (Lakefield) National Park (CYPAL) from 1 November 2026 until the start of the annual wet season closure on 1 December 2026 for management purposes.</p> <p>Visitors are advised that there will be no access for camping, day-use or fishing at these areas during this period:</p> <ul> <li>Catfish Waterhole</li> <li>Welcome Waterhole camping area</li> <li>Horseshoe lagoon camping area and day-use area</li> <li>Six Mile Lagoon camping area</li> <li>Twelve Mile Lagoon camping area</li> <li>Kennedy Bend camping area</li> <li>Old Faithful Waterhole camping area</li> <li>Dingo Waterhole camping area</li> <li>Mick Fienn Waterhole camping area</li> <li>Midway Waterhole camping area</li> <li>Hanush Waterhole camping area</li> <li>Melaleuca Waterhole camping area</li> <li>Seven Mile Waterhole camping area and day-use area</li> <li>Basin Hole camping area</li> <li>Orange Plain Waterhole camping area</li> <li>Bottom Whiphandle Waterhole camping area</li> <li>Top Whiphandle Waterhole camping area</li> <li>Five Mile Creek camping area</li> <li>Sweetwater Lagoon camping area</li> </ul> <p><strong>The following camping areas will remain open up to and including 30 November 2026 (closed from 1 December 2026 for the annual wet season closure):</strong></p> <ul> <li>Old Laura camping area</li> <li>Kalpowar crossing camping area</li> <li>Hann crossing camping area</li> <li>Brown Creek camping area</li> <li>Bizant River camping area</li> <li>Saltwater crossing camping area</li> <li>Annie River camping area</li> </ul> <p><strong>For campers with an existing booking between 1 November and 30 November 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.&nbsp;</strong></p> <p>Should you require further information please contact the Ranger in Charge on 0427 577 931.</p> <p>&nbsp;</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-23",
       "start_effective_date": "2026-11-01",
       "end_date": "2026-11-30",
       "parks": [
@@ -2861,9 +2743,9 @@
       "description": "As a result of wet weather, Minerva Hills National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Minerva Hills National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Commerical tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-19",
+      "start_date": "2026-10-23",
       "start_effective_date": "2026-10-15",
-      "end_date": "2026-10-23",
+      "end_date": "2026-10-28",
       "parks": [
         {
           "id": "148953",
@@ -2915,24 +2797,6 @@
           "id": "149033",
           "name": "Bribie Island National Park and Recreation Area",
           "url": "https://parks.qld.gov.au/parks/bribie-island"
-        }
-      ]
-    },
-    {
-      "title": "Aerial feral animal control activities: Cape Melville National Park (CYPAL)",
-      "alert_id": "27098",
-      "url": "https://parks.qld.gov.au/park-alerts/27098",
-      "description": "Queensland Parks and Wildlife Service will be conducting aerial feral animal control activities within Cape Melville National Park (CYPAL) from Tuesday 20 October to Friday 23 October 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting aerial feral animal control activities within Cape Melville National Park (CYPAL) from Tuesday 20 October to Friday 23 October 2026 (dates inclusive).</p> <p>Helicopters may be seen and heard regularly throughout the park during this time.</p> <p>For your safety, visitors are reminded to remain on designated access roads and tracks, and within designated camping areas and day-use areas only.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-17",
-      "start_effective_date": "2026-10-20",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148725",
-          "name": "Cape Melville National Park (CYPAL)",
-          "url": "https://parks.qld.gov.au/parks/cape-melville"
         }
       ]
     },
@@ -3177,9 +3041,9 @@
       "alert_id": "27113",
       "url": "https://parks.qld.gov.au/park-alerts/27113",
       "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Red Earth Run MTB Track</li> <li>Wedgetail MTB&nbsp;Track</li> <li>Firetail MTB Track</li> <li>Tusked Frog MTB Track</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>All mountain bike tracks in Daisy Hill Conservation Park</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when construction is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-20",
+      "start_date": "2026-10-23",
       "start_effective_date": "2026-10-20",
       "end_date": "2026-10-26",
       "parks": [
@@ -3225,9 +3089,9 @@
       "description": "Due to heavy and forecast rainfall, Queen Mary Falls circuit has been temporarily closed.",
       "details": "<p>Due to heavy and forecast rainfall, Queen Mary Falls circuit has been temporarily closed.</p> <p>Visitors can still access the viewing platform and day use area.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-21",
+      "start_date": "2026-10-23",
       "start_effective_date": "2026-10-21",
-      "end_date": "2026-10-23",
+      "end_date": "2026-10-26",
       "parks": [
         {
           "id": "148480",
@@ -3427,29 +3291,6 @@
       ]
     },
     {
-      "title": "Wet Weather Access Restriction - Purling Brook Falls",
-      "alert_id": "27128",
-      "url": "https://parks.qld.gov.au/park-alerts/27128",
-      "description": "As a result of wet weather, access is restricted and some areas within Springbrook National Park are temporarily closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted and some areas within Springbrook National Park are temporarily closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p><strong>CLOSED areas:</strong></p> <ul> <li><strong>Purling Brook Falls circuit</strong>&nbsp;<strong>(partial closure)</strong>&nbsp;- Including the pedestrian causeway at the top of the waterfall and in particular the Eastern lookout beside the waterfall.&nbsp; The Western lookout remains&nbsp;<strong>OPEN&nbsp;</strong>and is accessible from the Gwongorella Picnic Area and car park.</li> </ul> <p><em>Note:&nbsp; The above closure also affects the Springbrook section of the&nbsp;<strong>Gold Coast Hinterland Great Walk</strong>&nbsp;from Apple Tree&nbsp;Park to&nbsp;Settlement Camping Area.&nbsp;&nbsp;Great Walker&#39;s will need to find an alternative route. Please take extreme care if walking alongside a public road.</em></p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-22",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-23",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.qld.gov.au/parks/springbrook"
-        },
-        {
-          "id": "156492",
-          "name": "Gold Coast Hinterland Great Walk",
-          "url": "https://parks.qld.gov.au/parks/great-walks-gold-coast-hinterland"
-        }
-      ]
-    },
-    {
       "title": "Temporary MTB trail closures - Weather Event",
       "alert_id": "27129",
       "url": "https://parks.qld.gov.au/park-alerts/27129",
@@ -3473,16 +3314,67 @@
       ]
     },
     {
-      "title": "Kondalilla National Park - Wet Weather Access",
+      "title": "Planned Works - Wedding Board Walk",
+      "alert_id": "27130",
+      "url": "https://parks.qld.gov.au/park-alerts/27130",
+      "description": "Planned construction works are currently underway at Walkabout Creek Discovery Centre on the Wedding Boardwalk. These works will temporarily affect access to some areas of the facility.",
+      "details": "<p>Planned construction works are currently underway at Walkabout Creek Discovery Centre on the Wedding Boardwalk. These works will temporarily affect access to some areas of the facility.</p> <p>Clear signage will be in place to direct visitors along alternative routes, and safety barriers have been installed throughout the work area. For your safety, please follow all posted signage, remain behind safety barriers, and comply with any directions provided by construction personnel and Rangers.</p> <p>We appreciate your patience and cooperation while these important works are completed.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-11-02",
+      "end_date": "2026-11-17",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure - Enoggera Reservoir",
+      "alert_id": "27131",
+      "url": "https://parks.qld.gov.au/park-alerts/27131",
+      "description": "Enoggera Reservoir is currently closed to all on-water activities due to recent heavy rainfall and overflow from the spillway. The closure will remain in place until further notice.",
+      "details": "<p>Enoggera Reservoir is currently closed to all on-water activities due to recent heavy rainfall and overflow from the spillway. The closure will remain in place until further notice.</p> <p>For your safety, please do not enter the dam for swimming, kayaking, or any other recreational activities. Please follow all safety signage and directions provided by Rangers.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-22",
+      "end_date": "2026-10-26",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Blackall Range National Parks - heavy rainfall conditions",
       "alert_id": "27132",
       "url": "https://parks.qld.gov.au/park-alerts/27132",
-      "description": "As a result of wet weather, access is restricted and some areas are closed until declared safe.",
-      "details": "<p>As a result of wet weather, access is restricted and some areas are closed until declared safe.</p> <p>Closed areas:</p> <ul> <li>Kondalilla Falls Circuit Walk</li> <li>Picnic Creek Circuit Walk</li> </ul> <p>QPWS Rangers are monitoring the situation and expect these areas will open on Fri 23/10/2026.</p> <ul> </ul> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-22",
+      "description": "As a result of continuing wet weather, access to tracks and trails is not recommended over the weekend of 24 and 25th October.",
+      "details": "<p>As a result of continuing wet weather, access to tracks and trails is not recommended over the weekend of 24 and 25th October.</p> <p>Further heavy rainfall is forecast for Saturday and Sunday</p> <p>QPWS is aware that park visitors may enjoy visiting the numerous waterfalls along the Blackall Range, track conditions are currently extremely wet.</p> <p>No tracks or trails are officially closed, however it is recommended that walks be kept short and close to entry points.</p> <p>If conditions deteriorate, expect temporary closures or restrictions</p> <ul> <li>Never drive, ride, walk or try to swim through flood waters or across fast flowing creek crossings.</li> <li>Be prepared to pack up and leave quickly as some areas can flood cutting off access.</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Other",
+      "start_date": "2026-10-23",
       "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-23",
+      "end_date": "2026-10-26",
       "parks": [
+        {
+          "id": "152831",
+          "name": "Sunshine Coast Hinterland Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-sunshine-coast"
+        },
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton"
+        },
+        {
+          "id": "148929",
+          "name": "Mapleton Falls National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton-falls"
+        },
         {
           "id": "148243",
           "name": "Kondalilla National Park",
@@ -3514,20 +3406,197 @@
       ]
     },
     {
-      "title": "Daisy Hill Koala Centre closed",
-      "alert_id": "27134",
-      "url": "https://parks.qld.gov.au/park-alerts/27135",
-      "description": "The Daisy Hill Koala Centre is currently closed due to unforeseen circumstances.",
-      "details": "<p>The Daisy Hill Koala Centre is currently closed due to unforeseen circumstances.</p>",
+      "title": "Wet weather access Bunya Mountains National Park - Scenic Circuit",
+      "alert_id": "27135",
+      "url": "https://parks.qld.gov.au/park-alerts/27136",
+      "description": "As a result of wet weather, the Scenic Circuit withing Bunya Mountains National Park is closed until declared safe.",
+      "details": "<p>As a result of wet weather, the Scenic Circuit withing Bunya Mountains National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation and may open the track earlier should track conditions improve.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-22",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-23",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-10-28",
       "parks": [
         {
-          "id": "397374",
-          "name": "Daisy Hill Koala Centre",
-          "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Bellthorpe National Park - Wet Weather Access Closures",
+      "alert_id": "27136",
+      "url": "https://parks.qld.gov.au/park-alerts/27137",
+      "description": "As a result of wet weather, access is restricted, and some areas are closed until declared safe.",
+      "details": "<p>As a result of wet weather, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Branch Creek Road</li> <li>Beacon Road</li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-11-06",
+      "parks": [
+        {
+          "id": "148400",
+          "name": "Bellthorpe National Park",
+          "url": "https://parks.qld.gov.au/parks/bellthorpe"
+        }
+      ]
+    },
+    {
+      "title": "Sunshine Coast Hinterland Great Walk - temporary closure due to extended wet weather conditions",
+      "alert_id": "27138",
+      "url": "https://parks.qld.gov.au/park-alerts/27139",
+      "description": "Following severe rainfall events, all Great Walk walkers&#039; camps will be closed for camping.",
+      "details": "<p>Following severe rainfall events, all Great Walk walkers&#039; camps will be closed for camping.</p> <p>This alert applies to:</p> <ul> <li>Flaxton Walkers&#39; Camp</li> <li>Ubajee Walkers&#39; Camp</li> <li>Thilba Thalba Walkers&#39; Camp</li> <li>Gheerulla Walkers&#39; Camp</li> </ul> <p>Walking trails will remain open, however access is not recommended due to wet and muddy conditions.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "152831",
+          "name": "Sunshine Coast Hinterland Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-sunshine-coast"
+        },
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton"
+        },
+        {
+          "id": "148243",
+          "name": "Kondalilla National Park",
+          "url": "https://parks.qld.gov.au/parks/kondalilla"
+        }
+      ]
+    },
+    {
+      "title": "Temporary walking track closure: Djinda walk, Wallaman Falls, Girringun National Park",
+      "alert_id": "27141",
+      "url": "https://parks.qld.gov.au/park-alerts/27142",
+      "description": "The Djinda walk at Wallaman Falls will temporarily be closed from Monday 9 November to Friday 20 November 2026 (dates inclusive) to allow replacement of a pedestrian foot bridge.",
+      "details": "<p>The Djinda walk at Wallaman Falls will temporarily be closed from Monday 9 November to Friday 20 November 2026 (dates inclusive) to allow replacement of a pedestrian foot bridge.</p> <p>Please observe and adhere to all safety signage and directions from rangers and contractors.</p> <p>During this period the following visitor facilities will be open to the public:</p> <ul> <li>Wallaman Falls day-use area</li> <li>Wallaman Falls lookout</li> <li>Herbert River Valley lookout</li> <li>Bagurru camping area&nbsp;&nbsp;</li> <li>Bagurru walk.&nbsp;</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-11-09",
+      "end_date": "2026-11-20",
+      "parks": [
+        {
+          "id": "149453",
+          "name": "Wallaman Falls, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun-wallaman"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Temporary partial road closure: Mount Lewis Road, Mount Lewis National Park",
+      "alert_id": "27143",
+      "url": "https://parks.qld.gov.au/park-alerts/27144",
+      "description": "From 5pm Monday 26 October to Friday 30 October 2026 (dates inclusive) public access beyond the second gate on Mount Lewis Road will not be possible.",
+      "details": "<p>From 5pm Monday 26 October to Friday 30 October 2026 (dates inclusive) public access beyond the second gate on Mount Lewis Road will not be possible.</p> <p>This closure is to&nbsp;allow essential road maintenance works to be undertaken.</p> <p>During this period visitors can still travel along Mount Lewis Road but must turn around at the second gate.&nbsp;</p> <p>Visitors are advised to observe all closure signs and avoid entering the closed section while works are underway.</p> <p>Works are subject to weather conditions and visitors are reminder to check park alerts for up-to-date information.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        }
+      ]
+    },
+    {
+      "title": "Jump Up Loop walking track conditions changed",
+      "alert_id": "27147",
+      "url": "https://parks.qld.gov.au/park-alerts/27148",
+      "description": "Visitor use of the 3.5km Jump Up Loop walking track is not recommended for the months November to March inclusive due to high temperatures.",
+      "details": "<p>Visitor use of the 3.5km Jump Up Loop walking track is not recommended for the months November to March inclusive due to high temperatures.</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2027-03-31",
+      "parks": [
+        {
+          "id": "148392",
+          "name": "Lark Quarry Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/lark-quarry"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure",
+      "alert_id": "27148",
+      "url": "https://parks.qld.gov.au/park-alerts/27149",
+      "description": "Lochern National Park is closed due to wet weather up to and including Thursday 29th of October when conditions will be reviewed.",
+      "details": "<p>Lochern National Park is closed due to wet weather up to and including Thursday 29th of October when conditions will be reviewed.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-10-29",
+      "parks": [
+        {
+          "id": "148251",
+          "name": "Lochern National Park",
+          "url": "https://parks.qld.gov.au/parks/lochern"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure",
+      "alert_id": "27149",
+      "url": "https://parks.qld.gov.au/park-alerts/27150",
+      "description": "Blackdown Tableland National Park is closed due to wet weather up to and including Sunday 25th of October.",
+      "details": "<p>Blackdown Tableland National Park is closed due to wet weather up to and including Sunday 25th of October.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-10-25",
+      "parks": [
+        {
+          "id": "150224",
+          "name": "Blackdown Tableland National Park",
+          "url": "https://parks.qld.gov.au/parks/blackdown-tableland"
+        }
+      ]
+    },
+    {
+      "title": "Bellbird Grove Day Use Area Closure - Wet Weather Event",
+      "alert_id": "27151",
+      "url": "https://parks.qld.gov.au/park-alerts/27152",
+      "description": "Bellbird Grove Day Use Area Closure",
+      "details": "<p>Bellbird Grove Day Use Area Closure</p> <p>Due to flooding over the access road to the Bellbird Grove Day Use Area, the Day use area will remain closed until the flood waters subside and the causeway can be cleared of flooding debris.&nbsp;</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-22",
+      "end_date": "2026-10-27",
+      "parks": [
+        {
+          "id": "148259",
+          "name": "D'Aguilar National Park",
+          "url": "https://parks.qld.gov.au/parks/daguilar"
+        }
+      ]
+    },
+    {
+      "title": "Mon Repos Turtle Centre Closed",
+      "alert_id": "27152",
+      "url": "https://parks.qld.gov.au/park-alerts/27153",
+      "description": "As a result of wet weather, the Mon Repos Turtle Centre is closed.",
+      "details": "<p>As a result of wet weather, the Mon Repos Turtle Centre is closed.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Turtle Centre</li> <li>Milbi Cafe and gift shop</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-23",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-10-26",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/mon-repos"
         }
       ]
     }
