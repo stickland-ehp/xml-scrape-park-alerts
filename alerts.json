@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 177,
-    "script_run_time": "2026-10-24 13:41:18"
+    "alerts_count": 180,
+    "script_run_time": "2026-10-25 13:59:06"
   },
   "alerts": [
     {
@@ -2506,24 +2506,6 @@
       ]
     },
     {
-      "title": "Seasonal bushfire risk: Bulleringa National Park",
-      "alert_id": "27071",
-      "url": "https://parks.qld.gov.au/park-alerts/27072",
-      "description": "September to October is a peak bushfire risk period for Bulleringa National Park as high temperatures, strong winds and low humidity can cause bushfires to spread rapidly, potentially affecting the park with little warning. This park is remote and does not have any public access.",
-      "details": "<p>September to October is a peak bushfire risk period for Bulleringa National Park as high temperatures, strong winds and low humidity can cause bushfires to spread rapidly, potentially affecting the park with little warning. This park is remote and does not have any public access.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-08",
-      "start_effective_date": "2026-10-08",
-      "end_date": "2026-10-31",
-      "parks": [
-        {
-          "id": "148492",
-          "name": "Bulleringa National Park",
-          "url": "https://parks.qld.gov.au/parks/bulleringa"
-        }
-      ]
-    },
-    {
       "title": "Seasonal bushfire risk: Tagalaka National Park",
       "alert_id": "27071",
       "url": "https://parks.qld.gov.au/park-alerts/27071",
@@ -2538,6 +2520,24 @@
           "id": "405267",
           "name": "Tagalaka National Park",
           "url": "https://parks.qld.gov.au/parks/tagalaka"
+        }
+      ]
+    },
+    {
+      "title": "Seasonal bushfire risk: Bulleringa National Park",
+      "alert_id": "27071",
+      "url": "https://parks.qld.gov.au/park-alerts/27072",
+      "description": "September to October is a peak bushfire risk period for Bulleringa National Park as high temperatures, strong winds and low humidity can cause bushfires to spread rapidly, potentially affecting the park with little warning. This park is remote and does not have any public access.",
+      "details": "<p>September to October is a peak bushfire risk period for Bulleringa National Park as high temperatures, strong winds and low humidity can cause bushfires to spread rapidly, potentially affecting the park with little warning. This park is remote and does not have any public access.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-08",
+      "start_effective_date": "2026-10-08",
+      "end_date": "2026-10-31",
+      "parks": [
+        {
+          "id": "148492",
+          "name": "Bulleringa National Park",
+          "url": "https://parks.qld.gov.au/parks/bulleringa"
         }
       ]
     },
@@ -3597,6 +3597,65 @@
           "id": "148247",
           "name": "Mon Repos Conservation Park",
           "url": "https://parks.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Daisy Hill Koala Centre CLOSED",
+      "alert_id": "27153",
+      "url": "https://parks.qld.gov.au/park-alerts/27154",
+      "description": "The Daisy Hill Koala Centre is temporarily closed due to unforeseen circumstances.",
+      "details": "<p>The Daisy Hill Koala Centre is temporarily closed due to unforeseen circumstances.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-25",
+      "start_effective_date": "2026-10-23",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "397374",
+          "name": "Daisy Hill Koala Centre",
+          "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
+        }
+      ]
+    },
+    {
+      "title": "Upper Noosa River CLOSED due to flooding",
+      "alert_id": "27155",
+      "url": "https://parks.qld.gov.au/park-alerts/27156",
+      "description": "Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.",
+      "details": "<p>Recent heavy rain is causing flooding to occur in the Upper Noosa River. Travel on water upstream of Fig Tree Point is unsafe due to the large volume of fast flowing water and hazards caused by submerged objects in the The Narrows section of the Noosa River. Walkers on the Cooloola Great Walk should be aware that due to recent wet weather, sections of the walk may be submerged in water. The Walk remains open, but walkers should proceed with caution and check access conditions before deciding if it is safe to traverse.</p> <p>The following areas are temporarily CLOSED until further notice:&nbsp;</p> <ul> <li>Cooloola Wilderness Trail and campsites</li> <li>Upper Noosa River upstream from Fig Tree Point</li> <li>Fig Tree Point camping area</li> <li>Harrys Hut camping area and day-use area</li> <li>Harrys Hut Road</li> <li>Upper Noosa River campsites 1 &ndash; 15</li> <li>All other walking tracks adjacent to the Upper Noosa River and Kin Kin Creek catchments.</li> </ul> <p>For visitors with camping permits for closed sites, you will need to modify or cancel your booking and apply for a refund via your online account at&nbsp;<a href=\"http://www.qld.gov.au/camping\">www.qld.gov.au/camping</a></p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-25",
+      "start_effective_date": "2026-10-25",
+      "end_date": "2026-11-04",
+      "parks": [
+        {
+          "id": "322997",
+          "name": "Cooloola (Noosa River) Resources Reserve",
+          "url": ""
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "alert_id": "27156",
+      "url": "https://parks.qld.gov.au/park-alerts/27157",
+      "description": "St Helena Island National Park is closed for maintenance operations.",
+      "details": "<p>St Helena Island National Park is closed for maintenance operations.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-25",
+      "start_effective_date": "2026-10-25",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "149377",
+          "name": "St Helena Island National Park",
+          "url": "https://parks.qld.gov.au/parks/st-helena-island"
         }
       ]
     }
