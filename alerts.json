@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 185,
-    "script_run_time": "2026-10-26 16:20:09"
+    "alerts_count": 183,
+    "script_run_time": "2026-10-27 15:34:36"
   },
   "alerts": [
     {
@@ -277,15 +277,15 @@
       ]
     },
     {
-      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Downfall Creek, Kauri Creek and Fong-On Bay camping areas, Danbulla National Park",
+      "title": "Reduced capacity due to higher than expected water levels of Tinaroo Dam: Downfall Creek and Kauri Creek camping areas, Danbulla National Park",
       "alert_id": "24514",
       "url": "https://parks.qld.gov.au/park-alerts/24514",
-      "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong-On Bay camping areas and space usually available for camping is currently underwater.",
-      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek, Kauri Creek and Fong-On Bay camping areas and space usually available for camping is currently underwater.</p> <p>Visitors are asked to be respectful of the limited space and of other campers.</p>",
+      "description": "Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek and Kauri Creek camping areas and space usually available for camping is currently underwater.",
+      "details": "<p>Higher than expected water levels of Tinaroo Dam have significantly reduced the amount of available space for camping at Downfall Creek and Kauri Creek camping areas and space usually available for camping is currently underwater.</p> <p>Visitors are asked to be respectful of the limited space and of other campers.</p>",
       "category": "Announcement",
-      "start_date": "2026-08-18",
+      "start_date": "2026-10-27",
       "start_effective_date": "2024-09-17",
-      "end_date": "2026-10-27",
+      "end_date": "2027-01-10",
       "parks": [
         {
           "id": "148055",
@@ -936,11 +936,11 @@
       "alert_id": "26161",
       "url": "https://parks.qld.gov.au/park-alerts/26161",
       "description": "Due to storm damage, the toilet facility at Banshee Campground on the Scenic Rim Trail is currently unsafe for use.",
-      "details": "<p>Due to storm damage, the toilet facility at Banshee Campground on the Scenic Rim Trail is currently unsafe for use.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "details": "<p>Due to storm damage, the toilet facility at Banshee Campground on the Scenic Rim Trail is currently unsafe for use.</p> <p>There is also currently no water stored at site due to damage to the water tank attached to the toilet roof.&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-31",
+      "start_date": "2026-10-27",
       "start_effective_date": "2026-02-02",
-      "end_date": "2026-10-30",
+      "end_date": "2026-11-30",
       "parks": [
         {
           "id": "148480",
@@ -961,9 +961,9 @@
       "description": "As a result of recent weather events and damage caused to the road network, high clearance vehicles are recommended for access within Kroombit Tops National Park until further notice.",
       "details": "<p>As a result of recent weather events and damage caused to the road network, high clearance vehicles are recommended for access within Kroombit Tops National Park until further notice.</p> <p>Some washouts, erosion, loose surfaces and rocks are present on the roads and tracks.</p> <p>Assessment are currently being undertaken to progress repairs to the roads.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>For your safety please slow down and observe all directions and signs.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Other",
-      "start_date": "2026-08-28",
+      "start_date": "2026-10-27",
       "start_effective_date": "2026-02-10",
-      "end_date": "2026-10-30",
+      "end_date": "2026-12-31",
       "parks": [
         {
           "id": "148784",
@@ -1644,24 +1644,6 @@
       ]
     },
     {
-      "title": "Severe weather damage Dawes National Park - Glassford section",
-      "alert_id": "26693",
-      "url": "https://parks.qld.gov.au/park-alerts/26693",
-      "description": "As a result of severe weather damage, some areas in Dawes National Park - Glassford section, are closed until repairs are undertaken and the area declared safe.",
-      "details": "<p>As a result of severe weather damage, some areas in Dawes National Park - Glassford section, are closed until repairs are undertaken and the area declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>Childs road north of the Smelter site.&nbsp;&nbsp;</p> </li> </ul> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-08-28",
-      "start_effective_date": "2026-06-26",
-      "end_date": "2026-10-30",
-      "parks": [
-        {
-          "id": "293539",
-          "name": "Dawes National Park",
-          "url": "https://parks.qld.gov.au/parks/dawes"
-        }
-      ]
-    },
-    {
       "title": "Curtis Island , Ship Hill track, Lookout and Day Use Area, Multi Use Trails 5, 6, 7, 8, and 9 Closed",
       "alert_id": "26712",
       "url": "https://parks.qld.gov.au/park-alerts/26712",
@@ -1842,12 +1824,12 @@
       "title": "Temporary partial closure : Bluebush Drive east section",
       "alert_id": "26876",
       "url": "https://parks.qld.gov.au/park-alerts/26876",
-      "description": "The eastern section of Bluebush Drive on Lochern National Park is temporarily closed until Friday 30 October 2026 due to track damage after major flood events. The western section of Bluebush Drive is open to 4wd only, starting from the ranger base and returning to Tonkoro Road via Waterloo Road.",
-      "details": "<p>The eastern section of Bluebush Drive on Lochern National Park is temporarily closed until Friday 30 October 2026 due to track damage after major flood events. The western section of Bluebush Drive is open to 4wd only, starting from the ranger base and returning to Tonkoro Road via Waterloo Road.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "description": "The eastern section of Bluebush Drive on Lochern National Park is temporarily closed until Friday 29 January 2027 due to track damage after major flood events. The western section of Bluebush Drive is open to 4wd only, starting from the ranger base and returning to Tonkoro Road via Waterloo Road.",
+      "details": "<p>The eastern section of Bluebush Drive on Lochern National Park is temporarily closed until Friday 29 January 2027 due to track damage after major flood events. The western section of Bluebush Drive is open to 4wd only, starting from the ranger base and returning to Tonkoro Road via Waterloo Road.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-08-11",
+      "start_date": "2026-10-27",
       "start_effective_date": "2026-08-11",
-      "end_date": "2026-10-30",
+      "end_date": "2027-01-29",
       "parks": [
         {
           "id": "148251",
@@ -2712,9 +2694,9 @@
       "description": "Scrub Road causeway and Red Ash (Bellbird Grove) causeway will be closed periodically between Wednesday 14 October and Friday 30 October for flood repair works.",
       "details": "<p>Scrub Road causeway and Red Ash (Bellbird Grove) causeway will be closed periodically between Wednesday 14 October and Friday 30 October for flood repair works.</p> <p>Access to Scrub Road bushcamp can be made via South Boundary Road (Bullockys Dam gate - Mt Nebo) as an alternative route to Scrub Road.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-14",
+      "start_date": "2026-10-27",
       "start_effective_date": "2026-10-14",
-      "end_date": "2026-10-30",
+      "end_date": "2026-11-13",
       "parks": [
         {
           "id": "148259",
@@ -3124,24 +3106,6 @@
       ]
     },
     {
-      "title": "Wet weather  Oceanview track closed",
-      "alert_id": "27122",
-      "url": "https://parks.qld.gov.au/park-alerts/27122",
-      "description": "As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Oceanview track closure policy, the Oceanview track in Burleigh Head National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>The walking track may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The Rainforest circuit remains open for through walks.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-22",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-28",
-      "parks": [
-        {
-          "id": "148908",
-          "name": "Burleigh Head National Park",
-          "url": "https://parks.qld.gov.au/parks/burleigh-head"
-        }
-      ]
-    },
-    {
       "title": "Mount Beerwah temporarily closed",
       "alert_id": "27125",
       "url": "https://parks.qld.gov.au/park-alerts/27125",
@@ -3156,29 +3120,6 @@
           "id": "150189",
           "name": "Glass House Mountains National Park",
           "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Severe Weather alert Mount Barney National Park and Moogerah Peaks National Park",
-      "alert_id": "27126",
-      "url": "https://parks.qld.gov.au/park-alerts/27126",
-      "description": "The Bureau of Meteorology has issued Severe Thunderstorm Warning  Southeast Queensland for INTENSE RAINFALL which may affect Mount Barney National Park and Moogerah Peaks National Park.",
-      "details": "<p>The Bureau of Meteorology has issued Severe Thunderstorm Warning  Southeast Queensland for INTENSE RAINFALL which may affect Mount Barney National Park and Moogerah Peaks National Park.</p> <p>If conditions deteriorate, expect temporary closures or restrictions.</p> <ul> <li>Never drive, ride, walk or try to swim through floodwaters or across fast-flowing creek crossings.</li> <li>Be prepared to pack up and leave quickly, as some areas can flood, cutting off access.</li> </ul> <p>For your safety please use caution whilst visiting the park.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"http://www.qldtraffic.qld.gov.au/\">Queensland Traffic</a> for updated information regarding road and traffic conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Other",
-      "start_date": "2026-10-22",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-27",
-      "parks": [
-        {
-          "id": "149021",
-          "name": "Moogerah Peaks National Park",
-          "url": "https://parks.qld.gov.au/parks/moogerah-peaks"
-        },
-        {
-          "id": "148528",
-          "name": "Mount Barney National Park",
-          "url": "https://parks.qld.gov.au/parks/mount-barney"
         }
       ]
     },
@@ -3238,29 +3179,6 @@
           "id": "200319",
           "name": "Walkabout Creek Discovery Centre",
           "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closure of shared trails and mountain bike trails- Tewantin NP and Parklands CP",
-      "alert_id": "27133",
-      "url": "https://parks.qld.gov.au/park-alerts/27133",
-      "description": "Due to current rainfall on saturated ground, all mountain bike trails within Tewantin National Park (Wooroi section) and Parklands Conservation Park are closed between Thursday 22 October and Tuesday 27 October, 2026.",
-      "details": "<p>Due to current rainfall on saturated ground, all mountain bike trails within Tewantin National Park (Wooroi section) and Parklands Conservation Park are closed between Thursday 22 October and Tuesday 27 October, 2026.</p> <p>This closure is required to prevent potential damage to the trails.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-22",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-27",
-      "parks": [
-        {
-          "id": "148035",
-          "name": "Parklands Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/parklands"
-        },
-        {
-          "id": "148107",
-          "name": "Tewantin National Park",
-          "url": "https://parks.qld.gov.au/parks/tewantin"
         }
       ]
     },
@@ -3502,9 +3420,9 @@
       "description": "Lochern National Park is closed due to wet weather up to and including Thursday 29th of October when conditions will be reviewed.",
       "details": "<p>Lochern National Park is closed due to wet weather up to and including Thursday 29th of October when conditions will be reviewed.</p> <p>Don&#39;t walk, drive or ride through floodwaters. Remember, if it&rsquo;s flooded forget it.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-23",
+      "start_date": "2026-10-27",
       "start_effective_date": "2026-10-23",
-      "end_date": "2026-10-29",
+      "end_date": "2026-11-03",
       "parks": [
         {
           "id": "148251",
@@ -3528,24 +3446,6 @@
           "id": "149493",
           "name": "Beerburrum and Beerwah State Forests",
           "url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
-        }
-      ]
-    },
-    {
-      "title": "Bellbird Grove Day Use Area Closure - Wet Weather Event",
-      "alert_id": "27151",
-      "url": "https://parks.qld.gov.au/park-alerts/27152",
-      "description": "Bellbird Grove Day Use Area Closure",
-      "details": "<p>Bellbird Grove Day Use Area Closure</p> <p>Due to flooding over the access road to the Bellbird Grove Day Use Area, the Day use area will remain closed until the flood waters subside and the causeway can be cleared of flooding debris.&nbsp;</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-23",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-27",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -3696,20 +3596,20 @@
       ]
     },
     {
-      "title": "Northern walking tracks closed due to flooding",
-      "alert_id": "27160",
-      "url": "https://parks.qld.gov.au/park-alerts/27161",
-      "description": "Bald Rock Creek is currently in flood and cannot be crossed.",
-      "details": "<p>Bald Rock Creek is currently in flood and cannot be crossed.</p> <p>As a result, the following walking tracks cannot be accessed:</p> <p>- Bald Rock Creek Circuit</p> <p>- Granite Arch</p> <p>- The Junction</p> <p>- The Pyramid</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "title": "Burrum Coast National Park - Hoppy Larks day use area",
+      "alert_id": "27161",
+      "url": "https://parks.qld.gov.au/park-alerts/27162",
+      "description": "As a result of the wet weather and flooded roads, Hoppy Lark&#039;s day use area and access road is closed until declared safe.",
+      "details": "<p>As a result of the wet weather and flooded roads, Hoppy Lark&#039;s day use area and access road is closed until declared safe.</p> <p>Rangers are monitoring the situation.</p> <p>&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-26",
+      "start_date": "2026-10-27",
       "start_effective_date": "2026-10-26",
-      "end_date": "2026-10-27",
+      "end_date": "2026-11-10",
       "parks": [
         {
-          "id": "148087",
-          "name": "Girraween National Park",
-          "url": "https://parks.qld.gov.au/parks/girraween"
+          "id": "148436",
+          "name": "Burrum Coast National Park",
+          "url": "https://parks.qld.gov.au/parks/burrum-coast"
         }
       ]
     },
@@ -3737,6 +3637,29 @@
       ]
     },
     {
+      "title": "Planned burn operations on adjacent property: Atherton Forest Mountain Bike Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+      "alert_id": "27164",
+      "url": "https://parks.qld.gov.au/park-alerts/27164",
+      "description": "Queensland National Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on property adjacent to the Atherton Forest Mountain Bike Park between Wednesday 28 October and Friday 30 October 2026 (dates inclusive).",
+      "details": "<p>Queensland National Parks and Wildlife Service (QPWS) will be conducting planned burn operations (weather permitting) on property adjacent to the Atherton Forest Mountain Bike Park between Wednesday 28 October and Friday 30 October 2026 (dates inclusive).</p> <p><strong>The Atherton Forest Mountain Bike Park will remain open during this period.</strong></p> <p>Visitors are advised to remain on designated tracks and trails.</p> <p>Smoke may be visible in the vicinity of the Atherton Forest Mountain Bike Park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management </a>&nbsp;webpage.&nbsp;</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-27",
+      "start_effective_date": "2026-10-28",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
+        },
+        {
+          "id": "148536",
+          "name": "Atherton and Evelyn tablelands parks and forests",
+          "url": "https://parks.qld.gov.au/parks/tablelands"
+        }
+      ]
+    },
+    {
       "title": "Track maintenance works: Twin Bridges track, Kuranda National Park",
       "alert_id": "27165",
       "url": "https://parks.qld.gov.au/park-alerts/27165",
@@ -3751,6 +3674,42 @@
           "id": "148814",
           "name": "Kuranda National Park and Mowbray National Park",
           "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
+        }
+      ]
+    },
+    {
+      "title": "Dingo Awareness - Kingfisher Bay Resort and Village Fenced Area",
+      "alert_id": "27166",
+      "url": "https://parks.qld.gov.au/park-alerts/27166",
+      "description": "Please be aware that there is the likelihood of a dingo being inside the Kingfisher Bay Resort and Village fenced area.",
+      "details": "<p>Please be aware that there is the likelihood of a dingo being inside the Kingfisher Bay Resort and Village fenced area.</p> <p>The dingo has been observed loitering in locations including the resort area.</p> <p><strong>Report any dingo sightings or interactions</strong> &ndash; tell a QPWS ranger, phone (07) 4127 9150 or email <a href=\"mailto:dingo.ranger@detsi.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a></p> <p>QPWS has implemented ongoing management actions to inspect and monitor potential dingo entry points and infrastructure condition, closely monitor dingo behaviour and sighting/interaction reports, and facilitate removal of the dingo from fenced area.</p> <p>To assist QPWS and ensure visitor safety, <strong>please securely close all gates</strong> after use and report any observed fence or gate damage to <a href=\"mailto:dingo.ranger@detsi.qld.gov.au\">dingo.ranger@detsi.qld.gov.au</a></p> <p>For a comprehensive list of Park Alerts, visit us at <strong>www.qld.gov.au/park-alerts&nbsp;&nbsp; </strong></p> <p>&nbsp;<strong>Please ensure you are following Be dingo-safe! behaviours:</strong></p> <ul> <li>NEVER feed dingoes.</li> <li>Always stay within arm&rsquo;s reach of children, even small teenagers.</li> <li>Walk in groups and carry a long dingo safety stick.</li> <li>Do not run. Running or jogging can trigger a negative dingo interaction.</li> <li>Camp in fenced areas when possible.</li> <li>Secure all rubbish, fish, bait and tackle.</li> <li>Never store food, food containers or scented items in tents.</li> <li>No food to lakeshores.</li> </ul> <p><strong>Your safety is our concern, but your responsibility. </strong></p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-27",
+      "start_effective_date": "2026-10-27",
+      "end_date": "2026-11-02",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Maria Creek National Park",
+      "alert_id": "27169",
+      "url": "https://parks.qld.gov.au/park-alerts/27169",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Maria Creek National Park between Wednesday 28 October and Monday 30 November 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns within Maria Creek National Park between Wednesday 28 October and Monday 30 November 2026 (dates inclusive), as part of the annual conservation management and hazard reduction program for parks and forests.</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the <a href=\"https://parks.qld.gov.au/management/programs/fire-management\">Fire management</a>&nbsp;webpage.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-10-27",
+      "start_effective_date": "2026-10-28",
+      "end_date": "2026-11-30",
+      "parks": [
+        {
+          "id": "322983",
+          "name": "Maria Creek National Park",
+          "url": ""
         }
       ]
     }
