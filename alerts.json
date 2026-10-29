@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 183,
-    "script_run_time": "2026-10-28 16:18:29"
+    "alerts_count": 184,
+    "script_run_time": "2026-10-29 16:28:36"
   },
   "alerts": [
     {
@@ -206,9 +206,9 @@
       "description": "Due to heavy rain from ex-Tropical Cyclone Jasper, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.",
       "details": "<p>Due to heavy rain from ex-Tropical Cyclone Jasper, Kauri Creek Road and Tinaroo Creek Road are closed until further notice.</p> <p>This closure is for public safety and to protect roads from degradation and erosion.</p> <p>Please adhere to all safety signs and directions from local rangers and do not enter the area.</p> <p><strong>Danbulla National Park and State Forest camping areas remain open and accessible via Danbulla Road, except for Curri Curri bush camping area which is only accessible by boat.</strong></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-07-13",
+      "start_date": "2026-10-29",
       "start_effective_date": "2023-12-22",
-      "end_date": "2026-10-30",
+      "end_date": "2027-06-30",
       "parks": [
         {
           "id": "148055",
@@ -2396,12 +2396,12 @@
       "title": "Urgent Repairs for Lake Allom Facilities",
       "alert_id": "27051",
       "url": "https://parks.qld.gov.au/park-alerts/27051",
-      "description": "Due to a breakdown of mechanical equipment, repairs are underway for Lake Allom facilities on Kgari. Works are planned to run from 1 October with completion by 1 November, pending favourable weather conditions.",
-      "details": "<p>Due to a breakdown of mechanical equipment, repairs are underway for Lake Allom facilities on Kgari. Works are planned to run from 1 October with completion by 1 November, pending favourable weather conditions.</p> <p>The following facilities are temporarily closed until further notice:</p> <ul> <li>Toilet blocks</li> <li>Water taps</li> </ul> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance works as large machinery may be operating in the area.</p> <p>Thank you for your patience during these maintenance works.</p> <p>Check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> regularly for updates on current park conditions.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
+      "description": "Due to a breakdown of mechanical equipment, repairs are underway for Lake Allom facilities on Kgari. Works are planned to run from 1 October with completion by 1 December, pending favourable weather conditions.",
+      "details": "<p>Due to a breakdown of mechanical equipment, repairs are underway for Lake Allom facilities on Kgari. Works are planned to run from 1 October with completion by 1 December, pending favourable weather conditions.</p> <p>The following facilities are temporarily closed until further notice:</p> <ul> <li>Toilet blocks</li> <li>Water taps</li> </ul> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance works as large machinery may be operating in the area.</p> <p>Thank you for your patience during these maintenance works.</p> <p>Check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> regularly for updates on current park conditions.</p> <p>&nbsp;</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-01",
+      "start_date": "2026-10-29",
       "start_effective_date": "2026-10-01",
-      "end_date": "2026-11-01",
+      "end_date": "2026-12-01",
       "parks": [
         {
           "id": "148007",
@@ -2829,6 +2829,29 @@
       ]
     },
     {
+      "title": "Wet weather access - Salvator Rosa and Ka Ka Mundi sections of Carnarvon National Park",
+      "alert_id": "27104",
+      "url": "https://parks.qld.gov.au/park-alerts/27104",
+      "description": "As a result of wet weather, Carnarvon National Park (Salvator Rosa and Ka Ka Mundi Section) are closed until declared safe",
+      "details": "<p>As a result of wet weather, Carnarvon National Park (Salvator Rosa and Ka Ka Mundi Section) are closed until declared safe</p> <p>QPWS Rangers are monitoring the situation,</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-29",
+      "start_effective_date": "2026-10-26",
+      "end_date": "2026-10-30",
+      "parks": [
+        {
+          "id": "150244",
+          "name": "Ka Ka Mundi, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-ka-ka-mundi"
+        },
+        {
+          "id": "151359",
+          "name": "Salvator Rosa, Carnarvon National Park",
+          "url": "https://parks.qld.gov.au/parks/carnarvon-salvator-rosa"
+        }
+      ]
+    },
+    {
       "title": "Planned burn : Isolated sections of Conway and Dryander National Park",
       "alert_id": "27105",
       "url": "https://parks.qld.gov.au/park-alerts/27105",
@@ -2858,9 +2881,9 @@
       "description": "As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-20",
+      "start_date": "2026-10-29",
       "start_effective_date": "2026-10-19",
-      "end_date": "2026-10-30",
+      "end_date": "2026-11-06",
       "parks": [
         {
           "id": "149497",
@@ -3012,32 +3035,14 @@
       "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
       "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-26",
+      "start_date": "2026-10-29",
       "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-30",
+      "end_date": "2026-11-03",
       "parks": [
         {
           "id": "148199",
           "name": "Tamborine National Park",
           "url": "https://parks.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
-      "title": "Ewen Maddock mountain Bike trail temporarily closed",
-      "alert_id": "27121",
-      "url": "https://parks.qld.gov.au/park-alerts/27121",
-      "description": "The Ewen Maddock Mountain Bike Trail is currently heavily waterlogged due to recent wet weather. To prevent further trail damage, QPWS requests that riders avoid using the trail until conditions improve and sufficient dry weather has allowed the ground to recover.",
-      "details": "<p>The Ewen Maddock Mountain Bike Trail is currently heavily waterlogged due to recent wet weather. To prevent further trail damage, QPWS requests that riders avoid using the trail until conditions improve and sufficient dry weather has allowed the ground to recover.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-22",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-29",
-      "parks": [
-        {
-          "id": "149493",
-          "name": "Beerburrum and Beerwah State Forests",
-          "url": "https://parks.qld.gov.au/parks/beerburrum-beerwah"
         }
       ]
     },
@@ -3048,37 +3053,14 @@
       "description": "Mount Beerwah is temporarily closed due to recent heavy rainfall. All access routes on Mount Beerwah are closed as a precautionary measure following significant rainfall events, as the risk of rockfall is considerably higher. The closure will remain in place for a minimum of seven 7 days, during which Queensland Parks and Wildlife Service will monitor conditions and assess the route for any rockfall or other safety hazards. If no safety concerns are identified, the route will be reopened.",
       "details": "<p>Mount Beerwah is temporarily closed due to recent heavy rainfall. All access routes on Mount Beerwah are closed as a precautionary measure following significant rainfall events, as the risk of rockfall is considerably higher. The closure will remain in place for a minimum of seven 7 days, during which Queensland Parks and Wildlife Service will monitor conditions and assess the route for any rockfall or other safety hazards. If no safety concerns are identified, the route will be reopened.</p> <p>Stay up to date with <a href=\"http://www.bom.gov.au/qld/\">weather forecasts, conditions and warnings</a>.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>The park will reopen when conditions are considered safe.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-10-22",
+      "start_date": "2026-10-29",
       "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-29",
+      "end_date": "2026-11-03",
       "parks": [
         {
           "id": "150189",
           "name": "Glass House Mountains National Park",
           "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
-        }
-      ]
-    },
-    {
-      "title": "Temporary MTB trail closures - Weather Event",
-      "alert_id": "27129",
-      "url": "https://parks.qld.gov.au/park-alerts/27129",
-      "description": "Mountain bike trails will be temporarily closed within Bunyaville and Samford Conservation Park/s due to significant rainfall saturating trail tread and flooding. Trails will remain closed to allow adequate drying to protect the trails from unnecessary damage.",
-      "details": "<p>Mountain bike trails will be temporarily closed within Bunyaville and Samford Conservation Park/s due to significant rainfall saturating trail tread and flooding. Trails will remain closed to allow adequate drying to protect the trails from unnecessary damage.</p> <p>Mountain bike trails will re-open by rangers once assessed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-28",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-10-29",
-      "parks": [
-        {
-          "id": "148139",
-          "name": "Samford Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/samford"
-        },
-        {
-          "id": "148376",
-          "name": "Bunyaville Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/bunyaville"
         }
       ]
     },
@@ -3364,39 +3346,6 @@
           "id": "397374",
           "name": "Daisy Hill Koala Centre",
           "url": "https://parks.qld.gov.au/parks/daisy-hill-koala-centre"
-        }
-      ]
-    },
-    {
-      "title": "Mustering operations and camping area closure: Wairuna section, Girringun National Park, Girringun Conservation Park and Girringun Resources Reserve",
-      "alert_id": "27154",
-      "url": "https://parks.qld.gov.au/park-alerts/27155",
-      "description": "A neighbouring property of Wairuna section, Girringun National Park, Girringun Conservation Park and Girringun Resources Reserve, will be conducting mustering operations on Wednesday 28 October 2026.",
-      "details": "<p>A neighbouring property of Wairuna section, Girringun National Park, Girringun Conservation Park and Girringun Resources Reserve, will be conducting mustering operations on Wednesday 28 October 2026.</p> <p>Wairuna camping area in Girringun National Park will be closed from Tuesday 27 October to Thursday 29 October 2026 (dates inclusive) to allow these operations to occur safely.&nbsp;</p> <p>Authorised helicopters, muster dogs, horses, side-by-sides and motorbikes will be working in the area during this time.</p> <p>Mustering is occurring to remove stray cattle from the camping area and surrounds surrounding parks. These operations help us to conserve the natural and cultural values of the parks.</p> <p>For your safety, please stay away from cattle and mustering operations and exercise caution along roads and tracks.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department&#39;s website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-26",
-      "start_effective_date": "2026-10-27",
-      "end_date": "2026-10-29",
-      "parks": [
-        {
-          "id": "322269",
-          "name": "Girringun Conservation Park",
-          "url": ""
-        },
-        {
-          "id": "322281",
-          "name": "Girringun Resources Reserve",
-          "url": ""
-        },
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
         }
       ]
     },
@@ -3720,6 +3669,70 @@
           "id": "148123",
           "name": "Girringun National Park",
           "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
+      "title": "Temporary Closure : Warracoota Circuit Drive, Diamantina National Park",
+      "alert_id": "27175",
+      "url": "https://parks.qld.gov.au/park-alerts/27175",
+      "description": "Visitors are advised that the Warracoota Circuit Drive on Diamantina National Park is currently impassable due to ongoing wet and boggy road conditions in numerous locations and is temporarily closed until 13 November 2026 when conditions will be reviewed.",
+      "details": "<p>Visitors are advised that the Warracoota Circuit Drive on Diamantina National Park is currently impassable due to ongoing wet and boggy road conditions in numerous locations and is temporarily closed until 13 November 2026 when conditions will be reviewed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-29",
+      "start_effective_date": "2026-10-29",
+      "end_date": "2026-11-13",
+      "parks": [
+        {
+          "id": "148360",
+          "name": "Diamantina National Park",
+          "url": "https://parks.qld.gov.au/parks/diamantina"
+        }
+      ]
+    },
+    {
+      "title": "Wet weather access Minerva Hills National Park",
+      "alert_id": "27178",
+      "url": "https://parks.qld.gov.au/park-alerts/27178",
+      "description": "As a result of wet weather, Minerva Hills National Park is closed until declared safe.",
+      "details": "<p>As a result of wet weather, Minerva Hills National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Commerical tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-10-29",
+      "start_effective_date": "2026-10-29",
+      "end_date": "2026-11-03",
+      "parks": [
+        {
+          "id": "148953",
+          "name": "Minerva Hills National Park",
+          "url": "https://parks.qld.gov.au/parks/minerva-hills"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Albinia National Park, Conservation Park and Resources Reserve.",
+      "alert_id": "27179",
+      "url": "https://parks.qld.gov.au/park-alerts/27179",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 2/11/20266/11/2026, as part of the fire management program for Albinia National Park, Resources Reserve and Conservation Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from 2/11/20266/11/2026, as part of the fire management program for Albinia National Park, Resources Reserve and Conservation Park.</p> <p>During the planned burn these areas are&nbsp;<strong>closed to public access&nbsp;</strong></p> <p>Smoke may be seen in the vicinity of Dawson Highway, Bottle Tree Downs Road and Springwood Road.&nbsp;</p> <p>Planned burns are vital in promoting ecological health, biodiversity, and the conservation of species and habitats. they also aim to mitigate the risk and intensity of bushfires and their potential impacts on communities, infrastructure, parks and forests.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-10-29",
+      "start_effective_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "parks": [
+        {
+          "id": "322759",
+          "name": "Albinia Resources Reserve",
+          "url": ""
+        },
+        {
+          "id": "322712",
+          "name": "Albinia Conservation Park",
+          "url": ""
+        },
+        {
+          "id": "322713",
+          "name": "Albinia National Park",
+          "url": ""
         }
       ]
     }
