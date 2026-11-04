@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 167,
-    "script_run_time": "2026-11-03 17:24:07"
+    "alerts_count": 171,
+    "script_run_time": "2026-11-04 17:37:35"
   },
   "alerts": [
     {
@@ -1520,12 +1520,12 @@
       "title": "Planned Maintenance - Lake Wabby walk",
       "alert_id": "26874",
       "url": "https://parks.qld.gov.au/park-alerts/26874",
-      "description": "Maintenance is planned for Lake Wabby walk in Kgari. Works are planned to run from 10 August to 9 November 2026, pending favourable weather conditions.",
-      "details": "<p>Maintenance is planned for Lake Wabby walk in Kgari. Works are planned to run from 10 August to 9 November 2026, pending favourable weather conditions.</p> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance as large machinery may be operating in the area.</p> <p>Check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> regularly for updates on current park conditions.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
+      "description": "Maintenance is planned for Lake Wabby walk in Kgari. Works are planned to run from 10 August to 7 December 2026, pending favourable weather conditions.",
+      "details": "<p>Maintenance is planned for Lake Wabby walk in Kgari. Works are planned to run from 10 August to 7 December 2026, pending favourable weather conditions.</p> <p>For your safety, visitors should observe all signs, barriers and directions from rangers and contractors during the maintenance as large machinery may be operating in the area.</p> <p>Check <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> regularly for updates on current park conditions.</p> <p><strong>Your safety is our concern, but your responsibility.</strong></p>",
       "category": "Other",
-      "start_date": "2026-08-12",
+      "start_date": "2026-11-04",
       "start_effective_date": "2026-08-10",
-      "end_date": "2026-11-09",
+      "end_date": "2026-12-07",
       "parks": [
         {
           "id": "148007",
@@ -2491,24 +2491,6 @@
       ]
     },
     {
-      "title": "Wet weather  Cedar Creek rock pools closed",
-      "alert_id": "27120",
-      "url": "https://parks.qld.gov.au/park-alerts/27120",
-      "description": "As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.",
-      "details": "<p>As a result of the wet weather, and in accordance with the Cedar Creek track closure policy, access is restricted, and some areas are closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>Closed areas:</p> <ul> <li>Cedar Creek Falls track to rock pools</li> <li>Cedar Creek rock pools</li> </ul> <p>The walking track and rock pools may also be closed after the rain eases to enable QPWS Rangers time to assess any damage resulting from the rain event.</p> <p>The walking track to the Cedar Creek Falls lookout remains open.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-03",
-      "start_effective_date": "2026-10-22",
-      "end_date": "2026-11-04",
-      "parks": [
-        {
-          "id": "148199",
-          "name": "Tamborine National Park",
-          "url": "https://parks.qld.gov.au/parks/tamborine"
-        }
-      ]
-    },
-    {
       "title": "Planned Works - Wedding Board Walk",
       "alert_id": "27130",
       "url": "https://parks.qld.gov.au/park-alerts/27130",
@@ -3325,10 +3307,10 @@
       "title": "Temporary closures for pest management operations: Princess Hills camping area and Wairuna camping area, Girringun National Park",
       "alert_id": "27199",
       "url": "https://parks.qld.gov.au/park-alerts/27199",
-      "description": "Queensland Parks and Wildlife Service will be conducting pest management operations within the Princess Hills and Wairuna sections of Girringun National Park from Sunday 23 November to Thursday 26 November 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting pest management operations within the Princess Hills and Wairuna sections of Girringun National Park from Sunday 23 November to Thursday 26 November 2026 (dates inclusive).</p> <p>During this period the Princess Hills and Wairuna camping areas will be closed.</p> <p>These operations help us to conserve the natural and cultural values of the park. Princess Hills and Wairuna camping areas will reopen as normal from Friday 27&nbsp; November 2026.</p>",
+      "description": "Queensland Parks and Wildlife Service will be conducting pest management operations within the Princess Hills and Wairuna sections of Girringun National Park from Sunday 22 November to Thursday 26 November 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting pest management operations within the Princess Hills and Wairuna sections of Girringun National Park from Sunday 22 November to Thursday 26 November 2026 (dates inclusive).</p> <p>During this period the Princess Hills and Wairuna camping areas will be closed.</p> <p>These operations help us to conserve the natural and cultural values of the park. Princess Hills and Wairuna camping areas will reopen as normal from Friday 27&nbsp; November 2026.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-11-03",
+      "start_date": "2026-11-04",
       "start_effective_date": "2026-11-22",
       "end_date": "2026-11-26",
       "parks": [
@@ -3368,6 +3350,29 @@
       ]
     },
     {
+      "title": "Mustering operations and camping area closure: Wairuna camping area, Wairuna section, Girringun National Park",
+      "alert_id": "27201",
+      "url": "https://parks.qld.gov.au/park-alerts/27201",
+      "description": "A Neighbouring property of Wairuna section of Girringun National Park will be conducting mustering operations in and around the Wairuna camping area from Sunday 15 November to Tuesday 17 November 2026 (dates inclusive).",
+      "details": "<p>A Neighbouring property of Wairuna section of Girringun National Park will be conducting mustering operations in and around the Wairuna camping area from Sunday 15 November to Tuesday 17 November 2026 (dates inclusive).</p> <p>During this period, Wairuna camping area is closed.</p> <p>Authorised helicopters, muster dogs, horses, side by sides and motorbikes may be seen in the area.</p> <p>Aircraft may also be seen from the Princess Hills Section.</p> <p>Mustering is occurring to remove stray cattle from the camping area and surrounding National Park. These operations help us to conserve the natural and cultural values of the park.</p> <p>Please stay away from cattle and mustering operations and exercise caution along roads and tracks.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-04",
+      "start_effective_date": "2026-11-15",
+      "end_date": "2026-11-17",
+      "parks": [
+        {
+          "id": "149513",
+          "name": "Wairuna, Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
       "title": "Drive with caution : Byfield National Park and Byfield Conservation Park access tracks",
       "alert_id": "27202",
       "url": "https://parks.qld.gov.au/park-alerts/27202",
@@ -3382,6 +3387,98 @@
           "id": "148223",
           "name": "Byfield National Park, Conservation Park and State Forest",
           "url": "https://parks.qld.gov.au/parks/byfield"
+        }
+      ]
+    },
+    {
+      "title": "Nara Inlet Audio Box",
+      "alert_id": "27204",
+      "url": "https://parks.qld.gov.au/park-alerts/27204",
+      "description": "Nara Inlet Audio Box - QPWS Rangers will be conducting maintenance on the audio box at Nara Inlet. While Rangers complete these essential upgrades, the audio box will be temporarily out of service. Nearby walking tracks and facilities will remain open. Apologies for any inconvenience.",
+      "details": "<p>Nara Inlet Audio Box - QPWS Rangers will be conducting maintenance on the audio box at Nara Inlet. While Rangers complete these essential upgrades, the audio box will be temporarily out of service. Nearby walking tracks and facilities will remain open. Apologies for any inconvenience.</p>",
+      "category": "Other",
+      "start_date": "2026-11-04",
+      "start_effective_date": "2026-11-04",
+      "end_date": "2026-12-04",
+      "parks": [
+        {
+          "id": "149505",
+          "name": "Whitsunday Islands National Park",
+          "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Bunya Mountain National Park",
+      "alert_id": "27206",
+      "url": "https://parks.qld.gov.au/park-alerts/27206",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from the 5th of November to 9th November 2026, as part of the fire management program for Bunya Mountain National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a planned burn (weather permitting) from the 5th of November to 9th November 2026, as part of the fire management program for Bunya Mountain National Park.</p> <p>Firefighters and machinery may be working along roadsides in the vicinity of Bunya Mountain Rd. For your safety and the safety of firefighters, please slow down and observe all directions and signs.&nbsp;&nbsp;</p> <p>During the planned burn these areas are closed to public access:&nbsp;</p> <ul> <li> <p>Barkers Creek Circuit (including Barkers Creek lookout &amp; Big Falls lookout)&nbsp;from the Paradise Junction, through to the Tim Shea/Scenic Circuit junction.</p> </li> </ul> <p>Smoke may be seen in the vicinity of Bunya Mountain National park. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.&nbsp;</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>&nbsp;</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-11-04",
+      "start_effective_date": "2026-11-04",
+      "end_date": "2026-11-09",
+      "parks": [
+        {
+          "id": "149017",
+          "name": "Bunya Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/bunya-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Severe heatwave on Hinchinbrook Island National Park",
+      "alert_id": "27207",
+      "url": "https://parks.qld.gov.au/park-alerts/27207",
+      "description": "A severe heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 5-10 November (as per current Bureau of Meteorology map).",
+      "details": "<p>A severe heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 5-10 November (as per current Bureau of Meteorology map).</p> <p>Extreme temperatures are predicted to occur on Hinchinbrook Island, refer to the <a href=\"https://www.bom.gov.au/warning/heatwave-warning/IDQ21013\">Heatwave warning details and map (Bureau of Meteorology)</a>. Conditions will be extremely hot and humid, which increases the risk of heat related stress and injuries. QPWS strongly recommends careful consideration of choosing to undertake the Thorsborne Trail hike during this period.</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-04",
+      "start_effective_date": "2026-11-05",
+      "end_date": "2026-11-10",
+      "parks": [
+        {
+          "id": "148420",
+          "name": "Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook"
+        },
+        {
+          "id": "151379",
+          "name": "Thorsborne Trail, Hinchinbrook Island National Park",
+          "url": "https://parks.qld.gov.au/parks/hinchinbrook-thorsborne"
+        }
+      ]
+    },
+    {
+      "title": "QPWS Rainbow Beach Information Centre Closed",
+      "alert_id": "27208",
+      "url": "https://parks.qld.gov.au/park-alerts/27208",
+      "description": "The Rainbow Beach QPWS Information Centre will be closed from 5th November to 24th November (Inclusive).",
+      "details": "<p>The Rainbow Beach QPWS Information Centre will be closed from 5th November to 24th November (Inclusive).</p> <p>The information centre will reopen on Wednesday 25th November.</p> <p>For all park and permit information please visit https://parks.qld.gov.au/.</p> <p>To purchase permits online visit&nbsp;<a href=\"https://book.parks.qld.gov.au/camping\">Queensland National Parks Booking Service | Department of the Environment, Tourism, Science and Innovation, Queensland - Camping</a></p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-04",
+      "start_effective_date": "2026-11-05",
+      "end_date": "2026-11-24",
+      "parks": [
+        {
+          "id": "148007",
+          "name": "K'gari, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/kgari-fraser"
+        },
+        {
+          "id": "149409",
+          "name": "Inskip Peninsula Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/inskip-peninsula"
+        },
+        {
+          "id": "150208",
+          "name": "Cooloola Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
+        },
+        {
+          "id": "148183",
+          "name": "Cooloola Recreation Area, Great Sandy National Park",
+          "url": "https://parks.qld.gov.au/parks/cooloola"
         }
       ]
     }
