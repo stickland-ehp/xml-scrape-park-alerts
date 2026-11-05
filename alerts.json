@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 171,
-    "script_run_time": "2026-11-04 17:37:35"
+    "alerts_count": 172,
+    "script_run_time": "2026-11-05 17:43:05"
   },
   "alerts": [
     {
@@ -1558,24 +1558,6 @@
       ]
     },
     {
-      "title": "Ex HMAS Tobruk public mooring temporary closed",
-      "alert_id": "26880",
-      "url": "https://parks.qld.gov.au/park-alerts/26880",
-      "description": "Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs. Please monitor park alerts on the department's website for updated information.",
-      "details": "<p>Visitors are advised that the Ex HMAS Tobruk public mooring is temporarily closed due to mooring line repairs. Please monitor park alerts on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-30",
-      "start_effective_date": "2026-08-13",
-      "end_date": "2026-11-30",
-      "parks": [
-        {
-          "id": "149461",
-          "name": "Great Sandy Marine Park",
-          "url": "https://parks.qld.gov.au/parks/great-sandy-marine"
-        }
-      ]
-    },
-    {
       "title": "Waddy Beach Front Camping Area: Campsite Booking Restrictions - Dingo Management",
       "alert_id": "26895",
       "url": "https://parks.qld.gov.au/park-alerts/26895",
@@ -2748,24 +2730,6 @@
       ]
     },
     {
-      "title": "Track maintenance works: Twin Bridges track, Kuranda National Park",
-      "alert_id": "27165",
-      "url": "https://parks.qld.gov.au/park-alerts/27165",
-      "description": "Queensland Parks and Wildlife (QPWS) will be conducting maintenance on Twin Bridges track within Kuranda National Park between Monday 2 November and Thursday 5 November 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife (QPWS) will be conducting maintenance on Twin Bridges track within Kuranda National Park between Monday 2 November and Thursday 5 November 2026 (dates inclusive).</p> <p><strong>Twin Bridges track will remain open during this period.</strong></p> <p>Machinery will be in operation along the track. Visitors are advised to take caution and obey instructions from QPWS staff.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Announcement",
-      "start_date": "2026-10-26",
-      "start_effective_date": "2026-11-02",
-      "end_date": "2026-11-05",
-      "parks": [
-        {
-          "id": "148814",
-          "name": "Kuranda National Park and Mowbray National Park",
-          "url": "https://parks.qld.gov.au/parks/kuranda-mowbray"
-        }
-      ]
-    },
-    {
       "title": "Planned burn operations: Maria Creek National Park",
       "alert_id": "27169",
       "url": "https://parks.qld.gov.au/park-alerts/27169",
@@ -2803,24 +2767,6 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Severe weather damage Main Range National Park",
-      "alert_id": "27171",
-      "url": "https://parks.qld.gov.au/park-alerts/27171",
-      "description": "As a result of severe weather damage, some areas in Main Range National Park are closed until declared safe.",
-      "details": "<p>As a result of severe weather damage, some areas in Main Range National Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>Lookout Road at Goomburra</p> </li> <li> <p>Sylvesters and Mount Castle lookouts.</p> </li> <li> <p>North Branch and Aracauria walking tracks.</p> </li> </ul> <p>Manna Gum and Poplar Flat campgrounds remain open.&nbsp;</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-02",
-      "start_effective_date": "2026-10-28",
-      "end_date": "2026-11-05",
-      "parks": [
-        {
-          "id": "148480",
-          "name": "Main Range National Park",
-          "url": "https://parks.qld.gov.au/parks/main-range"
         }
       ]
     },
@@ -3433,9 +3379,9 @@
       "description": "A severe heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 5-10 November (as per current Bureau of Meteorology map).",
       "details": "<p>A severe heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 5-10 November (as per current Bureau of Meteorology map).</p> <p>Extreme temperatures are predicted to occur on Hinchinbrook Island, refer to the <a href=\"https://www.bom.gov.au/warning/heatwave-warning/IDQ21013\">Heatwave warning details and map (Bureau of Meteorology)</a>. Conditions will be extremely hot and humid, which increases the risk of heat related stress and injuries. QPWS strongly recommends careful consideration of choosing to undertake the Thorsborne Trail hike during this period.</p>",
       "category": "Announcement",
-      "start_date": "2026-11-04",
-      "start_effective_date": "2026-11-05",
-      "end_date": "2026-11-10",
+      "start_date": "2026-11-05",
+      "start_effective_date": "2026-11-07",
+      "end_date": "2026-11-11",
       "parks": [
         {
           "id": "148420",
@@ -3479,6 +3425,88 @@
           "id": "148183",
           "name": "Cooloola Recreation Area, Great Sandy National Park",
           "url": "https://parks.qld.gov.au/parks/cooloola"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Baldy Mountain Forest Reserve, Herberton Range National Park and Herberton Range State Forest",
+      "alert_id": "27210",
+      "url": "https://parks.qld.gov.au/park-alerts/27210",
+      "description": "Queensland Parks and Wildlife Service will be conducting planned burn operations in Baldy Mountain Forest Reserve, Herberton Range National Park and Herberton Range State Forest between Thursday 5 November and Friday 6 November 2026 (dates inclusive).",
+      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burn operations in Baldy Mountain Forest Reserve, Herberton Range National Park and Herberton Range State Forest between Thursday 5 November and Friday 6 November 2026 (dates inclusive).</p> <p>Smoke may be visible around these areas during this time and visitors are reminded to remain on formed roads and tracks.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-05",
+      "start_effective_date": "2026-11-05",
+      "end_date": "2026-11-07",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
+        }
+      ]
+    },
+    {
+      "title": "Pest management control program : Bladensburg National Park",
+      "alert_id": "27211",
+      "url": "https://parks.qld.gov.au/park-alerts/27211",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Bladensburg National Park from Monday 9 November to Wednesday 18 November 2026 (weather permitting) as part of the conservation management program for the park. All control activities are conducted in accordance with Bladensburg National Park pest control plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals. Firearms will be in use both on the ground and from the air. As a result, the park will be closed for the duration of the pest management program.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Bladensburg National Park from Monday 9 November to Wednesday 18 November 2026 (weather permitting) as part of the conservation management program for the park. All control activities are conducted in accordance with Bladensburg National Park pest control plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals. Firearms will be in use both on the ground and from the air. As a result, the park will be closed for the duration of the pest management program.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-05",
+      "start_effective_date": "2026-11-09",
+      "end_date": "2026-11-18",
+      "parks": [
+        {
+          "id": "148408",
+          "name": "Bladensburg National Park",
+          "url": "https://parks.qld.gov.au/parks/bladensburg"
+        }
+      ]
+    },
+    {
+      "title": "Road access to Nuga Nuga National Park",
+      "alert_id": "27212",
+      "url": "https://parks.qld.gov.au/park-alerts/27212",
+      "description": "As a result of a large tree falling and blocking the entrance, Nuga Nuga National park is closed until declared safe.",
+      "details": "<p>As a result of a large tree falling and blocking the entrance, Nuga Nuga National park is closed until declared safe.</p> <p>&nbsp;</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-05",
+      "start_effective_date": "2026-11-05",
+      "end_date": "2026-11-11",
+      "parks": [
+        {
+          "id": "148155",
+          "name": "Nuga Nuga National Park",
+          "url": "https://parks.qld.gov.au/parks/nuga-nuga"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn operations: Daintree National Park (CYPAL), Mount Lewis National Park and Ngalba-bulal National Park (CYPAL)",
+      "alert_id": "27213",
+      "url": "https://parks.qld.gov.au/park-alerts/27213",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within Daintree National Park (CYPAL), Mount Lewis National Park and Ngalba-bulal National Park (CYPAL) between Monday 9 November and Wednesday 11 November 2026 (dates inclusive). Aircraft will be operating in the area during this period. Please see below for details of affected areas:",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within Daintree National Park (CYPAL), Mount Lewis National Park and Ngalba-bulal National Park (CYPAL) between Monday 9 November and Wednesday 11 November 2026 (dates inclusive). Aircraft will be operating in the area during this period. Please see below for details of affected areas:</p> <p><strong>Daintree National Park (CYPAL)</strong>&nbsp;-&nbsp;Duncan Creek and&nbsp;Headwaters of Daintree River</p> <p><strong>Mount Lewis National Park</strong></p> <p><strong>Ngalba-bulal National Park (CYPAL) </strong>- currently closed to the public.</p> <p>Most fire activity is expected to self-extinguish by evening, however some fire may remain active and smoke may be visible for 2 to 3 days following ignition. QPWS will monitor fire activity until it is out.&nbsp;</p> <p><strong>No visitor facilities will be closed due to this planned burn</strong>, however smoke, firefighters and aircraft may be seen in the surrounding area.</p> <p>Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation, should close windows and doors and keep medications close by if suffering from a respiratory illness.</p> <p>The aim of these planned burns is to maintain a healthy forest environment and reduce the potential threats from bushfires in periods of dangerous fire weather.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activities. To find out more visit the&nbsp;<a href=\"https://parks.desi.qld.gov.au/management/programs/fire-management\" target=\"_blank\">fire management</a>&nbsp;webpage.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-05",
+      "start_effective_date": "2026-11-09",
+      "end_date": "2026-11-11",
+      "parks": [
+        {
+          "id": "148484",
+          "name": "Mount Lewis National Park",
+          "url": "https://parks.qld.gov.au/parks/mount-lewis"
+        },
+        {
+          "id": "148231",
+          "name": "Ngalba-bulal National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/ngalba-bulal"
+        },
+        {
+          "id": "148131",
+          "name": "Daintree National Park (CYPAL)",
+          "url": "https://parks.qld.gov.au/parks/daintree"
         }
       ]
     }
