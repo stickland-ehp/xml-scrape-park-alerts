@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 162,
-    "script_run_time": "2026-11-12 17:46:21"
+    "alerts_count": 155,
+    "script_run_time": "2026-11-13 17:24:39"
   },
   "alerts": [
     {
@@ -1217,15 +1217,15 @@
       ]
     },
     {
-      "title": "Kinkuna section, Burrum Coast National Park - Water over road",
+      "title": "Kinkuna section, Burrum Coast National Park - Temporarily closed due to water over road",
       "alert_id": "26599",
       "url": "https://parks.qld.gov.au/park-alerts/26599",
-      "description": "Due to recent heavy rainfall and flooding, the northern National Park access off Coonarr road, has been temporarily closed.",
-      "details": "<p>Due to recent heavy rainfall and flooding, the northern National Park access off Coonarr road, has been temporarily closed.</p> <p>Kinkuna bush camping is open with access to the camping area and beach permitted via Southern beach access road.</p> <p>Conditions can change quickly and roads, can be closed due to flooding for safety of public and protection of the National Park. If the road is flooded, do not access the area.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been closed off for rehabilitation purposes. &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply for non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
-      "category": "Park or facility opening",
-      "start_date": "2026-10-23",
+      "description": "Due to recent heavy rainfall and flooding, the northern and southern National Park accesses, has been temporarily closed.",
+      "details": "<p>Due to recent heavy rainfall and flooding, the northern and southern National Park accesses, has been temporarily closed.</p> <p>Kinkuna bush camping is closed.</p> <p>Palm beach road is closed.</p> <p>Southern beach access road is closed.</p> <p>Conditions can change quickly and roads, can be closed due to flooding for safety of public and protection of the National Park. If the road is flooded, do not access the area.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been closed off for rehabilitation purposes. &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply for non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-13",
       "start_effective_date": "2026-10-14",
-      "end_date": "2026-11-25",
+      "end_date": "2026-11-17",
       "parks": [
         {
           "id": "148436",
@@ -1753,29 +1753,6 @@
       ]
     },
     {
-      "title": "Pest Management Control Program  1080 Baiting Curtis Island National Park, Conservation Park, and State Forest",
-      "alert_id": "27006",
-      "url": "https://parks.qld.gov.au/park-alerts/27006",
-      "description": "The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Wednesday the 7th of October and Friday 13th of November 2026.",
-      "details": "<p>The Queensland Parks and Wildlife Service (QPWS) are planning to conduct Feral Animal Control of 1080 baiting in the Northern Section of Curtis Island National Park, State Forest and Conservation Park between Wednesday the 7th of October and Friday 13th of November 2026.</p> <p>These activities are conducted to reduce impacts on Flatback Turtle and Yellow Chat habitats and to reduce predation by feral animals, including feral pigs. QPWS will be installing a number of 1080 warning signs within the area informing the use of 1080 baits.</p> <p>To ensure the safety of the public, no access is permitted to the protected areas North or West of Joey Lees Campground and Access road, or South of Yellow Patch Campground, during the above dates.</p> <p>Access will still be available along the main access tracks to Joey Lees Campgound, North Turtle Street Day Use Area, Turtle Street Campground and Connor Bluff Day Use Area.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Announcement",
-      "start_date": "2026-09-28",
-      "start_effective_date": "2026-10-07",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "322464",
-          "name": "Curtis Island State Forest",
-          "url": ""
-        },
-        {
-          "id": "148884",
-          "name": "Curtis Island National Park and Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/curtis-island"
-        }
-      ]
-    },
-    {
       "title": "Limited access to the Conway Range Trail at Forestry Road trailhead: 28 September 2026 to 30 January 2027.",
       "alert_id": "27031",
       "url": "https://parks.qld.gov.au/park-alerts/27031",
@@ -1844,24 +1821,6 @@
           "id": "148548",
           "name": "Barron Gorge National Park",
           "url": "https://parks.qld.gov.au/parks/barron-gorge"
-        }
-      ]
-    },
-    {
-      "title": "Planned works: Mount Rooper circuit and Coastal Fringe circuit, 02 October to 13 November 2026, Conway National Park",
-      "alert_id": "27041",
-      "url": "https://parks.qld.gov.au/park-alerts/27041",
-      "description": "Planned upgrades to the pedestrian bridges on the Mount Rooper circuit and Coastal Fringe circuit will be conducted from Friday 02 October to Friday 13 November 2026 (weather permitting).",
-      "details": "<p>Planned upgrades to the pedestrian bridges on the Mount Rooper circuit and Coastal Fringe circuit will be conducted from Friday 02 October to Friday 13 November 2026 (weather permitting).</p> <p><strong>Heavy machinery will be in use.</strong></p> <p>As a result, both trails will have changed access conditions for the duration of the planned works:</p> <ul> <li><strong>Mount Rooper circuit</strong> will have a pedestrian detour in place around the first bridge on the trail.</li> <li><strong>Coastal Fringe circuit</strong> will have a pedestrian detour in place around the first bridge located at the trail entrance adjacent to the Conway day use area carpark.</li> </ul> <p><strong>For visitor safety</strong>, access to the Coastal Fringe circuit will be closed from the Haywood Gully way turnoff to the circuit&rsquo;s eastern exit. Trail users must return the same way they came.</p> <p>Please observe all signage, barriers and directions from contractors and rangers. Do not enter the work sites or closed areas.</p> <p>QPWS appreciates your patience and understanding whilst the planned works are underway.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> for Conway National Park for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-09-29",
-      "start_effective_date": "2026-10-02",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "147975",
-          "name": "Conway National Park and Conway Conservation Park",
-          "url": "https://parks.qld.gov.au/parks/conway"
         }
       ]
     },
@@ -2049,24 +2008,6 @@
           "id": "150208",
           "name": "Cooloola Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-cooloola"
-        }
-      ]
-    },
-    {
-      "title": "Temporary Closure Scrub Rd/Red Ash causeways",
-      "alert_id": "27092",
-      "url": "https://parks.qld.gov.au/park-alerts/27092",
-      "description": "Scrub Road causeway and Red Ash (Bellbird Grove) causeway will be closed periodically between Wednesday 14 October and Friday 30 October for flood repair works.",
-      "details": "<p>Scrub Road causeway and Red Ash (Bellbird Grove) causeway will be closed periodically between Wednesday 14 October and Friday 30 October for flood repair works.</p> <p>Access to Scrub Road bushcamp can be made via South Boundary Road (Bullockys Dam gate - Mt Nebo) as an alternative route to Scrub Road.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-27",
-      "start_effective_date": "2026-10-14",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148259",
-          "name": "D'Aguilar National Park",
-          "url": "https://parks.qld.gov.au/parks/daguilar"
         }
       ]
     },
@@ -2600,12 +2541,12 @@
       "title": "Severe weather damage Main Range Conservation Park",
       "alert_id": "27173",
       "url": "https://parks.qld.gov.au/park-alerts/27173",
-      "description": "As a result of severe weather damage, areas in Main Range Conservation Park are closed until declared safe.",
-      "details": "<p>As a result of severe weather damage, areas in Main Range Conservation Park are closed until declared safe.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress.&nbsp;</p> <p>Closed areas:&nbsp;</p> <ul> <li> <p>Glen Rock Camping area</p> </li> <li> <p>Mount Machar track</p> </li> <li> <p>Blackfellow Creek trail</p> </li> <li> <p>Christies Loop</p> </li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-06",
+      "description": "As a result of severe weather damage, some areas in Main Range Conservation Park have been affected.",
+      "details": "<p>As a result of severe weather damage, some areas in Main Range Conservation Park have been affected.</p> <p>QPWS Rangers are managing the situation and have damage repair activities in progress. Please drive to conditions.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-13",
       "start_effective_date": "2026-10-28",
-      "end_date": "2026-11-13",
+      "end_date": "2026-11-27",
       "parks": [
         {
           "id": "148059",
@@ -2648,24 +2589,6 @@
       ]
     },
     {
-      "title": "Temporary Closure : Warracoota Circuit Drive, Diamantina National Park",
-      "alert_id": "27175",
-      "url": "https://parks.qld.gov.au/park-alerts/27175",
-      "description": "Visitors are advised that the Warracoota Circuit Drive on Diamantina National Park is currently impassable due to ongoing wet and boggy road conditions in numerous locations and is temporarily closed until 13 November 2026 when conditions will be reviewed.",
-      "details": "<p>Visitors are advised that the Warracoota Circuit Drive on Diamantina National Park is currently impassable due to ongoing wet and boggy road conditions in numerous locations and is temporarily closed until 13 November 2026 when conditions will be reviewed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-29",
-      "start_effective_date": "2026-10-29",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148360",
-          "name": "Diamantina National Park",
-          "url": "https://parks.qld.gov.au/parks/diamantina"
-        }
-      ]
-    },
-    {
       "title": "Marine Stingers Warning",
       "alert_id": "27180",
       "url": "https://parks.qld.gov.au/park-alerts/27180",
@@ -2685,24 +2608,6 @@
           "id": "152843",
           "name": "K'gari Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-kgari-fraser"
-        }
-      ]
-    },
-    {
-      "title": "Temporary closures due to road maintenance works: Big Crystal Creek, Mount Spec section, Paluma Range National Park",
-      "alert_id": "27181",
-      "url": "https://parks.qld.gov.au/park-alerts/27181",
-      "description": "Visitors are advised that from Monday 9 November to Friday 13 November 2026 (dates inclusive) the following facilities are closed at Big Crystal Creek, Mount Spec section of Paluma Range National Park, due to road and track maintenance works:",
-      "details": "<p>Visitors are advised that from Monday 9 November to Friday 13 November 2026 (dates inclusive) the following facilities are closed at Big Crystal Creek, Mount Spec section of Paluma Range National Park, due to road and track maintenance works:</p> <ul> <li>Big Crystal Creek camping area</li> <li>Big Crystal Creek day-use area (including Paradise Waterhole)</li> <li>Rockslides (including car park and walking track)</li> <li>Spiegelhauer Road - from the Townsville City Council water treatment plant to Rockslides<strong>.</strong></li> </ul> <p>Rangers, contractors and heavy machinery will be working along roads and tracks.</p> <p>For your safety, observe all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p> <p><strong>For campers with an existing booking between 9 November and 13 November 2026 (dates inclusive), please&nbsp;<a href=\"https://parks.desi.qld.gov.au/camping/how-to-make-a-booking/cancel-a-camping-booking\" target=\"_blank\">cancel</a>&nbsp;and request a refund online.</strong></p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-30",
-      "start_effective_date": "2026-11-09",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148452",
-          "name": "Paluma Range National Park",
-          "url": "https://parks.qld.gov.au/parks/paluma-range"
         }
       ]
     },
@@ -2858,24 +2763,6 @@
       ]
     },
     {
-      "title": "Aerial feral animal control activities: Rungulla National Park",
-      "alert_id": "27200",
-      "url": "https://parks.qld.gov.au/park-alerts/27200",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in Rungulla National Park between Monday 9 November and Friday 13 November 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting aerial feral animal control activities in Rungulla National Park between Monday 9 November and Friday 13 November 2026 (dates inclusive).</p> <p>The park is closed for the wet season during this period.<br /> <br /> Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>&nbsp;</p>",
-      "category": "Announcement",
-      "start_date": "2026-11-03",
-      "start_effective_date": "2026-11-09",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148067",
-          "name": "Rungulla National Park",
-          "url": "https://parks.qld.gov.au/parks/rungulla"
-        }
-      ]
-    },
-    {
       "title": "Mustering operations and camping area closure: Wairuna camping area, Wairuna section, Girringun National Park",
       "alert_id": "27201",
       "url": "https://parks.qld.gov.au/park-alerts/27201",
@@ -2920,12 +2807,12 @@
       "title": "Heatwave on Hinchinbrook Island National Park",
       "alert_id": "27207",
       "url": "https://parks.qld.gov.au/park-alerts/27207",
-      "description": "A heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 13-17 November (as per current Bureau of Meteorology map).",
-      "details": "<p>A heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 13-17 November (as per current Bureau of Meteorology map).</p> <p>Extreme temperatures are predicted to occur on Hinchinbrook Island, refer to the <a href=\"https://www.bom.gov.au/warning/heatwave-warning/IDQ21013\">Heatwave warning details and map (Bureau of Meteorology)</a>. Conditions will be extremely hot and humid, which increases the risk of heat related stress and injuries. QPWS strongly recommends careful consideration of choosing to undertake the Thorsborne Trail hike during this period.</p>",
+      "description": "A heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 16-19 November (as per current Bureau of Meteorology map).",
+      "details": "<p>A heatwave warning has been declared for parts of North Queensland, including Hinchinbrook Island for 16-19 November (as per current Bureau of Meteorology map).</p> <p>Extreme temperatures are predicted to occur on Hinchinbrook Island, refer to the <a href=\"https://www.bom.gov.au/warning/heatwave-warning/IDQ21013\">Heatwave warning details and map (Bureau of Meteorology)</a>. Conditions will be extremely hot and humid, which increases the risk of heat related stress and injuries. QPWS strongly recommends careful consideration of choosing to undertake the Thorsborne Trail hike during this period.</p>",
       "category": "Announcement",
-      "start_date": "2026-11-12",
-      "start_effective_date": "2026-11-11",
-      "end_date": "2026-11-15",
+      "start_date": "2026-11-13",
+      "start_effective_date": "2026-11-16",
+      "end_date": "2026-11-19",
       "parks": [
         {
           "id": "148420",
@@ -2991,24 +2878,6 @@
       ]
     },
     {
-      "title": "Road access to Nuga Nuga National Park",
-      "alert_id": "27212",
-      "url": "https://parks.qld.gov.au/park-alerts/27212",
-      "description": "As a result of a large tree falling and blocking the entrance, Nuga Nuga National park is closed until declared safe.",
-      "details": "<p>As a result of a large tree falling and blocking the entrance, Nuga Nuga National park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.&nbsp;</p> <p>&nbsp;All permits for closed areas are suspended for the duration of the closure.&nbsp;&nbsp;</p> <p>&nbsp;Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Refunds can be applied for via your online account at <a href=\"https://www.qld.gov.au/camping\">qld.gov.au/camping</a>.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-10",
-      "start_effective_date": "2026-11-05",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148155",
-          "name": "Nuga Nuga National Park",
-          "url": "https://parks.qld.gov.au/parks/nuga-nuga"
-        }
-      ]
-    },
-    {
       "title": "Increased insect activity: Bagurru camping area and Wallaman Falls day-use area, Girringun National Park",
       "alert_id": "27216",
       "url": "https://parks.qld.gov.au/park-alerts/27216",
@@ -3038,24 +2907,6 @@
           "id": "156541",
           "name": "Wallaman Falls Section, Wet Tropics Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Lockyer National Park",
-      "alert_id": "27217",
-      "url": "https://parks.qld.gov.au/park-alerts/27217",
-      "description": "Due to the current bushfire Lockyer National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.",
-      "details": "<p>Due to the current bushfire Lockyer National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-11-06",
-      "start_effective_date": "2026-11-06",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148287",
-          "name": "Lockyer National Park",
-          "url": "https://parks.qld.gov.au/parks/lockyer"
         }
       ]
     },
@@ -3146,24 +2997,6 @@
           "id": "148818",
           "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
           "url": "https://parks.qld.gov.au/parks/herberton-range"
-        }
-      ]
-    },
-    {
-      "title": "Closures due to planned burn operations: Graham Range camping area and access road, Russell River National Park",
-      "alert_id": "27224",
-      "url": "https://parks.qld.gov.au/park-alerts/27224",
-      "description": "Queensland Parks and Wildlife Service will be conducting planned burning operations (weather permitting) in Russell River National Park from Wednesday 11 November to Friday 13 November 2026 (dates inclusive).",
-      "details": "<p>Queensland Parks and Wildlife Service will be conducting planned burning operations (weather permitting) in Russell River National Park from Wednesday 11 November to Friday 13 November 2026 (dates inclusive).</p> <p>During this period Graham Range camping area and Graham Range access road will be closed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-11-10",
-      "start_effective_date": "2026-11-11",
-      "end_date": "2026-11-13",
-      "parks": [
-        {
-          "id": "148880",
-          "name": "Russell River National Park",
-          "url": "https://parks.qld.gov.au/parks/russell-river"
         }
       ]
     },
@@ -3292,6 +3125,42 @@
           "id": "149505",
           "name": "Whitsunday Islands National Park",
           "url": "https://parks.qld.gov.au/parks/whitsunday-islands"
+        }
+      ]
+    },
+    {
+      "title": "Turtle Encounter bookings",
+      "alert_id": "27231",
+      "url": "https://parks.qld.gov.au/park-alerts/27231",
+      "description": "The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.",
+      "details": "<p>The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.</p> <p><strong>Mon Repos Turtle Centre and Turtle Encounter tours remain OPEN</strong></p> <p>While the booking system is unavailable you can purchase tickets as detailed below:</p> <ul> <li><strong>Turtle Encounter tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> <li>tickets can be purchased at the MRTC <ul> <li>on the day&nbsp;of tour between 9am-2pm</li> <li>or from 6pm on the night&nbsp;of your tour</li> </ul> </li> <li>tickets are available for all dates in November 2026&nbsp;</li> </ul> </li> <li><strong>Turtle Tales day visits and day tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> </ul> </li> </ul> <p>We look forward to welcoming you to the Mon Repos Turtle Centre.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-13",
+      "start_effective_date": "2026-11-13",
+      "end_date": "2026-11-21",
+      "parks": [
+        {
+          "id": "148247",
+          "name": "Mon Repos Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/mon-repos"
+        }
+      ]
+    },
+    {
+      "title": "Planned road works - Mapleton National Park",
+      "alert_id": "27232",
+      "url": "https://parks.qld.gov.au/park-alerts/27232",
+      "description": "Oaky Lookout Road in Mapleton National Park will undergo planned road works from Monday 16 November 2026.",
+      "details": "<p>Oaky Lookout Road in Mapleton National Park will undergo planned road works from Monday 16 November 2026.</p> <p>Road users may experience temporary delays and detours when accessing</p> <p>- Mapleton day use area</p> <p>- Oaky Lookout Road</p> <p>- Gheerulla Trail Bike Area car park</p> <p>Please observe all signage, barriers and directions from machinery operators and do not enter closed areas.</p> <p>For your safety please proceed with caution along all park access roads.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-13",
+      "start_effective_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "parks": [
+        {
+          "id": "148945",
+          "name": "Mapleton National Park",
+          "url": "https://parks.qld.gov.au/parks/mapleton"
         }
       ]
     }
