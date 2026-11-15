@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 153,
-    "script_run_time": "2026-11-14 16:11:14"
+    "alerts_count": 152,
+    "script_run_time": "2026-11-15 16:40:11"
   },
   "alerts": [
     {
@@ -2907,24 +2907,6 @@
           "id": "156541",
           "name": "Wallaman Falls Section, Wet Tropics Great Walk",
           "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
-        }
-      ]
-    },
-    {
-      "title": "Bushfire alert for Minerva Hills National Park",
-      "alert_id": "27218",
-      "url": "https://parks.qld.gov.au/park-alerts/27218",
-      "description": "Due to the current bushfire, Minerva Hills National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The park/forest may also remain closed for a period after the bushfire to ensure the area is safe",
-      "details": "<p>Due to the current bushfire, Minerva Hills National Park is closed. Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation. The park/forest may also remain closed for a period after the bushfire to ensure the area is safe</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.&nbsp;</p> <p>Public safety is the highest consideration in all QPWS fire management activites. To find out more visit the Fire management webpage.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Fire closure or access restriction",
-      "start_date": "2026-11-11",
-      "start_effective_date": "2026-11-06",
-      "end_date": "2026-11-15",
-      "parks": [
-        {
-          "id": "148953",
-          "name": "Minerva Hills National Park",
-          "url": "https://parks.qld.gov.au/parks/minerva-hills"
         }
       ]
     },
