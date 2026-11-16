@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 152,
-    "script_run_time": "2026-11-15 16:40:11"
+    "alerts_count": 155,
+    "script_run_time": "2026-11-16 19:54:30"
   },
   "alerts": [
     {
@@ -1223,9 +1223,9 @@
       "description": "Due to recent heavy rainfall and flooding, the northern and southern National Park accesses, has been temporarily closed.",
       "details": "<p>Due to recent heavy rainfall and flooding, the northern and southern National Park accesses, has been temporarily closed.</p> <p>Kinkuna bush camping is closed.</p> <p>Palm beach road is closed.</p> <p>Southern beach access road is closed.</p> <p>Conditions can change quickly and roads, can be closed due to flooding for safety of public and protection of the National Park. If the road is flooded, do not access the area.</p> <p>Be advised some previous 4WD tracks along environmentally sensitive dune areas have been closed off for rehabilitation purposes. &nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas. Penalties may apply for non permitted use of roads and tracks.&nbsp;<br /> &nbsp;</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-11-13",
+      "start_date": "2026-11-16",
       "start_effective_date": "2026-10-14",
-      "end_date": "2026-11-17",
+      "end_date": "2026-11-19",
       "parks": [
         {
           "id": "148436",
@@ -1235,13 +1235,13 @@
       ]
     },
     {
-      "title": "Upcoming temporary facility closure: amenities block, Josephine Falls, Wooroonooran National Park",
+      "title": "Temporary facility closure: amenities block, Josephine Falls, Wooroonooran National Park",
       "alert_id": "26642",
       "url": "https://parks.qld.gov.au/park-alerts/26642",
       "description": "Visitors are advised that from Monday 16 November 2026 to Friday 15 January 2027 (weather permitting), the amenities block at Josephine Falls, Wooroonooran National Park, will undergo critical maintenance works.",
       "details": "<p>Visitors are advised that from Monday 16 November 2026 to Friday 15 January 2027 (weather permitting), the amenities block at Josephine Falls, Wooroonooran National Park, will undergo critical maintenance works.</p> <p>During this period, the toilets at Josephine Falls will be temporarily closed, however 4 portable toilets&nbsp;will be provided for the duration of the works.</p> <p>Visitors are also advised that commencing in January 2027, the viewing platforms and swimming area will undergo critical maintenance. At certain times in the new year, the following visitor facilities may be impacted by partial closures:</p> <ul> <li>Josephine Falls walking track and swimming areas, including: <ul> <li>Access to bottom pool swimming area.</li> <li>Middle creek viewing platform.</li> <li>Top viewing platform.</li> </ul> </li> </ul> <p>While these critical maintenance works are being completed, we will ensure ongoing access to at least one of the viewing platforms with an anticipated short-term temporary full closure to the swimming area (weather permitting). &nbsp;</p> <p>See <a href=\"https://parks.qld.gov.au/__data/assets/pdf_file/0019/167311/josephine-falls-map.pdf\">Josephine Falls map</a> for further information on visitor facilities.</p> <p><strong>Please monitor park alerts</strong> for the most up-to-date information on access and temporary closures.</p> <p>Please observe all signage, barriers and directions from rangers and contractors and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-11-06",
+      "start_date": "2026-11-16",
       "start_effective_date": "2026-11-16",
       "end_date": "2027-02-28",
       "parks": [
@@ -1825,6 +1825,24 @@
       ]
     },
     {
+      "title": "Planned works: Coastal Fringe circuit, 02 October to 20 November 2026, Conway National Park",
+      "alert_id": "27041",
+      "url": "https://parks.qld.gov.au/park-alerts/27041",
+      "description": "Planned upgrades to the pedestrian bridges and walking track on the Coastal Fringe circuit will be conducted from Friday 02 October to Friday 20 November 2026 (weather permitting).",
+      "details": "<p>Planned upgrades to the pedestrian bridges and walking track on the Coastal Fringe circuit will be conducted from Friday 02 October to Friday 20 November 2026 (weather permitting).</p> <p><strong>Heavy machinery will be in use.</strong></p> <p>As a result, access conditions will change for the duration of the planned works:</p> <ul> <li>The first bridge located at the trail entrance adjacent to the Conway day use area carpark will have a detour in place.</li> <li>Access<strong> </strong>to the circuit will be&nbsp;closed from the Haywood Gully way turnoff to the circuit&rsquo;s eastern exit. Trail users must return the same way they came.</li> </ul> <p>Please observe all signage, barriers and directions from contractors and rangers. Do not enter the work sites or closed areas.</p> <p>QPWS appreciates your patience and understanding whilst the planned works are underway.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> for Conway National Park for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-16",
+      "start_effective_date": "2026-10-02",
+      "end_date": "2026-11-20",
+      "parks": [
+        {
+          "id": "147975",
+          "name": "Conway National Park and Conway Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/conway"
+        }
+      ]
+    },
+    {
       "title": "Northern Road Partial Closure - Urang Creek",
       "alert_id": "27042",
       "url": "https://parks.qld.gov.au/park-alerts/27042",
@@ -2120,12 +2138,12 @@
       "title": "Planned burn : Isolated sections of Conway and Dryander National Park",
       "alert_id": "27105",
       "url": "https://parks.qld.gov.au/park-alerts/27105",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within Isolated sections of Conway and Dryander National Park, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen within the vicinity of Conway Beach, Proserpine, Airlie Beach and Cannonvale. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within Isolated sections of Conway and Dryander National Park, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen within the vicinity of Conway Beach, Proserpine, Airlie Beach and Cannonvale. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within isolated sections of Conway and Dryander National Parks, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen within the vicinity of Conway Beach, Proserpine, Airlie Beach and Cannonvale. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within isolated sections of Conway and Dryander National Parks, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen within the vicinity of Conway Beach, Proserpine, Airlie Beach and Cannonvale. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-10-19",
+      "start_date": "2026-11-16",
       "start_effective_date": "2026-10-21",
-      "end_date": "2026-11-21",
+      "end_date": "2026-12-11",
       "parks": [
         {
           "id": "148187",
@@ -3107,6 +3125,42 @@
           "id": "148945",
           "name": "Mapleton National Park",
           "url": "https://parks.qld.gov.au/parks/mapleton"
+        }
+      ]
+    },
+    {
+      "title": "Fox Control Program for Joseph Banks Conservation Park",
+      "alert_id": "27233",
+      "url": "https://parks.qld.gov.au/park-alerts/27233",
+      "description": "In conjunction with the hatchling season for marine turtles, contractors will be undertaking controlled trapping of the feral fox population within Joseph Banks Conservation Park from 16 to 19 November 2026. All controlled activities are conducted in accordance with the approved pest management plan aimed to reduce impacts on marine turtles from predation by feral animals.",
+      "details": "<p>In conjunction with the hatchling season for marine turtles, contractors will be undertaking controlled trapping of the feral fox population within Joseph Banks Conservation Park from 16 to 19 November 2026. All controlled activities are conducted in accordance with the approved pest management plan aimed to reduce impacts on marine turtles from predation by feral animals.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Other",
+      "start_date": "2026-11-16",
+      "start_effective_date": "2026-11-16",
+      "end_date": "2026-11-19",
+      "parks": [
+        {
+          "id": "148388",
+          "name": "Joseph Banks Conservation Park",
+          "url": "https://parks.qld.gov.au/parks/joseph-banks"
+        }
+      ]
+    },
+    {
+      "title": "Cape Palmerston National Park Temporary Closure for Pest Management Activities - 16-27 November 2026",
+      "alert_id": "27235",
+      "url": "https://parks.qld.gov.au/park-alerts/27235",
+      "description": "Queensland Parks and Wildlife Service will carry out a pest management program in Cape Palmerston National Park from Monday, 23rd November to Friday, 27th November 2026.",
+      "details": "<p>Queensland Parks and Wildlife Service will carry out a pest management program in Cape Palmerston National Park from Monday, 23rd November to Friday, 27th November 2026.</p> <p>The park will be closed, and unauthorised access is prohibited. Firearms and traps may be in use.</p> <p>This work helps protect native plants and wildlife. The park will reopen once the program is complete.</p> <p>Please visit this park's page on the department's website for more park safety information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-16",
+      "start_effective_date": "2026-11-16",
+      "end_date": "2026-11-27",
+      "parks": [
+        {
+          "id": "148832",
+          "name": "Cape Palmerston National Park",
+          "url": "https://parks.qld.gov.au/parks/cape-palmerston"
         }
       ]
     }
