@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 155,
-    "script_run_time": "2026-11-16 19:54:30"
+    "alerts_count": 157,
+    "script_run_time": "2026-11-17 18:49:47"
   },
   "alerts": [
     {
@@ -65,9 +65,9 @@
       "description": "Due to severe erosion, access to Tukkee Wurroo (Indian Head) walking track is closed until further notice.",
       "details": "<p>Due to severe erosion, access to Tukkee Wurroo (Indian Head) walking track is closed until further notice.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2025-11-21",
+      "start_date": "2026-11-17",
       "start_effective_date": "2021-06-14",
-      "end_date": "2026-11-18",
+      "end_date": "2027-11-17",
       "parks": [
         {
           "id": "148007",
@@ -2141,9 +2141,9 @@
       "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within isolated sections of Conway and Dryander National Parks, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen within the vicinity of Conway Beach, Proserpine, Airlie Beach and Cannonvale. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.",
       "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burn operations within isolated sections of Conway and Dryander National Parks, weather permitting, as part of the annual hazard reduction/conservation management program for parks and forests. As a result, smoke may be seen within the vicinity of Conway Beach, Proserpine, Airlie Beach and Cannonvale. The aim of this burn is to reduce the volume of forest fuels and to create a mosaic pattern of burnt and unburnt areas. This will help reduce the intensity of any subsequent wildfires and provide favourable conditions for natural forest regeneration.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
       "category": "Fire closure or access restriction",
-      "start_date": "2026-11-16",
+      "start_date": "2026-11-17",
       "start_effective_date": "2026-10-21",
-      "end_date": "2026-12-11",
+      "end_date": "2026-12-18",
       "parks": [
         {
           "id": "148187",
@@ -2164,9 +2164,9 @@
       "description": "As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.",
       "details": "<p>As a result of wet weather, Culgoa Floodplain National Park is closed until declared safe.</p> <p>QPWS Rangers are monitoring the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Park or facility closure",
-      "start_date": "2026-11-03",
+      "start_date": "2026-11-17",
       "start_effective_date": "2026-10-19",
-      "end_date": "2026-11-20",
+      "end_date": "2026-11-27",
       "parks": [
         {
           "id": "149497",
@@ -2276,24 +2276,6 @@
       ]
     },
     {
-      "title": "Planned Works - Wedding Board Walk",
-      "alert_id": "27130",
-      "url": "https://parks.qld.gov.au/park-alerts/27130",
-      "description": "Planned construction works are currently underway at Walkabout Creek Discovery Centre on the Wedding Boardwalk. These works will temporarily affect access to some areas of the facility.",
-      "details": "<p>Planned construction works are currently underway at Walkabout Creek Discovery Centre on the Wedding Boardwalk. These works will temporarily affect access to some areas of the facility.</p> <p>Clear signage will be in place to direct visitors along alternative routes, and safety barriers have been installed throughout the work area. For your safety, please follow all posted signage, remain behind safety barriers, and comply with any directions provided by construction personnel and Rangers.</p> <p>We appreciate your patience and cooperation while these important works are completed.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-23",
-      "start_effective_date": "2026-11-02",
-      "end_date": "2026-11-17",
-      "parks": [
-        {
-          "id": "200319",
-          "name": "Walkabout Creek Discovery Centre",
-          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Rungulla National Park",
       "alert_id": "27137",
       "url": "https://parks.qld.gov.au/park-alerts/27138",
@@ -2326,29 +2308,6 @@
           "id": "149509",
           "name": "Canyon Resources Reserve",
           "url": "https://parks.qld.gov.au/parks/canyon-resources"
-        }
-      ]
-    },
-    {
-      "title": "Temporary walking track closure: Djinda walk, Wallaman Falls, Girringun National Park",
-      "alert_id": "27141",
-      "url": "https://parks.qld.gov.au/park-alerts/27142",
-      "description": "The Djinda walk at Wallaman Falls will temporarily be closed from Monday 9 November to Friday 20 November 2026 (dates inclusive) to allow replacement of a pedestrian foot bridge.",
-      "details": "<p>The Djinda walk at Wallaman Falls will temporarily be closed from Monday 9 November to Friday 20 November 2026 (dates inclusive) to allow replacement of a pedestrian foot bridge.</p> <p>Please observe and adhere to all safety signage and directions from rangers and contractors.</p> <p>During this period the following visitor facilities will be open to the public:</p> <ul> <li>Wallaman Falls day-use area</li> <li>Wallaman Falls lookout</li> <li>Herbert River Valley lookout</li> <li>Bagurru camping area&nbsp;&nbsp;</li> <li>Bagurru walk.&nbsp;</li> </ul> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-10-23",
-      "start_effective_date": "2026-11-09",
-      "end_date": "2026-11-20",
-      "parks": [
-        {
-          "id": "149453",
-          "name": "Wallaman Falls, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wallaman"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
         }
       ]
     },
@@ -2677,9 +2636,9 @@
       "description": "Heavy rain and storms have caused damage to various sections of the Scenic Rim Trail",
       "details": "<p>Heavy rain and storms have caused damage to various sections of the Scenic Rim Trail</p> <p>Heavy rain and storms have damaged sections of the Scenic Rim Trail, including tree falls, track surface damage and damaged water crossings.</p> <p>The track may be hard to follow in places, and the surface may be unstable and slippery. Please use caution and allow extra time to complete each day&rsquo;s walk.</p> <p>With the ground already saturated, further rain may cause more damage and affect water crossings. Be mindful of changing conditions.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>For your safety please use caution whilst visiting the park.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
       "category": "Announcement",
-      "start_date": "2026-11-02",
+      "start_date": "2026-11-17",
       "start_effective_date": "2026-11-02",
-      "end_date": "2026-11-20",
+      "end_date": "2026-11-27",
       "parks": [
         {
           "id": "148480",
@@ -2772,29 +2731,6 @@
           "id": "151363",
           "name": "Princess Hills, Girringun National Park",
           "url": "https://parks.qld.gov.au/parks/girringun-princess-hills"
-        },
-        {
-          "id": "148123",
-          "name": "Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun"
-        }
-      ]
-    },
-    {
-      "title": "Mustering operations and camping area closure: Wairuna camping area, Wairuna section, Girringun National Park",
-      "alert_id": "27201",
-      "url": "https://parks.qld.gov.au/park-alerts/27201",
-      "description": "A Neighbouring property of Wairuna section of Girringun National Park will be conducting mustering operations in and around the Wairuna camping area from Sunday 15 November to Tuesday 17 November 2026 (dates inclusive).",
-      "details": "<p>A Neighbouring property of Wairuna section of Girringun National Park will be conducting mustering operations in and around the Wairuna camping area from Sunday 15 November to Tuesday 17 November 2026 (dates inclusive).</p> <p>During this period, Wairuna camping area is closed.</p> <p>Authorised helicopters, muster dogs, horses, side by sides and motorbikes may be seen in the area.</p> <p>Aircraft may also be seen from the Princess Hills Section.</p> <p>Mustering is occurring to remove stray cattle from the camping area and surrounding National Park. These operations help us to conserve the natural and cultural values of the park.</p> <p>Please stay away from cattle and mustering operations and exercise caution along roads and tracks.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-04",
-      "start_effective_date": "2026-11-15",
-      "end_date": "2026-11-17",
-      "parks": [
-        {
-          "id": "149513",
-          "name": "Wairuna, Girringun National Park",
-          "url": "https://parks.qld.gov.au/parks/girringun-wairuna"
         },
         {
           "id": "148123",
@@ -2902,9 +2838,9 @@
       "description": "Recent warmer weather has seen increased levels of insect activity at Bagurru camping area and Wallaman Falls day-use area.",
       "details": "<p>Recent warmer weather has seen increased levels of insect activity at Bagurru camping area and Wallaman Falls day-use area.</p> <p>Insects that may be encountered include&nbsp;march flies, mosquitos and midges.</p> <p>&nbsp;Campers and visitors should avoid insect bites by:</p> <ul> <li>applying suitable repellent</li> <li>wearing long sleeve shirts and long pants to cover exposed skin.</li> </ul>",
       "category": "Announcement",
-      "start_date": "2026-11-06",
+      "start_date": "2026-11-17",
       "start_effective_date": "2026-11-06",
-      "end_date": "2026-11-20",
+      "end_date": "2026-12-04",
       "parks": [
         {
           "id": "151383",
@@ -3161,6 +3097,101 @@
           "id": "148832",
           "name": "Cape Palmerston National Park",
           "url": "https://parks.qld.gov.au/parks/cape-palmerston"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure for aerial pest management activities: Annan River (Yuku Baja-Muliku) National Park and Resources Reserve",
+      "alert_id": "27236",
+      "url": "https://parks.qld.gov.au/park-alerts/27236",
+      "description": "Annan River (Yuku Baja-Muliku) National Park and Resources Reserve will be temporarily closed from Tuesday 1 December to Friday 4 December 2026 due to an aerial pest management program.",
+      "details": "<p>Annan River (Yuku Baja-Muliku) National Park and Resources Reserve will be temporarily closed from Tuesday 1 December to Friday 4 December 2026 due to an aerial pest management program.</p> <p>For your safety, comply with all signage and directions issued from local rangers during this period and do not enter closed areas.</p> <p>For further information please contact Senior Ranger Janie White&nbsp;at&nbsp;janie.white@detsi.qld.gov.au.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-17",
+      "start_effective_date": "2026-12-01",
+      "end_date": "2026-12-04",
+      "parks": [
+        {
+          "id": "322734",
+          "name": "Annan River (Yuku Baja-Muliku) Resources Reserve",
+          "url": ""
+        },
+        {
+          "id": "148372",
+          "name": "Annan River (Yuku Baja-Muliku) National Park",
+          "url": "https://parks.qld.gov.au/parks/annan-river"
+        }
+      ]
+    },
+    {
+      "title": "Queen Mary Fall - Temporary Closure",
+      "alert_id": "27237",
+      "url": "https://parks.qld.gov.au/park-alerts/27237",
+      "description": "As a result of heavy rainfall, the Queen Mary Falls circuit is currently closed until declared safe.",
+      "details": "<p>As a result of heavy rainfall, the Queen Mary Falls circuit is currently closed until declared safe.</p> <p>Access remains open to the day use area and lookout.&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Due to the changed conditions the visitor experience may be affected.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Facilities will reopen when conditions are considered safe.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-17",
+      "start_effective_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "parks": [
+        {
+          "id": "148480",
+          "name": "Main Range National Park",
+          "url": "https://parks.qld.gov.au/parks/main-range"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Springbrook National Park",
+      "alert_id": "27238",
+      "url": "https://parks.qld.gov.au/park-alerts/27238",
+      "description": "Due to a current bushfire, the Warrie circuit will remain temporarily closed until declared safe.",
+      "details": "<p>Due to a current bushfire, the Warrie circuit will remain temporarily closed until declared safe.</p> <p>Bushfire response activities are in progress and QPWS Rangers will continue to manage the situation.</p> <p>All permits for closed areas are suspended for the duration of the closure.</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-11-17",
+      "start_effective_date": "2026-11-17",
+      "end_date": "2026-11-20",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Planned burn for Warro National Park",
+      "alert_id": "27239",
+      "url": "https://parks.qld.gov.au/park-alerts/27239",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 17th of November to the 1st of December 2026, as part of the fire management program for Warro National Park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting planned burns (weather permitting) from the 17th of November to the 1st of December 2026, as part of the fire management program for Warro National Park.</p> <p>Firefighters and machinery will be working along John Clifford Way. For your safety and the safety of firefighters, please slow down and observe all directions and signs.</p> <p>During the planned burn these areas are <strong>closed to public access:</strong></p> <ul> <li>Warro N.P</li> </ul> <p>Smoke may be seen in the vicinity of Gindoran, Kolonga Lowmead &amp; Mt Maria. Persons with respiratory or other health problems should seek medical advice on mitigating the effects of smoke inhalation.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Other",
+      "start_date": "2026-11-17",
+      "start_effective_date": "2026-11-17",
+      "end_date": "2026-12-01",
+      "parks": [
+        {
+          "id": "322737",
+          "name": "Warro National Park",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Planned Event - Mount Cougal section",
+      "alert_id": "27240",
+      "url": "https://parks.qld.gov.au/park-alerts/27240",
+      "description": "Pending favourable weather conditions, a planned event within Mount Cougal (Cougal Cascades) section of Springbrook National Park will occur on Friday 20 November and Monday 23 to Tuesday 24 November 2026.",
+      "details": "<p>Pending favourable weather conditions, a planned event within Mount Cougal (Cougal Cascades) section of Springbrook National Park will occur on Friday 20 November and Monday 23 to Tuesday 24 November 2026.</p> <p>As a result, the following areas will be <strong>temporarily closed</strong> for the duration of the event:</p> <ul> <li>Cascades walking track</li> <li>Cougal Cascades carpark</li> <li>Currumbin Creek Road (south of number 1807)</li> </ul> <p>The visitor experience may also be impacted from Monday 17 November to Friday 27 November 2026 while equipment for the event is set up and packed down, however the site will remain open other than on the three event days.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-17",
+      "start_effective_date": "2026-11-17",
+      "end_date": "2026-11-25",
+      "parks": [
+        {
+          "id": "148516",
+          "name": "Springbrook National Park",
+          "url": "https://parks.qld.gov.au/parks/springbrook"
         }
       ]
     }
