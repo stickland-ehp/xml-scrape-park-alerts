@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 157,
-    "script_run_time": "2026-11-17 18:49:47"
+    "alerts_count": 159,
+    "script_run_time": "2026-11-18 18:28:46"
   },
   "alerts": [
     {
@@ -2814,24 +2814,6 @@
       ]
     },
     {
-      "title": "Pest management control program : Bladensburg National Park",
-      "alert_id": "27211",
-      "url": "https://parks.qld.gov.au/park-alerts/27211",
-      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Bladensburg National Park from Monday 9 November to Wednesday 18 November 2026 (weather permitting) as part of the conservation management program for the park. All control activities are conducted in accordance with Bladensburg National Park pest control plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals. Firearms will be in use both on the ground and from the air. As a result, the park will be closed for the duration of the pest management program.",
-      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Bladensburg National Park from Monday 9 November to Wednesday 18 November 2026 (weather permitting) as part of the conservation management program for the park. All control activities are conducted in accordance with Bladensburg National Park pest control plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals. Firearms will be in use both on the ground and from the air. As a result, the park will be closed for the duration of the pest management program.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-05",
-      "start_effective_date": "2026-11-09",
-      "end_date": "2026-11-18",
-      "parks": [
-        {
-          "id": "148408",
-          "name": "Bladensburg National Park",
-          "url": "https://parks.qld.gov.au/parks/bladensburg"
-        }
-      ]
-    },
-    {
       "title": "Increased insect activity: Bagurru camping area and Wallaman Falls day-use area, Girringun National Park",
       "alert_id": "27216",
       "url": "https://parks.qld.gov.au/park-alerts/27216",
@@ -3035,9 +3017,9 @@
       "description": "The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.",
       "details": "<p>The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.</p> <p><strong>Mon Repos Turtle Centre and Turtle Encounter tours remain OPEN</strong></p> <p>While the booking system is unavailable you can purchase tickets as detailed below:</p> <ul> <li><strong>Turtle Encounter tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> <li>tickets can be purchased at the MRTC <ul> <li>on the day&nbsp;of tour between 9am-2pm</li> <li>or from 6pm on the night&nbsp;of your tour</li> </ul> </li> <li>tickets are available for all dates in November 2026&nbsp;</li> </ul> </li> <li><strong>Turtle Tales day visits and day tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> </ul> </li> </ul> <p>We look forward to welcoming you to the Mon Repos Turtle Centre.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Announcement",
-      "start_date": "2026-11-13",
+      "start_date": "2026-11-18",
       "start_effective_date": "2026-11-13",
-      "end_date": "2026-11-21",
+      "end_date": "2026-12-05",
       "parks": [
         {
           "id": "148247",
@@ -3192,6 +3174,65 @@
           "id": "148516",
           "name": "Springbrook National Park",
           "url": "https://parks.qld.gov.au/parks/springbrook"
+        }
+      ]
+    },
+    {
+      "title": "Bushfire alert for Bilwon State Forest",
+      "alert_id": "27241",
+      "url": "https://parks.qld.gov.au/park-alerts/27241",
+      "description": "Due to the current bushfire, Bilwon State Forest is closed to the public until declared safe. Bushfire response activities are in progress and Queensland Parks and Wildlife Service (QPWS) rangers will continue to manage the situation. The forest may remain closed for a period after the bushfire to allow for safety assessments and hazard removal.",
+      "details": "<p>Due to the current bushfire, Bilwon State Forest is closed to the public until declared safe. Bushfire response activities are in progress and Queensland Parks and Wildlife Service (QPWS) rangers will continue to manage the situation. The forest may remain closed for a period after the bushfire to allow for safety assessments and hazard removal.</p> <p>For your safety, do not enter the forest or any closed areas.</p> <p>Visitors should be aware that post-fire hazards may be present, including:</p> <ul> <li>Smouldering logs and stumps</li> <li>Falling trees and branches</li> <li>Unstable fire-affected vegetation</li> <li>Firefighting vehicles and machinery operating in the area</li> </ul> <p>Public safety is the highest consideration during bushfire response and recovery operations. The forest will reopen when conditions are considered safe.</p> <p>The park will reopen when conditions are considered safe.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Stay up-to-date with <a href=\"https://www.fire.qld.gov.au/Current-Incidents\">Current bushfire warnings and incidents</a> from Queensland Fire Department (QFD).</p>",
+      "category": "Fire closure or access restriction",
+      "start_date": "2026-11-18",
+      "start_effective_date": "2026-11-12",
+      "end_date": "2026-11-30",
+      "parks": [
+        {
+          "id": "322398",
+          "name": "Bilwon State Forest",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "Mount Ngungun temporary closure",
+      "alert_id": "27242",
+      "url": "https://parks.qld.gov.au/park-alerts/27242",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Glass House Mountains National Park (Mount Ngungun section) (weather permitting) as part of the conservation management program for the park from 5pm AEST Thursday 19th November 2026 until 8am AEST Friday 20th November 2026.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a pest management control program at Glass House Mountains National Park (Mount Ngungun section) (weather permitting) as part of the conservation management program for the park from 5pm AEST Thursday 19th November 2026 until 8am AEST Friday 20th November 2026.</p> <p>All control activities are conducted in accordance with Glass House Mountain National Park pest managmeent plan and help to protect native plants and wildlife from the harmful effects of introduced plants and animals.&nbsp;</p> <p>As a result, the following areas are temporarily closed for the duration of the pest management program:&nbsp;</p> <ul> <li> <p>All Mount Ngungun summit tracks</p> </li> <li> <p>All rock climbing areas</p> </li> </ul> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p> <p>Facilities will reopen when the event is completed.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please visit this park's page on the department's website for alternative nearby park attractions and experiences.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-18",
+      "start_effective_date": "2026-11-19",
+      "end_date": "2026-11-20",
+      "parks": [
+        {
+          "id": "150189",
+          "name": "Glass House Mountains National Park",
+          "url": "https://parks.qld.gov.au/parks/glass-house-mountains"
+        }
+      ]
+    },
+    {
+      "title": "Temporary closure of Bummiera (Brown Lake) and Flinders Beach access tracks.",
+      "alert_id": "27243",
+      "url": "https://parks.qld.gov.au/park-alerts/27243",
+      "description": "The access tracks to Bummiera (Brown Lake) and Flinders Beach will be temporarily closed to enable repairs.",
+      "details": "<p>The access tracks to Bummiera (Brown Lake) and Flinders Beach will be temporarily closed to enable repairs.</p> <p>Machinery will be working to conduct surface repairs at the access track to Bummiera (Brown Lake) and the access track to Flinders Beach.&nbsp; During this time, both access tracks will be closed.&nbsp; Vehicle and pedestrian access will not permitted during these works.</p> <p>Facilities will reopen when conditions are considered safe.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-18",
+      "start_effective_date": "2026-11-24",
+      "end_date": "2026-11-26",
+      "parks": [
+        {
+          "id": "150268",
+          "name": "Naree Budjong Djara National Park",
+          "url": "https://parks.qld.gov.au/parks/naree-budjong-djara"
+        },
+        {
+          "id": "148315",
+          "name": "Minjerribah Recreation Area",
+          "url": "https://parks.qld.gov.au/parks/minjerribah"
         }
       ]
     }
