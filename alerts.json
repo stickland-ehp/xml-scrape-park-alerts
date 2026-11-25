@@ -1,7 +1,7 @@
 {
   "summary": {
-    "alerts_count": 178,
-    "script_run_time": "2026-11-24 20:24:34"
+    "alerts_count": 181,
+    "script_run_time": "2026-11-25 19:38:38"
   },
   "alerts": [
     {
@@ -2333,24 +2333,6 @@
       ]
     },
     {
-      "title": "Bulburin National Park temporarily closed - Wet weather access closure",
-      "alert_id": "27157",
-      "url": "https://parks.qld.gov.au/park-alerts/27158",
-      "description": "As a result of wet weather, access is restricted, and areas are closed until declared safe. QPWS Rangers are monitoring the situation.",
-      "details": "<p>As a result of wet weather, access is restricted, and areas are closed until declared safe. QPWS Rangers are monitoring the situation.</p> <p>Closed areas include:</p> <p>- Old Forestry camp ground</p> <p>- Zamia camp ground</p> <p>- Range view camp ground</p> <p>- All roads</p> <p>Commercial tour operators and other permit or agreement holders are not permitted to enter closed areas.</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-11",
-      "start_effective_date": "2026-10-26",
-      "end_date": "2026-11-25",
-      "parks": [
-        {
-          "id": "148151",
-          "name": "Bulburin National Park",
-          "url": "https://parks.qld.gov.au/parks/bulburin"
-        }
-      ]
-    },
-    {
       "title": "Wet season closure: Olkola National Park (CYPAL)",
       "alert_id": "27158",
       "url": "https://parks.qld.gov.au/park-alerts/27159",
@@ -2839,9 +2821,9 @@
       "alert_id": "27231",
       "url": "https://parks.qld.gov.au/park-alerts/27231",
       "description": "The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.",
-      "details": "<p>The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.</p> <p><strong>Mon Repos Turtle Centre and Turtle Encounter tours remain OPEN</strong></p> <p>While the booking system is unavailable you can purchase tickets as detailed below:</p> <ul> <li><strong>Turtle Encounter tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> <li>tickets can be purchased at the MRTC <ul> <li>on the day&nbsp;of tour between 9am-2pm</li> <li>or from 6pm on the night&nbsp;of your tour</li> </ul> </li> <li>tickets are available for all dates in November 2026&nbsp;</li> </ul> </li> <li><strong>Turtle Tales day visits and day tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> </ul> </li> </ul> <p>We look forward to welcoming you to the Mon Repos Turtle Centre.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "details": "<p>The Queensland National Parks booking system is currently deactivated, following a cyber security incident involving our third-party booking provider, Bookeasy.</p> <p><strong>Mon Repos Turtle Centre and Turtle Encounter tours remain OPEN</strong></p> <p>While the booking system is unavailable you can purchase tickets as detailed below:</p> <ul> <li><strong>Turtle Encounter tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> <li>tickets can be purchased at the MRTC <ul> <li>on the day&nbsp;of tour between 9am-2pm</li> <li>or from 6pm on the night&nbsp;of your tour</li> </ul> </li> <li>tickets are available for all dates in November 2026&nbsp;</li> </ul> </li> <li><strong>Turtle Tales day visits and day tours:</strong> <ul> <li>visit the Mon Repos Turtle Centre (MRTC) to purchase your ticket at the front counter</li> </ul> </li> </ul> <p><a href=\"https://parks.qld.gov.au/contactus/important-security-update#bookings\">More information about the booking system is available here</a>.</p> <p>We look forward to welcoming you to the Mon Repos Turtle Centre.</p> <p>&nbsp;</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
       "category": "Announcement",
-      "start_date": "2026-11-18",
+      "start_date": "2026-11-25",
       "start_effective_date": "2026-11-13",
       "end_date": "2026-12-05",
       "parks": [
@@ -2908,24 +2890,6 @@
           "id": "322737",
           "name": "Warro National Park",
           "url": ""
-        }
-      ]
-    },
-    {
-      "title": "Planned Event - Mount Cougal section",
-      "alert_id": "27240",
-      "url": "https://parks.qld.gov.au/park-alerts/27240",
-      "description": "Pending favourable weather conditions, a planned event within Mount Cougal (Cougal Cascades) section of Springbrook National Park will occur on Friday 20 November and Monday 23 to Tuesday 24 November 2026.",
-      "details": "<p>Pending favourable weather conditions, a planned event within Mount Cougal (Cougal Cascades) section of Springbrook National Park will occur on Friday 20 November and Monday 23 to Tuesday 24 November 2026.</p> <p>As a result, the following areas will be <strong>temporarily closed</strong> for the duration of the event:</p> <ul> <li>Cascades walking track</li> <li>Cougal Cascades carpark</li> <li>Currumbin Creek Road (south of number 1807)</li> </ul> <p>The visitor experience may also be impacted from Monday 17 November to Friday 27 November 2026 while equipment for the event is set up and packed down, however the site will remain open other than on the three event days.</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
-      "category": "Park or facility closure",
-      "start_date": "2026-11-17",
-      "start_effective_date": "2026-11-17",
-      "end_date": "2026-11-25",
-      "parks": [
-        {
-          "id": "148516",
-          "name": "Springbrook National Park",
-          "url": "https://parks.qld.gov.au/parks/springbrook"
         }
       ]
     },
@@ -3507,6 +3471,39 @@
       ]
     },
     {
+      "title": "Wet season closure: Wet Tropics Great Walk and associated camp sites, Girringun National Park",
+      "alert_id": "27274",
+      "url": "https://parks.qld.gov.au/park-alerts/27274",
+      "description": "The Wet Tropics Great Walk and the associated camp sites listed below will close for the wet season on Tuesday 1 December 2026. They are anticipated to reopen Thursday 1 April 2027, subject to track and weather conditions.",
+      "details": "<p>The Wet Tropics Great Walk and the associated camp sites listed below will close for the wet season on Tuesday 1 December 2026. They are anticipated to reopen Thursday 1 April 2027, subject to track and weather conditions.</p> <p>&bull;&nbsp;&nbsp; &nbsp;Pack Trail walkers&rsquo; camp<br /> &bull;&nbsp;&nbsp; &nbsp;Yamanie camp site<br /> &bull;&nbsp;&nbsp; &nbsp;Stony Creek walkers&rsquo; camp<br /> &bull;&nbsp;&nbsp; &nbsp;Blanket Creek walkers&rsquo; camp<br /> &bull;&nbsp;&nbsp; &nbsp;Herbert River camping zone</p> <p>Please monitor <a href=\"https://parks.qld.gov.au/park-alerts\">park alerts</a> on the department's website for updated information.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-25",
+      "start_effective_date": "2026-12-01",
+      "end_date": "2027-03-31",
+      "parks": [
+        {
+          "id": "158157",
+          "name": "Juwun and Jambal walks, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-juwun-jabal"
+        },
+        {
+          "id": "156541",
+          "name": "Wallaman Falls Section, Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics-wallaman"
+        },
+        {
+          "id": "151383",
+          "name": "Wet Tropics Great Walk",
+          "url": "https://parks.qld.gov.au/parks/great-walks-wet-tropics"
+        },
+        {
+          "id": "148123",
+          "name": "Girringun National Park",
+          "url": "https://parks.qld.gov.au/parks/girringun"
+        }
+      ]
+    },
+    {
       "title": "Upcoming wet season closure: Rinyirru (Lakefield) National Park (CYPAL)",
       "alert_id": "27275",
       "url": "https://parks.qld.gov.au/park-alerts/27275",
@@ -3580,6 +3577,78 @@
           "id": "148031",
           "name": "Idalia National Park",
           "url": "https://parks.qld.gov.au/parks/idalia"
+        }
+      ]
+    },
+    {
+      "title": "Online Booking System Temporarily Unavailable",
+      "alert_id": "27279",
+      "url": "https://parks.qld.gov.au/park-alerts/27279",
+      "description": "Online bookings are temporarily unavailable. Visitors can still make bookings in person and through contacting the Information desk.",
+      "details": "<p>Online bookings are temporarily unavailable. Visitors can still make bookings in person and through contacting the Information desk.</p> <p>Bookings for<strong>&nbsp;Junior Ranger Programs in January&nbsp;</strong>are now open. However, our online booking system is currently unavailable.</p> <p>To secure a booking or obtain further information, please contact the Walkabout Creek Discovery Centre directly.</p> <p><strong>Phone:</strong> (07) 3164 3600<br /> <strong>Email:</strong> WalkaboutCreek@detsi.qld.gov.au</p> <p><a href=\"https://parks.qld.gov.au/contactus/important-security-update#bookings\">More information about the booking system outage is available here</a>.</p> <p>Thank you for your patience whilst the booking system is unavailable.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-25",
+      "start_effective_date": "2026-11-25",
+      "end_date": "2026-12-31",
+      "parks": [
+        {
+          "id": "200319",
+          "name": "Walkabout Creek Discovery Centre",
+          "url": "https://parks.qld.gov.au/parks/walkabout-creek-discovery-centre"
+        }
+      ]
+    },
+    {
+      "title": "Camping permit release for Capricornia Cays National Park",
+      "alert_id": "27280",
+      "url": "https://parks.qld.gov.au/park-alerts/27280",
+      "description": "A camping permit release for the Capricornia Cays National Park is planned for Tuesday 1 December 2026. QPWS is monitoring the situation with the national park booking system outage and may have to change the date of the camping permit release.",
+      "details": "<p>A camping permit release for the Capricornia Cays National Park is planned for Tuesday 1 December 2026. QPWS is monitoring the situation with the national park booking system outage and may have to change the date of the camping permit release.</p> <p>Queensland&rsquo;s national parks booking system is temporarily unavailable following a cyber security incident involving thrid-party booking provider, Bookeasy.&nbsp;At this stage it is unknown when the national park booking system will be operational again.&nbsp;</p> <p>QPWS will advise if there is a date change for the Capricornia Cays National Park camping permit release this Friday 27 November 2026. Advice will be updated on the DETSI webapge&nbsp;<a href=\"https://urldefense.com/v3/__http:/www.qld.gov.au/CapCaysCamping__;!!PUY2jUP3Fp7oEg!GpCdNPRgdw5Q_7jODbzJv7oZt02AxYK9AA_imcZ-k7lwpyqLPo8a3DGbTzhq5GKMmJ4ja16DTNSgKkS6EkIqw7USPO7ivU_6$\">www.qld.gov.au/CapCaysCamping</a>&nbsp;and Park Alerts.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-25",
+      "start_effective_date": "2026-11-25",
+      "end_date": "2026-12-01",
+      "parks": [
+        {
+          "id": "149473",
+          "name": "Capricornia Cays National Park",
+          "url": "https://parks.qld.gov.au/parks/capricornia-cays"
+        }
+      ]
+    },
+    {
+      "title": "Pest Management Control",
+      "alert_id": "27281",
+      "url": "https://parks.qld.gov.au/park-alerts/27281",
+      "description": "Queensland Parks and Wildlife Service (QPWS) will be conducting a Pest Management Control Program at the following Capricornia Cays National Park including; Tryon Island, Mast Head Island, Hoskyn Island (East and West), Fairfax Island (East and West) from 1000 hours on Friday 4th December 2026 until 2359 hours on 10th December 2026 (weather permitting) as part of the conservation management program for the park.",
+      "details": "<p>Queensland Parks and Wildlife Service (QPWS) will be conducting a Pest Management Control Program at the following Capricornia Cays National Park including; Tryon Island, Mast Head Island, Hoskyn Island (East and West), Fairfax Island (East and West) from 1000 hours on Friday 4th December 2026 until 2359 hours on 10th December 2026 (weather permitting) as part of the conservation management program for the park.</p> <p>All control activities are conducted in accordance with pest management plans and help to protect native plants and wildlife from the harmful effects of pest animals.</p> <p>The program will consist of live firing operations on the ground.&nbsp;</p> <p>As a result, the following Islands will be temporarily closed with an additional 2000m exclusion zone extended seaward from the high water mark will be in force for all land and waters contained within the following areas for the duration of the pest management program:</p> <ul> <li>Tryon Island- Latitude&nbsp; 23&deg; 14.805&rsquo;S, Longitude 151&deg; 46.754&rsquo;E</li> <li>Mast Head Island- Latitude&nbsp; 23&deg; 32.311&lsquo;S, Longitude 151&deg; 43.616&lsquo;E</li> <li>Hoskyn Island&nbsp;(East)-&nbsp;Latitude&nbsp; 23&deg; 48.075&lsquo;S, Longitude 152&deg; 17.998&rsquo;E</li> <li>Hoskyn Island&nbsp;(West)- 23&deg; 48.416&lsquo;S, Longitude 152&deg; 17.442&rsquo;E</li> <li>Fairfax Island&nbsp;(East)- Latitude&nbsp; 23&deg; 51.309&lsquo;S, Longitude 152&deg; 22.561&rsquo;E</li> <li>Fairfax Island (West)- 23&deg; 51.555&lsquo;S, Longitude 152&deg; 22.106&rsquo;E</li> </ul> <p>This exclusion zone applies to all vessels around these areas. All vessels at these anchorages must depart before the exclusion zone commences and are to remain clear during these times.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>Please observe all signage, barriers and directions from rangers and do not enter closed areas.</p>",
+      "category": "Park or facility closure",
+      "start_date": "2026-11-25",
+      "start_effective_date": "2026-12-04",
+      "end_date": "2026-12-10",
+      "parks": [
+        {
+          "id": "149473",
+          "name": "Capricornia Cays National Park",
+          "url": "https://parks.qld.gov.au/parks/capricornia-cays"
+        }
+      ]
+    },
+    {
+      "title": "Organised event: Atherton Forest Mountain Bike Park",
+      "alert_id": "27282",
+      "url": "https://parks.qld.gov.au/park-alerts/27282",
+      "description": "An organised event will be taking place at Atherton Forest Mountain Bike Park on Saturday 28 and Sunday 29 November 2026.",
+      "details": "<p>An organised event will be taking place at Atherton Forest Mountain Bike Park on Saturday 28 and Sunday 29 November 2026.</p> <p>During this period all trails will remain open, however visitors are advised that there may be a higher than normal number of riders on the trails.&nbsp;</p>",
+      "category": "Announcement",
+      "start_date": "2026-11-25",
+      "start_effective_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "parks": [
+        {
+          "id": "148818",
+          "name": "Herberton Range National Park, Herberton Range Conservation Park, Herberton Range State Forest and Baldy Mountain Forest Reserve",
+          "url": "https://parks.qld.gov.au/parks/herberton-range"
         }
       ]
     }
